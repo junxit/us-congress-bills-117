@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 21
@@ -30,3 +30,9 @@ FedRAMP Authorization Act
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Referred to the House Committee on Oversight and Reform.
+- 2021-01-05 — Considered under suspension of the rules. (consideration: CR H58-62)
+- 2021-01-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 21.
+- 2021-01-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-01-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2021-01-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H58-60)
+- 2021-01-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H58-60)
