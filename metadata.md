@@ -1,7 +1,7 @@
 ---
 measure: H.R. 27
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 27
@@ -33,3 +33,9 @@ Settlement Agreement Information Database Act of 2021
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-01-04 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-01-05 — Considered under suspension of the rules. (consideration: CR H69-71)
+- 2021-01-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 27.
+- 2021-01-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-01-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2021-01-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H69-70)
+- 2021-01-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H69-70)
