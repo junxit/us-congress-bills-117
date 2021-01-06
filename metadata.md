@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 26
@@ -20,10 +20,11 @@ Construction Consensus Procurement Improvement Act of 2021
 
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,14 @@ Construction Consensus Procurement Improvement Act of 2021
 - 2021-01-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H68)
 - 2021-01-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H68)
 - 2021-01-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-07-13 — Passed Senate without amendment by Unanimous Consent.
+- 2021-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-07-13 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S4860-4861)
+- 2021-07-13 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S4860-4861)
+- 2021-07-14 — Message on Senate action sent to the House.
+- 2021-07-21 — Presented to President.
+- 2021-07-21 — Presented to President.
+- 2021-07-26 — Became Public Law No: 117-28.
+- 2021-07-26 — Became Public Law No: 117-28.
+- 2021-07-26 — Signed by President.
+- 2021-07-26 — Signed by President.
