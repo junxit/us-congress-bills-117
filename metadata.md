@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 21
@@ -36,3 +36,4 @@ FedRAMP Authorization Act
 - 2021-01-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-01-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H58-60)
 - 2021-01-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H58-60)
+- 2021-01-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
