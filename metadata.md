@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 22
@@ -45,3 +45,4 @@ Congressional Budget Justification Transparency Act of 2021
 - 2021-01-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-01-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 2 (Roll no. 9). (text: CR H62)
 - 2021-01-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 2 (Roll no. 9).(text: CR H62)
+- 2021-01-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
