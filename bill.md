@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 248
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 248
+
+> To amend title 23, United States Code, to expand eligibility for the surface transportation block grant program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Farm-to-Market Road Repair Act of 2021”.
+
+## § 2. Surface transportation block grant program
+
+Section 133 of title 23, United States Code, is amended—
+
+- **(1)** in subsection (b) by adding at the end the following:
+  > - **(16)** Roads in rural areas that primarily serve to transport agricultural products from a farm or ranch to a marketplace.
+
+- **(2)** in subsection (g)—
+  - **(A)** in the heading by striking “5,000” and inserting “50,000”; and
+  - **(B)** in paragraph (1) by striking “subsection (d)(1)(A)(ii)” and all that follows through the period at the end and inserting “clauses (iii) and (iv) of subsection (d)(1)(A) for each fiscal year may be obligated on roads functionally classified as rural minor collectors or local roads or on critical rural freight corridors designated under section 167(e).”.
