@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 272
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 272
+
+> To amend the National Marine Sanctuaries Act to prescribe an additional requirement for the designation of marine sanctuaries off the coast of Alaska, and for other purposes.
+
+## § 1. Limitation on authority to designate marine sanctuaries
+
+Section 303 of the National Marine Sanctuaries Act (16 U.S.C. 1433) is amended—
+
+- **(1)** in subsection (a), by striking “The Secretary may” and inserting “Subject to subsection (c), the Secretary may”; and
+- **(2)** by adding at the end the following:
+  > - **(c)** *Limitation* The Secretary may not designate as a national marine sanctuary any area of the marine environment off the coast of Alaska seaward of the high tide line unless an Act of Congress—
+  >   - **(1)** requires the Secretary to make such a designation; and
+  >   - **(2)** prescribes the boundaries of the area to be given such designation by the Secretary.
