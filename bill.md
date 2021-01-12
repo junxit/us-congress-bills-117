@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 284
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 284
+
+> To require uniformed officers of the United States Capitol Police to utilize body-worn cameras while on duty.
+
+## § 1. Short title
+
+This Act may be cited as the “Require USCP to Utilize Body-Worn Cameras Act”.
+
+## § 2. Requiring uniformed United States Capitol Police officers to utilize body-worn cameras while on duty
+
+- **(a)** *Requirement* Each uniformed officer of the United States Capitol Police whose job duties include interacting with the general public shall utilize a body-worn camera and ensure that the body-worn camera is activated while on duty.
+- **(b)** *Exception for officers on personal protection detail* Subsection (a) does not apply to an officer during any time in which the officer is serving on a personal protection detail.
+- **(c)** *Regulations* The Capitol Police Board shall promulgate such regulations as may be necessary to carry out this Act.
