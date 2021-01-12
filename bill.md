@@ -2,7 +2,7 @@
 legis-num: H. RES. 21
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 21
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas on Wednesday, January 6, 2021, the day fixed by the Constitution for the counting of electoral votes, Congress experienced a massive violent invasion of the United States Capitol and its complex by a dangerous insurrectionary mob which smashed windows and used violent physical force and weapons to overpower and outmaneuver the United States Capitol Police and facilitated the illegal entry into the Capitol of hundreds, if not thousands, of unauthorized persons (all of whom entered the Capitol complex without going through metal detectors and other security screening devices);
+- Whereas on Wednesday, January 6, 2021, the day prescribed under section 15 of title 3, United States Code, for the counting of electoral votes, Congress experienced a massive violent invasion of the United States Capitol and its complex by a dangerous insurrectionary mob which smashed windows and used violent physical force and weapons to overpower and outmaneuver the United States Capitol Police and facilitated the illegal entry into the Capitol of hundreds, if not thousands, of unauthorized persons (all of whom entered the Capitol complex without going through metal detectors and other security screening devices);
 - Whereas, the insurrectionary mob threatened the safety and lives of the Vice President, the Speaker of the House, and the President pro tempore of the Senate, the first three individuals in the line of succession to the presidency, as the rioters were recorded chanting “Hang Mike Pence” and “Where’s Nancy” when President Donald J. Trump tweeted to his supporters that “Mike Pence didn’t have the courage to do what should have been done to protect our country” after the Capitol had been overrun and the Vice President was in hiding;
 - Whereas the insurrectionary mob attacked law enforcement officers, unleashed chaos and terror among Members and staffers and their families, occupied the Senate Chamber and Speaker Nancy Pelosi’s office along with other leadership offices, vandalized and pilfered government property, and succeeded in interfering with the counting of electoral votes in the joint session of Congress;
 - Whereas the insurrectionary mob’s violent attacks on law enforcement and invasion of the Capitol complex caused the unprecedented disruption of the Electoral College count process for a 4-hour period in both the House and the Senate, a dangerous and destabilizing impairment of the peaceful transfer of power that these insurrectionary riots were explicitly designed to cause;
