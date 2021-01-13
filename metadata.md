@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 40
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 40
@@ -25,3 +25,5 @@ Appointing and authorizing managers for the impeachment trial of Donald John Tru
 - 2021-01-12 — Introduced in House
 - 2021-01-12 — Introduced in House
 - 2021-01-12 — Referred to the House Committee on the Judiciary.
+- 2021-01-13 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 41, H. Res. 40 is considered passed House.(consideration: CR H192; text: CR H192)
+- 2021-01-13 — Pursuant to the provisions of H. Res. 41, H. Res. 40 is considered passed House. (consideration: CR H192; text: CR H192)
