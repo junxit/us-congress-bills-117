@@ -1,0 +1,22 @@
+---
+legis-num: H. RES. 44
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 44
+
+> Directing the Department of Justice to open a criminal investigation into President Donald J. Trump for his involvement in and incitement of the violent attacks at the United States Capitol on January 6, 2021.
+
+## Preamble
+
+- Whereas President Trump held a rally on January 6, 2021, during which he encouraged the crowd to storm the United States Capitol, resulting in a violent uprising against the authority of the United States;
+- Whereas in his address to the crowd that led to the attack on the United States Capitol on January 6, 2021, President Trump stated, “We’re gathered together in the heart of our Nation’s Capital for very, very basic and simple reason: to save our democracy … you have to get your people to fight … if you don’t fight like hell, you’re not going to have a country anymore … so we’re going to walk down Pennsylvania Avenue and we’re going to the Capitol.”;
+- Whereas under section 373 of title 18, United States Code, the Federal crime of solicitation to commit a crime of violence applies to “Whoever, with intent that another person engage in conduct constituting a felony that has as an element the use, attempted use, or threatened use of physical force against property or against the person of another in violation of the laws of the United States, and under circumstances strongly corroborative of that intent, solicits, commands, induces, or otherwise endeavors to persuade such other person to engage in such conduct …”;
+- Whereas the attack on the United States Capitol on January 6, 2021, conducted by the crowd President Trump addressed, constitutes a rebellion or insurrection against the authority of the United States;
+- Whereas the attack on the United States Capitol on January 6, 2021, conducted by the crowd President Trump addressed, constitutes seditious conspiracy under section 2384 of title 18, United States Code, according to the Department of Justice memorandum on September 17, 2020, which states, “Section 2384 does not require proof of a plot to overthrow the U.S. Government … it also applies to conspiracies with any of the following objects: to oppose by force the authority [of the Government of the United States]; by force to prevent, hinder, or delay the execution of any law of the United States; or by force to seize, take, or possess any property of the United States contrary to the authority thereof.”;
+- Whereas no citizen of the United States is above the law, even the President of the United States or a former President of the United States; and
+- Whereas, as of January 20, 2021, at 12:01 p.m., the Department of Justice memorandum issued in 1973 that prevents Federal prosecutors from charging a sitting President with a crime no longer applies to Donald J. Trump: Now, therefore, be it
+
+That the House of Representatives directs the Department of Justice to open a criminal investigation into Donald J. Trump for his actions related to the attack on the United States Capitol on January 6, 2021.
