@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 41
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
