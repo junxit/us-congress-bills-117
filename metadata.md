@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 24
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 24
@@ -16,7 +16,7 @@ Impeaching Donald John Trump, President of the United States, for high crimes an
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Cosponsors (160)
+## Cosponsors (217)
 
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
@@ -178,6 +178,63 @@ Impeaching Donald John Trump, President of the United States, for high crimes an
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
 
 ## Committees (1)
 
@@ -188,3 +245,11 @@ Impeaching Donald John Trump, President of the United States, for high crimes an
 - 2021-01-11 — Introduced in House
 - 2021-01-11 — Introduced in House
 - 2021-01-11 — Referred to the House Committee on the Judiciary.
+- 2021-01-13 — Considered under the provisions of rule H. Res. 41. (consideration: CR H165-192)
+- 2021-01-13 — DEBATE - The House proceeded with two hours of debate on H. Res. 24.
+- 2021-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-01-13 — On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 197 (Roll no. 17). (text: CR H165)
+- 2021-01-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 197 (Roll no. 17).(text: CR H165)
+- 2021-01-13 — Rule H. Res. 41 passed House.
+- 2021-01-13 — Rule provides for consideration of H. Res. 24 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.
+- 2021-01-13 — The previous question was ordered pursuant to the rule.
