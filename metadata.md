@@ -1,7 +1,7 @@
 ---
 measure: S. 12
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 12
@@ -24,3 +24,6 @@ A bill to provide for an exception to a limitation against appointment of person
 
 - 2021-01-03 — Introduced in Senate
 - 2021-01-03 — Read twice and referred to the Committee on Armed Services.
+- 2021-01-21 — Committee on Armed Services. Reported by Senator Inhofe without amendment. Without written report.
+- 2021-01-21 — Committee on Armed Services. Reported by Senator Inhofe without amendment. Without written report.
+- 2021-01-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.
