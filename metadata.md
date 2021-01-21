@@ -1,7 +1,7 @@
 ---
 measure: H.R. 335
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 335
@@ -38,3 +38,7 @@ To provide for an exception to a limitation against appointment of persons as Se
 - 2021-01-21 — Presented to President.
 - 2021-01-21 — Received in the Senate, read twice, considered, read the third time, and passed (under the order of 1/21/21, having achieved 60 votes in the affirmative) without amendment by Yea-Nay Vote. 69 - 27. Record Vote Number: 4. (consideration: CR S86-87)
 - 2021-01-21 — The previous question was ordered pursuant to a previous  order of the House.
+- 2021-01-22 — Became Public Law No: 117-1.
+- 2021-01-22 — Became Public Law No: 117-1.
+- 2021-01-22 — Signed by President.
+- 2021-01-22 — Signed by President.
