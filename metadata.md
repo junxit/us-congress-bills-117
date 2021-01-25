@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 24
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Res. 24
@@ -253,3 +253,4 @@ Impeaching Donald John Trump, President of the United States, for high crimes an
 - 2021-01-13 — Rule H. Res. 41 passed House.
 - 2021-01-13 — Rule provides for consideration of H. Res. 24 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.
 - 2021-01-13 — The previous question was ordered pursuant to the rule.
+- 2021-01-25 — Received in the Senate.
