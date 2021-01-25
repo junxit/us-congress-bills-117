@@ -2,7 +2,7 @@
 legis-num: H. RES. 24
 congress: 117th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. RES. 24
