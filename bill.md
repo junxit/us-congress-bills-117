@@ -1,0 +1,15 @@
+---
+legis-num: S. RES. 17
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 17
+
+> Expressing the sense of the Senate that clean water is a national priority and that the April 21, 2020, Navigable Waters Protection Rule should not be withdrawn or vacated.
+
+That it is the sense of the Senate that—
+
+- **(1)** clean water is a national priority; and
+- **(2)** the final rule of the Corps of Engineers and the Environmental Protection Agency entitled “The Navigable Waters Protection Rule: Definition of “Waters of the United States”” (85 Fed. Reg. 22250 (April 21, 2020)) should not be withdrawn or vacated.
