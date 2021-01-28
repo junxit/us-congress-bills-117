@@ -1,0 +1,18 @@
+---
+legis-num: S. 89
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 89
+
+> To require the Secretary of Veterans Affairs to secure medical opinions for veterans with service-connected disabilities who die from COVID–19 to determine whether their service-connected disabilities were the principal or contributory causes of death, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring Survivor Benefits During COVID–19 Act of 2021”.
+
+## § 2. Medical opinions for certain veterans with service-connected disabilities who die of COVID–19
+
+In any case in which a veteran with one or more service-connected disabilities dies, the death certificate identifies Coronavirus Disease 2019 (COVID–19) as the principal or contributory cause of death, the death certificate does not clearly identify any of the service-connected disabilities as the principal or contributory cause of death, and a claim for benefits is filed with respect to the veteran under chapter 13 of title 38, Unites States Code, the Secretary of Veterans Affairs shall secure a medical opinion to determine if a service-connected disability was the principal or contributory cause of death.
