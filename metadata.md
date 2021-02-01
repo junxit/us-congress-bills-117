@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 10
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 10
@@ -33,3 +33,4 @@ Permitting the remains of the late United States Capitol Police Officer Brian D.
 - 2021-02-01 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S213)
 - 2021-02-01 — Referred to the House Committee on House Administration.
 - 2021-02-01 — Without objection, the Chair laid before the House H. Con. Res. 10. (consideration: CR H255)
+- 2021-02-02 — Message on Senate action sent to the House.
