@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 73
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 73
@@ -27,3 +27,5 @@ Providing the Sergeant-at-Arms with the authority to fine Members, Delegates, or
 - 2021-02-01 — Introduced in House
 - 2021-02-01 — Referred to the Committee on House Administration, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-01 — Referred to the Committee on House Administration, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-02-02 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 85, H. Res. 73 is considered passed House.(consideration: CR H274-275; text: CR H274-275)
+- 2021-02-02 — Pursuant to the provisions of H. Res. 85, H. Res. 73 is considered passed House. (consideration: CR H274-275; text: CR H274-275)
