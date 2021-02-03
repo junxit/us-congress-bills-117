@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 755
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 755
+
+> To amend the Social Security Act to require a certification that States and units of local governments will not impact the operations of a small business concern to receive funds from the Coronavirus Relief Fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Right to Earn a Living Act of 2021”.
+
+## § 2. Certification to receive funds from coronavirus relief fund
+
+Section 601 of the Social Security Act (42 U.S.C. 801) is amended—
+
+- **(1)** by redesignating subsections (f) and (g) as subsections (g) and (h), respectively;
+- **(2)** by inserting after subsection (e) the following new subsection:
+  > - **(f)** *Certification requirement To keep small business concerns open*
+  >   - **(1)** *In general* In order to receive a payment under this section, a State or unit of local government shall provide the Secretary with a certification signed by the Chief Executive of such State or unit of local government that such Chief Executive shall not implement an order, without legislative action by the State or unit of local government, that—
+  >     - **(A)** prevents a small business concern from operating; or
+  >     - **(B)** places limitations on the hours or occupancy of a small business concern.
+  >   - **(2)** *Applicability* The certification required under paragraph (1) shall apply to any receipt of funds after the date of the enactment of the “Right to Earn a Living Act of 2021”.
+
+- **(3)** in subsection (h), as redesignated by paragraph (1), by inserting the following new paragraph:
+  > - **(6)** *Small business concern* The term “small business concern” has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632).
