@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 11
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 11
