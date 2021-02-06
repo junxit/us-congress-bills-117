@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 5
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
