@@ -1,0 +1,142 @@
+---
+measure: H.Res. 118
+congress: 117
+version: Introduced in House
+---
+
+# H.Res. 118
+
+Expressing support for the Iranian people's desire for a democratic, secular, and nonnuclear Republic of Iran and condemning violations of human rights and state-sponsored terrorism by the Iranian Government.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+
+## Cosponsors (112)
+
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Perry, Scott [R-PA-10] (P000605)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. LaHood, Darin [R-IL-18] (L000585)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Keller, Fred [R-PA-12] (K000395)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Miller, Carol D. [R-WV-3] (M001205)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Hagedorn, Jim [R-MN-1] (H001088)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2021-02-11 — Introduced in House
+- 2021-02-11 — Introduced in House
+- 2021-02-11 — Referred to the House Committee on Foreign Affairs.
