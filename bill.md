@@ -1,0 +1,22 @@
+---
+legis-num: S. 318
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 318
+
+> To require the publication of the name of any person pardoned by the President, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Presidential Pardon Transparency Act of 2021”.
+
+## § 2. Publication of pardons
+
+Not later than 3 days after the date on which the President grants any reprieve or pardon for an offense against the United States, the Attorney General shall publish in the Federal Register and on the official website of the President the following:
+
+- **(1)** The name of the person.
+- **(2)** The date on which the reprieve or pardon was issued.
+- **(3)** The full text of the reprieve or pardon.
