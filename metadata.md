@@ -1,7 +1,7 @@
 ---
 measure: S. 422
 congress: 117
-version: Engrossed in Senate
+version: Introduced in Senate
 ---
 
 # S. 422
