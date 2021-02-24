@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 147
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 147
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 803) to designate certain lands in
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2021-02-24 — [House 117-1-34](votes/house-117-1-0034.md) — On Ordering the Previous Question — **Passed** (219–211)
+- 2021-02-24 — [House 117-1-35](votes/house-117-1-0035.md) — On Agreeing to the Resolution — **Passed** (218–208)
+
 ## Actions
 
 - 2021-02-23 — Introduced in House
@@ -27,3 +32,10 @@ Providing for consideration of the bill (H.R. 803) to designate certain lands in
 - 2021-02-23 — Rule provides for 1 hour of general debate on H.R. 803 and one motion to recommit. Rule provides for 90 minutes of general debate on H.R. 5 and one motion to recommit.
 - 2021-02-23 — The House Committee on Rules reported an original measure, H. Rept. 117-6, by Ms. Scanlon.
 - 2021-02-23 — The House Committee on Rules reported an original measure, H. Rept. 117-6, by Ms. Scanlon.
+- 2021-02-24 — Considered as privileged matter. (consideration: CR H602-609)
+- 2021-02-24 — Considered as unfinished business. (consideration: CR H609-610)
+- 2021-02-24 — DEBATE - The House proceeded with one hour of debate on H. Res. 147.
+- 2021-02-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-02-24 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 35). (text: CR H602)
+- 2021-02-24 — On ordering the previous question Agreed to by the Yeas and Nays: 219 - 211 (Roll no. 34). (consideration: CR H608-609)
+- 2021-02-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 35).(text: CR H602)
