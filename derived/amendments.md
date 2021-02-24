@@ -1,7 +1,7 @@
 ---
 measure: S. 422
 congress: 117
-version: Introduced in Senate
+version: Enrolled Bill
 derived: true
 ---
 
