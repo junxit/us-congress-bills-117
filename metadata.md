@@ -1,7 +1,7 @@
 ---
 measure: H.R. 264
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 264
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 1101 Ch
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 1101 Ch
 - 2021-02-23 — Mr. Mfume moved to suspend the rules and pass the bill.
 - 2021-02-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H552)
 - 2021-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H552)
+- 2021-02-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
