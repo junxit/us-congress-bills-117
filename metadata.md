@@ -1,7 +1,7 @@
 ---
 measure: H.R. 447
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 447
@@ -110,10 +110,11 @@ National Apprenticeship Act of 2021
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -186,3 +187,5 @@ National Apprenticeship Act of 2021
 - 2021-02-05 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2021-02-05 — The previous question was ordered on the amendment (A006) pursuant to the rule.
 - 2021-02-05 — The previous question was ordered pursuant to the rule.
+- 2021-02-24 — Mr. Scott (VA) asked unanimous consent that the Clerk be directed to make a change in the engrossment of H.R. 447 to strike lines 1 through 6 on page 21 and insert revised language. Agreed to without objection.
+- 2021-02-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
