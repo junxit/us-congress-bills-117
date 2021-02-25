@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -16,7 +16,7 @@ Equality Act
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Cosponsors (223)
+## Cosponsors (224)
 
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
@@ -241,6 +241,7 @@ Equality Act
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Bowman, Jamaal [D-NY-16] (B001223)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 
 ## Committees (5)
 
@@ -249,6 +250,11 @@ Equality Act
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+
+## Recorded votes (2)
+
+- 2021-02-25 — [House 117-1-39](votes/house-117-1-0039.md) — On Passage — **Passed** (224–206)
+- 2021-02-25 — [House 117-1-40](votes/house-117-1-0040.md) — Table Motion to Reconsider — **Passed** (211–195)
 
 ## Actions
 
@@ -259,3 +265,14 @@ Equality Act
 - 2021-02-18 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Financial Services, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-18 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Financial Services, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-18 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Financial Services, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-02-23 — Rules Committee Resolution H. Res. 147 Reported to House. Rule provides for consideration of H.R. 803 and H.R. 5. Rule provides for 1 hour of general debate on H.R. 803 and one motion to recommit. Rule provides for 90 minutes of general debate on H.R. 5 and one motion to recommit.
+- 2021-02-24 — Rule H. Res. 147 passed House.
+- 2021-02-25 — Considered under the provisions of rule H. Res. 147. (consideration: CR H633-661)
+- 2021-02-25 — DEBATE - The House proceeded with 90 minutes of debate on H.R. 5.
+- 2021-02-25 — Mr. Cicilline moved to table the motion to reconsider
+- 2021-02-25 — Mr. Kildee moved to reconsider.
+- 2021-02-25 — On passage Passed by the Yeas and Nays: 224 - 206 (Roll no. 39). (text: CR H634-637)
+- 2021-02-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 206 (Roll no. 39).(text: CR H634-637)
+- 2021-02-25 — Rule provides for consideration of H.R. 803 and H.R. 5. Rule provides for 1 hour of general debate on H.R. 803 and one motion to recommit. Rule provides for 90 minutes of general debate on H.R. 5 and one motion to recommit.
+- 2021-02-25 — Table the motion to reconsider Agreed to by the Yeas and Nays: 211 - 195 (Roll no. 40).
+- 2021-02-25 — The previous question was ordered pursuant to the rule.
