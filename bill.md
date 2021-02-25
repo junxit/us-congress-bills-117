@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1347
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1347
+
+> To amend section 242 of title 18, United States Code, to forbid the use of chokeholds by persons subject to that provision’s prohibitions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Eric Garner Excessive Use of Force Prevention Act of 2021”.
+
+## § 2. Chokeholds as civil rights violations
+
+Section 242 of title 18, United States Code, is amended by adding at the end the following: “For the purposes of this section, the application of any pressure to the throat or windpipe, use of maneuvers that restrict blood or oxygen flow to the brain, or carotid artery restraints which prevent or hinder breathing or reduce intake of air is a punishment, pain, or penalty.”.
