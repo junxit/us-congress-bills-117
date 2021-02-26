@@ -1,0 +1,30 @@
+---
+legis-num: H. RES. 174
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 174
+
+> Memorializing those impacted by and lost to the COVID–19 virus.
+
+## Preamble
+
+- Whereas the first Monday in March would be an appropriate day to be recognized as COVID–19 Victims and Survivors Memorial Day;
+- Whereas COVID–19 (SARS–CoV–2), a novel coronavirus, is a deadly illness caused by a virus that can transmit from person to person;
+- Whereas, in 2020, COVID–19 began to spread throughout the world, creating a global pandemic that has had a catastrophic impact on human life, our communities, and our economy;
+- Whereas, in March 2020, communities in every State began to experience increased loss of life, and families lost fathers, mothers, brothers, sisters, sons, daughters, and neighbors from the virus;
+- Whereas, beginning in 2020, many across the United States were and continue to be personally impacted by COVID–19 including mourning their loved ones and neighbors or suffering from the unknown long-term health implications of the virus;
+- Whereas, by the end of February 2021, there were more than 28,065,000 known cases of the virus in the United States, and more than 500,000 people tragically lost their lives;
+- Whereas COVID-19 has had a disproportionate impact on low-income communities and communities of color—with higher rates of infection and death—exacerbating inequities already prevalent in our systems that we must address as a Nation;
+- Whereas public servants, frontline and essential workers, and health care professionals took selfless actions to protect their neighbors and communities, support struggling local economies, and find innovative ways to provide services;
+- Whereas local, State, Tribal, and Federal Government entities provided critical support to businesses, communities, and Americans in need;
+- Whereas the COVID–19 pandemic continues to have an impact on the United States and countries around the world; and
+- Whereas each life lost to COVID–19, each inequity and broken system brought to light, and each sacrifice made shall never be forgotten: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** will memorialize those lost to the COVID–19 virus;
+- **(2)** recognizes the suffering of those who contracted the COVID–19 virus and survived but carry with them the unknown health side effects; and
+- **(3)** expresses support for the designation of COVID–19 Victims and Survivors Memorial Day.
