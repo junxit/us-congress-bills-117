@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 1452
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1452
+
+> To direct the Secretary of Health and Human Services to publish the formula the Secretary uses to determine the allocation of COVID–19 vaccines, and for other purposes.
+
+## § 1. Publication of vaccine distribution formula
+
+The Secretary of Health and Human Services shall—
+
+- **(1)** publish the formula the Secretary uses to determine the allocation of COVID–19 vaccines to States, localities, the Department of Defense, the Department of Veterans Affairs, the Indian Health Service, the Department of Homeland Security, and other Federal agencies, as appropriate; and
+- **(2)** in publishing such formula, include the sources of data used for determining such formula.
