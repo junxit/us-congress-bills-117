@@ -1,7 +1,7 @@
 ---
 measure: H.R. 803
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 803
@@ -22,10 +22,11 @@ Protecting America's Wilderness and Public Lands Act
 - Rep. Crow, Jason [D-CO-6] (C001121)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Armed Services Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Protecting America's Wilderness and Public Lands Act
 - 2021-02-26 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-02-26 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-02-26 — The previous question was ordered pursuant to the rule.
+- 2021-03-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
