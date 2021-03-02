@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5
@@ -271,3 +271,6 @@ Equality Act
 - 2021-02-25 — Rule provides for consideration of H.R. 803 and H.R. 5. Rule provides for 1 hour of general debate on H.R. 803 and one motion to recommit. Rule provides for 90 minutes of general debate on H.R. 5 and one motion to recommit.
 - 2021-02-25 — Table the motion to reconsider Agreed to by the Yeas and Nays: 211 - 195 (Roll no. 40).
 - 2021-02-25 — The previous question was ordered pursuant to the rule.
+- 2021-03-01 — Received in the Senate.
+- 2021-03-02 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-03-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 9.
