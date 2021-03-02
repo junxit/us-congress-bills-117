@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1319
 congress: 117
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-303 amendatory instructions. 86 executed, 217 stated and not applied.
+266 amendatory instructions. 77 executed, 189 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -158,6 +158,15 @@ to guess them.
 |---|---|
 | Removed | `subject to subsection (hh)` |
 | Inserted | `subject to subsections (hh) and (ii)` |
+
+### 42 U.S.C. § 1396r-4
+
+> in subparagraph (A), by striking “subparagraph (E)” and inserting “subparagraphs (E) and (F)” ; and
+
+| | |
+|---|---|
+| Removed | `subparagraph (E)` |
+| Inserted | `subparagraphs (E) and (F)` |
 
 ### 42 U.S.C. § 1397cc
 
@@ -474,27 +483,9 @@ to guess them.
 | Removed | `March 14, 2021` |
 | Inserted | `August 29, 2021` |
 
-### 15 U.S.C. § 9023
-
-> Section 2104(h) of the CARES Act (15 U.S.C. 9023(h)) is amended by striking “Federal pandemic unemployment compensation” and inserting “Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation”.
-
-| | |
-|---|---|
-| Removed | `Federal pandemic unemployment compensation` |
-| Inserted | `Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation` |
-
 ### 15 U.S.C. § 9024
 
 > Section 2105(e)(2) of the CARES Act (15 U.S.C. 9024(e)(2)) is amended by striking “March 14, 2021” and inserting “August 29, 2021”.
-
-| | |
-|---|---|
-| Removed | `March 14, 2021` |
-| Inserted | `August 29, 2021` |
-
-### 26 U.S.C. § 3304
-
-> Section 4102(b) of the Families First Coronavirus Response Act (26 U.S.C. 3304 note), in the second sentence, is amended by striking “March 14, 2021” and inserting “August 29, 2021”.
 
 | | |
 |---|---|
@@ -564,7 +555,7 @@ to guess them.
 | Removed | `6428, and 6428A` |
 | Inserted | `6428, 6428A, and 6428B` |
 
-### 26 U.S.C. § 3325
+### 26 U.S.C. § 24
 
 > Section 3402(f)(1)(C) of such Code is amended by striking “section 24(a)” and inserting “section 24 (determined after application of subsection (j) thereof)”.
 
@@ -573,7 +564,7 @@ to guess them.
 | Removed | `section 24(a)` |
 | Inserted | `section 24 (determined after application of subsection (j) thereof)` |
 
-### 26 U.S.C. § 3325
+### 26 U.S.C. § 24
 
 > Section 26(b)(2) of such Code is amended by striking “and” at the end of subparagraph (X), by striking the period at the end of subparagraph (Y) and inserting “, and”, and by adding at the end the following new subparagraph:
 
@@ -582,7 +573,7 @@ to guess them.
 | Removed | `and` |
 | Inserted | `, and` |
 
-### 26 U.S.C. § 3325
+### 26 U.S.C. § 24
 
 > by striking “24(d)” and inserting “24 by reason of subsections (d) and (i)(1) thereof”, and
 
@@ -591,7 +582,7 @@ to guess them.
 | Removed | `24(d)` |
 | Inserted | `24 by reason of subsections (d) and (i)(1) thereof` |
 
-### 26 U.S.C. § 3325
+### 26 U.S.C. § 24
 
 > by striking “and 6428B” and inserting “6428B, and 7527A”.
 
@@ -600,7 +591,7 @@ to guess them.
 | Removed | `and 6428B` |
 | Inserted | `6428B, and 7527A` |
 
-### 26 U.S.C. § 3325
+### 26 U.S.C. § 24
 
 > by striking “ or 6431” and inserting “6431, or 7527A”.
 
@@ -627,50 +618,14 @@ to guess them.
 | Removed | `subsections (b)(2)(A) and (i)(1)` |
 | Inserted | `subsection (b)(2)(A)` |
 
-### 26 U.S.C. § 3221
-
-> by striking “paragraph (1)” in such subsection (b) (as so redesignated) and inserting “subsection (a)”.
-
-| | |
-|---|---|
-| Removed | `paragraph (1)` |
-| Inserted | `subsection (a)` |
-
-### 26 U.S.C. § 3121
-
-> Section 7003(c) of such Act is amended by striking “wages (as defined” and all that follows through “paid by an employer” and inserting “wages (as defined in section 3121(a) of the Internal Revenue Code of 1986, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code) and compensation (as defined in section 3231(e) of the Internal Revenue Code, determined without regard to the sentence in paragraph (1) thereof which begins Such term does not include remuneration) paid by an employer”.
-
-| | |
-|---|---|
-| Removed | `wages (as defined” and all that follows through “paid by an employer` |
-| Inserted | `wages (as defined in section 3121(a) of the Internal Revenue Code of 1986, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code) and compensation (as defined in section 3231(e) of the Internal Revenue Code, determined without regard to the sentence in paragraph (1) thereof which begins Such term does not include remuneration) paid by an employer` |
-
-### 26 U.S.C. § 3111
-
-> Section 2301(m) of the CARES Act is amended by striking “July 1, 2021” and inserting “January 1, 2022”.
-
-| | |
-|---|---|
-| Removed | `July 1, 2021` |
-| Inserted | `January 1, 2022` |
-
-### 26 U.S.C. § 3111
-
-> Subparagraphs (A) and (B) of section 2301(c)(1) of such Act are each amended by striking “section 3111(a)” and inserting “section 3111(b)”.
-
-| | |
-|---|---|
-| Removed | `section 3111(a)` |
-| Inserted | `section 3111(b)` |
-
 ### 29 U.S.C. § 1021
 
-> in clause (i) by striking “and the Bipartisan Budget Act of 2015” both places it appears and inserting “, the Bipartisan Budget Act of 2015, and the Butch Lewis Emergency Pension Plan Relief Act of 2021”, and
+> in clause (i) by striking “and the Bipartisan Budget Act of 2015” both places it appears and inserting “, the Bipartisan Budget Act of 2015, and the American Rescue Plan Act of 2021”, and
 
 | | |
 |---|---|
 | Removed | `and the Bipartisan Budget Act of 2015` |
-| Inserted | `, the Bipartisan Budget Act of 2015, and the Butch Lewis Emergency Pension Plan Relief Act of 2021` |
+| Inserted | `, the Bipartisan Budget Act of 2015, and the American Rescue Plan Act of 2021` |
 
 ### 29 U.S.C. § 1021
 
@@ -698,33 +653,6 @@ to guess them.
 |---|---|
 | Removed | `415(d)` |
 | Inserted | `415(d) (without regard to paragraph (5) thereof)` |
-
-### 26 U.S.C. § 45A
-
-> Section 404(l) of such Code is amended by striking “401(a)(17)(B)” and inserting “401(a)(17)(B) (without regard to section 401(a)(17)(C))”.
-
-| | |
-|---|---|
-| Removed | `401(a)(17)(B)` |
-| Inserted | `401(a)(17)(B) (without regard to section 401(a)(17)(C))` |
-
-### 26 U.S.C. § 45A
-
-> by striking “415(d)” and inserting “415(d) (without regard to paragraph (5) thereof)”, and
-
-| | |
-|---|---|
-| Removed | `415(d)` |
-| Inserted | `415(d) (without regard to paragraph (5) thereof)` |
-
-### 26 U.S.C. § 45A
-
-> by striking “401(a)(17)(B)” and inserting “401(a)(17)(B) (without regard to section 401(a)(17)(C))”.
-
-| | |
-|---|---|
-| Removed | `401(a)(17)(B)` |
-| Inserted | `401(a)(17)(B) (without regard to section 401(a)(17)(C))` |
 
 ### 26 U.S.C. § 45A
 
@@ -773,15 +701,6 @@ to guess them.
 
 ### 26 U.S.C. § 45A
 
-> Section 505(b)(7) of such Code is amended by striking “401(a)(17)(B)” and inserting “401(a)(17)(B) (without regard to section 401(a)(17)(C))”.
-
-| | |
-|---|---|
-| Removed | `401(a)(17)(B)` |
-| Inserted | `401(a)(17)(B) (without regard to section 401(a)(17)(C))` |
-
-### 26 U.S.C. § 45A
-
 > Section 664(g)(7)(B) of such Code is amended by striking “415(d)” and inserting “415(d) (without regard to paragraph (5) thereof)”.
 
 | | |
@@ -821,26 +740,24 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 214` | add-at-end | Section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 214` | amend | Subparagraph (A) of section 14(c)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 214` | add-at-end | Section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subtitle A of title XX of the Social Security Act (42 U.S.C. 1397-1397h) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 901` | amend | The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901) is amended by adding after section 44 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10403` | add-at-end | Section 303 of the Family Violence Prevention and Services Act (42 U.S.C. 10403) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | insert | by inserting “or in a covered summer period following a school session” after “in session”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1751` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2011` | strike | in subsection (f)(2), in the paragraph heading, by striking “For School Year 2020–2021”; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2011` | insert | by inserting “either” after “at least 1 child enrolled in such a covered child care facility and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2011` | insert | by inserting “or a Department of Agriculture grant-funded nutrition assistance program in the Commonwealth of the Northern Mariana Islands, Puerto Rico, or American Samoa” before “shall be eligible to receive assistance”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2011` | redesignate | by redesignating subsections (i) and (j) as subsections (j) and (k), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1751` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1773` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | redesignate | by redesignating paragraphs (2) through (6) as paragraphs (3) through (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | redesignate | in paragraph (5) (as so redesignated), by striking “or another coronavirus with pandemic potential”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2011` | redesignate | in subsection (k) (as so redesignated), by inserting “Federal agencies,” before “State agencies”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6432` | add-at-end | Subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | The table of sections for subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | Part I of subchapter B of chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | The table of sections of part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | Subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | The table of sections for subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | Part I of subchapter B of chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | The table of sections of part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 35` | amend | Section 35(g)(9) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | insert | Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139H the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | insert | The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139H the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | insert | Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139H the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | insert | The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139H the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396d` | replace | by striking the semicolon at the end and inserting “; (E) during the period beginning on the date of the enactment of the American Rescue Plan Act of 2021 and ending on the last day of the first calendar quarter that begins at least one … | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396a` | insert | by inserting “and medical assistance for vaccines described in section 1905(a)(4)(E) and the administration of such vaccines during the period described in such section” after “(described in subsection (z)(2))”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396a` | insert | by inserting “and medical assistance for vaccines described in section 1905(a)(4)(E) and the administration of such vaccines during the period described in such section” after “described in subsection (k)(1)”; | the bill quotes the text inserted but describes where it goes |
@@ -855,12 +772,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1396d` | insert | in subsection (ff), in the matter preceding paragraph (1), by inserting “, subject to subsection (hh)” after “or (z)(2)” and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | Section 1902(e) of the Social Security Act (42 U.S.C. 1396a(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | The subdivision (A) following paragraph (30) of section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by inserting “and, during the 5-year period beginning on the first day of the first fiscal year quarter that begin… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396b` | add-at-end | Section 1903 of the Social Security Act (42 U.S.C. 1396b) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Title XIX of the Social Security Act is amended by adding after section 1946 (42 U.S.C 1396w–5) the following new section: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396d` | insert | Section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) is amended by inserting after “(as defined in section 4 of the Indian Health Care Improvement Act)” the following: “; for the 8 fiscal year quarters beginning with the first… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | insert | Section 1927(c)(2)(D) of the Social Security Act (42 U.S.C. 1396r–8(c)(2)(D)) is amended by inserting after “December 31, 2009,” the following: “and before January 1, 2023,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r` | add-at-end | Section 1919 of the Social Security Act (42 U.S.C. 1396r) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-4` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397cc` | add-at-end | Section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397cc` | insert | in the paragraph header, by inserting “a COVID–19 vaccine, COVID–19 treatment,” before “or pregnancy-related assistance”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397ee` | add-at-end | Section 2105(c) of the Social Security Act (42 U.S.C. 1397ee(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -878,11 +795,9 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5702` | add-at-end | Section 3003 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5702) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5702` | add-at-end | Section 3003 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5702), as amended by subsection (b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5703` | add-at-end | Section 3004 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5703) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5703` | add-at-end | Section 3004 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5703), as amended by subsection (c), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5708` | add-at-end | Section 3009 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5708) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5708` | add-at-end | Section 3009 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5708), as amended by subsection (d)(2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5703` | add-at-end | Section 3004 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5703), as amended by subsection (d), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5702` | add-at-end | Section 3004 of the State Small Business Credit Initiative Act of 2010 (15 U.S.C. 5702), as amended by subsection (g), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5708` | add-at-end | Section 3009 of the State Small Business Credit Initiative Act of 2010 (12 U.S.C. 5708) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5702` | add-at-end | Section 3004 of the State Small Business Credit Initiative Act of 2010 (15 U.S.C. 5702), as amended by subsection (e), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5701` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5701` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 5701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -913,29 +828,27 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 9023` | add-at-end | Section 2104(b)(3)(A) of such Act (15 U.S.C. 9023(b)(3)(A)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9024` | repeal | Paragraph (3) of section 2105(c) of such Act (15 U.S.C. 9024(c)) is repealed and such section shall be applied to weeks of unemployment to which an agreement under section 2105 of such Act applies as if such paragraph had not been enacted. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9025` | amend | Section 2107(g) of the CARES Act (15 U.S.C. 9025(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 9025` | replace | by striking “Rule.—An agreement” and inserting the following: “Rules.— | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 9025` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 9025` | add-at-end | Section 2107(a) of such Act (15 U.S.C. 9025(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9025` | insert | Section 2107(a)(5)(B) of such Act (15 U.S.C. 9025(a)(5)(B)) is amended by inserting “or for the week that includes the date of enactment of the American Rescue Plan Act of 2021 (without regard to the amendments made by subsections (a) an… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 701-713` | insert | Title V of the Social Security Act (42 U.S.C. 701-713) is amended by inserting after section 511 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 603` | add-at-end | Section 403 of the Social Security Act (42 U.S.C. 603) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subtitle A of title XX of the Social Security Act (42 U.S.C. 1397-1397h) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395i-3` | add-at-end | Section 1819 of the Social Security Act (42 U.S.C. 1395i–3) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | Subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | The table of sections for subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | Part I of subchapter B of chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | add-at-end | The table of sections of part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | Subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | The table of sections for subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | Part I of subchapter B of chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | add-at-end | The table of sections of part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 35` | amend | Section 35(g)(9) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | insert | Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139H the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6432` | insert | The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139H the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3325` | insert | Subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by inserting after section 6428A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | insert | Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139H the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3134` | insert | The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139H the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6428B` | insert | Subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by inserting after section 6428A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6211` | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting “6428B,” after “6428A,”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6211` | insert | The table of sections for subchapter B of chapter 65 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 6428A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | add-at-end | Section 24 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3325` | insert | Chapter 77 of such Code is amended by inserting after section 7527 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3325` | add-at-end | Section 24 of such Code, as amended by the preceding provision of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3325` | insert | by inserting “24,” before “25A”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 3325` | insert | The table of sections for chapter 77 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 7527 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | insert | Chapter 77 of such Code is amended by inserting after section 7527 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | add-at-end | Section 24 of such Code, as amended by the preceding provision of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | insert | by inserting “24,” before “25A”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 24` | insert | The table of sections for chapter 77 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 7527 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | add-at-end | Section 24 of the Internal Revenue Code of 1986, as amended by the preceding provisions of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 32` | add-at-end | Section 32 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 32` | strike | Section 32(c)(1) of the Internal Revenue Code of 1986 is amended by striking subparagraph (F). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -955,52 +868,25 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 21` | insert | Section 6211(b)(4)(A) of such Code, as amended by the preceding provisions of this Act, is amended by inserting “21 by reason of subsection (g) thereof,” before “24”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 21` | insert | Section 1324(b)(2) of title 31, United States Code (as amended by the preceding provisions of this title), is amended by inserting “21,” before “24”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 129` | add-at-end | Section 129(a)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | The following provisions of the Families First Coronavirus Response Act are each amended by striking “March 31, 2021” and inserting “September 30, 2021”: | the bill names no machine-readable US Code section |
-| — | replace | Section 7005(a) of such Act is amended by striking “April 1, 2021” and inserting “October 1, 2021”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7003(b)(1)(B) of the Families First Coronavirus Response Act is amended by striking “$10,000” and inserting “$12,000”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7004(d)(3) of such Act is amended by striking “$10,000” and inserting “$12,000”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7004(c)(1)(A) of such Act is amended by striking “50” and inserting “60”. | the bill names no machine-readable US Code section |
-| — | amend | Section 7003(c)(2)(A) of such Act, as amended by the preceding provisions of this part, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 7003(c)(2)(A) of the Families First Coronavirus Response Act, as amended by the preceding provisions of this part, is amended by striking “and” at the end of clause (i), by redesignating clause (ii) as clause (iii), and by insert… | the bill names no machine-readable US Code section |
-| — | insert | section 110(a)(2)(A) of such Act were applied by inserting “or any reason for leave described in section 5102(a) of the Families First Coronavirus Response Act” after “public health emergency”, and | the bill names no machine-readable US Code section |
-| — | redesignate | Section 7004(b)(2)(B) of such Act is amended by striking “and” at the end of clause (i), by redesignating clause (ii) as clause (iii), and by inserting after clause (i) the following new clause: | the bill names no machine-readable US Code section |
-| — | insert | section 110(a)(2)(A) of such Act were applied by inserting “or any reason for leave described in section 5102(a) of the Families First Coronavirus Response Act” after “public health emergency”, and | the bill names no machine-readable US Code section |
-| — | redesignate | Section 7001(c)(2)(A) of the Families First Coronavirus Response Act is amended by striking “and” at the end of clause (i), by redesignating clause (ii) as clause (iii), and by inserting after clause (i) the following new clause: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or the employee is obtaining immunization related to COVID–19 or recovering from any injury, disability, illness, or condition related to such immunization” after “medical diagnosis” in section 5102(a)(3), and | the bill names no machine-readable US Code section |
-| — | amend | Section 7002(b)(2)(B)(i) of such Act, as amended by the preceding provisions of this part, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or the employee is obtaining immunization related to COVID–19 or recovering from any injury, disability, illness, or condition related to such immunization” after “medical diagnosis” in section 5102(a)(3), and | the bill names no machine-readable US Code section |
-| — | insert | Section 7003(c)(2)(A)(ii) of such Act, as amended by the preceding provisions of this part, is amended by inserting “or to obtain immunization related to COVID–19 or to recover from any injury, disability, illness, or condition related t… | the bill names no machine-readable US Code section |
-| — | insert | Section 7004(b)(2)(B)(ii) of such Act, as amended by the preceding provisions of this part, is amended by inserting “or to obtain immunization related to COVID–19 or to recover from any injury, disability, illness, or condition related t… | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 414` | add-at-end | Section 7001 of the Families First and Coronavirus Response Act is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | add-at-end | Section 7003 of such Act is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 7001(b)(2) of the Families First Coronavirus Response Act is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 7001(c)(2)(A) of such Act, as amended by the preceding provisions of this part, is amended by striking “and” at the end of clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (ii) the followin… | the bill names no machine-readable US Code section |
-| — | replace | by striking “(but not more than the applicable number of days)” in paragraph (1)(A) and inserting “(but not more than 10)”, and | the bill names no machine-readable US Code section |
-| — | redesignate | by striking paragraph (3) and redesignating paragraph (4) as paragraph (3). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7002(b)(2)(B)(i) of such Act, as amended by the preceding provisions of this part, is amended by striking “and” at the end of subclause (I), by striking “and” at the end of subclause (II), and by adding at the end the following n… | the bill names no machine-readable US Code section |
-| — | replace | The following provisions of the Families First Coronavirus Response Act are each amended by striking “section 3111(a) ” and inserting “section 3111(b)”: | the bill names no machine-readable US Code section |
-| — | strike | Section 7001(b)(3) of such Act is amended by striking “(reduced by any credits allowed under subsections (e) and (f) of section 3111 of such Code, and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020, for such… | the bill names no machine-readable US Code section |
-| — | strike | Section 7001 of such Act is amended by striking subsection (h). | the bill names no machine-readable US Code section |
-| — | replace | Section 7003(b)(2) of such Act is amended by striking “(reduced by any credits allowed under subsections (e) and (f) of section 3111 of such Code, section 7001 of this Act, and section 303(d) of the Taxpayer Certainty and Disaster Tax Re… | the bill names no machine-readable US Code section |
-| — | strike | Section 7003 of such Act is amended by striking subsection (h). | the bill names no machine-readable US Code section |
-| — | replace | Section 7005(a) of such Act is amended by striking “section 3111(a)” both places it appears and inserting “section 3111(b)”. | the bill names no machine-readable US Code section |
-| — | strike | Section 7005 of such Act is amended by striking subsection (c). | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 501` | strike | by striking the paragraph (4) which relates to certain governmental employers, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | strike | by striking the paragraph (4) which relates to certain governmental employers, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3221` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3221` | strike | by striking so much of subsection (b) as precedes paragraph (2) thereof, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3221` | redesignate | by redesignating such paragraph (2) as subsection (b) and adjusting the indentation thereof accordingly, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3121` | strike | by striking “and section 7005(a) of this Act,”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 3121` | strike | by striking “and without regard to section 7005(a) of this Act)”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 3111` | strike | by striking “subsections (e) and (f) of section 3111 of the Internal Revenue Code of 1986,”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 3111` | strike | by striking “, and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020”. | the bill quotes the text struck but describes what replaces it |
+| — | add-at-end | Chapter 21 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, the employee is seeking or awaiting the results of a diagnostic test for, or a medical diagnosis of, COVID-19 and such employee has been exposed to COVID-19 or the employee’s employer has requested such test or diagnosis,… | the bill names no machine-readable US Code section |
+| — | insert | section 110(a)(2)(A) of the Family and Medical Leave Act of 1993 shall be applied by inserting “or any reason for leave described in section 5102(a) of the Families First Coronavirus Response Act, or the employee is seeking or awaiting t… | the bill names no machine-readable US Code section |
+| — | strike | by striking “after taking leave after such section for 10 days” in paragraph (2)(A) thereof, and | the bill names no machine-readable US Code section |
+| — | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting “3131, 3132,” before “6428”. | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of subchapters for chapter 21 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1402` | insert | by inserting “, the employee is seeking or awaiting the results of a diagnostic test for, or a medical diagnosis of, COVID-19 and such employee has been exposed to COVID-19 or is unable to work pending the results of such test or diagnos… | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1402` | insert | section 110(a)(2)(A) of the Family and Medical Leave Act of 1993 shall be applied by inserting “or any reason for leave described in section 5102(a) of the Families First Coronavirus Response Act, or the employee is seeking or awaiting t… | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1402` | strike | by striking “after taking leave after such section for 10 days” in paragraph (2)(A) thereof. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 9641` | add-at-end | Subchapter D of chapter 21 of subtitle C of the Internal Revenue Code of 1986, as added by section 9641, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9641` | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting “3134,” before “6428”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9641` | add-at-end | The table of sections for subchapter D of chapter 21 of subtitle C of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | add-at-end | Section 36B(b)(3)(A) of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | add-at-end | Section 36B(c)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | add-at-end | Section 36B(f)(2)(B) of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | redesignate | Section 36B of the Internal Revenue Code of 1986 is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 864` | strike | Section 864 of the Internal Revenue Code of 1986 is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6050W` | amend | Section 6050W(e) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6050W` | insert | Section 6050W(c)(3) of such Code is amended by inserting “described in subsection (d)(3)(A)(iii)” after “any transaction”. | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1084` | add-at-end | Section 304(b)(8) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1084(b)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1084` | insert | by inserting “and other losses related to the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19) (including experience losses related to reductions in contributions, reductions in employment, and deviations from anticipated retireme… | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 431` | add-at-end | Section 431(b)(8) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1012,6 +898,11 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1306` | replace | in subclause (II), by striking the period and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1306` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1306` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 432` | strike | by striking “and” at the end of paragraph (2)(B), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 432` | replace | by striking the period at the end of paragraph (3)(B) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 432` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 432` | add-at-end | Section 432(b) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 432` | add-at-end | Section 432 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 430` | add-at-end | Section 430(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1083` | add-at-end | Section 303(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1083(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 430` | amend | The table contained in subclause (II) of section 430(h)(2)(C)(iv) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
