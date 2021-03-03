@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-536 amendatory instructions. 106 executed, 430 stated and not applied.
+585 amendatory instructions. 113 executed, 472 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -251,12 +251,12 @@ to guess them.
 
 ### 52 U.S.C. § 20502
 
-> Section 3(4) of the National Voter Registration Act of 1993 (52 U.S.C. 20502(4)) is amended by striking “States and the District of Columbia” and inserting “States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands”.
+> Section 3(4) of the National Voter Registration Act of 1993 (52 U.S.C. 20502(4)) is amended by striking “States and the District of Columbia” and inserting “States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands”.
 
 | | |
 |---|---|
 | Removed | `States and the District of Columbia` |
-| Inserted | `States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands` |
+| Inserted | `States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands` |
 
 ### 52 U.S.C. § 21141
 
@@ -294,6 +294,24 @@ to guess them.
 | Removed | `and the United States Virgin Islands` |
 | Inserted | `the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands` |
 
+### 52 U.S.C. § 21061
+
+> by striking “subsections (c)(3)(B) and (c)(4)(B) of that section shall be not less than $70,000 and $35,000, respectively” and inserting “subsection (c)(3)(B) shall not be less than $70,000, and the amount of the grants to systems referred to in subsections (c)(1)(B) and (c)(4)(B) shall not be less than $35,000”.
+
+| | |
+|---|---|
+| Removed | `subsections (c)(3)(B) and (c)(4)(B) of that section shall be not less than $70,000 and $35,000, respectively` |
+| Inserted | `subsection (c)(3)(B) shall not be less than $70,000, and the amount of the grants to systems referred to in subsections (c)(1)(B) and (c)(4)(B) shall not be less than $35,000` |
+
+### 52 U.S.C. § 21082
+
+> Section 302(h) of such Act (52 U.S.C. 21082(h)), as redesignated by subsection (a) and as amended by section 1601(b) and section 1901(b), is amended by striking “and (f)(4)” and inserting “(f)(4), and (g)(4)”.
+
+| | |
+|---|---|
+| Removed | `and (f)(4)` |
+| Inserted | `(f)(4), and (g)(4)` |
+
 ### 52 U.S.C. § 20507
 
 > in paragraph (3), by striking “provide” and inserting “subject to section 8A, provide”; and
@@ -320,15 +338,6 @@ to guess them.
 |---|---|
 | Removed | `, registrants` |
 | Inserted | `, and subject to section 8A of such Act, registrants` |
-
-### 52 U.S.C. § 20922
-
-> Section 202 of the Help America Vote Act of 2002 (52 U.S.C. 20922) is amended in the matter preceding paragraph (1) by striking “by” and inserting “and the security of election infrastructure by”.
-
-| | |
-|---|---|
-| Removed | `by` |
-| Inserted | `and the security of election infrastructure by` |
 
 ### 52 U.S.C. § 20944
 
@@ -365,6 +374,15 @@ to guess them.
 |---|---|
 | Removed | `The Commission` |
 | Inserted | `(a) In general.—The Commission` |
+
+### 52 U.S.C. § 30116
+
+> by striking “(5)” and inserting “(5)(A)”;
+
+| | |
+|---|---|
+| Removed | `(5)` |
+| Inserted | `(5)(A)` |
 
 ### 52 U.S.C. § 21081
 
@@ -546,6 +564,24 @@ to guess them.
 | Removed | `which is transmitted in an audio or video format` |
 | Inserted | `which is transmitted in an audio or video format or which consists of a telephone call consisting in substantial part of a prerecorded audio message` |
 
+### 52 U.S.C. § 30121
+
+> in paragraph (1)(A), by striking “promise to make a contribution or donation” and inserting “promise to make such a contribution or donation”;
+
+| | |
+|---|---|
+| Removed | `promise to make a contribution or donation` |
+| Inserted | `promise to make such a contribution or donation` |
+
+### 52 U.S.C. § 30121
+
+> in paragraph (1)(B), by striking “donation” and inserting “donation of money or other thing of value, or to make an express or implied promise to make such a contribution or donation,”; and
+
+| | |
+|---|---|
+| Removed | `donation` |
+| Inserted | `donation of money or other thing of value, or to make an express or implied promise to make such a contribution or donation,` |
+
 ### 52 U.S.C. § 30116
 
 > in paragraph (3), by striking “The national committee” and inserting “Except as provided in paragraph (6), the national committee”; and
@@ -609,7 +645,7 @@ to guess them.
 | Removed | `$5,000` |
 | Inserted | `$25,000` |
 
-### 26 U.S.C. § 5201
+### 26 U.S.C. § 9033
 
 > Section 9032(4) of such Code, as amended by section 5201(a)(3)(A), is amended by striking “section 9034” and inserting “section 9033(b) or 9034”.
 
@@ -798,6 +834,15 @@ to guess them.
 | Removed | `any action instituted under this Act, either (A) by attorneys` |
 | Inserted | `any action instituted under this Act, including an action before the Supreme Court of the United States, either (A) by the General Counsel of the Commission and other attorneys` |
 
+### 52 U.S.C. § 30145
+
+> Section 406(a) of such Act (52 U.S.C. 30145(a)) is amended by striking “5 years” and inserting “10 years”.
+
+| | |
+|---|---|
+| Removed | `5 years` |
+| Inserted | `10 years` |
+
 ### 22 U.S.C. § 612
 
 > Section 2(g) of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 612(g)) is amended by striking “in electronic form” and inserting “in a digitized format which will enable the Attorney General to meet the requirements of section 6(d)(1) (relating to public access to an electronic database of statements and updates)”.
@@ -815,6 +860,24 @@ to guess them.
 |---|---|
 | Removed | `includes the information` |
 | Inserted | `includes in a digitized format the information` |
+
+### 22 U.S.C. § 614
+
+> by striking “(b) It shall be unlawful” and inserting “(b)(1) It shall be unlawful”; and
+
+| | |
+|---|---|
+| Removed | `(b) It shall be unlawful` |
+| Inserted | `(b)(1) It shall be unlawful` |
+
+### 22 U.S.C. § 614
+
+> Section 4(b)(1) of such Act (22 U.S.C. 614(b)(1)), as amended by subsection (a), is amended by striking “any person within the United States” and inserting “any person”.
+
+| | |
+|---|---|
+| Removed | `any person within the United States` |
+| Inserted | `any person` |
 
 ### 2 U.S.C. § 1602
 
@@ -1005,6 +1068,9 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 20507` | insert | by inserting after subsection (i) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20504` | replace | Section 5(c)(2)(B)(ii) of the National Voter Registration Act of 1993 (52 U.S.C. 20504(c)(2)(B)(ii)) is amended by striking the semicolon at the end and inserting the following: “, and to the extent that the application requires the appl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20508` | replace | Section 9(b)(1) of such Act (52 U.S.C. 20508(b)(1)) is amended by striking the semicolon at the end and inserting the following: “, and to the extent that the form requires the applicant to provide a Social Security number, the form may … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20504` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20504` | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20504` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | redesignate | by redesignating sections 304 and 305 as sections 305 and 306; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | by inserting after section 303 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | redesignate | by redesignating the items relating to sections 304 and 305 as relating to sections 305 and 306; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1079,6 +1145,7 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21081` | redesignate | by redesignating the items relating to sections 309 and 310 as relating to sections 310 and 311; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | by inserting after the item relating to section 308 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20301` | amend | Chapter 34 of title 39, United States Code, is amended by adding after section 3406 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20301` | add-at-end | Section 3001 of title 39, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20301` | insert | The table of sections for chapter 34 of such title is amended by inserting after the item relating to section 3406 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20302` | amend | Section 102(c) of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20302(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20307` | amend | Section 105 of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20307) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1120,6 +1187,7 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21081` | insert | by inserting after section 311 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | redesignate | by redesignating the items relating to sections 312 and 313 as relating to sections 313 and 314; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | by inserting after the item relating to section 311 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 6103(a) of title 5, United States Code, is amended by inserting after the item relating to Columbus Day the following: | the bill names no machine-readable US Code section |
 | `52 U.S.C. § 20930` | strike | by striking “(but not to exceed $10,000,000 for each such year)”. | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 21081` | insert | Title III of the Help America Vote Act of 2002 (52 U.S.C. 21081 et seq.), as amended by section 1903(a), is further amended by inserting after section 303A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | The table of contents of such Act, as amended by section 1903(c), is further amended by inserting after the item relating to section 303A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1127,6 +1195,25 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 20925` | strike | Section 205 of the Help America Vote Act of 2002 (52 U.S.C. 20925) is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21141` | add-at-end | Title IX of the Help America Vote Act of 2002 (52 U.S.C. 21141 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21141` | add-at-end | The table of contents of such Act is amended by adding at the end of the items relating to title IX the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21061` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 794e` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21061` | insert | by inserting “(c)(1)(B),” after “as set forth in subsections”; and | the bill quotes the text inserted but describes where it goes |
+| — | replace | Section 594 of title 18, United States Code, is amended by striking ‘‘Delegate from the District of Columbia, or Resident Commissioner,’’ and inserting ‘‘or Delegate or Resident Commissioner to the Congress’’. | the bill names no machine-readable US Code section |
+| — | replace | Section 595 of title 18, United States Code, is amended by striking ‘‘Delegate from the District of Columbia, or Resident Commissioner,’’ and inserting ‘‘or Delegate or Resident Commissioner to the Congress’’. | the bill names no machine-readable US Code section |
+| — | replace | Section 611(a) of title 18, United States Code, is amended by striking ‘‘Delegate from the District of Columbia, or Resident Commissioner,’’ and inserting ‘‘or Delegate or Resident Commissioner to the Congress’’. | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 2131` | add-at-end | Section 1814 of the Revised Statutes of the United States (2 U.S.C. 2131) is amended by adding at the end the following new sentence: “For purposes of this section, the term State includes American Samoa, Guam, the Commonwealth of the No… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 2132` | add-at-end | Section 311 of the Legislative Branch Appropriations Act, 2001 (2 U.S.C. 2132) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21082` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10503` | insert | by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | redesignate | by redesignating sections 313 and 314 as sections 314 and 315; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | insert | by inserting after section 312 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21101` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 21101` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 21101` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | redesignate | by redesignating the items relating to sections 313 and 314 as relating to sections 314 and 315; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | insert | by inserting after the item relating to section 312 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21141` | add-at-end | Title IX of the Help America Vote Act of 2002 (52 U.S.C. 21141 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21141` | add-at-end | The table of contents of such Act is amended by adding at the end of the items relating to title IX the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 2a` | replace | Section 22(c) of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for an apportionment of Representatives in Congress”, approved June 18, 1929 (2 U.S.C. 2a(c)), is amended by striking… | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 20501` | insert | The National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.) is amended by inserting after section 8 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20507` | add-at-end | Section 8(d) of such Act (52 U.S.C. 20507(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1134,6 +1221,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
 | `52 U.S.C. § 21001` | add-at-end | Subtitle D of title II of the Help America Vote Act of 2002 (52 U.S.C. 21001 et seq.), as amended by section 1622(b), is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21001` | add-at-end | The table of contents of such Act, as amended by section 1622(c), is amended by adding at the end of the items relating to subtitle D of title II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20922` | replace | in the matter preceding paragraph (1), by striking ‘‘by’’ and inserting ‘‘and the security of election infrastructure by’’; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20922` | replace | by striking the semicolon at the end of paragraph (1) and inserting the following: “, and the development, maintenance and dissemination of cybersecurity guidelines to identify vulnerabilities that could lead to, protect against, detect,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20944` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20961` | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20961` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1145,6 +1234,8 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21005` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21005` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21083` | replace | Section 303(a)(3) of such Act (52 U.S.C. 21083(a)(3)) is amended by striking the period at the end and inserting “, as well as other measures to prevent and deter cybersecurity incidents, as identified by the Commission, the Secretary of… | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20924` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20924` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21141` | amend | Section 901 of the Help America Vote Act of 2002 (52 U.S.C. 21141), as amended by section 1921(b)(1), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21141` | amend | The table of contents of such Act is amended by amending the item relating to section 901 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21001` | add-at-end | Subtitle D of title II of the Help America Vote Act of 2002 (52 U.S.C. 21001 et seq.), as amended by sections 1622(b) and 3001(a), is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1167,6 +1258,8 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21081` | insert | Title III of the Help America Vote Act of 2002 (52 U.S.C. 21081 et seq.) is amended by inserting after section 301 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | The table of contents of such Act is amended by inserting after the item relating to section 301 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20922` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30116` | replace | by striking the period at the end and inserting “, or to expenditures (whether provided as funds or provided as in-kind services) for secure information communications technology or for a cybersecurity product or service or for any other… | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 272` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20921` | add-at-end | Subtitle A of title II of the Help America Vote Act of 2002 (52 U.S.C. 20921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | add-at-end | Section 301(a) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)), as amended by section 1504, section 1505, and section 1507, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | add-at-end | Section 304 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1193,7 +1286,10 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 30141` | insert | Title IV of the Federal Election Campaign Act of 1971 (52 U.S.C. 30141 et seq.) is amended by inserting after section 406 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9011` | amend | Section 9011 of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9041` | amend | Section 9041 of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30110` | repeal | Section 310 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30110) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30110` | repeal | Section 403 of the Bipartisan Campaign Reform Act of 2002 (52 U.S.C. 30110 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30104` | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30104` | insert | by inserting after subparagraph (C) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | add-at-end | Paragraph (3) of section 304(f) of such Act (52 U.S.C. 30104(f)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | insert | Section 304(f)(3)(A)(i)(III) of such Act (52 U.S.C. 30104(f)(3)(A)(i)(III)) is amended by inserting “any broadcast, cable, or satellite” before “communication”. | the bill quotes the text inserted but describes where it goes |
@@ -1202,6 +1298,7 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 30120` | add-at-end | Section 318 of such Act (52 U.S.C. 30120) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | add-at-end | Section 304 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30104), as amended by section 4002, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30121` | add-at-end | Section 319 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121), as amended by section 4101(b), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30104` | add-at-end | Section 304 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30104), as amended by section 4002 and section 4208(a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30120` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30120` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30120` | insert | by inserting “which (except to the extent provided in subparagraph (B)) is paid for by a political committee (including a political committee of a political party) and” after “subsection (a)”; | the bill quotes the text inserted but describes where it goes |
@@ -1216,14 +1313,14 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 30121` | replace | by striking the period at the end of paragraph (3) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `52 U.S.C. § 30121` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30121` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | add-at-end | Section 212(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1227` | add-at-end | Section 237(a) of such Act (8 U.S.C. 1227(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | add-at-end | Section 101(a) of such Act (8 U.S.C. 1101(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30121` | add-at-end | Section 319 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121), as amended by section 4101(a), section 4101(b), section 4209, section 4401, and section 4403, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30121` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | add-at-end | Title III of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30109` | add-at-end | Section 309(d)(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30109(d)(1)), as amended by section 4004, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78a` | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 10D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30118` | add-at-end | Section 316 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30118) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 30101` | add-at-end | Title III of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.), as amended by section 4431, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30118` | add-at-end | Section 316 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30118) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30101` | add-at-end | Title III of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.), as amended by section 4421, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | strike | by striking subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | redesignate | by redesignating subsection (i) as subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | amend | Section 510 of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1231,19 +1328,19 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 30116` | add-at-end | Section 315(a) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30116(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30114` | add-at-end | Section 313 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30114) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3302` | add-at-end | Chapter 201 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3302` | add-at-end | The table of sections of chapter 201 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3302` | add-at-end | Chapter 97 of title 31, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3302` | add-at-end | The table of sections of chapter 97 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3302` | add-at-end | Chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3302` | add-at-end | The table of subchapters for chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6761` | add-at-end | Chapter 201 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6761` | add-at-end | The table of sections of chapter 201 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6761` | add-at-end | Chapter 97 of title 31, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6761` | add-at-end | The table of sections of chapter 97 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6761` | add-at-end | Chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6761` | add-at-end | The table of subchapters for chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | strike | by striking the last sentence of subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9034` | replace | by striking “The total” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 9034` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9033` | replace | by striking “20 States” and inserting the following: “20 States (disregarding any amount of contributions from any such resident to the extent that the total of the amounts contributed by such resident for the election exceeds $200)”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 5201` | amend | Paragraph (4) of section 9033(b) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5201` | add-at-end | Section 9033(b) of such Code is amended by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9033` | amend | Paragraph (4) of section 9033(b) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9033` | add-at-end | Section 9033(b) of such Code is amended by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9033` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 9033` | replace | by striking the period at the end of paragraph (4) and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 9033` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1267,7 +1364,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 9004` | amend | Subsection (a) of section 9004 of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9004` | amend | Subsection (b) of section 9004 of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9004` | add-at-end | Section 9005(a) of such Code is amended by adding at the end the following new sentence: “The Commission shall make such additional certifications as may be necessary to receive payments under section 9004.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5212` | add-at-end | Section 9002 of such Code, as amended by section 5212(b), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9004` | add-at-end | Section 9002 of such Code, as amended by section 5212(b), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | amend | Section 315(d)(2) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30116(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -1296,16 +1393,17 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 30109` | strike | Section 309(a)(4)(C)(v) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30109(a)(4)(C)(v)) is amended by striking “, and that end on or before December 31, 2023”. | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 30106` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30111` | replace | Section 311(a)(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30111(a)(1)) is amended by striking the semicolon at the end and inserting the following: “, and shall ensure that all such forms (including forms in an electronic… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30109` | insert | Section 309(a) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30109(a)) is amended by inserting after paragraph (9) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | strike | by striking “or” at the end of clause (i); | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 30101` | replace | by striking the period at the end of clause (ii) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `52 U.S.C. § 30101` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 30101` | add-at-end | Title III of such Act (52 U.S.C. 30101 et seq.), as amended by section 4431 and section 4802(a), is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30101` | add-at-end | Title III of such Act (52 U.S.C. 30101 et seq.), as amended by section 4421 and section 4802(a), is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | repeal | the regulations on coordinated communications adopted by the Federal Election Commission which are in effect on the date of the enactment of this Act (as set forth in 11 CFR Part 109, Subpart C, under the heading “Coordination”) are repe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30125` | strike | by striking “or” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 30125` | replace | by striking the period at the end of subparagraph (B) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 527` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30114` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 170` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 612` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 57 of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections for chapter 57 of title 28, United States Code, is amended by adding after the item related to section 963 the following: | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 618` | add-at-end | Section 8 of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 618) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1313,6 +1411,10 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 612` | redesignate | by redesignating paragraphs (10) and (11) as paragraphs (11) and (12); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 612` | insert | by inserting after paragraph (9) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 616` | strike | in the matter preceding subparagraph (A), by striking “to the extent technically practicable,”; and | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 614` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 614` | add-at-end | Section 4 of such Act (22 U.S.C. 614) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 611` | insert | Section 1 of such Act (22 U.S.C. 611) is amended by inserting after subsection (i) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 611` | insert | Section 1(c)(1)(i) of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611(c)(1)(i)) is amended by inserting after “United States” the following: “(whether within or outside of the United States)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1602` | replace | by striking “research and other background work” and inserting the following: “counseling in support of such preparation and planning activities, research, and other background work”. | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1602` | add-at-end | Section 3(8) of such Act (2 U.S.C. 1602(8)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | insert | The Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) is amended by inserting after section 5 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1400,8 +1502,11 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 527` | insert | in subsection (e), by inserting “and, if the individual was serving in a covered position, the information required by section 102(j)(2)(A)” after “described in section 102(a)”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 527` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 527` | add-at-end | Section 105 of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | add-at-end | in section 3(f), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `3 U.S.C. § 102` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `3 U.S.C. § 102` | replace | in subparagraph (B), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | in paragraph (2), by inserting “not later than 2 business days” after “public”; and | the bill quotes the text inserted but describes where it goes |
 | `3 U.S.C. § 102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1602` | insert | The Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.) is amended by inserting after title I the following new title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1415` | amend | Clause (i) of section 415(d)(1)(C) of the Congressional Accountability Act of 1995 (2 U.S.C. 1415(d)(1)(C)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
