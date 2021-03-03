@@ -1,7 +1,7 @@
 ---
 measure: S. 578
 congress: 117
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 578
