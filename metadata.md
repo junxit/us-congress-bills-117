@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1280
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1280
@@ -16,7 +16,7 @@ George Floyd Justice in Policing Act of 2021
 
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Cosponsors (190)
+## Cosponsors (199)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
@@ -208,6 +208,15 @@ George Floyd Justice in Policing Act of 2021
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
 
 ## Committees (3)
 
@@ -222,3 +231,16 @@ George Floyd Justice in Policing Act of 2021
 - 2021-02-24 — Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-24 — Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-24 — Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-02-25 — Referred to the Subcommittee on Health.
+- 2021-03-01 — Rule H. Res. 179 passed House.
+- 2021-03-01 — Rules Committee Resolution H. Res. 179 Reported to House. Rule provides for consideration of H.R. 1 and H.R. 1280. Rule provides for 1 hour of general debate on H.R. 1 and one motion to recommit. Rule provides for 1 hour of general debate on H.R. 1280 and one motion to recommit.
+- 2021-03-03 — Considered under the provisions of rule H. Res. 179. (consideration: CR H1039-1071)
+- 2021-03-03 — DEBATE - The House proceeded with one hour of debate on H.R. 1280.
+- 2021-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-03 — Ms. Malliotakis moved to recommit to the Committee on the Judiciary. (text: CR H1069)
+- 2021-03-03 — On motion to recommit Failed by the Yeas and Nays: 208 - 219 (Roll no. 59).
+- 2021-03-03 — On passage Passed by the Yeas and Nays: 220 - 212 (Roll no. 60). (text: CR H1039-1054)
+- 2021-03-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 212 (Roll no. 60).(text: CR H1039-1054)
+- 2021-03-03 — Rule provides for consideration of H.R. 1 and H.R. 1280. Rule provides for 1 hour of general debate on H.R. 1 and one motion to recommit. Rule provides for 1 hour of general debate on H.R. 1280 and one motion to recommit.
+- 2021-03-03 — The previous question on the motion to recommit was ordered pursuant to the rule.
+- 2021-03-03 — The previous question was ordered pursuant to the rule.
