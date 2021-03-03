@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1319
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in House
 ---
 
 # H.R. 1319
