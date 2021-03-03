@@ -2,7 +2,7 @@
 legis-num: H.R. 1319
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1319
