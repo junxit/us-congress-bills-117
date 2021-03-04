@@ -1,0 +1,23 @@
+---
+legis-num: S. 594
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 594
+
+> To double the existing penalties for the provision of misleading or inaccurate caller identification information.
+
+## § 1. Short title
+
+This Act may be cited as the “Anti-Spoofing Penalties Modernization Act of 2021”.
+
+## § 2. Increasing penalties for spoofers
+
+Section 227(e)(5) of the Communications Act of 1934 (47 U.S.C. 227(e)(5)) is amended—
+
+- **(1)** in subparagraph (A)(i)—
+  - **(A)** by striking “$10,000” and inserting “$20,000”; and
+  - **(B)** by striking “$1,000,000” and inserting “$2,000,000”; and
+- **(2)** in subparagraph (B), by striking “$10,000” and inserting “$20,000”.
