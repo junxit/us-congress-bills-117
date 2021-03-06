@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1319
 congress: 117
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1319
@@ -15,6 +15,238 @@ American Rescue Plan Act of 2021
 ## Sponsor
 
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+
+## Cosponsors (229)
+
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Daines, Steve [R-MT] (D000618)
 
 ## Committees (1)
 
@@ -45,3 +277,692 @@ American Rescue Plan Act of 2021
 - 2021-02-27 — The previous question was ordered pursuant to the rule.
 - 2021-03-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 10.
 - 2021-03-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-03-04 — Amendment SA 891 proposed by Senator Schumer. (consideration: CR S1051-1117; text: CR S1051-1117) To improve the bill.
+- 2021-03-04 — Measure laid before Senate by motion.
+- 2021-03-04 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 73. (CR S1051)
+- 2021-03-04 — Senate amendment proposed (on the floor): Amendment SA 891 proposed by Senator Schumer.(consideration: CR S1051-1117; text: CR S1051-1117)
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-04 — Senate amendment submitted
+- 2021-03-05 — Amendment SA 1092 agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 76.
+- 2021-03-05 — Amendment SA 1092 proposed by Senator Portman to Amendment SA 891. (consideration: CR S1231-1233; text: CR S1231-1232) To reduce unemployment compensation provisions.
+- 2021-03-05 — Amendment SA 972 proposed by Senator Sanders to Amendment SA 891. (consideration: CR S1219-1230; text: CR S1208-1209) To provide for increases in the Federal minimum wage.
+- 2021-03-05 — Amendment SA 972 ruled out of order by the chair.
+- 2021-03-05 — Considered by Senate. (consideration: CR S1219)
+- 2021-03-05 — Considered by Senate. (consideration: CR S1219-1269)
+- 2021-03-05 — Motion to waive all applicable budgetary discipline with respect to amendment SA 972 rejected in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 74.
+- 2021-03-05 — Point of order that the amendment violates section 313(b)(1)(D) of the CBA raised in Senate with respect to amendment SA 972.
+- 2021-03-05 — Roll call votes on amendments in Senate: Amendment SA 1092 agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 76.
+- 2021-03-05 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 972 rejected in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 74.
+- 2021-03-05 — Senate amendment agreed to: Amendment SA 1092 agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 76.
+- 2021-03-05 — Senate amendment proposed (on the floor): Amendment SA 1092 proposed by Senator Portman to Amendment SA 891.(consideration: CR S1231-1233; text: CR S1231-1232)
+- 2021-03-05 — Senate amendment proposed (on the floor): Amendment SA 972 proposed by Senator Sanders to Amendment SA 891.(consideration: CR S1219-1230; text: 03/04/2021 CR S1208-1209)
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-05 — Senate amendment submitted
+- 2021-03-06 — Amendment SA 1010 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 86.
+- 2021-03-06 — Amendment SA 1010 proposed by Senator Toomey to Amendment SA 891. (consideration: CR S1240-1241; text: CR S1240) To strike a provision providing payments to farmers for purposes unrelated to COVID-19.
+- 2021-03-06 — Amendment SA 1014 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 88.
+- 2021-03-06 — Amendment SA 1014 proposed by Senator Paul to Amendment SA 891. (consideration: CR S1242; text: CR S1242) To strike provisions relating to nonprofit entities for the paycheck protection program.
+- 2021-03-06 — Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 80.
+- 2021-03-06 — Amendment SA 1026 proposed by Senator Rubio to Amendment SA 891. (consideration: CR S1235-1236; text: CR S1235-1236) To amend the Elementary and Secondary School Emergency Relief Fund.
+- 2021-03-06 — Amendment SA 1030 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 78.
+- 2021-03-06 — Amendment SA 1030 proposed by Senator Scott SC to Amendment SA 891. (consideration: CR S1233-1234; text: CR S1233) To improve the bill.
+- 2021-03-06 — Amendment SA 1031 proposed by Senator Lankford to Amendment SA 891. (consideration: CR S1247; text: CR S1295-1300) To improve the bill.
+- 2021-03-06 — Amendment SA 1031 ruled out of order by the chair.
+- 2021-03-06 — Amendment SA 1154 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 107.
+- 2021-03-06 — Amendment SA 1154 proposed by Senator Moran to Amendment SA 891. (consideration: CR S1259-1260; text: CR S1259) To increase the availability of amounts for the Veterans Community Care Program of the Department of Veterans Affairs.
+- 2021-03-06 — Amendment SA 1161 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 84.
+- 2021-03-06 — Amendment SA 1161 proposed by Senator Cassidy to Amendment SA 891. (consideration: CR S1239-1240; text: CR S1239) To improve the bill regarding emergency assistance to non-public schools.
+- 2021-03-06 — Amendment SA 1162 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 103.
+- 2021-03-06 — Amendment SA 1162 proposed by Senator Cassidy to Amendment SA 891. (consideration: CR S1256-1257; text: CR S1256) To ensure that the 2021 Recovery Rebates are not provided to prisoners.
+- 2021-03-06 — Amendment SA 1197 proposed by Senator Tester to Amendment SA 891. (consideration: CR S1238-1239; text: CR S1238) To require the President to review and approve the Keystone XL Pipeline to assist COVID-impacted communities.
+- 2021-03-06 — Amendment SA 1197 ruled out of order by the chair.
+- 2021-03-06 — Amendment SA 1233 agreed to in Senate by Voice Vote.
+- 2021-03-06 — Amendment SA 1233 proposed by Senator Murkowski to Amendment SA 891. (consideration: CR S1260; text: CR S1260) To use $800,000,000 of the Elementary and Secondary School Emergency Relief Fund to identify and provide homeless children and youth with wrap-around services in light of the challenges of COVID-19 and other assistance.
+- 2021-03-06 — Amendment SA 1242 proposed by Senator Collins to Amendment SA 891. (consideration: CR S1233; text: CR S1347-1354) In the nature of a substitute.
+- 2021-03-06 — Amendment SA 1242 ruled out of order by the chair.
+- 2021-03-06 — Amendment SA 1331 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 105.
+- 2021-03-06 — Amendment SA 1331 proposed by Senator Lee to Amendment SA 891. (consideration: CR S1258; text: CR S1258) To limit the expansion of premium assistance for households above 500 percent of the federal poverty line.
+- 2021-03-06 — Amendment SA 1342 agreed to in Senate by Voice Vote.
+- 2021-03-06 — Amendment SA 1342 proposed by Senator Moran to Amendment SA 891. (consideration: CR S1245-1246; text: CR S1245) To provide an effective date for the modification of revenue requirements for proprietary institutions of higher education.
+- 2021-03-06 — Amendment SA 1344 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 81.
+- 2021-03-06 — Amendment SA 1344 proposed by Senator Hassan to Amendment SA 891. (consideration: CR S1236-1237; text: CR S1236) To provide for a safe return to in-person instruction.
+- 2021-03-06 — Amendment SA 1364 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 96.
+- 2021-03-06 — Amendment SA 1364 proposed by Senator Romney to Amendment SA 891. (consideration: CR S1249-1250; text: CR S1385-1386) To provide relief for State and local governments based on demonstrated need.
+- 2021-03-06 — Amendment SA 1369 as modified not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 82.
+- 2021-03-06 — Amendment SA 1369 proposed by Senator Graham to Amendment SA 891. (consideration: CR S1237-1238; text as modified: CR S1237-1238) To improve the bill.
+- 2021-03-06 — Amendment SA 1378 agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 79.
+- 2021-03-06 — Amendment SA 1378 proposed by Senator Wyden to Amendment SA 891. (consideration: CR S1234-1235; text: CR S1388-1390) To improve the bill.
+- 2021-03-06 — Amendment SA 1381 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 101.
+- 2021-03-06 — Amendment SA 1381 proposed by Senator Lee to Amendment SA 891. (consideration: CR S1255-1256; text: CR S1394-1398) To modify the provisions relating to the child tax credit and to strike the provisions relating to dependent care assistance.
+- 2021-03-06 — Amendment SA 1383 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 89.
+- 2021-03-06 — Amendment SA 1383 proposed by Senator Young to Amendment SA 891. (consideration: CR S1242-1243; text: CR S1242) To strike the provision establishing the Emergency Federal Employee Leave Fund and appropriate $300,000,000 for chemical screening devices for U.S. Customs and Border Protection.
+- 2021-03-06 — Amendment SA 1386 proposed by Senator Tuberville to Amendment SA 891. (consideration: CR S1250-1251; text: CR S1250) To prohibit funds made available under title II to States, local educational agencies, and institutions of higher education that permit any student whose biological sex is male to participate in an athletic program or activity designated for women or girls.
+- 2021-03-06 — Amendment SA 1386 ruled out of order by the chair.
+- 2021-03-06 — Amendment SA 1391 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 109.
+- 2021-03-06 — Amendment SA 1391 proposed by Senator Warner to Amendment SA 891. (consideration: CR S1261; text: CR S1261) To extend the authority for Federal contractors to reimburse employees unable to perform work due to the COVID-19 pandemic from March 31, 2021, to September 30, 2021.
+- 2021-03-06 — Amendment SA 1395 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 91.
+- 2021-03-06 — Amendment SA 1395 proposed by Senator Scott FL to Amendment SA 891. (consideration: CR S1244-1245; text: CR S1244) To fund the procurement of HC-130J aircraft by the Coast Guard, and to provide an offset by striking National Railroad Passenger Corporation grant funding for the Northeast Corridor.
+- 2021-03-06 — Amendment SA 1398 agreed to in Senate by Voice Vote.
+- 2021-03-06 — Amendment SA 1398 proposed by Senator Schumer to Amendment SA 891. (consideration: CR S1261-1262; text: CR S1401-1406) To improve the bill.
+- 2021-03-06 — Amendment SA 891, as amended, agreed to in Senate by Voice Vote.
+- 2021-03-06 — Amendment SA 902 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 106.
+- 2021-03-06 — Amendment SA 902 proposed by Senator Grassley. (consideration: CR S1258-1259; text: CR S1258-1259) To provide funding for payments for losses of crops due to disasters.
+- 2021-03-06 — Amendment SA 944 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 87.
+- 2021-03-06 — Amendment SA 944 proposed by Senator Fischer for Senator Fischer to Amendment SA 891. (consideration: CR S1241-1242; text: CR S1199-1200) To distribute funds for public transportation urbanized area formula grants through the existing formulas.
+- 2021-03-06 — Amendment SA 968 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 104.
+- 2021-03-06 — Amendment SA 968 proposed by Senator Cruz to Amendment SA 891. (consideration: CR S1257-1258; text: CR S1257) To ensure that the 2021 Recovery Rebates are not provided to illegal immigrants.
+- 2021-03-06 — Amendment SA 969 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 95.
+- 2021-03-06 — Amendment SA 969 proposed by Senator Cruz to Amendment SA 891. (consideration: CR S1247-1249; text: CR S1248) To provide children with an option for in-classroom education instruction if the child's local public school does not commit to re-opening to 5-day-a-week, in-classroom instruction for the remainder of the current school year and the 2021-2022 school year.
+- 2021-03-06 — Amendment SA 996 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 93.
+- 2021-03-06 — Amendment SA 996 proposed by Senator Blackburn to Amendment SA 891. (consideration: CR S1246-1247; text: CR S1246) To strike section 9831.
+- 2021-03-06 — Motion by Senator Capito to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 90.
+- 2021-03-06 — Motion by Senator Cornyn to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 102.
+- 2021-03-06 — Motion by Senator Cotton to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 92.
+- 2021-03-06 — Motion by Senator Daines to commit to Senate Committee on Foreign Relations with instructions rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 108.
+- 2021-03-06 — Motion by Senator Grassley to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 85.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Commerce, Science, and Transportation with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Environment and Public Works with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Finance with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Foreign Relations with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Indian Affairs with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Small Business and Entrepreneurship with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committee on Veterans' Affairs with instructions made in Senate.
+- 2021-03-06 — Motion by Senator Hagerty to commit to Senate Committees on Environment and Public Works; Agriculture, Nutrition, and Forestry; Health, Education, Labor, and Pensions; Banking, Housing, and Urban Affairs; Homeland Security and Governmental Affairs; Small Business and Entrepreneurship; Commerce, Science, and Transportation; Veterans' Affairs; Finance; Foreign Relations; Indian Affairs; each with instructions (11 motions considered en bloc) rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 98.
+- 2021-03-06 — Motion by Senator Kennedy to commit to Senate Committee on Small Business and Entrepreneurship with instructions rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 99.
+- 2021-03-06 — Motion by Senator Scott FL, to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 100.
+- 2021-03-06 — Motion to waive all applicable budgetary disciple with respect to amendment SA 1242 rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 77.
+- 2021-03-06 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1031 rejected in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 94.
+- 2021-03-06 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1197 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 83.
+- 2021-03-06 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1386 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 97.
+- 2021-03-06 — Passed Senate with an amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 110.
+- 2021-03-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 110.
+- 2021-03-06 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 1197.
+- 2021-03-06 — Point of order that the amendment violates section 313(b)(1)(D) of the CBA raised in Senate with respect to amendment SA 1031.
+- 2021-03-06 — Point of order that the amendment violates section 313(b)(1)(D) of the CBA raised in Senate with respect to amendment SA 1242.
+- 2021-03-06 — Point of order that the amendment violates section 313(b)(1)(D) of the CBA raised in Senate with respect to amendment SA 1386.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1010 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 86.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1014 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 88.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 80.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1030 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 78.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1154 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 107.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1161 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 84.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1162 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 103.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1331 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 105.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1344 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 81.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1364 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 96.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1369 as modified not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 82.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1378 agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 79.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1381 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 101.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1383 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 89.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1391 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 109.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 1395 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 91.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 902 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 106.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 944 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 87.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 968 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 104.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 969 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 95.
+- 2021-03-06 — Roll call votes on amendments in Senate: Amendment SA 996 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 93.
+- 2021-03-06 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary disciple with respect to amendment SA 1242 rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 77.
+- 2021-03-06 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1031 rejected in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 94.
+- 2021-03-06 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1197 rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 83.
+- 2021-03-06 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1386 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 97.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 1233 agreed to in Senate by Voice Vote.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 1342 agreed to in Senate by Voice Vote.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 1344 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 81.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 1378 agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 79.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 1391 agreed to in Senate by Yea-Nay Vote. 93 - 6. Record Vote Number: 109.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 1398 agreed to in Senate by Voice Vote.
+- 2021-03-06 — Senate amendment agreed to: Amendment SA 891, as amended, agreed to in Senate by Voice Vote.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1010 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 86.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1014 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 88.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1026 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 80.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1030 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 78.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1154 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 107.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1161 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 84.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1162 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 103.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1331 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 105.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1364 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 96.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1369 as modified not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 82.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1381 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 101.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1383 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 89.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 1395 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 91.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 902 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 106.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 944 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 87.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 968 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 104.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 969 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 95.
+- 2021-03-06 — Senate amendment not agreed to: Amendment SA 996 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 93.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1010 proposed by Senator Toomey to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1014 proposed by Senator Paul to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1026 proposed by Senator Rubio to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1030 proposed by Senator Scott SC to Amendment SA 891.(consideration: CR S1233-1234; text: CR S1233)
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1031 proposed by Senator Lankford to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1154 proposed by Senator Moran to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1161 proposed by Senator Cassidy to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1162 proposed by Senator Cassidy to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1197 proposed by Senator Tester to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1233 proposed by Senator Murkowski to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1242 proposed by Senator Collins to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1331 proposed by Senator Lee to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1342 proposed by Senator Moran to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1344 proposed by Senator Hassan to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1364 proposed by Senator Romney to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1369 proposed by Senator Graham to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1378 proposed by Senator Wyden to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1381 proposed by Senator Lee to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1383 proposed by Senator Young to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1386 proposed by Senator Tuberville to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1391 proposed by Senator Warner to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1395 proposed by Senator Scott FL to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 1398 proposed by Senator Schumer to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 902 proposed by Senator Grassley.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 944 proposed by Senator Fischer for Senator Fischer to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 968 proposed by Senator Cruz to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 969 proposed by Senator Cruz to Amendment SA 891.
+- 2021-03-06 — Senate amendment proposed (on the floor): Amendment SA 996 proposed by Senator Blackburn to Amendment SA 891.
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
+- 2021-03-06 — Senate amendment submitted
