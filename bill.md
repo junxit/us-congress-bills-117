@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1319
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1319
 
-That the bill from the House of Representatives (H.R. 1319) entitled “An Act to provide for reconciliation pursuant to title II of S. Con. Res. 5.”, do pass with the following
-
-*Strike all after the first word and insert the following:*
+> To provide for reconciliation pursuant to title II of S. Con. Res. 5.
 
 ## § 1. Short title
 

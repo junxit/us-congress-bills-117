@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1319
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1319
@@ -966,3 +966,16 @@ American Rescue Plan Act of 2021
 - 2021-03-06 — Senate amendment submitted
 - 2021-03-06 — Senate amendment submitted
 - 2021-03-06 — Senate amendment submitted
+- 2021-03-09 — Message on Senate action sent to the House.
+- 2021-03-10 — DEBATE - Pursuant to the provisions of H. Res. 198, the House proceeded with 2 hours of debate on the motion to concur in the Senate amendment to H.R. 1319.
+- 2021-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-10 — Mr. Yarmuth moved that the House concur in the Senate amendment. (consideration: CR H1196-1286)
+- 2021-03-10 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 220 - 211 (Roll no. 72). (text: CR H1196-1259)
+- 2021-03-10 — Presented to President.
+- 2021-03-10 — Presented to President.
+- 2021-03-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 220 - 211 (Roll no. 72).(text: CR H1196-1259)
+- 2021-03-10 — The previous question was ordered pursuant to the rule.
+- 2021-03-11 — Became Public Law No: 117-2.
+- 2021-03-11 — Became Public Law No: 117-2.
+- 2021-03-11 — Signed by President.
+- 2021-03-11 — Signed by President.
