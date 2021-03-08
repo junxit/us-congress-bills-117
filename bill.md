@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 1660
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1660
+
+> To make certain municipalities eligible for grants under the Federal Water Pollution Control Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Sewage Overflow Act”.
+
+## § 2. Sewer overflow and stormwater reuse municipal grants
+
+Section 221 of the Federal Water Pollution Control Act (33 U.S.C. 1301) is amended—
+
+- **(1)** in subsection (b)—
+  - **(A)** in paragraph (3), by striking “or”;
+  - **(B)** in paragraph (4), by striking the period at the end and inserting “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(5)** is a municipality with high levels of sewage in the rivers, lakes, and bays of such municipality.
+
+- **(2)** in subsection (d)—
+  - **(A)** by striking “The Federal share” and inserting the following:
+    > - **(1)** *Federal share*
+    >   - **(A)** *In general* Except as provided in subparagraph (B), the Federal share
+
+  - **(B)** by striking “The non-Federal share” and inserting the following:
+    > - **(B)** *Financially distressed communities* The Federal share of the cost of activities carried out using amounts from a grant made to a financially distressed community under subsection (a) shall be not less than 75 percent of the cost.
+    > - **(2)** *Non-Federal share* The non-Federal share
+
+- **(3)** in subsection (f)—
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “$225,000,000” and inserting “$500,000,000”; and
+    - **(ii)** by striking “2020” and inserting “2030”; and
+  - **(B)** in paragraph (2) by striking “20 percent” and inserting “25 percent”.
