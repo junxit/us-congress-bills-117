@@ -1,7 +1,7 @@
 ---
 measure: H.R. 842
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 842
@@ -16,7 +16,7 @@ Protecting the Right to Organize Act of 2021
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (195)
+## Cosponsors (213)
 
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Levin, Andy [D-MI-9] (L000592)
@@ -213,6 +213,24 @@ Protecting the Right to Organize Act of 2021
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Case, Ed [D-HI-1] (C001055)
 
 ## Committees (1)
 
@@ -223,3 +241,42 @@ Protecting the Right to Organize Act of 2021
 - 2021-02-04 — Introduced in House
 - 2021-02-04 — Introduced in House
 - 2021-02-04 — Referred to the House Committee on Education and Labor.
+- 2021-03-08 — Rules Committee Resolution H. Res. 188 Reported to House. Rule provides for consideration of H.R. 842, H.R. 8 and H.R. 1446. Rule provides for one hour of general debate for H.R. 842, H.R. 8, and H.R. 1446. The rule provides for a motion to recommit on H.R. 842, H.R. 8, and H.R. 1446.
+- 2021-03-09 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 227 - 196 (Roll no. 67).
+- 2021-03-09 — Amendment failed by House: On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 185 - 243 (Roll no. 68).
+- 2021-03-09 — Amendment reported by the House Committee on Rules.
+- 2021-03-09 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H1154-1160, H1174-1175; text: CR H1154-1156)
+- 2021-03-09 — Amendments en bloc (A003) offered by Mr. Scott (VA). (consideration: CR H1160-1163, H1175-1176; text: CR H1160-1161)
+- 2021-03-09 — Considered as unfinished business. (consideration: CR H1174-1178)
+- 2021-03-09 — Considered under the provisions of rule H. Res. 188. (consideration: CR H1134-1163; text: CR H1134-1137)
+- 2021-03-09 — DEBATE - Pursuant to the provisions of H. Res. 188, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 1.
+- 2021-03-09 — DEBATE - Pursuant to the provisions of H. Res. 188, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 2.
+- 2021-03-09 — DEBATE - The House proceeded with one hour of debate on H.R. 842.
+- 2021-03-09 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-03-09 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 227 - 196 (Roll no. 67).
+- 2021-03-09 — House amendment not agreed to: On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 185 - 243 (Roll no. 68).
+- 2021-03-09 — House amendment offered
+- 2021-03-09 — House amendment offered
+- 2021-03-09 — House amendment offered
+- 2021-03-09 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).
+- 2021-03-09 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Scott (VA).
+- 2021-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-09 — Mr. Banks moved to recommit to the Committee on Education and Labor. (text: CR H1176-1177)
+- 2021-03-09 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-03-09 — On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 227 - 196 (Roll no. 67).
+- 2021-03-09 — On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 185 - 243 (Roll no. 68).
+- 2021-03-09 — On motion to recommit Failed by the Yeas and Nays: 206 - 218 (Roll no. 69).
+- 2021-03-09 — On passage Passed by the Yeas and Nays: 225 - 206 (Roll no. 70).
+- 2021-03-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 1, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-03-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-03-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 206 (Roll no. 70).
+- 2021-03-09 — Pursuant to clause 1(c) of Rule XIX, further consideration of H.R.842 is postponed.
+- 2021-03-09 — Pursuant to clause 1(c) of Rule XIX, the House resumed further consideration of H.R. 842.
+- 2021-03-09 — Roll call votes on amendments in House
+- 2021-03-09 — Roll call votes on amendments in House
+- 2021-03-09 — Rule provides for consideration of H.R. 842, H.R. 8 and H.R. 1446. Rule provides for one hour of general debate for H.R. 842, H.R. 8, and H.R. 1446. The rule provides for a motion to recommit on H.R. 842, H.R. 8, and H.R. 1446.
+- 2021-03-09 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-03-09 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-03-09 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-03-09 — The previous question was ordered pursuant to the rule.
+- 2021-03-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments which had been debated earlier and on which further proceedings had been postponed.
