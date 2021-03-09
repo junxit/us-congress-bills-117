@@ -1,0 +1,34 @@
+---
+legis-num: S. 631
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 631
+
+> To direct the Secretary of Health and Human Services, acting through the Director of the National Institute of Mental Health, to conduct or support research on the mental health consequences of SARS–CoV–2 or COVID–19, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “COVID–19 Mental Health Research Act”.
+
+## § 2. Research on the mental health impact of COVID–19
+
+- **(a)** *In general* The Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Director of the National Institute of Mental Health, shall conduct or support research on the mental health consequences of SARS–CoV–2 or COVID–19.
+- **(b)** *Use of funds* Research under subsection (a) may include—
+  - **(1)** research on the mental health impact of SARS–CoV–2 or COVID–19 on health care providers, including—
+    - **(A)** traumatic stress;
+    - **(B)** psychological distress;
+    - **(C)** psychiatric disorders; and
+    - **(D)** longer-term stress, including burnout;
+  - **(2)** research on the impact of SARS–CoV–2 or COVID–19 stressors on mental health over time;
+  - **(3)** research to strengthen the mental health response to SARS–CoV–2 or COVID–19, including adapting to and maintaining or providing additional services for new or increasing mental health needs;
+  - **(4)** research on the reach, efficiency, effectiveness, and quality of digital mental health interventions;
+  - **(5)** research on the effectiveness of strategies for implementation and delivery of evidence-based mental health interventions and services for underserved populations;
+  - **(6)** research on suicide prevention;
+  - **(7)** research on the impact of SARS–CoV–2 or COVID–19 on the mental health of specific populations, including children and adolescents, women, older adults, individuals with disabilities, and members of racial and ethnic minority groups; and
+  - **(8)** research on the impact of SARS–CoV–2 or COVID–19 on the mental health of individuals experiencing long-term symptoms or side effects after infection.
+- **(c)** *Research coordination* The Secretary shall coordinate activities under this section with similar activities conducted by national research institutes and centers of the National Institutes of Health to the extent that such institutes and centers have responsibilities that are related to the mental health consequences of SARS–CoV–2 or COVID–19.
+- **(d)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+- **(e)** *Supplement not supplant* Amounts made available to carry out this section shall be used to supplement, and not supplant, other funding made available to the National Institute of Mental Health.
