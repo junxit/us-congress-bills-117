@@ -1,7 +1,7 @@
 ---
 measure: H.R. 842
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 19 executed, 38 stated and not applied.
+61 amendatory instructions. 19 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -242,3 +242,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 164` | replace | Section 14(b) of the National Labor Relations Act (29 U.S.C. 164(b)) is amended by striking the period at the end and inserting the following: “: Provided, That collective bargaining agreements providing that all employees in a bargainin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 187` | repeal | by repealing section 303 (29 U.S.C. 187). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 433` | replace | Section 203(c) of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 433(c)) is amended by striking the period at the end and inserting the following “: Provided, That this subsection shall not exempt from the requireme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 531` | redesignate | by redesignating section 611 (29 U.S.C. 531) as section 612; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 530` | insert | by inserting after section 610 (29 U.S.C. 530), the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 433` | strike | by striking the period at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 433` | insert | by inserting “and shall make such information available to the public in a readily accessible and searchable electronic format, and through a secure software application for use on an electronic device.”. | the bill quotes the text inserted but describes where it goes |
