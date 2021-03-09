@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1280
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1280
@@ -244,3 +244,4 @@ George Floyd Justice in Policing Act of 2021
 - 2021-03-03 — Rule provides for consideration of H.R. 1 and H.R. 1280. Rule provides for 1 hour of general debate on H.R. 1 and one motion to recommit. Rule provides for 1 hour of general debate on H.R. 1280 and one motion to recommit.
 - 2021-03-03 — The previous question on the motion to recommit was ordered pursuant to the rule.
 - 2021-03-03 — The previous question was ordered pursuant to the rule.
+- 2021-03-09 — Received in the Senate.
