@@ -1,7 +1,7 @@
 ---
 measure: S. 415
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 415
@@ -33,3 +33,18 @@ A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to the sco
 - 2021-03-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1435)
 - 2021-03-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1435)
 - 2021-03-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S1435)
+- 2021-03-11 — Message on Senate action sent to the House.
+- 2021-03-12 — Held at the desk.
+- 2021-03-12 — Received in the House.
+- 2021-04-14 — Considered under suspension of the rules. (consideration: CR H1755-1756)
+- 2021-04-14 — DEBATE - The House proceeded with forty minutes of debate on S. 415.
+- 2021-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-14 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2021-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1755)
+- 2021-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1755)
+- 2021-04-20 — Presented to President.
+- 2021-04-20 — Presented to President.
+- 2021-04-23 — Became Public Law No: 117-9.
+- 2021-04-23 — Became Public Law No: 117-9.
+- 2021-04-23 — Signed by President.
+- 2021-04-23 — Signed by President.
