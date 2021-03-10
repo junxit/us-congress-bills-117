@@ -1,7 +1,7 @@
 ---
 measure: S. 320
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 320
@@ -28,3 +28,7 @@ John Lewis NIMHD Research Endowment Revitalization Act of 2021
 
 - 2021-02-12 — Introduced in Senate
 - 2021-02-12 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-03-10 — Passed Senate without amendment by Voice Vote. (text: CR S1435)
+- 2021-03-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S1435)
+- 2021-03-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1434-1435)
+- 2021-03-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S1434-1435)
