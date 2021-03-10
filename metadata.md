@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1276
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1276
@@ -95,3 +95,4 @@ Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veteran
 - 2021-03-09 — On agreeing to the Takano amendment (A001) Agreed to without objection.
 - 2021-03-09 — On passage Passed without objection.
 - 2021-03-09 — Passed/agreed to in House: On passage Passed without objection.
+- 2021-03-10 — Received in the Senate, read twice.
