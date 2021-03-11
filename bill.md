@@ -20,7 +20,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas women make up only 24 percent of the employees in the aerospace industry;
 - Whereas aviation is a science, technology, engineering, and mathematics (commonly known as “STEM”) focused career path;
 - Whereas the future of an abundant aviation workforce depends on a robust and diverse pool of candidates; and
-- Whereas women such as Amelia Earhart, Cicely Williams, Nicole Malachowski, Bessie Coleman, and Jeannie Leavitt have inspired, and will continue to inspire, young women to pursue careers in aviation: Now, therefore, be it
+- Whereas women such as Amelia Earhart, Cicely Williams, and Bessie Coleman have inspired, and will continue to inspire, young women to pursue careers in aviation: Now, therefore, be it
 
 That the Senate—
 
