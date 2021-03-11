@@ -40,17 +40,28 @@ Section 922(t) of title 18, United States Code is amended—
 
 Within 90 days after the end of each of the 1-year, 3-year, and 5-year periods that begin with the effective date of this Act, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a written report analyzing the extent to which, during the respective period, paragraphs (1)(B)(ii) and (7) of section 922(t) of title 18, United States Code, have prevented firearms from being transferred to prohibited persons, which report shall include but not be limited to the following—
 
-- **(1)** an assessment of the overall implementation of such subsections, including a description of the challenges faced in implementing such paragraphs; and
-- **(2)** an aggregate description of firearm purchase delays and denials, and an aggregate analysis of the petitions submitted pursuant to such paragraph (1)(B)(ii).
+- **(1)** an assessment of the overall implementation of such subsections, including a description of the challenges faced in implementing such paragraphs;
+- **(2)** an aggregate description of firearm purchase delays and denials, with a description of denials, disaggregated by State and by the basis for the denial; and
+- **(3)** an aggregate analysis of the petitions submitted pursuant to such paragraph (1)(B)(ii).
 
-## § 4. Reports on petitions supporting firearm transfers not immediately approved by NICS system, that were not responded to in a timely manner
+## § 4. Reports on petitions supporting firearms transfers not immediately approved by NICS System, that were not responded to in a timely manner
 
-The Director of the Federal Bureau of Investigation shall make an annual report to the public on the number of petitions received by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act that were submitted pursuant to subclause (I) of section 922(t)(1)(B)(ii) of title 18, United States Code, with respect to which a determination was not made within the 10-day period referred to in subclause (II) of such section.
+The Director of the Federal Bureau of Investigation shall make an annual report to the public on the number of petitions received by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act that were submitted pursuant to subclause (I) of section 922(t)(1)(B)(ii) of title 18, United States Code, with respect to which a determination was not made within the 10-day period referred to in subclause (II) of such section 922(t)(1)(B)(ii). The report shall include the following, which shall be disaggregated by State:
+
+- **(1)** The number of petitions submitted under such section that were received by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act.
+- **(2)** The number of petitioners who were discovered to be ineligible under Federal or State law during that 10-day period.
+- **(3)** The number of petitioners who were discovered to be ineligible under Federal or State law after that 10-day period.
+- **(4)** The basis of the ineligibility of the petitioners discovered to be ineligible under Federal or State law during that 10-day period, and the basis of the ineligibility of the petitioners discovered to be ineligible under Federal or State law after that 10-day period.
+- **(5)** The number of the petitioners whose petitions were denied and who, within 12 months after the denial, were prosecuted under Federal, State, or local law for receiving or attempting to receive a firearm.
 
 ## § 5. Report to the Congress
 
-Within 150 days after the date of the enactment of this Act, the Attorney General, in consultation with the National Resource Center on Domestic Violence and Firearms, shall submit to the Congress a report analyzing the effect, if any, of this Act on the safety of victims of domestic violence, domestic abuse, dating partner violence, sexual assault, and stalking, and whether any further amendments to the background check process, including amendments to the conditions that must be met under this Act for a firearm to be transferred when the system has not notified the licensee that such transfer would not violate subsection (g) or (n) of section 922 of title 18, United States Code, would likely result in a reduction in the risk of death or great bodily harm to victims of domestic violence, domestic abuse, dating partner violence, sexual assault, and stalking.
+Within 150 days after the date of the enactment of this Act, the Attorney General, in consultation with the National Resource Center on Domestic Violence and Firearms, shall submit to the Congress a report analyzing the effect, if any, of this Act on the safety of victims of domestic violence, domestic abuse, dating partner violence, sexual assault, and stalking, disaggregated by State, and whether any further amendments to the background check process, including amendments to the conditions that must be met under this Act for a firearm to be transferred when the system has not notified the licensee that such transfer would not violate subsection (g) or (n) of section 922 of title 18, United States Code, would likely result in a reduction in the risk of death or great bodily harm to victims of domestic violence, domestic abuse, dating partner violence, sexual assault, and stalking.
 
 ## § 6. Effective date
 
 This Act and the amendments made by this Act shall take effect 210 days after the date of the enactment of this Act.
+
+## § 7. Report on firearm transfers denied as a result of a NICS check
+
+Within 90 days after the date of the enactment of this Act, the Inspector General, Department of Justice, shall prepare and submit to the Congress a written report on the number of firearm transactions with respect to which the national instant criminal background check system established under the Brady Handgun Violence Prevention Act has determined that receipt of a firearm by the prospective firearm transferee would violate Federal or State law, and which have been referred to the Bureau of Alcohol, Tobacco, Firearms, and Explosives for investigation.
