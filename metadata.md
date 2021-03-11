@@ -1,7 +1,7 @@
 ---
 measure: H.R. 842
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 842
@@ -232,9 +232,10 @@ Protecting the Right to Organize Act of 2021
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -280,3 +281,4 @@ Protecting the Right to Organize Act of 2021
 - 2021-03-09 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-03-09 — The previous question was ordered pursuant to the rule.
 - 2021-03-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2021-03-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
