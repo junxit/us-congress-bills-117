@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -645,7 +645,7 @@ to guess them.
 | Removed | `$5,000` |
 | Inserted | `$25,000` |
 
-### 26 U.S.C. § 9033
+### 26 U.S.C. § 5201
 
 > Section 9032(4) of such Code, as amended by section 5201(a)(3)(A), is amended by striking “section 9034” and inserting “section 9033(b) or 9034”.
 
@@ -1328,19 +1328,19 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 30116` | add-at-end | Section 315(a) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30116(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30114` | add-at-end | Section 313 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30114) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6761` | add-at-end | Chapter 201 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6761` | add-at-end | The table of sections of chapter 201 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6761` | add-at-end | Chapter 97 of title 31, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6761` | add-at-end | The table of sections of chapter 97 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6761` | add-at-end | Chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6761` | add-at-end | The table of subchapters for chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3302` | add-at-end | Chapter 201 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3302` | add-at-end | The table of sections of chapter 201 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3302` | add-at-end | Chapter 97 of title 31, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3302` | add-at-end | The table of sections of chapter 97 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3302` | add-at-end | Chapter 68 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3302` | add-at-end | The table of subchapters for chapter 68 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | strike | by striking the last sentence of subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9034` | replace | by striking “The total” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 9034` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9033` | replace | by striking “20 States” and inserting the following: “20 States (disregarding any amount of contributions from any such resident to the extent that the total of the amounts contributed by such resident for the election exceeds $200)”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 9033` | amend | Paragraph (4) of section 9033(b) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9033` | add-at-end | Section 9033(b) of such Code is amended by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 5201` | amend | Paragraph (4) of section 9033(b) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 5201` | add-at-end | Section 9033(b) of such Code is amended by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9033` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 9033` | replace | by striking the period at the end of paragraph (4) and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 9033` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1364,7 +1364,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 9004` | amend | Subsection (a) of section 9004 of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9004` | amend | Subsection (b) of section 9004 of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9004` | add-at-end | Section 9005(a) of such Code is amended by adding at the end the following new sentence: “The Commission shall make such additional certifications as may be necessary to receive payments under section 9004.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9004` | add-at-end | Section 9002 of such Code, as amended by section 5212(b), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 5212` | add-at-end | Section 9002 of such Code, as amended by section 5212(b), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | amend | Section 315(d)(2) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30116(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
