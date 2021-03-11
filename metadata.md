@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1
@@ -385,3 +385,4 @@ For the People Act of 2021
 - 2021-03-03 — The previous question was ordered on the amendment (A008) pursuant to the rule.
 - 2021-03-03 — The previous question was ordered on the amendment (A009) pursuant to the rule.
 - 2021-03-03 — The previous question was ordered pursuant to the rule.
+- 2021-03-11 — Received in the Senate.
