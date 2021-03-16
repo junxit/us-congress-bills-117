@@ -1,0 +1,168 @@
+---
+measure: H.R. 1916
+congress: 117
+version: Introduced in House
+---
+
+# H.R. 1916
+
+Ensuring Lasting Smiles Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+
+## Cosponsors (133)
+
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Hagedorn, Jim [R-MN-1] (H001088)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+
+## Committees (3)
+
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
+- House — Education and the Workforce Committee
+
+## Actions
+
+- 2021-03-16 — Introduced in House
+- 2021-03-16 — Introduced in House
+- 2021-03-16 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-03-16 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-03-16 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-03-16 — Referred to the Subcommittee on Health.
