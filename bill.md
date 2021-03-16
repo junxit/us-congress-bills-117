@@ -2,14 +2,14 @@
 legis-num: H. RES. 233
 congress: 117th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 233
 
 > Providing for consideration of the bill (H.R. 1620) to reauthorize the Violence Against Women Act of 1994, and for other purposes; providing for consideration of the bill (H.R. 6) to authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes; providing for consideration of the bill (H.R. 1603) to amend the Immigration and Nationality Act to provide for terms and conditions for nonimmigrant workers performing agricultural labor or services, and for other purposes; providing for consideration of the bill (H.R. 1868) to prevent across-the-board direct spending cuts, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 17) removing the deadline for the ratification of the equal rights amendment; and for other purposes.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1620) to reauthorize the Violence Against Women Act of 1994, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–3, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; (2) the further amendments described in section 2 of this resolution; (3) the amendments en bloc described in section 3 of this resolution; and (4) one motion to recommit.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1620) to reauthorize the Violence Against Women Act of 1994, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-3, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; (2) the further amendments described in section 2 of this resolution; (3) the amendments en bloc described in section 3 of this resolution; and (4) one motion to recommit.
 
 ## § 2.
 
