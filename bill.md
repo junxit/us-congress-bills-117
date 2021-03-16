@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 1913
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1913
+
+> To authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to products of Uzbekistan.
+
+## § 1. Short title
+
+This Act may be cited as the “Uzbekistan Normalized Trade Act”.
+
+## § 2. Termination of application of title IV of the Trade Act of 1974 to products of Uzbekistan
+
+- **(a)** *Presidential determinations and extension of nondiscriminatory treatment* Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+  - **(1)** determine that such title should no longer apply to Uzbekistan; and
+  - **(2)** after making a determination under paragraph (1) with respect to Uzbekistan, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Uzbekistan.
+- **(b)** *Termination of applicability of title IV* On and after the date on which the President extends nondiscriminatory treatment to the products of Uzbekistan pursuant to subsection (a), title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) shall cease to apply to Uzbekistan.
