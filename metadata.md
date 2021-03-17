@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1276
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1276
@@ -16,7 +16,7 @@ Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veteran
 
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Cosponsors (54)
+## Cosponsors (55)
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
@@ -72,6 +72,7 @@ Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veteran
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 - Rep. Jacobs, Chris [R-NY-27] (J000020)
 - Rep. McKinley, David B. [R-WV-1] (M001180)
+- Sen. Moran, Jerry [R-KS] (M000934)
 
 ## Committees (1)
 
@@ -96,3 +97,11 @@ Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veteran
 - 2021-03-09 — On passage Passed without objection.
 - 2021-03-09 — Passed/agreed to in House: On passage Passed without objection.
 - 2021-03-10 — Received in the Senate, read twice.
+- 2021-03-17 — Amendment SA 1400 agreed to in Senate by Unanimous Consent.
+- 2021-03-17 — Amendment SA 1400 proposed by Senator Padilla for Senator Tester. (consideration: CR S1620; text: CR S1620) In the nature of a substitute.
+- 2021-03-17 — Measure laid before Senate by unanimous consent. (consideration: CR S1620)
+- 2021-03-17 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S1620)
+- 2021-03-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S1620)
+- 2021-03-17 — Senate amendment agreed to: Amendment SA 1400 agreed to in Senate by Unanimous Consent.
+- 2021-03-17 — Senate amendment proposed (on the floor): Amendment SA 1400 proposed by Senator Padilla for Senator Tester.
+- 2021-03-17 — Senate amendment submitted

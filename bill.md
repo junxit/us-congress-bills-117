@@ -2,32 +2,38 @@
 legis-num: H.R. 1276
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1276
 
-> To authorize the Secretary of Veterans Affairs to furnish COVID–19 vaccines to certain individuals, and for other purposes.
+That the bill from the House of Representatives (H.R. 1276) entitled “An Act to authorize the Secretary of Veterans Affairs to furnish COVID–19 vaccines to certain individuals, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Department of Veterans Affairs Veterans’ and Caregivers’ COVID–19 Immunizations Now Expanded Act of 2021” or the “VA VACCINE Act of 2021”.
+This Act may be cited as the “Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veterans and Every Spouse Act” or the “SAVE LIVES Act”.
 
-## § 2. Authority of Secretary of Veterans Affairs to furnish COVID–19 vaccines to certain individuals
+## § 2. Authority of Secretary of Veterans Affairs to furnish COVID–19 vaccine to certain individuals not enrolled in patient enrollment system of Department of Veterans Affairs
 
-- **(a)** *In general* The Secretary of Veterans Affairs may furnish a COVID–19 vaccine to a covered individual during the COVID–19 public health emergency.
-- **(b)** *Vaccines furnished abroad* In the case of an individual who is a covered individual by reason of subsection (d)(2)(B), the Secretary may furnish a COVID–19 vaccine, in a geographic location other than a State, to such individual under subsection (a) regardless of whether the Secretary determines that such vaccine is needed for the treatment of a service-connected disability of the veteran or as part of a rehabilitation program under chapter 31 of title 38, United States Code.
-- **(c)** *Veteran and accompanying caregiver priority* In furnishing COVID–19 vaccines, the Secretary shall—
-  - **(1)** prioritize the vaccination of veterans who are enrolled in the patient enrollment system of the Department of Veterans Affairs under section 1705 of title 38, United States Code, veterans who fail to so enroll but receive hospital care and medical services pursuant to subsection (c)(2) of such section, and accompanying caregivers over the vaccination of covered individuals under this section not otherwise described in this paragraph; and
-  - **(2)** only furnish such vaccines to covered individuals under this section to the extent that such vaccines are available.
-- **(d)** *Definitions* In this section:
-  - **(1)** The term accompanying caregiver means a caregiver described in subparagraph (C), (D), or (E) of paragraph (2) who is accompanying a veteran as described in subsection (c)(1).
-  - **(2)** The term covered individual means any of the following:
-    - **(A)** A veteran who is not eligible to enroll in the patient enrollment system of the Department of Veterans Affairs under section 1705 of title 38, United States Code.
-    - **(B)** A veteran who is eligible for care under section 1724 of such title.
-    - **(C)** A family caregiver who is approved as a provider of personal care services for an eligible veteran under the program of comprehensive assistance for family caregivers under section 1720G(a) of such title.
-    - **(D)** A caregiver of a covered veteran participating in the program of general caregiver support services under section 1720G(b) of such title.
-    - **(E)** A caregiver of a veteran participating in the Medical Foster Home Program, Bowel and Bladder Program, Home Based Primary Care Program, or Veteran Directed Care Program of the Department of Veterans Affairs.
-  - **(3)** The term COVID–19 means the Coronavirus disease 2019.
-  - **(4)** The term COVID–19 public health emergency means the public health emergency declared by the Secretary of Health and Human Services on January 27, 2020, with respect to the Coronavirus disease 2019.
-  - **(5)** The term State has the meaning given that term section 101 of title 38, United States Code.
+- **(a)** *In general* The Secretary of Veterans Affairs may furnish a vaccine for COVID–19 to a covered individual during the COVID–19 public health emergency.
+- **(b)** *Prioritization* In furnishing vaccines for COVID–19 under the laws administered by the Secretary, the Secretary shall—
+  - **(1)** prioritize the vaccination of veterans who are enrolled in the patient enrollment system, veterans who receive hospital care and medical services pursuant to subsection (c)(2) of section 1705 of title 38, United States Code, and accompanying caregivers of such veterans before the vaccination of covered individuals not otherwise described in this paragraph; and
+  - **(2)** only furnish vaccines for COVID–19 to covered individuals under this section to the extent that such vaccines are available.
+- **(c)** *Timing of vaccines provided to spouses of veterans* The Secretary may determine the timing for offering a vaccine for COVID–19 to the spouse of a veteran from the Department of Veterans Affairs.
+- **(d)** *Vaccine allocation* It is the sense of Congress that, to the extent practicable based on the current national supply chain, the Secretary of Health and Human Services should adjust the allocation for the Department of Veterans Affairs for the vaccine for COVID–19 based on the additional eligibility of covered individuals under this section.
+- **(e)** *Definitions* In this section:
+  - **(1)** *Accompanying caregiver* The term accompanying caregiver means a caregiver described in subparagraph (D), (E), or (F) of paragraph (2) who is accompanying a veteran who is receiving a vaccine for COVID–19 furnished by the Department.
+  - **(2)** *Covered individual* The term covered individual means any of the following individuals:
+    - **(A)** A veteran who is not eligible to enroll in the patient enrollment system.
+    - **(B)** A veteran who is eligible for care under section 1724 of title 38, United States Code.
+    - **(C)** A beneficiary under section 1781 of such title.
+    - **(D)** A family caregiver of a veteran participating in the program of comprehensive assistance for family caregivers under section 1720G(a) of such title.
+    - **(E)** A caregiver of a veteran participating in the program of general caregiver support services under section 1720G(b) of such title.
+    - **(F)** A caregiver of a veteran participating in the Medical Foster Home Program, Bowel and Bladder Program, Home Based Primary Care Program, or Veteran Directed Care Program of the Department of Veterans Affairs.
+    - **(G)** A spouse of a veteran.
+  - **(3)** *Covered public health emergency* The term covered public health emergency means an emergency with respect to COVID–19 declared by a Federal, State, or local authority.
+  - **(4)** *COVID–19* The term COVID–19 means the coronavirus disease 2019.
+  - **(5)** *Patient enrollment system* The term patient enrollment system means the system of annual patient enrollment of the Department of Veterans Affairs established and operated under section 1705(a) of title 38, United States Code.
+  - **(6)** *Veteran* The term veteran has the meaning given that term in section 101(2) of title 38, United States Code.
