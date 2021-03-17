@@ -1,7 +1,7 @@
 ---
 measure: S. 344
 congress: 117
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 

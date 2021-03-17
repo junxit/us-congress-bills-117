@@ -1,7 +1,7 @@
 ---
 measure: S. 344
 congress: 117
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 344
@@ -16,7 +16,7 @@ Major Richard Star Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (43)
+## Cosponsors (45)
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Hoeven, John [R-ND] (H001061)
@@ -61,12 +61,18 @@ Major Richard Star Act
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
 - 2021-02-22 — Introduced in Senate
 - 2021-02-22 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-03-17 — Referred to the Committee on Armed Services.
+- 2021-03-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2021-03-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
