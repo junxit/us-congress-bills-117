@@ -38,7 +38,7 @@ This Act may be cited as the “VOCA Fix to Sustain the Crime Victims Fund Act o
     - **(A)** in paragraph (3), by striking “; and” and inserting a semicolon;
     - **(B)** in paragraph (4), by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following new paragraph:
-      > - **(5)** the term “recovery costs” means expenses for personnel directly involved in the recovery efforts to obtain collections from restitution or from subrogation for payment under a civil law suit.
+      > - **(5)** the term recovery costs means expenses for personnel directly involved in the recovery efforts to obtain collections from restitution or from subrogation for payment under a civil law suit.
 
 ## § 3. Waiver of matching requirement
 
@@ -52,3 +52,7 @@ This Act may be cited as the “VOCA Fix to Sustain the Crime Victims Fund Act o
 
 - **(b)** *National emergency waiver* Section 1404(a) of the Victims of Crime Act of 1984 (34 U.S.C. 20103(a)), as amended by subsection (a), is further amended by inserting at the end the following new paragraph:
   > - **(8)** Beginning on the date a national emergency is declared under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issue waivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
