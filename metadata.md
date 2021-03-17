@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 17
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 17
@@ -16,7 +16,7 @@ Removing the deadline for the ratification of the equal rights amendment.
 
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 
-## Cosponsors (195)
+## Cosponsors (214)
 
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
@@ -213,6 +213,25 @@ Removing the deadline for the ratification of the equal rights amendment.
 - Rep. Bowman, Jamaal [D-NY-16] (B001223)
 - Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
 ## Committees (1)
 
@@ -223,3 +242,14 @@ Removing the deadline for the ratification of the equal rights amendment.
 - 2021-01-21 — Introduced in House
 - 2021-01-21 — Introduced in House
 - 2021-01-21 — Referred to the House Committee on the Judiciary.
+- 2021-03-16 — Rule H. Res. 233 passed House.
+- 2021-03-16 — Rules Committee Resolution H. Res. 233 Reported to House. Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
+- 2021-03-17 — Considered as unfinished business. (consideration: CR H1475-1476)
+- 2021-03-17 — Considered under the provisions of rule H. Res. 233. (consideration: CR H1419-1432)
+- 2021-03-17 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 17.
+- 2021-03-17 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-03-17 — On passage Passed by the Yeas and Nays: 222 - 204 (Roll no. 82). (text: CR H1419)
+- 2021-03-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J.Res. 17, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mrs. Fischbach demanded the yeas and nays and the Chair postponed further proceedings on passage until at time to be announced.
+- 2021-03-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 204 (Roll no. 82).(text: CR H1419)
+- 2021-03-17 — Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
+- 2021-03-17 — The previous question was ordered pursuant to the rule.
