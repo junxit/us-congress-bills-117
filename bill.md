@@ -22,3 +22,7 @@ This Act may be cited as the “COVID–19 Bankruptcy Relief Extension Act of 20
   - **(1)** Section 1329(d)(1) of title 11, United States Code, is amended, in the matter preceding subparagraph (A), by striking “this subsection” and inserting “the COVID–19 Bankruptcy Relief Extension Act of 2021”.
   - **(2)** Section 1113(b)(1)(D)(ii) of the CARES Act (11 U.S.C. 1329 note) is amended by striking “this Act” and inserting “the COVID–19 Bankruptcy Relief Extension Act of 2021”.
 - **(c)** *Bankruptcy relief* Section 1001 of division FF of the Consolidated Appropriations Act, 2021 (Public Law 116–260) is amended by striking “the date that is 1 year after the date of enactment of this Act” each place the term appears and inserting “March 27, 2022”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
