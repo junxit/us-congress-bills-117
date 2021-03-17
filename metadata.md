@@ -1,7 +1,7 @@
 ---
 measure: H.R. 485
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 485
@@ -49,9 +49,10 @@ Stronger Child Abuse Prevention and Treatment Act
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Stronger Child Abuse Prevention and Treatment Act
 - 2021-03-16 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
 - 2021-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 345 - 73 (Roll no. 81). (text: CR H1376-1387)
 - 2021-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 345 - 73 (Roll no. 81).(text: CR H1376-1387)
+- 2021-03-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
