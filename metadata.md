@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1085
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1085
@@ -16,7 +16,7 @@ To award three congressional gold medals to the United States Capitol Police and
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Cosponsors (260)
+## Cosponsors (335)
 
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
@@ -278,11 +278,87 @@ To award three congressional gold medals to the United States Capitol Police and
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Obernolte, Jay [R-CA-8] (O000019)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. McClain, Lisa C. [R-MI-10] (M001136)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. LaHood, Darin [R-IL-18] (L000585)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -290,3 +366,12 @@ To award three congressional gold medals to the United States Capitol Police and
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-18 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-03-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-03-16 — Considered under suspension of the rules. (consideration: CR H1371-1373)
+- 2021-03-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1085.
+- 2021-03-16 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2021-03-17 — Considered as unfinished business. (consideration: CR H1480)
+- 2021-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 12 (Roll no. 87). (text: 3/16/2021 CR H1371)
+- 2021-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 12 (Roll no. 87).(text: 3/16/2021 CR H1371)
+- 2021-03-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

@@ -42,3 +42,7 @@ It is the sense of the Congress that the United States Mint should expedite prod
 ## § 5. National medals
 
 Medals struck pursuant to this Act are national medals for the purposes of chapter 51 of title 31, United States Code.
+
+## § 6. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
