@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 1974
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1974
+
+> To amend the Internal Revenue Code of 1986 to allow the energy investment tax credit for electrochromic glass.
+
+## § 1. Short title
+
+This Act may be cited as the “Dynamic Glass Act of 2021”.
+
+## § 2. Inclusion of electrochromic glass as energy property for purposes of investment tax credit
+
+- **(a)** *In general* Section 48(a)(2)(A)(i) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subclause (IV) and by adding at the end the following new subclause:
+  > - **(VI)** energy property described in paragraph (3)(A)(ix), and
+
+- **(b)** *Electrochromic glass described* Section 48(a)(3)(A) of such Code is amended by striking “or” at the end of clause (vii), by adding “or” at the end of clause (viii), and by adding at the end the following new clause:
+  > - **(ix)** glass which uses electricity to change its light transmittance properties in order to heat or cool a structure, but only with respect to property the construction of which begins before January 1, 2024.
+
+- **(c)** *Phaseout* Section 48(a)(6) of such Code is amended—
+  - **(1)** by striking “paragraph (3)(A)(i)” each place it appears and inserting “clause (i) or (ix) of paragraph (3)(A)”, and
+  - **(2)** by inserting “and electrochromic glass” after “solar energy property”.
+- **(d)** *Effective date* The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
