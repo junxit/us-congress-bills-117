@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1620
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1620
@@ -16,7 +16,7 @@ Violence Against Women Act Reauthorization Act of 2021
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Cosponsors (159)
+## Cosponsors (186)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
@@ -177,6 +177,33 @@ Violence Against Women Act Reauthorization Act of 2021
 - Rep. Auchincloss, Jake [D-MA-4] (A000148)
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
 ## Committees (7)
 
@@ -200,3 +227,52 @@ Violence Against Women Act Reauthorization Act of 2021
 - 2021-03-08 — Referred to the Committee on the Judiciary, and in addition to the Committees on Financial Services, Ways and Means, Education and Labor, Energy and Commerce, Veterans' Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-03-08 — Referred to the Committee on the Judiciary, and in addition to the Committees on Financial Services, Ways and Means, Education and Labor, Energy and Commerce, Veterans' Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-03-08 — Sponsor introductory remarks on measure. (CR H1096)
+- 2021-03-09 — Referred to the Subcommittee on Health.
+- 2021-03-16 — Rules Committee Resolution H. Res. 233 Reported to House. Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
+- 2021-03-17 — Amendment (A003) offered by Ms. Stefanik. (consideration: CR H1472-1474, H1478; text: CR H1472-1473)
+- 2021-03-17 — Amendment (A004) offered by Mrs. Wagner. (consideration: CR H1474-1475, H1477-1478; text: CR H1474)
+- 2021-03-17 — Amendment agreed to by House: On agreeing to the Nadler amendments (A002) Agreed to by the Yeas and Nays: 228 - 197 (Roll no. 83).
+- 2021-03-17 — Amendment agreed to by House: On agreeing to the Wagner amendment (A004) Agreed to by the Yeas and Nays: 242 - 174 (Roll no. 84).
+- 2021-03-17 — Amendment failed by House: On agreeing to the Stefanik amendment (A003) Failed by the Yeas and Nays: 177 - 249 (Roll no. 85).
+- 2021-03-17 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-03-17 — Amendments en bloc (A002) offered by Mr. Nadler. (consideration: CR H1463-1472, H1476-1477; text: CR H1464-1470)
+- 2021-03-17 — Considered as unfinished business. (consideration: CR H1476-1479)
+- 2021-03-17 — Considered under the provisions of rule H. Res. 233. (consideration: CR H1432-1475)
+- 2021-03-17 — DEBATE - Pursuant to the provisions of H. Res. 233, the House proceeded with 10 minutes of debate on the Stefanik amendment No. 36.
+- 2021-03-17 — DEBATE - Pursuant to the provisions of H. Res. 233, the House proceeded with 10 minutes of debate on the Wagner amendment No. 40.
+- 2021-03-17 — DEBATE - Pursuant to the provisions of H. Res. 233, the House proceeded with 20 minutes of debate on the Nadler en bloc amendment No. 1.
+- 2021-03-17 — DEBATE - The House proceeded with one hour of debate on H.R. 1620.
+- 2021-03-17 — House amendment agreed to: On agreeing to the Nadler amendments (A002) Agreed to by the Yeas and Nays: 228 - 197 (Roll no. 83).
+- 2021-03-17 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-03-17 — House amendment agreed to: On agreeing to the Wagner amendment (A004) Agreed to by the Yeas and Nays: 242 - 174 (Roll no. 84).
+- 2021-03-17 — House amendment not agreed to: On agreeing to the Stefanik amendment (A003) Failed by the Yeas and Nays: 177 - 249 (Roll no. 85).
+- 2021-03-17 — House amendment offered
+- 2021-03-17 — House amendment offered
+- 2021-03-17 — House amendment offered
+- 2021-03-17 — House amendment offered
+- 2021-03-17 — House amendment offered/reported by: Amendment (A003) offered by Ms. Stefanik.
+- 2021-03-17 — House amendment offered/reported by: Amendment (A004) offered by Mrs. Wagner.
+- 2021-03-17 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Nadler.
+- 2021-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-17 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-03-17 — On agreeing to the Nadler amendments (A002) Agreed to by the Yeas and Nays: 228 - 197 (Roll no. 83).
+- 2021-03-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-03-17 — On agreeing to the Stefanik amendment (A003) Failed by the Yeas and Nays: 177 - 249 (Roll no. 85).
+- 2021-03-17 — On agreeing to the Wagner amendment (A004) Agreed to by the Yeas and Nays: 242 - 174 (Roll no. 84).
+- 2021-03-17 — On passage Passed by the Yeas and Nays: 244 - 172 (Roll no. 86). (text: CR H1432-1456)
+- 2021-03-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Fischbach demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-03-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stefanik amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Stefanik demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-03-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wagner amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Wagner demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-03-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 244 - 172 (Roll no. 86).(text: CR H1432-1456)
+- 2021-03-17 — Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 1620 was postponed.
+- 2021-03-17 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration of H.R. 1620.
+- 2021-03-17 — Roll call votes on amendments in House
+- 2021-03-17 — Roll call votes on amendments in House
+- 2021-03-17 — Roll call votes on amendments in House
+- 2021-03-17 — Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
+- 2021-03-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1620.
+- 2021-03-17 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-03-17 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-03-17 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2021-03-17 — The previous question was ordered pursuant to the rule.
+- 2021-03-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
