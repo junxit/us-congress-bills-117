@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1276
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1276
 
-That the bill from the House of Representatives (H.R. 1276) entitled “An Act to authorize the Secretary of Veterans Affairs to furnish COVID–19 vaccines to certain individuals, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To authorize the Secretary of Veterans Affairs to furnish COVID–19 vaccines to certain individuals, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1276
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1276
@@ -105,3 +105,15 @@ Strengthening and Amplifying Vaccination Efforts to Locally Immunize All Veteran
 - 2021-03-17 — Senate amendment agreed to: Amendment SA 1400 agreed to in Senate by Unanimous Consent.
 - 2021-03-17 — Senate amendment proposed (on the floor): Amendment SA 1400 proposed by Senator Padilla for Senator Tester.
 - 2021-03-17 — Senate amendment submitted
+- 2021-03-18 — Message on Senate action sent to the House.
+- 2021-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-19 — Mr. Takano asked unanimous consent to take the bill, H.R. 1276, from the Speaker's Table and agree to the Senate amendment. (consideration: CR H1603)
+- 2021-03-19 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H1603)
+- 2021-03-19 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H1603)
+- 2021-03-23 — Presented to President.
+- 2021-03-23 — Presented to President.
+- 2021-03-24 — Became Public Law No: 117-4.
+- 2021-03-24 — Became Public Law No: 117-4.
+- 2021-03-24 — Signed by President.
+- 2021-03-24 — Signed by President.
+- 2021-06-16 — Referred to the Subcommittee on Health.
