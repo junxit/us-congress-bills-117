@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1799
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1799
@@ -137,3 +137,7 @@ PPP Extension Act of 2021
 - 2021-03-16 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2021-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 3 (Roll no. 80). (text: CR H1373)
 - 2021-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 3 (Roll no. 80).(text: CR H1373)
+- 2021-03-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-03-18 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1641)
+- 2021-03-18 — Motion to proceed to consideration of measure made in Senate. (CR S1641)
+- 2021-03-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 11.
