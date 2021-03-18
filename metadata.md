@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6
@@ -16,7 +16,7 @@ American Dream and Promise Act of 2021
 
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 
-## Cosponsors (134)
+## Cosponsors (175)
 
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
@@ -152,6 +152,47 @@ American Dream and Promise Act of 2021
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
 ## Committees (2)
 
@@ -164,3 +205,22 @@ American Dream and Promise Act of 2021
 - 2021-03-03 — Introduced in House
 - 2021-03-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-03-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-03-16 — Rules Committee Resolution H. Res. 233 Reported to House. Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
+- 2021-03-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-03-18 — Considered as unfinished business. (consideration: CR H1567-1568)
+- 2021-03-18 — Considered under the provisions of rule H. Res. 233. (consideration: CR H1507-1527)
+- 2021-03-18 — DEBATE - The House proceeded with one hour of debate on H.R. 6.
+- 2021-03-18 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-03-18 — House amendment offered
+- 2021-03-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-18 — Mr. Jordan moved to recommit to the Committee on the Judiciary. (text: CR H1526)
+- 2021-03-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-03-18 — On motion to recommit Failed by the Yeas and Nays: 203 - 216 (Roll no. 90).
+- 2021-03-18 — On passage Passed by the Yeas and Nays: 228 - 197 (Roll no. 91). (text: CR H1507-1512)
+- 2021-03-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jordan motion to recommit, the Chair put the question on agreeing to the motion to recommit, and by voice vote announced that the noes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-03-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 197 (Roll no. 91).(text: CR H1507-1512)
+- 2021-03-18 — Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 6 is postponed.
+- 2021-03-18 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration of H.R. 6.
+- 2021-03-18 — Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
+- 2021-03-18 — The previous question on the motion to recommit was ordered pursuant to the rule.
+- 2021-03-18 — The previous question was ordered pursuant to the rule.
