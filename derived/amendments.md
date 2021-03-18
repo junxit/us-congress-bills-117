@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1799
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
