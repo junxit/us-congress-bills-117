@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1652
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1652
@@ -74,3 +74,4 @@ VOCA Fix to Sustain the Crime Victims Fund Act of 2021
 - 2021-03-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: 384 - 38 (Roll no. 89). (text: 3/16/2021 CR H1390-1391)
 - 2021-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: 384 - 38 (Roll no. 89).(text: 3/16/2021 CR H1390-1391)
+- 2021-03-18 — Received in the Senate, read twice.
