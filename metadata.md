@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1620
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1620
@@ -276,3 +276,4 @@ Violence Against Women Act Reauthorization Act of 2021
 - 2021-03-17 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-03-17 — The previous question was ordered pursuant to the rule.
 - 2021-03-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2021-03-18 — Received in the Senate.
