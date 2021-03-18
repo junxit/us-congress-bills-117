@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1603
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -151,7 +151,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1811` | add-at-end | Section 101 of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1811), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1813` | strike | in paragraph (4), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1813` | strike | in paragraph (5)(B), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 1813` | replace | in paragraph (6), by striking the period at the end and inserting “;” ; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1813` | replace | in paragraph (6), by striking the period at the end and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1813` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1812` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1812` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
