@@ -26,20 +26,18 @@ Congress finds the following:
 
 It is the sense of Congress that—
 
-- **(1)** due to the Burmese military’s seizure of government through the detention of State Counsellor Aung San Suu Kyi, President Win Myint, and other government leaders, Burma is not represented by a democratically elected government;
+- **(1)** due to the Burmese military’s seizure of government through the detention of State Counsellor Aung San Suu Kyi, President Win Myint, and other government leaders, Burma is not represented by a democratically-elected government;
 - **(2)** the inability of newly elected Members of Parliament to begin their official mandate due to the Burmese military’s actions directly threatens the democratic trajectory of Burma’s Parliament, and thereby the country;
 - **(3)** the will and determination of those duly-elected Members of Parliament who are taking it upon themselves to continue serving as representatives of the people through alternative methods of communicating and convening should be lauded; and
 - **(4)** by preventing the Parliament from completing its work, the Burmese military has rendered impossible and effectively nullified the international collaborative relationships that have supported and strengthened the institution, including the Burmese parliament’s partnership with HDP.
 
-## § 4. Statement of policy
+## § 4. Policy of the United States regarding Burma’s democracy
 
 It is the policy of the United States to—
 
-- **(1)** engage with the Association of Southeast Asian Nations (ASEAN) and ASEAN member states to—
-  - **(A)** condemn the military coup in Burma;
-  - **(B)** urge the unconditional release of detained democratically elected leaders and civil society members; and
-  - **(C)** support a return to Burma’s democratic transition; and
-- **(2)** instruct, as appropriate, representatives of the United States Government to use the voice, vote, and influence of the United States at the United Nations to hold accountable those responsible for the military coup in Burma.
+- **(1)** condemn the military coup in Burma, to urge the unconditional release of detained democratically-elected leaders and civil society members, and to support a return to Burma’s democratic transition;
+- **(2)** instruct, as appropriate, representatives of the United States Government to use the voice, vote, and influence of the United States at the United Nations to hold accountable those responsible for the military coup in Burma; and
+- **(3)** engage with the Association of Southeast Asian Nations (ASEAN) and ASEAN member states to promote a return to Burma’s democratic transition and democratic values throughout Southeast Asia, and support the centrality of ASEAN within the regional architecture of the Indo-Pacific.
 
 ## § 5. Report
 
