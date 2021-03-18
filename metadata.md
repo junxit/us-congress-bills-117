@@ -1,0 +1,139 @@
+---
+measure: H.R. 1996
+congress: 117
+version: Introduced in House
+---
+
+# H.R. 1996
+
+SAFE Banking Act of 2021
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+
+## Cosponsors (107)
+
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+
+## Committees (2)
+
+- House — Judiciary Committee
+- House — Financial Services Committee
+
+## Actions
+
+- 2021-03-18 — Introduced in House
+- 2021-03-18 — Introduced in House
+- 2021-03-18 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-03-18 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
