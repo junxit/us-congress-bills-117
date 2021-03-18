@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1652
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1652
@@ -16,7 +16,7 @@ VOCA Fix to Sustain the Crime Victims Fund Act of 2021
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
-## Cosponsors (38)
+## Cosponsors (41)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
@@ -56,6 +56,9 @@ VOCA Fix to Sustain the Crime Victims Fund Act of 2021
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lee, Mike [R-UT] (L000577)
 
 ## Committees (1)
 
@@ -75,3 +78,19 @@ VOCA Fix to Sustain the Crime Victims Fund Act of 2021
 - 2021-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: 384 - 38 (Roll no. 89). (text: 3/16/2021 CR H1390-1391)
 - 2021-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: 384 - 38 (Roll no. 89).(text: 3/16/2021 CR H1390-1391)
 - 2021-03-18 — Received in the Senate, read twice.
+- 2021-07-14 — Senate amendment submitted
+- 2021-07-20 — Amendment SA 2121 proposed by Senator Durbin for Senator Toomey. (consideration: CR S4962-4965, S4967-4974; text as modified: CR S4962) To ensure adequate funding in the Crime Victims Fund is disbursed to victims, their families, and their advocates each year.
+- 2021-07-20 — Amendment SA 2121, as modified, not agreed to in Senate by Yea-Nay Vote. 40 - 60. Record Vote Number: 271.
+- 2021-07-20 — Measure laid before Senate by unanimous consent. (consideration: CR S4962-4965, S4967-4974)
+- 2021-07-20 — Passed Senate, under the order of 7/14/21, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 272.
+- 2021-07-20 — Passed/agreed to in Senate: Passed Senate, under the order of 7/14/21, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 272.
+- 2021-07-20 — Roll call votes on amendments in Senate: Amendment SA 2121, as modified, not agreed to in Senate by Yea-Nay Vote. 40 - 60. Record Vote Number: 271.
+- 2021-07-20 — Senate amendment not agreed to: Amendment SA 2121, as modified, not agreed to in Senate by Yea-Nay Vote. 40 - 60. Record Vote Number: 271.
+- 2021-07-20 — Senate amendment proposed (on the floor): Amendment SA 2121 proposed by Senator Durbin for Senator Toomey.
+- 2021-07-21 — Message on Senate action sent to the House.
+- 2021-07-21 — Presented to President.
+- 2021-07-21 — Presented to President.
+- 2021-07-22 — Became Public Law No: 117-27.
+- 2021-07-22 — Became Public Law No: 117-27.
+- 2021-07-22 — Signed by President.
+- 2021-07-22 — Signed by President.
