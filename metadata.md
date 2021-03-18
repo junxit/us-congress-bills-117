@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1799
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1799
@@ -16,7 +16,7 @@ PPP Extension Act of 2021
 
 - Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
 
-## Cosponsors (101)
+## Cosponsors (117)
 
 - Rep. Kim, Young [R-CA-39] (K000397)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
@@ -119,6 +119,22 @@ PPP Extension Act of 2021
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Ernst, Joni [R-IA] (E000295)
 
 ## Committees (1)
 
@@ -141,3 +157,37 @@ PPP Extension Act of 2021
 - 2021-03-18 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1641)
 - 2021-03-18 — Motion to proceed to consideration of measure made in Senate. (CR S1641)
 - 2021-03-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 11.
+- 2021-03-23 — Senate amendment submitted
+- 2021-03-24 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 96 - 4. Record Vote Number: 136. (CR S1746)
+- 2021-03-24 — Motion to proceed to measure considered in Senate. (CR S1746)
+- 2021-03-24 — Senate amendment submitted
+- 2021-03-24 — Senate amendment submitted
+- 2021-03-24 — Senate amendment submitted
+- 2021-03-24 — Senate amendment submitted
+- 2021-03-24 — Senate amendment submitted
+- 2021-03-24 — Senate amendment submitted
+- 2021-03-25 — Amendment SA 1401 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 137.
+- 2021-03-25 — Amendment SA 1401 proposed by Senator Kennedy. (consideration: CR S1795-1796; text: CR S1795) To prohibit paycheck protection program loans and second draw loans for applicants convicted of a felony in relation to a riot or civil disorder during the 2-year period preceding the date of the application.
+- 2021-03-25 — Amendment SA 1405 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 138.
+- 2021-03-25 — Amendment SA 1405 proposed by Senator Rubio. (consideration: CR S1796; text: CR S1796) To establish appropriate limitations on the Administrator of the Small Business Administration establishing new priorities for processing lender applications.
+- 2021-03-25 — Measure laid before Senate by motion. (consideration: CR S1792-1800)
+- 2021-03-25 — Message on Senate action sent to the House.
+- 2021-03-25 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2021-03-25 — Motion to proceed to measure considered in Senate. (CR S1792)
+- 2021-03-25 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 64 - 36. Record Vote Number: 139. (CR S1797)
+- 2021-03-25 — Passed Senate, under the order of 3/24/2021, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 92 - 7. Record Vote Number: 140.
+- 2021-03-25 — Passed/agreed to in Senate: Passed Senate, under the order of 3/24/2021, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 92 - 7. Record Vote Number: 140.
+- 2021-03-25 — Point of order under section 404(a) of S.Con. Res. 13, 111th Congress, against the measure raised in Senate.
+- 2021-03-25 — Roll call votes on amendments in Senate: Amendment SA 1401 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 137.
+- 2021-03-25 — Roll call votes on amendments in Senate: Amendment SA 1405 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 138.
+- 2021-03-25 — Senate amendment not agreed to: Amendment SA 1401 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 137.
+- 2021-03-25 — Senate amendment not agreed to: Amendment SA 1405 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 138.
+- 2021-03-25 — Senate amendment proposed (on the floor): Amendment SA 1401 proposed by Senator Kennedy.
+- 2021-03-25 — Senate amendment proposed (on the floor): Amendment SA 1405 proposed by Senator Rubio.
+- 2021-03-25 — Senate amendment submitted
+- 2021-03-26 — Presented to President.
+- 2021-03-26 — Presented to President.
+- 2021-03-30 — Became Public Law No: 117-6.
+- 2021-03-30 — Became Public Law No: 117-6.
+- 2021-03-30 — Signed by President.
+- 2021-03-30 — Signed by President.
