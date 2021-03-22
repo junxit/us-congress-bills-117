@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1112
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1112
@@ -45,9 +45,10 @@ Protect Democracy in Burma Act of 2021
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Protect Democracy in Burma Act of 2021
 - 2021-03-18 — Mr. Meeks moved to suspend the rules and pass the bill, as amended.
 - 2021-03-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1560-1561)
 - 2021-03-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1560-1561)
+- 2021-03-22 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
