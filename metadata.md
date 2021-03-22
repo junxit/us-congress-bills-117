@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1603
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1603
@@ -80,12 +80,13 @@ Farm Workforce Modernization Act of 2021
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 
-## Committees (4)
+## Committees (5)
 
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -114,3 +115,4 @@ Farm Workforce Modernization Act of 2021
 - 2021-03-18 — Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
 - 2021-03-18 — The previous question on the motion to recommit was ordered pursuant to the rule.
 - 2021-03-18 — The previous question was ordered pursuant to the rule.
+- 2021-03-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
