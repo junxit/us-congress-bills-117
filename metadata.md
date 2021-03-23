@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 123
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 123
@@ -66,3 +66,7 @@ A resolution designating March 2021 as "National Women's History Month".
 
 - 2021-03-18 — Introduced in Senate
 - 2021-03-18 — Referred to the Committee on the Judiciary.
+- 2021-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1717; text: 3/18/2021 CR S1653)
+- 2021-03-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1717; text: 3/18/2021 CR S1653)
+- 2021-03-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2021-03-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.
