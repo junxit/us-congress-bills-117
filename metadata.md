@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 125
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 125
@@ -61,3 +61,7 @@ A resolution recognizing the heritage, culture, and contributions of American In
 
 - 2021-03-18 — Introduced in Senate
 - 2021-03-18 — Referred to the Committee on Indian Affairs.
+- 2021-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1717; text: 3/18/2021 CR S1654-1655)
+- 2021-03-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1717; text: 3/18/2021 CR S1654-1655)
+- 2021-03-23 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2021-03-23 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
