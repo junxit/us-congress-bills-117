@@ -1,0 +1,27 @@
+---
+legis-num: S. 928
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 928
+
+> To amend the Internal Revenue Code of 1986 to ensure that the 2021 recovery rebates as provided for in the American Rescue Plan Act are not provided to prison inmates and that such sums shall be redirected to the Department of Justice to be paid out in the form of restitution to compensate victims of crime.
+
+## § 1. Prohibiting 2021 Recovery Rebates from being provided to prisoners
+
+- **(a)** *In general* Section 6428B of the Internal Revenue Code of 1986, as added by section 9601 of the American Rescue Plan Act of 2021, is amended—
+  - **(1)** by redesignating subsections (h) and (i) as subsections (i) and (j), respectively;
+  - **(2)** in subsection (j), as so redesignated, by striking “subsection (h)(1)” each place it appears and inserting “subsection (i)(1)”; and
+  - **(3)** by inserting after subsection (g) the following:
+    > - **(h)** *Special rules with respect to prisoners*
+    >   - **(1)** *Disallowance of credit*
+    >     - **(A)** *In general* Subject to subparagraph (B), no credit shall be allowed under subsection (a) to an eligible individual who is, for each day during calendar year 2021, described in clause (i), (ii), (iii), (iv), or (v) of section 202(x)(1)(A) of the Social Security Act (42 U.S.C. 402(x)(1)(A)).
+    >     - **(B)** *Joint return* In the case of eligible individuals filing a joint return where 1 spouse is described in subparagraph (A), subsection (b)(1) shall be applied by substituting “$1,400” for “$2,800”.
+    >   - **(2)** *Denial of advance refund or credit* No refund or credit shall be made or allowed under subsection (g) with respect to any individual whom the Secretary has knowledge is, at the time of any determination made pursuant to paragraph (3) of such subsection, described in clause (i), (ii), (iii), (iv), or (v) of section 202(x)(1)(A) of the Social Security Act.
+
+- **(b)** *Crime Victims Fund*
+  - **(1)** *In general* There are transferred to the Crime Victims Fund, established under section 1402 of the Victims of Crime Act of 1984 (34 U.S.C. 20101), out of any money in the Treasury not otherwise obligated, an amount equal to the total reduction in outlays by reason of the amendment made by subsection (a).
+  - **(2)** *Use of funds* Any amount transferred to the Crime Victims Fund under paragraph (1) shall be merged with and be available for the same purposes as amounts deposited in the Crime Victims Fund under section 1402(b) of the Victims of Crime Act of 1984 (34 U.S.C. 20101(b)).
+- **(c)** *Effective date* The amendments made by subsection (a) shall take effect as if included in the enactment of section 9601 of the American Rescue Plan Act of 2021 (Public Law 117–2).
