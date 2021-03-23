@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 17
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 17
@@ -253,3 +253,6 @@ Removing the deadline for the ratification of the equal rights amendment.
 - 2021-03-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 204 (Roll no. 82).(text: CR H1419)
 - 2021-03-17 — Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
 - 2021-03-17 — The previous question was ordered pursuant to the rule.
+- 2021-03-18 — Received in the Senate.
+- 2021-03-22 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-03-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
