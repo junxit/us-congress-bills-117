@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 120
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 120
@@ -31,3 +31,7 @@ A resolution recognizing the Ninth Summit of the Americas and reaffirming the co
 
 - 2021-03-17 — Introduced in Senate
 - 2021-03-17 — Referred to the Committee on Foreign Relations.
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.
