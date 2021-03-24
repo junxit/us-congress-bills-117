@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 99
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 99
@@ -16,7 +16,7 @@ A resolution observing the 10th anniversary of the uprising in Syria.
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (10)
+## Cosponsors (16)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
@@ -28,6 +28,12 @@ A resolution observing the 10th anniversary of the uprising in Syria.
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Hagerty, Bill [R-TN] (H000601)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -37,3 +43,7 @@ A resolution observing the 10th anniversary of the uprising in Syria.
 
 - 2021-03-09 — Introduced in Senate
 - 2021-03-09 — Referred to the Committee on Foreign Relations. (text: CR S1428-1429)
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.
