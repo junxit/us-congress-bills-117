@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 97
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 97
@@ -16,7 +16,7 @@ A resolution calling on the Government of Ethiopia, the Tigray People's Liberati
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (6)
+## Cosponsors (13)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -24,6 +24,13 @@ A resolution calling on the Government of Ethiopia, the Tigray People's Liberati
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -33,3 +40,7 @@ A resolution calling on the Government of Ethiopia, the Tigray People's Liberati
 
 - 2021-03-09 — Introduced in Senate
 - 2021-03-09 — Referred to the Committee on Foreign Relations. (text: CR S1427-1428)
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.
