@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1651
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1651
@@ -39,3 +39,11 @@ COVID-19 Bankruptcy Relief Extension Act of 2021
 - 2021-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 14 (Roll no. 88). (text: 3/16/2021 CR H1389)
 - 2021-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 14 (Roll no. 88).(text: 3/16/2021 CR H1389)
 - 2021-03-18 — Received in the Senate, read twice.
+- 2021-03-24 — Amendment SA 1407 agreed to in Senate by Unanimous Consent.
+- 2021-03-24 — Amendment SA 1407 proposed by Senator Murphy for Senator Durbin. (consideration: CR S1779; text: CR S1779) To improve the bill.
+- 2021-03-24 — Measure laid before Senate by unanimous consent. (consideration: CR S1779)
+- 2021-03-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2021-03-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2021-03-24 — Senate amendment agreed to: Amendment SA 1407 agreed to in Senate by Unanimous Consent.
+- 2021-03-24 — Senate amendment proposed (on the floor): Amendment SA 1407 proposed by Senator Murphy for Senator Durbin.
+- 2021-03-24 — Senate amendment submitted
