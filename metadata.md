@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 81
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 81
@@ -16,9 +16,12 @@ A resolution honoring Las Damas de Blanco, a women-led nonviolent movement in su
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ A resolution honoring Las Damas de Blanco, a women-led nonviolent movement in su
 
 - 2021-03-01 — Introduced in Senate
 - 2021-03-01 — Referred to the Committee on Foreign Relations.
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
