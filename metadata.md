@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1651
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1651
@@ -47,3 +47,14 @@ COVID-19 Bankruptcy Relief Extension Act of 2021
 - 2021-03-24 — Senate amendment agreed to: Amendment SA 1407 agreed to in Senate by Unanimous Consent.
 - 2021-03-24 — Senate amendment proposed (on the floor): Amendment SA 1407 proposed by Senator Murphy for Senator Durbin.
 - 2021-03-24 — Senate amendment submitted
+- 2021-03-25 — Message on Senate action sent to the House.
+- 2021-03-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-03-26 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H1687)
+- 2021-03-26 — Presented to President.
+- 2021-03-26 — Presented to President.
+- 2021-03-26 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H1687)
+- 2021-03-26 — Without objection, the Chair laid before the House H.R. 1651  along with the Senate amendment thereto. (consideration: CR H1687)
+- 2021-03-27 — Became Public Law No: 117-5.
+- 2021-03-27 — Became Public Law No: 117-5.
+- 2021-03-27 — Signed by President.
+- 2021-03-27 — Signed by President.
