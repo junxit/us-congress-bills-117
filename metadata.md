@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 117
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 117
@@ -16,7 +16,7 @@ A resolution expressing support for the full implementation of the Good Friday A
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murphy, Christopher [D-CT] (M001169)
@@ -32,6 +32,7 @@ A resolution expressing support for the full implementation of the Good Friday A
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -41,3 +42,7 @@ A resolution expressing support for the full implementation of the Good Friday A
 
 - 2021-03-16 — Introduced in Senate
 - 2021-03-16 — Referred to the Committee on Foreign Relations. (text: CR S1573-1574)
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 20.
