@@ -1,12 +1,27 @@
 ---
 legis-num: H.R. 1651
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1651
 
-That the bill from the House of Representatives (H.R. 1651) entitled “An Act to amend the CARES Act to extend the sunset for the definition of a small business debtor, and for other purposes.”, do pass with the following
+> To amend the CARES Act to extend the sunset for the definition of a small business debtor, and for other purposes.
 
-*Strike section 2(c).*
+## § 1. Short title
+
+This Act may be cited as the “COVID–19 Bankruptcy Relief Extension Act of 2021”.
+
+## § 2. Extensions
+
+- **(a)** *In general* Section 1113 of the CARES Act (Public Law 116–136) is amended—
+  - **(1)** in subsection (a)(5) (11 U.S.C. 1182 note), by striking “1 year” and inserting “2 years”; and
+  - **(2)** in subsection (b)(2)(B) (11 U.S.C. 101 note), by striking “1 year” and inserting “2 years”.
+- **(b)** *Modification of plan after confirmation*
+  - **(1)** Section 1329(d)(1) of title 11, United States Code, is amended, in the matter preceding subparagraph (A), by striking “this subsection” and inserting “the COVID–19 Bankruptcy Relief Extension Act of 2021”.
+  - **(2)** Section 1113(b)(1)(D)(ii) of the CARES Act (11 U.S.C. 1329 note) is amended by striking “this Act” and inserting “the COVID–19 Bankruptcy Relief Extension Act of 2021”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
