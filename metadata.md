@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 122
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 122
@@ -28,3 +28,7 @@ A resolution reaffirming the importance of United States alliances and partnersh
 
 - 2021-03-18 — Introduced in Senate
 - 2021-03-18 — Referred to the Committee on Foreign Relations. (text: CR S1651-1653)
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.
