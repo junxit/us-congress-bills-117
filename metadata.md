@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 44
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 44
@@ -32,3 +32,7 @@ A resolution denouncing the Maduro regime's fraudulent legislative elections, th
 
 - 2021-02-08 — Introduced in Senate
 - 2021-02-08 — Referred to the Committee on Foreign Relations. (text: CR S580-581)
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.
