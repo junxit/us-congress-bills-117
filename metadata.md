@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 35
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 35
@@ -16,9 +16,12 @@ A resolution condemning the military coup that took place on February 1, 2021, i
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ A resolution condemning the military coup that took place on February 1, 2021, i
 
 - 2021-02-04 — Introduced in Senate
 - 2021-02-04 — Referred to the Committee on Foreign Relations. (text: CR S487-488)
+- 2021-03-24 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.
