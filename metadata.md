@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1868
 congress: 117
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1868
@@ -16,7 +16,7 @@ To prevent across-the-board direct spending cuts, and for other purposes.
 
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -25,6 +25,7 @@ To prevent across-the-board direct spending cuts, and for other purposes.
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 - Rep. Green, Al [D-TX-9] (G000553)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (3)
 
@@ -50,3 +51,20 @@ To prevent across-the-board direct spending cuts, and for other purposes.
 - 2021-03-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 175 (Roll no. 96).(text: CR H1589-1590)
 - 2021-03-19 — Rule provides for consideration of H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868 and H.J. Res. 17. The resolution provides for one hour of general debate on H.R. 1620, H.R. 6, H.R. 1603, H.R. 1868, and H.J.Res. 17. The resolution provides that H.Res. 232 is hereby adopted.
 - 2021-03-19 — The previous question was ordered pursuant to the rule.
+- 2021-03-22 — Received in the Senate.
+- 2021-03-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-03-25 — Amendment SA 1410 agreed to in Senate by Voice Vote.
+- 2021-03-25 — Amendment SA 1410 proposed by Senator Shaheen. (consideration: CR S1801-1804; text: CR S1801-1802) In the nature of a substitute.
+- 2021-03-25 — Amendment SA 1411 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 141.
+- 2021-03-25 — Amendment SA 1411 proposed by Senator Scott FL to Amendment SA 1410. (consideration: CR S1802; text: CR S1802) To improve the bill.
+- 2021-03-25 — Measure laid before Senate by unanimous consent. (consideration: CR S1800-1804)
+- 2021-03-25 — Passed Senate, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 90 - 2. Record Vote Number: 142. (text of amendment in the nature of a substitute: CR S1801-1802)
+- 2021-03-25 — Passed/agreed to in Senate: Passed Senate, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 90 - 2. Record Vote Number: 142.(text of amendment in the nature of a substitute: CR S1801-1802)
+- 2021-03-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.
+- 2021-03-25 — Roll call votes on amendments in Senate: Amendment SA 1411 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 141.
+- 2021-03-25 — Senate amendment agreed to: Amendment SA 1410 agreed to in Senate by Voice Vote.
+- 2021-03-25 — Senate amendment not agreed to: Amendment SA 1411 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 141.
+- 2021-03-25 — Senate amendment proposed (on the floor): Amendment SA 1410 proposed by Senator Shaheen.
+- 2021-03-25 — Senate amendment proposed (on the floor): Amendment SA 1411 proposed by Senator Scott FL to Amendment SA 1410.(consideration: CR S1802; text: CR S1802)
+- 2021-03-25 — Senate amendment submitted
+- 2021-03-25 — Senate amendment submitted
