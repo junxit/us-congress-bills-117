@@ -1,0 +1,21 @@
+---
+legis-num: S. 1031
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1031
+
+> To require the Comptroller General of the United States to conduct a study on disparities associated with race and ethnicity with respect to certain benefits administered by the Secretary of Veterans Affairs, and for other purposes.
+
+## § 1. Government Accountability Office study on disparities associated with race and ethnicity with respect to certain benefits administered by the Secretary of Veterans Affairs
+
+- **(a)** *Study required* The Comptroller General of the United States shall conduct a study—
+  - **(1)** to assess whether there are disparities associated with race and ethnicity with respect to—
+    - **(A)** compensation benefits administered by the Secretary of Veterans Affairs;
+    - **(B)** disability ratings determined by the Secretary, with specific consideration of disability evaluations based on pain; and
+    - **(C)** the rejection of fully developed claims for benefits under laws administered by the Secretary; and
+  - **(2)** to develop recommendations to facilitate better data collection on the disparities described in paragraph (1).
+- **(b)** *Initial briefing* Not later than one year after the date of the enactment of this Act, the Comptroller General shall brief Congress on the initial results of the study conducted under subsection (a).
+- **(c)** *Final report* Not later than 240 days after the date on which the briefing required by subsection (b) is conducted, the Comptroller General shall submit to Congress a final report setting forth the results of the study conducted under subsection (a), including the recommendations developed under paragraph (2) of such subsection.
