@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 34
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 34
@@ -82,3 +82,5 @@ A resolution recognizing the 200th anniversary of the independence of Greece and
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 17.
+- 2021-03-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1846; text: 2/4/2021 CR S487)
+- 2021-03-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1846; text: 2/4/2021 CR S487)
