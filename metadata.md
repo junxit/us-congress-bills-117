@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1868
 congress: 117
-version: Engrossed Amendment Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1868
