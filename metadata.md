@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 13
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 13
@@ -24,3 +24,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2021-03-23 — Introduced in Senate
 - 2021-03-23 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
+- 2021-03-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2021-03-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
