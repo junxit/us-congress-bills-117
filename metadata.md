@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1868
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1868
@@ -33,12 +33,13 @@ To prevent across-the-board direct spending cuts, and for other purposes.
 - House — Ways and Means Committee
 - House — Budget Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2021-03-19 — [House 117-1-95](votes/house-117-1-0095.md) — On Motion to Recommit — **Failed** (202–216)
 - 2021-03-19 — [House 117-1-96](votes/house-117-1-0096.md) — On Passage — **Passed** (246–175)
 - 2021-03-25 — [Senate 117-1-141](votes/senate-117-1-0141.md) — On the Amendment — **Amendment Rejected** (47–50)
 - 2021-03-25 — [Senate 117-1-142](votes/senate-117-1-0142.md) — On Passage of the Bill — **Bill Passed** (90–2)
+- 2021-04-13 — [House 117-1-98](votes/house-117-1-0098.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (384–38)
 
 ## Actions
 
@@ -75,3 +76,15 @@ To prevent across-the-board direct spending cuts, and for other purposes.
 - 2021-03-25 — Senate amendment proposed (on the floor): Amendment SA 1411 proposed by Senator Scott FL to Amendment SA 1410.(consideration: CR S1802; text: CR S1802)
 - 2021-03-25 — Senate amendment submitted
 - 2021-03-25 — Senate amendment submitted
+- 2021-03-26 — Message on Senate action sent to the House.
+- 2021-04-13 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 1868.
+- 2021-04-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-13 — Mr. Yarmuth moved that the House suspend the rules and concur in the Senate amendment. (consideration: CR H1729-1733)
+- 2021-04-13 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 384 - 38 (Roll no. 98). (text: CR H1729-1730)
+- 2021-04-13 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 384 - 38 (Roll no. 98).(text: CR H1729-1730)
+- 2021-04-14 — Became Public Law No: 117-7.
+- 2021-04-14 — Became Public Law No: 117-7.
+- 2021-04-14 — Presented to President.
+- 2021-04-14 — Presented to President.
+- 2021-04-14 — Signed by President.
+- 2021-04-14 — Signed by President.
