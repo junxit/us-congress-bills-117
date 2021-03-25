@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1868
 congress: 117
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 6 executed, 4 stated and not applied.
+11 amendatory instructions. 6 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,14 +33,41 @@ to guess them.
 | Removed | `March 31, 2021` |
 | Inserted | `December 31, 2021` |
 
-### 15 U.S.C. § 9023
+### 2 U.S.C. § 901a
 
-> Section 2104(h) of the CARES Act (15 U.S.C. 9023(h)) is amended by striking “Federal pandemic unemployment compensation” and inserting “Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation”.
+> by striking “first 6 months” and inserting “first 5 1/2 months”;
 
 | | |
 |---|---|
-| Removed | `Federal pandemic unemployment compensation` |
-| Inserted | `Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation` |
+| Removed | `first 6 months` |
+| Inserted | `first 5 1/2 months` |
+
+### 2 U.S.C. § 901a
+
+> by striking “4.0 percent” and inserting “2.0 percent”; and
+
+| | |
+|---|---|
+| Removed | `4.0 percent` |
+| Inserted | `2.0 percent` |
+
+### 2 U.S.C. § 901a
+
+> by striking “second 6 months” and inserting “6-month period beginning on the day after the last day of the period described in clause (i)”; and
+
+| | |
+|---|---|
+| Removed | `second 6 months` |
+| Inserted | `6-month period beginning on the day after the last day of the period described in clause (i)` |
+
+### 2 U.S.C. § 901a
+
+> by striking “0.0 percent.” and inserting “4.0 percent; and”; and
+
+| | |
+|---|---|
+| Removed | `0.0 percent.` |
+| Inserted | `4.0 percent; and` |
 
 ### 42 U.S.C. § 1395l
 
@@ -51,33 +78,6 @@ to guess them.
 | Removed | `under clause (i)(I)` |
 | Inserted | `under subclause (I) or (II) of clause (i), as applicable,` |
 
-### 42 U.S.C. § 1395l
-
-> in the matter preceding clause (i), by striking “2019, was” and inserting “2020”;
-
-| | |
-|---|---|
-| Removed | `2019, was` |
-| Inserted | `2020` |
-
-### 42 U.S.C. § 506
-
-> by striking “individuals referred to reemployment services as described in section 303(j)” and inserting “claimants for unemployment compensation, including claimants referred to reemployment services as described in section 303(j),”; and
-
-| | |
-|---|---|
-| Removed | `individuals referred to reemployment services as described in section 303(j)` |
-| Inserted | `claimants for unemployment compensation, including claimants referred to reemployment services as described in section 303(j),` |
-
-### 42 U.S.C. § 506
-
-> by striking “such individuals” and inserting “such claimants”.
-
-| | |
-|---|---|
-| Removed | `such individuals` |
-| Inserted | `such claimants` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -87,7 +87,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `2 U.S.C. § 901a` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 901a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | replace | in clause (i), by striking subclauses (I) and (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | insert | in clause (i), by inserting “was” after “(i)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-4` | add-at-end | Effective as if included in the enactment of section 203(a) of title II of division CC of Public Law 116–260, subsection (g) of section 1923 of the Social Security Act (42 U.S.C. 1396r–4) amended by such section 203(a) is amended by addi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-4` | add-at-end | Effective as if included in the enactment of section 203(a) of title II of division CC of Public Law 116–260, subsection (g) of section 1923 of the Social Security Act (42 U.S.C. 1396r–4), as amended by such section, is amended by adding… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
