@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 2322
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2322
+
+> To require the President of the Government National Mortgage Association to testify annually before the Congress, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ginnie Mae Oversight and Accountability Act of 2021”.
+
+## § 2. Annual testimony
+
+Subsection (a) of section 308 of the National Housing Act (12 U.S.C. 1723(a)) is amended—
+
+- **(1)** by inserting “(1)” after the subsection designation;
+- **(2)** in the last undesignated paragraph, by inserting “(2)” before “There”; and
+- **(3)** by adding at the end the following new paragraph:
+  > - **(3)** The President of the Association shall appear not less frequently than annually before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the financial status of the Association, the performance of its securities and the issuers of such securities, and any administrative or market challenges faced by the business model of the Association.
