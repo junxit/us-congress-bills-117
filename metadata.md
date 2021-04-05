@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7
@@ -16,7 +16,7 @@ Paycheck Fairness Act
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (224)
+## Cosponsors (225)
 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -242,6 +242,7 @@ Paycheck Fairness Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Crist, Charlie [D-FL-13] (C001111)
 - Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
 ## Committees (1)
 
@@ -252,3 +253,8 @@ Paycheck Fairness Act
 - 2021-01-28 — Introduced in House
 - 2021-01-28 — Introduced in House
 - 2021-01-28 — Referred to the House Committee on Education and Labor.
+- 2021-03-24 — Committee Consideration and Mark-up Session Held.
+- 2021-03-24 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 22.
+- 2021-04-05 — Placed on the Union Calendar, Calendar No. 2.
+- 2021-04-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-13.
+- 2021-04-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-13.
