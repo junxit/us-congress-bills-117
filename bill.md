@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 2437
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2437
+
+> To extend to May 17 the first scheduled individual estimated tax payment for 2021.
+
+## § 1. Delay of first scheduled individual estimated tax payment for 2021
+
+In the case of any taxable year beginning in 2021, the second column of the table in section 6654(c)(2) of the Internal Revenue Code of 1986 shall be applied by substituting “May 17” for “April 15”.
