@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 2378
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2378
+
+> To amend title 10, United States Code, to reiterate that the prohibition against the collection from tenants of privatized military housing units of amounts in addition to rent includes supplemental payments to recover costs associated with unit modifications or upgrades needed to comply with standards under the Americans with Disabilities Act of 1990.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Military Families with Disabilities Act”.
+
+## § 2. Clarification of prohibition against collection from tenants of privatized military housing units of amounts in addition to rent
+
+Section 2891a(e) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(3)** Costs incurred to modify or upgrade a housing unit to comply with standards under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and facilitate occupancy of the housing unit by an individual with a disability (as defined in section 3 of such Act (42 U.S.C. 12102)) may not be considered optional services under paragraph (2)(A)(i) or another exception to the prohibition in paragraph (1) against collection from tenants of housing units of amounts in addition to rent.
