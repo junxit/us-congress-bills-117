@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 2412
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2412
+
+> To extend the authorization of the Illinois and Michigan Canal National Heritage Area.
+
+## § 1. Authorization extension of the Illinois and Michigan Canal national heritage area
+
+The Illinois and Michigan Canal National Heritage Area Act of 1984 (54 U.S.C. 320101 note; Public Law 98–398) is amended—
+
+- **(1)** in section 125(a), by striking “$10,000,000” and inserting “$20,000,000”; and
+- **(2)** in section 126, by striking “15” and inserting “30”.
