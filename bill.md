@@ -1,0 +1,12 @@
+---
+legis-num: H. CON. RES. 27
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 27
+
+> Permitting the remains of the late United States Capitol Police Officer William F. Evans to lie in honor in the rotunda of the Capitol.
+
+That the remains of the late United States Capitol Police Officer William F. Evans shall be permitted to lie in honor in the rotunda of the Capitol on April 13, 2021, and the Architect of the Capitol, under the direction of the Speaker of the House of Representatives and the President pro tempore of the Senate, shall take all necessary steps for the accomplishment of that purpose.
