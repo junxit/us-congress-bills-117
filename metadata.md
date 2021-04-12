@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 28
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 28
@@ -34,3 +34,4 @@ Directing the Architect of the Capitol to transfer the catafalque situated in th
 - 2021-04-08 — Without objection, the Chair laid before the House H. Con. Res. 28.
 - 2021-04-12 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1865)
 - 2021-04-12 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1865)
+- 2021-04-13 — Message on Senate action sent to the House.
