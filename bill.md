@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 2457
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2457
+
+> To amend title 38, United States Code, to provide for the disapproval by the Secretary of Veterans Affairs of courses of education offered by public institutions of higher learning that do not charge veterans the in-State tuition rate for purposes of Survivors' and Dependents' Educational Assistance Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Colonel John McHugh Tuition Fairness for Survivors Act”.
+
+## § 2. Department of Veterans Affairs disapproval of courses offered by public institutions of higher learning that do not charge veterans the in-State tuition rate for purposes of Survivors’ and Dependents’ Educational Assistance Program
+
+- **(a)** *In general* Section 3679(c) of title 38, United States Code, is amended—
+  - **(1)** in paragraph (1), by striking “or 33” and inserting “33, or 35”;
+  - **(2)** in paragraph (2), by adding at the end the following new subparagraph:
+    > - **(D)** An individual who is entitled to assistance under section 3510 of this title.
+
+  - **(3)** in paragraph (6), by striking “and 33” and inserting “33, and 35”.
+- **(b)** *Conforming amendments* Section 3679(e) of such title is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** in subparagraph (A), by striking “or 33” and inserting “, 33, or 35”; and
+    - **(B)** in subparagraph (B), by striking “or 33” and inserting “33, or 35”; and
+  - **(2)** in paragraph (2), by striking “or 33” and inserting “33, or 35”.
+- **(c)** *Effective date* The amendments made by this Act shall take effect on the date of the enactment of this Act and shall apply with respect to an academic period that begins on or after August 1, 2022.
