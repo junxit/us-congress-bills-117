@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1766
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1766
@@ -16,9 +16,11 @@ FTC Collaboration Act of 2021
 
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
 
 ## Committees (1)
 
@@ -29,3 +31,10 @@ FTC Collaboration Act of 2021
 - 2021-03-10 — Introduced in House
 - 2021-03-10 — Introduced in House
 - 2021-03-10 — Referred to the House Committee on Energy and Commerce.
+- 2021-03-11 — Referred to the Subcommittee on Consumer Protection and Commerce.
+- 2021-04-14 — Considered under suspension of the rules. (consideration: CR H1762-1763)
+- 2021-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1766.
+- 2021-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-14 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2021-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1762)
+- 2021-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1762)
