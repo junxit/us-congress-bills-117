@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2545
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2545
+
+> To amend title 38, United States Code, to clarify the role of doctors of podiatric medicine in the Department of Veterans Affairs, and for other purposes.
+
+## § 1. Role of doctors of podiatric medicine in Department of Veterans Affairs
+
+- **(a)** *Clarification of role* Section 7306 of title 38, United States Code, is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (6), by striking “a Director of Podiatric Service,”;
+    - **(B)** by redesignating paragraph (10) as paragraph (11); and
+    - **(C)** by inserting after paragraph (9) the following new paragraph:
+      > - **(10)** A Podiatric Medical Director, who shall be a qualified doctor of podiatric medicine and who shall be responsible to the Under Secretary for Health for the operation of the Podiatric Service.
+
+  - **(2)** in subsection (b)(1), by inserting “podiatric medicine,” after “doctors of medicine,”; and
+  - **(3)** in subsection (c), by striking “and (8)” and inserting “(8), and (10)”.
+- **(b)** *Clarification of pay grade* Section 7404 of title 38, United States Code, is amended—
+  - **(1)** in subsection (a)(2), by inserting “, podiatrists,” after “physicians” ; and
+  - **(2)** in subsection (b), in the first heading of the list following the colon, by striking “PODIATRIST” and inserting “PODIATRIST (DPM)”.
