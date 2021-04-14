@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 303
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 303
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 7) to amend the Fair Labor Standar
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2021-04-14 — [House 117-1-102](votes/house-117-1-0102.md) — On Ordering the Previous Question — **Passed** (217–208)
+- 2021-04-14 — [House 117-1-103](votes/house-117-1-0103.md) — On Agreeing to the Resolution — **Passed** (217–207)
+
 ## Actions
 
 - 2021-04-13 — Introduced in House
@@ -27,3 +32,11 @@ Providing for consideration of the bill (H.R. 7) to amend the Fair Labor Standar
 - 2021-04-13 — Rule provides for one hour of general debate on H.R. 7 and provides one motion to recommit. Rule also provides for one hour of general debate on H.R. 1195 and provides one motion to recommit.
 - 2021-04-13 — The House Committee on Rules reported an original measure, H. Rept. 117-15, by Mr. DeSaulnier.
 - 2021-04-13 — The House Committee on Rules reported an original measure, H. Rept. 117-15, by Mr. DeSaulnier.
+- 2021-04-14 — Considered as privileged matter. (consideration: CR H1775-1781)
+- 2021-04-14 — Considered as unfinished business. (consideration: CR H1784-1785)
+- 2021-04-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 303.
+- 2021-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-14 — On agreeing to the resolution Agreed to by the Yeas and Nays: 217 - 207 (Roll no. 103). (text: CR H1775)
+- 2021-04-14 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 208 (Roll no. 102). (consideration: CR H1784-1785)
+- 2021-04-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 303, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Burgess demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question on H. Res. 303 until a time to be announced.
+- 2021-04-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 217 - 207 (Roll no. 103).(text: CR H1775)
