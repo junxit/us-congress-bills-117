@@ -1,7 +1,7 @@
 ---
 measure: S. 566
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 566
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2021-03-03 — Introduced in Senate
 - 2021-03-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-03-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2021-04-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2021-04-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
