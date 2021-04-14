@@ -1,7 +1,7 @@
 ---
 measure: S. 108
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 108
@@ -28,3 +28,7 @@ A bill to authorize the Seminole Tribe of Florida to lease or transfer certain l
 
 - 2021-01-28 — Introduced in Senate
 - 2021-01-28 — Read twice and referred to the Committee on Indian Affairs.
+- 2021-03-10 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2021-04-14 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-10.
+- 2021-04-14 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-10.
+- 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
