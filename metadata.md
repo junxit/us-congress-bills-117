@@ -1,7 +1,7 @@
 ---
 measure: H.R. 172
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 172
@@ -21,9 +21,10 @@ United States Anti-Doping Agency Reauthorization Act of 2021
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ United States Anti-Doping Agency Reauthorization Act of 2021
 - 2021-04-14 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2021-04-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 37 (Roll no. 99). (text: CR H1748)
 - 2021-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 37 (Roll no. 99).(text: CR H1748)
+- 2021-04-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
