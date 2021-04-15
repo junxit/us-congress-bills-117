@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7
@@ -258,3 +258,38 @@ Paycheck Fairness Act
 - 2021-04-05 — Placed on the Union Calendar, Calendar No. 2.
 - 2021-04-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-13.
 - 2021-04-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-13.
+- 2021-04-13 — Rules Committee Resolution H. Res. 303 Reported to House. Rule provides for consideration of H.R. 7 and H.R. 1195. Rule provides for one hour of general debate on H.R. 7 and provides one motion to recommit. Rule also provides for one hour of general debate on H.R. 1195 and provides one motion to recommit.
+- 2021-04-15 — Amendment (A003) offered by Mrs. Miller-Meeks. (consideration: CR H1822-1825, H1827-1828; text: CR H1822-1823)
+- 2021-04-15 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 216 - 207 (Roll no. 106).
+- 2021-04-15 — Amendment failed by House: On agreeing to the Miller-Meeks amendment (A003) Failed by the Yeas and Nays: 183 - 244 (Roll no. 107).
+- 2021-04-15 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H1799-1819; text: CR H1799-1801)
+- 2021-04-15 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H1819-1822, H1826-1827; text: CR H1819-1820)
+- 2021-04-15 — Considered as unfinished business. (consideration: CR H1826-1829)
+- 2021-04-15 — Considered under the provisions of rule H. Res. 303. (consideration: CR H1799-1825)
+- 2021-04-15 — DEBATE - Pursuant to the provisions of H. Res. 303, the House proceeded with 10 minutes of debate on the Miller-Meeks amendment No. 4.
+- 2021-04-15 — DEBATE - Pursuant to the provisions of H. Res. 303, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 1.
+- 2021-04-15 — DEBATE - The House proceeded with one hour of debate on H.R. 7.
+- 2021-04-15 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-04-15 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 216 - 207 (Roll no. 106).
+- 2021-04-15 — House amendment not agreed to: On agreeing to the Miller-Meeks amendment (A003) Failed by the Yeas and Nays: 183 - 244 (Roll no. 107).
+- 2021-04-15 — House amendment offered
+- 2021-04-15 — House amendment offered
+- 2021-04-15 — House amendment offered
+- 2021-04-15 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Miller-Meeks.
+- 2021-04-15 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).
+- 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-15 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-04-15 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-04-15 — On agreeing to the Miller-Meeks amendment (A003) Failed by the Yeas and Nays: 183 - 244 (Roll no. 107).
+- 2021-04-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-04-15 — On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 216 - 207 (Roll no. 106).
+- 2021-04-15 — On passage Passed by the Yeas and Nays: 217 - 210 (Roll no. 108).
+- 2021-04-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller-Meeks amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-04-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-04-15 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7 was postponed until a time to be announced.
+- 2021-04-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 210 (Roll no. 108).
+- 2021-04-15 — Roll call votes on amendments in House
+- 2021-04-15 — Roll call votes on amendments in House
+- 2021-04-15 — Rule provides for consideration of H.R. 7 and H.R. 1195. Rule provides for one hour of general debate on H.R. 7 and provides one motion to recommit. Rule also provides for one hour of general debate on H.R. 1195 and provides one motion to recommit.
+- 2021-04-15 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-04-15 — The previous question was ordered pursuant to the rule.

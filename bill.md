@@ -17,17 +17,17 @@ This Act may be cited as the “Paycheck Fairness Act”.
 
 - **(a)** *Definitions* Section 3 of the Fair Labor Standards Act of 1938 (29 U.S.C. 203) is amended by adding at the end the following:
   > - **(z)** “Sex” includes—
-  >   - **(1)** a sex stereotype;
-  >   - **(2)** pregnancy, childbirth, or a related medical condition;
-  >   - **(3)** sexual orientation or gender identity; and
-  >   - **(4)** sex characteristics, including intersex traits.
+  >   - **(1)** pregnancy, childbirth, or a related medical condition;
+  >   - **(2)** sexual orientation or gender identity; and
+  >   - **(3)** sex characteristics, including intersex traits.
   > - **(aa)** “Sexual orientation” includes homosexuality, heterosexuality, and bisexuality.
   > - **(bb)** “Gender identity” means the gender-related identity, appearance, mannerisms, or other gender-related characteristics of an individual, regardless of the individual’s designated sex at birth.
 
 - **(b)** *Bona fide factor defense and modification of same establishment requirement* Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is amended—
   - **(1)** by striking “No employer having” and inserting “(A) No employer having”;
-  - **(2)** by striking “any other factor other than sex” and inserting “a bona fide factor other than sex, such as education, training, or experience”; and
-  - **(3)** by inserting at the end the following:
+  - **(2)** by striking “the opposite” and inserting “another”;
+  - **(3)** by striking “any other factor other than sex” and inserting “a bona fide factor other than sex, such as education, training, or experience”; and
+  - **(4)** by inserting at the end the following:
     > - **(B)** The bona fide factor defense described in subparagraph (A)(iv) shall apply only if the employer demonstrates that such factor (i) is not based upon or derived from a sex-based differential in compensation; (ii) is job-related with respect to the position in question; (iii) is consistent with business necessity; and (iv) accounts for the entire differential in compensation at issue. Such defense shall not apply where the employee demonstrates that an alternative employment practice exists that would serve the same business purpose without producing such differential and that the employer has refused to adopt such alternative practice.
     > - **(C)** For purposes of subparagraph (A), employees shall be deemed to work in the same establishment if the employees work for the same employer at workplaces located in the same county or similar political subdivision of a State. The preceding sentence shall not be construed as limiting broader applications of the term “establishment” consistent with rules prescribed or guidance issued by the Equal Employment Opportunity Commission.
 
@@ -47,7 +47,7 @@ This Act may be cited as the “Paycheck Fairness Act”.
     > - **(c)** Subsection (a)(3)(C) shall not apply to instances in which an employee who has access to the wage information of other employees as a part of such employee’s essential job functions discloses the wages of such other employees to individuals who do not otherwise have access to such information, unless such disclosure is in response to a complaint or charge or in furtherance of an investigation, proceeding, hearing, or action under section 6(d), including an investigation conducted by the employer. Nothing in this subsection shall be construed to limit the rights of an employee provided under any other provision of law.
 
 - **(d)** *Enhanced penalties* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended—
-  - **(1)** by inserting after the first sentence the following: “Any employer who violates section 6(d), or who violates the provisions of section 15(a)(3) in relation to a violation of section 6(d), shall additionally be liable for such compensatory damages, or, where the employee demonstrates that the employer acted with malice or reckless indifference, punitive damages as may be appropriate, except that the United States shall not be liable for punitive damages.”;
+  - **(1)** by inserting after the first sentence the following: “Any employer who violates section 6(d), or who violates the provisions of section 15(a)(3) in relation to section 6(d), shall additionally be liable for such compensatory damages, or, where the employee demonstrates that the employer acted with malice or reckless indifference, punitive damages as may be appropriate, except that the United States shall not be liable for punitive damages.”;
   - **(2)** in the sentence beginning “An action to”, by striking “the preceding sentences” and inserting “any of the preceding sentences of this subsection”;
   - **(3)** in the sentence beginning “No employees shall”, by striking “No employees” and inserting “Except with respect to class actions brought to enforce section 6(d), no employee”;
   - **(4)** by inserting after the sentence referred to in paragraph (3), the following: “Notwithstanding any other provision of Federal law, any action brought to enforce section 6(d) may be maintained as a class action as provided by the Federal Rules of Civil Procedure.”; and
@@ -58,20 +58,11 @@ This Act may be cited as the “Paycheck Fairness Act”.
   - **(1)** in the first sentence—
     - **(A)** by inserting “or, in the case of a violation of section 6(d), additional compensatory or punitive damages, as described in subsection (b),” before “and the agreement”; and
     - **(B)** by inserting before the period the following: “, or such compensatory or punitive damages, as appropriate”;
-  - **(2)** in the second sentence, by inserting before the period the following: “and, in the case of a violation of section 6(d), additional compensatory or punitive damages, as described in subsection (b)”;
-  - **(3)** in the third sentence, by striking “the first sentence” and inserting “the first or second sentence”; and
-  - **(4)** in the sixth sentence—
-    - **(A)** by striking “commenced in the case” and inserting
-      > commenced—
-      > - **(1)** in the case
-
-    - **(B)** by striking the period and inserting “; or”; and
-    - **(C)** by adding at the end the following:
-      > - **(2)** in the case of a class action brought to enforce section 6(d), on the date on which the individual becomes a party plaintiff to the class action.
-
-- **(f)** *Joint enforcement authority*
-  - **(1)** *In general* Notwithstanding section 1 of Reorganization Plan No. 1 of 1978 (92 Stat. 3781; 5 U.S.C. App.) and any other provision of law, the Secretary of Labor, acting through the Office of Federal Contract Compliance Programs, and the Equal Opportunity Employment Commission shall jointly carry out the functions and authorities described in such section and any other provision of law to enforce and administer the provisions of section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)) with respect to Federal contractors, Federal subcontractors, and federally-assisted construction contractors, within the jurisdiction of the Office of Federal Contract Compliance Programs under Executive Order 11246 (42 U.S.C. 2000e note; relating to equal employment opportunity) or a successor Executive Order.
-  - **(2)** *Coordination* The Equal Opportunity Employment Commission and the Secretary of Labor shall establish such coordinating mechanisms as necessary to carry out the joint authority under paragraph (1).
+  - **(2)** in the second sentence, by inserting before the period the following: “and, in the case of a violation of section 6(d), additional compensatory or punitive damages, as described in subsection (b)”; and
+  - **(3)** in the third sentence, by striking “the first sentence” and inserting “the first or second sentence”.
+- **(f)** *Enforcement authority*
+  - **(1)** *In general* The Equal Opportunity Employment Commission shall carry out the functions and authorities described in section 1 of Reorganization Plan No. 1 of 1978 (92 Stat. 3781; 5 U.S.C. App.) to enforce and administer the provisions of section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)), except that the Secretary of Labor, through the Office of Federal Contract Compliance Programs, may also enforce this provision with respect to Federal contractors, Federal subcontractors, and federally-assisted construction contractors, within the jurisdiction of the Office of Federal Contract Compliance Programs under Executive Order No. 11246 (42 U.S.C. 2000e note; relating to equal employment opportunity) or a successor Executive order.
+  - **(2)** *Coordination* The Equal Opportunity Employment Commission shall issue such regulations as may be necessary to explain and implement the standards of such section 6(d). The Secretary of Labor may issue regulations to govern procedures for enforcement of section 6(d) by the Office of Federal Contract Compliance Programs. The Secretary of Labor and the Equal Employment Opportunity Commission shall establish other coordinating mechanisms as may be necessary.
 
 ## § 3. Training
 
@@ -79,16 +70,32 @@ The Equal Employment Opportunity Commission and the Secretary of Labor, acting t
 
 ## § 4. Negotiation skills training
 
-- **(a)** *Program authorized*
+- **(a)** *Negotiation bias training*
+  - **(1)** *In general* The Secretary of Labor shall establish a program to award contracts and grants for the purpose of training employers about the role that salary negotiation and other inconsistent wage setting practices can have on allowing bias to enter compensation.
+  - **(2)** *Training topics* Each training program established using funds under section (a) shall include an overview of how structural issues may cause inequitable earning and advancement opportunities for women and people of color and assist employers in examining the impact of a range of practices on such opportunities, including—
+    - **(A)** self-auditing to identify structural issues that allow bias and inequity to enter compensation;
+    - **(B)** recruitment of candidates to ensure diverse pools of applicants;
+    - **(C)** salary negotiations that result in similarly qualified workers entering at different rates of pay;
+    - **(D)** internal equity among workers with similar skills, effort, responsibility and working conditions;
+    - **(E)** consistent use of market rates and incentives driven by industry competitiveness;
+    - **(F)** evaluation of the rate of employee progress and advancement to higher paid positions;
+    - **(G)** work assignments that result in greater opportunity for advancement;
+    - **(H)** training, development and promotion opportunities;
+    - **(I)** impact of mid-level or senior level hiring in comparison to wage rates of incumbent workers;
+    - **(J)** opportunities to win commissions and bonuses;
+    - **(K)** performance reviews and raises;
+    - **(L)** processes for adjusting pay to address inconsistency and inequity in compensation; and
+    - **(M)** other topics that research identifies as a common area for assumptions, bias and inequity to impact compensation.
+- **(b)** *Program authorized*
   - **(1)** *In general* The Secretary of Labor, after consultation with the Secretary of Education, is authorized to establish and carry out a grant program.
   - **(2)** *Grants* In carrying out the program, the Secretary of Labor may make grants on a competitive basis to eligible entities to carry out negotiation skills training programs for the purposes of addressing pay disparities, including through outreach to women and girls.
   - **(3)** *Eligible entities* To be eligible to receive a grant under this subsection, an entity shall be a public agency, such as a State, a local government in a metropolitan statistical area (as defined by the Office of Management and Budget), a State educational agency, or a local educational agency, a private nonprofit organization, or a community-based organization.
   - **(4)** *Application* To be eligible to receive a grant under this subsection, an entity shall submit an application to the Secretary of Labor at such time, in such manner, and containing such information as the Secretary of Labor may require.
   - **(5)** *Use of funds* An entity that receives a grant under this subsection shall use the funds made available through the grant to carry out an effective negotiation skills training program for the purposes described in paragraph (2).
-- **(b)** *Incorporating training into existing programs* The Secretary of Labor and the Secretary of Education shall issue regulations or policy guidance that provides for integrating the negotiation skills training, to the extent practicable, into programs authorized under—
+- **(c)** *Incorporating training into existing programs* The Secretary of Labor and the Secretary of Education shall issue regulations or policy guidance that provides for integrating the negotiation skills training, to the extent practicable, into programs authorized under—
   - **(1)** in the case of the Secretary of Education, the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and other programs carried out by the Department of Education that the Secretary of Education determines to be appropriate; and
   - **(2)** in the case of the Secretary of Labor, the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), and other programs carried out by the Department of Labor that the Secretary of Labor determines to be appropriate.
-- **(c)** *Report* Not later than 18 months after the date of enactment of this Act, and annually thereafter, the Secretary of Labor, in consultation with the Secretary of Education, shall prepare and submit to Congress a report describing the activities conducted under this section and evaluating the effectiveness of such activities in achieving the purposes of this section.
+- **(d)** *Report* Not later than 18 months after the date of enactment of this Act, and annually thereafter, the Secretary of Labor, in consultation with the Secretary of Education, shall prepare and submit to Congress a report describing the activities conducted under this section and evaluating the effectiveness of such activities in achieving the purposes of this section.
 
 ## § 5. Research, education, and outreach
 
@@ -98,24 +105,9 @@ The Equal Employment Opportunity Commission and the Secretary of Labor, acting t
   - **(3)** sponsoring and assisting State, local, and community informational and educational programs;
   - **(4)** providing information to employers, labor organizations, professional associations, and other interested persons on the means of eliminating the pay disparities; and
   - **(5)** recognizing and promoting the achievements of employers, labor organizations, and professional associations that have worked to eliminate the pay disparities.
-- **(b)** *Report on gender pay gap in teenage labor force*
-  - **(1)** *Report required* Not later than one year after the date of the enactment of this Act, the Secretary of Labor, acting through the Director of the Women’s Bureau and in coordination with the Commissioner of Labor Statistics, shall—
-    - **(A)** submit to Congress a report on the gender pay gap in the teenage labor force; and
-    - **(B)** make the report available on a publicly accessible website of the Department of Labor.
-  - **(2)** *Elements* The report under subsection (a) shall include the following:
-    - **(A)** An examination of trends and potential solutions relating to the teenage gender pay gap.
-    - **(B)** An examination of how the teenage gender pay gap potentially translates into greater wage gaps in the overall labor force.
-    - **(C)** An examination of overall lifetime earnings and losses for informal and formal jobs for women, including women of color.
-    - **(D)** An examination of the teenage gender pay gap, including a comparison of the average amount earned by males and females, respectively, in informal jobs, such as babysitting and other freelance jobs, as well as formal jobs, such as retail, restaurant, and customer service.
-    - **(E)** A comparison of—
-      - **(i)** the types of tasks typically performed by women from the teenage years through adulthood within certain informal jobs, such as babysitting and other freelance jobs, and formal jobs, such as retail, restaurant, and customer service; and
-      - **(ii)** the types of tasks performed by younger males in such positions.
-    - **(F)** Interviews and surveys with workers and employers relating to early gender-based pay discrepancies.
-    - **(G)** Recommendations for—
-      - **(i)** addressing pay inequality for women from the teenage years through adulthood, including such women of color;
-      - **(ii)** addressing any disadvantages experienced by young women with respect to work experience and professional development;
-      - **(iii)** the development of standards and best practices for workers and employees to ensure better pay for young women and the prevention of early inequalities in the workplace; and
-      - **(iv)** expanding awareness for teenage girls on pay rates and employment rights in order to reduce greater inequalities in the overall labor force.
+- **(b)** *Research on Gender Pay Gap in Teenage Labor Force*
+  - **(1)** *Research review* Not later than 12 months after the date of the enactment of this Act, the Secretary of Labor, acting through the Director of the Women’s Bureau, shall conduct a review and develop a synthesis of research on the gender wage gap among younger workers existing as of the date of enactment of this Act, and shall make such review and synthesis available on a publicly accessible website of the Department of Labor.
+  - **(2)** *Authority to commission studies* Not later than 36 months after the date of the enactment of this Act, the Secretary of Labor, acting through the Director of the Women’s Bureau, shall request proposals and commission studies that can advance knowledge on the gender wage gap among younger workers, and shall make such studies available on a publicly accessible website of the Department of Labor.
 
 ## § 6. Establishment of the National Award for Pay Equity in the Workplace
 
@@ -138,29 +130,17 @@ The Equal Employment Opportunity Commission and the Secretary of Labor, acting t
 Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following:
 
 > - **(f)**
->   - **(1)** Not later than 18 months after the date of enactment of this subsection, the Commission shall provide for the collection from employers of compensation data and other employment-related data (including hiring, termination, and promotion data) disaggregated by the sex, race, and national origin of employees.
->   - **(2)** In carrying out paragraph (1), the Commission shall have as its primary consideration the most effective and efficient means for enhancing the enforcement of Federal laws prohibiting pay discrimination. For this purpose, the Commission shall consider factors including the imposition of burdens on employers, the frequency of required reports (including the size of employers required to prepare reports), appropriate protections for maintaining data confidentiality, and the most effective format to report such data.
+>   - **(1)** Not later than 24 months after the date of enactment of this subsection, the Commission shall provide for the annual collection from employers of compensation data disaggregated by the sex, race, and national origin of employees. The Commission may also require employers to submit other employment-related data (including hiring, termination, and promotion data) so disaggregated.
+>   - **(2)** In carrying out paragraph (1), the Commission shall have as its primary consideration the most effective and efficient means for enhancing the enforcement of Federal laws prohibiting pay discrimination. The Commission shall also consider factors including the imposition of burdens on employers, the frequency of required reports (including the size of employers required to prepare reports), appropriate protections for maintaining data confidentiality, and the most effective format to report such data.
 >   - **(3)**
->     - **(A)** For each 12-month reporting period for an employer, the compensation data collected under paragraph (1) shall include, for each range of taxable compensation described in subparagraph (B), disaggregated by the categories described in subparagraph (E)—
->       - **(i)** the number of employees of the employer who earn taxable compensation in an amount that falls within such taxable compensation range; and
+>     - **(A)** For each 12-month reporting period for an employer, the data collected under paragraph (1) shall include compensation data disaggregated by the categories described in subparagraph (E).
+>     - **(B)** For the purposes of collecting the disaggregated compensation data described in subparagraph (A), the Commission may use compensation ranges reporting—
+>       - **(i)** the number of employees of the employer who earn compensation in an amount that falls within such compensation range; and
 >       - **(ii)** the total number of hours worked by such employees.
->     - **(B)** Subject to adjustment under subparagraph (C), the taxable compensation ranges described in this subparagraph are as follows:
->       - **(i)** Not more than $19,239.
->       - **(ii)** Not less than $19,240 and not more than $24,439.
->       - **(iii)** Not less than $24,440 and not more than $30,679.
->       - **(iv)** Not less than $30,680 and not more than $38,999.
->       - **(v)** Not less than $39,000 and not more than $49,919.
->       - **(vi)** Not less than $49,920 and not more than $62,919.
->       - **(vii)** Not less than $62,920 and not more than $80,079.
->       - **(viii)** Not less than $80,080 and not more than $101,919.
->       - **(ix)** Not less than $101,920 and not more than $128,959.
->       - **(x)** Not less than $128,960 and not more than $163,799.
->       - **(xi)** Not less than $163,800 and not more than $207,999.
->       - **(xii)** Not less than $208,000.
->     - **(C)** The Commission may adjust the taxable compensation ranges under subparagraph (B)—
+>     - **(C)** If the Commission uses compensation ranges to collect the pay data described in subparagraph (A), the Commission may adjust such compensation ranges—
 >       - **(i)** if the Commission determines that such adjustment is necessary to enhance enforcement of Federal laws prohibiting pay discrimination; or
 >       - **(ii)** for inflation, in consultation with the Bureau of Labor Statistics.
->     - **(D)** In collecting data described in subparagraph (A)(ii), the Commission shall provide that, with respect to an employee who the employer is not required to compensate for overtime employment under section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207), an employer may report—
+>     - **(D)** In collecting data described in subparagraph (A)(ii), the Commission may provide that, with respect to an employee who the employer is not required to compensate for overtime employment under section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207), an employer may report—
 >       - **(i)** in the case of a full-time employee, that such employee works 40 hours per week, and in the case of a part-time employee, that such employee works 20 hours per week; or
 >       - **(ii)** the actual number of hours worked by such employee.
 >     - **(E)** The categories described in this subparagraph shall be determined by the Commission and shall include—
@@ -173,7 +153,7 @@ Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by 
 >         - **(I)** the investigation of charges filed under section 706 or section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)); and
 >         - **(II)** the allocation of resources to investigate such charges; and
 >       - **(ii)** for any other purpose that the Commission determines appropriate.
->     - **(G)** The Commission shall annually make publicly available aggregate compensation data collected under paragraph (1) for the categories described in subparagraph (E), disaggregated by industry, occupation, and core based statistical area (as defined by the Office of Management and Budget).
+>     - **(G)** The Commission shall at 18-month intervals make publicly available aggregate compensation data collected under paragraph (1) for the categories described in subparagraph (E), disaggregated by industry, occupation, and core based statistical area (as defined by the Office of Management and Budget).
 >   - **(4)** The compensation data under paragraph (1) shall be collected from each employer that—
 >     - **(A)** is a private employer that has 100 or more employees, including such an employer that is a contractor with the Federal Government, or a subcontractor at any tier thereof; or
 >     - **(B)** the Commission determines appropriate.
@@ -207,21 +187,35 @@ Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by 
   >     - **(A)** the employees or prospective employees; and
   >     - **(B)** other employees or prospective employees similarly situated.
 
-## § 10. Authorization of appropriations
+## § 10. National Equal Pay Enforcement Task Force
+
+- **(a)** *In general* There is established the National Equal Pay Enforcement Task Force, consisting of representatives from the Equal Employment Opportunity Commission, the Department of Justice, the Department of Labor, and the Office of Personnel Management.
+- **(b)** *Mission* In order to improve compliance, public education, and enforcement of equal pay laws, the National Equal Pay Enforcement Task Force will ensure that the agencies in subsection (a) are coordinating efforts and limiting potential gaps in enforcement.
+- **(c)** *Duties* The National Equal Pay Enforcement Task Force shall investigate challenges related to pay inequity pursuant to its mission in subsection (b), advance recommendations to address those challenges, and create action plans to implement the recommendations.
+
+## § 11. Authorization of appropriations
 
 - **(a)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out this Act.
 - **(b)** *Prohibition on earmarks* None of the funds appropriated pursuant to subsection (a) for purposes of the grant program in section 5 of this Act may be used for a congressional earmark as defined in clause 9(e) of rule XXI of the Rules of the House of Representatives.
 
-## § 11. Small business assistance
+## § 12. Small business assistance
 
 - **(a)** *Effective date* This Act and the amendments made by this Act shall take effect on the date that is 6 months after the date of enactment of this Act.
 - **(b)** *Technical assistance materials* The Secretary of Labor and the Commissioner of the Equal Employment Opportunity Commission shall jointly develop technical assistance material to assist small enterprises in complying with the requirements of this Act and the amendments made by this Act.
 - **(c)** *Small businesses* A small enterprise shall be exempt from the provisions of this Act, and the amendments made by this Act, to the same extent that such enterprise is exempt from the requirements of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) pursuant to clauses (i) and (ii) of section 3(s)(1)(A) of such Act (29 U.S.C. 203(s)(1)(A)).
 
-## § 12. Rule of construction
+## § 13. Notice requirements
+
+- **(a)** *In general* Each employer shall post and keep posted, in conspicuous places on the premises of the employer where notices to employees are customarily posted, a notice, to be prepared or approved by the Equal Employment Opportunity Commission and the Secretary of Labor, of the requirements described in this Act (or the amendments made by such Act).
+- **(b)** *Relation to existing notices* The notice under subsection (a) may be incorporated into notices required of the employer as of the date of enactment of this Act.
+- **(c)** *Digital notice* With respect to the notice under subsection (a), each employer shall—
+  - **(1)** post electronic copies of the notice on an internal website to which employees have access; and
+  - **(2)** notify employees on such internal website of the location of the place on the premises where the notice is posted.
+
+## § 14. Rule of construction
 
 Nothing in this Act, or in any amendments made by this Act, shall affect the obligation of employers and employees to fully comply with all applicable immigration laws, including being subject to any penalties, fines, or other sanctions.
 
-## § 13. Severability
+## § 15. Severability
 
 If any provision of this Act, an amendment made by this Act, or the application of that provision or amendment to particular persons or circumstances is held invalid or found to be unconstitutional, the remainder of this Act, the amendments made by this Act, or the application of that provision to other persons or circumstances shall not be affected.
