@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 6 executed, 18 stated and not applied.
+22 amendatory instructions. 7 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `No employer having` |
 | Inserted | `(A) No employer having` |
+
+### 29 U.S.C. § 206
+
+> by striking “the opposite” and inserting “another”;
+
+| | |
+|---|---|
+| Removed | `the opposite` |
+| Inserted | `another` |
 
 ### 29 U.S.C. § 206
 
@@ -71,7 +80,7 @@ to guess them.
 
 ### 29 U.S.C. § 216
 
-> in the third sentence, by striking “the first sentence” and inserting “the first or second sentence”; and
+> in the third sentence, by striking “the first sentence” and inserting “the first or second sentence”.
 
 | | |
 |---|---|
@@ -93,15 +102,12 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 215` | replace | in paragraph (5), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 215` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 215` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 216` | insert | by inserting after the first sentence the following: “Any employer who violates section 6(d), or who violates the provisions of section 15(a)(3) in relation to a violation of section 6(d), shall additionally be liable for such compensato… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 216` | insert | by inserting after the first sentence the following: “Any employer who violates section 6(d), or who violates the provisions of section 15(a)(3) in relation to section 6(d), shall additionally be liable for such compensatory damages, or,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | insert | by inserting after the sentence referred to in paragraph (3), the following: “Notwithstanding any other provision of Federal law, any action brought to enforce section 6(d) may be maintained as a class action as provided by the Federal R… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | insert | by inserting before the period the following: “, including expert fees”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | insert | by inserting “or, in the case of a violation of section 6(d), additional compensatory or punitive damages, as described in subsection (b),” before “and the agreement”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 216` | insert | by inserting before the period the following: “, or such compensatory or punitive damages, as appropriate”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 216` | insert | in the second sentence, by inserting before the period the following: “and, in the case of a violation of section 6(d), additional compensatory or punitive damages, as described in subsection (b)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 216` | replace | by striking “commenced in the case” and inserting | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 216` | replace | by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 216` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 216` | insert | in the second sentence, by inserting before the period the following: “and, in the case of a violation of section 6(d), additional compensatory or punitive damages, as described in subsection (b)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2000e-8` | add-at-end | Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 201` | insert | The Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) is amended by inserting after section 7 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | add-at-end | Section 16 of such Act (29 U.S.C. 216) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
