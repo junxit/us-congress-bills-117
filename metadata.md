@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1766
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1766
@@ -40,3 +40,14 @@ FTC Collaboration Act of 2021
 - 2021-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1762)
 - 2021-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1762)
 - 2021-04-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6052)
+- 2022-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-09-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-09-30 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-187.
+- 2022-10-10 — Became Public Law No: 117-187.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
