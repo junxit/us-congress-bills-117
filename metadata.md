@@ -1,7 +1,7 @@
 ---
 measure: H.R. 189
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 189
@@ -38,3 +38,4 @@ John Lewis NIMHD Research Endowment Revitalization Act of 2021
 - 2021-04-14 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2021-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1751)
 - 2021-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1751)
+- 2021-04-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
