@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 22
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 22
@@ -36,3 +36,5 @@ A resolution reaffirming the partnership between the United States and the Repub
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
+- 2021-04-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1994; text: 01/28/2021 CR S203-204)
+- 2021-04-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1994; text: 01/28/2021 CR S203-204)
