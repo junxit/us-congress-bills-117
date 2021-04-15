@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1766
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1766
@@ -22,9 +22,10 @@ FTC Collaboration Act of 2021
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ FTC Collaboration Act of 2021
 - 2021-04-14 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2021-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1762)
 - 2021-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1762)
+- 2021-04-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
