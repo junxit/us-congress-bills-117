@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 37
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 37
@@ -16,13 +16,14 @@ A resolution expressing solidarity with the San Isidro Movement in Cuba, condemn
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -36,3 +37,5 @@ A resolution expressing solidarity with the San Isidro Movement in Cuba, condemn
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
+- 2021-04-15 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S1996-1998; text: CR S1997-1998)
+- 2021-04-15 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S1996-1998; text: CR S1997-1998)
