@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 36
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 36
@@ -32,3 +32,5 @@ A resolution reaffirming the strategic partnership between the United States and
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.
+- 2021-04-15 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S1995-1996; text: CR S1996)
+- 2021-04-15 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S1995-1996; text: CR S1996)
