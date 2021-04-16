@@ -1,7 +1,7 @@
 ---
 measure: H.R. 51
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 51
@@ -16,7 +16,7 @@ Washington, D.C. Admission Act
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Cosponsors (202)
+## Cosponsors (216)
 
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
@@ -220,6 +220,20 @@ Washington, D.C. Admission Act
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
 ## Committees (5)
 
@@ -239,3 +253,19 @@ Washington, D.C. Admission Act
 - 2021-01-04 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Rules, Armed Services, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-01-04 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Rules, Armed Services, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-01-04 — Sponsor introductory remarks on measure. (CR E1)
+- 2021-01-05 — Referred to the Subcommittee on Health.
+- 2021-03-01 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2021-03-22 — Committee Hearings Held.
+- 2021-04-14 — Committee Consideration and Mark-up Session Held.
+- 2021-04-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 25 - 19.
+- 2021-04-16 — Committee on Armed Services discharged.
+- 2021-04-16 — Committee on Armed Services discharged.
+- 2021-04-16 — Committee on Energy and Commerce discharged.
+- 2021-04-16 — Committee on Energy and Commerce discharged.
+- 2021-04-16 — Committee on Rules discharged.
+- 2021-04-16 — Committee on Rules discharged.
+- 2021-04-16 — Committee on the Judiciary discharged.
+- 2021-04-16 — Committee on the Judiciary discharged.
+- 2021-04-16 — Placed on the Union Calendar, Calendar No. 6.
+- 2021-04-16 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-19, Part I.
+- 2021-04-16 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-19, Part I.

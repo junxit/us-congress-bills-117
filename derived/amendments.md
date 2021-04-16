@@ -1,7 +1,7 @@
 ---
 measure: H.R. 51
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -113,7 +113,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | The item relating to section 88 in the table of sections for chapter 5 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 44(a) of such title is amended in the first column by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | in the first column, by striking “District of Columbia” and inserting “Capital”; | the bill names no machine-readable US Code section |
-| — | replace | in the second column, by striking “Washington” and inserting “Capital”; and | the bill names no machine-readable US Code section |
+| — | replace | in the second column, by striking “Washington” and inserting “Capital” ; and | the bill names no machine-readable US Code section |
 | — | replace | in the second column, by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | Section 49 of such title is amended by striking “District of Columbia” each place it appears and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2265(c)(2) of such title is amended by striking “the District of Columbia Circuit” and inserting “the Capital Circuit”. | the bill names no machine-readable US Code section |
