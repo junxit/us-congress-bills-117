@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 2630
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2630
+
+> To amend the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act to extend until September 2021, a temporary order for fentanyl-related substances.
+
+## § 1. Short title
+
+This Act may be cited as the “Extending Temporary Emergency Scheduling of Fentanyl Analogues Act”.
+
+## § 2. Extension of temporary order for fentanyl-related substances
+
+Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act (Public Law 116–114) is amended by striking “May 6, 2021” and inserting “September 30, 2021”.
