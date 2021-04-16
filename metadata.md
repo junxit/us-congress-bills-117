@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 316
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 316
@@ -29,3 +29,6 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2021-04-14 — Introduced in House
 - 2021-04-14 — Introduced in House
 - 2021-04-14 — Referred to the House Committee on House Administration.
+- 2021-04-16 — Placed on the House Calendar, Calendar No. 13.
+- 2021-04-16 — Reported by the Committee on House Administration. H. Rept. 117-18.
+- 2021-04-16 — Reported by the Committee on House Administration. H. Rept. 117-18.
