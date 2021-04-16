@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1195
@@ -170,6 +170,11 @@ Workplace Violence Prevention for Health Care and Social Service Workers Act
 - House — Energy and Commerce Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (2)
+
+- 2021-04-16 — [House 117-1-117](votes/house-117-1-0117.md) — On Agreeing to the Amendment — **Failed** (168–256)
+- 2021-04-16 — [House 117-1-118](votes/house-117-1-0118.md) — On Passage — **Passed** (254–166)
+
 ## Actions
 
 - 2021-02-22 — Introduced in House
@@ -188,3 +193,35 @@ Workplace Violence Prevention for Health Care and Social Service Workers Act
 - 2021-04-05 — Placed on the Union Calendar, Calendar No. 3.
 - 2021-04-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-14, Part I.
 - 2021-04-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-14, Part I.
+- 2021-04-13 — Rules Committee Resolution H. Res. 303 Reported to House. Rule provides for consideration of H.R. 7 and H.R. 1195. Rule provides for one hour of general debate on H.R. 7 and provides one motion to recommit. Rule also provides for one hour of general debate on H.R. 1195 and provides one motion to recommit.
+- 2021-04-14 — Rule H. Res. 303 passed House.
+- 2021-04-16 — Amendment (A003) offered by Mr. Keller. (consideration: CR H1867-1872; text: CR H1867-1870)
+- 2021-04-16 — Amendment agreed to by House: On agreeing to the Courtney amendments (A002) Agreed to by voice vote.
+- 2021-04-16 — Amendment failed by House: On agreeing to the Keller amendment (A003) Failed by the Yeas and Nays: 168 - 256 (Roll no. 117).
+- 2021-04-16 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-04-16 — Amendments en bloc (A002) offered by Mr. Courtney. (consideration: CR H1865-1867; text: CR H1865-1866)
+- 2021-04-16 — Considered under the provisions of rule H. Res. 303. (consideration: CR H1849-1872; text: CR H1849-1852)
+- 2021-04-16 — DEBATE - Pursuant to the provisions of H. Res. 303, the House proceeded with 10 minutes of debate on the Keller amendment No. 5.
+- 2021-04-16 — DEBATE - Pursuant to the provisions of H. Res. 303, the House proceeded with 20 minutes of debate on the Courtney amendment en bloc No. 1.
+- 2021-04-16 — DEBATE - The House proceeded with one hour of debate on H.R. 1195.
+- 2021-04-16 — House amendment agreed to: On agreeing to the Courtney amendments (A002) Agreed to by voice vote.
+- 2021-04-16 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-04-16 — House amendment not agreed to: On agreeing to the Keller amendment (A003) Failed by the Yeas and Nays: 168 - 256 (Roll no. 117).
+- 2021-04-16 — House amendment offered
+- 2021-04-16 — House amendment offered
+- 2021-04-16 — House amendment offered
+- 2021-04-16 — House amendment offered/reported by: Amendment (A003) offered by Mr. Keller.
+- 2021-04-16 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Courtney.
+- 2021-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-16 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-04-16 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-04-16 — On agreeing to the Courtney amendments (A002) Agreed to by voice vote.
+- 2021-04-16 — On agreeing to the Keller amendment (A003) Failed by the Yeas and Nays: 168 - 256 (Roll no. 117).
+- 2021-04-16 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-04-16 — On passage Passed by the Yeas and Nays: 254 - 166 (Roll no. 118).
+- 2021-04-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 254 - 166 (Roll no. 118).
+- 2021-04-16 — Roll call votes on amendments in House
+- 2021-04-16 — Rule provides for consideration of H.R. 7 and H.R. 1195. Rule provides for one hour of general debate on H.R. 7 and provides one motion to recommit. Rule also provides for one hour of general debate on H.R. 1195 and provides one motion to recommit.
+- 2021-04-16 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-04-16 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-04-16 — The previous question was ordered pursuant to the rule.
