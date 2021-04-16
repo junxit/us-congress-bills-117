@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1333
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1333
@@ -16,7 +16,7 @@ NO BAN Act
 
 - Rep. Chu, Judy [D-CA-27] (C001080)
 
-## Cosponsors (134)
+## Cosponsors (159)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
@@ -152,6 +152,31 @@ NO BAN Act
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
 
 ## Committees (4)
 
@@ -168,3 +193,15 @@ NO BAN Act
 - 2021-02-25 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-25 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-25 — Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-02-26 — Referred to the Subcommittee on Border Security, Facilitation, and Operations.
+- 2021-04-14 — Committee Consideration and Mark-up Session Held.
+- 2021-04-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 17.
+- 2021-04-16 — Committee on Foreign Affairs discharged.
+- 2021-04-16 — Committee on Foreign Affairs discharged.
+- 2021-04-16 — Committee on Homeland Security discharged.
+- 2021-04-16 — Committee on Homeland Security discharged.
+- 2021-04-16 — Committee on Intelligence (Permanent) discharged.
+- 2021-04-16 — Committee on Intelligence (Permanent) discharged.
+- 2021-04-16 — Placed on the Union Calendar, Calendar No. 7.
+- 2021-04-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-20, Part I.
+- 2021-04-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-20, Part I.
