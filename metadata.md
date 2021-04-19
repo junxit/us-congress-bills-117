@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1215
@@ -58,3 +58,4 @@ Fraud and Scam Reduction Act
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 13 (Roll no. 104). (text: 04/14/2021 CR H1756-1757)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 13 (Roll no. 104).(text: 04/14/2021 CR H1756-1757)
+- 2021-04-19 — Received in the Senate.
