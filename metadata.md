@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1490
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1490
@@ -27,9 +27,10 @@ version: Engrossed in House
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ version: Engrossed in House
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 16 (Roll no. 116). (text: 04/14/2021 CR H1769-1770)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 16 (Roll no. 116).(text: 04/14/2021 CR H1769-1770)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
