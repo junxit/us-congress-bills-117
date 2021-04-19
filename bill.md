@@ -1,0 +1,21 @@
+---
+legis-num: H. RES. 328
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 328
+
+> To remove Maxine Waters from the Committee on Financial Services for inciting violence against the United States.
+
+## Preamble
+
+- Whereas clause 1 of rule XXIII of the Rules of the House of Representatives provides, “A Member, Delegate, Resident Commissioner, officer, or employee of the House shall behave at all times in a manner that shall reflect creditably on the House.”; and
+- Whereas Representative Maxine Waters should be removed from her committee assignments in light of conduct she has exhibited: Now, therefore, be it
+
+That the following named Member be, and is hereby, removed from the following standing committees of the House of Representatives:
+
+Committee on Financial Services:
+
+Ms. Waters of California.
