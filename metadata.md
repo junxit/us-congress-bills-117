@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1002
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1002
@@ -38,3 +38,14 @@ DEBAR Act of 2021
 - 2021-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 5 (Roll no. 112). (text: 04/14/2021 CR H1763)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 5 (Roll no. 112).(text: 04/14/2021 CR H1763)
 - 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2021-07-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5111)
+- 2021-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5111)
+- 2021-07-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2021-07-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2021-07-28 — Message on Senate action sent to the House.
+- 2021-08-04 — Presented to President.
+- 2021-08-04 — Presented to President.
+- 2021-08-06 — Became Public Law No: 117-36.
+- 2021-08-06 — Became Public Law No: 117-36.
+- 2021-08-06 — Signed by President.
+- 2021-08-06 — Signed by President.
