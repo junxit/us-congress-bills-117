@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1195
@@ -164,11 +164,12 @@ Workplace Violence Prevention for Health Care and Social Service Workers Act
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 - Rep. Lamb, Conor [D-PA-17] (L000588)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -220,3 +221,4 @@ Workplace Violence Prevention for Health Care and Social Service Workers Act
 - 2021-04-16 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2021-04-16 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-04-16 — The previous question was ordered pursuant to the rule.
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
