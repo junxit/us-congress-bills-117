@@ -57,7 +57,7 @@ For the purposes of sections 1956 and 1957 of title 18, United States Code, and 
 
 ## § 5. Rules of construction
 
-- **(a)** *No requirement To provide financial services* Nothing in this Act shall require a depository institution, entity performing a financial service for or in association with a depository institution, or insurer to provide financial services to a cannabis-related legitimate business, service provider, or any other business.
+- **(a)** *No requirement to provide financial services* Nothing in this Act shall require a depository institution, entity performing a financial service for or in association with a depository institution, or insurer to provide financial services to a cannabis-related legitimate business, service provider, or any other business.
 - **(b)** *General examination, supervisory, and enforcement authority* Nothing in this Act may be construed in any way as limiting or otherwise restricting the general examination, supervisory, and enforcement authority of the Federal banking regulators, provided that the basis for any supervisory or enforcement action is not the provision of financial services to a cannabis-related legitimate business or service provider.
 - **(c)** *Business of insurance* Nothing in this Act shall interfere with the regulation of the business of insurance in accordance with the Act of March 9, 1945 (59 Stat. 33, chapter 20; 15 U.S.C. 1011 et seq.) (commonly known as the “McCarran-Ferguson Act”) and the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.).
 
@@ -123,7 +123,7 @@ Not later than 2 years after the date of the enactment of this Act, the Comptrol
   - **(2)** despite the legalization of hemp, some hemp businesses (including producers, manufacturers, and retailers) continue to have difficulty gaining access to banking products and services; and
   - **(3)** businesses involved in the sale of hemp-derived CBD products are particularly affected, due to confusion about the legal status of such products.
 - **(b)** *Federal banking regulators’ hemp banking guidance* Not later than the end of the 90-day period beginning on the date of enactment of this Act, the Federal banking regulators shall update their existing guidance, as applicable, regarding the provision of financial services to hemp-related legitimate businesses and hemp-related service providers to address—
-  - **(1)** compliance with financial institutions’ existing obligations under Federal laws and implementing regulations determined relevant by the Federal banking regulators, including subchapter II of chapter 53 of title 31, United States Code, and its implementing regulation in conformity with this Act and the Department of Agriculture’s rules regulating domestic hemp production (7 C.F.R. 990); and
+  - **(1)** compliance with financial institutions’ existing obligations under Federal laws and implementing regulations determined relevant by the Federal banking regulators, including subchapter II of chapter 53 of title 31, United States Code, and its implementing regulation in conformity with this Act and the Department of Agriculture’s rules regulating domestic hemp production (7 CFR 990); and
   - **(2)** best practices for financial institutions to follow when providing financial services, including processing payments, to hemp-related legitimate businesses and hemp-related service providers.
 - **(c)** *Definitions* In this section:
   - **(1)** *Financial institution* The term financial institution—
@@ -201,3 +201,7 @@ In this Act:
     - **(ii)** provides any business services, including the sale or lease of real or any other property, legal or other licensed services, or any other ancillary service, relating to cannabis; and
   - **(B)** does not include a business, organization, or other person that participates in any business or organized activity that involves handling cannabis or cannabis products, including cultivating, producing, manufacturing, selling, transporting, displaying, dispensing, distributing, or purchasing cannabis or cannabis products.
 - **(14)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+## § 15. Discretionary surplus funds
+
+Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by reducing the dollar figure by $6,000,000.
