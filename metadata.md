@@ -1,7 +1,7 @@
 ---
 measure: H.R. 446
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 446
@@ -29,9 +29,10 @@ Protecting Seniors from Emergency Scams Act
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Protecting Seniors from Emergency Scams Act
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 8 (Roll no. 110). (text: 04/14/2021 CR H1760)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 8 (Roll no. 110).(text: 04/14/2021 CR H1760)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
