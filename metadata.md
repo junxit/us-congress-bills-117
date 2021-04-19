@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1460
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1460
@@ -20,9 +20,10 @@ Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2
 
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 49 (Roll no. 105). (text: 04/14/2021 CR H1758-1759)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 49 (Roll no. 105).(text: 04/14/2021 CR H1758-1759)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
