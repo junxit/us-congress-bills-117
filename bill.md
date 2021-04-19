@@ -1,0 +1,27 @@
+---
+legis-num: S. 1206
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1206
+
+> To limit the authority of the Secretary of Labor to modify the pandemic unemployment assistance program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “PUA Eligibility Clarification Act of 2021”.
+
+## § 2. Pandemic unemployment assistance
+
+- **(a)** *Amendments* Section 2102(a)(3) of the CARES Act (15 U.S.C. 9021(a)(3)) is amended—
+  - **(1)** in subparagraph (A)(ii)(I)—
+    - **(A)** in item (ii), by adding “or” at the end; and
+    - **(B)** by striking item (kk); and
+  - **(2)** in subparagraph (B)(ii), by striking “through (kk)” and inserting “through (jj)”.
+- **(b)** *Repeal of guidance*
+  - **(1)** *In general* The Secretary of Labor shall rescind the guidance entitled, Expanded Eligibility Provisions for the Pandemic Unemployment Assistance (PUA) Program, issued on February 25, 2021.
+  - **(2)** *Repayment not required*
+    - **(A)** *In general* Except as provided in subparagraph (B), in the case of an individual who received pandemic unemployment assistance amounts pursuant to the guidance described in paragraph (1) before the date of enactment of this Act, the individual shall not be required to repay the amounts.
+    - **(B)** *Exception* Subparagraph (A) shall not apply to any individual who, as of the date of enactment of this Act, was approved to receive compensation amounts pursuant to the guidance described in paragraph (1)(A) but had not yet received the amounts.
