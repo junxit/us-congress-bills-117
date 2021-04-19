@@ -1,7 +1,7 @@
 ---
 measure: H.R. 941
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 941
@@ -62,3 +62,14 @@ TRANSPLANT Act of 2021
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 109). (text: 04/14/2021 CR H1752-1753)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 109).(text: 04/14/2021 CR H1752-1753)
 - 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-05-17 — Passed Senate without amendment by Voice Vote.
+- 2021-05-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2021-05-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2550)
+- 2021-05-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2550)
+- 2021-05-18 — Message on Senate action sent to the House.
+- 2021-05-20 — Presented to President.
+- 2021-05-20 — Presented to President.
+- 2021-05-26 — Became Public Law No: 117-15.
+- 2021-05-26 — Became Public Law No: 117-15.
+- 2021-05-26 — Signed by President.
+- 2021-05-26 — Signed by President.
