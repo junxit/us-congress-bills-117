@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1482
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1482
@@ -24,9 +24,10 @@ version: Engrossed in House
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ version: Engrossed in House
 - 2021-04-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 8 (Roll no. 119). (text: 04/14/2021 CR H1772-1773)
 - 2021-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 8 (Roll no. 119).(text: 04/14/2021 CR H1772-1773)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
