@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1487
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1487
@@ -24,9 +24,10 @@ Microloan Transparency and Accountability Act of 2021
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Microloan Transparency and Accountability Act of 2021
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 4 (Roll no. 115). (text: 04/14/2021 CR H1767)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 4 (Roll no. 115).(text: 04/14/2021 CR H1767)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
