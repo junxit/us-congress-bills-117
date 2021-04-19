@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1899
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1899
@@ -20,11 +20,12 @@ Ensuring Compliance Against Drug Diversion Act of 2021
 
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Ensuring Compliance Against Drug Diversion Act of 2021
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 113). (text: 04/14/2021 CR H1764)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 113).(text: 04/14/2021 CR H1764)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
