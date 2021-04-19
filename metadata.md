@@ -1,7 +1,7 @@
 ---
 measure: H.R. 941
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 941
@@ -42,9 +42,10 @@ TRANSPLANT Act of 2021
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Omar, Ilhan [D-MN-5] (O000173)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ TRANSPLANT Act of 2021
 - 2021-04-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 109). (text: 04/14/2021 CR H1752-1753)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 2 (Roll no. 109).(text: 04/14/2021 CR H1752-1753)
+- 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
