@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1996
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1996
@@ -16,7 +16,7 @@ SAFE Banking Act of 2021
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (107)
+## Cosponsors (180)
 
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
@@ -125,6 +125,79 @@ SAFE Banking Act of 2021
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
 
 ## Committees (2)
 
@@ -137,3 +210,11 @@ SAFE Banking Act of 2021
 - 2021-03-18 — Introduced in House
 - 2021-03-18 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-03-18 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-04-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-04-19 — Considered as unfinished business. (consideration: CR H1942-1943)
+- 2021-04-19 — Considered under suspension of the rules. (consideration: CR H1915-1924)
+- 2021-04-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1996.
+- 2021-04-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-19 — Mr. Perlmutter moved to suspend the rules and pass the bill, as amended.
+- 2021-04-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 101 (Roll no. 120). (text: CR H1915-1918)
+- 2021-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 101 (Roll no. 120).(text: CR H1915-1918)
