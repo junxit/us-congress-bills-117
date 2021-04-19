@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1899
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1899
@@ -44,3 +44,14 @@ Ensuring Compliance Against Drug Diversion Act of 2021
 - 2021-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 113). (text: 04/14/2021 CR H1764)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 5 (Roll no. 113).(text: 04/14/2021 CR H1764)
 - 2021-04-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2021-10-26 — Passed Senate without amendment by Unanimous Consent.
+- 2021-10-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-10-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7391)
+- 2021-10-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7391)
+- 2021-10-27 — Message on Senate action sent to the House.
+- 2021-11-02 — Presented to President.
+- 2021-11-02 — Presented to President.
+- 2021-11-10 — Became Public Law No: 117-53.
+- 2021-11-10 — Became Public Law No: 117-53.
+- 2021-11-10 — Signed by President.
+- 2021-11-10 — Signed by President.
