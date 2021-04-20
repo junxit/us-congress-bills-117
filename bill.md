@@ -15,45 +15,46 @@ This Act may be cited as the “Training in High-demand Roles to Improve Veteran
 
 ## § 2. Improvements to COVID–19 veteran rapid retraining assistance program
 
-Section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended—
+- **(a)** *In general* Section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended—
+  - **(1)** by striking paragraph (3) of subsection (c) and inserting the following new paragraph (3):
+    > - **(3)** *Determination of high-demand occupations*
+    >   - **(A)** *Initial implementation* In carrying out this section, the Secretary shall use the list of high-demand occupations prepared in conjunction with the Secretary of Labor.
+    >   - **(B)** *Modifications* The Secretary of Veterans Affairs may add and remove occupations from the list under subparagraph (A) as the Secretary determines appropriate.
 
-- **(1)** by striking paragraph (3) of subsection (c) and inserting the following new paragraph (3):
-  > - **(3)** *Determination of high-demand occupations*
-  >   - **(A)** *Initial implementation* In carrying out this section, the Secretary shall use the list of high-demand occupations prepared in conjunction with the Secretary of Labor.
-  >   - **(B)** *Modifications* The Secretary of Veterans Affairs may add and remove occupations from the list under subparagraph (A) as the Secretary determines appropriate.
+  - **(2)** in subsection (d)(3)—
+    - **(A)** in the matter preceding subparagraph (A), by inserting “(other than such a program pursued solely through distance learning on a half-time basis or less)” after “a covered program of education under the retraining assistance program under this section”; and
+    - **(B)** in subparagraph (C), by striking “less than a half-time basis” and inserting “a half-time basis or less”;
+  - **(3)** by redesignating subsections (f), (g), and (h) as subsections (k), (l), and (m), respectively;
+  - **(4)** by inserting after subsection (e) the following new subsections:
+    > - **(f)** *Employee assistance* The Secretary of Veterans Affairs, in consultation with the Secretary of Labor, shall contact each veteran who pursues a covered program of education under this section—
+    >   - **(1)** not later than 30 days after the date on which the veteran begins the program of education to notify the veteran of the availability of employment placement services upon completion of the program; and
+    >   - **(2)** not later than 14 days after the date on which the veteran completes, or terminates participation in, such program to facilitate the provision of employment placement services to such veteran.
+    > - **(g)** *Nonprofit organization*
+    >   - **(1)** *In general* The Secretary of Veterans Affairs shall seek to enter into a memorandum of understanding with one or more qualified nonprofit organizations for the purpose of facilitating the employment of veterans who participate in the retraining assistance program under this section.
+    >   - **(2)** *Qualified nonprofit organization* For purposes of this subsection, a qualified nonprofit organization is a nonprofit organization that—
+    >     - **(A)** is an association of businesses; and
+    >     - **(B)** has at least two years of experience providing job placement services for veterans.
+    > - **(h)** *Follow up outreach* The Secretary of Veterans Affairs, in coordination with the Secretary of Labor, shall contact each veteran who completes a covered program of education under the retraining assistance program under this section 30, 60, 90, and 180 days after the veteran completes such program of education to ask the veteran about the experience of the veteran in the retraining assistance program and the veteran’s employment status.
+    > - **(i)** *Quarterly reports* Not later than the date that is one year after the date of the enactment of this Act, and quarterly thereafter, the Secretary of Labor shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing the following information about veterans who participate in the retraining assistance program under this section:
+    >   - **(1)** The percentage of such veterans who found employment before the end of the second calendar quarter after exiting the program.
+    >   - **(2)** The percentage of such veterans who found employment before the end of the fourth calendar quarter after exiting the program.
+    >   - **(3)** The median earnings of all such veterans for the second quarter after exiting the program.
+    >   - **(4)** The percentage of such veterans who attain a recognized postsecondary credential during the 12-month period after exiting the program.
+    > - **(j)** *Comptroller General report* Not later than 180 days after the termination of the retraining assistance program under subsection (l), the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the outcomes and effectiveness of the program.
 
-- **(2)** in subsection (d)(3)—
-  - **(A)** in the matter preceding subparagraph (A), by inserting “(other than such a program pursued solely through distance learning on a half-time basis or less)” after “a covered program of education under the retraining assistance program under this section”; and
-  - **(B)** in subparagraph (C), by striking “less than a half-time basis” and inserting “a half-time basis or less”;
-- **(3)** by redesignating subsections (f), (g), and (h) as subsections (k), (l), and (m), respectively;
-- **(4)** by inserting after subsection (e) the following new subsections:
-  > - **(f)** *Employee assistance* The Secretary of Veterans Affairs, in consultation with the Secretary of Labor, shall contact each veteran who pursues a covered program of education under this section—
-  >   - **(1)** not later than 30 days after the date on which the veteran begins the program of education to notify the veteran of the availability of employment placement services upon completion of the program; and
-  >   - **(2)** not later than 14 days after the date on which the veteran completes, or terminates participation in, such program to facilitate the provision of employment placement services to such veteran.
-  > - **(g)** *Nonprofit organization*
-  >   - **(1)** *In general* The Secretary of Veterans Affairs shall seek to enter into a memorandum of understanding with one or more qualified nonprofit organizations for the purpose of facilitating the employment of veterans who participate in the retraining assistance program under this section.
-  >   - **(2)** *Qualified nonprofit organization* For purposes of this subsection, a qualified nonprofit organization is a nonprofit organization that—
-  >     - **(A)** is an association of businesses; and
-  >     - **(B)** has at least two years of experience providing job placement services for veterans.
-  > - **(h)** *Follow up outreach* The Secretary of Veterans Affairs, in coordination with the Secretary of Labor, shall contact each veteran who completes a covered program of education under the retraining assistance program under this section 30, 60, 90, and 180 days after the veteran completes such program of education to ask the veteran about the experience of the veteran in the retraining assistance program and the veteran’s employment status.
-  > - **(i)** *Quarterly reports* Not later than the date that is one year after the date of the enactment of this Act, and quarterly thereafter, the Secretary of Labor shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing the following information about veterans who participate in the retraining assistance program under this section:
-  >   - **(1)** The percentage of such veterans who found employment before the end of the second calendar quarter after exiting the program.
-  >   - **(2)** The percentage of such veterans who found employment before the end of the fourth calendar quarter after exiting the program.
-  >   - **(3)** The median earnings of all such veterans for the second quarter after exiting the program.
-  >   - **(4)** The percentage of such veterans who attain a recognized postsecondary credential during the 12-month period after exiting the program.
-  > - **(j)** *Comptroller General report* Not later than 180 days after the termination of the retraining assistance program under subsection (l), the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the outcomes and effectiveness of the program.
+  - **(5)** in subsection (l), as so redesignated, by striking “No retraining assistance may be paid under this section after the date that is 21 months after the date of the enactment of this Act” and inserting “No retraining assistance may be paid under this section for a covered program of education that begins on or after December 11, 2022”;
+  - **(6)** in subsection (m), as so redesignated, by striking the period at the end and inserting the following: “, which shall be carried out as if such section were authorized for the payment of readjustment and rehabilitation benefits to or on behalf of veterans under chapters 30, 31, and 41 of title 38, United States Code. Not more than $386,000,000 may be obligated or expended to carry out this section.”; and
+  - **(7)** by adding at the end the following new subsection:
+    > - **(n)** *Definitions* In this section:
+    >   - **(1)** The term covered public health emergency means the declaration—
+    >     - **(A)** of a public health emergency, based on an outbreak of COVID–19 by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d); or
+    >     - **(B)** of a domestic emergency, based on an outbreak of COVID–19 by the President, the Secretary of Homeland Security, or State, or local authority.
+    >   - **(2)** The term veteran means—
+    >     - **(A)** a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable; or
+    >     - **(B)** a member of a reserve component of the Armed Forces who performs active service for a period of 30 days or longer by reason of the covered public health emergency.
+    >   - **(3)** The term active service has the meaning given such term in section 101 of title 10, United States Code.
 
-- **(5)** in subsection (l), as so redesignated, by striking “No retraining assistance may be paid under this section after the date that is 21 months after the date of the enactment of this Act” and inserting “No retraining assistance may be paid under this section for a covered program of education that begins on or after December 11, 2022”;
-- **(6)** in subsection (m), as so redesignated, by inserting at the end the following new sentences: “Amounts made available to carry out this section shall be deposited in the Department of Veterans Affairs, Veterans Benefits Administration, Readjustment Benefits account. If any amounts so appropriated are deposited into a different account of the Department, the Secretary shall transfer an amount equal to such deposited amounts from the account to which the amounts were deposited to the Department of Veterans Affairs, Veterans Benefits Administration, Readjustment Benefits account. Not more than $386,000,000 may be obligated or expended to carry out this section.”; and
-- **(7)** by adding at the end the following new subsection:
-  > - **(n)** *Definitions* In this section:
-  >   - **(1)** The term covered public health emergency means the declaration—
-  >     - **(A)** of a public health emergency, based on an outbreak of COVID–19 by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d); or
-  >     - **(B)** of a domestic emergency, based on an outbreak of COVID–19 by the President, the Secretary of Homeland Security, or State, or local authority.
-  >   - **(2)** The term veteran means—
-  >     - **(A)** a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable; or
-  >     - **(B)** a member of a reserve component of the Armed Forces who performs active service for a period of 30 days or longer by reason of the covered public health emergency.
-  >   - **(3)** The term active service has the meaning given such term in section 101 of title 10, United States Code.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply as if included in the enactment of the American Rescue Plan Act of 2021 (Public Law 117–2).
 
 ## § 3. Information provided by Department of Veterans Affairs about postsecondary educational institutions
 
@@ -136,7 +137,7 @@ Subsection (f) of section 3679 of title 38, United States Code, as added by sect
   - **(1)** In section 1013(a)(1), by inserting “of title 38” after “of chapter 36”.
   - **(2)** In section 2205(c)—
     - **(A)** in the heading, by striking “Effective date” and inserting “Applicability”; and
-    - **(B)** by striking “the date that is two years after the date of the enactment of this Act” and inserting “the date of the enactment of this Act and shall apply with respect to grants applications submitted on or after the date that is two years after the date of the enactment of this Act.”
+    - **(B)** by striking “the date that is two years after the date of the enactment of this Act” and inserting “the date of the enactment of this Act and shall apply with respect to grants applications submitted on or after the date that is two years after the date of the enactment of this Act.”.
   - **(3)** In section 4101(b), by striking “subchapter” and inserting “chapter”.
   - **(4)** In section 5501—
     - **(A)** in subsection (a)(1), by striking “of such title” and inserting “of title 38, United States Code”; and
