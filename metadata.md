@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7
@@ -293,3 +293,5 @@ Paycheck Fairness Act
 - 2021-04-15 — Rule provides for consideration of H.R. 7 and H.R. 1195. Rule provides for one hour of general debate on H.R. 7 and provides one motion to recommit. Rule also provides for one hour of general debate on H.R. 1195 and provides one motion to recommit.
 - 2021-04-15 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-04-15 — The previous question was ordered pursuant to the rule.
+- 2021-04-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-04-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
