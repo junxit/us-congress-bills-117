@@ -11,56 +11,45 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Young African Leaders Initiative Act of 2021” or the “YALI Act of 2021”.
+This Act may be cited as the “Young African Leaders Initiative Act of 2021” or “YALI Act of 2021”.
 
-## § 2. Sense of congress
+## § 2. Sense of Congress
 
 It is the sense of Congress that—
 
 - **(1)** the Young African Leaders Initiative, launched in 2010, is a signature effort to invest in the next generation of African leaders;
 - **(2)** Africa is a continent of strategic importance and it is vital for the United States to support strong and enduring partnerships with the next generation of African leaders; and
-- **(3)** the United States Government should prioritize investments to build the capacity of young emerging African leaders in sub-Saharan Africa, including through efforts to enhance leadership skills, encourage entrepreneurship, strengthen public administration and the role of civil society, and connect young African leaders continentally and globally across the private, civic, and public sectors.
+- **(3)** the United States Government should prioritize investments to build the capacity of emerging young African leaders in sub-Saharan Africa, including through efforts to enhance leadership skills, encourage entrepreneurship, strengthen public administration and the role of civil society, and connect young African leaders continentally and globally across the private, civic, and public sectors.
 
-## § 3. Young African leaders initiative program
+## § 3. Young African Leaders Initiative Program
 
 - **(a)** *In general* There is established in the Department of State the Young African Leaders Initiative (“YALI”) program.
-- **(b)** *Duties* The YALI program shall seek to build to capacity of young African leaders in sub-Saharan Africa in the areas of civic engagement, entrepreneurship and business development, including through efforts to—
-  - **(1)** support young African leaders by offering professional development and a global network to share expertise, including in the areas of civic leadership, elections, human rights, good governance and public management;
-  - **(2)** provide increased economic and technical assistance to young African leaders and entrepreneurs, to strengthen ties between United States and African businesses.
-- **(c)** *Fellowships* The YALI program shall award Mandela Washington Fellowships to young leaders who have demonstrated strong capabilities in entrepreneurship, innovation, public service, and leadership, and who have had a positive impact in their communities, organizations, or institutions.
-- **(d)** *Regional leadership centers* The YALI program shall offer training to young leaders who have demonstrated strong capabilities in entrepreneurship, innovation, public service and leadership, and who have had a positive impact in their communities, organizations, or institutions, by seeking to establish regional leadership centers in sub-Saharan Africa.
+- **(b)** *Purpose* The YALI program shall seek to build the capacity of young African leaders in sub-Saharan Africa in the areas of business, civic engagement, or public administration, including through efforts to—
+  - **(1)** support young African leaders by offering professional development, training, and networking opportunities, particularly in the areas of leadership, innovation, civic engagement, elections, human rights, entrepreneurship, good governance, and public administration; and
+  - **(2)** provide increased economic and technical assistance to young African leaders to promote economic growth and strengthen ties between United States and African businesses.
+- **(c)** *Fellowships* The YALI program shall award fellowships under the Mandela Washington Fellowship for Young African Leaders program to young African leaders ages 18 to 35 who have demonstrated strong capabilities in entrepreneurship, innovation, public service, and leadership, and who have had a positive impact in their communities, organizations, or institutions.
+- **(d)** *Regional leadership centers* The YALI program shall seek to establish regional leadership centers in sub-Saharan Africa to offer training to young African leaders ages 18 to 35 who have demonstrated strong capabilities in entrepreneurship, innovation, public service and leadership, and who have had a positive impact in their communities, organizations, or institutions.
 - **(e)** *Activities*
-  - **(1)** *United states-based activities* The Secretary of State, in coordination with the Administrator for the United States Agency for International Development, shall oversee all United States-based activities carried out under the YALI program, including the following:
-    - **(A)** The participation of Mandela Washington Fellows in a six-week Leadership Institute at a United States university or college in business, civic engagement, or public management, including academic sessions, site visits, professional networking opportunities, leadership training, community service, and organized cultural activities.
-    - **(B)** The participation by Mandela Washington Fellows in an annual Mandela Washington Fellowship Summit, to provide such Fellows the opportunity to meet with United States leaders from the private, public, and non-profit sectors.
-  - **(2)** *Africa-based activities* The United States should continue to support overseas initiatives of the program, including the following:
-    - **(A)** Quality leadership training, professional development, and networking opportunities for Mandela Washington Fellowship alumni upon their return to their home countries, including online courses.
-    - **(B)** Training for young African leaders at regional leadership centers established in accordance with subsection (d), and through online courses offered by such centers.
-    - **(C)** Opportunities for networking with—
-      - **(i)** alumni of the Mandela Washington Fellowship;
-      - **(ii)** alumni of the programs at YALI Regional Leadership Centers established in accordance with subsection (d), who offer leadership training programs at higher education institutions in sub-Saharan Africa; and
-      - **(iii)** American and African professionals and experts.
-    - **(D)** Opportunities through the United States Africa Development Foundation to facilitate professional development and sharing of expertise in the home countries of Mandela Washington Fellowship alumni and throughout the African continent.
-  - **(3)** *Implementation* To carry out this subsection, United States diplomatic and consular posts, the Administrator of the United States Agency for International Development, the Secretary of State, and agency external partners managing and implementing the YALI program—
-    - **(A)** shall promote United States policy goals in Africa by providing tools and resources to help young African leaders develop important skills and connections, including through online campaigns and public diplomacy initiatives;
-    - **(B)** shall establish a system for monitoring, evaluating, and improving the YALI program; and
-    - **(C)** may accept financial contributions from foundations, corporations, private donors, program partners, and implementing agency external partners intended to foster the goals of the YALI program.
-- **(f)** *Reports*
-  - **(1)** *Strategy* The Secretary of State, in coordination with the Administrator of USAID, shall submit to the appropriate congressional committees a strategy for implementing the YALI program, including the following:
-    - **(A)** YALI program goals, targets, and planned outcomes for each year and, separately, for the YALI program generally during the duration of its implementation.
-    - **(B)** A YALI program monitoring and evaluation plan, including metrics for measuring YALI program progress and determining whether YALI program goals, targets, and planned outcomes of growing the United States and Africa trade relationship, strengthening civil society and public administration, and supporting innovation and investment in the next generation of African leaders have been met annually and, separately, for the YALI program generally, during the duration of its implementation.
-  - **(2)** *Annual reports* The Secretary of State, in coordination with the Administrator of USAID, shall submit to the appropriate congressional committees and publish in a publicly accessible, internet-based form, an annual report for the 5-year period beginning on the date of the enactment of this Act on—
-    - **(A)** YALI program progress and an assessment of the metrics, goals, targets, and outcomes referred to in paragraph (1)(A), including information relating to YALI program implementation and outcome activities during the year covered by each report; and
-    - **(B)** recommendations for improvements or amendments to the YALI program and strategy, if any, that would improve their effectiveness during subsequent years of YALI program implementation.
-  - **(3)** *Final report* Not later than December 1, 2025, the Secretary of State, in coordination with the Administrator of USAID, shall submit to the appropriate congressional committees a final assessment report that evaluates YALI program implementation and outcomes during the entire duration of YALI program operation, including recommendations regarding whether the YALI program should be reauthorized and any changes that would improve its effectiveness.
-- **(g)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-    - **(A)** the Committee on Foreign Affairs of the House of Representatives;
-    - **(B)** the Committee on Appropriations of the House of Representatives;
-    - **(C)** the Committee on Foreign Relations of the Senate; and
-    - **(D)** the Committee on Appropriations of the Senate.
-  - **(2)** *Implementing agency external partners* The term implementing agency external partners means any external partner that is not a United States Government agency, and may include one or more of the following entities:
-    - **(A)** Local or multinational corporations.
-    - **(B)** Nongovernmental organizations.
-    - **(C)** Universities.
-    - **(D)** Regional institutions.
+  - **(1)** *United States-based activities* The Secretary of State, in coordination with the Administrator for the United States Agency for International Development and the heads of other relevant Federal departments and agencies, shall oversee all United States-based activities carried out under the YALI program, including the following:
+    - **(A)** The participation of Mandela Washington fellows in a six-week Leadership Institute at a United States university or college in business, civic engagement, or public management, including academic sessions, site visits, professional networking opportunities, leadership training, community service, and organized cultural activities.
+    - **(B)** The participation by Mandela Washington fellows in an annual Mandela Washington Fellowship Summit, to provide such Fellows the opportunity to meet with United States leaders from the private, public, and non-profit sectors.
+  - **(2)** *Africa-based activities* The Secretary of State, in coordination with the Administrator for the United States Agency for International Development and the heads of other relevant Federal departments and agencies, should continue to support YALI programs in sub-Saharan Africa, including the following:
+    - **(A)** Access to continued leadership training and other professional development opportunities for Mandela Washington Fellowship for Young African Leaders alumni upon their return to their home countries, including online courses, technical assistance, and access to funding.
+    - **(B)** Training for young African leaders at regional leadership centers established in accordance with subsection (d), and through online and in-person courses offered by such centers.
+    - **(C)** Opportunities for networking and engagement with—
+      - **(i)** other alumni of the Mandela Washington Fellowship for Young African Leaders;
+      - **(ii)** alumni of programs at regional leadership centers established in accordance with subsection (d); and
+      - **(iii)** United States and like-minded diplomatic missions, business leaders, and others as appropriate.
+  - **(3)** *Implementation* To carry out this subsection, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development and the heads of other relevant Federal departments and agencies shall seek to partner with the private sector to pursue public-private partnerships, leverage private sector expertise, expand networking opportunities, and identify funding opportunities as well as fellowship and employment opportunities for participants in the YALI program.
+- **(f)** *Implementation plan* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development and the heads of other relevant Federal departments and agencies, shall submit to the appropriate congressional committees a plan for implementing the YALI program, including the following:
+  - **(1)** A description of clearly defined program goals, targets, and planned outcomes for each year and for the duration of implementation of the program.
+  - **(2)** A strategy to monitor and evaluate the program and progress made toward achieving such goals, targets, and planned outcomes.
+  - **(3)** A strategy to ensure the program is promoting United States foreign policy goals in Africa, including ensuring that the program is clearly branded and paired with robust public diplomacy efforts.
+- **(g)** *Report* Not later than 1 year after the date of the enactment of this Act, and annually thereafter for 5 years, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees and publish in a publicly accessible, internet–based form, a report on the following:
+  - **(1)** The progress made toward achieving the goals, targets, and planned outcomes described in subsection (f)(1), including an overview of the program implemented in the previous year and an estimated number of beneficiaries.
+  - **(2)** An assessment of how the YALI program is contributing to and promoting United States-Africa relations, particularly in areas of increased private sector investment, trade promotion, support to civil society, improved public administration, and fostering entrepreneurship and youth empowerment.
+  - **(3)** Recommendations for improvements or changes to the program and implementation plan, if any, that would improve their effectiveness during subsequent years of implementation of the program.
+- **(h)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
+  - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
+  - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+- **(i)** *Sunset* The requirements of this section shall terminate on the date that is 5 years after the date of the enactment of this Act.
