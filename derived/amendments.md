@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2523
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -55,7 +55,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 247d` | insert | in the matter preceding subparagraph (A), by inserting “(other than such a program pursued solely through distance learning on a half-time basis or less)” after “a covered program of education under the retraining assistance program unde… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 247d` | redesignate | by redesignating subsections (f), (g), and (h) as subsections (k), (l), and (m), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247d` | insert | by inserting after subsection (e) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247d` | redesignate | in subsection (m), as so redesignated, by inserting at the end the following new sentences: “Amounts made available to carry out this section shall be deposited in the Department of Veterans Affairs, Veterans Benefits Administration, Rea… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247d` | redesignate | in subsection (m), as so redesignated, by striking the period at the end and inserting the following: “, which shall be carried out as if such section were authorized for the payment of readjustment and rehabilitation benefits to or on b… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247d` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | strike | in clause (xi), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1015a` | replace | in clause (xii), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
