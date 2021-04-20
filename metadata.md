@@ -1,7 +1,7 @@
 ---
 measure: H.R. 473
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 473
@@ -21,9 +21,10 @@ Trusted Traveler Reconsideration and Restoration Act of 2021
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Trusted Traveler Reconsideration and Restoration Act of 2021
 - 2021-04-19 — Mr. Torres (NY) moved to suspend the rules and pass the bill.
 - 2021-04-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1898-1899)
 - 2021-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1898-1899)
+- 2021-04-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
