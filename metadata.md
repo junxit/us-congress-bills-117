@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 316
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 316
@@ -32,3 +32,6 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2021-04-16 — Placed on the House Calendar, Calendar No. 13.
 - 2021-04-16 — Reported by the Committee on House Administration. H. Rept. 117-18.
 - 2021-04-16 — Reported by the Committee on House Administration. H. Rept. 117-18.
+- 2021-04-20 — Discharged from House Calendar.
+- 2021-04-20 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 330, H. Res. 316 is considered passed House.(consideration: CR H1979; text: CR H1979)
+- 2021-04-20 — Pursuant to the provisions of H. Res. 330, H. Res. 316 is considered passed House. (consideration: CR H1979; text: CR H1979)
