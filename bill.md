@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Fair Debt Collection Practices for Servicemembers Act”.
 
-## § 2. Enhanced protection against debt collector harassment of ser­vice­mem­bers
+## § 2. Enhanced protection against debt collector harassment of servicemembers
 
 - **(a)** *Communication in connection with debt collection* Section 805 of the Fair Debt Collection Practices Act (15 U.S.C. 1692c) is amended by adding at the end the following:
   > - **(e)** *Communications concerning servicemember debts*
