@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1083
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1083
@@ -23,9 +23,10 @@ Southeast Asia Strategy Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Southeast Asia Strategy Act
 - 2021-04-19 — Mr. Castro (TX) moved to suspend the rules and pass the bill.
 - 2021-04-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1944)
 - 2021-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1944)
+- 2021-04-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
