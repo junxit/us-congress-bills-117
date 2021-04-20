@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1996
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1996
@@ -199,10 +199,11 @@ SAFE Banking Act of 2021
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -218,3 +219,4 @@ SAFE Banking Act of 2021
 - 2021-04-19 — Mr. Perlmutter moved to suspend the rules and pass the bill, as amended.
 - 2021-04-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 101 (Roll no. 120). (text: CR H1915-1918)
 - 2021-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 101 (Roll no. 120).(text: CR H1915-1918)
+- 2021-04-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
