@@ -1,0 +1,45 @@
+---
+measure: H.R. 2681
+congress: 117
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 2681 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+12 amendatory instructions. 0 executed, 12 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | in paragraph (5)(B)(ii), by striking the period at the end and inserting “, the length of time the Integrity Committee has been evaluating the allegation of wrongdoing, and a description of any previous written notice provided under this… | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (8)(A)(ii), by inserting “or corrective action” after “disciplinary action”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 11(d)(5)(B) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 11(d)(9) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 11(d) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subparagraph (A), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), in the heading, by striking “Requirement” and inserting “Allegations against staff members”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 11(d)(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “(4)(C)” and inserting “(4)(D)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 11(d)(8)(B) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by inserting “, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Represen… | the bill names no machine-readable US Code section |
