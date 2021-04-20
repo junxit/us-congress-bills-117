@@ -15,8 +15,8 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
 
 ## § 2. Chemical, biological, radiological, and nuclear intelligence and information sharing
 
-- **(a)** *In general* Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by inserting after section 210E the following new section:
-  > ## § 210F. Chemical, biological, radiological, and nuclear intelligence and information sharing
+- **(a)** *In general* Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by inserting after section 210G the following new section:
+  > ## § 210H. Chemical, biological, radiological, and nuclear intelligence and information sharing
   >
   > - **(a)** *In general* The Office of Intelligence and Analysis of the Department of Homeland Security shall—
   >   - **(1)** support homeland security-focused intelligence analysis of terrorist actors, their claims, and their plans to conduct attacks involving chemical, biological, radiological, or nuclear materials against the United States, including critical infrastructure;
@@ -33,7 +33,7 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 201E the following new item:
 - **(c)** *Report*
   - **(1)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter for each of the following four years, the Secretary of Homeland Security shall report to the appropriate congressional committees on the following:
-    - **(A)** The intelligence and information sharing activities under section 210F of the Homeland Security Act of 2002 (as added by subsection (a) of this section) and of all relevant entities within the Department of Homeland Security to counter the threat from attacks using chemical, biological, radiological, or nuclear materials.
+    - **(A)** The intelligence and information sharing activities under section 210H of the Homeland Security Act of 2002 (as added by subsection (a) of this section) and of all relevant entities within the Department of Homeland Security to counter the threat from attacks using chemical, biological, radiological, or nuclear materials.
     - **(B)** The Department’s activities in accordance with relevant intelligence strategies.
   - **(2)** *Assessment of implementation* The reports required under paragraph (1) shall include the following:
     - **(A)** An assessment of the progress of the Office of Intelligence and Analysis of the Department of Homeland Security in implementing such section 210F.
