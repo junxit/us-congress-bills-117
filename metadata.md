@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1532
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1532
@@ -16,6 +16,11 @@ Improving FHA Support for Small-Dollar Mortgages Act of 2021
 
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 
+## Cosponsors (2)
+
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +30,10 @@ Improving FHA Support for Small-Dollar Mortgages Act of 2021
 - 2021-03-03 — Introduced in House
 - 2021-03-03 — Introduced in House
 - 2021-03-03 — Referred to the House Committee on Financial Services.
+- 2021-04-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-04-19 — Considered under suspension of the rules. (consideration: CR H1906-1908; text: CR H1906-1907)
+- 2021-04-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1532.
+- 2021-04-19 — Ms. Pressley moved to suspend the rules and pass the bill.
+- 2021-04-20 — Passed/agreed to in House: Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended.(consideration: CR H1979-1994; text: CR H1989)
+- 2021-04-20 — Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended. (consideration: CR H1979-1994; text: CR H1989)
+- 2021-04-20 — Pursuant to the provisions of H. Res. 330, proceedings on H.R. 1532 are considered vacated.
