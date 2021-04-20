@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 333
+congress: 117th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 333
+
+> Expressing the profound sorrow of the House of Representatives on the death of the Honorable Walter F. Mondale.
+
+That the House has heard with profound sorrow of the death of the Honorable Walter F. Mondale, a former Vice President of the United States of America.
+
+That the Clerk communicate these resolutions to the Senate and transmit a copy thereof to the family of the deceased.
+
+That when the House adjourns today, it adjourn as a further mark of respect to the memory of the deceased.
