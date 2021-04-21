@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 30
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 30
@@ -29,3 +29,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2021-04-20 — Referred to the House Committee on House Administration.
 - 2021-04-21 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2135)
 - 2021-04-21 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2135)
+- 2021-04-22 — Message on Senate action sent to the House.
