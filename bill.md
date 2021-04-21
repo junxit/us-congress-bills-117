@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2630
 
-> To amend the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act to extend until September 2021, a temporary order for fentanyl-related substances.
+> To amend the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act to extend until October 2021, a temporary order for fentanyl-related substances.
 
 ## § 1. Short title
 
@@ -15,4 +15,8 @@ This Act may be cited as the “Extending Temporary Emergency Scheduling of Fent
 
 ## § 2. Extension of temporary order for fentanyl-related substances
 
-Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act (Public Law 116–114) is amended by striking “May 6, 2021” and inserting “September 30, 2021”.
+Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act (Public Law 116–114) is amended by striking “May 6, 2021” and inserting “October 22, 2021”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
