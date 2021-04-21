@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 30
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 30
@@ -27,3 +27,5 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2021-04-20 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 330, H. Con. Res. 30 is considered passed House.(consideration: CR H1979; text: CR H1979)
 - 2021-04-20 — Pursuant to the provisions of H. Res. 330, H. Con. Res. 30 is considered passed House. (consideration: CR H1979; text: CR H1979)
 - 2021-04-20 — Referred to the House Committee on House Administration.
+- 2021-04-21 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2135)
+- 2021-04-21 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2135)
