@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1573
 
-> To clarify the rights of all persons who are held or detained at a port of entry or at any detention facility overseen by U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement.
+> To clarify the rights of certain persons who are held or detained at a port of entry or at any facility overseen by U.S. Customs and Border Protection.
 
 ## § 1. Short title
 

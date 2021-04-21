@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1573
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1573
@@ -82,3 +82,20 @@ Access to Counsel Act of 2021
 - 2021-04-16 — Placed on the Union Calendar, Calendar No. 8.
 - 2021-04-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-21.
 - 2021-04-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-21.
+- 2021-04-20 — Rules Committee Resolution H. Res. 330 Reported to House. Rule provides for consideration of H.R. 51, H.R. 1573 and H.R. 1333. Measure will be considered read. Bill is closed to amendments. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 316 and H. Con. Res. 30 are adopted.
+- 2021-04-21 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-04-21 — Considered as unfinished business. (consideration: CR H2030-2032)
+- 2021-04-21 — Considered under the provisions of rule H. Res. 330. (consideration: CR H2016-2025)
+- 2021-04-21 — DEBATE - The House proceeded with one hour of debate on H.R. 1573.
+- 2021-04-21 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-04-21 — House amendment offered
+- 2021-04-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-21 — Mr. Issa moved to recommit to the Committee on the Judiciary. (text: CR H2024)
+- 2021-04-21 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-04-21 — On motion to recommit Failed by the Yeas and Nays: 209 - 215 (Roll no. 128).
+- 2021-04-21 — On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 129). (text: CR H2016)
+- 2021-04-21 — POSTPONED PROCEEDINGS - The Chair put the question on the Issa motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Issa demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-04-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 129).(text: CR H2016)
+- 2021-04-21 — Rule provides for consideration of H.R. 51, H.R. 1573 and H.R. 1333. Measure will be considered read. Bill is closed to amendments. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 316 and H. Con. Res. 30 are adopted.
+- 2021-04-21 — The previous question on the motion was ordered without objection.
+- 2021-04-21 — The previous question was ordered pursuant to the rule.
