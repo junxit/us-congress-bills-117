@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 143
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 143
@@ -38,3 +38,7 @@ A resolution to honor and recognize the patriotism and service to the United Sta
 
 - 2021-03-25 — Introduced in Senate
 - 2021-03-25 — Referred to the Committee on Veterans' Affairs.
+- 2021-04-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2135; text: 03/25/2021 CR S1836)
+- 2021-04-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2135; text: 03/25/2021 CR S1836)
+- 2021-04-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2021-04-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
