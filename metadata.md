@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2630
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2630
@@ -41,3 +41,4 @@ Extending Temporary Emergency Scheduling of Fentanyl Analogues Act
 - 2021-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2025)
 - 2021-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2025)
 - 2021-04-21 — The title of the measure was amended. Agreed to without objection.
+- 2021-04-22 — Received in the Senate, read twice.
