@@ -1,7 +1,7 @@
 ---
 measure: H.R. 51
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 51
@@ -269,3 +269,21 @@ Washington, D.C. Admission Act
 - 2021-04-16 — Placed on the Union Calendar, Calendar No. 6.
 - 2021-04-16 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-19, Part I.
 - 2021-04-16 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-19, Part I.
+- 2021-04-20 — Rules Committee Resolution H. Res. 330 Reported to House. Rule provides for consideration of H.R. 51, H.R. 1573 and H.R. 1333. Measure will be considered read. Bill is closed to amendments. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 316 and H. Con. Res. 30 are adopted.
+- 2021-04-21 — Supplemental report filed by the Committee on Oversight and Reform, H. Rept. 117-19, Part II.
+- 2021-04-21 — Supplemental report filed by the Committee on Oversight and Reform, H. Rept. 117-19, Part II.
+- 2021-04-22 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-04-22 — Considered under the provisions of rule H. Res. 330. (consideration: CR H2061-2089)
+- 2021-04-22 — DEBATE - The House proceeded with one hour of debate on H.R. 51.
+- 2021-04-22 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-04-22 — House amendment offered
+- 2021-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-04-22 — Mr. Griffith moved to recommit to the Committee on Oversight and Reform. (text: CR H2081-2088)
+- 2021-04-22 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-04-22 — On motion to recommit Failed by the Yeas and Nays: 205 - 215 (Roll no. 131).
+- 2021-04-22 — On passage Passed by the Yeas and Nays: 216 - 208 (Roll no. 132). (text: CR H2061-2071)
+- 2021-04-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 208 (Roll no. 132).(text: CR H2061-2071)
+- 2021-04-22 — Received in the Senate.
+- 2021-04-22 — Rule provides for consideration of H.R. 51, H.R. 1573 and H.R. 1333. Measure will be considered read. Bill is closed to amendments. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 316 and H. Con. Res. 30 are adopted.
+- 2021-04-22 — The previous question on the motion to recommit was ordered without objection.
+- 2021-04-22 — The previous question was ordered pursuant to the rule.
