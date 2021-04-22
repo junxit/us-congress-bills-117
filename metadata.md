@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1392
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1392
@@ -30,10 +30,11 @@ Protection of Saudi Dissidents Act of 2021
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Protection of Saudi Dissidents Act of 2021
 - 2021-04-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-04-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 71 (Roll no. 130). (text: 04/19/2021 CR H1939-1941)
 - 2021-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 71 (Roll no. 130).(text: 04/19/2021 CR H1939-1941)
+- 2021-04-22 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
