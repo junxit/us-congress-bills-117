@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1395
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1395
@@ -21,9 +21,10 @@ Housing Financial Literacy Act of 2021
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Housing Financial Literacy Act of 2021
 - 2021-04-20 — Passed/agreed to in House: Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended.(consideration: CR H1979-1994; text: CR H1988)
 - 2021-04-20 — Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended. (consideration: CR H1979-1994; text: CR H1988)
 - 2021-04-20 — Pursuant to the provisions of H. Res. 330, proceedings on H.R. 1395 are considered vacated.
+- 2021-04-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
