@@ -1,7 +1,7 @@
 ---
 measure: H.R. 367
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 367
@@ -16,9 +16,10 @@ Homeland Security Acquisition Professional Career Program Act
 
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ Homeland Security Acquisition Professional Career Program Act
 - 2021-04-20 — Passed/agreed to in House: Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended.(consideration: CR H1979-1994; text: CR H1980)
 - 2021-04-20 — Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended. (consideration: CR H1979-1994; text: CR H1980)
 - 2021-04-20 — Pursuant to the provisions of H. Res. 330, proceedings on H.R. 367 are considered vacated.
+- 2021-04-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
