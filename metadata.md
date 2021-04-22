@@ -1,7 +1,7 @@
 ---
 measure: S. 937
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 937
@@ -80,13 +80,14 @@ COVID-19 Hate Crimes Act
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Scott, Rick [R-FL] (S001217)
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2021-04-14 — [Senate 117-1-151](votes/senate-117-1-0151.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (92–6)
 - 2021-04-22 — [Senate 117-1-162](votes/senate-117-1-0162.md) — On the Amendment — **Amendment Rejected** (49–48)
 - 2021-04-22 — [Senate 117-1-163](votes/senate-117-1-0163.md) — On the Amendment — **Amendment Rejected** (49–48)
 - 2021-04-22 — [Senate 117-1-164](votes/senate-117-1-0164.md) — On the Amendment — **Amendment Rejected** (46–51)
 - 2021-04-22 — [Senate 117-1-165](votes/senate-117-1-0165.md) — On Passage of the Bill — **Bill Passed** (94–1)
+- 2021-05-18 — [House 117-1-145](votes/house-117-1-0145.md) — On Motion to Suspend the Rules and Pass — **Passed** (364–62)
 
 ## Actions
 
@@ -178,3 +179,19 @@ COVID-19 Hate Crimes Act
 - 2021-04-22 — Senate amendment proposed (on the floor): Amendment SA 1425 proposed by Senator McConnell for Senator Lee to Amendment SA 1445.
 - 2021-04-22 — Senate amendment proposed (on the floor): Amendment SA 1456 proposed by Senator Cruz to Amendment SA 1445.
 - 2021-04-22 — Senate amendment proposed (on the floor): Amendment SA 1458 proposed by Senator Blackburn to Amendment SA 1445.
+- 2021-04-26 — Held at the desk.
+- 2021-04-26 — Received in the House.
+- 2021-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-05-18 — Considered as unfinished business. (consideration: CR H2479-2480)
+- 2021-05-18 — Considered under suspension of the rules. (consideration: CR H2464-2472)
+- 2021-05-18 — DEBATE - The House proceeded with forty minutes of debate on S. 937.
+- 2021-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-05-18 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2021-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 62 (Roll no. 145). (text: CR H2464-2466)
+- 2021-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 62 (Roll no. 145).(text: CR H2464-2466)
+- 2021-05-19 — Presented to President.
+- 2021-05-19 — Presented to President.
+- 2021-05-20 — Became Public Law No: 117-13.
+- 2021-05-20 — Became Public Law No: 117-13.
+- 2021-05-20 — Signed by President.
+- 2021-05-20 — Signed by President.
