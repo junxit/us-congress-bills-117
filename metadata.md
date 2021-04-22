@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2523
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2523
@@ -41,3 +41,14 @@ THRIVE Act
 - 2021-04-20 — Pursuant to section 6 of H. Res. 330, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 367; H.R. 370; H.R. 396; H.R. 397, as amended; H.R. 408; H.R. 490; H.R. 965, as amended; H.R. 1251, as amended; H.R. 1395; H.R. 1491; H.R. 1528; H.R. 1532; H.R. 1565; H.R. 1602; and H.R. 2523, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 124, as amended. (consideration: CR H1979-1994; text: CR H1990-1992)
 - 2021-04-20 — Pursuant to the provisions of H. Res. 330, proceedings on H.R. 2523 are considered vacated.
 - 2021-04-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-05-28 — Message on Senate action sent to the House.
+- 2021-05-28 — Passed Senate without amendment by Voice Vote.
+- 2021-05-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2021-05-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3929-3930)
+- 2021-05-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S3929-3930)
+- 2021-06-07 — Presented to President.
+- 2021-06-07 — Presented to President.
+- 2021-06-08 — Became Public Law No: 117-16.
+- 2021-06-08 — Became Public Law No: 117-16.
+- 2021-06-08 — Signed by President.
+- 2021-06-08 — Signed by President.
