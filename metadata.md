@@ -1,7 +1,7 @@
 ---
 measure: S. 937
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 937
@@ -170,3 +170,19 @@ COVID-19 Hate Crimes Act
 - 2021-04-22 — Senate amendment proposed (on the floor): Amendment SA 1425 proposed by Senator McConnell for Senator Lee to Amendment SA 1445.
 - 2021-04-22 — Senate amendment proposed (on the floor): Amendment SA 1456 proposed by Senator Cruz to Amendment SA 1445.
 - 2021-04-22 — Senate amendment proposed (on the floor): Amendment SA 1458 proposed by Senator Blackburn to Amendment SA 1445.
+- 2021-04-26 — Held at the desk.
+- 2021-04-26 — Received in the House.
+- 2021-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-05-18 — Considered as unfinished business. (consideration: CR H2479-2480)
+- 2021-05-18 — Considered under suspension of the rules. (consideration: CR H2464-2472)
+- 2021-05-18 — DEBATE - The House proceeded with forty minutes of debate on S. 937.
+- 2021-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-05-18 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2021-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 62 (Roll no. 145). (text: CR H2464-2466)
+- 2021-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 62 (Roll no. 145).(text: CR H2464-2466)
+- 2021-05-19 — Presented to President.
+- 2021-05-19 — Presented to President.
+- 2021-05-20 — Became Public Law No: 117-13.
+- 2021-05-20 — Became Public Law No: 117-13.
+- 2021-05-20 — Signed by President.
+- 2021-05-20 — Signed by President.
