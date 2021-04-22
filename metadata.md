@@ -1,7 +1,7 @@
 ---
 measure: H.R. 51
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 51
