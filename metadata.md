@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1333
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1333
@@ -178,12 +178,13 @@ NO BAN Act
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
 
-## Committees (4)
+## Committees (5)
 
 - House — Intelligence (Permanent Select) Committee
 - House — Homeland Security Committee
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -223,3 +224,4 @@ NO BAN Act
 - 2021-04-21 — Rule provides for consideration of H.R. 51, H.R. 1573 and H.R. 1333. Measure will be considered read. Bill is closed to amendments. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 316 and H. Con. Res. 30 are adopted.
 - 2021-04-21 — The previous question on the motion was ordered without objection.
 - 2021-04-21 — The previous question was ordered pursuant to the rule.
+- 2021-04-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
