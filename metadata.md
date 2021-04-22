@@ -1,0 +1,38 @@
+---
+measure: S.Con.Res. 8
+congress: 117
+version: Introduced in Senate
+---
+
+# S.Con.Res. 8
+
+A concurrent resolution recognizing that the climate crisis is disproportionately affecting the health, economic opportunity, and fundamental rights of children, expressing the sense of Congress that renewed leadership by the United States is needed to address the climate crisis, and recognizing the need of the United States to develop a national, comprehensive, and science-based climate recovery plan to phase out fossil fuel emissions, protect and enhance natural sequestration, and put the United States on a path toward stabilizing the climate system.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
+## Cosponsors (9)
+
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+
+## Committees (1)
+
+- Senate — Environment and Public Works Committee
+
+## Actions
+
+- 2021-04-22 — Introduced in Senate
+- 2021-04-22 — Referred to the Committee on Environment and Public Works. (text: CR S2180-2181)
