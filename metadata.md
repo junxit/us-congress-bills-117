@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1573
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1573
@@ -68,9 +68,10 @@ Access to Counsel Act of 2021
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -99,3 +100,4 @@ Access to Counsel Act of 2021
 - 2021-04-21 — Rule provides for consideration of H.R. 51, H.R. 1573 and H.R. 1333. Measure will be considered read. Bill is closed to amendments. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 316 and H. Con. Res. 30 are adopted.
 - 2021-04-21 — The previous question on the motion was ordered without objection.
 - 2021-04-21 — The previous question was ordered pursuant to the rule.
+- 2021-04-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
