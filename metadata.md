@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 14
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 14
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Cosponsors (21)
+## Cosponsors (23)
 
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Markey, Edward J. [D-MA] (M000133)
@@ -39,6 +39,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -48,3 +50,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2021-03-25 — Introduced in Senate
 - 2021-03-25 — Read twice and referred to the Committee on Environment and Public Works.
+- 2021-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
+- 2021-04-26 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2021-04-26 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).
