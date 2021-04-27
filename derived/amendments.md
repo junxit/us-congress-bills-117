@@ -1,7 +1,7 @@
 ---
 measure: S. 848
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,11 +26,11 @@ to guess them.
 
 ### 20 U.S.C. § 1070g-2
 
-> in the matter preceding paragraph (1), by striking “For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g-2), during a qualifying emergency,” and inserting “Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.),”;
+> in the matter preceding paragraph (1), by striking “For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g–2), during a qualifying emergency,” and inserting “Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.),”;
 
 | | |
 |---|---|
-| Removed | `For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g-2), during a qualifying emergency,` |
+| Removed | `For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g–2), during a qualifying emergency,` |
 | Inserted | `Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.),` |
 
 ### 20 U.S.C. § 1001

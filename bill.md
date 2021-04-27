@@ -62,7 +62,7 @@ Section 420N(d) of the Higher Education Act of 1965 (20 U.S.C. 1070g–2(d)), as
 ## § 4. Extension of time to fulfill service obligation due to COVID–19
 
 - **(a)** Section 3519(a) of the CARES Act (Public Law 116–136; 20 U.S.C. 1001 note) is amended—
-  - **(1)** in the matter preceding paragraph (1), by striking “For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g-2), during a qualifying emergency,” and inserting “Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.),”;
+  - **(1)** in the matter preceding paragraph (1), by striking “For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g–2), during a qualifying emergency,” and inserting “Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.),”;
   - **(2)** in paragraph (1), by striking “and” after the semicolon;
   - **(3)** in paragraph (2), by striking “such section 420N.” and inserting “section 420N of such Act; and”; and
   - **(4)** by adding at the end the following:
