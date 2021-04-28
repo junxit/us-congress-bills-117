@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 14
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 14
@@ -53,3 +53,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2021-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
 - 2021-04-26 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).
 - 2021-04-26 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2021-04-28 — Measure laid before Senate by motion. (consideration: CR S2282-2284)
+- 2021-04-28 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S2257-2266)
+- 2021-04-28 — Passed Senate without amendment by Yea-Nay Vote. 52 - 42. Record Vote Number: 175. (text: CR S2284)
+- 2021-04-28 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 42. Record Vote Number: 175.(text: CR S2284)
