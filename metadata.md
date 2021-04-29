@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 146
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 146
@@ -28,3 +28,7 @@ A resolution designating April 2021 as "Second Chance Month".
 
 - 2021-03-25 — Introduced in Senate
 - 2021-03-25 — Referred to the Committee on the Judiciary.
+- 2021-04-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1837-1838)
+- 2021-04-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1837-1838)
+- 2021-04-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2385-2386)
+- 2021-04-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2385-2386)
