@@ -1,7 +1,7 @@
 ---
 measure: S. 321
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 321
@@ -106,3 +106,20 @@ version: Engrossed in Senate
 - 2021-04-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2385)
 - 2021-04-29 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S2385)
 - 2021-04-29 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S2385)
+- 2021-05-03 — Message on Senate action sent to the House.
+- 2021-05-04 — Held at the desk.
+- 2021-05-04 — Received in the House.
+- 2022-02-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-02-28 — Considered as unfinished business. (consideration: CR H1170-1171)
+- 2022-02-28 — Considered under suspension of the rules. (consideration: CR H1152-1155)
+- 2022-02-28 — DEBATE - The House proceeded with forty minutes of debate on S. 321.
+- 2022-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-28 — Mr. Perlmutter moved to suspend the rules and pass the bill.
+- 2022-02-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 46). (text: CR H1152-1153)
+- 2022-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 46).(text: CR H1152-1153)
+- 2022-03-03 — Presented to President.
+- 2022-03-03 — Presented to President.
+- 2022-03-14 — Became Public Law No: 117-97.
+- 2022-03-14 — Became Public Law No: 117-97.
+- 2022-03-14 — Signed by President.
+- 2022-03-14 — Signed by President.
