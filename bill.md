@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 2943
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2943
+
+> To amend the Internal Revenue Code of 1986 to allow retroactive elective deferrals for owners of unincorporated businesses in the case of a plan adopted after the close of the taxable year and before the time for filing the return of tax.
+
+## § 1. Retroactive first year elective deferrals for sole proprietors
+
+- **(a)** *In general* Section 401(b) of the Internal Revenue Code of 1986 is amended by adding at the end the following: “In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective deferral (as defined in section 402(g)(3)) under a plan to which the preceding sentence applies which is made by such individual before the time for filing the return of such individual for the taxable year (determined without regard to any extensions) shall be treated as having been made before the end of the plan’s first plan year.”.
+- **(b)** *Effective date* The amendment made by this section shall apply to plan years beginning after December 31, 2021.
