@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 2944
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2944
+
+> To amend the Internal Revenue Code of 1986 to reduce the retirement plan period of service requirements for long-term, part-time employees.
+
+## § 1. One-year reduction in period of service requirement for long-term, part-time workers
+
+- **(a)** *In general* Section 401(k)(2)(D)(ii) of the Internal Revenue Code of 1986 is amended by striking “3” and inserting “2”.
+- **(b)** *Clarification of prior service for purposes of vesting rules* Section 112(b) of the Setting Every Community Up for Retirement Enhancement Act of 2019 is amended by striking “section 401(k)(2)(D)(ii)” and inserting “paragraphs (2)(D)(ii) and (15)(B)(iii) of section 401(k)”.
+- **(c)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of section 112 of the Setting Every Community Up for Retirement Enhancement Act of 2019.
