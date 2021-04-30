@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2547
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2547
@@ -35,3 +35,9 @@ Comprehensive Debt Collection Improvement Act
 - 2021-04-15 — Introduced in House
 - 2021-04-15 — Introduced in House
 - 2021-04-15 — Referred to the House Committee on Financial Services.
+- 2021-04-20 — Committee Consideration and Mark-up Session Held.
+- 2021-04-21 — Committee Consideration and Mark-up Session Held.
+- 2021-04-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 23.
+- 2021-04-30 — Placed on the Union Calendar, Calendar No. 10.
+- 2021-04-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-23.
+- 2021-04-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-23.
