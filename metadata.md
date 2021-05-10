@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 203
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 203
@@ -28,3 +28,7 @@ A resolution condemning the horrific attack in Indianapolis, Indiana, on April 1
 
 - 2021-04-29 — Introduced in Senate
 - 2021-04-29 — Referred to the Committee on the Judiciary.
+- 2021-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/29/2021 CR S2370)
+- 2021-05-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/29/2021 CR S2370)
+- 2021-05-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2422)
+- 2021-05-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2422)
