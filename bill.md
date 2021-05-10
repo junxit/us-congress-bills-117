@@ -20,9 +20,9 @@ This Act may be cited as the “Billion Dollar Boondoggle Act of 2021”.
     - **(A)** an Executive agency, as defined in section 105 of title 5, United States Code; and
     - **(B)** an independent regulatory agency, as defined in section 3502 of title 44, United States Code;
   - **(2)** the term covered project means a project funded by a covered agency—
-    - **(A)** that is more than 5 years behind schedule; or
+    - **(A)** that is more than 5 years behind schedule, as measured against the original expected date for completion; or
     - **(B)** for which the amount spent on the project is not less than $1,000,000,000 more than the original cost estimate for the project; and
-  - **(3)** the term project means a major acquisition, a major defense acquisition program (as defined in section 2430 of title 10, United States Code), a procurement, a construction project, a remediation or clean-up effort, or any other time-limited endeavor, that is not funded through direct spending (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c)).
+  - **(3)** the term project means a major acquisition, a major defense acquisition program (as defined in section 2430 of title 10, United States Code), a procurement, a construction project, a remediation or clean-up effort, or any other time-limited endeavor, that is not funded through direct spending (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c))).
 - **(b)** *Requirement* Not later than 1 year after the date of enactment of this Act, the Director of the Office of Management and Budget shall issue guidance requiring covered agencies to include, on an annual basis in a report described in paragraph (2) of section 3516(a) of title 31, United States Code, or a consolidated report described in paragraph (1) of such section, information relating to each covered project of the covered agency, which shall include—
   - **(1)** a brief description of the covered project, including—
     - **(A)** the purpose of the covered project;
