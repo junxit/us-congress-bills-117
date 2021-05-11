@@ -1,0 +1,35 @@
+---
+measure: H.R. 3087
+congress: 117
+version: Introduced in House
+---
+
+# H.R. 3087
+
+Breast Cancer Patient Equity Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Chu, Judy [D-CA-27] (C001080)
+
+## Cosponsors (3)
+
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+
+## Committees (2)
+
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
+
+## Actions
+
+- 2021-05-11 — Introduced in House
+- 2021-05-11 — Introduced in House
+- 2021-05-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-05-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
