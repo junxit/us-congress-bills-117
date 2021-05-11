@@ -1,6 +1,6 @@
 ---
 legis-num: S.J. RES. 15
-congress: 117th CONGRESS
+congress: One Hundred Seventeenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
