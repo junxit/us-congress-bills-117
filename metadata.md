@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 81
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 81
@@ -35,3 +35,5 @@ A resolution honoring Las Damas de Blanco, a women-led nonviolent movement in su
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
+- 2021-05-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2494; text: 3/1/2021 CR S958-959)
+- 2021-05-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2494; text: 3/1/2021 CR S958-959)
