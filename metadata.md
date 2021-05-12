@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 379
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 379
@@ -26,3 +26,5 @@ Dismissing the election contest relating to the office of Representative from th
 - 2021-05-11 — Placed on the House Calendar, Calendar No. 15.
 - 2021-05-11 — The House Committee on House Administration reported an original measure, H. Rept. 117-28, by Ms. Lofgren.
 - 2021-05-11 — The House Committee on House Administration reported an original measure, H. Rept. 117-28, by Ms. Lofgren.
+- 2021-05-12 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 380, H. Res. 379 is considered passed House.(consideration: CR H2226-2235; text: CR H2235)
+- 2021-05-12 — Pursuant to the provisions of H. Res. 380, H. Res. 379 is considered passed House. (consideration: CR H2226-2235; text: CR H2235)
