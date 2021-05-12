@@ -22,7 +22,7 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 > - **(a)** *Authority established*
 >   - **(1)** *In general* The Secretary shall award grants to eligible entities to establish or expand violence intervention or prevention programs for services and research designed to reduce the incidence of reinjury and reincarceration caused by intentional violent trauma, excluding intimate partner violence.
 >   - **(2)** *First award* Not later than 9 months after the date of enactment of this section, the Secretary shall make the first award under paragraph (1).
->   - **(3)** *Grant duration* Each grant awarded under paragraph (1) shall be for a period of three years.
+>   - **(3)** *Grant duration* Each grant awarded under paragraph (1) shall be for a period of 3 years.
 >   - **(4)** *Grant amount* The total amount of each grant awarded under paragraph (1) for the 3-year grant period shall be not less than $250,000 and not more than $500,000.
 >   - **(5)** *Supplement not supplant* A grant awarded under paragraph (1) to an eligible entity with an existing program described in paragraph (1) shall be used to supplement, and not supplant, any other funds provided to such entity for such program.
 > - **(b)** *Eligible entities* To be eligible to receive a grant under subsection (a)(1), an entity shall—
@@ -43,11 +43,11 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >       - **(i)** any findings of the program established, or expanded, by the entity through the grant; and
 >       - **(ii)** if applicable, the manner in which the entity has incorporated such findings in the violence intervention or violence prevention program conducted by such entity.
 >     - **(B)** *Option for joint report* To the extent feasible and appropriate, an entity that receives a grant under subsection (a)(1) may elect to coordinate with one or more other entities that have received such a grant to submit a joint report that meets the requirements of subparagraph (A).
->   - **(2)** *Report to Congress* Not later than six years after the date of enactment of the Bipartisan Solution to Cyclical Violence Act of 2021, the Secretary shall submit to Congress a report—
+>   - **(2)** *Report to Congress* Not later than 6 years after the date of enactment of the Bipartisan Solution to Cyclical Violence Act of 2021, the Secretary shall submit to Congress a report—
 >     - **(A)** on any findings resulting from reports submitted to the Secretary under paragraph (1);
 >     - **(B)** on best practices developed by the Secretary under subsection (e); and
 >     - **(C)** with recommendations for legislative action relating to intentional violent trauma prevention that the Secretary determines appropriate.
-> - **(e)** *Best practices* Not later than six years after the date of enactment of the Bipartisan Solution to Cyclical Violence Act of 2021, the Secretary shall—
+> - **(e)** *Best practices* Not later than 6 years after the date of enactment of the Bipartisan Solution to Cyclical Violence Act of 2021, the Secretary shall—
 >   - **(1)** develop, and post on a public website of the Department of Health and Human Services, best practices for intentional violent trauma prevention, based on any findings reported to the Secretary under subsection (d)(1); and
 >   - **(2)** disseminate such best practices to stakeholders, as determined appropriate by the Secretary.
-> - **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $10,000,000 for the period of fiscal years 2021 through 2024.
+> - **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $10,000,000 for the period of fiscal years 2022 through 2025.
