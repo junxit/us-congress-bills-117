@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1448
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1714 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1714 of title 38, United States Code, is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
