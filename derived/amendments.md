@@ -1,7 +1,7 @@
 ---
 measure: H.R. 586
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
