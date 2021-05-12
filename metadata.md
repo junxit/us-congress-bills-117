@@ -1,7 +1,7 @@
 ---
 measure: H.R. 49
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 49
@@ -16,10 +16,27 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Cosponsors (2)
+## Cosponsors (19)
 
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 - Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
 ## Committees (1)
 
@@ -30,3 +47,10 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Referred to the House Committee on Natural Resources.
+- 2021-02-18 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-05-12 — Considered under suspension of the rules. (consideration: CR H2219-2220)
+- 2021-05-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 49.
+- 2021-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-05-12 — Mr. Soto moved to suspend the rules and pass the bill.
+- 2021-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2219)
+- 2021-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2219)
