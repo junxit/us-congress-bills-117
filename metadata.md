@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 114
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 114
@@ -32,3 +32,5 @@ A resolution commending the United States African Development Foundation on the 
 - 2021-03-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.
+- 2021-05-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2496; text: 3/15/2021 CR S1529)
+- 2021-05-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2496; text: 3/15/2021 CR S1529)
