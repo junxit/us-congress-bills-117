@@ -25,7 +25,7 @@ This Act may be cited as the “Protecting Moms Who Served Act”.
 
 ## § 3. Report on maternal mortality and severe maternal morbidity among pregnant and postpartum veterans
 
-- **(a)** *GAO report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives, and make publicly available, a report on maternal mortality and severe maternal morbidity among pregnant and postpartum veterans, with a particular focus on racial and ethnic disparities in maternal health outcomes for veterans.
+- **(a)** *GAO report* Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives, and make publicly available, a report on maternal mortality and severe maternal morbidity among pregnant and postpartum veterans, with a particular focus on racial and ethnic disparities in maternal health outcomes for veterans.
 - **(b)** *Matters included* The report under subsection (a) shall include the following:
   - **(1)** To the extent practicable—
     - **(A)** the number of pregnant and post­par­tum veterans who have experienced a pregnancy-related death or pregnancy-associated death in the most recent 10 years of available data;
@@ -35,8 +35,8 @@ This Act may be cited as the “Protecting Moms Who Served Act”.
     - **(E)** identification of the causes of maternal mortality and severe maternal morbidity that are unique to veterans, including post-traumatic stress disorder, military sexual trauma, and infertility or miscarriages that may be caused by such service;
     - **(F)** identification of the causes of maternal mortality and severe maternal morbidity that are unique to veterans from racial and ethnic minority groups and other at-risk populations as deemed appropriate;
     - **(G)** identification of any correlations between the former rank of veterans and their maternal health outcomes;
-    - **(H)** the number of veterans who have been diagnosed with infertility by Veterans Health Administration providers each year in the most recent 5 years, disaggregated by age, race, ethnicity, sex, marital status, sexual orientation, gender identity, and geographical location;
-    - **(I)** the number of veterans who receive a clinical diagnosis of unexplained infertility by Veterans Health Administration providers each year in the most recent 5 years; and
+    - **(H)** the number of veterans who have been diagnosed with infertility by Veterans Health Administration providers each year in the most recent five years, disaggregated by age, race, ethnicity, sex, marital status, sexual orientation, gender identity, and geographical location;
+    - **(I)** the number of veterans who receive a clinical diagnosis of unexplained infertility by Veterans Health Administration providers each year in the most recent five years; and
     - **(J)** the extent to which the rate of incidence of clinically diagnosed infertility among veterans compare or differ to the rate of incidence of clinically diagnosed infertility among the civilian population.
   - **(2)** An assessment of the barriers to determining the information required under paragraph (1) and recommendations for improvements in tracking maternal health outcomes among pregnant and postpartum veterans—
     - **(A)** who have health care coverage through the Department;
@@ -60,7 +60,7 @@ This Act may be cited as the “Protecting Moms Who Served Act”.
 
 In this Act:
 
-- **(1)** *Maternal mortality* The term maternal mortality means a death occurring during or within a 1-year period after pregnancy, caused by pregnancy-related or childbirth complications, including a suicide, overdose, or other death resulting from a mental health or substance use disorder attributed to or aggravated by pregnancy-related or childbirth complications.
+- **(1)** *Maternal mortality* The term maternal mortality means a death occurring during or within a one-year period after pregnancy, caused by pregnancy-related or childbirth complications, including a suicide, overdose, or other death resulting from a mental health or substance use disorder attributed to or aggravated by pregnancy-related or childbirth complications.
 - **(2)** *Postpartum and postpartum period* The terms postpartum and postpartum period refer to the 1-year period beginning on the last day of the pregnancy of an individual.
 - **(3)** *Pregnancy-associated death* The term pregnancy-associated death means a death of a pregnant or postpartum individual, by any cause, that occurs during, or within 1 year following, the individual’s pregnancy, regardless of the outcome, duration, or site of the pregnancy.
 - **(4)** *Pregnancy-related death* The term pregnancy-related death means a death of a pregnant or postpartum individual that occurs during, or within 1 year following, the individual’s pregnancy, from a pregnancy complication, a chain of events initiated by pregnancy, or the aggravation of an unrelated condition by the physiologic effects of pregnancy.
