@@ -19,7 +19,7 @@ The Public Health Service Act is amended by inserting before section 318 of such
 
 > ## § 317V. Data system to capture national public safety officer suicide incidence
 >
-> - **(a)** *In general* The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and other agencies as the Secretary determines appropriate, shall—
+> - **(a)** *In general* The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and other agencies as the Secretary determines appropriate, may—
 >   - **(1)** develop and maintain a data system, to be known as the Public Safety Officer Suicide Reporting System, for the purposes of—
 >     - **(A)** collecting data on the suicide incidence among public safety officers; and
 >     - **(B)** facilitating the study of successful interventions to reduce suicide among public safety officers; and
@@ -63,9 +63,9 @@ The Public Health Service Act is amended by inserting before section 318 of such
 ## § 3. Peer-support behavioral health and wellness programs within fire departments and emergency medical service agencies
 
 - **(a)** *In general* Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by adding at the end the following:
-  > ## § 320B. Peer-support behavioral health and wellness programs within fire departments and emergency medical service agencies
+  > ## § 320C. Peer-support behavioral health and wellness programs within fire departments and emergency medical service agencies
   >
-  > - **(a)** *In general* The Secretary shall award grants to eligible entities for the purpose of establishing or enhancing peer-support behavioral health and wellness programs within fire departments and emergency medical services agencies.
+  > - **(a)** *In general* The Secretary may award grants to eligible entities for the purpose of establishing or enhancing peer-support behavioral health and wellness programs within fire departments and emergency medical services agencies.
   > - **(b)** *Program description* A peer-support behavioral health and wellness program funded under this section shall—
   >   - **(1)** use career and volunteer members of fire departments or emergency medical services agencies to serve as peer counselors;
   >   - **(2)** provide training to members of career, volunteer, and combination fire departments or emergency medical service agencies to serve as such peer counselors;
@@ -83,9 +83,9 @@ The Public Health Service Act is amended by inserting before section 318 of such
 
 Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.), as amended by section 3, is further amended by adding at the end the following:
 
-> ## § 320C. Health care provider behavioral health and wellness programs
+> ## § 320D. Health care provider behavioral health and wellness programs
 >
-> - **(a)** *In general* The Secretary shall award grants to eligible entities for the purpose of establishing or enhancing behavioral health and wellness programs for health care providers.
+> - **(a)** *In general* The Secretary may award grants to eligible entities for the purpose of establishing or enhancing behavioral health and wellness programs for health care providers.
 > - **(b)** *Program description* A behavioral health and wellness program funded under this section shall—
 >   - **(1)** provide confidential support services for health care providers to help handle stressful or traumatic patient-related events, including counseling services and wellness seminars;
 >   - **(2)** provide training to health care providers to serve as peer counselors to other health care providers;
