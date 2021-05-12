@@ -1,7 +1,7 @@
 ---
 measure: H.R. 721
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 721
@@ -16,7 +16,7 @@ Mental Health Services for Students Act of 2021
 
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 
-## Cosponsors (62)
+## Cosponsors (86)
 
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
@@ -80,6 +80,30 @@ Mental Health Services for Students Act of 2021
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
 ## Committees (1)
 
@@ -90,3 +114,11 @@ Mental Health Services for Students Act of 2021
 - 2021-02-02 — Introduced in House
 - 2021-02-02 — Introduced in House
 - 2021-02-02 — Referred to the House Committee on Energy and Commerce.
+- 2021-02-03 — Referred to the Subcommittee on Health.
+- 2021-05-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-05-11 — Considered under suspension of the rules. (consideration: CR H2165-2167; text: CR H2165-2166)
+- 2021-05-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 721.
+- 2021-05-11 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2021-05-12 — Passed/agreed to in House: Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981.(consideration: CR H2235-2246; text: CR H2237)
+- 2021-05-12 — Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981. (consideration: CR H2235-2246; text: CR H2237)
+- 2021-05-12 — Pursuant to the provisions of H. Res. 380, proceedings on H.R. 721 are considered vacated.

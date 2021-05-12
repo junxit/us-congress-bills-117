@@ -53,6 +53,6 @@ This Act may be cited as the â€œMental Health Services for Students Act of 2021â
   > - **(g)** *Information and education* The Secretary shall disseminate best practices based on the findings of the knowledge development and application under this section.
   > - **(h)** *Amount of grants and authorization of appropriations*
   >   - **(1)** *Amount of grants* A grant under this section shall be in an amount that is not more than $2,000,000 for each of the first 5 fiscal years following the date of enactment of the Mental Health Services for Students Act of 2021. The Secretary shall determine the amount of each such grant based on the population of children up to age 21 of the area to be served under the grant.
-  >   - **(2)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $200,000,000 for each of fiscal years 2022 through 2025.
+  >   - **(2)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $130,000,000 for each of fiscal years 2022 through 2025.
 
 - **(c)** *Conforming amendment* Part G of title V of the Public Health Service Act (42 U.S.C. 290hh et seq.), as amended by subsection (b), is further amended by striking the part designation and heading and inserting the following:
