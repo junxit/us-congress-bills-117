@@ -49,7 +49,7 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
     - **(i)** by inserting “National” before “Indian”; and
     - **(ii)** by striking “Centers” and inserting “Center”;
   - **(B)** by amending subsections (a) and (b) to read as follows:
-    > - **(a)** *Establishment* Not later than one year after the date of the enactment of the Native American Child Protection Act, the Secretary shall establish a National Indian Child Resource and Family Services Center.
+    > - **(a)** *Establishment* Not later than 1 year after the date of the enactment of the Native American Child Protection Act, the Secretary shall establish a National Indian Child Resource and Family Services Center.
     > - **(b)** *Report* Not later than 2 years after the date of the enactment of the Native American Child Protection Act, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the status of the National Indian Child Resource and Family Services Center.
 
   - **(C)** in subsection (c)—
