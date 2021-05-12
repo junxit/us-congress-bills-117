@@ -2,12 +2,12 @@
 legis-num: H. RES. 380
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 380
 
-> Providing for consideration of the bill (H.R. 2547) to expand and enhance consumer, student, servicemember, and small business protections with respect to debt collection practices, and for other purposes; providing for consideration of the bill (H.R. 1065) to eliminate discrimination and promote womens health and economic security by ensuring reasonable workplace accommodations for workers whose ability to perform the functions of a job are limited by pregnancy, childbirth, or a related medical condition; and for other purposes.
+> Providing for consideration of the bill (H.R. 2547) to expand and enhance consumer, student, servicemember, and small business protections with respect to debt collection practices, and for other purposes; providing for consideration of the bill (H.R. 1065) to eliminate discrimination and promote women’s health and economic security by ensuring reasonable workplace accommodations for workers whose ability to perform the functions of a job are limited by pregnancy, childbirth, or a related medical condition; and for other purposes.
 
 That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2547) to expand and enhance consumer, student, servicemember, and small business protections with respect to debt collection practices, and for other purposes. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services or their respective designees; (2) the further amendments described in section 2 of this resolution; (3) the amendments en bloc described in section 3 of this resolution; and (4) one motion to recommit.
 
