@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2862
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 520E–3(b)(2) of the Public Health Service Act (42 U.S.C. 290bb–36c(b)(2)) is amended by inserting after “suicide prevention hotline” the following: “, under the universal telephone number designated under Section 251(e)(4) of the… | the bill names no machine-readable US Code section |
+| — | insert | Section 520E–3(b)(2) of the Public Health Service Act (42 U.S.C. 290bb–36c(b)(2)) is amended by inserting after “suicide prevention hotline” the following: “, under the universal telephone number designated under section 251(e)(4) of the… | the bill names no machine-readable US Code section |
