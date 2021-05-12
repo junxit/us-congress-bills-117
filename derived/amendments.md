@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1475
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,6 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 290dd` | add-at-end | Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290dd` | add-at-end | Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.), as amended by section 101, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290dd` | redesignate | Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.) is amended by inserting after section 553 of such Act (as redesignated and moved by section 203 of this Act) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290dd` | insert | Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.) is amended by inserting after section 554 of such Act, as added by section 101 of this Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290ee-10` | redesignate | by redesignating the second section 550 (42 U.S.C. 290ee–10) (relating to Sobriety Treatment And Recovery Teams) as section 553; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
