@@ -15,12 +15,12 @@ This Act may be cited as the “Campaign to Prevent Suicide Act”.
 
 ## § 2. National Suicide Prevention Lifeline
 
-Section 520E–3(b)(2) of the Public Health Service Act (42 U.S.C. 290bb–36c(b)(2)) is amended by inserting after “suicide prevention hotline” the following: “, under the universal telephone number designated under Section 251(e)(4) of the Communications Act of 1934,”.
+Section 520E–3(b)(2) of the Public Health Service Act (42 U.S.C. 290bb–36c(b)(2)) is amended by inserting after “suicide prevention hotline” the following: “, under the universal telephone number designated under section 251(e)(4) of the Communications Act of 1934,”.
 
 ## § 3. National suicide prevention media campaign
 
 - **(a)** *National suicide prevention media campaign*
-  - **(1)** *In general* Not later than the date that is three years after the date of the enactment of this Act, the Secretary of Health and Human Services (referred to in this section as the “Secretary”), in consultation with the Assistant Secretary for Mental Health and Substance Use (referred to in this section as the “Assistant Secretary”) and the Director of the Centers for Disease Control and Prevention (referred to in this section as the “Director”), shall conduct a national suicide prevention media campaign (referred to in this section as the “national media campaign”), in accordance with the requirements of this section, for purposes of—
+  - **(1)** *In general* Not later than the date that is 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services (referred to in this section as the “Secretary”), in consultation with the Assistant Secretary for Mental Health and Substance Use (referred to in this section as the “Assistant Secretary”) and the Director of the Centers for Disease Control and Prevention (referred to in this section as the “Director”), shall conduct a national suicide prevention media campaign (referred to in this section as the “national media campaign”), in accordance with the requirements of this section, for purposes of—
     - **(A)** preventing suicide in the United States;
     - **(B)** educating families, friends, and communities on how to address suicide and suicidal thoughts, including when to encourage individuals with suicidal risk to seek help; and
     - **(C)** increasing awareness of suicide prevention resources of the Centers for Disease Control and Prevention and the Substance Abuse and Mental Health Services Administration (including the suicide prevention hotline maintained under section 520E–3 of the Public Health Service Act (42 U.S.C. 290bb–36c)), any suicide prevention mobile application of the Centers for Disease Control and Prevention or the Substance Abuse Mental Health Services Administration, and other support resources determined appropriate by the Secretary.
@@ -54,4 +54,4 @@ Section 520E–3(b)(2) of the Public Health Service Act (42 U.S.C. 290bb–36c(b
   - **(3)** plans to purchase advertising time and space;
   - **(4)** policies and practices implemented to ensure that Federal funds are used responsibly to purchase advertising time and space and eliminate the potential for waste, fraud, and abuse; and
   - **(5)** all contracts entered into with a corporation, a partnership, or an individual working on behalf of the national media campaign.
-- **(f)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2025.
+- **(f)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2022 through 2026.
