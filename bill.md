@@ -55,7 +55,7 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >     - **(D)** the number of individuals referred by the site’s emergency department to other treatment facilities, the types of such other facilities, and the number of such individuals admitted to such other facilities pursuant to such referrals;
 >     - **(E)** the effectiveness of programs and activities funded through the grant in preventing suicides and suicide attempts; and
 >     - **(F)** any other relevant additional data regarding the programs and activities funded through the grant.
->   - **(2)** *Report by Secretary* Not later than one year after the end of fiscal year 2026, the Secretary shall submit to Congress a report that includes—
+>   - **(2)** *Report by Secretary* Not later than 1 year after the end of fiscal year 2026, the Secretary shall submit to Congress a report that includes—
 >     - **(A)** findings on the Program;
 >     - **(B)** overall patient outcomes achieved through the Program;
 >     - **(C)** an evaluation of the effectiveness of having a trained health care or behavioral health professional onsite to identify, assess, and treat patients who are at risk of suicide; and
