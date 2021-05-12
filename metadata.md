@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1448
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1448
@@ -16,7 +16,7 @@ PAWS for Veterans Therapy Act
 
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 
-## Cosponsors (216)
+## Cosponsors (317)
 
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Waltz, Michael [R-FL-6] (W000823)
@@ -234,6 +234,107 @@ PAWS for Veterans Therapy Act
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Hern, Kevin [R-OK-1] (H001082)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Hollingsworth, Trey [R-IN-9] (H001074)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Obernolte, Jay [R-CA-8] (O000019)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Issa, Darrell E. [R-CA-50] (I000056)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Rosendale Sr., Matthew M. [R-MT-At Large] (R000103)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Jacobs, Chris [R-NY-27] (J000020)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Casten, Sean [D-IL-6] (C001117)
 
 ## Committees (1)
 
@@ -244,3 +345,19 @@ PAWS for Veterans Therapy Act
 - 2021-03-01 — Introduced in House
 - 2021-03-01 — Introduced in House
 - 2021-03-01 — Referred to the House Committee on Veterans' Affairs.
+- 2021-03-18 — Motion to place bill on Consensus Calendar filed by Mr. Stivers.
+- 2021-04-14 — Referred to the Subcommittee on Health.
+- 2021-04-15 — Subcommittee Hearings Held.
+- 2021-05-04 — Committee Consideration and Mark-up Session Held.
+- 2021-05-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-05-04 — Subcommittee on Health Discharged.
+- 2021-05-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-05-12 — Considered under suspension of the rules. (consideration: CR H2212-2215)
+- 2021-05-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1448.
+- 2021-05-12 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2021-05-12 — Passed/agreed to in House: Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981.(consideration: CR H2235-2246; text: CR H2240)
+- 2021-05-12 — Placed on the Union Calendar, Calendar No. 16.
+- 2021-05-12 — Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981. (consideration: CR H2235-2246; text: CR H2240)
+- 2021-05-12 — Pursuant to the provisions of H. Res. 380, proceedings on H.R. 1448 are considered vacated.
+- 2021-05-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-31.
+- 2021-05-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-31.
