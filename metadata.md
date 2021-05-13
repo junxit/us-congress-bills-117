@@ -1,7 +1,7 @@
 ---
 measure: H.R. 49
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 49
@@ -56,3 +56,14 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 - 2021-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2219)
 - 2021-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2219)
 - 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-09 — Passed Senate without amendment by Unanimous Consent.
+- 2021-06-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-06-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S4013)
+- 2021-06-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S4013)
+- 2021-06-10 — Message on Senate action sent to the House.
+- 2021-06-17 — Presented to President.
+- 2021-06-17 — Presented to President.
+- 2021-06-25 — Became Public Law No: 117-20.
+- 2021-06-25 — Became Public Law No: 117-20.
+- 2021-06-25 — Signed by President.
+- 2021-06-25 — Signed by President.
