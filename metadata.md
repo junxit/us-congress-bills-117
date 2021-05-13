@@ -1,7 +1,7 @@
 ---
 measure: S. 1260
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1260
@@ -40,3 +40,9 @@ United States Innovation and Competition Act of 2021
 
 - 2021-04-20 — Introduced in Senate
 - 2021-04-20 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S2070-2085)
+- 2021-05-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-05-13 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S2504)
+- 2021-05-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2021-05-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2021-05-13 — Motion to proceed to consideration of measure made in Senate. (CR S2504)
+- 2021-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
