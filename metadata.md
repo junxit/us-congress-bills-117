@@ -1,7 +1,7 @@
 ---
 measure: H.R. 958
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 958
@@ -62,9 +62,10 @@ Protecting Moms Who Served Act
 - Rep. Frankel, Lois [D-FL-21] (F000462)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ Protecting Moms Who Served Act
 - 2021-05-12 — Placed on the Union Calendar, Calendar No. 15.
 - 2021-05-12 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-30.
 - 2021-05-12 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-30.
+- 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
