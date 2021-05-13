@@ -1,7 +1,7 @@
 ---
 measure: S. 593
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 593
@@ -28,3 +28,19 @@ Alaska Tourism Restoration Act
 
 - 2021-03-04 — Introduced in Senate
 - 2021-03-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-04-29 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2021-04-29 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2021-04-29 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2021-04-29 — Senate amendment submitted
+- 2021-04-29 — Senate amendment submitted
+- 2021-04-29 — Senate amendment submitted
+- 2021-05-13 — Amendment SA 1492 agreed to in Senate by Unanimous Consent.
+- 2021-05-13 — Amendment SA 1492 proposed by Senator Murkowski. (consideration: CR S2510; text: CR S2510) In the nature of a substitute.
+- 2021-05-13 — Measure laid before Senate by unanimous consent. (consideration: CR S2510-2512)
+- 2021-05-13 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S2510)
+- 2021-05-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S2510)
+- 2021-05-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2021-05-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2021-05-13 — Senate amendment agreed to: Amendment SA 1492 agreed to in Senate by Unanimous Consent.
+- 2021-05-13 — Senate amendment proposed (on the floor): Amendment SA 1492 proposed by Senator Murkowski.
+- 2021-05-13 — Senate amendment submitted
