@@ -1,0 +1,21 @@
+---
+legis-num: S. 1648
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1648
+
+> To amend title 10, United States Code, to authorize the construction of naval vessels in shipyards in North Atlantic Treaty Organization countries.
+
+## § 1. Construction of naval vessels in shipyards in North Atlantic Treaty Organization countries
+
+Section 8679 of title 10, United States Code, is amended—
+
+- **(1)** in subsection (a), by striking “subsection (b)” and inserting “subsections (b) and (c)”;
+- **(2)** by redesignating subsection (c) as subsection (d); and
+- **(3)** by inserting after subsection (b) the following new subsection (c):
+  > - **(c)** *Construction of naval vessels in shipyards in NATO countries* The Secretary of the Navy may construct a naval vessel in a foreign shipyard if—
+  >   - **(1)** the shipyard is located within the boundaries of a member country of the North Atlantic Treaty Organization; and
+  >   - **(2)** the cost of construction of such vessel in such shipyard will be less than the cost of construction of such vessel in a domestic shipyard.
