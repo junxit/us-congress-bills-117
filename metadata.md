@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2955
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2955
@@ -21,9 +21,10 @@ Suicide Prevention Act
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Suicide Prevention Act
 - 2021-05-12 — Passed/agreed to in House: Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981.(consideration: CR H2235-2246; text: CR H2244-2245)
 - 2021-05-12 — Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981. (consideration: CR H2235-2246; text: CR H2244-2245)
 - 2021-05-12 — Pursuant to the provisions of H. Res. 380, proceedings on H.R. 2955 are considered vacated.
+- 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
