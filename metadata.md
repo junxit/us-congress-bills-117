@@ -1,7 +1,7 @@
 ---
 measure: H.R. 49
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 49
@@ -38,9 +38,10 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 - Rep. Jones, Mondaire [D-NY-17] (J000306)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 - 2021-05-12 — Mr. Soto moved to suspend the rules and pass the bill.
 - 2021-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2219)
 - 2021-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2219)
+- 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
