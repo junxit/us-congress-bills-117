@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1688
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1688
@@ -33,9 +33,10 @@ Native American Child Protection Act
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Native American Child Protection Act
 - 2021-05-12 — Mr. Soto moved to suspend the rules and pass the bill.
 - 2021-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2222-2223)
 - 2021-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2222-2223)
+- 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
