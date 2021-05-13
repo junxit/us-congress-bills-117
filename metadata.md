@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1157
@@ -29,3 +29,8 @@ Department of State Authorization Act of 2021
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Referred to the House Committee on Foreign Affairs.
+- 2021-02-25 — Committee Consideration and Mark-up Session Held.
+- 2021-02-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-05-13 — Placed on the Union Calendar, Calendar No. 18.
+- 2021-05-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-33.
+- 2021-05-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-33.
