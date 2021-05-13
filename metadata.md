@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2208
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2208
@@ -21,9 +21,10 @@ Ysleta del Sur Pueblo and Alabama-Coushatta Tribes of Texas Equal and Fair Oppor
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Ysleta del Sur Pueblo and Alabama-Coushatta Tribes of Texas Equal and Fair Oppor
 - 2021-05-12 — Mr. Soto moved to suspend the rules and pass the bill.
 - 2021-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2225)
 - 2021-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2225)
+- 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
