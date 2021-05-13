@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1448
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1448
@@ -336,9 +336,10 @@ PAWS for Veterans Therapy Act
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -361,3 +362,4 @@ PAWS for Veterans Therapy Act
 - 2021-05-12 — Pursuant to the provisions of H. Res. 380, proceedings on H.R. 1448 are considered vacated.
 - 2021-05-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-31.
 - 2021-05-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-31.
+- 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

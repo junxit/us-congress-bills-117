@@ -2,7 +2,7 @@
 legis-num: H.R. 1448
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1448
@@ -17,7 +17,7 @@ This Act may be cited as the “Puppies Assisting Wounded Servicemembers for Vet
 
 - **(a)** *In general* Not later than 180 days after the date of the enactment of the Act, the Secretary of Veterans Affairs shall commence the conduct of a pilot program to provide canine training to eligible veterans diagnosed with post-traumatic stress disorder (in this section referred to as “PTSD”) as an element of a complementary and integrative health program for such veterans.
 - **(b)** *Duration; medical centers*
-  - **(1)** *Duration* The Secretary shall carry out the pilot program under subsection (a) for a five-year period beginning on the date of the commencement of the pilot program.
+  - **(1)** *Duration* The Secretary shall carry out the pilot program under subsection (a) for a 5-year period beginning on the date of the commencement of the pilot program.
   - **(2)** *Medical centers* The Secretary shall ensure that such pilot program is carried out by not fewer than five medical centers of the Department of Veterans Affairs located in geographically diverse areas.
 - **(c)** *Agreements with entities* In carrying out the pilot program under subsection (a), the Secretary shall seek to enter into agreements with nongovernmental entities that the Secretary determines have the demonstrated ability to provide the canine training specified in subsection (a).
 - **(d)** *Required conditions* The Secretary shall include in any agreement under subsection (c) conditions requiring that the nongovernmental entity seeking to enter into the agreement—
@@ -38,11 +38,11 @@ This Act may be cited as the “Puppies Assisting Wounded Servicemembers for Vet
     - **(C)** whether participation in the pilot program resulted in any clinically relevant improvements for such veterans, as determined by the health care provider or clinical team that referred the veteran to participate in the pilot program; and
     - **(D)** such other factors as the Secretary may determine appropriate; and
   - **(2)** establish processes to document and track the progress of such veterans under the pilot program with respect to health benefits and improvements.
-- **(h)** *Report by secretary* Not later than one year before the date on which the pilot program under subsection (a) terminates, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing the recommendations of the Secretary regarding—
+- **(h)** *Report by secretary* Not later than 1 year before the date on which the pilot program under subsection (a) terminates, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing the recommendations of the Secretary regarding—
   - **(1)** whether to extend or make permanent the pilot program; and
   - **(2)** the feasibility and advisability of expanding the pilot program to address mental health conditions other than PTSD.
 - **(i)** *GAO briefing and study*
-  - **(1)** *Briefing* Not later than one year after the date of the commencement of the pilot program under subsection (a), the Comptroller General of the United States shall provide to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a briefing on the methodology established for the pilot program.
+  - **(1)** *Briefing* Not later than 1 year after the date of the commencement of the pilot program under subsection (a), the Comptroller General of the United States shall provide to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a briefing on the methodology established for the pilot program.
   - **(2)** *Report* Not later than 270 days after the date on which the pilot program terminates, the Comptroller General shall submit to the committees specified in paragraph (1) a report on the pilot program. Such report shall include an evaluation of the approach and methodology used for the pilot program with respect to—
     - **(A)** assisting veterans with PTSD; and
     - **(B)** measuring relevant metrics, such as reduction in scores under the Clinician Administered PTSD Scale (CAPS), improvement in psychosocial function, and therapeutic compliance.
@@ -66,4 +66,4 @@ This Act may be cited as the “Puppies Assisting Wounded Servicemembers for Vet
   >     - **(B)** has received a dog under subsection (b) or (c) in connection with such disorder or impairment; and
   >     - **(C)** meets such other requirements as the Secretary may prescribe.
 
-- **(b)** *Applicability* Section 1714(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran provided a dog by the Secretary of Veterans Affairs regardless of whether the provision occurs before, on, or after the date of the enactment of this Act.
+- **(b)** *Applicability* Section 1714(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran provided a dog by the Secretary of Veterans Affairs on or after the date of the enactment of this Act.
