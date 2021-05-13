@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2547
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-43 amendatory instructions. 1 executed, 42 stated and not applied.
+49 amendatory instructions. 1 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -56,14 +56,15 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1692f` | add-at-end | Section 808 of the Fair Debt Collection Practices Act (15 U.S.C. 1692f), as amended by section 202(b), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681c` | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681s-2` | add-at-end | Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s-2) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681s-2` | add-at-end | Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s-2), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | add-at-end | Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | add-at-end | Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5496` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5496` | replace | in paragraph (9), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5496` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692m` | add-at-end | Section 815(a) of the Fair Debt Collection Practices Act (15 U.S.C. 1692m(a)) is amended by adding at the end the following new sentence: “Each such report shall also include an analysis of the impact of electronic communications by debt… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5512` | add-at-end | Section 1022 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5512) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692d` | add-at-end | Section 806 of the Fair Debt Collection Practices Act (15 U.S.C. 1692d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692f` | insert | Section 808(7) of the Fair Debt Collection Practices Act (15 U.S.C. 1692f) is amended by inserting the following before the period: “or through a social media platform if the communication is viewable by the general public or the person’… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692g` | replace | by striking “Within five days” and all that follows through “any debt,” and inserting the following: “Notice of debt; contents.—Within five days after the initial communication with a consumer in connection with the collection of any deb… | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1692g` | strike | by striking “, unless the following information is contained in the initial communication or the consumer has paid the debt,”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1692l` | add-at-end | Section 814(d) of the Fair Debt Collection Practices Act (15 U.S.C. 1692l(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -83,4 +84,9 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1692k` | add-at-end | Section 813(d) of the Fair Debt Collection Practices Act (15 U.S.C. 1692k(d)) is amended by adding at the end the following: “In a civil action alleging a violation of this title, the court may award appropriate relief, including injunct… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5122` | add-at-end | in subchapter II, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5122` | insert | in the table of contents for such chapter, by inserting after the item relating to section 333 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1692a` | strike | Section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)) is amended by striking “For the purpose of section 808(6), such term also includes any person who uses any instrumentality of interstate commerce or the mails … | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1692a` | strike | Section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)) is further amended by striking “For the purpose of section 808(6), such term also includes any person who uses any instrumentality of interstate commerce or th… | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1692i` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692i` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692` | insert | The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) is amended by inserting after section 811 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692` | insert | The table of contents for the Fair Debt Collection Practices Act is amended by inserting after the item relating to section 811 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1650` | amend | Effective on the date of enactment of the Economic Growth, Regulatory Relief, and Consumer Protection Act (Public Law 115–174), section 601(b) of such Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
