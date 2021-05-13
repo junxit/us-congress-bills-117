@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1448
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1448
@@ -363,3 +363,14 @@ PAWS for Veterans Therapy Act
 - 2021-05-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-31.
 - 2021-05-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-31.
 - 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-08-06 — Passed Senate without amendment by Voice Vote.
+- 2021-08-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2021-08-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5990)
+- 2021-08-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5990)
+- 2021-08-09 — Message on Senate action sent to the House.
+- 2021-08-20 — Presented to President.
+- 2021-08-20 — Presented to President.
+- 2021-08-25 — Became Public Law No: 117-37.
+- 2021-08-25 — Became Public Law No: 117-37.
+- 2021-08-25 — Signed by President.
+- 2021-08-25 — Signed by President.
