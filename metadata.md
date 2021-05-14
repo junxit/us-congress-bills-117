@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1065
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1065
@@ -274,3 +274,16 @@ Pregnant Workers Fairness Act
 - 2021-05-04 — Placed on the Union Calendar, Calendar No. 14.
 - 2021-05-04 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-27, Part I.
 - 2021-05-04 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-27, Part I.
+- 2021-05-11 — Rules Committee Resolution H. Res. 380 Reported to House. Rule provides for consideration of H.R. 2547 and H.R. 1065. Measure will be considered read. Specified amendments are in order. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 379 is adopted.
+- 2021-05-12 — Rule H. Res. 380 passed House.
+- 2021-05-14 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H2321-2343; text: CR H2321-2322)
+- 2021-05-14 — Considered under the provisions of rule H. Res. 380. (consideration: CR H2321-2343)
+- 2021-05-14 — DEBATE - The House proceeded with one hour of debate on H.R. 1065.
+- 2021-05-14 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-05-14 — House amendment offered
+- 2021-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-05-14 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-05-14 — On passage Passed by the Yeas and Nays: 315 - 101 (Roll no. 143).
+- 2021-05-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 315 - 101 (Roll no. 143).
+- 2021-05-14 — Rule provides for consideration of H.R. 2547 and H.R. 1065. Measure will be considered read. Specified amendments are in order. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 379 is adopted.
+- 2021-05-14 — The previous question was ordered pursuant to the rule.
