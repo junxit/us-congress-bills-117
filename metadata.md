@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2547
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2547
@@ -26,9 +26,10 @@ Comprehensive Debt Collection Improvement Act
 - Rep. Pressley, Ayanna [D-MA-7] (P000617)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Comprehensive Debt Collection Improvement Act
 - 2021-05-13 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-05-13 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-05-13 — The previous question was ordered pursuant to the rule.
+- 2021-05-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
