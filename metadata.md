@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1065
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1065
@@ -247,12 +247,13 @@ Pregnant Workers Fairness Act
 - Rep. Manning, Kathy E. [D-NC-6] (M001135)
 - Rep. Kim, Young [R-CA-39] (K000397)
 
-## Committees (4)
+## Committees (5)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
 - House — Committee on House Administration
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -287,3 +288,4 @@ Pregnant Workers Fairness Act
 - 2021-05-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 315 - 101 (Roll no. 143).
 - 2021-05-14 — Rule provides for consideration of H.R. 2547 and H.R. 1065. Measure will be considered read. Specified amendments are in order. The previous question on each measure is considered ordered without intervening motions except one hour of debate and a motion to recommit. H. Res. 379 is adopted.
 - 2021-05-14 — The previous question was ordered pursuant to the rule.
+- 2021-05-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
