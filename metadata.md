@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 117
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 117
@@ -16,7 +16,7 @@ A resolution expressing support for the full implementation of the Good Friday A
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murphy, Christopher [D-CT] (M001169)
@@ -33,6 +33,7 @@ A resolution expressing support for the full implementation of the Good Friday A
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
 ## Committees (1)
 
@@ -46,3 +47,17 @@ A resolution expressing support for the full implementation of the Good Friday A
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-03-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 20.
+- 2021-05-17 — Amendment SA 1496 agreed to in Senate by Unanimous Consent.
+- 2021-05-17 — Amendment SA 1496 proposed by Senator Whitehouse for Senator Lee. (consideration: CR S2551; text: CR S2550) To improve the resolution.
+- 2021-05-17 — Amendment SA 1497 agreed to in Senate by Unanimous Consent.
+- 2021-05-17 — Amendment SA 1497 proposed by Senator Whitehouse for Senator Lee. (consideration: CR S2551; text: CR S2547) To amend the preamble.
+- 2021-05-17 — Measure laid before Senate by unanimous consent. (consideration: CR S2550-2551)
+- 2021-05-17 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S2551)
+- 2021-05-17 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S2551)
+- 2021-05-17 — Senate amendment agreed to: Amendment SA 1496 agreed to in Senate by Unanimous Consent.
+- 2021-05-17 — Senate amendment agreed to: Amendment SA 1497 agreed to in Senate by Unanimous Consent.
+- 2021-05-17 — Senate amendment proposed (on the floor): Amendment SA 1496 proposed by Senator Whitehouse for Senator Lee.
+- 2021-05-17 — Senate amendment proposed (on the floor): Amendment SA 1497 proposed by Senator Whitehouse for Senator Lee.
+- 2021-05-17 — Senate amendment submitted
+- 2021-05-17 — Senate amendment submitted
+- 2021-05-17 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S2550-2551)
