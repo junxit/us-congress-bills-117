@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2877
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2877
@@ -22,9 +22,10 @@ Behavioral Intervention Guidelines Act of 2021
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Behavioral Intervention Guidelines Act of 2021
 - 2021-05-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-05-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 323 - 93, 2 Present (Roll no. 142). (text: 05/11/2021 CR H2167)
 - 2021-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 323 - 93, 2 Present (Roll no. 142).(text: 05/11/2021 CR H2167)
+- 2021-05-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
