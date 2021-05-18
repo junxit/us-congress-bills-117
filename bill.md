@@ -35,7 +35,7 @@ Section 1013(b)(2) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5
 ## § 3. Discretionary surplus funds
 
 - **(a)** *In general* The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $10,000,000.
-- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 30, 2029.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 30, 2031.
 
 ## § 4. Determination of Budgetary Effects
 
