@@ -27,3 +27,7 @@ This Act may be cited as the “COVID–19 Fraud Prevention Act”.
   - **(3)** the number and description of consumer complaints received by the Bureau of Consumer Financial Protection and the Securities and Exchange Commission regarding fraud related to the COVID–19 pandemic; and
   - **(4)** any other actions of the Working Group.
 - **(e)** *Sunset* This section shall cease to have any force or effect on and after December 31, 2022.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
