@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents; findings
 
-- **(a)** *Short title* This Act may be cited as the “STEM Opportunities Act”.
+- **(a)** *Short title* This Act may be cited as the “STEM Opportunities Act” .
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 - **(c)** *Findings* The Congress finds the following:
   - **(1)** Many reports over the past decade have found that it is critical to our Nation’s economic leadership and global competitiveness that the United States educates and trains more scientists and engineers.
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** The National Center for Science and Engineering Statistics at the National Science Foundation collects, compiles, analyzes, and publishes data on the demographics of STEM degrees and STEM jobs in the United States.
   - **(4)** Women now earn nearly 37 percent of all STEM bachelor’s degrees, but major variations persist among fields. In 2017, women earned only 20 percent of all bachelor’s degrees awarded in engineering and 19 percent of bachelor’s degrees awarded in computer sciences. Based on Bureau of Labor Statistics data, jobs in computing occupations are expected to account for nearly 60 percent of the projected annual growth of newly created STEM job openings from 2016 to 2026.
   - **(5)** In 2017, underrepresented minority groups comprised 39 percent of the college-age population of the United States, but only 18 percent of students who earned bachelor’s degrees in STEM fields. The Higher Education Research Institute at the University of California, Los Angeles, found that, while freshmen from underrepresented minority groups express an interest in pursuing a STEM undergraduate degree at the same rate as all other freshmen, only 22.1 percent of Latino students, 18.4 percent of African-American students, and 18.8 percent of Native American students studying in STEM fields complete their degree within 5 years, compared to approximately 33 percent of White students and 42 percent of Asian students who complete their degree within 5 years.
-  - **(6)** In some STEM fields, including the computer sciences, women persist at about the same rate through doctorate degrees. In other STEM fields, women persist through doctorate degrees at a lower rate. In mathematics, women earn just 26 percent of doctorate degrees compared with 42 percent of undergraduate degrees. Overall, women earned 38 percent of STEM doctorate degrees in 2016. The rate of minority students earning STEM doctorate degrees in physics is 9 percent, compared with 15 percent for bachelor’s degrees. Students from underrepresented minority groups accounted for only 11.5 percent of STEM doctorate degrees awarded in 2016.
+  - **(6)** In some STEM fields, including the computer sciences, women persist at about the same rate through doctorate degrees. In other STEM fields, women persist through doctorate degrees at a lower rate. In mathematics, women earn just 26 percent of doctorate degrees compared with 42 percent of undergraduate degrees. Overall, women earned 38 percent of STEM doctorate degrees in 2016. The rate of minority students earning STEM doctorate degrees in physics is 9 percent, compared with 15 percent for bachelor’s degree. Students from underrepresented minority groups accounted for only 11.5 percent of STEM doctorate degrees awarded in 2016.
   - **(7)** The representation of women in STEM drops significantly from the doctorate degree level to the faculty level. Overall, women hold only 26 percent of all tenured and tenure-track positions and 27 percent of full professor positions in STEM fields in our Nation’s universities and 4-year colleges. Black and Hispanic faculty together hold about 6.8 percent of all tenured and tenure-track positions and 7.5 percent of full professor positions. Many of the numbers in the American Indian or Alaskan Native and Native Hawaiian or Other Pacific Islander categories for different faculty ranks were too small for the National Science Foundation to report publicly without potentially compromising confidential information about the individuals being surveyed.
   - **(8)** The representation of women is especially low at our Nation’s top research universities. Even in the biological sciences, in which women now earn more than 50 percent of the doctorates and passed the 25 percent level 37 years ago, women make up only 25 percent of the full professors at the approximately 100 most research-intensive universities in the United States. In the physical sciences and mathematics, women make up only 11 percent of full professors, in computer sciences only 10 percent, and across engineering fields only 7 percent. The data suggest that approximately 6 percent of all tenure-track STEM faculty members at the most research-intensive universities are from underrepresented minority groups, but in some fields the numbers are too small to report publicly.
   - **(9)** By 2050, underrepresented minorities will comprise 52 percent of the college-age population of the United States. If the percentage of female students and students from underrepresented minority groups earning bachelor’s degrees in STEM fields does not significantly increase, the United States will face an acute shortfall in the overall number of students who earn degrees in STEM fields just as United States companies are increasingly seeking students with those skills. With this impending shortfall, the United States will almost certainly lose its competitive edge in the 21st century global economy.
@@ -48,7 +48,7 @@ The purposes of this Act are as follows:
 - **(a)** *OSTP guidance* Not later than 6 months after the date of enactment of this Act, the Director, in consultation with relevant agencies, shall provide guidance to each Federal science agency to establish policies that—
   - **(1)** apply to all—
     - **(A)** research awards granted by such agency; and
-    - **(B)** principal investigators of such research who have caregiving responsibilities, including care for a newborn or newly adopted child and care for an immediate family member who is sick or disabled; and
+    - **(B)** principal investigators of such research and their trainees, including postdoctoral researchers and graduate students, who have caregiving responsibilities, including care for a newborn or newly adopted child and care for an immediate family member who is sick or disabled; and
   - **(2)** provide—
     - **(A)** flexibility in timing for the initiation of approved research awards granted by such agency;
     - **(B)** no-cost extensions of such research awards;
@@ -96,7 +96,7 @@ The purposes of this Act are as follows:
   - **(1)** take into account the considerations under subsection (a)(2) by collaborating with statistical centers at other Federal agencies; or
   - **(2)** award a grant or contract to an institution of higher education or other nonprofit organization to take such considerations into account.
 - **(c)** *Reporting data* The Director of the National Science Foundation shall publish statistical summary data collected under this section, including as part of the National Science Foundation’s report required by section 37 of the Science and Technology Equal Opportunities Act (42 U.S.C. 1885d; Public Law 96–516).
-- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $3,000,000 in each of fiscal years 2021 through 2023 to develop and carry out the initial survey required under subsection (a).
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $3,000,000 in each of fiscal years 2022 through 2024 to develop and carry out the initial survey required under subsection (a).
 
 ## § 7. Cultural and institutional barriers to expanding the academic and Federal STEM workforce
 
@@ -134,7 +134,7 @@ The purposes of this Act are as follows:
 - **(c)** *Report to Congress* Not later than 4 years after the date of enactment of this Act, the Director of the National Science Foundation shall submit a report to Congress that includes—
   - **(1)** a summary and analysis of the types and frequency of activities and policies developed and carried out under subsection (a) based on the reports submitted under paragraph (4) of such subsection; and
   - **(2)** a description and evaluation of the status and effectiveness of the program of workshops required under subsection (b), including a summary of any data reported under paragraph (8) of such subsection.
-- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $1,000,000 in each of fiscal years 2021 through 2025 to carry out this section.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $1,000,000 in each of fiscal years 2022 through 2026 to carry out this section.
 
 ## § 8. Research and dissemination at the National Science Foundation
 
@@ -144,11 +144,11 @@ The purposes of this Act are as follows:
   - **(3)** research grants to study the impact of policies and practices that are implemented under this Act or that are otherwise consistent with the purposes of this Act;
   - **(4)** collaboration with other Federal science agencies and professional associations to exchange best practices, harmonize work-life accommodation policies and practices, and overcome common barriers to work-life accommodation; and
   - **(5)** collaboration with institutions of higher education in order to clarify and catalyze the adoption of a coherent and consistent set of work-life accommodation policies and practices.
-- **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $5,000,000 in each of fiscal years 2021 through 2025 to carry out this section.
+- **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $5,000,000 in each of fiscal years 2022 through 2026 to carry out this section.
 
 ## § 9. Research and related activities to expand STEM opportunities
 
-- **(a)** *National Science Foundation support for increasing diversity among STEM faculty at institutions of higher education* Section 305 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–5) is amended—
+- **(a)** *National Science Foundation support for increasing diversity among stem faculty at institutions of higher education* Section 305 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–5) is amended—
   - **(1)** by redesignating subsections (e) and (f) as subsections (g) and (h), respectively; and
   - **(2)** by inserting after subsection (d) the following:
     > - **(e)** *Support for increasing diversity among STEM faculty at institutions of higher education*
@@ -175,7 +175,7 @@ The purposes of this Act are as follows:
     >       - **(iii)** the likelihood that the institution of higher education will sustain or expand the proposed reform effort beyond the period of the grant; and
     >       - **(iv)** the degree to which evaluation and assessment plans are included in the design of the proposed reform effort.
     >     - **(C)** *Grant distribution* The Director of the Foundation shall ensure, to the extent practicable, that grants awarded under this section are made to a variety of types of institutions of higher education.
-    >   - **(5)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection $8,000,000 for each of fiscal years 2021 through 2025.
+    >   - **(5)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection $8,000,000 for each of fiscal years 2022 through 2026.
 
 - **(b)** *National Science Foundation support for broadening participation in undergraduate STEM education* Section 305 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–5), as amended by subsection (b), is further amended by inserting after subsection (e) the following:
   > - **(f)** *Support for broadening participation in undergraduate STEM education*
@@ -209,7 +209,7 @@ The purposes of this Act are as follows:
   >   - **(5)** *Education research*
   >     - **(A)** *In general* All grants made under this subsection shall include an education research component that will support the design and implementation of a system for data collection and evaluation of proposed reform efforts in order to build the knowledge base on promising models for increasing recruitment and retention of students from underrepresented minority groups in STEM education at the undergraduate level across a diverse set of institutions.
   >     - **(B)** *Dissemination* The Director of the Foundation shall coordinate with relevant Federal agencies in disseminating the results of the research under this paragraph to ensure that best practices in broadening participation in STEM education at the undergraduate level are made readily available to all institutions of higher education, other Federal agencies that support STEM programs, non-Federal funders of STEM education, and the general public.
-  >   - **(6)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2021 through 2025.
+  >   - **(6)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2022 through 2026.
 
 ## § 10. Tribal Colleges and Universities Program
 
@@ -219,11 +219,11 @@ The purposes of this Act are as follows:
   >   - **(2)** *Purpose* Grants awarded under this subsection shall support—
   >     - **(A)** research and development needed to bring computer science and computational thinking courses and degrees to tribal colleges and universities;
   >     - **(B)** research and development of instructional materials needed to integrate computer science and computational thinking into programs that are culturally relevant to students attending tribal colleges and universities;
-  >     - **(C)** research, development, and evaluation of distance education for computer science and computational thinking courses and degree programs for students attending tribal colleges and universities; and
+  >     - **(C)** research, development and evaluation of distance education for computer science and computational thinking courses and degree programs for students attending tribal colleges and universities; and
   >     - **(D)** other activities consistent with the activities described in paragraphs (1) through (4) of subsection (b), as determined by the Director.
   >   - **(3)** *Partnerships* A tribal college or university seeking a grant under this subsection, or a consortia thereof, may partner with an institution of higher education or nonprofit organization with demonstrated expertise in academic program development.
   >   - **(4)** *Coordination* In carrying out this subsection, the Director shall consult and cooperate with the programs and policies of other relevant Federal agencies to avoid duplication with and enhance the effectiveness of the program under this subsection.
-  >   - **(5)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the Foundation $2,000,000 in each of fiscal years 2021 through 2025 to carry out this subsection.
+  >   - **(5)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the Foundation $2,000,000 in each of fiscal years 2022 through 2026 to carry out this subsection.
 
 - **(b)** *Evaluation*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Director of the National Science Foundation shall evaluate the grant program authorized under section 525 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–13), as amended.
@@ -249,7 +249,11 @@ Not later than 4 years after the date of enactment of this Act, the Director sha
 
 Nothing in this Act shall be construed as altering any intellectual or broader impacts criteria at Federal science agencies for evaluating grant applications.
 
-## § 13. Definitions
+## § 13. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 14. Definitions
 
 In this Act:
 
