@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2878
 
-> To direct the Secretary of Veterans Affairs to carry out a Native VetSuccess at Tribal Colleges and Universities Pilot Program.
+> To direct the Secretary of Veterans Affairs to carry out a Native VetSuccess at Tribal Colleges and Universities Pilot Program, and for other purposes.
 
 ## § 1. Short title
 
@@ -45,3 +45,48 @@ This Act may be cited as the “Native VetSuccess at Tribal Colleges and Univers
   - **(1)** The term “Tribal college or university” has the meaning given such term under section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
   - **(2)** The term “tribal organization” has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
   - **(3)** The term “culturally competent” means considerate of the unique values, customs, traditions, cultures, and languages of Native American veterans.
+
+## § 3. Authorization of appropriations for high technology pilot program
+
+Subsection (g) of section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 38 U.S.C. 3001 note), as amended by section 4302 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315), is amended to read as follows:
+
+> - **(g)** *Authorization of appropriations* Funds shall be made available for carrying out the pilot program under this section from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits, in the following amounts for a fiscal year in which the Secretary carries out the pilot program:
+>   - **(1)** For fiscal year 2019, $62,000,000.
+>   - **(2)** For fiscal year 2020, $63,000,000.
+>   - **(3)** For fiscal year 2021, $90,000,000.
+>   - **(4)** For fiscal year 2022, $90,000,000.
+>   - **(5)** For fiscal year 2023, $60,000,000.
+>   - **(6)** For fiscal year 2024, $0.
+
+## § 4. Provision of educational assistance to students who are “rounding out” under educational assistance programs of Department of Veterans Affairs
+
+- **(a)** *In general* Section 3680(a) of title 38, United States Code, is amended—
+  - **(1)** in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(3)** Notwithstanding paragraph (1), in the case of an eligible veteran or eligible person who is pursuing a program of education on less than a half-time basis during a period that is the last semester, term, or academic period the veteran or person will be enrolled in the program of education because the veteran or person will complete the program of education at the end of that semester, term or academic period, the Secretary may, pursuant to such regulations as the Secretary shall prescribe, provide to the veteran or person educational assistance under chapter 30, 32, 33, 34, or 35 of this title or under chapter 1606 of title 10, including a monthly housing stipend described in section 3313(c) of this title, on the basis of the total number of credits or courses in which the veteran or person is enrolled, if—
+    >   - **(A)** the number of credits the veteran or person needs to complete the program of education is less than the number of credits that would constitute enrollment on a more than half-time basis for that last semester, term, or academic period; and
+    >   - **(B)** the veteran or person—
+    >     - **(i)** is enrolled in, or has completed, every course offered by the program of education during the last semester, term, or academic period in which the veteran or person is enrolled in the program of education; and
+    >     - **(ii)** enrolls in an additional course that is not required for the completion of such program of education and the enrollment in the non-required course in addition to the required course or courses in which the veteran or person is enrolled constitutes enrollment on more than a half-time basis.
+
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect on August 1, 2021, and apply with respect to any semester, term, or academic period that begins on or after that date.
+
+## § 5. Extension of certain housing loan fees
+
+Section 3729(b)(2) of title 38, United States Code, is amended by striking “October 1, 2030” each place it appears and inserting “December 9, 2030”.
+
+## § 6. Expansion and extension of Department of Veterans Affairs assistance for homeless veterans
+
+- **(a)** *Expansion* Subsection (a) of section 2041 of title 38, United States Code, is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** in the matter preceding subparagraph (A), by inserting “or permanent housing” after “shelter”;
+    - **(B)** in subparagraph (A), by striking “named in, or approved by the Secretary under, section 5902 of this title” and inserting “that is the recipient of a grant under section 2011, 2013, 2044, or 2061 of this title”; and
+    - **(C)** in subparagraph (B), by inserting “, tribal entity,” after “State”; and
+  - **(2)** in paragraph (3)(B)—
+    - **(A)** in clause (i), by inserting “or to sell or rent the property directly to homeless veterans or veterans at-risk of homelessness” after “families”; and
+    - **(B)** in each of clauses (i), (ii), and (iii), by striking the comma and inserting a semicolon.
+- **(b)** *Extension* Subsection (c) of such section is amended by striking “September 30, 2017” and inserting “September 30, 2025”.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
