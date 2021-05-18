@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-85 amendatory instructions. 35 executed, 50 stated and not applied.
+81 amendatory instructions. 33 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -89,12 +89,12 @@ to guess them.
 
 ### 33 U.S.C. § 3703
 
-> in paragraph (1), by striking “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and” and insert “Subcommittee shall”;
+> in paragraph (1), by striking “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and establish” and insert “Subcommittee shall establish and maintain”;
 
 | | |
 |---|---|
-| Removed | `Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and` |
-| Inserted | `Subcommittee shall` |
+| Removed | `Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and establish` |
+| Inserted | `Subcommittee shall establish and maintain` |
 
 ### 33 U.S.C. § 3703
 
@@ -260,12 +260,12 @@ to guess them.
 
 ### 33 U.S.C. § 3705
 
-> in paragraph (2), by striking “critical research projects that explore” and inserting “critical research and education projects that explore and communicate”; and
+> in paragraph (2), by striking “critical research projects that explore” and inserting “critical research, education, and outreach projects that explore and communicate”; and
 
 | | |
 |---|---|
 | Removed | `critical research projects that explore` |
-| Inserted | `critical research and education projects that explore and communicate` |
+| Inserted | `critical research, education, and outreach projects that explore and communicate` |
 
 ### 33 U.S.C. § 3705
 
@@ -287,16 +287,7 @@ to guess them.
 
 ### 33 U.S.C. § 3706
 
-> by striking “proposals for research” and inserting “proposals for the researching”; and
-
-| | |
-|---|---|
-| Removed | `proposals for research` |
-| Inserted | `proposals for the researching` |
-
-### 33 U.S.C. § 3706
-
-> by striking “its impacts” and inserting “their respective impacts”;
+> in the matter preceding paragraph (1), by striking “its impacts” and inserting “their respective impacts”;
 
 | | |
 |---|---|
@@ -305,16 +296,7 @@ to guess them.
 
 ### 33 U.S.C. § 3706
 
-> in paragraph (1), by striking “marine ecosystems” and inserting “ecosystems”;
-
-| | |
-|---|---|
-| Removed | `marine ecosystems` |
-| Inserted | `ecosystems` |
-
-### 33 U.S.C. § 3706
-
-> by striking “and its impacts” and inserting “and their respective impacts”; and
+> in paragraph (3), by striking “and its impacts” and inserting “and their respective impacts”;
 
 | | |
 |---|---|
@@ -385,16 +367,14 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3704` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | insert | in the matter preceding paragraph (1), by inserting “coordination,” after “research, monitoring,”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3705` | insert | by inserting “including the Integrated Ocean Observing System and the ocean observing assets of other Federal and State agencies,” after “ocean observing assets,”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3705` | insert | by inserting “including the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies,” after “ocean observing assets,”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | insert | by inserting “and agency and department missions, prioritizing the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and to optimize understanding of socioeconomic impacts and ecosystem heal… | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3705` | insert | by inserting “and supporting socioeconomically vulnerable communities and industries ” after “marine ecosystems”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3705` | insert | by inserting “and supporting socioeconomically vulnerable States, local governments, Tribes, communities, and industries through technical assistance and mitigation strategies” after “marine ecosystems”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3706` | strike | by striking “continue” and all that follows through “which shall”; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3706` | replace | in paragraph (2), by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3706` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3706` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3706` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3707` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $50 million for each of the fiscal years 2022 through 2026.”; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20 million for each of the fiscal years 2022 through 2026.”. | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2022 through 2026.”. | the bill quotes the text struck but describes what replaces it |
