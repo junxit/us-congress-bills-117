@@ -38,7 +38,7 @@ Congress finds the following:
   - **(1)** statistical summary data on fellowship awardees disaggregated by race, ethnicity, gender, age, years since completion of doctoral degree, and institution type;
   - **(2)** an assessment, drawing on feedback from the research community and other sources of information, of the effectiveness of the pilot program for mitigating the loss of research talent due to the pandemic; and
   - **(3)** if determined effective, a plan for permanent implementation of the pilot program.
-- **(f)** *Qualified institution of higher education defined* The term “qualified institution of higher education” means an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that is inside the United States or a territory of the United States.
+- **(f)** *Qualified institution of higher education defined* The term “qualified institution of higher education” has the meaning given the term in section 102 of the Higher Education of Act of 1965, except that such term does not include an institution described in subsection (a)(1)(C) of such section.
 
 ## § 4. Authorization of appropriations
 

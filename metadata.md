@@ -1,7 +1,7 @@
 ---
 measure: H.R. 144
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 144
@@ -63,3 +63,10 @@ Supporting Early-Career Researchers Act
 - 2021-04-14 — Placed on the Union Calendar, Calendar No. 4.
 - 2021-04-14 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-16.
 - 2021-04-14 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-16.
+- 2021-05-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-05-17 — Considered under suspension of the rules. (consideration: CR H2390-2392; text: CR H2390-2391)
+- 2021-05-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 144.
+- 2021-05-17 — Ms. Bonamici moved to suspend the rules and pass the bill, as amended.
+- 2021-05-18 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008.(consideration: CR H2482-2520; text: CR H2482)
+- 2021-05-18 — Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008. (consideration: CR H2482-2520; text: CR H2482)
+- 2021-05-18 — Pursuant to the provisions of H. Res. 403, proceedings on H.R. 144 are considered vacated.
