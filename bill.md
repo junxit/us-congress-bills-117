@@ -44,3 +44,7 @@ This Act may be cited as the “Insider Trading Prohibition Act”.
     - **(A)** in subsection (g)(1), by inserting “and section 16A, ” after “thereunder,”; and
     - **(B)** in subsection (h)(1), by inserting “and section 16A, ” after “thereunder,”; and
   - **(3)** in section 21C(f), by inserting “or section 16A,” after “section 10(b)”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
