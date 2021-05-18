@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 403
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 403
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 1629) to amend the Federal Food, D
 - 2021-05-17 — The House Committee on Rules reported an original measure, H. Rept. 117-37, by Ms. Scanlon.
 - 2021-05-17 — The House Committee on Rules reported an original measure, H. Rept. 117-37, by Ms. Scanlon.
 - 2021-05-17 — The resolution provides for consideration of H.R. 1629 under a closed rule and H. Res. 275 under a closed rule. The resolution provides for one hour of debate on both the bill and resolution. The rule provides that H. Res. 398 is hereby adopted. The rule provides at any time through the legislative day of Thursday, May 20, 2021, the Speaker may entertain motions offered by the Majority Leader or designee with respect to multiple measures that were object of motions to suspend the rules on the legislative days of May 17 or 18, 2021.
+- 2021-05-18 — Considered as privileged matter. (consideration: CR H2473-2479)
+- 2021-05-18 — Considered as unfinished business. (consideration: CR H2480-2481)
+- 2021-05-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 403.
+- 2021-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-05-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 212 - 206 (Roll no. 147). (text: CR H2473)
+- 2021-05-18 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 209 (Roll no. 146). (consideration: CR H2480)
+- 2021-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 403, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mrs. Fischbach demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2021-05-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 212 - 206 (Roll no. 147).(text: CR H2473)
