@@ -44,7 +44,7 @@ Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 
 
 - **(1)** in the heading, by striking “subcommittee” and inserting “working group”;
 - **(2)** in subsection (a)—
-  - **(A)** in paragraph (1), by striking “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and” and insert “Subcommittee shall”;
+  - **(A)** in paragraph (1), by striking “Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification and establish” and insert “Subcommittee shall establish and maintain”;
   - **(B)** in paragraph (2), by striking “Wildlife Service,” and inserting “Wildlife Service, the Bureau of Ocean Energy Management, the Environmental Protection Agency, the Department of Agriculture, the Department of State, the Department of Energy, the Department of the Navy, the National Park Service, the Bureau of Indian Affairs, the National Institute of Standards and Technology, the Smithsonian Institution,”; and
   - **(C)** in paragraph (3), in the heading, by striking “Chairman” and inserting “Chair”;
 - **(3)** in subsection (b)—
@@ -94,16 +94,16 @@ Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 
   >     - **(C)** One representative of seafood processors.
   >     - **(D)** Three representatives from academia, including both natural and social sciences.
   >     - **(E)** One representative of recreational fishing.
-  >     - **(F)** One representative of relevant nongovernmental organizations.
+  >     - **(F)** One representative of a relevant nongovernmental organization.
   >     - **(G)** Six representatives from relevant State, local, and Tribal governments.
-  >     - **(H)** One representative from the Alaska Ocean Acidification Network.
-  >     - **(I)** One representative from the California Current Acidification Network.
-  >     - **(J)** One representative from the Northeast Coastal Acidification Network.
-  >     - **(K)** One representative from the Southeast Coastal Acidification Network.
-  >     - **(L)** One representative from the Gulf of Mexico Coastal Acidification Network.
-  >     - **(M)** One representative from the Mid-Atlantic Coastal Acidification Network.
-  >     - **(N)** One representative from the Pacific Islands Ocean Observing System or similar entity representing the island territories and possessions of the United States in the Pacific Ocean, and the State of Hawaii.
-  >     - **(O)** One representative from the Caribbean Regional Association for Coastal Ocean Observing or a similar entity representing Puerto Rico and the United States Virgin Islands.
+  >     - **(H)** One representative from the Alaska Ocean Acidification Network or a subsequent entity that represents the same geographical region and has a similar purpose.
+  >     - **(I)** One representative from the California Current Acidification Network or a subsequent entity that represents the same geographical region and has a similar purpose.
+  >     - **(J)** One representative from the Northeast Coastal Acidification Network or a subsequent entity that represents the same geographical region and has a similar purpose.
+  >     - **(K)** One representative from the Southeast Coastal Acidification Network or a subsequent entity that represents the same geographical region and has a similar purpose.
+  >     - **(L)** One representative from the Gulf of Mexico Coastal Acidification Network or a subsequent entity that represents the same geographical region and has a similar purpose.
+  >     - **(M)** One representative from the Mid-Atlantic Coastal Acidification Network or a subsequent entity that represents the same geographical region and has a similar purpose.
+  >     - **(N)** One representative from the Pacific Islands Ocean Observing System or a subsequent entity that represents the island territories and possessions of the United States in the Pacific Ocean, and the State of Hawaii and has a similar purpose.
+  >     - **(O)** One representative from the Caribbean Regional Association for Coastal Ocean Observing or a subsequent entity that represents Puerto Rico and the United States Virgin Islands and has a similar purpose.
   >     - **(P)** One representative from the National Oceanic and Atmospheric Administration shall serve as an ex-officio member of the Advisory Board without a vote.
   >   - **(4)** *Appointment of members* The Chair of the Subcommittee shall—
   >     - **(A)** appoint members to the Advisory Board (taking into account the geographical interests of each individual to be appointed as a member of the Advisory Board to ensure that an appropriate balance of geographical interests are represented by the members of the Advisory Board) who—
@@ -117,7 +117,7 @@ Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 
   >     - **(B)** may be appointed to more than one term.
   >   - **(6)** *Chair* The Chair of the Subcommittee shall appoint one member of the Advisory Board to serve as the Chair of the Advisory Board.
   >   - **(7)** *Meetings* Not less than once each calendar year, the Advisory Board shall meet at such times and places as may be designated by the Chair of the Advisory Board, in consultation with the Chair of the Subcommittee and the Chair of the interagency working group.
-  >   - **(8)** *Briefing* The Chair of the Advisory Board shall brief the Subcommittee and the interagency working group on the progress of the Advisory Board as necessary.
+  >   - **(8)** *Briefing* The Chair of the Advisory Board shall brief the Subcommittee and the interagency working group on the progress of the Advisory Board as necessary or at the request of the Subcommittee.
   >   - **(9)** *Federal Advisory Committee Act* Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Board.
 
 ## § 5. Strategic research plan
@@ -169,7 +169,7 @@ Section 12405 of the Federal Ocean Acidification Research and Monitoring Act of 
     - **(iii)** by striking “; and” at the end and inserting a semicolon;
   - **(I)** in paragraph (9), by striking the period at the end and inserting “; and”; and
   - **(J)** by adding at the end the following new paragraph:
-    > - **(10)** describe monitoring needs necessary to support potentially affected industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, and scientific experts on decision-making and adaptation related to ocean acidification and coastal acidification.
+    > - **(11)** describe monitoring needs necessary to support potentially affected industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, and scientific experts on decision-making and adaptation related to ocean acidification and coastal acidification.
 
 - **(3)** in subsection (c)—
   - **(A)** in paragraph (1)(C), by striking “surface”;
@@ -180,7 +180,7 @@ Section 12405 of the Federal Ocean Acidification Research and Monitoring Act of 
     - **(iii)** by inserting “, and modeling that supports fisheries management” after “marine organisms”;
   - **(D)** in paragraph (5), by inserting “and coastal acidification” after “ocean acidification”; and
   - **(E)** by adding at the end the following new paragraph:
-    > - **(6)** Research to understand related and cumulative stressors and other biogeochemical processes occurring in conjunction with ocean acidification and coastal acidification.
+    > - **(8)** Research to understand related and cumulative stressors and other biogeochemical processes occurring in conjunction with ocean acidification and coastal acidification.
 
 - **(4)** by striking subsection (e) and inserting the following:
   > - **(e)** *Advisory Board evaluation* Not later than 180 days before a plan is submitted to Congress, the Subcommittee shall provide the Advisory Board established under section 12404(c) a copy of the plan for purposes of review under paragraph (2)(B)(i) of such section.
@@ -194,11 +194,11 @@ Section 12406 of the Federal Ocean Acidification Research and Monitoring Act of 
   - **(A)** in the matter preceding paragraph (1), by inserting “coordination,” after “research, monitoring,”;
   - **(B)** in paragraph (1)—
     - **(i)** in subparagraph (B)—
-      - **(I)** by inserting “including the Integrated Ocean Observing System and the ocean observing assets of other Federal and State agencies,” after “ocean observing assets,”; and
+      - **(I)** by inserting “including the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies,” after “ocean observing assets,”; and
       - **(II)** by inserting “and agency and department missions, prioritizing the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and to optimize understanding of socioeconomic impacts and ecosystem health” after “research program”;
     - **(ii)** in subparagraph (C)—
       - **(I)** by striking “adaptation” and inserting “adaptation and mitigation”; and
-      - **(II)** by inserting “and supporting socioeconomically vulnerable communities and industries ” after “marine ecosystems”;
+      - **(II)** by inserting “and supporting socioeconomically vulnerable States, local governments, Tribes, communities, and industries through technical assistance and mitigation strategies” after “marine ecosystems”;
     - **(iii)** in subparagraph (E), by striking “its impacts” and inserting “their respective impacts”;
     - **(iv)** in subparagraph (F), by striking “monitoring and impacts research” and inserting “research, monitoring, and adaptation and mitigation strategies”; and
     - **(v)** by adding at the end the following new subparagraph:
@@ -207,7 +207,7 @@ Section 12406 of the Federal Ocean Acidification Research and Monitoring Act of 
       >   - **(ii)** multiple environmental stressors on living marine resources and coastal ecosystems; and
       >   - **(iii)** adaptation and mitigation strategies to address the socioeconomic impacts of ocean acidification and coastal acidification.
 
-  - **(C)** in paragraph (2), by striking “critical research projects that explore” and inserting “critical research and education projects that explore and communicate”; and
+  - **(C)** in paragraph (2), by striking “critical research projects that explore” and inserting “critical research, education, and outreach projects that explore and communicate”; and
   - **(D)** in paragraphs (1) and (2), by striking “acidification” each place it appears and inserting “acidification and coastal acidification”; and
 - **(2)** by adding at the end the following new subsections:
   > - **(c)** *Relationship to interagency working group* The National Oceanic and Atmospheric Administration shall serve as the lead Federal agency responsible for coordinating the Federal response to ocean acidification and coastal acidification, by—
@@ -227,10 +227,10 @@ Section 12406 of the Federal Ocean Acidification Research and Monitoring Act of 
   >   - **(2)** the interoperability and intercalibration of such data;
   >   - **(3)** the collection of any metadata underlying such data; and
   >   - **(4)** sharing such data with State, local, and Tribal government programs, potentially affected industry members, coastal stakeholders, fishery management councils and commissions, non-Federal resource managers, and academia.
-  > - **(f)** *Dissemination of ocean acidification data and coastal acidification data* The Secretary, in coordination with members of the interagency working group, shall disseminate the data described under subsection (d) to the greatest extent practicable by sharing such data on full and open access exchanges, including the Ocean Acidification Information Exchange described in section 12404(b)(5).
+  > - **(f)** *Dissemination of ocean acidification data and coastal acidification data* The Secretary, in coordination with members of the interagency working group, shall disseminate the data described under subsection (d) to the greatest extent practicable by sharing such data on full and open access exchanges.
   > - **(g)** *Requirement* Recipients of grants from the National Oceanic and Atmospheric Administration under this subtitle that collect data described under subsection (d) shall—
   >   - **(1)** collect such data in accordance with the standards, protocols, or procedures established pursuant to subsection (e); and
-  >   - **(2)** submit such data to the data archive system under subsection (d), in accordance with any rules promulgated by the Secretary.
+  >   - **(2)** submit such data to the data archive system under subsection (d) after publication, in accordance with any rules promulgated by the Secretary.
 
 ## § 7. NSF ocean acidification activities
 
@@ -238,22 +238,16 @@ Section 12407 of the Federal Ocean Acidification Research and Monitoring Act of 
 
 - **(1)** by striking “ocean acidification” each place it appears and inserting “ocean acidification and coastal acidification”;
 - **(2)** in subsection (a)—
-  - **(A)** in the matter preceding paragraph (1)—
-    - **(i)** by striking “continue” and all that follows through “which shall”;
-    - **(ii)** by striking “proposals for research” and inserting “proposals for the researching”; and
-    - **(iii)** by striking “its impacts” and inserting “their respective impacts”;
-  - **(B)** in paragraph (1), by striking “marine ecosystems” and inserting “ecosystems”;
-  - **(C)** in paragraph (2), by striking “; and” at the end and inserting a semicolon;
-  - **(D)** in paragraph (3)—
-    - **(i)** by striking “and its impacts” and inserting “and their respective impacts”; and
-    - **(ii)** by striking the period at the end and inserting “; and”; and
-  - **(E)** by adding at the end the following new paragraph:
-    > - **(4)** adaptation and mitigation strategies to address socioeconomic effects of ocean acidification and coastal acidification.
+  - **(A)** in the matter preceding paragraph (1), by striking “its impacts” and inserting “their respective impacts”;
+  - **(B)** in paragraph (3), by striking “and its impacts” and inserting “and their respective impacts”;
+  - **(C)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+  - **(D)** by adding at the end the following new paragraph:
+    > - **(5)** adaptation and mitigation strategies to address socioeconomic effects of ocean acidification and coastal acidification.
 
 - **(3)** by adding at the end the following:
   > - **(d)** *Requirement* Recipients of grants from the National Science Foundation under this subtitle that collect data described under section 12406(d) shall—
   >   - **(1)** collect data in accordance with the standards, protocols, or procedures established pursuant to section 12406(e); and
-  >   - **(2)** submit such data to the Director and the Secretary, in accordance with any rules promulgated by the Director or the Secretary.
+  >   - **(2)** submit such data to the Director and the Secretary after publication, in accordance with any rules promulgated by the Director or the Secretary.
 
 ## § 8. NASA ocean acidification activities
 
@@ -270,5 +264,12 @@ Section 12408 of the Federal Ocean Acidification Research and Monitoring Act of 
 
 Section 12409 of the Federal Ocean Acidification Research and Monitoring Act of 2009 (33 U.S.C. 3708) is amended—
 
-- **(1)** in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $50 million for each of the fiscal years 2022 through 2026.”; and
-- **(2)** in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20 million for each of the fiscal years 2022 through 2026.”.
+- **(1)** in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following:
+  > subtitle—
+  > - **(1)** $30,500,000 for fiscal year 2022;
+  > - **(2)** $35,000,000 for fiscal year 2023;
+  > - **(3)** $40,000,000 for fiscal year 2024;
+  > - **(4)** $45,000,000 for fiscal year 2025; and
+  > - **(5)** $50,000,000 for fiscal year 2026.
+
+- **(2)** in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2022 through 2026.”.
