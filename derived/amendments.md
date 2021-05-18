@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section` |
 | Inserted | `sections 116 and` |
 
-### 22 U.S.C. § 2414a
+### 22 U.S.C. § 4022
 
 > in the matter preceding paragraph (1), by striking “six months” and inserting “year”;
 
@@ -182,9 +182,10 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2651a` | insert | by inserting after paragraph (3) (as added pursuant to such section 1004) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2735` | amend | Title I of the State Department Basic Authorities Act of 1956 is amended by adding after section 63 (22 U.S.C. 2735) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 1977` | amend | Subsection (e) of section 7 of the Fishermen’s Protective Act of 1967 (22 U.S.C. 1977) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2414a` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2414a` | redesignate | by redesignating paragraph (3) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2414a` | insert | by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4022` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4022` | redesignate | by redesignating paragraph (3) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4022` | insert | by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2349aa-7` | redesignate | Section 502 of the International Security and Development Cooperation Act of 1985 (22 U.S.C. 2349aa–7) is amended by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 304` | replace | by striking subsections (a) and (b) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 304` | amend | The table of contents in section 1(b) of the Department of State Authorities Act, Fiscal Year 2017 is amended by amending the item relating to section 118 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2656d` | add-at-end | Section 504 of the Foreign Relations Authorization Act, Fiscal Year 1979 (22 U.S.C. 2656d) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -194,22 +195,21 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 4081` | insert | by inserting “or” after “resides,”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4081` | insert | by inserting after subparagraph (B) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4083` | add-at-end | Section 903(b) of the Foreign Service Act of 1980 (22 U.S.C. 4083(b)) is amended by adding at the end the following new sentence: “In cases in which a member of the Service has official orders to an unaccompanied post and in which the fa… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4013` | amend | by amending the section heading to read as follows: “Department awards”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4013` | amend | by amending the section heading to read as follows: “Department Awards”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4013` | insert | in the first sentence, by inserting “or Civil Service” after “the Service”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4013` | amend | The item relating to section 614 in the table of contents of the Foreign Service Act of 1980 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2734c` | add-at-end | Subsection (a) of section 414 of the Department of State Authorities Act, Fiscal Year 2017 (22 U.S.C. 2734c(a)) is amended by adding at the end the following new sentences: “Such right and process shall ensure that any employee subjected… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3948` | add-at-end | Subsection (b) of section 308 of the Foreign Service Act of 1980 (22 U.S.C. 3948) is amended by adding at the end the following new sentence: “Former career tenured members of the Service seeking reappointment, who were separated for oth… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3948` | insert | Title 5, United States Code, is amended by inserting after chapter 102 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3948` | add-at-end | The table of chapters at the beginning of part III of Title 5, United States Code, is amended by adding at the end of subpart I the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Chapter 103 of title 5, United States Code, as added by section 1312 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 103 of title 5, United States Code, as added by section 1312 of this Act, is amended by adding after the item relating to section 10301 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Title 5, United States Code, is amended by inserting after chapter 102 the following new chapter: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of chapters at the beginning of part III of title 5, United States Code, is amended by adding at the end of subpart I the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 103 of title 5, United States Code, as added by section 1312(b) of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections for chapter 103 of title 5, United States Code, as added by section 1312(b) of this Act, is amended by adding after the item relating to section 10301 the following new item: | the bill names no machine-readable US Code section |
 | — | strike | Section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 4010` | redesignate | by redesignating paragraph (5) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4010` | insert | by inserting after paragraph (4) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4010` | strike | by striking “(7) In this subsection:”; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 4010` | replace | in subparagraph (A), by striking “(A) The term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 4010` | strike | by striking subparagraph (B) (relating to the definition of “suspend” and “suspension”); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4010` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving such subparagraphs 2 ems to the left. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4010` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving such subparagraphs 2 ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4010` | strike | by striking subparagraph (B) (relating to the definition of “suspend” and “suspension”). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4803` | add-at-end | Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4803` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 6329c the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2670` | strike | in subsection (l), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |

@@ -21,3 +21,7 @@ In this Act:
 - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 - **(2)** *Department* If not otherwise specified, the term “Department” means the Department of State.
 - **(3)** *Secretary* If not otherwise specified, the term “Secretary” means the Secretary of State.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
