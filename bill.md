@@ -2,12 +2,12 @@
 legis-num: H. RES. 403
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 403
 
-> Providing for consideration of the bill (H.R. 1629) to amend the Federal Food, Drug, and Cosmetic Act with respect to limitations on exclusive approval or licensure of orphan drugs, and for other purposes; providing for consideration of the resolution (H. Res. 275) condemning the horrific shootings in Atlanta, Georgia, on March 16, 2021, and reaffirming the House of Representative’s commitment to combating hate, bigotry, and violence against the Asian-American and Pacific Islander community; and for other purposes.
+> Providing for consideration of the bill (H.R. 1629) to amend the Federal Food, Drug, and Cosmetic Act with respect to limitations on exclusive approval or licensure of orphan drugs, and for other purposes; providing for consideration of the resolution (H. Res. 275) condemning the horrific shootings in Atlanta, Georgia, on March 16, 2021, and reaffirming the House of Representative's commitment to combating hate, bigotry, and violence against the Asian-American and Pacific Islander community; and for other purposes.
 
 That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1629) to amend the Federal Food, Drug, and Cosmetic Act with respect to limitations on exclusive approval or licensure of orphan drugs, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce or their respective designees; and (2) one motion to recommit.
 
