@@ -33,7 +33,7 @@ Congress finds the following:
   - **(1)** in subsection (c)—
     - **(A)** in paragraph (6), by striking “community colleges and area career and technical education schools” and inserting the following: “secondary schools (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), community colleges, and area career and technical education schools, including those in underserved and rural communities,”; and
     - **(B)** in paragraph (7)—
-      - **(i)** by striking “and local colleges” and inserting the following: “local high schools and local collseges, including those in underserved and rural communities,”; and
+      - **(i)** by striking “and local colleges” and inserting the following: “local high schools and local colleges, including those in underserved and rural communities,”; and
       - **(ii)** by inserting “or other applied learning opportunities” after “apprenticeships”; and
   - **(2)** in subsection (d)(3) by striking “, community colleges, and area career and technical education schools,” and inserting the following: “and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities,”.
 - **(b)** *Rural Connectivity Prize Competition*
