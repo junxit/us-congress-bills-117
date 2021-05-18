@@ -1,0 +1,23 @@
+---
+legis-num: S. 1674
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1674
+
+> To amend the Emergency Economic Stabilization Act of 2008 to authorize use of amounts under the Troubled Assets Relief Program to be used for activities under the Housing Trust Fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Affordable Housing Production Act”.
+
+## § 2. Use of TARP amounts
+
+- **(a)** *In General* The Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.) is amended by inserting after section 110 (12 U.S.C. 5220) the following:
+  > ## § 110A. Other assistance
+  >
+  > Notwithstanding section 115(a), section 120, or any other provision of law, the Secretary may use any amounts made available under this title that are not otherwise obligated for deposit in and use only to provide assistance under the Housing Trust Fund under section 1338 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4568).
+
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 note) is amended by inserting after the item relating to section 110 the following:
