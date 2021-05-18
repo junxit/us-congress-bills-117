@@ -50,3 +50,7 @@ The Secretary may strike and sell duplicates in bronze of the gold medal struck 
 ## § 5. National medal
 
 The gold medal struck pursuant to this Act is a national medal for purposes of chapter 51 of title 31, United States Code.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
