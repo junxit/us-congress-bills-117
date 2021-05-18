@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2911
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2911
@@ -25,9 +25,10 @@ VA Transparency & Trust Act of 2021
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ VA Transparency & Trust Act of 2021
 - 2021-05-17 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2021-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 144). (text: CR H2363)
 - 2021-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 144).(text: CR H2363)
+- 2021-05-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
