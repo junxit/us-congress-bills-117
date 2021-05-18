@@ -1,0 +1,19 @@
+---
+legis-num: S. 1682
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1682
+
+> To prohibit certain provisions of an Executive Order relating to land conservation from taking effect, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Land Grab Act of 2021”.
+
+## § 2. Protection of private property
+
+- **(a)** *In general* Section 216 of Executive Order 14008 (86 Fed. Reg. 7627; relating to tackling the climate crisis at home and abroad (February 1, 2021)) shall have no force or effect.
+- **(b)** *Recommendations and reports* No Federal agency may take an action if the action is solely authorized by a report or recommendation issued pursuant to section 216 of the Executive Order described in subsection (a).
