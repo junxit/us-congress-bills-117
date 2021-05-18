@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 398
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 398
@@ -16,7 +16,7 @@ Recognizing the forthcoming centennial of the 1921 Tulsa Race Massacre.
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Cosponsors (86)
+## Cosponsors (99)
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
@@ -104,6 +104,19 @@ Recognizing the forthcoming centennial of the 1921 Tulsa Race Massacre.
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
 
 ## Committees (1)
 
@@ -114,3 +127,5 @@ Recognizing the forthcoming centennial of the 1921 Tulsa Race Massacre.
 - 2021-05-14 — Introduced in House
 - 2021-05-14 — Introduced in House
 - 2021-05-14 — Referred to the House Committee on the Judiciary.
+- 2021-05-18 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 403, H. Res. 398 is considered passed House.(consideration: CR H2481-2482; text: CR H2481-2482)
+- 2021-05-18 — Pursuant to the provisions of H. Res. 403, H. Res. 398 is considered passed House. (consideration: CR H2481-2482; text: CR H2481-2482)
