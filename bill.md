@@ -32,7 +32,7 @@ This Act may be cited as the “GI Bill National Emergency Extended Deadline Act
   - **(1)** by inserting “(A)” before “Subsections”;
   - **(2)** by striking “and (d)” and inserting “(d), and (i)”; and
   - **(3)** by adding at the end the following new subparagraph:
-    > - **(B)** Subsection (i) of section 3031 of this title shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 with respect to the running of the 10-year period described in section 3031(a).
+    > - **(B)** Subsection (i) of section 3031 of this title shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection (i) applies under such section 3031 with respect to the running of the 10-year period described in subsection (a) of such section.
 
 ## § 3. Extension of period of eligibility by reason of school closures due to emergency and other situations under Department of Veterans Affairs training and rehabilitation program for veterans with service-connected disabilities
 
@@ -96,16 +96,7 @@ Section 3103 of title 38, United States Code, is amended—
   - **(8)** A description of how the modern information technology service will—
     - **(A)** automate the processing of original claims; and
     - **(B)** automate the processing of supplemental claims.
-- **(d)** *Updated information*
-  - **(1)** *Annual reports* On an annual basis during the period in which the Secretary is implementing the modern information technology service, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing updated information regarding the matters specified in subsection (c). Each such updated report shall identify any changes to the cost, schedule, or performance of the project to implement such system.
-  - **(2)** *Notification*
-    - **(A)** *Requirement* Not later than 60 days after the date on which an action described in subparagraph (B) occurs, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a notification of such action, including a description of and explanation for such action.
-    - **(B)** *Action described* An action described in this subparagraph is, with respect to the project to implement the modern information technology service, any of the following:
-      - **(i)** With respect to the acquisition, implementation, or life cycle cost of the project, or an increment therein, a change or variance that is 10 percent or greater compared to the amount identified the most recent report submitted under paragraph (1).
-      - **(ii)** With respect to the schedule for achieving a significant milestone, initial operating capability, or final completion of the project, a change or variance that is 180 days or greater compared to the schedule identified the most recent report submitted under paragraph (1).
-      - **(iii)** With respect to the performance, an instance where a key business, functional, or performance objective is not attained, or is not anticipated to be attained, in whole or in part.
-- **(e)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal years 2022 through 2024 a total of $250,000,000 to carry out this section.
-- **(f)** *Definitions* In this section:
+- **(d)** *Definitions* In this section:
   - **(1)** The term legacy information technology system means an information technology system used by the Department of Veterans Affairs to process claims for educational assistance under chapters 30, 33, 35, and 36 of title 38, United States Code, before the date on which the Secretary of Veterans Affairs awards a contract under subsection (a) for the modern information technology service.
   - **(2)** The term modern information technology service means the information technology service implemented under subsection (a) to process claims for educational assistance under chapters 30, 33, 35, and 36 of title 38, United States Code.
 
@@ -118,7 +109,7 @@ Section 3103 of title 38, United States Code, is amended—
     >   - **(1)** A person who first becomes an eligible person on or after August 1, 2023.
     >   - **(2)** A person who—
     >     - **(A)** first becomes an eligible person before August 1, 2023; and
-    >     - **(B)** has not received any payment of educational assistance under this chapter before such date.
+    >     - **(B)** becomes 18 years of age, or completes secondary schooling, on or after August 1, 2023.
 
 - **(b)** *Conforming amendments* Such section is further amended—
   - **(1)** in subsection (a), by striking “The educational” and inserting “Except as provided in subsection (g), the educational”;
@@ -131,11 +122,15 @@ Section 3103 of title 38, United States Code, is amended—
 
 - **(a)** *Authority* The Assistant Secretary of Labor for Veterans' Employment and Training shall carry out a pilot program under which a State may use a grant or contract under section 4102A(b)(5) of title 38, United States Code, to carry out a short-term fellowship program.
 - **(b)** *Locations; agreements* The Secretary shall select at least three, but not more than five, States to carry out a short-term fellowship program pursuant to subsection (a). Each such State shall enter into an agreement with a non-profit organization to carry out such program.
-- **(c)** *Short-term fellowship program* Each short-term fellowship program carried out by a State pursuant to subsection (a) shall—
+- **(c)** *Short-Term fellowship program* Each short-term fellowship program carried out by a State pursuant to subsection (a) shall—
   - **(1)** consist of veterans participating as fellows with an employer for a period not exceeding 20 weeks;
   - **(2)** provide to such veterans a monthly stipend during such period; and
   - **(3)** provide to such veterans an opportunity to be employed on a long-term basis with the employer following such period.
-- **(d)** *Amount of stipend* The amount of the stipend provided to a veteran pursuant to subsection (c)(2) for a month shall be the amount equal to the amount of the wages earned by the veteran during that month for participating in the fellowship
+- **(d)** *Amount of stipend* The amount of the stipend provided to a veteran pursuant to subsection (c)(2) for a month shall be the amount equal to the amount of the wages earned by the veteran during that month for participating in the fellowship.
 - **(e)** *Comptroller General report* Not later than four years after the date on which the pilot program commences under this section, the Comptroller General of the United States shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the pilot program.
 - **(f)** *Definition of State* In this section, the term “State” has the meaning given such term in section 4101(6) of title 38, United States Code.
 - **(g)** *Authorization of appropriations* In addition to funds made available under section 4102A(b)(5) of title 38, United States Code, there is authorized to be appropriated to the Assistant Secretary to carry out the pilot program under this section $15,000,000 for each of fiscal years 2021 through 2025.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
