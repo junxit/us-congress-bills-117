@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2911
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2911
@@ -46,3 +46,15 @@ VA Transparency & Trust Act of 2021
 - 2021-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 144). (text: CR H2363)
 - 2021-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 4 (Roll no. 144).(text: CR H2363)
 - 2021-05-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-07-14 — Referred to the Subcommittee on Oversight and Investigations.
+- 2021-10-28 — Message on Senate action sent to the House.
+- 2021-10-28 — Passed Senate without amendment by Unanimous Consent.
+- 2021-10-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-10-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7450)
+- 2021-10-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7450)
+- 2021-11-15 — Presented to President.
+- 2021-11-15 — Presented to President.
+- 2021-11-22 — Became Public Law No: 117-63.
+- 2021-11-22 — Became Public Law No: 117-63.
+- 2021-11-22 — Signed by President.
+- 2021-11-22 — Signed by President.
