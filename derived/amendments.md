@@ -1,7 +1,7 @@
 ---
 measure: H.R. 711
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Subsection (d) of section 2 of the West Los Angeles Leasing Act of 2016 (Public Law 114–226; 130 Stat. 927) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (d) of section 2 of the West Los Angeles Leasing Act of 2016 (Public Law 114– 226; 130 Stat. 927) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (1) of section 2(b) of the West Los Angeles Leasing Act of 2016 (Public Law 114–226; 130 Stat. 927), is amended by adding at the end the following new sentence: “Notwithstanding section 8162(b)(2) of such title, the term of suc… | the bill names no machine-readable US Code section |
