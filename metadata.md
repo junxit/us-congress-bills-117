@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 275
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 275
@@ -16,7 +16,7 @@ Condemning the horrific shootings in Atlanta, Georgia, on March 16, 2021, and re
 
 - Rep. Chu, Judy [D-CA-27] (C001080)
 
-## Cosponsors (103)
+## Cosponsors (149)
 
 - Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
@@ -121,6 +121,52 @@ Condemning the horrific shootings in Atlanta, Georgia, on March 16, 2021, and re
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Scott, David [D-GA-13] (S001157)
 
 ## Committees (1)
 
@@ -131,3 +177,15 @@ Condemning the horrific shootings in Atlanta, Georgia, on March 16, 2021, and re
 - 2021-03-26 — Introduced in House
 - 2021-03-26 — Introduced in House
 - 2021-03-26 — Referred to the House Committee on Oversight and Reform.
+- 2021-05-17 — Rules Committee Resolution H. Res. 403 Reported to House. Rule provides for consideration of H.R. 1629 and H. Res. 275. The resolution provides for consideration of H.R. 1629 under a closed rule and H. Res. 275 under a closed rule. The resolution provides for one hour of debate on both the bill and resolution. The rule provides that H. Res. 398 is hereby adopted. The rule provides at any time through the legislative day of Thursday, May 20, 2021, the Speaker may entertain motions offered by the Majority Leader or designee with respect to multiple measures that were object of motions to suspend the rules on the legislative days of May 17 or 18, 2021.
+- 2021-05-18 — Considered under the provisions of rule H. Res. 403. (consideration: CR H2520-2525)
+- 2021-05-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 275.
+- 2021-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 275, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Fallon demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-05-18 — Rule H. Res. 403 passed House.
+- 2021-05-18 — Rule provides for consideration of H.R. 1629 and H. Res. 275. The resolution provides for consideration of H.R. 1629 under a closed rule and H. Res. 275 under a closed rule. The resolution provides for one hour of debate on both the bill and resolution. The rule provides that H. Res. 398 is hereby adopted. The rule provides at any time through the legislative day of Thursday, May 20, 2021, the Speaker may entertain motions offered by the Majority Leader or designee with respect to multiple measures that were object of motions to suspend the rules on the legislative days of May 17 or 18, 2021.
+- 2021-05-18 — The previous question was ordered pursuant to the rule.
+- 2021-05-19 — CHAIR ANNOUNCEMENT - The Chair announced a correction to Roll Call number 149 the yeas were 245 and the nays were 180.
+- 2021-05-19 — Considered as unfinished business. (consideration: CR H2571-2572)
+- 2021-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-05-19 — On agreeing to the resolution Agreed to by the Yeas and Nays: 245 - 180 (Roll no. 149). (text: 05/18/2021 CR H2520)
+- 2021-05-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 245 - 180 (Roll no. 149).(text: 05/18/2021 CR H2520)
