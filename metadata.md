@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3125
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3125
@@ -23,9 +23,10 @@ COVID-19 Emergency Medical Supplies Enhancement Act of 2021
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ COVID-19 Emergency Medical Supplies Enhancement Act of 2021
 - 2021-05-18 — Mr. Cleaver moved to suspend the rules and pass the bill.
 - 2021-05-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2456-2457)
 - 2021-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2456-2457)
+- 2021-05-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
