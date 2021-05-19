@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1510
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1510
@@ -51,3 +51,14 @@ To direct the Secretary of Veterans Affairs to submit to Congress a report on th
 - 2021-05-18 — Pursuant to the provisions of H. Res. 403, proceedings on H.R. 1510 are considered vacated.
 - 2021-05-18 — The title of the measure was amended. Agreed to without objection.
 - 2021-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-11-02 — Passed Senate without amendment by Unanimous Consent.
+- 2021-11-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7685)
+- 2021-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7685)
+- 2021-11-03 — Message on Senate action sent to the House.
+- 2021-11-16 — Presented to President.
+- 2021-11-16 — Presented to President.
+- 2021-11-23 — Became Public Law No: 117-64.
+- 2021-11-23 — Became Public Law No: 117-64.
+- 2021-11-23 — Signed by President.
+- 2021-11-23 — Signed by President.
