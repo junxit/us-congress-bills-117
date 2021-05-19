@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 3331
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3331
+
+> To require the Secretary of the Treasury to provide taxpayers with information regarding the Federal budget.
+
+## § 1. Short title
+
+This Act may be cited as the “Taxpayer Receipt Act”.
+
+## § 2. Information regarding the Federal budget
+
+The Secretary of the Treasury, or the Secretary’s delegate, shall provide, to each individual filing a Federal income tax return for a taxable year, a one-page document which contains, with respect to the most recently completed fiscal year—
+
+- **(1)** total Federal outlays during such year;
+- **(2)** total Federal revenues collected during such year;
+- **(3)** the Federal deficit or surplus for such year; and
+- **(4)** the total Federal debt held by the public.
