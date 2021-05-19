@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2695
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2695
@@ -36,9 +36,10 @@ Combating Sexual Harassment in Science Act
 - Rep. Bowman, Jamaal [D-NY-16] (B001223)
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Combating Sexual Harassment in Science Act
 - 2021-05-18 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008.(consideration: CR H2482-2520; text: CR H2515-2517)
 - 2021-05-18 — Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008. (consideration: CR H2482-2520; text: CR H2515-2517)
 - 2021-05-18 — Pursuant to the provisions of H. Res. 403, proceedings on H.R. 2695 are considered vacated.
+- 2021-05-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
