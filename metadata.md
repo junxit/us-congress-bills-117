@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 13
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 13
@@ -32,3 +32,22 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2021-05-19 — Considered by Senate. (consideration: CR S2745, S2752)
 - 2021-05-19 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 195. (text: CR S2752)
 - 2021-05-19 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 195.(text: CR S2752)
+- 2021-05-20 — Message on Senate action sent to the House.
+- 2021-05-21 — Held at the desk.
+- 2021-05-21 — Received in the House.
+- 2021-06-22 — Rules Committee Resolution H. Res. 486 Reported to House. The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-24 — Considered as unfinished business. (consideration: CR H3115-3116)
+- 2021-06-24 — Considered under the provisions of rule H. Res. 486. (consideration: CR H3110-3114)
+- 2021-06-24 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 13.
+- 2021-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-24 — On passage Passed by the Yeas and Nays: 219 - 210 (Roll no. 183). (text: CR H3110)
+- 2021-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on S.J.Res 13, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings on passage of the bill until a time to be announced.
+- 2021-06-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 210 (Roll no. 183).(text: CR H3110)
+- 2021-06-24 — The previous question was ordered pursuant to the rule.
+- 2021-06-24 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-30 — Became Public Law No: 117-22.
+- 2021-06-30 — Became Public Law No: 117-22.
+- 2021-06-30 — Presented to President.
+- 2021-06-30 — Presented to President.
+- 2021-06-30 — Signed by President.
+- 2021-06-30 — Signed by President.
