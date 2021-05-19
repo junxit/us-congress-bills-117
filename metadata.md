@@ -1,7 +1,7 @@
 ---
 measure: H.R. 240
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 240
@@ -43,9 +43,10 @@ Homeless Veterans with Children Reintegration Act
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Homeless Veterans with Children Reintegration Act
 - 2021-05-18 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008.(consideration: CR H2482-2520; text: CR H2489)
 - 2021-05-18 — Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008. (consideration: CR H2482-2520; text: CR H2489)
 - 2021-05-18 — Pursuant to the provisions of H. Res. 403, proceedings on H.R. 240 are considered vacated.
+- 2021-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
