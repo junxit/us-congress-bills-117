@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 27
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 27
@@ -38,3 +38,14 @@ Providing for the appointment of Barbara Barrett as a citizen regent of the Boar
 - 2021-05-20 — On passage Passed without objection. (text: CR H2632)
 - 2021-05-20 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2632)
 - 2021-05-20 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2021-06-10 — Passed Senate without amendment by Unanimous Consent.
+- 2021-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-06-10 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S4501)
+- 2021-06-10 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S4501)
+- 2021-06-14 — Message on Senate action sent to the House.
+- 2021-06-17 — Presented to President.
+- 2021-06-17 — Presented to President.
+- 2021-06-23 — Became Public Law No: 117-19.
+- 2021-06-23 — Became Public Law No: 117-19.
+- 2021-06-23 — Signed by President.
+- 2021-06-23 — Signed by President.
