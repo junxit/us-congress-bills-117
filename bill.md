@@ -19,13 +19,13 @@ It is the sense of Congress that—
 
 - **(1)** climate change poses a significant and increasing threat to the growth and stability of the economy of the United States;
 - **(2)** many sectors of the economy of the United States and many American businesses are exposed to climate-related risk, which may include exposure to—
-  - **(A)** the physical impacts of climate change, including the rise of the average global temperature, accelerating sea-level rise, de­sert­i­fi­ca­tion, ocean acidification, intensification of storms, increase in heavy precipitation, more frequent and intense temperature extremes, more severe droughts, and longer wildfire seasons;
+  - **(A)** the physical impacts of climate change, including the rise of the average global temperature, accelerating sea-level rise, desertification, ocean acidification, intensification of storms, increase in heavy precipitation, more frequent and intense temperature extremes, more severe droughts, and longer wildfire seasons;
   - **(B)** the economic disruptions and security threats that result from the physical impacts described in subparagraph (A) including conflicts over scarce resources, conditions conducive to violent extremism, the spread of infectious diseases, and forced migration;
   - **(C)** the transition impacts that result as the global economy transitions to a clean and renewable energy, low-emissions economy, including financial impacts as climate change fossil fuel assets becoming stranded and it becomes uneconomic for companies to develop fossil fuel assets as policymakers act to limit the worst impacts of climate change by keeping the rise in average global temperature to 1.5 degrees Celsius above pre-industrial levels; and
-  - **(D)** actions by Federal, State, Tribal, and local governments to limit the worst effects of climate change by enacting policies that keep the global average surface temperature rise to 1.5 degrees Celsius above pre-industrial levels;
+  - **(D)** actions by Federal, State, Tribal, territorial, and local governments to limit the worst effects of climate change by enacting policies that keep the global average surface temperature rise to 1.5 degrees Celsius above pre-industrial levels;
 - **(3)** assessing the potential impact of climate-related risks on national and international financial systems is an urgent concern;
 - **(4)** companies have a duty to disclose financial risks that climate change presents to their investors, lenders, and insurers;
-- **(5)** the Commission has a duty to promote a risk-informed securities market that is worthy of the trust of the public as families invest for their futures;
+- **(5)** the Securities and Exchange Commission has a duty to promote a risk-informed securities market that is worthy of the trust of the public as families invest for their futures;
 - **(6)** investors, lenders, and insurers are increasingly demanding climate risk information that is consistent, comparable, reliable, and clear;
 - **(7)** including standardized, material climate change risk and opportunity disclosure that is useful for decision makers in annual reports to the Commission will increase transparency with respect to risk accumulation and exposure in financial markets;
 - **(8)** requiring companies to disclose climate-related risk exposure and risk management strategies will encourage a smoother transition to a clean and renewable energy, low-emissions economy and guide capital allocation to mitigate, and adapt to, the effects of climate change and limit damages associated with climate-related events and disasters; and
@@ -37,7 +37,7 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 
 > - **(s)** *Disclosures relating to climate change*
 >   - **(1)** *Definitions* In this subsection:
->     - **(A)** *1.5 degree scenario* The term 1.5 degree scenario means a scenario that aligns with greenhouse gas emissions pathways that aim for limiting global warming to 1.5 degrees Celsius above pre-industrial levels.
+>     - **(A)** *1.5 degree scenario* The term 1.5 degree scenario means a scenario that aligns with greenhouse gas emissions pathways that aim to limit global warming to 1.5 degrees Celsius above pre-industrial levels.
 >     - **(B)** *Appropriate climate principals* The term appropriate climate principals means—
 >       - **(i)** the Administrator of the Environmental Protection Agency;
 >       - **(ii)** the Administrator of the National Oceanic and Atmospheric Administration;
@@ -45,13 +45,13 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >       - **(iv)** the Secretary of the Interior;
 >       - **(v)** the Secretary of Energy; and
 >       - **(vi)** the head of any other Federal agency, as determined appropriate by the Commission.
->     - **(C)** *Baseline scenario* The term baseline scenario means a widely recognized analysis scenario in which levels of greenhouse gas emissions, as of the date on which the analysis is performed, continue to grow, resulting in an increase in the global average temperature of 1.5 degrees Celsius or more above pre-industrial levels.
+>     - **(C)** *Baseline scenario* The term baseline scenario means a widely-recognized analysis scenario in which levels of greenhouse gas emissions, as of the date on which the analysis is performed, continue to grow, resulting in an increase in the global average temperature of 1.5 degrees Celsius or more above pre-industrial levels.
 >     - **(D)** *Carbon dioxide equivalent* The term carbon dioxide equivalent means the number of metric tons of carbon dioxide emissions with the same global warming potential as one metric ton of another greenhouse gas, as determined under table A–1 of subpart A of part 98 of title 40, Code of Federal Regulations, as in effect on the date of enactment of this subsection.
 >     - **(E)** *Climate change* The term climate change means a change of climate that is—
 >       - **(i)** attributed directly or indirectly to human activity that alters the composition of the global atmosphere; and
 >       - **(ii)** in addition to natural climate variability observed over comparable time periods.
 >     - **(F)** *Commercial development of fossil fuels* The term commercial development of fossil fuels includes—
->       - **(i)** exploration, extraction, processing, exporting, transporting, refining, and any other significant action with respect to oil, natural gas, coal, or any byproduct thereof or any other solid or liquid hydrocarbons that are commercially produced; or
+>       - **(i)** exploration, extraction, processing, exporting, transporting, refining, and any other significant action with respect to oil, natural gas, coal, or any byproduct thereof or any other solid or liquid hydrocarbons that are commercially produced; and
 >       - **(ii)** acquiring a license for any activity described in clause (i).
 >     - **(G)** *Covered issuer* The term covered issuer means an issuer that is required to file an annual report under subsection (a) or section 15(d).
 >     - **(H)** *Direct and indirect greenhouse gas emissions* The term direct and indirect greenhouse gas emissions includes, with respect to a covered issuer—
@@ -61,9 +61,9 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >       - **(iv)** all indirect greenhouse gas emissions that are attributable to assets owned or managed, including assets that are partially owned or managed, by the covered issuer.
 >     - **(I)** *Fossil fuel reserves* The term fossil fuel reserves has the meaning given the term reserves under the final rule of the Commission titled “Modernization of Oil and Gas Reporting” (74 Fed. Reg. 2158; published January 14, 2009).
 >     - **(J)** *Greenhouse gas* The term greenhouse gas—
->       - **(i)** means carbon dioxide, hy­dro­fluo­ro­car­bons, methane, nitrous oxide, per­fluo­ro­car­bons, sulfur hexafluoride, nitrogen triflouride, and chlorofluorocarbons;
->       - **(ii)** includes any other an­thro­po­gen­i­cal­ly emitted gas that the Administrator of the Environmental Protection Agency determines, after notice and comment, to contribute to climate change; and
->       - **(iii)** includes any other an­thro­po­gen­i­cal­ly emitted gas that the Intergovernmental Panel on Climate Change determines to contribute to climate change.
+>       - **(i)** means carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, sulfur hexafluoride, nitrogen triflouride, and chlorofluorocarbons;
+>       - **(ii)** includes any other anthropogenically-emitted gas that the Administrator of the Environmental Protection Agency determines, after notice and comment, to contribute to climate change; and
+>       - **(iii)** includes any other anthropogenically-emitted gas that the Intergovernmental Panel on Climate Change determines to contribute to climate change.
 >     - **(K)** *Greenhouse gas emissions* The term greenhouse gas emissions means the emissions of greenhouse gas, expressed in terms of metric tons of carbon dioxide equivalent.
 >     - **(L)** *Physical risks* The term physical risks means financial risks to long-lived fixed assets, locations, operations, or value chains that result from exposure to physical climate-related effects, including—
 >       - **(i)** increased average global temperatures and increased frequency of temperature extremes;
@@ -92,7 +92,7 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >     - **(A)** short-, medium-, and long-term financial and economic risks and opportunities relating to climate change, and the national and global reduction of greenhouse gas emissions, constitute information that issuers—
 >       - **(i)** may reasonably expect to affect shareholder decision making; and
 >       - **(ii)** should regularly identify, evaluate, and disclose; and
->     - **(B)** the disclosure of information described in paragraph (1) should—
+>     - **(B)** the disclosure of information described in subparagraph (A) should—
 >       - **(i)** identify, and evaluate—
 >         - **(I)** material physical and transition risks posed by climate change; and
 >         - **(II)** the potential financial impact of such risks;
@@ -180,4 +180,4 @@ If, 2 years after the date of the enactment of this Act, the Securities and Exch
 
 ## § 5. Authorization of appropriations
 
-There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this Act and the amendments made by this Act.
+There are authorized to be appropriated to the Securities and Exchange Commission such sums as may be necessary to carry out this Act and the amendments made by this Act.
