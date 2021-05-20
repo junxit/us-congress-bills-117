@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1318
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1318
@@ -42,3 +42,9 @@ Alaska Tourism Restoration Act
 - 2021-05-20 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2632)
 - 2021-05-20 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3186-3187)
 - 2021-05-20 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3186-3187)
+- 2021-05-24 — Became Public Law No: 117-14.
+- 2021-05-24 — Became Public Law No: 117-14.
+- 2021-05-24 — Presented to President.
+- 2021-05-24 — Presented to President.
+- 2021-05-24 — Signed by President.
+- 2021-05-24 — Signed by President.
