@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 27
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 27
