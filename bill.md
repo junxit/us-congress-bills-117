@@ -1,0 +1,21 @@
+---
+legis-num: S. 1758
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1758
+
+> To amend the Small Business Investment Act of 1958 to increase the maximum loan amount for certain loans.
+
+## § 1. Short title
+
+This Act may be cited as the “504 Green Energy Enhancement Act”.
+
+## § 2. Increase in certain maximum loan amounts
+
+- **(a)** *In general* Section 502(2)(A) of the Small Business Investment Act of 1958 (15 U.S.C. 696(2)(A)) is amended—
+  - **(1)** in clause (iv), by striking “$5,500,000” and inserting “$20,000,000”; and
+  - **(2)** in clause (v), by striking “$5,500,000” and inserting “$20,000,000”.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Administrator of the Small Business Administration shall submit to Congress a report that details, for the year covered by the report, the industries and geographic areas with respect to which the Administrator has made loans under clauses (iv) and (v) of section 502(2)(A) of the Small Business Investment Act of 1958 (15 U.S.C. 696(2)(A)), as amended by subsection (a).
