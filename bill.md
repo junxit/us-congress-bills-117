@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 3449
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3449
+
+> To amend the Internal Revenue Code of 1986 to make certain adjustments to the work opportunity credit to modernize the credit and make it more effective as a hiring incentive, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Hiring Incentive to Return Employment Act of 2021” or the “HIRE Act of 2021”.
+
+## § 2. Extension of work opportunity credit during COVID–19 recovery period
+
+- **(a)** *In general* Section 51 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(l)** *Adjustment to credit during COVID–19 recovery period* In the case of individuals hired after the date of the enactment of this subsection in a taxable year beginning before the date that is 2 years after such date—
+  >   - **(1)** *Increased amount of credit* Subsection (a) shall be applied by substituting “50 percent” for “40 percent”.
+  >   - **(2)** *Availability of credit in second year of employment*
+  >     - **(A)** *In general* Subsection (a) shall be applied by inserting “or qualified second-year wages” after “wages”.
+  >     - **(B)** *Qualified second-year wages* For the purposes of this paragraph, the term “qualified second-year wages” means qualified wages which are attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to the recipient determined under subsection (b)(2).
+  >   - **(3)** *Increase in limitation on wages taken into account* Subsection (b)(3) shall be applied by substituting “$10,000” for “$6,000”.
+  >   - **(4)** *Eligibility of rehires*
+  >     - **(A)** *In general* Subsection (i)(2) shall not apply.
+  >     - **(B)** *Regulations* The Secretary shall issue such regulations as the Secretary determines appropriate to ensure a reasonable application of subparagraph (A), including prohibiting attempts to claim the benefit of this section through the termination and rehiring of an employee.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years ending after the date of enactment of this Act.
