@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1629
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1629
@@ -21,10 +21,11 @@ Fairness in Orphan Drug Exclusivity Act
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Budget Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Fairness in Orphan Drug Exclusivity Act
 - 2021-05-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 402 - 23 (Roll no. 150).(text: CR H2561)
 - 2021-05-19 — Rule provides for consideration of H.R. 1629 and H. Res. 275. The resolution provides for consideration of H.R. 1629 under a closed rule and H. Res. 275 under a closed rule. The resolution provides for one hour of debate on both the bill and resolution. The rule provides that H. Res. 398 is hereby adopted. The rule provides at any time through the legislative day of Thursday, May 20, 2021, the Speaker may entertain motions offered by the Majority Leader or designee with respect to multiple measures that were object of motions to suspend the rules on the legislative days of May 17 or 18, 2021.
 - 2021-05-19 — The previous question was ordered pursuant to the rule.
+- 2021-05-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
