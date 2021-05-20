@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3233
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3233
@@ -41,3 +41,4 @@ National Commission to Investigate the January 6 Attack on the United States Cap
 - 2021-05-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2021-05-19 — Rule provides for consideration of H.R. 3233 and H.R. 3237. Resolution provides for consideration of H.R. 3233 and H.R. 3237 under a closed rule. The resolution provides that the previous question shall be ordered on both bills without intervening motion except one hour of debate and one motion to recommit.
 - 2021-05-19 — The previous question was ordered pursuant to the rule.
+- 2021-05-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 60.
