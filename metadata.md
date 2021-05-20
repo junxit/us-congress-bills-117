@@ -1,7 +1,7 @@
 ---
 measure: S. 921
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 921
@@ -16,7 +16,7 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (6)
+## Cosponsors (13)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -24,6 +24,13 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -33,3 +40,7 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 
 - 2021-03-23 — Introduced in Senate
 - 2021-03-23 — Read twice and referred to the Committee on the Judiciary.
+- 2021-05-13 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-05-20 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2021-05-20 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2021-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
