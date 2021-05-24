@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3237
@@ -40,3 +40,4 @@ Emergency Security Supplemental Appropriations Act, 2021
 - 2021-05-20 — Rule provides for consideration of H.R. 3233 and H.R. 3237. Resolution provides for consideration of H.R. 3233 and H.R. 3237 under a closed rule. The resolution provides that the previous question shall be ordered on both bills without intervening motion except one hour of debate and one motion to recommit.
 - 2021-05-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-05-20 — The previous question was ordered pursuant to the rule.
+- 2021-05-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.
