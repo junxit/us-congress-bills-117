@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 3472
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3472
+
+> To amend the Internal Revenue Code of 1986 to extend for 3 years tax credits with respect to biodiesel and renewable diesel.
+
+## § 1. Short title
+
+This Act may be cited as the “Biodiesel Tax Credit Extension Act of 2021”.
+
+## § 2. Biodiesel and renewable diesel
+
+- **(a)** *Income tax credit*
+  - **(1)** *In general* Section 40A(g) of the Internal Revenue Code of 1986 is amended by striking “2022” and inserting “2025”.
+  - **(2)** *Effective date* The amendment made by this subsection shall apply to fuel sold or used after December 31, 2022.
+- **(b)** *Excise tax incentives*
+  - **(1)** *Termination*
+    - **(A)** *In general* Section 6426(c)(6) of such Code is amended by striking “2022” and inserting “2025”.
+    - **(B)** *Payments* Section 6427(e)(6)(B) of such Code is amended by striking “2022” and inserting “2025”.
+  - **(2)** *Effective date* The amendments made by this subsection shall apply to fuel sold or used after December 31, 2022.
