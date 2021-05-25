@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3484
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3484
+
+> To prohibit States that implement programs to assist illegal immigrants from receiving Federal funds, and for other purposes.
+
+## § 1. Prohibition on use of Federal funds
+
+- **(a)** *In general* No Federal funds are authorized to be appropriated or otherwise made available to a State under any program for which appropriations are provided on a discretionary basis if the head of the Federal department or agency administering such program determines that such State has implemented a program to provide assistance to aliens who are unlawfully present in the United States.
+- **(b)** *Rule of construction* Nothing in this Act may be construed to alter, affect, or otherwise limit any Federal payment to which an individual is entitled under a provision of law.
