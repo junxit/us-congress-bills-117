@@ -1,7 +1,7 @@
 ---
 measure: S. 108
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 108
@@ -34,3 +34,20 @@ A bill to authorize the Seminole Tribe of Florida to lease or transfer certain l
 - 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
 - 2021-05-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3490; text: CR S3490)
 - 2021-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3490; text: CR S3490)
+- 2021-05-27 — Message on Senate action sent to the House.
+- 2021-05-28 — Held at the desk.
+- 2021-05-28 — Received in the House.
+- 2021-11-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-11-01 — Considered under suspension of the rules. (consideration: CR H6048)
+- 2021-11-01 — DEBATE - The House proceeded with forty minutes of debate on S. 108.
+- 2021-11-01 — Ms. Leger Fernandez moved to suspend the rules and pass the bill.
+- 2021-11-02 — Considered as unfinished business. (consideration: CR H6096-6097)
+- 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 425 - 2 (Roll no. 345).
+- 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 425 - 2 (Roll no. 345).
+- 2021-11-16 — Presented to President.
+- 2021-11-16 — Presented to President.
+- 2021-11-23 — Became Public Law No: 117-65.
+- 2021-11-23 — Became Public Law No: 117-65.
+- 2021-11-23 — Signed by President.
+- 2021-11-23 — Signed by President.
