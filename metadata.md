@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 190
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 190
@@ -37,3 +37,7 @@ A resolution recognizing 50 years of service by the National Railroad Passenger 
 
 - 2021-04-29 — Introduced in Senate
 - 2021-04-29 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2021-05-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/29/2021 CR S2366)
+- 2021-05-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/29/2021 CR S2366)
+- 2021-05-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S3491)
+- 2021-05-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S3491)
