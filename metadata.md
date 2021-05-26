@@ -1,7 +1,7 @@
 ---
 measure: S. 559
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 559
@@ -32,3 +32,5 @@ A bill to amend the Grand Ronde Reservation Act, and for other purposes.
 - 2021-04-28 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-18.
 - 2021-04-28 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-18.
 - 2021-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
+- 2021-05-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S3489; text: CR S3489)
+- 2021-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3489; text: CR S3489)
