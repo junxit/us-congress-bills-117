@@ -19,7 +19,7 @@ Congress makes the following findings:
 
 - **(1)** The Department of State released a fact sheet on January 15, 2021, about the Wuhan Institute of Virology (WIV) which stated the following:
   - **(A)** “The U.S. government has reason to believe that several researchers inside the WIV became sick in autumn 2019, before the first identified case of the outbreak, with symptoms consistent with both COVID–19 and common seasonal illnesses.”.
-  - **(B)** “WIV researchers conducted experiments involving RaTG13, the bat coronavirus identified by the WIV in January 2020 as its closest sample to SARS-CoV-2.”.
+  - **(B)** “WIV researchers conducted experiments involving RaTG13, the bat coronavirus identified by the WIV in January 2020 as its closest sample to SARS–CoV–2.”.
   - **(C)** “Despite the WIV presenting itself as a civilian institution, the United States has determined that the WIV has collaborated on publications and secret projects with China's military.”.
 - **(2)** Former Director of the Centers for Disease Control and Prevention, Robert Redfield, stated in March 2021 that, “the most likely etiology of this pathogen in Wuhan was from a laboratory” and noted that, “[i]t is not unusual for respiratory pathogens that are being worked on in a laboratory to infect the laboratory worker.”.
 - **(3)** Director-General of the World Health Organization Tedros Adhanom Ghebreyesus acknowledged in March 2021 that the Coronavirus Disease 2019 (COVID–19) may have originated in a laboratory and said this hypothesis “requires further investigation, potentially with additional missions involving specialist experts.”.
