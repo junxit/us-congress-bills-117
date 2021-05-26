@@ -1,7 +1,7 @@
 ---
 measure: S. 550
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 550
@@ -32,3 +32,5 @@ Southeast Alaska Regional Health Consortium Land Transfer Act of 2021
 - 2021-04-14 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-15.
 - 2021-04-14 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-15.
 - 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.
+- 2021-05-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3490; text: CR S3490-3491)
+- 2021-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3490; text: CR S3490-3491)
