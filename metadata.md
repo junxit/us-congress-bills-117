@@ -1,7 +1,7 @@
 ---
 measure: S. 325
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 325
@@ -34,3 +34,5 @@ A bill to amend the Alyce Spotted Bear and Walter Soboleff Commission on Native 
 - 2021-04-14 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-12.
 - 2021-04-14 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-12.
 - 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
+- 2021-05-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S3489; text: CR S3489)
+- 2021-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3489; text: CR S3489)
