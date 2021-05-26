@@ -1,7 +1,7 @@
 ---
 measure: S. 144
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 144
@@ -16,9 +16,10 @@ Desert Sage Youth Wellness Center Access Improvement Act
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -32,3 +33,5 @@ Desert Sage Youth Wellness Center Access Improvement Act
 - 2021-03-24 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-5.
 - 2021-03-24 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-5.
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
+- 2021-05-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S3489; text: CR S3489)
+- 2021-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3489; text: CR S3489)
