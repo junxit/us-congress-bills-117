@@ -1,7 +1,7 @@
 ---
 measure: S. 789
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 789
@@ -36,3 +36,5 @@ RESPECT Act
 - 2021-04-28 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-19.
 - 2021-04-28 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-19.
 - 2021-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
+- 2021-05-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S3851; text: CR S3851)
+- 2021-05-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3851; text: CR S3851)
