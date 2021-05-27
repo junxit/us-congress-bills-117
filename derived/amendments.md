@@ -1,7 +1,7 @@
 ---
 measure: S. 1658
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+11 amendatory instructions. 3 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `15(a)(3)` |
 | Inserted | `7(r) or 15(a)(3)` |
 
+### 29 U.S.C. § 216
+
+> in section 16(b) (29 U.S.C. 216(b)), by striking “15(a)(3)” each place the term appears and inserting “15(a)(3) or 18D”.
+
+| | |
+|---|---|
+| Removed | `15(a)(3)` |
+| Inserted | `15(a)(3) or 18D` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -55,3 +64,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 201` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 201` | insert | by inserting after section 18C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 207` | strike | in section 7 (29 U.S.C. 207), by striking subsection (r); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 218c` | insert | by inserting after section 18C (29 U.S.C. 218c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 215` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 215` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

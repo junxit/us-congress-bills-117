@@ -1,7 +1,7 @@
 ---
 measure: S. 1658
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1658
@@ -31,3 +31,7 @@ PUMP for Nursing Mothers Act
 
 - 2021-05-17 — Introduced in Senate
 - 2021-05-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-05-25 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-05-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-05-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-05-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
