@@ -1,7 +1,7 @@
 ---
 measure: S. 272
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 272
@@ -31,3 +31,7 @@ Congressional Budget Justification Transparency Act of 2021
 
 - 2021-02-08 — Introduced in Senate
 - 2021-02-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-03-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-05-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-23.
+- 2021-05-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-23.
+- 2021-05-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.
