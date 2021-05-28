@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1262
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1262
@@ -29,3 +29,10 @@ Notice to Airmen Improvement Act of 2021
 - 2021-02-23 — Introduced in House
 - 2021-02-23 — Introduced in House
 - 2021-02-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2021-02-24 — Referred to the Subcommittee on Aviation.
+- 2021-03-24 — Committee Consideration and Mark-up Session Held.
+- 2021-03-24 — Ordered to be Reported by Voice Vote.
+- 2021-03-24 — Subcommittee on Aviation Discharged.
+- 2021-05-28 — Placed on the Union Calendar, Calendar No. 26.
+- 2021-05-28 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-43.
+- 2021-05-28 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-43.
