@@ -1,7 +1,7 @@
 ---
 measure: H.R. 711
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 711
@@ -39,3 +39,14 @@ West Los Angeles VA Campus Improvement Act of 2021
 - 2021-05-18 — Pursuant to section 5 of H. Res. 403, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 144, as amended; H.R. 204, as amended; H.R. 210, as amended; H.R. 240; H.R. 707, as amended; H.R. 711, as amended; H.R. 1157, as amended; H.R. 1447, as amended; H.R. 1510, as amended; H.R. 1711, as amended; H.R. 2027; H.R. 2167, as amended; H.R. 2441; H.R. 2494; H.R. 2533; H.R. 2655, as amended; H.R. 2695, H.R. 2704; H.R. 2788; H.R. 2878, as amended; and H.R. 3008. (consideration: CR H2482-2520; text: CR H2490)
 - 2021-05-18 — Pursuant to the provisions of H. Res. 403, proceedings on H.R. 711 are considered vacated.
 - 2021-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-05-28 — Amendment SA 2109 agreed to in Senate by Unanimous Consent.
+- 2021-05-28 — Amendment SA 2109 proposed by Senator Schumer for Senator Feinstein. (consideration: CR S3932; text: CR S3932) To include an assessment of lease revenue expenditures and direct benefits to veterans in the annual report required by the West Los Angeles Leasing Act of 2016.
+- 2021-05-28 — Measure laid before Senate by unanimous consent. (consideration: CR S3932)
+- 2021-05-28 — Message on Senate action sent to the House.
+- 2021-05-28 — Passed Senate with an amendment by Unanimous Consent.
+- 2021-05-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2021-05-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2021-05-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2021-05-28 — Senate amendment agreed to: Amendment SA 2109 agreed to in Senate by Unanimous Consent.
+- 2021-05-28 — Senate amendment proposed (on the floor): Amendment SA 2109 proposed by Senator Schumer for Senator Feinstein.
+- 2021-05-28 — Senate amendment submitted
