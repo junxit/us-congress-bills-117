@@ -1,7 +1,7 @@
 ---
 measure: S. 921
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 921
@@ -16,7 +16,7 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -31,6 +31,8 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
@@ -47,3 +49,17 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 - 2021-05-28 — Message on Senate action sent to the House.
 - 2021-05-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3930-3931; text of amendment in the nature of a substitute: CR S3930-3931)
 - 2021-05-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3930-3931; text of amendment in the nature of a substitute: CR S3930-3931)
+- 2021-06-01 — Held at the desk.
+- 2021-06-01 — Received in the House.
+- 2021-10-27 — Considered under suspension of the rules. (consideration: CR H5942-5944)
+- 2021-10-27 — DEBATE - The House proceeded with forty minutes of debate on S. 921.
+- 2021-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-27 — Ms. Jackson Lee moved to suspend the rules and pass the bill.
+- 2021-10-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
+- 2021-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5942)
+- 2021-11-09 — Presented to President.
+- 2021-11-09 — Presented to President.
+- 2021-11-18 — Became Public Law No: 117-59.
+- 2021-11-18 — Became Public Law No: 117-59.
+- 2021-11-18 — Signed by President.
+- 2021-11-18 — Signed by President.
