@@ -28,7 +28,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, through the end of 2020, Arkansas River Basin projects, including the MKARNS, are estimated to have cumulatively prevented nearly $16,000,000,000 in flood damages in the Arkansas River Basin region;
 - Whereas there are 15 hydropower plants on the MKARNS which provide low-cost power to 7,000,000 people and produce 2,500,000 kilo-watt-hours per year;
 - Whereas inland waterways provide many recreational opportunities, such as fishing, boating, and hiking, and over 4,000 recreational vessels lock through the MKARNS and 5,400,000 people visit Corps-operated recreation areas along the MKARNS annually;
-- Whereas modernization of the MKARNS will empower future economic development, promote freight mobility, expand agricultural exports and oil and gas development, and relieve congestion on our roads and bridges;
+- Whereas modernization of the MKARNS will empower future economic development, promote freight mobility, and expand agricultural exports and the movement of iron and steel products, while relieving congestion on our roads and bridges;
 - Whereas the increased backlog in critical maintenance causes the economic uncertainty of complete navigation disruption on the MKARNS, which would cost beneficiaries up to $2,000,000 per day;
 - Whereas Congress authorized the MKARNS to be deepened to 12 feet in 2003, and approximately 90 percent of the MKARNS is already 12-feet deep;
 - Whereas the capacity of each barge could be increased by 200 tons for each additional foot of draft, increasing the overall freight capacity of the MKARNS by 40 percent and resulting in over $250,000,000 in increased business sales annually; and
