@@ -1,7 +1,7 @@
 ---
 measure: H.R. 711
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 711
@@ -50,3 +50,13 @@ West Los Angeles VA Campus Improvement Act of 2021
 - 2021-05-28 — Senate amendment agreed to: Amendment SA 2109 agreed to in Senate by Unanimous Consent.
 - 2021-05-28 — Senate amendment proposed (on the floor): Amendment SA 2109 proposed by Senator Schumer for Senator Feinstein.
 - 2021-05-28 — Senate amendment submitted
+- 2021-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-15 — Mr. Takano asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H2772-2773)
+- 2021-06-15 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H2772)
+- 2021-06-15 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H2772)
+- 2021-06-17 — Presented to President.
+- 2021-06-17 — Presented to President.
+- 2021-06-23 — Became Public Law No: 117-18.
+- 2021-06-23 — Became Public Law No: 117-18.
+- 2021-06-23 — Signed by President.
+- 2021-06-23 — Signed by President.
