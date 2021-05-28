@@ -1,7 +1,7 @@
 ---
 measure: S. 921
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 921
@@ -44,3 +44,6 @@ Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act
 - 2021-05-20 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2021-05-20 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2021-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
+- 2021-05-28 — Message on Senate action sent to the House.
+- 2021-05-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3930-3931; text of amendment in the nature of a substitute: CR S3930-3931)
+- 2021-05-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3930-3931; text of amendment in the nature of a substitute: CR S3930-3931)
