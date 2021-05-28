@@ -7,24 +7,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 409
 
-> To amend the Commodity Exchange Act to modify the Commodity Futures Trading Commission Customer Protection Fund, and for other purposes.
+> To provide for the availability of amounts for customer education initiatives and non-awards expenses of the Commodity Futures Trading Commission Whistleblower Program, and for other purposes.
 
-## § 1. Commodity Futures Trading Commission Customer Protection Fund
+## § 1. Commodity Futures Trading Commission Whistleblower Program
 
-Section 23(g) of the Commodity Exchange Act (7 U.S.C. 26(g)) is amended—
-
-- **(1)** in paragraph (2)(A), by striking “(a)” and inserting “(b)”; and
-- **(2)** in paragraph (3)—
-  - **(A)** in subparagraph (A), by striking “$100,000,000” and inserting “$150,000,000”;
-  - **(B)** by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting appropriately;
-  - **(C)** in the matter preceding clause (i) (as so redesignated), by striking “There shall” and inserting the following:
-    > - **(A)** *In general* There shall
-
-  - **(D)** in subparagraph (A)(ii) (as so designated), by striking “subparagraph (A)” and inserting “clause (i)”; and
-  - **(E)** by adding at the end the following:
-    > - **(B)** *Separate account for education initiatives and administrative expenses*
-    >   - **(i)** *In general* Any amounts contained in, deposited into, or credited to the Fund under subparagraph (A) may be deposited into or credited to a separate account in the Fund described in clause (ii), unless the balance of the separate account at the time the amounts are deposited or credited exceeds $10,000,000.
-    >   - **(ii)** *Use of separate account* The separate account referred to in clause (i) shall be available to the Commission, without further appropriation or fiscal year limitation, for—
-    >     - **(I)** the purpose described in subparagraph (B) of paragraph (2); and
-    >     - **(II)** the funding of administrative and salary expenses necessary for personnel to carry out the activities described in subparagraphs (A) and (B) of that paragraph.
-    >   - **(iii)** *Sunset* The authority to deposit amounts into, or credit amounts to, the separate account referred to in clause (i) shall expire on October 1, 2021, and any remaining unobligated balances in that separate account may be transferred at any time thereafter to the Fund.
+- **(a)** *In general* Notwithstanding any other provision of law, there is established in the Treasury a separate account (referred to in this section as the account), the amounts in which shall be available for the sole purposes of—
+  - **(1)** carrying out the activities described in section 23(g)(2)(B) of the Commodity Exchange Act (7 U.S.C. 26(g)(2)(B)) (referred to in this section as customer education initiatives); and
+  - **(2)** funding the administrative, programmatic, and personnel expenses of the Whistleblower Office and the Office of Customer Education and Outreach of the Commodity Futures Trading Commission (referred to in this section as the Commission) in carrying out section 23 of the Commodity Exchange Act (7 U.S.C. 26) (referred to in this section as non-awards expenses).
+- **(b)** *Transfers from Fund into account*
+  - **(1)** *In general* Notwithstanding any other provision of law, the Commission shall transfer up to $10,000,000 from the Commodity Futures Trading Commission Customer Protection Fund established under section 23(g)(1) of the Commodity Exchange Act (7 U.S.C. 26(g)(1)) (referred to in this section as the Fund) into the account.
+  - **(2)** *Availability* Amounts transferred under paragraph (1) shall be available for obligation without further appropriation and remain available until October 1, 2022.
+  - **(3)** *Remaining amounts* Amounts remaining in the account that are unobligated on October 1, 2022, shall be returned to the Fund.
+- **(c)** *Requirement for obligations* The Commission may make obligations from the account only when the unobligated balance of the Fund is insufficient to pay non-awards expenses and expenses for customer education initiatives due to awards that the Commission has ordered under section 23(b) of the Commodity Exchange Act (7 U.S.C. 26(b)).
+- **(d)** *Reports to Congress* The Commission shall include in each report required under section 23(g)(5) of the Commodity Exchange Act (7 U.S.C. 26(g)(5)) the same information with respect to the account as the Commission includes in the report with respect to the Fund, to the extent the information is relevant to the account.
