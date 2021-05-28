@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1921
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
