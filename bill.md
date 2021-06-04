@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3693
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3693
+
+> To amend title 38, United States Code, to improve the reimbursement of continuing professional education expenses for health care professionals of the Department of Veterans Affairs.
+
+## § 1. Short title
+
+This Act may be cited as the “Department of Veterans Affairs Continuing Professional Education Modernization Act” or the “VA CPE Modernization Act”.
+
+## § 2. Improvement to reimbursement of continuing professional education expenses for health care professionals of Department of Veterans Affairs
+
+- **(a)** *Reimbursement* Section 7411 of title 38, United States Code, is amended to read as follows:
+  > ## § 7411. Reimbursement of continuing professional education expenses
+  >
+  > - **(a)** *Reimbursement* The Secretary shall reimburse a full-time health care professional of the Department for expenses incurred for continuing professional education in amounts as follows:
+  >   - **(1)** With respect to a physician or dentist appointed under section 7401(1) of this title, not more than $4,000 per year.
+  >   - **(2)** With respect to an individual appointed to a position listed in section 7401(1) that is not covered by paragraph (1), not more than $2,000 per year.
+  >   - **(3)** With respect to an individual appointed to a position listed in section 7401(3), not more than $2,000 per year.
+  > - **(b)** *Adjustment* The Secretary may from time to time adjust the dollar amounts specified in subsection (a) based upon inflation.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 74 of such title is amended by striking the item relating to section 7411 and inserting the following new item:
