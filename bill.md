@@ -55,7 +55,7 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >     - **(A)** *Maximum amount of grants* Amounts provided to any entity under this section for a fiscal year shall not exceed an amount equal to 75 percent of the total cost of any projects, activities, and studies that are to be carried out using those amounts.
 >     - **(B)** *Non-Federal share* Not less than 25 percent of the cost of any project, activity, or study carried out using amounts provided under this section shall be provided from non-Federal sources.
 > - **(f)** *Funding*
->   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2022 through 2026.
+>   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2022 through 2026.
 >   - **(2)** *Administrative expenses* Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
 >   - **(3)** *Prohibition* No amounts made available under this section may be used for the administration of a management conference under section 320.
 > - **(g)** *Annual budget plan* In each of fiscal years 2022 through 2026, the President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
