@@ -1,7 +1,7 @@
 ---
 measure: S. 1828
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1828
@@ -50,3 +50,20 @@ HAVANA Act of 2021
 - 2021-06-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3963-3965)
 - 2021-06-07 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S3963-3965)
 - 2021-06-07 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S3963-3965)
+- 2021-06-08 — Message on Senate action sent to the House.
+- 2021-06-11 — Held at the desk.
+- 2021-06-11 — Received in the House.
+- 2021-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-26 — Considered under suspension of the rules. (consideration: CR H3854-3857)
+- 2021-07-26 — DEBATE - The House proceeded with forty minutes of debate on S. 1828.
+- 2021-07-26 — Mr. Castro (TX) moved to suspend the rules and pass the bill.
+- 2021-09-21 — Considered as unfinished business. (consideration: CR H4576-4577)
+- 2021-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 265). (text: 07/26/2021 CR H3854-3855)
+- 2021-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 265).(text: 07/26/2021 CR H3854-3855)
+- 2021-09-27 — Presented to President.
+- 2021-09-27 — Presented to President.
+- 2021-10-08 — Became Public Law No: 117-46.
+- 2021-10-08 — Became Public Law No: 117-46.
+- 2021-10-08 — Signed by President.
+- 2021-10-08 — Signed by President.
