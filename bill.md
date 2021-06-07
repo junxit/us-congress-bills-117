@@ -42,7 +42,7 @@ This Act may be cited as the “Confidentiality Opportunities for Peer Support C
         - **(I)** an intent to die by suicide; and
         - **(II)** a plan for a suicide attempt or the means by which the individual plans to carry out a suicide attempt; and
       - **(ii)** does not solely share that the individual is experiencing suicidal thoughts;
-    - **(B)** an explicit threat by an individual of imminent and serious physical bodily harm or death to another individual who is clearly identified or identifiable;
+    - **(B)** an explicit threat by an individual of imminent and serious physical bodily harm or death to another individual;
     - **(C)** information—
       - **(i)** relating to the abuse or neglect of—
         - **(I)** a child; or
@@ -53,8 +53,9 @@ This Act may be cited as the “Confidentiality Opportunities for Peer Support C
     - **(A)** the peer support communication;
     - **(B)** the peer support counseling session out of which the peer support communication arose;
     - **(C)** the peer support counseling session of which the peer support communication is a record; or
-    - **(D)** the communication made in the course of a peer support counseling session that the peer support communication is regarding; or
-  - **(3)** a court of competent jurisdiction issues an order or subpoena requiring the disclosure of the peer support communication.
+    - **(D)** the communication made in the course of a peer support counseling session that the peer support communication is regarding;
+  - **(3)** a court of competent jurisdiction issues an order or subpoena requiring the disclosure of the peer support communication; or
+  - **(4)** the peer support communication contains information that is required by law to be disclosed.
 - **(d)** *Rule of construction* Nothing in subsection (b) shall be construed to prohibit the disclosure of—
   - **(1)** an observation made by a law enforcement officer of a peer support participant outside of a peer support counseling session; or
   - **(2)** knowledge of a law enforcement officer about a peer support participant not gained from a peer support communication.
@@ -86,3 +87,7 @@ This Act may be cited as the “Confidentiality Opportunities for Peer Support C
 - **(c)** *Implementation* The Attorney General shall support and encourage the implementation of peer support counseling programs in first responder agencies by—
   - **(1)** making the report developed under subsection (b) publicly available on the website of the Department of Justice; and
   - **(2)** providing a list of peer support specialist training programs on the website of the Department of Justice.
+
+## § 4. Sense of Congress
+
+It is the sense of Congress that Federal, State, local, and Tribal police officers, sheriffs, and other law enforcement officers across the United States who serve with valor, dignity, and integrity deserve the gratitude and respect of Congress.
