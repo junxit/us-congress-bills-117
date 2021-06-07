@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 229
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 229
@@ -16,7 +16,7 @@ A resolution recognizing the devastating attack on a girls' school in Kabul, Afg
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (17)
+## Cosponsors (19)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -35,6 +35,8 @@ A resolution recognizing the devastating attack on a girls' school in Kabul, Afg
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -48,3 +50,5 @@ A resolution recognizing the devastating attack on a girls' school in Kabul, Afg
 - 2021-05-27 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-05-27 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-05-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.
+- 2021-06-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S3963; text: 5/24/2021 CR S3337)
+- 2021-06-07 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S3963; text: 5/24/2021 CR S3337)
