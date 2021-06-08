@@ -15,7 +15,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas many people who have gastrointestinal disorders, including gastroparesis, nausea, and vomiting also require treatment with DRBAs;
 - Whereas, while ongoing treatment with DRBAs can be lifesaving, for some people it can also lead to Tardive Dyskinesia;
 - Whereas Tardive Dyskinesia is a movement disorder that is characterized by random, involuntary, and uncontrolled movements of different muscles in the face, trunk, and extremities;
-- Whereas, in some cases, Tardive Dyskinesia may— (1)cause people to experience movement of the arms, legs, fingers, and toes; (2)affect the tongue, lips, and jaw; and (3)cause swaying movements of the trunk or hips and may impact the muscles associated with walking, speech, eating, and breathing;
+- Whereas, in some cases, Tardive Dyskinesia may—(1)cause people to experience movement of the arms, legs, fingers, and toes; (2)affect the tongue, lips, and jaw; and(3)cause swaying movements of the trunk or hips and may impact the muscles associated with walking, speech, eating, and breathing;
 - Whereas Tardive Dyskinesia can develop months, years, or decades after a person starts taking DRBAs and even after they have discontinued use of those medications;
 - Whereas not everyone who takes a DRBA develops Tardive Dyskinesia, but if Tardive Dyskinesia develops it is often persistent;
 - Whereas common risk factors for Tardive Dyskinesia include advanced age and alcoholism or other substance use disorders;

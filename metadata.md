@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 184
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 184
@@ -28,3 +28,7 @@ A resolution designating the week of May 2, 2021, through May 8, 2021, as "Tardi
 
 - 2021-04-28 — Introduced in Senate
 - 2021-04-28 — Referred to the Committee on the Judiciary.
+- 2021-06-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/28/2021 CR S2297-2298)
+- 2021-06-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/28/2021 CR S2297-2298)
+- 2021-06-08 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3997)
+- 2021-06-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3997)
