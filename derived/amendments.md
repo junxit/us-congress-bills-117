@@ -1,7 +1,7 @@
 ---
 measure: S. 1675
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `42 U.S.C. § 241` | insert | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 330N of such Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 294p` | replace | Title VII of the Public Health Service Act is amended by striking section 763 (42 U.S.C. 294p) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-12` | add-at-end | Section 317K(a)(2) of the Public Health Service Act (42 U.S.C. 247b–12(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 241` | insert | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 330O of such Act, as added by section 2, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 241` | insert | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 330N of such Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294p` | replace | Title VII of the Public Health Service Act is amended by striking section 763 (42 U.S.C. 294p) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-12` | add-at-end | Section 317K(a)(2) of the Public Health Service Act (42 U.S.C. 247b–12(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
