@@ -1,7 +1,7 @@
 ---
 measure: S. 312
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 312
@@ -34,3 +34,7 @@ COVID–19 Safer Detention Act of 2021
 
 - 2021-02-12 — Introduced in Senate
 - 2021-02-12 — Read twice and referred to the Committee on the Judiciary.
+- 2021-05-27 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-06-08 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2021-06-08 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2021-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 68.
