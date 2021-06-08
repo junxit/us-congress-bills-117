@@ -1,7 +1,7 @@
 ---
 measure: S. 312
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 1 executed, 12 stated and not applied.
+28 amendatory instructions. 2 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `2/3 of the term of imprisonment to which the offender was sentenced` |
 | Inserted | `1/2 of the term of imprisonment reduced by any credit toward the service of the offender’s sentence awarded under section 3624(b) of title 18, United States Code` |
+
+### 34 U.S.C. § 60541
+
+> by striking “to which the offender was sentenced” and inserting “reduced by any credit toward the service of the offender’s sentence awarded under section 3624(b) of title 18, United States Code”; and
+
+| | |
+|---|---|
+| Removed | `to which the offender was sentenced` |
+| Inserted | `reduced by any credit toward the service of the offender’s sentence awarded under section 3624(b) of title 18, United States Code` |
 
 ## Stated, not applied
 
@@ -53,4 +62,18 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “after the defendant has fully exhausted all administrative rights to appeal a failure of the Bureau of Prisons to bring a motion on the defendant’s behalf or the lapse of 30 days from the receipt of such a request by the war… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 3621` | add-at-end | Section 12003 of the CARES Act (18 U.S.C. 3621 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3621` | replace | by striking “ending on the date” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 3621` | replace | in subparagraph (A), as so designated, by striking the “and” at the end and inserting “or”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 3621` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 60541` | add-at-end | in paragraph (1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 60541` | insert | in paragraph (4), in the first sentence, by inserting after “paragraph (3)” the following: “, including the number of offenders released pursuant to judicial review under paragraph (1)(D)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 60541` | insert | by inserting “, including offenses under the laws of the District of Columbia,” after “offense or offenses”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 60541` | insert | in subparagraph (D)(i), by inserting “, including offenses under the laws of the District of Columbia,” after “offense or offenses”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | in the matter preceding subparagraph (A), by inserting after “case” the following: “, including, notwithstanding any other provision of law, any case involving an offense committed before November 1, 1987”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, on or after the date described in subsection (d)” after “upon motion of a defendant”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “after the defendant has fully exhausted all administrative rights to appeal a failure of the Bureau of Prisons to bring a motion on the defendant’s behalf or the lapse of 30 days from the receipt of such a request by the war… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 3621` | add-at-end | Section 12003 of the CARES Act (18 U.S.C. 3621 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
