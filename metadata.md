@@ -1,7 +1,7 @@
 ---
 measure: H.R. 256
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 256
@@ -16,7 +16,7 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution of
 
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 
-## Cosponsors (39)
+## Cosponsors (134)
 
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
@@ -57,6 +57,101 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution of
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
 ## Committees (1)
 
@@ -67,3 +162,8 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution of
 - 2021-01-11 — Introduced in House
 - 2021-01-11 — Introduced in House
 - 2021-01-11 — Referred to the House Committee on Foreign Affairs.
+- 2021-03-25 — Committee Consideration and Mark-up Session Held.
+- 2021-03-25 — Ordered to be Reported by the Yeas and Nays: 28 - 19.
+- 2021-06-08 — Placed on the Union Calendar, Calendar No. 39.
+- 2021-06-08 — Reported by the Committee on Foreign Affairs. H. Rept. 117-56.
+- 2021-06-08 — Reported by the Committee on Foreign Affairs. H. Rept. 117-56.
