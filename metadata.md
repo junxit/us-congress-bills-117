@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1188
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1188
@@ -25,3 +25,8 @@ Greater Accountability in Pay Act of 2021
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Referred to the House Committee on Financial Services.
+- 2021-05-12 — Committee Consideration and Mark-up Session Held.
+- 2021-05-12 — Ordered to be Reported by the Yeas and Nays: 29 - 23.
+- 2021-06-08 — Placed on the Union Calendar, Calendar No. 38.
+- 2021-06-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-55.
+- 2021-06-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-55.
