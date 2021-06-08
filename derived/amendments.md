@@ -1,7 +1,7 @@
 ---
 measure: S. 610
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 294n` | add-at-end | Subpart 1 of part E of title VII of the Public Health Service Act (42 U.S.C. 294n et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294n` | add-at-end | Subpart 1 of part E of title VII of the Public Health Service Act (42 U.S.C. 294n et seq.), as amended by section 2, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294n` | add-at-end | Subpart 1 of part E of title VII of the Public Health Service Act (42 U.S.C. 294n et seq.), as amended by section 4, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subpart I of part E of title VII of the Public Health Service Act (42 U.S.C.. 294n et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
