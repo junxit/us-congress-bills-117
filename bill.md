@@ -56,6 +56,6 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 ## § 4. Reports
 
 - **(a)** *Securities and Exchange Commission* The Securities and Exchange Commission shall—
-  - **(1)** conduct an annual assessment of the compliance of issuers with section 13(s) of the Securities Exchange Act of 1934, as added by this Act; and
+  - **(1)** conduct an annual assessment of the compliance of issuers with section 13(s) of the Securities Exchange Act of 1934, as added by section 3; and
   - **(2)** submit to Congress an annual report containing the results of the assessment under paragraph (1).
-- **(b)** *Government Accountability Office* The Comptroller General of the United States shall periodically evaluate and report to Congress on the effectiveness of the oversight by the Securities and Exchange Commission of the reporting and disclosure requirements under section 13(s) of the Securities Exchange Act of 1934, as added by this Act.
+- **(b)** *Government Accountability Office* The Comptroller General of the United States shall periodically evaluate and report to Congress on the effectiveness of the oversight by the Securities and Exchange Commission of the reporting and disclosure requirements under section 13(s) of the Securities Exchange Act of 1934, as added by section 3.
