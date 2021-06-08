@@ -1,7 +1,7 @@
 ---
 measure: S. 1260
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1260
@@ -16,7 +16,7 @@ United States Innovation and Competition Act of 2021
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (13)
+## Cosponsors (617)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
@@ -31,6 +31,610 @@ United States Innovation and Competition Act of 2021
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -46,3 +650,766 @@ United States Innovation and Competition Act of 2021
 - 2021-05-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2021-05-13 — Motion to proceed to consideration of measure made in Senate. (CR S2504)
 - 2021-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
+- 2021-05-17 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 86 - 11. Record Vote Number: 192. (CR S2541)
+- 2021-05-17 — Motion to proceed to measure considered in Senate. (CR S2535)
+- 2021-05-17 — Senate amendment submitted
+- 2021-05-17 — Senate amendment submitted
+- 2021-05-17 — Senate amendment submitted
+- 2021-05-18 — Amendment SA 1502 proposed by Senator Schumer. (consideration: CR S2568-2569; text: CR S2581-2734) In the nature of a substitute.
+- 2021-05-18 — Measure laid before Senate by motion. (consideration: CR S2568-2569)
+- 2021-05-18 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2021-05-18 — Motion to proceed to measure considered in Senate. (CR S2555)
+- 2021-05-18 — Senate amendment proposed (on the floor): Amendment SA 1502 proposed by Senator Schumer.
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — Senate amendment submitted
+- 2021-05-18 — The committee substitute withdrawn by Unanimous Consent.
+- 2021-05-19 — Amendment SA 1517 proposed by Senator Cantwell for Senator Tillis to Amendment SA 1502. (consideration: CR S2763-2764, S2768-2769; text: CR S2763-2764) To amend chapter 11 of title 35, United States Code, to require the voluntary collection of demographic information for patent inventors, and for other purposes.
+- 2021-05-19 — Amendment SA 1517, under the order of 5/19/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 71 - 27. Record Vote Number: 196.
+- 2021-05-19 — Amendment SA 1527 proposed by Senator Cantwell to Amendment SA 1502. (consideration: CR S2752; text: CR S2752) To improve the bill.
+- 2021-05-19 — Amendment SA 1547 proposed by Senator Cantwell for Senator Scott FL to Amendment SA 1502. (consideration: CR S2763-2764, S2769; text: CR S2764) To direct unobligated amounts made available under coronavirus relief legislation for purposes of carrying out this Act.
+- 2021-05-19 — Amendment SA 1547, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 197.
+- 2021-05-19 — Considered by Senate. (consideration: CR S2752)
+- 2021-05-19 — Considered by Senate. (consideration: CR S2752-2755, S2757-2758, S2763-2764, S2768-2769, S2773-2775)
+- 2021-05-19 — Roll call votes on amendments in Senate: Amendment SA 1517, under the order of 5/19/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 71 - 27. Record Vote Number: 196.
+- 2021-05-19 — Roll call votes on amendments in Senate: Amendment SA 1547, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 197.
+- 2021-05-19 — Senate amendment agreed to: Amendment SA 1517, under the order of 5/19/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 71 - 27. Record Vote Number: 196.
+- 2021-05-19 — Senate amendment not agreed to: Amendment SA 1547, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 197.
+- 2021-05-19 — Senate amendment proposed (on the floor): Amendment SA 1517 proposed by Senator Cantwell for Senator Tillis to Amendment SA 1502.
+- 2021-05-19 — Senate amendment proposed (on the floor): Amendment SA 1527 proposed by Senator Cantwell to Amendment SA 1502.
+- 2021-05-19 — Senate amendment proposed (on the floor): Amendment SA 1547 proposed by Senator Cantwell for Senator Scott FL to Amendment SA 1502.
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-19 — Senate amendment submitted
+- 2021-05-20 — Amendment SA 1518 proposed by Senator Johnson to Amendment SA 1502. (consideration: CR S3176, S3180-3182, S3182-3183; text: CR S3176) To prohibit the cancellation of contracts for physical barriers and other border security measures for which funds already have been obligated and for which penalties will be incurred in the case of such cancellation and prohibiting the use of funds for payment of such penalties.
+- 2021-05-20 — Amendment SA 1518, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 48. Record Vote Number: 199.
+- 2021-05-20 — Amendment SA 1523 proposed by Senator Inhofe to Amendment SA 1502. (consideration: CR S3175-3180; text: CR S3175-3176) To express the sense of the Senate and establish points of order to ensure the United States adequately funds national defense with a whole-of-government investment plan for strategic competition with the People's Republic of China.
+- 2021-05-20 — Amendment SA 1523, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 198.
+- 2021-05-20 — Considered by Senate. (consideration: CR S3175)
+- 2021-05-20 — Considered by Senate. (consideration: CR S3175)
+- 2021-05-20 — Considered by Senate. (consideration: CR S3175-3182, S3182-3186, S3187-3189)
+- 2021-05-20 — Roll call votes on amendments in Senate: Amendment SA 1518, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 48. Record Vote Number: 199.
+- 2021-05-20 — Roll call votes on amendments in Senate: Amendment SA 1523, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 198.
+- 2021-05-20 — Senate amendment not agreed to: Amendment SA 1518, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 48. Record Vote Number: 199.
+- 2021-05-20 — Senate amendment not agreed to: Amendment SA 1523, under the order of 5/19/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 198.
+- 2021-05-20 — Senate amendment proposed (on the floor): Amendment SA 1518 proposed by Senator Johnson to Amendment SA 1502.
+- 2021-05-20 — Senate amendment proposed (on the floor): Amendment SA 1523 proposed by Senator Inhofe to Amendment SA 1502.
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-20 — Senate amendment submitted
+- 2021-05-24 — Considered by Senate. (consideration: CR S3318)
+- 2021-05-24 — Considered by Senate. (consideration: CR S3318)
+- 2021-05-24 — Considered by Senate. (consideration: CR S3318-3326)
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-24 — Senate amendment submitted
+- 2021-05-25 — Amendment SA 1507 agreed to in Senate by Voice Vote.
+- 2021-05-25 — Amendment SA 1507 proposed by Senator Cantwell for Senator Ernst to Amendment SA 1502. (consideration: CR S3409; text: CR S3402) To prohibit any Federal funding for the Wuhan Institute of Virology.
+- 2021-05-25 — Amendment SA 1565 proposed by Senator Cantwell for Senator Crapo to Amendment SA 1502. (consideration: CR S3407-3408; text: CR S3402) To provide limitations on the authority of the President to modify trade agreements.
+- 2021-05-25 — Amendment SA 1565, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 205.
+- 2021-05-25 — Amendment SA 1787 agreed to in Senate by Voice Vote.
+- 2021-05-25 — Amendment SA 1787 proposed by Senator Cantwell for Senator Daines to Amendment SA 1502. (consideration: CR S3409; text: CR S3402-3403) To direct the President to enforce the intellectual property provisions of the Economic and Trade Agreement Between the Government of the United States of America and the Government of China.
+- 2021-05-25 — Amendment SA 1891 proposed by Senator Cantwell for Senator Lee to Amendment SA 1502. (consideration: CR S3409-3410; text: CR S3403) To impose limitations on research.
+- 2021-05-25 — Amendment SA 1891, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 206.
+- 2021-05-25 — Amendment SA 1975 proposed by Senator Cantwell for Senator Wyden to Amendment SA 1502. (consideration: CR S3407-3408; text: CR S3401-3402) To set forth trade policy, negotiating objectives, and congressional oversight requirements relating to the response to the COVID-19 pandemic.
+- 2021-05-25 — Amendment SA 1975, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 204.
+- 2021-05-25 — Amendment SA 2003 agreed to in Senate by Voice Vote.
+- 2021-05-25 — Amendment SA 2003 proposed by Senator Cantwell for Senator Paul to Amendment SA 1502. (consideration: CR S3408-3409; text: CR S3402) To prohibit the National Institutes of Health and any other Federal agency from funding gain-of-function research conducted in China.
+- 2021-05-25 — Cloture motion on amendment SA 1502 presented in Senate. (CR: S3416)
+- 2021-05-25 — Cloture motion on the bill presented in Senate. (CR S3416)
+- 2021-05-25 — Considered by Senate. (consideration: CR S3401)
+- 2021-05-25 — Considered by Senate. (consideration: CR S3401)
+- 2021-05-25 — Considered by Senate. (consideration: CR S3401-3410, S3413-3416)
+- 2021-05-25 — Roll call votes on amendments in Senate: Amendment SA 1565, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 205.
+- 2021-05-25 — Roll call votes on amendments in Senate: Amendment SA 1891, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 206.
+- 2021-05-25 — Roll call votes on amendments in Senate: Amendment SA 1975, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 204.
+- 2021-05-25 — Senate amendment agreed to: Amendment SA 1507 agreed to in Senate by Voice Vote.
+- 2021-05-25 — Senate amendment agreed to: Amendment SA 1787 agreed to in Senate by Voice Vote.
+- 2021-05-25 — Senate amendment agreed to: Amendment SA 2003 agreed to in Senate by Voice Vote.
+- 2021-05-25 — Senate amendment not agreed to: Amendment SA 1565, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 205.
+- 2021-05-25 — Senate amendment not agreed to: Amendment SA 1891, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 206.
+- 2021-05-25 — Senate amendment not agreed to: Amendment SA 1975, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 204.
+- 2021-05-25 — Senate amendment proposed (on the floor): Amendment SA 1507 proposed by Senator Cantwell for Senator Ernst to Amendment SA 1502.
+- 2021-05-25 — Senate amendment proposed (on the floor): Amendment SA 1565 proposed by Senator Cantwell for Senator Crapo to Amendment SA 1502.
+- 2021-05-25 — Senate amendment proposed (on the floor): Amendment SA 1787 proposed by Senator Cantwell for Senator Daines to Amendment SA 1502.
+- 2021-05-25 — Senate amendment proposed (on the floor): Amendment SA 1891 proposed by Senator Cantwell for Senator Lee to Amendment SA 1502.
+- 2021-05-25 — Senate amendment proposed (on the floor): Amendment SA 1975 proposed by Senator Cantwell for Senator Wyden to Amendment SA 1502.
+- 2021-05-25 — Senate amendment proposed (on the floor): Amendment SA 2003 proposed by Senator Cantwell for Senator Paul to Amendment SA 1502.
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-25 — Senate amendment submitted
+- 2021-05-26 — Amendment SA 1588 proposed by Senator Coons to Amendment SA 1502. (consideration: CR S3492-3493; text: CR S3121-3124) To establish the Foundation for Energy Security and Innovation.
+- 2021-05-26 — Amendment SA 1588, under the order of 5/25/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 210.
+- 2021-05-26 — Amendment SA 1710 proposed by Senator Schumer for Senator Kennedy to Amendment SA 1502. (consideration: CR S3470, S3479; text: CR S3470) To prohibit allocations of Special Drawing Rights at the International Monetary Fund for perpetrators of genocide and state sponsors of terrorism without congressional authorization.
+- 2021-05-26 — Amendment SA 1710, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 209.
+- 2021-05-26 — Amendment SA 1771 proposed by Senator Braun to Amendment SA 1502. (consideration: CR S3494-3495; text: CR S3494) To amend title 18, United States Code, to prohibit certain types of human-animal chimeras.
+- 2021-05-26 — Amendment SA 1771, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 212.
+- 2021-05-26 — Amendment SA 1911 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 207.
+- 2021-05-26 — Amendment SA 1911 proposed by Senator Schumer for Senator Sullivan to Amendment SA 1502. (consideration: CR S3470-3471, S3476-3477; text: CR S3471) To require institutions of higher education to submit attestations on freedom of speech.
+- 2021-05-26 — Amendment SA 1929 proposed by Senator Lee to Amendment SA 1502. (consideration: CR S3493-3494; text: CR S3343) To establish a task force for regulatory oversight and review.
+- 2021-05-26 — Amendment SA 1929, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 211.
+- 2021-05-26 — Amendment SA 1973 as modified agreed to in Senate by Voice Vote.
+- 2021-05-26 — Amendment SA 1973 proposed by Senator Marshall to Amendment SA 1502. (consideration: CR S3495; text as modified: CR S3495) To express the sense of the Senate regarding the need to conduct a comprehensive investigation to determine the origins of COVID-19, and for other purposes.
+- 2021-05-26 — Amendment SA 2014 proposed by Senator Schumer for Senator Durbin to Amendment SA 1502. (consideration: CR S3470, S3479; text: CR S3470) To express the sense of the Senate on the allocation of Special Drawing Rights by the International Monetary Fund to help other countries procure COVID-19 vaccines and protect against the economic instability caused by the COVID-19 pandemic.
+- 2021-05-26 — Amendment SA 2014, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 208.
+- 2021-05-26 — Amendment SA 2023 proposed by Senator Sasse to Amendment SA 1502. (consideration: CR S3495-3496; text: CR S3495) To authorize appropriations for the Defense Advanced Research Projects Agency to conduct research and development in key technology focus areas.
+- 2021-05-26 — Amendment SA 2023, under the order of 5/25/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 213.
+- 2021-05-26 — Considered by Senate. (consideration: CR S3470)
+- 2021-05-26 — Considered by Senate. (consideration: CR S3470-3471, S3476-3479, S3481-3484, S3486, S3492-3496)
+- 2021-05-26 — Considered by Senate. (consideration: CR S3470-3471, S3492-3496)
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 1588, under the order of 5/25/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 210.
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 1710, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 209.
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 1771, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 212.
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 1911 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 207.
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 1929, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 211.
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 2014, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 208.
+- 2021-05-26 — Roll call votes on amendments in Senate: Amendment SA 2023, under the order of 5/25/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 213.
+- 2021-05-26 — Senate amendment agreed to: Amendment SA 1588, under the order of 5/25/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 83 - 14. Record Vote Number: 210.
+- 2021-05-26 — Senate amendment agreed to: Amendment SA 1973 as modified agreed to in Senate by Voice Vote.
+- 2021-05-26 — Senate amendment agreed to: Amendment SA 2023, under the order of 5/25/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 213.
+- 2021-05-26 — Senate amendment not agreed to: Amendment SA 1710, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 209.
+- 2021-05-26 — Senate amendment not agreed to: Amendment SA 1771, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 212.
+- 2021-05-26 — Senate amendment not agreed to: Amendment SA 1911 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 207.
+- 2021-05-26 — Senate amendment not agreed to: Amendment SA 1929, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 211.
+- 2021-05-26 — Senate amendment not agreed to: Amendment SA 2014, under the order of 5/25/21, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 208.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 1588 proposed by Senator Coons to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 1710 proposed by Senator Schumer for Senator Kennedy to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 1771 proposed by Senator Braun to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 1911 proposed by Senator Schumer for Senator Sullivan to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 1929 proposed by Senator Lee to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 1973 proposed by Senator Marshall to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 2014 proposed by Senator Schumer for Senator Durbin to Amendment SA 1502.
+- 2021-05-26 — Senate amendment proposed (on the floor): Amendment SA 2023 proposed by Senator Sasse to Amendment SA 1502.
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-26 — Senate amendment submitted
+- 2021-05-27 — Amendment SA 1562 as modified, under the order of 5/27/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 4. Record Vote Number: 216.
+- 2021-05-27 — Amendment SA 1562 proposed by Senator Crapo to Amendment SA 1502. (consideration: CR S3549, S3552-3838, S3839; text as modified: CR S3552-3836) To ensure trade is conducted consistent with American values, to ensure resiliency in critical supply chains, to improve transparency and administration of trade programs and oversight and accountability of trade agencies, and to promote American competitiveness.
+- 2021-05-27 — Amendment SA 1802 proposed by Senator Rubio to Amendment SA 1527. (consideration: CR S3551, S3838-3839; text: CR S3551-3552) To protect the United States against efforts of China and other foreign entities to engage in economic espionage and to misappropriate United States intellectual property, research and development, and innovation efforts.
+- 2021-05-27 — Amendment SA 1858 proposed by Senator Cornyn to Amendment SA 1502. (consideration: CR S3864; text: CR S3864) To modify the semiconductor incentives program of the Department of Commerce.
+- 2021-05-27 — Cloture on amendment SA 1502 invoked in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 214.
+- 2021-05-27 — Considered by Senate. (consideration: CR S3549)
+- 2021-05-27 — Considered by Senate. (consideration: CR S3549)
+- 2021-05-27 — Considered by Senate. (consideration: CR S3549-3851, S3851-3876)
+- 2021-05-27 — Motion to table amendment SA 1802 agreed to in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 215.
+- 2021-05-27 — Proposed amendment SA 1527 withdrawn in Senate. (consideration: CR S3864)
+- 2021-05-27 — Roll call votes on amendments in Senate: Amendment SA 1562 as modified, under the order of 5/27/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 4. Record Vote Number: 216.
+- 2021-05-27 — Roll call votes on amendments in Senate: Cloture on amendment SA 1502 invoked in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 214.
+- 2021-05-27 — Roll call votes on amendments in Senate: Motion to table amendment SA 1802 agreed to in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 215.
+- 2021-05-27 — Senate amendment agreed to: Amendment SA 1562 as modified, under the order of 5/27/21, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 4. Record Vote Number: 216.
+- 2021-05-27 — Senate amendment proposed (on the floor): Amendment SA 1562 proposed by Senator Crapo to Amendment SA 1502.
+- 2021-05-27 — Senate amendment proposed (on the floor): Amendment SA 1802 proposed by Senator Rubio to Amendment SA 1527.
+- 2021-05-27 — Senate amendment proposed (on the floor): Amendment SA 1858 proposed by Senator Cornyn to Amendment SA 1502.
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-27 — Senate amendment submitted
+- 2021-05-28 — Considered by Senate. (consideration: CR S3915)
+- 2021-05-28 — Considered by Senate. (consideration: CR S3915)
+- 2021-05-28 — Considered by Senate. (consideration: CR S3915-3926)
+- 2021-06-07 — Senate amendment submitted
+- 2021-06-07 — Senate amendment submitted
+- 2021-06-07 — Senate amendment submitted
+- 2021-06-08 — Amendment SA 1502 agreed to in Senate by Yea-Nay Vote. 68 - 32. Record Vote Number: 225.
+- 2021-06-08 — Amendment SA 1858 not agreed to in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 223.
+- 2021-06-08 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (CR S3977)
+- 2021-06-08 — Considered by Senate. (consideration: CR S3975-3980)
+- 2021-06-08 — Considered by Senate. (consideration: CR S3976)
+- 2021-06-08 — Considered by Senate. (consideration: CR S3976)
+- 2021-06-08 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1502 agreed to in Senate by Yea-Nay Vote. 72 - 28. Record Vote Number: 224.
+- 2021-06-08 — Passed Senate, under the order of 5/28/21, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 68 - 32. Record Vote Number: 226. (text: CR S4049-4499)
+- 2021-06-08 — Passed/agreed to in Senate: Passed Senate, under the order of 5/28/21, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 68 - 32. Record Vote Number: 226.(text: CR S4049-4499)
+- 2021-06-08 — Point of order that the amendment violates section 4106 of H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 1502.
+- 2021-06-08 — Roll call votes on amendments in Senate: Amendment SA 1502 agreed to in Senate by Yea-Nay Vote. 68 - 32. Record Vote Number: 225.
+- 2021-06-08 — Roll call votes on amendments in Senate: Amendment SA 1858 not agreed to in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 223.
+- 2021-06-08 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1502 agreed to in Senate by Yea-Nay Vote. 72 - 28. Record Vote Number: 224.
+- 2021-06-08 — Senate amendment agreed to: Amendment SA 1502 agreed to in Senate by Yea-Nay Vote. 68 - 32. Record Vote Number: 225.
+- 2021-06-08 — Senate amendment not agreed to: Amendment SA 1858 not agreed to in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 223.
+- 2021-06-08 — Senate amendment submitted
+- 2021-06-08 — Senate amendment submitted
