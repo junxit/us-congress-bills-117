@@ -1,7 +1,7 @@
 ---
 measure: S. 1605
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1605
@@ -29,3 +29,7 @@ National Defense Authorization Act for Fiscal Year 2022
 
 - 2021-05-13 — Introduced in Senate
 - 2021-05-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-09 — Passed Senate without amendment by Unanimous Consent. (text: CR S4013)
+- 2021-06-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4013)
+- 2021-06-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S4013)
+- 2021-06-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S4013)
