@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 254
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 254
@@ -20,7 +20,15 @@ A resolution expressing support for the designation of May 2021 as "Mental Healt
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
+
 ## Actions
 
 - 2021-05-27 — Introduced in Senate
 - 2021-05-27 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-06-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 5/27/2021 CR S3905-3906)
+- 2021-06-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 5/27/2021 CR S3905-3906)
+- 2021-06-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S4501)
+- 2021-06-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S4501)
