@@ -17,7 +17,9 @@ This Act may be cited as the “Protecting America’s First Responders Act of 2
 
 Section 1201 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281) is amended—
 
-- **(1)** in subsection (a), by striking “the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h)” and inserting “a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau”;
+- **(1)** in subsection (a), in the matter preceding paragraph (1)—
+  - **(A)** by striking “the Bureau shall pay”; and
+  - **(B)** by inserting “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “subsection (h)”.
 - **(2)** in subsection (b)—
   - **(A)** by striking “the Bureau shall pay the same benefit” and inserting “a benefit shall be payable”;
   - **(B)** by striking “that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred,” and inserting “in the same amount that would be payable, as of the date such injury was sustained (including”;
