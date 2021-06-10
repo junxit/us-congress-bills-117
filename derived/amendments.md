@@ -1,7 +1,7 @@
 ---
 measure: S. 1511
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 12 executed, 16 stated and not applied.
+29 amendatory instructions. 11 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 34 U.S.C. § 10281
-
-> in subsection (a), by striking “the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h)” and inserting “a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau”;
-
-| | |
-|---|---|
-| Removed | `the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h)` |
-| Inserted | `a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau` |
 
 ### 34 U.S.C. § 10281
 
@@ -141,6 +132,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `34 U.S.C. § 10281` | strike | by striking “the Bureau shall pay”; and | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 10281` | insert | by inserting “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “subsection (h)”. | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10281` | insert | by inserting “, and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a)” before “: Provided, That”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10281` | replace | by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10281` | insert | in subsection (m), by inserting “, (b),” after “subsection (a)”. | the bill quotes the text inserted but describes where it goes |
