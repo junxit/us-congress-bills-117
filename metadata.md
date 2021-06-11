@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2694
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2694
@@ -32,3 +32,8 @@ Criminal Judicial Administration Act of 2021
 - 2021-04-20 — Introduced in House
 - 2021-04-20 — Introduced in House
 - 2021-04-20 — Referred to the House Committee on the Judiciary.
+- 2021-05-18 — Committee Consideration and Mark-up Session Held.
+- 2021-05-18 — Ordered to be Reported.
+- 2021-06-11 — Placed on the Union Calendar, Calendar No. 41.
+- 2021-06-11 — Reported by the Committee on Judiciary. H. Rept. 117-58.
+- 2021-06-11 — Reported by the Committee on Judiciary. H. Rept. 117-58.
