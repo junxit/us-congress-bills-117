@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 252
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 252
@@ -16,7 +16,7 @@ A resolution unequivocally condemning the recent rise in antisemitic violence an
 
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
-## Cosponsors (61)
+## Cosponsors (73)
 
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -79,8 +79,28 @@ A resolution unequivocally condemning the recent rise in antisemitic violence an
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+
+## Committees (1)
+
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2021-05-27 — Introduced in Senate
 - 2021-05-27 — Referred to the Committee on the Judiciary.
+- 2021-06-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 05/27/2021 S3904-3905)
+- 2021-06-14 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 05/27/2021 S3904-3905)
+- 2021-06-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4513-4514)
+- 2021-06-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4513-4514)
