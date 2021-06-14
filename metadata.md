@@ -1,7 +1,7 @@
 ---
 measure: S. 1251
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1251
@@ -16,7 +16,7 @@ Growing Climate Solutions Act of 2021
 
 - Sen. Braun, Mike [R-IN] (B001310)
 
-## Cosponsors (37)
+## Cosponsors (51)
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Graham, Lindsey [R-SC] (G000359)
@@ -55,6 +55,20 @@ Growing Climate Solutions Act of 2021
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
 
 ## Committees (1)
 
@@ -64,3 +78,7 @@ Growing Climate Solutions Act of 2021
 
 - 2021-04-20 — Introduced in Senate
 - 2021-04-20 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2021-04-22 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2021-06-14 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
+- 2021-06-14 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
+- 2021-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
