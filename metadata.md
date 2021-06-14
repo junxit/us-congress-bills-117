@@ -1,7 +1,7 @@
 ---
 measure: S. 1301
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1301
@@ -29,3 +29,7 @@ Promoting Physical Activity for Americans Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-05-25 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2021-06-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray without amendment. Without written report.
+- 2021-06-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray without amendment. Without written report.
+- 2021-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
