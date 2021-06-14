@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 467
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 467
@@ -27,3 +27,5 @@ Providing for budget allocations for the Committee on Appropriations, and for ot
 - 2021-06-11 — Introduced in House
 - 2021-06-11 — Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-06-11 — Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-06-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 473, H. Res. 467 is considered passed House.(consideration: CR H2724-2725; text: CR H2724-2725)
+- 2021-06-14 — Pursuant to the provisions of H. Res. 473, H. Res. 467 is considered passed House. (consideration: CR H2724-2725; text: CR H2724-2725)
