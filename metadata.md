@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3325
@@ -29,3 +29,11 @@ To award four congressional gold medals to the United States Capitol Police and 
 - 2021-05-19 — Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-05-19 — Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-05-19 — Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered as unfinished business. (consideration: CR H2800)
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2789-2792)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3325.
+- 2021-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-15 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2021-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 161). (text: CR H2789)
+- 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 161).(text: CR H2789)
