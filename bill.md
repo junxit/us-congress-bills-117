@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3905
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3905
+
+> To amend title II of the Social Security Act to waive the 2-year duration of divorce requirement, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Social Security Parity Act”.
+
+## § 2. Waive 2-year duration of divorce requirement
+
+- **(a)** *Wife’s insurance benefits* Section 202(b)(4)(A) of the Social Security Act (42 U.S.C. 402(b)(4)(A)) is amended by adding at the end the following new sentence: “The criterion for entitlement under clause (ii) shall be deemed met upon the remarriage of the insured individual to someone other than the applicant during the 2-year period referred to in such clause.”.
+- **(b)** *Husband’s insurance benefits* Section 202(c)(4)(A) of such Act (42 U.S.C. 402(c)(4)(A)) is amended by adding at the end the following new sentence: “The criterion for entitlement under clause (ii) shall be deemed met upon the remarriage of the insured individual to someone other than the applicant during the 2-year period referred to in such clause.”.
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to benefits payable for months after December 2022 and for which applications are filed after December 2022.
