@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3642
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3642
@@ -16,7 +16,7 @@ Harlem Hellfighters Congressional Gold Medal Act
 
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Cosponsors (298)
+## Cosponsors (311)
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Espaillat, Adriano [D-NY-13] (E000297)
@@ -316,6 +316,19 @@ Harlem Hellfighters Congressional Gold Medal Act
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Casten, Sean [D-IL-6] (C001117)
 
 ## Committees (2)
 
@@ -328,3 +341,10 @@ Harlem Hellfighters Congressional Gold Medal Act
 - 2021-05-28 — Introduced in House
 - 2021-05-28 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-05-28 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2782-2785; text: CR H2782)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3642.
+- 2021-06-15 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2797-2798)
+- 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2797-2798)
+- 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 3642 are considered vacated.

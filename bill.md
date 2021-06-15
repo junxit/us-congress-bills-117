@@ -43,16 +43,22 @@ Congress finds the following:
 
 ## § 3. Congressional gold medal
 
-- **(a)** *Award authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of a single gold medal of appropriate design to the 369th Infantry Regiment, commonly known as the “Harlem Hellfighters”, in recognition of their bravery and outstanding service during World War I.
+- **(a)** *Award authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of a gold medal of appropriate design to the 369th Infantry Regiment, commonly known as the “Harlem Hellfighters”, in recognition of their bravery and outstanding service during World War I.
 - **(b)** *Design and striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury shall strike the gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
 - **(c)** *Smithsonian Institution*
-  - **(1)** *In general* Following the award of the gold medal under subsection (a), the gold medal shall be given to the Smithsonian Institution, where it will be displayed as appropriate and made available for research.
-  - **(2)** *Sense of Congress* It is the sense of Congress that the Smithsonian Institution should make the gold medal received under this Act available for display elsewhere, particularly at other locations and events associated with the Harlem Hellfighters.
+  - **(1)** *In general* Following the award of the gold medal in honor of the 369th Infantry Regiment, the “Harlem Hellfighters”, the gold medal shall be given to the Smithsonian Institution, where it will be displayed as appropriate and made available for research.
+  - **(2)** *Sense of Congress* It is the sense of Congress that the Smithsonian Institution should make the gold medal awarded pursuant to this Act available for display elsewhere, particularly at other locations associated with the Harlem Hellfighters.
 
 ## § 4. Duplicate medals
 
-Under such regulations as the Secretary of the Treasury may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3(b), at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+- **(a)** *In general* The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs of the bronze medals, including labor, materials, dies, use of machinery, and overhead expenses.
+- **(b)** *Proceeds of sales* The amounts received from the sale of duplicate medals under subsection (a) shall be deposited in the United States Mint Public Enterprise Fund.
+- **(c)** *Authority to use fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the costs of the medals struck under this Act.
 
 ## § 5. Status of medals
 
-Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+The gold medal struck pursuant to this Act is a national medal for purposes of chapter 51 of title 31, United States Code.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
