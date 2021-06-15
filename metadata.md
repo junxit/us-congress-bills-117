@@ -1,7 +1,7 @@
 ---
 measure: H.R. 610
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 610
@@ -49,3 +49,10 @@ San Francisco Bay Restoration Act
 - 2021-06-04 — Placed on the Union Calendar, Calendar No. 34.
 - 2021-06-04 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-51, Part I.
 - 2021-06-04 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-51, Part I.
+- 2021-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2756-2758; text: CR H2756)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 610.
+- 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2793-2794)
+- 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2793-2794)
+- 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 610 are considered vacated.
