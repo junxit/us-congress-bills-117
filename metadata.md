@@ -1,7 +1,7 @@
 ---
 measure: S. 475
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 475
@@ -16,7 +16,7 @@ Juneteenth National Independence Day Act
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 
-## Cosponsors (54)
+## Cosponsors (60)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Smith, Tina [D-MN] (S001203)
@@ -72,6 +72,12 @@ Juneteenth National Independence Day Act
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -81,3 +87,7 @@ Juneteenth National Independence Day Act
 
 - 2021-02-25 — Introduced in Senate
 - 2021-02-25 — Read twice and referred to the Committee on the Judiciary.
+- 2021-06-15 — Passed Senate without amendment by Unanimous Consent. (text: CR S4538-4539)
+- 2021-06-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4538-4539)
+- 2021-06-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4538-4539)
+- 2021-06-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4538-4539)
