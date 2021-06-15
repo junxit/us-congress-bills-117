@@ -25,7 +25,7 @@ This Act may be cited as the “National Children’s Museum Act”.
   >
   > - **(a)** *In general* Not later than 30 days after the date of enactment of this section, the Administrator of General Services shall enter into a cooperative agreement with the National Children’s Museum for the operation of the National Children’s Museum in the approximately 32,369 square feet of space commonly known as suite C–001 (hereinafter referred to as the “Space”) of the Ronald Reagan Building and International Trade Center for the duration of the retail space license agreement between Trade Center Management Associates, LLC, or a successor entity, and the Museum, dated December 4, 2017, including any exercised renewal options.
   > - **(b)** *Contents* The cooperative agreement under subsection (a) shall include provisions that—
-  >   - **(1)** require, for the period in which the General Services Administration owns or controls the Space, the General Services Administration to provide rent for the Space; and
+  >   - **(1)** require, for the period in which the General Services Administration owns or controls the Space, the General Services Administration to provide rent for the Space;
   >   - **(2)** terminate such agreement if—
   >     - **(A)** the Museum does not continue to qualify as a nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986; and
   >     - **(B)** the Museum no longer uses the Space as a children’s museum; and
@@ -36,3 +36,7 @@ This Act may be cited as the “National Children’s Museum Act”.
   > - **(d)** *Report* The cooperative agreement under subsection (a) shall require the National Children’s Museum to submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate an annual report on the operations and finances of the Museum.
 
 - **(c)** *Clerical amendment* The analysis for chapter 67 of title 40, United States Code, is amended by adding at the end the following:
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
