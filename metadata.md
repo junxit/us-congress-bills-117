@@ -1,7 +1,7 @@
 ---
 measure: H.R. 539
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 539
@@ -48,3 +48,9 @@ Preventing Disaster Revictimization Act
 - 2021-06-14 — Placed on the Union Calendar, Calendar No. 43.
 - 2021-06-14 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-61, Part I.
 - 2021-06-14 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-61, Part I.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2767-2768)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 539.
+- 2021-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2767)
+- 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2767)
