@@ -18,7 +18,7 @@ The Congress finds the following:
 - **(3)** The sacrifice of heroes including Capitol Police Officers Brian Sicknick and Howard Liebengood, Metropolitan Police Department Officer Jeffrey Smith, and those who sustained injuries, and the courage of Capitol Police Officer Eugene Goodman, exemplify the patriotism and the commitment of Capitol Police officers, and those of other law enforcement agencies, to risk their lives in service of our country.
 - **(4)** Up to seven Americans died following this violent attack, and more than 140 law enforcement officers suffered physical injuries, including 15 officers who were hospitalized.
 - **(5)** The desecration of the U.S. Capitol, which is the temple of our American Democracy, and the violence targeting Congress are horrors that will forever stain our Nation’s history.
-- **(6)** On April 2, 2021, Officer William “Billy” Evans was killed while protecting the North Barricade of the Capitol. Officer Evans was a distinguished member of the First Responders Unit and an eighteen-year veteran of the United States Capitol Police. Also injured in that assault was Officer Kenneth Shaver. Officer Shaver is a fifteen-year veteran of the United States Capitol Police.
+- **(6)** On April 2, 2021 Officer William “Billy” Evans was killed while protecting the North Barricade of the Capitol. Officer Evans was a distinguished member of the First Responders Unit and an eighteen-year veteran of the United States Capitol Police. Also injured in that assault was Officer Kenneth Shaver. Officer Shaver is a fifteen-year veteran of the United States Capitol Police.
 
 ## § 2. Congressional Gold Medals
 
@@ -29,11 +29,11 @@ The Congress finds the following:
   - **(2)** *DC Metropolitan Police Department Headquarters* One gold medal shall be given to the Metropolitan Police Department of the District of Columbia, so that the medal may be displayed at the headquarters of the Metropolitan Police Department and made available for research, as appropriate.
   - **(3)** *Smithsonian Institution*
     - **(A)** *In general* One gold medal shall be given to the Smithsonian Institution, where it shall be available for display as appropriate and available for research.
-    - **(B)** *Plaque* In displaying the gold medal given under subparagraph (A), the Smithsonian Institution shall display the medal with a plaque that lists the other law enforcement agencies that participated in protecting the U.S. Capitol on January 6, 2021.
+    - **(B)** *Plaque* In displaying the gold medal given under subparagraph (A), the Smithsonian Institution shall display the medal with a plaque that lists all of the law enforcement agencies that participated in protecting the U.S. Capitol on January 6, 2021.
     - **(C)** *Sense of the Congress* It is the sense of the Congress that the Smithsonian Institution should make the gold medal given under subparagraph (A) available for display elsewhere, particularly at appropriate locations associated with the protection of the U.S. Capitol on January 6, 2021.
   - **(4)** *United States Capitol*
     - **(A)** *In general* One gold medal shall be given to the Architect of the Capitol, for display in a prominent location in the United States Capitol as appropriate and available for research.
-    - **(B)** *Plaque* In displaying the gold medal given under subparagraph (A), the Architect of the Capitol shall display the medal with a plaque that lists the other law enforcement agencies that participated in protecting the United States Capitol on January 6, 2021.
+    - **(B)** *Plaque* In displaying the gold medal given under subparagraph (A), the Architect of the Capitol shall display the medal with a plaque that lists all of the law enforcement agencies that participated in protecting the United States Capitol on January 6, 2021.
 
 ## § 3. Duplicate medals
 
