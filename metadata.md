@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1703
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1703
@@ -52,3 +52,10 @@ National Children's Museum Act
 - 2021-05-12 — Placed on the Union Calendar, Calendar No. 17.
 - 2021-05-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-32.
 - 2021-05-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-32.
+- 2021-06-15 — At the conclusion of debate, a recorded vote was demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2758-2759; text: CR H2758)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1703.
+- 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2796-2797)
+- 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2796-2797)
+- 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 1703 are considered vacated.
