@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1257
 
-> To direct the Secretary of Veterans Affairs to conduct a study on the effect of financial and credit counseling for homeless veterans and veterans experiencing housing instability.
+> To direct the Secretary of Veterans Affairs to conduct a study on the effect of financial and credit counseling for homeless veterans and veterans experiencing housing instability, and for other purposes.
 
 ## § 1. Short title
 
@@ -65,5 +65,17 @@ This Act may be cited as the “Homeless Veterans Credit Repair, Enhancement, an
     - **(A)** the findings of the head of each element of the Department specified under subsection (g)(2); and
     - **(B)** recommendations for such administrative and legislative action as the Secretary considers appropriate.
 - **(i)** *Definition* In this section:
-  - **(1)** The term “homeless veterans and veterans experiencing housing instability” means veterans who are homeless (as that term is defined in subsection (a) or (b) of section 103 of the McKinney–Vento Homeless Assistance Act (42 U.S.C. 11302)).
+  - **(1)** The term homeless veterans and veterans experiencing housing instability means veterans who are homeless (as that term is defined in subsection (a) or (b) of section 103 of the McKinney–Vento Homeless Assistance Act (42 U.S.C. 11302)).
   - **(2)** The term Supportive Services for Veterans Families program means the program established pursuant to section 2044 of title 38, United States Code.
+
+## § 3. Technical corrections
+
+- **(a)** *Title 38, United States Code* Title 38, United States Code, is amended as follows:
+  - **(1)** In section 1786(d), as added by section 3006 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315), by striking paragraph (3).
+  - **(2)** In section 3673(f), as added by section 1023 of such Act, by striking paragraph (3).
+- **(b)** *Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020* The Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315) is amended as follows:
+  - **(1)** In section 3010—
+    - **(A)** in subsection (a), by striking “The Secretary” and inserting “Subject to the availability of appropriations for such purpose, the Secretary”; and
+    - **(B)** by striking subsection (h).
+  - **(2)** In section 4201(a), by adding at the end the following new paragraph:
+    > - **(3)** *Use of authority* The Secretary shall ensure that paragraph (1) is carried out in accordance with established procedures for reprogrammings or transfers, including with respect to presenting a request for a reprogramming of funds.
