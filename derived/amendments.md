@@ -1,7 +1,7 @@
 ---
 measure: H.R. 290
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -37,4 +37,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of section 3685 of this title” before the period at the end; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding clause (i), by striking “Subparagraph (A) shall not apply” and inserting “Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 368… | the bill names no machine-readable US Code section |
 | — | insert | in clause (ii), by inserting “of this title” after “section 3311(c)(4)”. | the bill names no machine-readable US Code section |
-| — | amend | Effective October 1, 2026, such subsection (i) is amended to read as it read on the day before the date of the enactment of this Act. | the bill names no machine-readable US Code section |
+| — | amend | Effective October 1, 2024, such subsection (i) is amended to read as it read on the day before the date of the enactment of this Act. | the bill names no machine-readable US Code section |

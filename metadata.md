@@ -1,7 +1,7 @@
 ---
 measure: H.R. 290
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 290
@@ -25,3 +25,13 @@ To amend title 38, United States Code, to render an individual, who transfers ce
 - 2021-01-13 — Introduced in House
 - 2021-01-13 — Introduced in House
 - 2021-01-13 — Referred to the House Committee on Veterans' Affairs.
+- 2021-03-08 — Referred to the Subcommittee on Economic Opportunity.
+- 2021-05-04 — Committee Consideration and Mark-up Session Held.
+- 2021-05-04 — Ordered to be Reported by the Yeas and Nays: 22 - 6.
+- 2021-05-04 — Subcommittee on Economic Opportunity Discharged.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2781-2782)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 290.
+- 2021-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-15 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2021-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2781)
+- 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2781)
