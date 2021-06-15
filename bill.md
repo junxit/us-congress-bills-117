@@ -58,7 +58,7 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2022 through 2026.
 >   - **(2)** *Administrative expenses* Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
 >   - **(3)** *Prohibition* No amounts made available under this section may be used for the administration of a management conference under section 320.
-> - **(g)** *Annual budget plan* In each of fiscal years 2022 through 2026, the President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
+> - **(g)** *Annual budget plan* For each of the budgets for fiscal years 2023 through 2026, the President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
 >   - **(1)** a report that displays for each Federal agency—
 >     - **(A)** the amounts obligated in the preceding fiscal year for protection and restoration projects, activities, and studies relating to the San Francisco Bay; and
 >     - **(B)** the proposed budget for protection and restoration projects, activities, and studies relating to the San Francisco Bay; and
