@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2016
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2016
@@ -36,3 +36,9 @@ Federal Disaster Assistance Coordination Act
 - 2021-05-28 — Placed on the Union Calendar, Calendar No. 29.
 - 2021-05-28 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-46.
 - 2021-05-28 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-46.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2769-2771)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2016.
+- 2021-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2769)
+- 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2769)
