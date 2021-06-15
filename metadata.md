@@ -1,7 +1,7 @@
 ---
 measure: S. 475
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 475
@@ -91,3 +91,21 @@ Juneteenth National Independence Day Act
 - 2021-06-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4538-4539)
 - 2021-06-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4538-4539)
 - 2021-06-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4538-4539)
+- 2021-06-16 — Considered under the provisions of rule H. Res. 479. (consideration: CR H2863-2872)
+- 2021-06-16 — DEBATE - The House proceeded with one hour of debate on S. 475.
+- 2021-06-16 — Held at the desk.
+- 2021-06-16 — Message on Senate action sent to the House.
+- 2021-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-16 — On passage Passed by the Yeas and Nays: 415 - 14 (Roll no. 170). (text: CR H2864)
+- 2021-06-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 415 - 14 (Roll no. 170).(text: CR H2864)
+- 2021-06-16 — Received in the House.
+- 2021-06-16 — Rule H. Res. 479 passed House.
+- 2021-06-16 — Rule provides for consideration of S. 475 with 1 hour of general debate. The resolution provides for one motion to commit.
+- 2021-06-16 — Rules Committee Resolution H. Res. 479 Reported to House. Rule provides for consideration of S. 475 with 1 hour of general debate. The resolution provides for one motion to commit.
+- 2021-06-16 — The previous question was ordered pursuant to the rule.
+- 2021-06-17 — Became Public Law No: 117-17.
+- 2021-06-17 — Became Public Law No: 117-17.
+- 2021-06-17 — Presented to President.
+- 2021-06-17 — Presented to President.
+- 2021-06-17 — Signed by President.
+- 2021-06-17 — Signed by President.
