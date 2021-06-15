@@ -21,4 +21,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** in subparagraph (B) of paragraph (2)—
     - **(A)** in the matter preceding clause (i), by striking “Subparagraph (A) shall not apply” and inserting “Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 3685 of this title”; and
     - **(B)** in clause (ii), by inserting “of this title” after “section 3311(c)(4)”.
-- **(b)** *Reversion* Effective October 1, 2026, such subsection (i) is amended to read as it read on the day before the date of the enactment of this Act.
+- **(b)** *Reversion* Effective October 1, 2024, such subsection (i) is amended to read as it read on the day before the date of the enactment of this Act.
+
+## § 2. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
