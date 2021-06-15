@@ -1,7 +1,7 @@
 ---
 measure: H.R. 293
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 293
@@ -25,3 +25,14 @@ VA Hospitals Establishing Leadership Performance Act
 - 2021-01-13 — Introduced in House
 - 2021-01-13 — Introduced in House
 - 2021-01-13 — Referred to the House Committee on Veterans' Affairs.
+- 2021-02-24 — Referred to the Subcommittee on Oversight and Investigations.
+- 2021-05-04 — Committee Consideration and Mark-up Session Held.
+- 2021-05-04 — Ordered to be Reported by the Yeas and Nays: 22 - 6.
+- 2021-05-04 — Subcommittee on Oversight and Investigations Discharged.
+- 2021-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2780-2781; text: CR H2780)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 293.
+- 2021-06-15 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2792)
+- 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2792)
+- 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 293 are considered vacated.
