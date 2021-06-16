@@ -1,7 +1,7 @@
 ---
 measure: H.R. 587
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 587
@@ -23,9 +23,10 @@ Ocean Pollution Reduction Act II
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Jacobs, Sara [D-CA-53] (J000305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Ocean Pollution Reduction Act II
 - 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2792-2793)
 - 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2792-2793)
 - 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 587 are considered vacated.
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
