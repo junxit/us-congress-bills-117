@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 248
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 248
@@ -28,3 +28,7 @@ A resolution recognizing and celebrating the 225th anniversary of the entry of t
 
 - 2021-05-27 — Introduced in Senate
 - 2021-05-27 — Referred to the Committee on the Judiciary.
+- 2021-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 05/27/2021 S3902-3903)
+- 2021-06-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 05/27/2021 S3902-3903)
+- 2021-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4597)
+- 2021-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4597)
