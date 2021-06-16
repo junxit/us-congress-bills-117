@@ -1,7 +1,7 @@
 ---
 measure: H.R. 468
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 468
@@ -43,3 +43,12 @@ Expedited Delivery of Airport Infrastructure Act of 2021
 - 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2768)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2768)
 - 2021-06-16 — Received in the Senate, read twice.
+- 2022-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5112)
+- 2022-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-28 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-186.
+- 2022-10-10 — Became Public Law No: 117-186.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
