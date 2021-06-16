@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3325
@@ -39,3 +39,14 @@ To award four congressional gold medals to the United States Capitol Police and 
 - 2021-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 161). (text: CR H2789)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 161).(text: CR H2789)
 - 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2021-08-03 — Message on Senate action sent to the House.
+- 2021-08-03 — Passed Senate without amendment by Unanimous Consent.
+- 2021-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5685-5687)
+- 2021-08-03 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5685-5687)
+- 2021-08-04 — Presented to President.
+- 2021-08-04 — Presented to President.
+- 2021-08-05 — Became Public Law No: 117-32.
+- 2021-08-05 — Became Public Law No: 117-32.
+- 2021-08-05 — Signed by President.
+- 2021-08-05 — Signed by President.
