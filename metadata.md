@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1262
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1262
@@ -20,9 +20,10 @@ Notice to Airmen Improvement Act of 2021
 
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Notice to Airmen Improvement Act of 2021
 - 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2021-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2771)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2771)
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
