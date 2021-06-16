@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3642
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3642
@@ -350,3 +350,14 @@ Harlem Hellfighters Congressional Gold Medal Act
 - 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2797-2798)
 - 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 3642 are considered vacated.
 - 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2021-08-09 — Passed Senate without amendment by Unanimous Consent.
+- 2021-08-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-08-09 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6104)
+- 2021-08-09 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6104)
+- 2021-08-10 — Message on Senate action sent to the House.
+- 2021-08-24 — Presented to President.
+- 2021-08-24 — Presented to President.
+- 2021-08-25 — Became Public Law No: 117-38.
+- 2021-08-25 — Became Public Law No: 117-38.
+- 2021-08-25 — Signed by President.
+- 2021-08-25 — Signed by President.
