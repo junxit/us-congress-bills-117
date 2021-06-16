@@ -1,7 +1,7 @@
 ---
 measure: H.R. 539
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 539
@@ -28,10 +28,11 @@ Preventing Disaster Revictimization Act
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Preventing Disaster Revictimization Act
 - 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2767)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2767)
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
