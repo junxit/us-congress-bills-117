@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2545
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2545
@@ -22,9 +22,10 @@ To amend title 38, United States Code, to clarify the role of doctors of podiatr
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend title 38, United States Code, to clarify the role of doctors of podiatr
 - 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2797)
 - 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2797)
 - 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 2545 are considered vacated.
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
