@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3642
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3642
@@ -330,10 +330,11 @@ Harlem Hellfighters Congressional Gold Medal Act
 - Rep. Budd, Ted [R-NC-13] (B001305)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -348,3 +349,4 @@ Harlem Hellfighters Congressional Gold Medal Act
 - 2021-06-15 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended.(consideration: CR H2792-2799; text: CR H2797-2798)
 - 2021-06-15 — Pursuant to section 8 of H. Res. 473, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 293; H.R. 587; H.R. 610, as amended; H.R. 1144, as amended; H.R. 1703, as amended; H.R. 1921; H.R. 2008; H.R. 2332, as amended; H.R. 2545; and H.R. 3642, as amended. (consideration: CR H2792-2799; text: CR H2797-2798)
 - 2021-06-15 — Pursuant to the provisions of H. Res. 473, proceedings on H.R. 3642 are considered vacated.
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
