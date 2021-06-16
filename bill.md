@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2545
-congress: 117th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2545
@@ -21,5 +21,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** in subsection (b)(1), by inserting “podiatric medicine,” after “doctors of medicine,”; and
   - **(3)** in subsection (c), by striking “and (8)” and inserting “(8), and (10)”.
 - **(b)** *Clarification of pay grade* Section 7404 of title 38, United States Code, is amended—
-  - **(1)** in subsection (a)(2), by inserting “, podiatrists,” after “physicians” ; and
+  - **(1)** in subsection (a)(2), by inserting “, podiatrists,” after “physicians”; and
   - **(2)** in subsection (b), in the first heading of the list following the colon, by striking “PODIATRIST” and inserting “PODIATRIST (DPM)”.

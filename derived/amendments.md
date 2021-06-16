@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2545
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -36,5 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (9) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(1), by inserting “podiatric medicine,” after “doctors of medicine,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “and (8)” and inserting “(8), and (10)”. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(2), by inserting “, podiatrists,” after “physicians” ; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(2), by inserting “, podiatrists,” after “physicians”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), in the first heading of the list following the colon, by striking “PODIATRIST” and inserting “PODIATRIST (DPM)”. | the bill names no machine-readable US Code section |
