@@ -1,7 +1,7 @@
 ---
 measure: H.R. 468
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 468
@@ -42,3 +42,4 @@ Expedited Delivery of Airport Infrastructure Act of 2021
 - 2021-06-15 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2768)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2768)
+- 2021-06-16 — Received in the Senate, read twice.
