@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2429
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2429
@@ -21,9 +21,10 @@ VA Police Improvement and Accountability Act
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ VA Police Improvement and Accountability Act
 - 2021-06-15 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2777-2778)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2777-2778)
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
