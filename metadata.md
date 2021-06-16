@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2093
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2093
@@ -43,3 +43,14 @@ Veterans and Family Information Act
 - 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2773)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2773)
 - 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-11-02 — Passed Senate without amendment by Voice Vote.
+- 2021-11-02 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2021-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7685)
+- 2021-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7685)
+- 2021-11-03 — Message on Senate action sent to the House.
+- 2021-11-16 — Presented to President.
+- 2021-11-16 — Presented to President.
+- 2021-11-22 — Became Public Law No: 117-62.
+- 2021-11-22 — Became Public Law No: 117-62.
+- 2021-11-22 — Signed by President.
+- 2021-11-22 — Signed by President.
