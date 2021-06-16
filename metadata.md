@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3325
@@ -16,11 +16,12 @@ To award four congressional gold medals to the United States Capitol Police and 
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (3)
+## Committees (4)
 
 - House — Budget Committee
 - House — Committee on House Administration
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To award four congressional gold medals to the United States Capitol Police and 
 - 2021-06-15 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2021-06-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 161). (text: CR H2789)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 161).(text: CR H2789)
+- 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
