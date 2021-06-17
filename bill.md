@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting Older Workers Against Discrimination Act”.
+This Act may be cited as the “Protecting Older Workers Against Discrimination Act of 2021”.
 
 ## § 2. Standards of proof
 
