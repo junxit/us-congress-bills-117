@@ -1,7 +1,7 @@
 ---
 measure: H.R. 256
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 256
@@ -153,9 +153,10 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution of
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -167,3 +168,17 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution of
 - 2021-06-08 — Placed on the Union Calendar, Calendar No. 39.
 - 2021-06-08 — Reported by the Committee on Foreign Affairs. H. Rept. 117-56.
 - 2021-06-08 — Reported by the Committee on Foreign Affairs. H. Rept. 117-56.
+- 2021-06-14 — Rules Committee Resolution H. Res. 473 Reported to House. Resolution provides for consideration of H.R. 256 under a closed rule and provides for consideration of H.R. 1187 under a structured rule. The resolution provides for one hour of debate for each bill and for one motion to recommit for each bill. The resolution provides that H. Res. 467 is adopted.
+- 2021-06-14 — Supplemental report filed by the Committee on Foreign Affairs, H. Rept. 117-56, Part II.
+- 2021-06-14 — Supplemental report filed by the Committee on Foreign Affairs, H. Rept. 117-56, Part II.
+- 2021-06-17 — Considered under the provisions of rule H. Res. 473. (consideration: CR H2899-2910)
+- 2021-06-17 — DEBATE - The House proceeded with one hour of debate on H.R. 256.
+- 2021-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-17 — Mr. McCaul moved to recommit to the Committee on Foreign Affairs. (text: CR H2909)
+- 2021-06-17 — On motion to recommit Failed by the Yeas and Nays: 204 - 219 (Roll no. 171).
+- 2021-06-17 — On passage Passed by the Yeas and Nays: 268 - 161 (Roll no. 172). (text: CR H2899)
+- 2021-06-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 268 - 161 (Roll no. 172).(text: CR H2899)
+- 2021-06-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2021-06-17 — Resolution provides for consideration of H.R. 256 under a closed rule and provides for consideration of H.R. 1187 under a structured rule. The resolution provides for one hour of debate for each bill and for one motion to recommit for each bill. The resolution provides that H. Res. 467 is adopted.
+- 2021-06-17 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-06-17 — The previous question was ordered pursuant to the rule.
