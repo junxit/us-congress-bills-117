@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 34
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 34
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Cosponsors (28)
+## Cosponsors (32)
 
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Lamb, Conor [D-PA-17] (L000588)
@@ -46,6 +46,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
 
 ## Committees (1)
 
@@ -56,3 +60,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2021-03-26 — Introduced in House
 - 2021-03-26 — Introduced in House
 - 2021-03-26 — Referred to the House Committee on Energy and Commerce.
+- 2021-03-29 — Referred to the Subcommittee on Environment and Climate Change.
+- 2021-06-09 — Subcommittee on Environment and Climate Change Discharged.
+- 2021-06-10 — Committee Consideration and Mark-up Session Held.
+- 2021-06-10 — Ordered to be Reported by the Yeas and Nays: 30 - 22.
+- 2021-06-17 — Placed on the Union Calendar, Calendar No. 45.
+- 2021-06-17 — Reported by the Committee on Energy and Commerce. H. Rept. 117-64.
+- 2021-06-17 — Reported by the Committee on Energy and Commerce. H. Rept. 117-64.
