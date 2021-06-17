@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1443
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 1691c-2` | insert | by inserting “LGBTQ-owned,” after “minority-owned,” each place such term appears; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1691c-2` | insert | in subsection (e)(2)(G), by inserting “(including sexual orientation and gender identity),” after “sex”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1691c-2` | insert | in subsection (e)(2)(G), by inserting “, sexual orientation, gender identity” after “sex”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1691c-2` | add-at-end | in subsection (h), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
