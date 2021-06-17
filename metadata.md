@@ -1,7 +1,7 @@
 ---
 measure: S. 1340
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1340
@@ -28,3 +28,8 @@ A bill to amend title 28, United States Code, to redefine the eastern and middle
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on the Judiciary.
+- 2021-06-17 — Message on Senate action sent to the House.
+- 2021-06-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S4618)
+- 2021-06-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4618)
+- 2021-06-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4618)
+- 2021-06-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4618)
