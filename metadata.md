@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1443
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1443
@@ -16,7 +16,7 @@ LGBTQ Business Equal Credit Enforcement and Investment Act
 
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 
-## Cosponsors (35)
+## Cosponsors (41)
 
 - Rep. Auchincloss, Jake [D-MA-4] (A000148)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
@@ -53,6 +53,12 @@ LGBTQ Business Equal Credit Enforcement and Investment Act
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 - Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
 
 ## Committees (1)
 
@@ -63,3 +69,15 @@ LGBTQ Business Equal Credit Enforcement and Investment Act
 - 2021-02-26 — Introduced in House
 - 2021-02-26 — Introduced in House
 - 2021-02-26 — Referred to the House Committee on Financial Services.
+- 2021-05-12 — Committee Consideration and Mark-up Session Held.
+- 2021-05-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2021-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered as unfinished business. (consideration: CR H2800-2801)
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2787-2789)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1443.
+- 2021-06-15 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 248 - 177 (Roll no. 162).
+- 2021-06-15 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2021-06-15 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 248 - 177 (Roll no. 162).
+- 2021-06-17 — Placed on the Union Calendar, Calendar No. 46.
+- 2021-06-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-65.
+- 2021-06-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-65.
