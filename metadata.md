@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1187
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1187
@@ -20,9 +20,10 @@ Corporate Governance Improvement and Investor Protection Act
 
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ Corporate Governance Improvement and Investor Protection Act
 - 2021-06-16 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2021-06-16 — The previous question was ordered pursuant to the rule.
 - 2021-06-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments which were debated earlier and on which previous questions were postponed.
+- 2021-06-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
