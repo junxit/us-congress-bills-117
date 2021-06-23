@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2062
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2062
@@ -145,3 +145,46 @@ Protecting Older Workers Against Discrimination Act of 2021
 - 2021-06-17 — Placed on the Union Calendar, Calendar No. 44.
 - 2021-06-17 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-63.
 - 2021-06-17 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-63.
+- 2021-06-22 — Rules Committee Resolution H. Res. 486 Reported to House. The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-23 — Amendment (A004) offered by Mr. Davis, Rodney. (consideration: CR H3064-3065; text: CR H3064)
+- 2021-06-23 — Amendment agreed to by House: On agreeing to the Davis, Rodney amendment (A004) Agreed to by voice vote.
+- 2021-06-23 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 178).
+- 2021-06-23 — Amendment failed by House: On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 182 - 243 (Roll no. 179).
+- 2021-06-23 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-06-23 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H3060-3062, H3065; text: CR H3060)
+- 2021-06-23 — Amendments en bloc (A003) offered by Mr. Scott (VA). (consideration: CR H3062-3064, H3065-3066; text: CR H3062)
+- 2021-06-23 — Considered under the provisions of rule H. Res. 486. (consideration: CR H3052-3067; text: CR H3052-3053)
+- 2021-06-23 — DEBATE - Pursuant to the provisions of H. Res 486, the House proceeded with 10 minutes of debate on the Davis (IL) amendment.
+- 2021-06-23 — DEBATE - Pursuant to the provisions of H. Res 486, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 1.
+- 2021-06-23 — DEBATE - Pursuant to the provisions of H. Res 486, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 2.
+- 2021-06-23 — DEBATE - The House proceeded with one hour of debate on H.R. 2062.
+- 2021-06-23 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A004) Agreed to by voice vote.
+- 2021-06-23 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-06-23 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 178).
+- 2021-06-23 — House amendment not agreed to: On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 182 - 243 (Roll no. 179).
+- 2021-06-23 — House amendment offered
+- 2021-06-23 — House amendment offered
+- 2021-06-23 — House amendment offered
+- 2021-06-23 — House amendment offered
+- 2021-06-23 — House amendment offered/reported by: Amendment (A004) offered by Mr. Davis, Rodney.(consideration: CR H3064-3065; text: CR H3064)
+- 2021-06-23 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).(consideration: CR H3060-3062, H3065; text: CR H3060)
+- 2021-06-23 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Scott (VA).(consideration: CR H3062-3064, H3065-3066; text: CR H3062)
+- 2021-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-23 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-06-23 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-06-23 — On agreeing to the Davis, Rodney amendment (A004) Agreed to by voice vote.
+- 2021-06-23 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-06-23 — On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 178).
+- 2021-06-23 — On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 182 - 243 (Roll no. 179).
+- 2021-06-23 — On passage Passed by the Yeas and Nays: 247 - 178 (Roll no. 180).
+- 2021-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Foxx demanded the yeas and nays an d the Chair postponed further proceedings until a time to be announced.
+- 2021-06-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 178 (Roll no. 180).
+- 2021-06-23 — Roll call votes on amendments in House
+- 2021-06-23 — Roll call votes on amendments in House
+- 2021-06-23 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-06-23 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-06-23 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2021-06-23 — The previous question was ordered pursuant to the rule.
+- 2021-06-23 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on the Scott amendment en bloc No. 1 which had been debated earlier and on which further proceedings had been postponed.
