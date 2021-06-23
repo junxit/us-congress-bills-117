@@ -22,3 +22,7 @@ Section 7 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997e)
   > - **(i)** *Exemption of juvenile prisoners* This section shall not apply to an action pending on the date of enactment of the Justice for Juveniles Act or filed on or after such date if such action is—
   >   - **(1)** brought by a prisoner who has not attained 22 years of age; or
   >   - **(2)** brought by any prisoner with respect to a prison condition that occurred before the prisoner attained 22 years of age.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
