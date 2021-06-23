@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 486
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 486
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 2062) to amend the Age Discriminat
 - 2021-06-22 — The House Committee on Rules reported an original measure, H. Rept. 117-71, by Mr. Morelle.
 - 2021-06-22 — The House Committee on Rules reported an original measure, H. Rept. 117-71, by Mr. Morelle.
 - 2021-06-22 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-23 — Considered as privileged matter. (consideration: CR H3017-3024)
+- 2021-06-23 — Considered as unfinished business. (consideration: CR H3024-3026)
+- 2021-06-23 — DEBATE - The House proceeded with one hour of debate on H. Res. 486.
+- 2021-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-23 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 205 (Roll no. 176). (text: CR H3017-3018)
+- 2021-06-23 — On ordering the previous question Agreed to by the Yeas and Nays: 218 - 209 (Roll no. 175).
+- 2021-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 486, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Burgess demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until a time to be announced.
+- 2021-06-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 205 (Roll no. 176).(text: CR H3017-3018)
