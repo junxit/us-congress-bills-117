@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2062
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -20,7 +20,7 @@ This Act may be cited as the “Protecting Older Workers Against Discrimination 
     > - **(g)**
     >   - **(1)** Except as otherwise provided in this Act, an unlawful practice is established under this Act when the complaining party demonstrates that age or an activity protected by subsection (d) was a motivating factor for any practice, even though other factors also motivated the practice.
     >   - **(2)** In establishing an unlawful practice under this Act, including under paragraph (1) or by any other method of proof, a complaining party—
-    >     - **(A)** may rely on any type or form of admissible evidence and need only produce evidence sufficient for a reasonable trier of fact to find that an unlawful practice occurred under this Act; and
+    >     - **(A)** may rely on any type or form of admissible evidence; and
     >     - **(B)** shall not be required to demonstrate that age or an activity protected by subsection (d) was the sole cause of a practice.
 
   - **(2)** *Remedies* Section 7 of such Act (29 U.S.C. 626) is amended—
@@ -59,7 +59,7 @@ This Act may be cited as the “Protecting Older Workers Against Discrimination 
     > - **(e)** *Proof*
     >   - **(1)** *Establishment* Except as otherwise provided in this Act, a discriminatory practice is established under this Act when the complaining party demonstrates that disability or an activity protected by subsection (a) or (b) of section 503 was a motivating factor for any employment practice, even though other factors also motivated the practice.
     >   - **(2)** *Demonstration* In establishing a discriminatory practice under paragraph (1) or by any other method of proof, a complaining party—
-    >     - **(A)** may rely on any type or form of admissible evidence and need only produce evidence sufficient for a reasonable trier of fact to find that a discriminatory practice occurred under this Act; and
+    >     - **(A)** may rely on any type or form of admissible evidence; and
     >     - **(B)** shall not be required to demonstrate that disability or an activity protected by subsection (a) or (b) of section 503 was the sole cause of an employment practice.
 
   - **(3)** *Certain anti-retaliation claims* Section 503(c) of such Act (42 U.S.C. 12203(c)) is amended—
@@ -85,3 +85,16 @@ This Act, and the amendments made by this Act, shall apply to all claims pending
 ## § 4. Severability
 
 If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+
+## § 5. Study and report to Congress
+
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Labor and the Equal Employment Opportunity Commission shall jointly conduct a study to determine the number of claims pending or filed, in addition to cases closed, by women who may have been adversely impacted by age discrimination as a motivating factor in workplace discrimination or employment termination. The Secretary of Labor and Chairman of the Commission shall jointly submit to the Congress, and make available to the public, a report that contains the results of the study, including recommendations for best practices to prevent and to combat gender and age discrimination as it relates to women in the workplace.
+
+## § 6. Reports
+
+The Chairman of Equal Employment Opportunity Commission shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report at 1-year intervals on the number of age discrimination in employment claims brought under this Act with the Equal Employment Opportunity Commission in the period for which such report is submitted.
+
+## § 7. Report
+
+- **(a)** *Report* Not later than 2 years after the date of enactment of this Act, the Equal Employment Opportunity Employment Commission shall submit to the Congress, and make available to the public, a report that contains analysis of any disparities that covered individuals, as defined in subsection (b), face in pursuing relief from discrimination in employment under the mixed motive evidentiary standard.
+- **(b)** *Covered individuals defined* The term “covered individuals” means individuals who face discrimination in employment based on characteristics protected under the Age Discrimination in Employment Act of 1967 combined with one or more intersectional characteristics protected under title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act of 1990, or the Rehabilitation Act of 1973.
