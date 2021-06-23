@@ -25,3 +25,7 @@ Section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(1
   - **(A)** by inserting “(or, in the case of an alien who acquired the relevant nationality through a financial investment and who has not previously been granted status under this subparagraph, the foreign state of which the alien is a national and in which the alien has been domiciled for a continuous period of not less than 3 years at any point before applying for a nonimmigrant visa under this subparagraph)” before “, and the spouse”; and
   - **(B)** by striking “him” and inserting “such alien”; and
 - **(2)** by striking “he” each place such term appears and inserting “the alien”.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
