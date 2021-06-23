@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 485
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 485
@@ -25,3 +25,5 @@ Providing amounts for the expenses of the Select Committee on Economic Disparity
 - 2021-06-22 — Introduced in House
 - 2021-06-22 — Introduced in House
 - 2021-06-22 — Referred to the House Committee on House Administration.
+- 2021-06-23 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 486, H. Res. 485 is considered passed House.(consideration: CR H3024-3026; text: CR H3026)
+- 2021-06-23 — Pursuant to the provisions of H. Res. 486, H. Res. 485 is considered passed House. (consideration: CR H3024-3026; text: CR H3026)
