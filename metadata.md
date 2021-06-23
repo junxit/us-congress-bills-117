@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1374
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1374
@@ -21,9 +21,10 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2021
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2021
 - 2021-06-22 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2021-06-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 21 (Roll no. 173). (text: CR H2938-2939)
 - 2021-06-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 21 (Roll no. 173).(text: CR H2938-2939)
+- 2021-06-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
