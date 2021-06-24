@@ -1,7 +1,7 @@
 ---
 measure: S. 65
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 65
@@ -16,7 +16,7 @@ Uyghur Forced Labor Prevention Act
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (29)
+## Cosponsors (52)
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -47,6 +47,29 @@ Uyghur Forced Labor Prevention Act
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
 
 ## Committees (1)
 
@@ -56,3 +79,7 @@ Uyghur Forced Labor Prevention Act
 
 - 2021-01-27 — Introduced in Senate
 - 2021-01-27 — Read twice and referred to the Committee on Foreign Relations.
+- 2021-06-24 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
