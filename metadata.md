@@ -1,7 +1,7 @@
 ---
 measure: S. 1095
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1095
@@ -37,3 +37,20 @@ Colonel John M. McHugh Tuition Fairness for Survivors Act of 2021
 - 2021-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S4796)
 - 2021-06-24 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4796)
 - 2021-06-24 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4796)
+- 2021-06-28 — Held at the desk.
+- 2021-06-28 — Message on Senate action sent to the House.
+- 2021-06-28 — Received in the House.
+- 2021-11-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-11-15 — Considered as unfinished business. (consideration: CR H6257-6258)
+- 2021-11-15 — Considered under suspension of the rules. (consideration: CR H6255-6257)
+- 2021-11-15 — DEBATE - The House proceeded with forty minutes of debate on S. 1095.
+- 2021-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-15 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2021-11-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 373). (text: CR H6256)
+- 2021-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 373).(text: CR H6256)
+- 2021-11-19 — Presented to President.
+- 2021-11-19 — Presented to President.
+- 2021-11-30 — Became Public Law No: 117-68.
+- 2021-11-30 — Became Public Law No: 117-68.
+- 2021-11-30 — Signed by President.
+- 2021-11-30 — Signed by President.
