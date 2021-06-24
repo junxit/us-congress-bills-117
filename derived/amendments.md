@@ -1,7 +1,7 @@
 ---
 measure: S. 1095
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
