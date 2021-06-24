@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 268
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 268
@@ -42,3 +42,7 @@ A resolution expressing support for the designation of June 2021 as "National Da
 
 - 2021-06-14 — Introduced in Senate
 - 2021-06-14 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2021-06-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 06/14/2021 CR S4521-4522)
+- 2021-06-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 06/14/2021 CR S4521-4522)
+- 2021-06-24 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S4795)
+- 2021-06-24 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S4795)
