@@ -1,7 +1,7 @@
 ---
 measure: H.R. 239
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 239
@@ -111,3 +111,21 @@ Equal Access to Contraception for Veterans Act
 - 2021-06-14 — Placed on the Union Calendar, Calendar No. 42.
 - 2021-06-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-60.
 - 2021-06-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-60.
+- 2021-06-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-15 — Considered as unfinished business. (consideration: CR H2799)
+- 2021-06-15 — Considered under suspension of the rules. (consideration: CR H2774-2775)
+- 2021-06-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 239.
+- 2021-06-15 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 240 - 188 (Roll no. 160).
+- 2021-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-15 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2021-06-15 — On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 240 - 188 (Roll no. 160).
+- 2021-06-22 — Rules Committee Resolution H. Res. 486 Reported to House. The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-24 — Considered as unfinished business. (consideration: CR H3116-3117)
+- 2021-06-24 — Considered under the provisions of rule H. Res. 486. (consideration: CR H3094-3097)
+- 2021-06-24 — DEBATE - The House proceeded with one hour of debate on H.R. 239.
+- 2021-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-24 — On passage Passed by the Yeas and Nays: 245 - 181 (Roll no. 184). (text: CR H3094)
+- 2021-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. R. 239, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Rosendale demanded the yeas and nays and the Chair postponed further proceedings on passage of the bill until a time to be announced.
+- 2021-06-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 181 (Roll no. 184).(text: CR H3094)
+- 2021-06-24 — The previous question was ordered pursuant to the rule.
+- 2021-06-24 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
