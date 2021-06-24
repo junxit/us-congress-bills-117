@@ -15,12 +15,15 @@ This Act may be cited as the “LGBTQ Business Equal Credit Enforcement and Inve
 
 ## § 2. Small business loan data collection
 
-- **(a)** *In general* Section 704B of the Equal Credit Opportunity Act (15 U.S.C. 1691c–2) is amended—
-  - **(1)** by inserting “LGBTQ-owned,” after “minority-owned,” each place such term appears;
-  - **(2)** in subsection (e)(2)(G), by inserting “, sexual orientation, gender identity” after “sex”; and
-  - **(3)** in subsection (h), by adding at the end the following:
-    > - **(7)** *LGBTQ-owned business* The term LGBTQ-owned business means a business—
-    >   - **(A)** more than 50 percent of the ownership or control of which is held by 1 or more individuals self-identifying as lesbian, gay, bisexual, transgender, or queer; and
-    >   - **(B)** more than 50 percent of the net profit or loss of which accrues to 1 or more individuals self-identifying as lesbian, gay, bisexual, transgender, or queer.
+Section 704B of the Equal Credit Opportunity Act (15 U.S.C. 1691c–2) is amended—
 
-- **(b)** *Sense of Congress* It is the sense of the Congress that the term “sex”, as used within the Equal Credit Opportunity Act, includes an individual’s sexual orientation and gender identity, and that this Act, in part, clarifies that the sex, sexual orientation, and gender identity of the principal owners of a business should be collected under section 704B of the Equal Credit Opportunity Act as three separate forms of information.
+- **(1)** by inserting “LGBTQ-owned,” after “minority-owned,” each place such term appears;
+- **(2)** in subsection (e)(2)(G), by inserting “, sexual orientation, gender identity” after “sex”; and
+- **(3)** in subsection (h), by adding at the end the following:
+  > - **(7)** *LGBTQ-owned business* The term LGBTQ-owned business means a business—
+  >   - **(A)** more than 50 percent of the ownership or control of which is held by 1 or more individuals self-identifying as lesbian, gay, bisexual, transgender, or queer; and
+  >   - **(B)** more than 50 percent of the net profit or loss of which accrues to 1 or more individuals self-identifying as lesbian, gay, bisexual, transgender, or queer.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
