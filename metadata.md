@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2679
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2679
@@ -20,9 +20,10 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2021
 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2021
 - 2021-06-23 — Passed/agreed to in House: Pursuant to section 11 of H. Res. 486, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 482; H.R. 704; H.R. 961, as amended; H.R. 1314; H.R. 2571, as amended; H.R. 2679, as amended; H.R. 2694; H.R. 2922, as amended; H.R. 3182; H.R. 3239; H.R. 3241, as amended; H.R. 3723; H.R. 3752; H.R. 3841; S. 409; and S. 1340.(consideration: CR H3026-3052; text: CR H3028-3029)
 - 2021-06-23 — Pursuant to section 11 of H. Res. 486, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 482; H.R. 704; H.R. 961, as amended; H.R. 1314; H.R. 2571, as amended; H.R. 2679, as amended; H.R. 2694; H.R. 2922, as amended; H.R. 3182; H.R. 3239; H.R. 3241, as amended; H.R. 3723; H.R. 3752; H.R. 3841; S. 409; and S. 1340. (consideration: CR H3026-3052; text: CR H3028-3029)
 - 2021-06-23 — Pursuant to the provisions of H. Res. 486, proceedings on H.R. 2679 are considered vacated.
+- 2021-06-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
