@@ -1,7 +1,7 @@
 ---
 measure: S. 1251
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1251
@@ -16,7 +16,7 @@ Growing Climate Solutions Act of 2021
 
 - Sen. Braun, Mike [R-IN] (B001310)
 
-## Cosponsors (51)
+## Cosponsors (54)
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Graham, Lindsey [R-SC] (G000359)
@@ -69,6 +69,9 @@ Growing Climate Solutions Act of 2021
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Moran, Jerry [R-KS] (M000934)
 
 ## Committees (1)
 
@@ -82,3 +85,15 @@ Growing Climate Solutions Act of 2021
 - 2021-06-14 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
 - 2021-06-14 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
 - 2021-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
+- 2021-06-22 — Senate amendment submitted
+- 2021-06-24 — Amendment SA 2119 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 250.
+- 2021-06-24 — Amendment SA 2119 proposed by Senator Lee. (consideration: CR S4736-4739; text:CR S4701-4704) In the nature of a substitute.
+- 2021-06-24 — Held at the desk.
+- 2021-06-24 — Measure laid before Senate by unanimous consent. (consideration: CR S4736-4740)
+- 2021-06-24 — Message on Senate action sent to the House.
+- 2021-06-24 — Passed Senate without amendment by Yea-Nay Vote. 92 - 8. Record Vote Number: 251. (text: CR S4740-4743)
+- 2021-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 92 - 8. Record Vote Number: 251.(text: CR S4740-4743)
+- 2021-06-24 — Received in the House.
+- 2021-06-24 — Roll call votes on amendments in Senate: Amendment SA 2119 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 250.
+- 2021-06-24 — Senate amendment not agreed to: Amendment SA 2119 not agreed to in Senate by Yea-Nay Vote. 11 - 89. Record Vote Number: 250.
+- 2021-06-24 — Senate amendment proposed (on the floor): Amendment SA 2119 proposed by Senator Lee.(consideration: CR S4736-4739; text: 06/22/2021 CR S4701-4704)
