@@ -1,7 +1,7 @@
 ---
 measure: S. 1662
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1662
@@ -33,3 +33,5 @@ Supporting the Foundation for the National Institutes of Health and the Reagan-U
 - 2021-06-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray without amendment. Without written report.
 - 2021-06-14 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray without amendment. Without written report.
 - 2021-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.
+- 2021-06-24 — Passed Senate without amendment by Voice Vote. (consideration: CR S4793; text: CR S4793)
+- 2021-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4793; text: CR S4793)
