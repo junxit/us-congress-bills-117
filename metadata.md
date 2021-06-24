@@ -1,7 +1,7 @@
 ---
 measure: S. 189
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 189
@@ -16,9 +16,17 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2021
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (1)
+## Cosponsors (9)
 
 - Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
 
 ## Committees (1)
 
@@ -28,3 +36,8 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2021
 
 - 2021-02-03 — Introduced in Senate
 - 2021-02-03 — Read twice and referred to the Committee on Veterans' Affairs. (text: CR S319)
+- 2021-04-28 — Committee on Veterans' Affairs. Hearings held.
+- 2021-05-26 — Committee on Veterans' Affairs. Ordered to be reported with an amendment favorably.
+- 2021-06-24 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2021-06-24 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.
