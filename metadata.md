@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2062
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2062
@@ -131,9 +131,10 @@ Protecting Older Workers Against Discrimination Act of 2021
 - Rep. Price, David E. [D-NC-4] (P000523)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -188,3 +189,4 @@ Protecting Older Workers Against Discrimination Act of 2021
 - 2021-06-23 — The previous question was ordered pursuant to the rule.
 - 2021-06-23 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
 - 2021-06-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on the Scott amendment en bloc No. 1 which had been debated earlier and on which further proceedings had been postponed.
+- 2021-06-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
