@@ -1,0 +1,22 @@
+---
+legis-num: S. 2230
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2230
+
+> To amend the Internal Revenue Code of 1986 to enhance the carbon oxide sequestration credit.
+
+## § 1. Enhancement of carbon oxide sequestration credit
+
+- **(a)** *Increase in applicable dollar amount* Subparagraph (A) of section 45Q(b)(1) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(A)** *In general* For any taxable year beginning in a calendar year after 2021, the applicable dollar amount shall be an amount equal to—
+  >   - **(i)** for purposes of paragraph (3) of subsection (a), an amount equal to the product of $85 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2020” for “1990”, and
+  >   - **(ii)** for purposes of paragraph (4) of such subsection, an amount equal to the product of $60 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990.”
+
+- **(b)** *Definition of qualified facility* Paragraph (2) of section 45Q(d) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(2)** at which carbon capture equipment installed at such facility captures qualified carbon oxide during the taxable year.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2021.
