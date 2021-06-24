@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3182
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3182
@@ -40,3 +40,14 @@ Safe Sleep for Babies Act of 2021
 - 2021-06-23 — Pursuant to section 11 of H. Res. 486, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 482; H.R. 704; H.R. 961, as amended; H.R. 1314; H.R. 2571, as amended; H.R. 2679, as amended; H.R. 2694; H.R. 2922, as amended; H.R. 3182; H.R. 3239; H.R. 3241, as amended; H.R. 3723; H.R. 3752; H.R. 3841; S. 409; and S. 1340. (consideration: CR H3026-3052; text: CR H3029)
 - 2021-06-23 — Pursuant to the provisions of H. Res. 486, proceedings on H.R. 3182 are considered vacated.
 - 2021-06-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-05-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S2291)
+- 2022-05-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-05-03 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-05-03 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-05-04 — Message on Senate action sent to the House.
+- 2022-05-11 — Presented to President.
+- 2022-05-11 — Presented to President.
+- 2022-05-16 — Became Public Law No: 117-126.
+- 2022-05-16 — Became Public Law No: 117-126.
+- 2022-05-16 — Signed by President.
+- 2022-05-16 — Signed by President.
