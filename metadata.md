@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 219
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 219
@@ -38,3 +38,7 @@ A resolution designating May 18, 2021, as "CASA/GAL Volunteers' Day".
 
 - 2021-05-18 — Introduced in Senate
 - 2021-05-18 — Referred to the Committee on the Judiciary.
+- 2021-06-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 05/18/2021 CR S2575-2576)
+- 2021-06-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 05/18/2021 CR S2575-2576)
+- 2021-06-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4795)
+- 2021-06-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4795)
