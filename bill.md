@@ -26,3 +26,21 @@ This Act may be cited as the “Hire Veteran Health Heroes Act of 2021”.
     - **(A)** the Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate; and
     - **(B)** the Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives.
   - **(2)** *Health care occupation* The term health care occupation means an occupation for which an individual may be appointed for employment with the Department of Veterans Affairs under section 7401 of title 38, United States Code.
+
+## § 2. Identification and referral of members of the Armed Forces with a health care occupation for potential employment with the Department of Veterans Affairs during separation from the Armed Forces
+
+Section 207 of the VA Choice and Quality Employment Act of 2017 (Public Law 115–46; 38 U.S.C. 7401 note) is amended to read as follows:
+
+> ## § 207. Identification and referral of members of the Armed Forces with a health care occupation for potential employment with the Department of Veterans Affairs during separation from the Armed Forces
+>
+> - **(a)** *In general* The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall establish a program to identify and refer members of the Armed Forces with a health care occupation for employment with the Department of Veterans Affairs during the separation of such members from the Armed Forces.
+> - **(b)** *Referral of interested individuals*
+>   - **(1)** *In general* If a member of the Armed Forces identified under subsection (a) expresses an interest in working in a health care occupation within the Department of Veterans Affairs, the Secretary of Veterans Affairs shall refer the member to a recruiter of the Department for consideration of open positions in the specialty and geography of interest to the member.
+>   - **(2)** *Timing* Any referral of a member of the Armed Forces conducted under paragraph (1) shall be made not earlier than one year before the separation of the member from the Armed Forces.
+> - **(c)** *Rule of construction* Any identification of a member of the Armed Forces under subsection (a) or referral of such member under subsection (b) shall not be construed as a guarantee of employment of such member with the Department of Veterans Affairs.
+> - **(d)** *Reports* Not later than each of one year and two years after the date of the enactment of the Hire Veteran Health Heroes Act of 2021, the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a report on the program established under subsection (a).
+> - **(e)** *Definitions* In this section:
+>   - **(1)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
+>     - **(A)** the Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate; and
+>     - **(B)** the Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives.
+>   - **(2)** *Health care occupation* The term health care occupation means an occupation for which an individual may be appointed for employment with the Department of Veterans Affairs under section 7401 of title 38, United States Code.
