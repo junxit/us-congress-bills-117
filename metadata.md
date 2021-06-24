@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1443
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1443
@@ -81,3 +81,17 @@ LGBTQ Business Equal Credit Enforcement and Investment Act
 - 2021-06-17 — Placed on the Union Calendar, Calendar No. 46.
 - 2021-06-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-65.
 - 2021-06-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-65.
+- 2021-06-22 — Rules Committee Resolution H. Res. 486 Reported to House. The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-06-24 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-06-24 — Considered as unfinished business. (consideration: CR H3114-3115)
+- 2021-06-24 — Considered under the provisions of rule H. Res. 486. (consideration: CR H3097-3099)
+- 2021-06-24 — DEBATE - The House proceeded with one hour of debate on H.R. 1443.
+- 2021-06-24 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-06-24 — House amendment offered
+- 2021-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-24 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-06-24 — On passage Passed by the Yeas and Nays: 252 - 176 (Roll no. 182). (text: CR H3098)
+- 2021-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. R. 1443, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Rosendale demanded the yeas and nays and the Chair postponed further proceedings on passage of the bill until a time to be announced.
+- 2021-06-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 252 - 176 (Roll no. 182).(text: CR H3098)
+- 2021-06-24 — The previous question was ordered pursuant to the rule.
+- 2021-06-24 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
