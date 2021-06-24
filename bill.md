@@ -1,0 +1,33 @@
+---
+legis-num: S. 2207
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2207
+
+> To temporarily increase the availability of temporary nonimmigrant nonagricultural workers for the purposes of restoring American forests, and for other purposes.
+
+## § 1. Exemption from H–2B numerical limitation for certain forestry conservation workers
+
+- **(a)** *In general* Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)) is amended by adding at the end the following:
+  > - **(12)**
+  >   - **(A)** Except as provided in subparagraph (B), the numerical limitation under paragraph (1)(B) shall not apply to principal aliens described in section 101(a)(15)(H)(ii)(b) who are employed or have received an offer of employment for the work of—
+  >     - **(i)** orchard work and seed collection;
+  >     - **(ii)** tree planting;
+  >     - **(iii)** nursery care;
+  >     - **(iv)** forest management;
+  >     - **(v)** harvesting pine straw or other minor forest products;
+  >     - **(vi)** timber stand improvement;
+  >     - **(vii)** herbicide application;
+  >     - **(viii)** fire prevention and fire management activities;
+  >     - **(ix)** brush clearing and vegetation management;
+  >     - **(x)** maintenance of right of ways;
+  >     - **(xi)** habitat protection and restoration;
+  >     - **(xii)** watershed protection and restoration;
+  >     - **(xiii)** land reclamation; or
+  >     - **(xiv)** other activities with a direct forest health or conservation nexus.
+  >   - **(B)** The exemptions described in subparagraph (A) shall not apply to landscaping or groundskeeping.
+
+- **(b)** *Sunset* The amendment made by subsection (a) shall remain in effect until the date that is 5 years after the date of the enactment of this Act.
