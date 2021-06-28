@@ -1,7 +1,7 @@
 ---
 measure: H.R. 391
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 391
@@ -16,7 +16,7 @@ Global Health Security Act of 2021
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Cosponsors (56)
+## Cosponsors (77)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
@@ -74,6 +74,27 @@ Global Health Security Act of 2021
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
 
 ## Committees (1)
 
@@ -84,3 +105,13 @@ Global Health Security Act of 2021
 - 2021-01-21 — Introduced in House
 - 2021-01-21 — Introduced in House
 - 2021-01-21 — Referred to the House Committee on Foreign Affairs.
+- 2021-03-25 — Committee Consideration and Mark-up Session Held.
+- 2021-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-06-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-28 — Considered as unfinished business. (consideration: CR H3224-3225)
+- 2021-06-28 — Considered under suspension of the rules. (consideration: CR H3165-3171)
+- 2021-06-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 391.
+- 2021-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-28 — Mr. Meeks moved to suspend the rules and pass the bill, as amended.
+- 2021-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 112 (Roll no. 188). (text: CR H3165-3169)
+- 2021-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 112 (Roll no. 188).(text: CR H3165-3169)
