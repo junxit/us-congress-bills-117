@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3005
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3005
@@ -16,7 +16,7 @@ To direct the Joint Committee on the Library to replace the bust of Roger Brooke
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
@@ -35,6 +35,7 @@ To direct the Joint Committee on the Library to replace the bust of Roger Brooke
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
 
 ## Committees (1)
 
@@ -45,3 +46,13 @@ To direct the Joint Committee on the Library to replace the bust of Roger Brooke
 - 2021-05-07 — Introduced in House
 - 2021-05-07 — Introduced in House
 - 2021-05-07 — Referred to the House Committee on House Administration.
+- 2021-06-28 — Rules Committee Resolution H. Res. 504 Reported to House. Rule provides for consideration of H.R. 2662, H.R. 3005, H.R. 3684 and H. Res. 503. The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
+- 2021-06-29 — Considered as unfinished business. (consideration: CR H3290-3291)
+- 2021-06-29 — Considered under the provisions of rule H. Res. 504. (consideration: CR H3263-3276)
+- 2021-06-29 — DEBATE - The House proceeded with one hour of debate on H.R. 3005.
+- 2021-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-29 — On passage Passed by the Yeas and Nays: 285 - 120 (Roll no. 196). (text: CR H3263-3264)
+- 2021-06-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. R. 3005, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Loudermilk demanded the yeas and nays and the Chair postponed further proceedings on passage of the bill until a time to be announced.
+- 2021-06-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 285 - 120 (Roll no. 196).(text: CR H3263-3264)
+- 2021-06-29 — Rule provides for consideration of H.R. 2662, H.R. 3005, H.R. 3684 and H. Res. 503. The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
+- 2021-06-29 — The previous question was ordered pursuant to the rule.
