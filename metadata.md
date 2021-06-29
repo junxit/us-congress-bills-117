@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3261
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3261
@@ -16,7 +16,7 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution.
 
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Cosponsors (17)
+## Cosponsors (35)
 
 - Rep. Meijer, Peter [R-MI-3] (M001186)
 - Rep. Golden, Jared F. [D-ME-2] (G000592)
@@ -35,6 +35,24 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution.
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Kim, Young [R-CA-39] (K000397)
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
 
 ## Committees (1)
 
@@ -45,3 +63,12 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution.
 - 2021-05-14 — Introduced in House
 - 2021-05-14 — Introduced in House
 - 2021-05-14 — Referred to the House Committee on Foreign Affairs.
+- 2021-05-19 — Committee Consideration and Mark-up Session Held.
+- 2021-05-19 — Ordered to be Reported by Voice Vote.
+- 2021-06-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-06-28 — Considered under suspension of the rules. (consideration: CR H3174-3176; text: CR H3174)
+- 2021-06-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3261.
+- 2021-06-28 — Mr. Meeks moved to suspend the rules and pass the bill.
+- 2021-06-29 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended.(consideration: CR H3258-3262; text: CR H3260)
+- 2021-06-29 — Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended. (consideration: CR H3258-3262; text: CR H3260)
+- 2021-06-29 — Pursuant to the provisions of H. Res. 504, proceedings on H.R. 3261 are considered vacated.
