@@ -2,7 +2,7 @@
 legis-num: H. RES. 186
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 186
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the police officers claimed emotional and physical damages, but did not sustain any visible injury, or claim any time missed from work, and the law considers the police officers victims;
 - Whereas the Constitutional Supreme Court of the Russian Federation and the Second Court of Cassation of General Jurisdiction concurred that Russian procedural law was violated in the way that Trevor Reed’s bail was revoked;
 - Whereas the United States Embassy in Moscow has filed complaints with the Russian Foreign Ministry regarding denial of communications with Trevor Reed;
-- Whereas during the trial, the defense counsel presented 59 minutes of traffic camera video from four traffic cameras, and senior Russian Government officials analyzed the video recordings and confirmed that the videos showed the police car—(1)did not change direction or leave its lane; (2)did not swerve; and(3)did not stop or slow down;
+- Whereas during the trial, the defense counsel presented 59 minutes of traffic camera video from four traffic cameras, and senior Russian Government officials analyzed the video recordings and confirmed that the videos showed the police car— (1)did not change direction or leave its lane; (2)did not swerve; and (3)did not stop or slow down;
 - Whereas witnesses following directly behind the police car in a private vehicle never witnessed any dangerous movement of the police car;
 - Whereas the two police officers changed their testimonies in writing, in their interviews, and at least three times during defense questioning, with final answers to the judge being “I don’t remember.”, causing court attendees and the judge to laugh;
 - Whereas the Investigative Bureau and Golovinsky District Court Judge Arnout denied Trevor Reed’s requests to investigate how his injuries occurred;
