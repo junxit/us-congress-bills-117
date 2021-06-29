@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 504
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 504
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 2662) to amend the Inspector Gener
 - 2021-06-28 — The House Committee on Rules reported an original measure, H. Rept. 117-74, by Ms. Scanlon.
 - 2021-06-28 — The House Committee on Rules reported an original measure, H. Rept. 117-74, by Ms. Scanlon.
 - 2021-06-28 — The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
+- 2021-06-29 — Considered as privileged matter. (consideration: CR H3250-3258)
+- 2021-06-29 — DEBATE - The House proceeded with one hour of debate on H. Res. 504.
+- 2021-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-29 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 197 (Roll no. 190). (text: CR H3250-3251)
+- 2021-06-29 — On ordering the previous question Agreed to by the Yeas and Nays: 214 - 195 (Roll no. 189). (consideration: CR H3256-3257)
+- 2021-06-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 197 (Roll no. 190).(text: CR H3250-3251)

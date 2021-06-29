@@ -2,7 +2,7 @@
 legis-num: H. RES. 504
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 504
@@ -29,7 +29,7 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 
 ## § 6.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 3684) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-8, modified by Rules Committee Print 117-9 and the amendment printed in part B of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) 90 minutes of debate, with 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure or their respective designees and 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce or their respective designees; (2) any further amendments and amendments en bloc provided by subsequent order of the House; and (3) one motion to recommit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 3684) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-8, modified by Rules Committee Print 117–9 and the amendment printed in part B of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) 90 minutes of debate, with 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure or their respective designees and 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce or their respective designees; (2) any further amendments and amendments en bloc provided by subsequent order of the House; and (3) one motion to recommit.
 
 ## § 7.
 
