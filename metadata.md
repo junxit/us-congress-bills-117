@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 503
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 503
@@ -26,3 +26,11 @@ Establishing the Select Committee to Investigate the January 6th Attack on the U
 - 2021-06-28 — Introduced in House
 - 2021-06-28 — Referred to the House Committee on Rules.
 - 2021-06-28 — Rules Committee Resolution H. Res. 504 Reported to House. Rule provides for consideration of H.R. 2662, H.R. 3005, H.R. 3684 and H. Res. 503. The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
+- 2021-06-29 — Rule H. Res. 504 passed House.
+- 2021-06-30 — Considered under the provisions of rule H. Res. 504. (consideration: CR H3322-3335)
+- 2021-06-30 — DEBATE - The House proceeded with one hour of debate on H. Res. 503.
+- 2021-06-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-06-30 — On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 190 (Roll no. 197). (text: CR H3323-3324)
+- 2021-06-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 190 (Roll no. 197).(text: CR H3323-3324)
+- 2021-06-30 — Rule provides for consideration of H.R. 2662, H.R. 3005, H.R. 3684 and H. Res. 503. The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
+- 2021-06-30 — The previous question was ordered pursuant to the rule.
