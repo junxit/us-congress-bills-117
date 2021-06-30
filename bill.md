@@ -2,12 +2,12 @@
 legis-num: H. RES. 508
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 508
 
-> Providing for further consideration of the bill (H.R. 3684) to authorize funds for Federal-Aid Highways, Highway Safety Programs, and Transit Programs, and for other purposes; and for other purposes.
+> Providing for further consideration of the bill (H.R. 3684) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes; and for other purposes.
 
 That during further consideration of the bill (H.R. 3684) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes, pursuant to section 6 of House Resolution 504—
 
