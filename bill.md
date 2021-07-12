@@ -2,7 +2,7 @@
 legis-num: H.R. 3593
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3593
@@ -36,84 +36,85 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     > - **(a)** *Program* As part of the activities authorized under section 209 of the Department of Energy Organization Act (42 U.S.C. 7139), the Director shall carry out a research and development program in basic energy sciences, including materials sciences and engineering, chemical sciences, physical biosciences, geosciences, and other disciplines, to understand, model, and control matter and energy at the electronic, atomic, and molecular levels in order to provide the foundations for new energy technologies, address scientific grand challenges, and support the energy, environment, and national security missions of the Department.
     > - **(b)** *Sustainable chemistry* In carrying out chemistry-related research and development activities under this section, the Director shall prioritize research and development of sustainable chemistry to support clean, safe, and economic alternatives and methodologies to traditional chemical products and processes.
 
-  - **(3)** in subsection (d)(3), as so redesignated—
-    - **(A)** in subparagraph (C), by striking “and” at the end;
-    - **(B)** by redesignating subparagraph (D) as subparagraph (E); and
-    - **(C)** by inserting after subparagraph (C) the following:
-      > - **(D)** autonomous chemistry and materials synthesis and characterization facilities that leverage advances in artificial intelligence; and
+  - **(3)** in subsection (d), as so redesignated—
+    - **(A)** in paragraph (3)—
+      - **(i)** subparagraph (C), by striking “and” at the end;
+      - **(ii)** by redesignating subparagraph (D) as subparagraph (E); and
+      - **(iii)** by inserting after subparagraph (C) the following:
+        > - **(D)** autonomous chemistry and materials synthesis and characterization facilities that leverage advances in artificial intelligence; and
 
-  - **(4)** in subsection (d), as so redesignated, by adding at the end the following:
-    > - **(4)** *Advanced photon source upgrade*
-    >   - **(A)** *Definitions* In this paragraph:
-    >     - **(i)** *Flux* The term flux means the rate of flow of photons.
-    >     - **(ii)** *Hard x-ray* The term hard x-ray means a photon with energy greater than 20 kiloelectron volts.
-    >   - **(B)** *In general* The Secretary shall provide for the upgrade to the Advanced Photon Source described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of a multi-bend achromat lattice to produce a high flux of coherent x-rays within the hard x-ray energy region and a suite of beamlines optimized for this source.
-    >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before March 31, 2026.
-    >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph $157,000,000 for fiscal year 2022.
-    > - **(5)** *Spallation neutron source proton power upgrade*
-    >   - **(A)** *In general* The Secretary shall provide for the proton power upgrade to the Spallation Neutron Source.
-    >   - **(B)** *Proton power upgrade defined* For the purposes of this paragraph, the term proton power upgrade means the Spallation Neutron Source power upgrade described in—
-    >     - **(i)** the publication titled “Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in December, 2003;
-    >     - **(ii)** the publication titled “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in August, 2007; and
-    >     - **(iii)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”.
-    >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before December 31, 2028.
-    >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph $49,800,000 for fiscal year 2022.
-    > - **(6)** *Spallation neutron source second target station*
-    >   - **(A)** *In general* The Secretary shall provide for a second target station for the Spallation Neutron Source.
-    >   - **(B)** *Second target station defined* For the purposes of this paragraph, the term second target station means the Spallation Neutron Source second target station described in—
-    >     - **(i)** the publication titled, “Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in December, 2003;
-    >     - **(ii)** the publication titled, “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in August, 2007; and
-    >     - **(iii)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”.
-    >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the second target station under this paragraph occurs before December 31, 2030, with the option for early operation in 2029.
-    >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the activities under this paragraph, including construction—
-    >     - **(i)** $70,000,000 for fiscal year 2022;
-    >     - **(ii)** $127,000,000 for fiscal year 2023;
-    >     - **(iii)** $204,000,000 for fiscal year 2024;
-    >     - **(iv)** $279,000,000 for fiscal year 2025; and
-    >     - **(v)** $300,000,000 for fiscal year 2026.
-    > - **(7)** *Advanced light source upgrade*
-    >   - **(A)** *Definitions* In this paragraph:
-    >     - **(i)** *Flux* The term flux means the rate of flow of photons.
-    >     - **(ii)** *Soft x-ray* The term soft x-ray means a photon with energy in the range from 50 to 2,000 electron volts.
-    >   - **(B)** *In general* The Secretary shall provide for the upgrade to the Advanced Light Source described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of a multibend achromat lattice to produce a high flux of coherent x-rays within the soft x-ray energy region.
-    >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before September 30, 2029.
-    >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph—
-    >     - **(i)** $75,100,000 for fiscal year 2022;
-    >     - **(ii)** $135,000,000 for fiscal year 2023;
-    >     - **(iii)** $102,500,000 for fiscal year 2024;
-    >     - **(iv)** $25,000,000 for fiscal year 2025; and
-    >     - **(v)** $25,000,000 for fiscal year 2026.
-    > - **(8)** *Linac coherent light source II high energy upgrade*
-    >   - **(A)** *Definitions* In this paragraph:
-    >     - **(i)** *High energy x-ray* The term high energy x-ray means a photon with an energy in the 5 to 13 kiloelectron volt range.
-    >     - **(ii)** *High repetition rate* The term high repetition rate means the delivery of x-ray pulses up to 1 million pulses per second.
-    >     - **(iii)** *Ultra-short pulse x-rays* The term ultra-short pulse x-rays means x-ray bursts capable of durations of less than 100 femtoseconds.
-    >   - **(B)** *In general* The Secretary shall—
-    >     - **(i)** provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of experimental capabilities for high energy x-rays to reveal fundamental scientific discoveries; and
-    >     - **(ii)** ensure such upgrade enables the production and use of high energy, ultra-short pulse x-rays delivered at a high repetition rate.
-    >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before December 31, 2026.
-    >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph—
-    >     - **(i)** $106,925,000 for fiscal year 2022;
-    >     - **(ii)** $125,925,000 for fiscal year 2023;
-    >     - **(iii)** $115,000,000 for fiscal year 2024;
-    >     - **(iv)** $89,000,000 for fiscal year 2025; and
-    >     - **(v)** $49,344,000 for fiscal year 2026.
-    > - **(9)** *Cryomodule repair and maintenance facility*
-    >   - **(A)** *In general* The Secretary shall provide for the construction of a cryomodule repair and maintenance facility to service the Linac Coherent Light Source II and upgrades to the facility. The Secretary shall consult with the private sector, universities, National Laboratories, and relevant Federal agencies to ensure that this facility has the capability to maintain, repair, and test superconducting radiofrequency accelerator components.
-    >   - **(B)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the activities under this paragraph—
-    >     - **(i)** $19,000,000 for fiscal year 2022;
-    >     - **(ii)** $25,000,000 for fiscal year 2023;
-    >     - **(iii)** $25,000,000 for fiscal year 2024; and
-    >     - **(iv)** $17,000,000 for fiscal year 2025.
-    > - **(10)** *Nanoscale science research center recapitalization project*
-    >   - **(A)** *In general* The Secretary shall provide for the recapitalization of the Nanoscale Science Research Centers, to include the upgrade of equipment at each Center supported by the Office of Science on the date of enactment of the Department of Energy Science for the Future Act, to accelerate advances in the various fields of science including nanoscience, materials, chemistry, biology, and quantum information science.
-    >   - **(B)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the recapitalization under this paragraph—
-    >     - **(i)** $20,000,000 for fiscal year 2022;
-    >     - **(ii)** $30,000,000 for fiscal year 2023;
-    >     - **(iii)** $20,000,000 for fiscal year 2024; and
-    >     - **(iv)** $20,000,000 for fiscal year 2025.
+    - **(B)** by adding at the end the following:
+      > - **(4)** *Advanced photon source upgrade*
+      >   - **(A)** *Definitions* In this paragraph:
+      >     - **(i)** *Flux* The term flux means the rate of flow of photons.
+      >     - **(ii)** *Hard x-ray* The term hard x-ray means a photon with energy greater than 20 kiloelectron volts.
+      >   - **(B)** *In general* The Secretary shall provide for the upgrade to the Advanced Photon Source described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of a multi-bend achromat lattice to produce a high flux of coherent x-rays within the hard x-ray energy region and a suite of beamlines optimized for this source.
+      >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before March 31, 2026.
+      >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph $101,000,000 for fiscal year 2022 and $56,000,000 for fiscal year 2023.
+      > - **(5)** *Spallation neutron source proton power upgrade*
+      >   - **(A)** *In general* The Secretary shall provide for the proton power upgrade to the Spallation Neutron Source.
+      >   - **(B)** *Proton power upgrade defined* For the purposes of this paragraph, the term proton power upgrade means the Spallation Neutron Source power upgrade described in—
+      >     - **(i)** the publication titled “Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in December, 2003;
+      >     - **(ii)** the publication titled “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in August, 2007; and
+      >     - **(iii)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”.
+      >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before July 30, 2028, with the option for early operation in 2025.
+      >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph $49,800,000 for fiscal year 2022.
+      > - **(6)** *Spallation neutron source second target station*
+      >   - **(A)** *In general* The Secretary shall provide for a second target station for the Spallation Neutron Source.
+      >   - **(B)** *Second target station defined* For the purposes of this paragraph, the term second target station means the Spallation Neutron Source second target station described in—
+      >     - **(i)** the publication titled, “Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in December, 2003;
+      >     - **(ii)** the publication titled, “Four Years Later: An Interim Report on Facilities for the Future of Science: A Twenty-Year Outlook”, published by the Office of Science of the Department of Energy in August, 2007; and
+      >     - **(iii)** the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”.
+      >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the second target station under this paragraph occurs before December 31, 2033, with the option for early operation in 2029.
+      >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the activities under this paragraph, including construction—
+      >     - **(i)** $70,000,000 for fiscal year 2022;
+      >     - **(ii)** $127,000,000 for fiscal year 2023;
+      >     - **(iii)** $204,000,000 for fiscal year 2024;
+      >     - **(iv)** $279,000,000 for fiscal year 2025; and
+      >     - **(v)** $300,000,000 for fiscal year 2026.
+      > - **(7)** *Advanced light source upgrade*
+      >   - **(A)** *Definitions* In this paragraph:
+      >     - **(i)** *Flux* The term flux means the rate of flow of photons.
+      >     - **(ii)** *Soft x-ray* The term soft x-ray means a photon with energy in the range from 50 to 2,000 electron volts.
+      >   - **(B)** *In general* The Secretary shall provide for the upgrade to the Advanced Light Source described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of a multibend achromat lattice to produce a high flux of coherent x-rays within the soft x-ray energy region.
+      >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before September 30, 2029.
+      >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph—
+      >     - **(i)** $75,100,000 for fiscal year 2022;
+      >     - **(ii)** $135,000,000 for fiscal year 2023;
+      >     - **(iii)** $102,500,000 for fiscal year 2024;
+      >     - **(iv)** $25,000,000 for fiscal year 2025; and
+      >     - **(v)** $25,000,000 for fiscal year 2026.
+      > - **(8)** *Linac coherent light source II high energy upgrade*
+      >   - **(A)** *Definitions* In this paragraph:
+      >     - **(i)** *High energy x-ray* The term high energy x-ray means a photon with an energy in the 5 to 13 kiloelectron volt range.
+      >     - **(ii)** *High repetition rate* The term high repetition rate means the delivery of x-ray pulses up to 1 million pulses per second.
+      >     - **(iii)** *Ultra-short pulse x-rays* The term ultra-short pulse x-rays means x-ray bursts capable of durations of less than 100 femtoseconds.
+      >   - **(B)** *In general* The Secretary shall—
+      >     - **(i)** provide for the upgrade to the Linac Coherent Light Source II facility described in the publication approved by the Basic Energy Sciences Advisory Committee on June 9, 2016, titled “Report on Facility Upgrades”, including the development of experimental capabilities for high energy x-rays to reveal fundamental scientific discoveries; and
+      >     - **(ii)** ensure such upgrade enables the production and use of high energy, ultra-short pulse x-rays delivered at a high repetition rate.
+      >   - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the upgrade under this paragraph occurs before December 31, 2026.
+      >   - **(D)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the upgrade under this paragraph—
+      >     - **(i)** $106,925,000 for fiscal year 2022;
+      >     - **(ii)** $125,925,000 for fiscal year 2023;
+      >     - **(iii)** $115,000,000 for fiscal year 2024;
+      >     - **(iv)** $89,000,000 for fiscal year 2025; and
+      >     - **(v)** $49,344,000 for fiscal year 2026.
+      > - **(9)** *Cryomodule repair and maintenance facility*
+      >   - **(A)** *In general* The Secretary shall provide for the construction of a cryomodule repair and maintenance facility to service the Linac Coherent Light Source II and upgrades to the facility. The Secretary shall consult with the private sector, universities, National Laboratories, and relevant Federal agencies to ensure that this facility has the capability to maintain, repair, and test superconducting radiofrequency accelerator components.
+      >   - **(B)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the activities under this paragraph—
+      >     - **(i)** $19,000,000 for fiscal year 2022;
+      >     - **(ii)** $25,000,000 for fiscal year 2023;
+      >     - **(iii)** $25,000,000 for fiscal year 2024; and
+      >     - **(iv)** $17,000,000 for fiscal year 2025.
+      > - **(10)** *Nanoscale science research center recapitalization project*
+      >   - **(A)** *In general* The Secretary shall provide for the recapitalization of the Nanoscale Science Research Centers, to include the upgrade of equipment at each Center supported by the Office of Science on the date of enactment of the Department of Energy Science for the Future Act, to accelerate advances in the various fields of science including nanoscience, materials, chemistry, biology, and quantum information science.
+      >   - **(B)** *Funding* Out of funds authorized to be appropriated under subsection (j), there shall be made available to the Secretary to carry out the recapitalization under this paragraph—
+      >     - **(i)** $20,000,000 for fiscal year 2022;
+      >     - **(ii)** $30,000,000 for fiscal year 2023;
+      >     - **(iii)** $20,000,000 for fiscal year 2024; and
+      >     - **(iv)** $20,000,000 for fiscal year 2025.
 
-  - **(5)** by adding at the end the following:
+  - **(4)** by adding at the end the following:
     > - **(h)** *Computational materials and chemical sciences*
     >   - **(1)** *In general* The Director shall support a program of research and development for the application of advanced computing practices to foundational and emerging research problems in chemistry and materials science. Research activities shall include—
     >     - **(A)** chemical catalysis research and development;
@@ -149,12 +150,12 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
 
 - **(b)** *Artificial photosynthesis* Section 973 of the Energy Policy Act of 2005 (42 U.S.C. 16313) is amended—
   - **(1)** in subsection (b), by striking paragraph (4) and inserting:
-    > - **(4)** *Funding* From within funds authorized to be appropriated for Basic Energy Sciences, the Secretary shall make available for carrying out activities under this subsection $50,000,000 for each of fiscal years 2022 through 2031.
+    > - **(4)** *Funding* From within funds authorized to be appropriated for Basic Energy Sciences, the Secretary shall make available for carrying out activities under this subsection $50,000,000 for each of fiscal years 2022 through 2026.
 
   - **(2)** in subsection (c), by striking paragraph (4) and inserting:
     > - **(4)** *Funding* From within funds authorized to be appropriated in section 316 of the Department of Energy Research and Innovation Act, the Secretary shall make available for carrying out activities under this subsection $50,000,000 for each of fiscal years 2022 through 2026.
 
-- **(c)** *Electricity storage research initiative* Section 975 of the Energy Policy Act of 2005 (42 U.S.C.16315) is amended—
+- **(c)** *Electricity storage research initiative* Section 975 of the Energy Policy Act of 2005 (42 U.S.C. 16315) is amended—
   - **(1)** in subsection (b), by striking paragraph (4) and inserting:
     > - **(4)** *Funding* From within funds authorized to be appropriated for Basic Energy Sciences, the Secretary shall make available for carrying out activities under this subsection $50,000,000 for each of fiscal years 2022 through 2026.
 
@@ -223,17 +224,17 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   >   - **(6)** *Industry partnerships* Centers shall establish industry partnerships to translate research results to commercial applications.
   >   - **(7)** *Coordination* In coordination with the Bioenergy Technologies Office of the Department, the Director shall support interdisciplinary research activities to improve the capacity, efficiency, resilience, security, reliability, and affordability, of the production and use of biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
 
-- **(c)** *Low-dose radiation research program* Section 306(e)(8) of the Department of Energy Research and Innovation Act (42 U.S.C. 18644(c)(8)), as redesignated under subsection (a), is amended—
+- **(c)** *Low-Dose radiation research program* Section 306(e)(8) of the Department of Energy Research and Innovation Act (42 U.S.C. 18644(e)(8)), as redesignated under subsection (a), is amended—
   - **(1)** in subparagraph (C), by striking “and”;
   - **(2)** in subparagraph (D), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following:
     > - **(E)** $40,000,000 for fiscal year 2025; and
     > - **(F)** $50,000,000 for fiscal year 2026.
 
-- **(d)** *Low-dose radiation and space radiation research program* Section 306(f) of the Department of Energy Research and Innovation Act (42 U.S.C. 18644(d)), as redesignated under subsection (a), is amended to read as follows:
-  > - **(f)** *Low-dose radiation and space radiation research program*
-  >   - **(1)** *In general* The Secretary of Energy, in consultation with the Administrator of the National Aeronautics and Space Administration shall carry out a basic research program on the similarities and differences between the effects of exposure to low-dose radiation on Earth, in low Earth orbit, and in the space environment.
-  >   - **(2)** *Purpose* The purpose of this program is to accelerate breakthroughs in low-dose and low dose-rate radiation research and development as described in subsection (d) and to inform the advancement of new tools, technologies, and advanced materials needed to facilitate long-duration space exploration.
+- **(d)** *Low-Dose radiation and space radiation research program* Section 306(f) of the Department of Energy Research and Innovation Act (42 U.S.C. 18644(d)), as redesignated under subsection (a), is amended to read as follows:
+  > - **(f)** *Low-Dose radiation and space radiation research program*
+  >   - **(1)** *In general* The Secretary of Energy, in consultation with the Administrator of the National Aeronautics and Space Administration, shall carry out a basic research program on the similarities and differences between the effects of exposure to low-dose radiation on Earth, in low Earth orbit, and in the space environment.
+  >   - **(2)** *Purpose* The purpose of this program is to accelerate breakthroughs in low-dose and low dose-rate radiation research and development as described in subsection (e) and to inform the advancement of new tools, technologies, and advanced materials needed to facilitate long-duration space exploration.
 
 - **(e)** *Climate, environmental science, and other activities* Section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644) is further amended by adding at the end the following:
   > - **(g)** *Earth and environmental systems sciences activities*
@@ -250,7 +251,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   >     - **(A)** *In general* As part of the activities described in paragraph (1), the Director shall carry out research to advance an integrated, robust, and scale-aware predictive understanding of environmental systems, including the role of hydrobiogeochemistry, from the subsurface to the top of the vegetative canopy that considers effects of seasonal to interannual variability and change.
   >     - **(B)** *Clean water and watershed research* As part of the activities described in subparagraph (A), the Director shall—
   >       - **(i)** support interdisciplinary research to significantly advance our understanding of water availability, quality, and the impact of human activity and a changing climate on urban and rural watershed systems, including in freshwater environments;
-  >       - **(ii)** consult with the Interagency Research, Development, and Demonstration Coordination Committee on the Nexus of Energy and Water for Sustainability established under section 1010 of the Energy Act of 2020 (division Z of the Consolidated Appropriations Act, 2021) on energy-water nexus research activities; and
+  >       - **(ii)** consult with the Interagency Research, Development, and Demonstration Coordination Committee on the Nexus of Energy and Water for Sustainability established under section 1010 of the Energy Act of 2020 (division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260)) on energy-water nexus research activities; and
   >       - **(iii)** engage with representatives of research and academic institutions, nonprofit organizations, State, local, and tribal governments, and industry, who have expertise in technologies, technological innovations, or practices relating to the energy-water nexus, as applicable.
   >     - **(C)** *Coordination*
   >       - **(i)** *Director* The Director shall carry out activities under this paragraph in accordance with priorities established by the Secretary to support and accelerate the decontamination of relevant facilities managed by the Department.
@@ -316,7 +317,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     > - **(a)** *In general* As part of the activities authorized under section 209 of the Department of Energy Organization Act (42 U.S.C. 7139), the Director shall carry out, in coordination with academia and relevant public and private sector entities, a research, development, and demonstration program to—
     >   - **(1)** steward applied mathematics, computational science, and computer science research relevant to the missions of the Department and the competitiveness of the United States;
     >   - **(2)** develop modeling, simulation, and other computational tools relevant to other scientific disciplines and to the development of new energy technologies and other technologies;
-    >   - **(3)** advance computating and networking capabilities for data-driven discovery; and
+    >   - **(3)** advance computing and networking capabilities for data-driven discovery; and
     >   - **(4)** develop advanced scientific computing hardware and software tools for science and engineering.
 
   - **(3)** in subsection (c) (as redesignated under paragraph (1))—
@@ -327,7 +328,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       > - **(2)** *Coordination* The Under Secretary for Science shall ensure the coordination of the activities of the Department, including activities under this section, to determine and meet the computational and networking research and facility needs of the Office of Science and all other relevant energy technology and energy efficiency programs within the Department and with other Federal agencies as appropriate.
 
   - **(4)** by amending subsection (d), as so redesignated, to read as follows:
-    > - **(d)** *Applied mathematics and software development for high-end computing systems and computer sciences research*
+    > - **(d)** *Applied mathematics and software development for high-End computing systems and computer sciences research*
     >   - **(1)** *In general* The Director shall carry out activities to develop, test, and support—
     >     - **(A)** mathematics, statistics, and algorithms for modeling complex systems relevant to the missions of the Department, including on advanced computing architectures; and
     >     - **(B)** tools, languages, programming environments, and operations for high-end computing systems (as defined in section 2 of the American Super Computing Leadership Act (15 U.S.C. 5541).
@@ -342,10 +343,10 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(5)** by inserting after subsection (d) the following:
     > - **(e)** *Next generation computing program*
     >   - **(1)** *In general* The Secretary shall establish a program to develop and implement a strategy for achieving computing systems with capabilities beyond exascale computing systems. In establishing this program, the Secretary shall—
-    >     - **(A)** maintain foundational research programs in mathematical, computational, and computer sciences focused on new and emerging computing needs within the mission of the Department, including post-Moore’s law computing architectures, novel approaches to modeling and simulation, artificial intelligence and scientific machine learning, quantum computing, edge computing, extreme heterogeneity, and distributed high-performance computing; and
+    >     - **(A)** maintain foundational research programs in mathematical, computational, and computer sciences focused on new and emerging computing needs within the mission of the Department, including post-Moore’s law computing architectures, novel approaches to modeling and simulation, artificial intelligence and scientific machine learning, quantum computing, edge computing, extreme heterogeneity, and distributed high-performance computing;
     >     - **(B)** retain best practices and maintain support for essential hardware, applications, and software elements of the Exascale Computing Program that are necessary for sustaining the vitality of a long-term capable software ecosystem for exascale and beyond; and
     >     - **(C)** develop a Department-wide strategy for balancing on-premises and cloud-based computing and scientific data management.
-    >   - **(2)** *Report* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, a report on the development and implementation of the strategy outlined in paragraph (1).
+    >   - **(2)** *Report* Not later than one year after the date of the enactment of the Department of Energy Science for the Future Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, a report on the development and implementation of the strategy outlined in paragraph (1).
     > - **(f)** *Architectural research in heterogeneous computing systems*
     >   - **(1)** *In general* The Secretary shall carry out a program of research and development in heterogeneous and reconfigurable computing systems to expand understanding of the potential for heterogeneous and reconfigurable computing systems to deliver high performance, high efficiency computing for Department of Energy mission challenges. This shall include research and development that explores the convergence of big data analytics, simulations, and artificial intelligence to drive the design of heterogenous computing system architectures.
     >   - **(2)** *Coordination* In carrying out this program, the Secretary shall ensure coordination between research activities undertaken by the Advanced Scientific Computing Research program and materials research supported by the Basic Energy Sciences program within the Department of Energy Office of Science.
@@ -354,7 +355,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     >   - **(2)** *Execution*
     >     - **(A)** *Program* In carrying out the program under paragraph (1), the Secretary shall—
     >       - **(i)** establish a partnership for National Laboratories, industry partners, and institutions of higher education for codesign of energy efficient hardware, technology, software, and applications across all applicable program offices of the Department, and provide access to energy efficient computing resources to such partners;
-    >       - **(ii)** develop hardware and software technologies that decrease the energy needs of advanced computing practices, including through data center co-design; and
+    >       - **(ii)** develop hardware and software technologies that decrease the energy needs of advanced computing practices, including through data center co-design;
     >       - **(iii)** consider multiple heterogeneous computing architectures in collaboration with the program established under subsection (f) including neuromorphic computing, persistent computing, and ultrafast networking; and
     >       - **(iv)** provide, as appropriate, on a competitive, merit-reviewed basis, access for researchers from institutions of higher education, National Laboratories, industry, and other Federal agencies to the energy efficient computing technologies developed pursuant to clause (i).
     >     - **(B)** *Selection of partners* In selecting participants for the partnership established under subparagraph (A)(i), the Secretary shall select participants through a competitive, merit review process.
@@ -398,13 +399,13 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >   - **(1)** facilitate the advancement of distributed quantum computing systems through the internet and intranet;
       >   - **(2)** improve the precision of measurements of scientific phenomena and physical imaging technologies;
       >   - **(3)** develop secure national quantum communications technologies and strategies; and
-      >   - **(4)** demonstrate these capabilities utilizing the Department’s Energy Sciences Network User Facility.
+      >   - **(4)** demonstrate these capabilities utilizing the Department of Energy’s Energy Sciences Network User Facility.
       > - **(b)** *Program* In carrying out this section, the Secretary shall—
       >   - **(1)** coordinate with—
       >     - **(A)** the Director of the National Science Foundation;
       >     - **(B)** the Director of the National Institute of Standards and Technology;
-      >     - **(C)** the Chair of the subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a); and
-      >     - **(D)** the Chair of the subcommittee on the Economic and Security Implications of Quantum Science;
+      >     - **(C)** the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a); and
+      >     - **(D)** the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;
       >   - **(2)** conduct cooperative research with industry, National Laboratories, institutions of higher education, and other research institutions to facilitate new quantum infrastructure methods and technologies, including—
       >     - **(A)** quantum-limited detectors, ultra-low loss optical channels, space-to-ground connections, and classical networking and cybersecurity protocols;
       >     - **(B)** entanglement and hyper-entangled state sources and transmission, control, and measurement of quantum states;
@@ -416,7 +417,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >     - **(H)** integration of systems across the quantum technology stack into traditional computing networks, including the development of remote controlled, high performance, and reliable implementations of key quantum network components by leveraging the expertise, infrastructure and supplemental investments in the Energy Sciences Network User Facility;
       >   - **(3)** engage with the Quantum Economic Development Consortium (QED–C) to transition component technologies to help facilitate as appropriate the development of a quantum supply chain for quantum network technologies;
       >   - **(4)** advance basic research in advanced scientific computing, particle and nuclear physics, and material science to enhance the understanding, prediction, and manipulation of materials, processes, and physical phenomena relevant to quantum network infrastructure;
-      >   - **(5)** develop experimental tools and testbeds in collaboration with the Department’s Energy Sciences Network User Facility necessary to support cross-cutting fundamental research and development activities with diverse stakeholders from industry, National Laboratories, and institutions of higher education; and
+      >   - **(5)** develop experimental tools and testbeds in collaboration with the Department of Energy’s Energy Sciences Network User Facility necessary to support cross-cutting fundamental research and development activities with diverse stakeholders from industry, National Laboratories, and institutions of higher education; and
       >   - **(6)** consider quantum network infrastructure applications that span the Department of Energy’s missions in energy, environment, and national security.
       > - **(c)** *Leveraging* In carrying out this section, the Secretary shall leverage resources, infrastructure, and expertise across the Department of Energy and from—
       >   - **(1)** the National Institute of Standards and Technology;
@@ -433,7 +434,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >
       > ## § 404. Department of energy quantum user expansion for science and technology program
       >
-      > - **(a)** *In general* The Secretary of Energy (referred to in this section as the “Secretary”) shall establish and carry out a program (to be known as the “Quantum User Expansion for Science and Technology program” or “QUEST program”) to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes in order to—
+      > - **(a)** *In general* The Secretary of Energy (referred to in this section as the “Secretary”) shall establish and carry out a program (to be known as the “Quantum User Expansion for Science and Technology program” or “QUEST program”) to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes to—
       >   - **(1)** enhance the United States quantum research enterprise;
       >   - **(2)** educate the future quantum computing workforce; and
       >   - **(3)** accelerate the advancement of United States quantum computing capabilities.
@@ -441,8 +442,8 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >   - **(1)** coordinate with—
       >     - **(A)** the Director of the National Science Foundation;
       >     - **(B)** the Director of the National Institute of Standards and Technology;
-      >     - **(C)** the Chair of the Quantum Information Science of the National Science and Technology Council established under section 103(a); and
-      >     - **(D)** the Chair of the subcommittee on the Economic and Security Implications of Quantum Science;
+      >     - **(C)** the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 103(a); and
+      >     - **(D)** the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;
       >   - **(2)** provide researchers based within the United States with access to, and use of, United States quantum computing resources through a competitive, merit-reviewed process;
       >   - **(3)** consider applications from the National Laboratories, multi-institutional collaborations, institutions of higher education, industry stakeholders, and any other entities that the Secretary determines are appropriate to provide national leadership on quantum computing related issues; and
       >   - **(4)** consult and coordinate with private sector stakeholders, the user community, and interagency partners on program development and best management practices.
@@ -462,7 +463,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
       >   - **(3)** $70,000,000 for fiscal year 2024;
       >   - **(4)** $90,000,000 for fiscal year 2025; and
       >   - **(5)** $100,000,000 for fiscal year 2026.
-      > - **(f)** *Equitable use of high-performance computing capabilities*
+      > - **(f)** *Equitable use of high-Performance computing capabilities*
       >   - **(1)** *Sense of congress* It is the sense of Congress that machine learning algorithms can exhibit biases that cause harm to historically marginalized communities.
       >   - **(2)** *Policy* In leveraging high-performance computing systems for research purposes, including through the use of machine learning algorithms for data analysis, the Secretary shall ensure that such capabilities are employed in a manner that mitigates and, to the maximum extent practicable, avoids harmful algorithmic bias and equitably addresses challenges impacting different populations, including historically marginalized communities.
 
@@ -514,11 +515,11 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
 
     - **(B)** in paragraph (1) (as so designated by subparagraph (A) of this paragraph), by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following:
-      > - **(2)** the Director shall incorporate the findings and recommendations of the report of the Fusion Energy Sciences Advisory Committee entitled “Powering the Future: Fusion and Plasmas” and the report of the National Academies entitled “Bringing Fusion to the U.S. Grid” into the planning process of the Department, including the development of future budget requests to Congress.
+      > - **(2)** the Director shall incorporate the findings and recommendations of the report of the Fusion Energy Sciences Advisory Committee entitled “Powering the Future: Fusion and Plasmas” and the report of the National Academies of Science, Engineering, and Medicine entitled “Bringing Fusion to the U.S. Grid” into the planning process of the Department, including the development of future budget requests to Congress.
 
   - **(7)** by redesignating subsection (o) as subsection (r);
   - **(8)** by inserting after subsection (n) the following:
-    > - **(o)** *High-performance computation collaborative research program*
+    > - **(o)** *High-Performance computation collaborative research program*
     >   - **(1)** *In general* The Secretary shall carry out a program to conduct and support collaborative research, development, and demonstration of fusion energy technologies, through high-performance computation modeling and simulation techniques, in order to—
     >     - **(A)** support fundamental research in plasmas and matter at very high temperatures and densities;
     >     - **(B)** inform the development of a broad range of fusion energy systems; and
@@ -533,7 +534,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     >   - **(3)** *Duplication* The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of this program with the activities of—
     >     - **(A)** other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency–Energy, the Advanced Scientific Computing Research program; and
     >     - **(B)** industry.
-    >   - **(4)** *High-performance computing for fusion innovation center* In carrying out the program under paragraph (1), the Secretary shall, in coordination with the Innovation Network for Fusion Energy, establish and operate a national High-Performance Computing for Fusion Innovation Center (referred to in this section as the ‘Center’), in order to support the program under paragraph (1) by providing, to the extent practicable, a centralized entity for multidisciplinary, collaborative, fusion energy research and development through high performance computing and advanced data analytics technologies and processes.
+    >   - **(4)** *High-performance computing for fusion innovation center* In carrying out the program under paragraph (1), the Secretary shall, in coordination with the Innovation Network for Fusion Energy, establish and operate a national High-Performance Computing for Fusion Innovation Center (referred to in this subsection as the ‘Center’), to support the program under paragraph (1) by providing, to the extent practicable, a centralized entity for multidisciplinary, collaborative, fusion energy research and development through high performance computing and advanced data analytics technologies and processes.
     >   - **(5)** *Selection* The Secretary shall select the Center under this subsection on a competitive, merit-reviewed basis. The Secretary shall consider applications from National Laboratories, institutions of higher education, multi-institutional collaborations, and other appropriate entities.
     >   - **(6)** *Existing activities* The Center may incorporate existing research activities that are consistent with the program described in paragraph (1).
     >   - **(7)** *Duration* The Center established under this subsection shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
@@ -541,7 +542,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     >   - **(9)** *Termination* Consistent with the existing authorities of the Department, the Secretary may terminate the Center for cause during the performance period.
     > - **(p)** *Material plasma exposure experiment*
     >   - **(1)** *In general* The Secretary shall construct a Material Plasma Exposure Experiment facility as described in the 2020 publication approved by the Fusion Energy Sciences Advisory Committee titled “Powering the Future: Fusion and Plasmas”. The Secretary shall consult with the private sector, universities, National Laboratories, and relevant Federal agencies to ensure that this facility is capable of meeting Federal research needs for steady state, high-heat-flux and plasma-material interaction testing of fusion materials over a range of fusion energy relevant parameters.
-    >   - **(2)** *Facility capabilities* The Secretary shall ensure that the facility described in subsection (a) will provide the following capabilities:
+    >   - **(2)** *Facility capabilities* The Secretary shall ensure that the facility described in paragraph (1) will provide the following capabilities:
     >     - **(A)** A magnetic field at the target of 1 Tesla.
     >     - **(B)** An energy flux at the target of 10 MW/m2.
     >     - **(C)** The ability to expose previously irradiated plasma facing material samples to plasma.
@@ -577,7 +578,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   - **(1)** by redesignating subsections (b) through (d) as subsections (d) through (f), respectively; and
   - **(2)** by inserting the following after subsection (a):
     > - **(b)** *Program* As part of the activities authorized under section 209 of the Department of Energy Organization Act (42 U.S.C. 7139), the Director shall carry out a research program in elementary particle physics and advanced technology research and development to improve the understanding of the fundamental properties of the universe, including constituents of matter and energy and the nature of space and time.
-    > - **(c)** *High energy frontier research* As part of the program described in subsection (a), the Director shall carry out research using high energy accelerators and advanced detectors, including accelerators and detectors that will function as national user facilities, to create and study interactions of elementary particles and investigate fundamental forces.
+    > - **(c)** *High energy frontier research* As part of the program described in subsection (b), the Director shall carry out research using high energy accelerators and advanced detectors, including accelerators and detectors that will function as national user facilities, to create and study interactions of elementary particles and investigate fundamental forces.
 
 - **(b)** *International collaboration* Section 305(d) of the Department of Energy Research and Innovation Act (42 U.S.C. 18643(d)), as redesignated under subsection (a), is amended to read as follows:
   > - **(d)** *International collaboration* The Director shall—
@@ -590,7 +591,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   >   - **(1)** collaborations with the National Aeronautics and Space Administration, the National Science Foundation, or international partners on relevant projects; and
   >   - **(2)** the development of space-based, land-based, water-based, and underground facilities and experiments.
 
-- **(d)** *Further activities* Section 305 of the Department of Energy Research and Innovation Act (42 U.S.C. 18645), as amended, is further amended by adding at the end the following:
+- **(d)** *Further activities* Section 305 of the Department of Energy Research and Innovation Act (42 U.S.C. 18645) is further amended by adding at the end the following:
   > - **(g)** *Facility construction and major items of equipment*
   >   - **(1)** *Projects* Consistent with the Office of Science’s project management practices, the Director shall, to the maximum extent practicable, incorporate the findings and recommendations of the 2014 Particle Physics Project Prioritization Panel (P5) report titled “Building for Discovery”, and support construction or fabrication of—
   >     - **(A)** an international Long-Baseline Neutrino Facility based in the United States;
@@ -638,10 +639,10 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
   >       - **(iv)** $80,000,000 for fiscal year 2025; and
   >       - **(v)** $90,000,000 for fiscal year 2026.
   > - **(h)** *Accelerator and detector upgrades* The Director shall upgrade accelerator facilities and detectors, as necessary and appropriate, to increase beam power, sustain high reliability, and improve precision measurement to advance the highest priority particle physics research programs. In carrying out facility upgrades, the Director shall continue to work with international partners, when appropriate and in the United States’ interest, to leverage investments and expertise in critical technologies to help build and upgrade accelerator and detector facilities in the United States.
-  > - **(i)** *Accelerator and detector research and development* As part of the program described in subsection (a), the Director shall carry out research and development in particle beam physics, accelerator science and technology, and particle and radiation detection with relevance to the specific needs of the High Energy Physics program, in coordination with the Accelerator Research and Development program authorized in section 311.
+  > - **(i)** *Accelerator and detector research and development* As part of the program described in subsection (b), the Director shall carry out research and development in particle beam physics, accelerator science and technology, and particle and radiation detection with relevance to the specific needs of the High Energy Physics program, in coordination with the Accelerator Research and Development program authorized in section 310.
   > - **(j)** *Underground science* The Director shall—
   >   - **(1)** support an underground science program consistent with the missions of the Department and the scientific needs of the High Energy Physics program, including those articulated in the most recent report of the Particle Physics Project Prioritization Panel of the High Energy Physics Advisory Panel, that leverages the capabilities of relevant underground science and engineering facilities; and
-  >   - **(2)** carry out a competitive grant program to award scientists and engineers at institutions of higher education, nonprofit institutions, and national laboratories to conduct research in underground science and engineering.
+  >   - **(2)** carry out a competitive grant program to award scientists and engineers at institutions of higher education, nonprofit institutions, and National Laboratories to conduct research in underground science and engineering.
   > - **(k)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to carry out the activities described in this section—
   >   - **(1)** $1,355,690,000 for fiscal year 2022;
   >   - **(2)** $1,517,628,300 for fiscal year 2023;
@@ -662,7 +663,7 @@ Section 209 of the Department of Energy Organization Act (42 U.S.C. 7139) is ame
     >     - **(B)** *Funding* Out of funds authorized to be appropriated under subsection (c), there shall be made available to the Secretary to carry out construction of the facility under this subsection $2,000,000 for fiscal year 2022.
     >     - **(C)** *Start of operations* The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility under this section occurs before March 1, 2022.
     >   - **(2)** *Electron-ion collider*
-    >     - **(A)** *In general* The Secretary shall support construction of an Electron Ion Collider as described in the 2015 Long Range Plan of the Nuclear Science Advisory Committee and the report from the National Academies titled “An Assessment of U.S.-Based Electron-Ion Collider Science”, in order to measure the internal structure of the proton and the nucleus and answer fundamental questions about the nature of visible matter.
+    >     - **(A)** *In general* The Secretary shall support construction of an Electron Ion Collider as described in the 2015 Long Range Plan of the Nuclear Science Advisory Committee and the report from the National Academies of Science, Engineering, and Medicine titled “An Assessment of U.S.-Based Electron-Ion Collider Science”, in order to measure the internal structure of the proton and the nucleus and answer fundamental questions about the nature of visible matter.
     >     - **(B)** *Facility capability* The Secretary shall ensure that the facility meets the requirements in the 2015 Long Range Plan, including—
     >       - **(i)** at least 70 percent polarized beams of electrons and light ions;
     >       - **(ii)** ion beams from deuterium to the heaviest stable nuclei;
@@ -715,9 +716,9 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
 > ## § 311. Isotope Development and Production for Research Applications
 >
 > - **(a)** *In general* The Director—
->   - **(1)** shall carry out a program in coordination with other relevant programs across the Department of Energy for the production of isotopes, including the development of techniques to produce isotopes, that the Secretary determines are needed for research, medical, industrial, or related purposes, to the maximum extent practicable, in accordance with the 2015 NSAC ‘Meeting Isotope Needs and Capturing Opportunities For The Future’ report; and
+>   - **(1)** shall carry out a program in coordination with other relevant programs across the Department for the production of isotopes, including the development of techniques to produce isotopes, that the Secretary determines are needed for research, medical, industrial, or related purposes, to the maximum extent practicable, in accordance with the 2015 Nuclear Science Advisory Committee ‘Meeting Isotope Needs and Capturing Opportunities For The Future’ report; and
 >   - **(2)** shall ensure that isotope production activities carried out under the program under this paragraph do not compete with private industry unless the Director determines that critical national interests require the involvement of the Federal Government.
-> - **(b)** *Authorization of appropriations* There are authorized to be appropriated to carry out the program under this subsection—
+> - **(b)** *Authorization of appropriations* There are authorized to be appropriated to carry out the program under this section—
 >   - **(1)** $90,000,000 for fiscal year 2022;
 >   - **(2)** $96,300,000 for fiscal year 2023;
 >   - **(3)** $103,041,000 for fiscal year 2024;
@@ -727,36 +728,22 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
 ## § 11. Science laboratories infrastructure program
 
 - **(a)** *Program* Section 309 of the Department of Energy Research and Innovation Act (42 U.S.C. 18647) is amended by adding at the end the following:
-  > - **(c)** *Approach* In carrying out this section, the Director shall utilize all available approaches and mechanisms, including capital line items, minor construction projects, energy savings performance contracts, utility energy service contracts, alternative financing and expense funding, as appropriate.
-  > - **(d)** *Alternative financing of research facilities and infrastructure*
-  >   - **(1)** *In general* Consistent with section 161(g) of the Atomic Energy Act of 1954 (42 U.S.C. 2201(g)), the Management and Operating contractors of the Department may enter into the lease-purchase of research facilities and infrastructure under the scope of their contract with the Department with the approval of the Secretary or their designee.
-  >   - **(2)** *Limitations* To carry out lease-purchases approved by the Secretary under subsection (a), the Department shall only be required to have budget authority in an amount sufficient to cover the minimum required lease payments through the period required to exercise a termination provision in the lease agreement, plus any associated lease termination penalties, regardless of whether such leased facility and infrastructure is on or off Government land, and if—
-  >     - **(A)** the Department has established a mission need for the facility or infrastructure to be leased;
-  >     - **(B)** the facility or infrastructure is general purpose, including offices, laboratories, cafeterias, utilities, and data centers;
-  >     - **(C)** the Department is not a party to and has no financial obligations under the lease-purchase transaction entered into by the Management and Operating contractor, other than allowability of the lease cost and conveyance of Government land, if needed;
-  >     - **(D)** the lease-purchase has an advance notice termination provision with reasonable pre-defined penalties that the Management and Operating contractor may exercise, at the direction of the Department, if funding for the lease is no longer available or the mission need ceases to exist;
-  >     - **(E)** there is an option for a no cost transfer of ownership to the Government once the underlying financing is retired, but neither the Management and Operating contractor nor the Department are obligated to purchase the facility or infrastructure at any time during or after the lease term;
-  >     - **(F)** the lease-purchase transaction, assuming exercise of the ownership option, is demonstrated to be the lowest lifecycle cost alternative for the Government; and
-  >     - **(G)** the cumulative annual base rent for all lease-purchases of facilities and infrastructure, inclusive of any transactions under consideration, does not exceed 2 percent of the Management and Operating contract operating budget for the year the commitment is made for the lease.
-  >   - **(3)** *Reporting* Not later than one year after the date of the enactment of the Department of Energy Science for the Future Act, and biennially thereafter, the Department shall submit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives, and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate, a report on the lease-purchase transactions that the Management and Operating contractors of the Department entered into under subsection (a) that includes—
-  >     - **(A)** a list of the lease-purchase transactions entered into by each Management and Operating contractor and their respective costs;
-  >     - **(B)** the annual percentage of each Management and Operating contract operating budget that is used for lease-purchase transactions for the year the commitments were made; and
-  >     - **(C)** any other information the Secretary finds appropriate.
-  > - **(d)** *Mid-scale instrumentation program* The Director, in coordination with each of the programs carried out by the Office of Science, shall establish a mid-scale instrumentation program to enable the development and acquisition of novel, state-of-the-art instruments ranging in cost from $1 million to $20 million each that would significantly accelerate scientific breakthroughs at user facilities.
+  > - **(c)** *Approach* In carrying out this section, the Director shall utilize all available approaches and mechanisms, including capital line items, minor construction projects, energy savings performance contracts, and utility energy service contracts, as appropriate.
+  > - **(d)** *Mid-Scale instrumentation program* The Director, in coordination with each of the programs carried out by the Office of Science, shall establish a mid-scale instrumentation program to enable the development and acquisition of novel, state-of-the-art instruments ranging in cost from $1 million to $20 million each that would significantly accelerate scientific breakthroughs at user facilities.
   > - **(e)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to carry out the activities described in this section $500,000,000 for each of fiscal years 2022 through 2026.
 
 ## § 12. Increased collaboration with teachers and scientists
 
-- **(a)** *In general* The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) is amended by adding after section 311 as added by this Act the following:
+- **(a)** *In general* The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) is amended by adding after section 311, as added by this Act, the following:
   > ## § 312. Increased collaboration with teachers and scientists
   >
-  > - **(a)** *In general* The Director shall support the development of a scientific workforce through programs that facilitate collaboration between K–12, university students, early-career researchers, faculty, and the National Laboratories, including through the use of proven techniques to expand the number of individuals from underrepresented groups pursuing and attaining skills or undergraduate and graduate degrees relevant to the Office’s mission.
-  > - **(b)** *Authorization of appropriations* Section 3169 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381e) is amended—
-  >   - **(1)** by striking, “programs”, and inserting “programs, including the NSF INCLUDES National Network,”; and
-  >   - **(2)** by striking, “year 1991”, and inserting “years 2022 through 2026”.
+  > The Director shall support the development of a scientific workforce through programs that facilitate collaboration between K–12, university students, early-career researchers, faculty, and the National Laboratories, including through the use of proven techniques to expand the number of individuals from underrepresented groups pursuing and attaining skills or undergraduate and graduate degrees relevant to the Office’s mission.
 
-- **(b)** *Broadening participation in workforce development for teachers and scientists*
-  - **(1)** *In general* The Department of Energy Science Education Enhancement Act (42 U.S.C. 7381 note) is amended by inserting the following sections after section 3167 (42 U.S.C. 7381c–1):
+- **(b)** *Authorization of appropriations* Section 3169 of the Department of Energy Science Education Enhancement Act (42 U.S.C. 7381e) is amended—
+  - **(1)** by striking, “programs”, and inserting “programs, including the NSF INCLUDES National Network,”; and
+  - **(2)** by striking, “year 1991”, and inserting “years 2022 through 2026”.
+- **(c)** *Broadening participation in workforce development for teachers and scientists*
+  - **(1)** *In general* The Department of Energy Science Education Enhancement Act (42 U.S.C. 7381 et seq.) is amended by inserting the following sections after section 3167 (42 U.S.C. 7381c–1):
     > ## § 3167A. Broadening participation for teachers and scientists
     >
     > - **(a)** *In general* The Secretary shall expand opportunities to increase the number and the diversity, equity, and inclusion of highly skilled science, technology, engineering, and mathematics (STEM) professionals working in Department of Energy mission-relevant disciplines and broaden the recruitment pool to increase diversity, including expanded partnerships with Historically Black Colleges, Tribal Colleges, Minority Serving Institutions, emerging research institutions, and scientific societies.
@@ -771,7 +758,7 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
     >
     > - **(a)** *In general* The Secretary shall expand opportunities to increase the number and the diversity, equity, and inclusion of highly skilled science, technology, engineering, and mathematics (STEM) professionals working in Department of Energy mission-relevant disciplines and broaden the recruitment pool to increase diversity, including expanded partnerships with minority-serving institutions, non-Research I universities, and scientific societies.
     > - **(b)** *Plan and Outreach strategy*
-    >   - **(1)** *Plan* Not later than 6 months after the date of enactment of the Department of Energy Science for the Future Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 10-year educational plan to fund and expand new or existing programs administered by the Office of Science and sited at the national laboratories and Department of Energy user facilities to expand educational and workforce opportunities for underrepresented high school, undergraduate, and graduate students as well as recent graduates, teachers and faculty in STEM fields. This may include paid internships, fellowships, temporary employment, training programs, visiting student and faculty programs, sabbaticals, and research support.
+    >   - **(1)** *Plan* Not later than 6 months after the date of enactment of the Department of Energy Science for the Future Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 10-year educational plan to fund and expand new or existing programs administered by the Office of Science and sited at the National Laboratories and Department of Energy user facilities to expand educational and workforce opportunities for underrepresented high school, undergraduate, and graduate students as well as recent graduates, teachers and faculty in STEM fields. This may include paid internships, fellowships, temporary employment, training programs, visiting student and faculty programs, sabbaticals, and research support.
     >   - **(2)** *Outreach capacity* The Secretary shall include in the plan under paragraph (1) an outreach strategy to improve the advertising, recruitment, and promotion of educational and workforce programs to community colleges, Historically Black Colleges and Universities, Tribal Colleges, Minority Serving Institutions, and emerging research institutions.
     > - **(c)** *Building research capacity* The Secretary shall develop programs that strengthen the research capacity relevant to Office of Science disciplines at emerging research institutions, including minority-serving institutions, tribal colleges and universities, Historically Black Colleges and Universities, and colleges and universities. This may include enabling mutually beneficial and jointly managed partnerships between research-intensive institutions and emerging research institutions, and soliciting research proposals, fellowships, training programs, and research support directly from emerging research institutions.
     > - **(d)** *Traineeships* The Secretary shall establish a university-led Traineeship Program to address workforce training needs in STEM fields relevant to the Department. The focus should be on supporting training and research experiences for underrepresented undergraduate and graduate students and increasing participation from underrepresented populations. The traineeships should include opportunities to build the next-generation workforce in research areas critical to maintaining core competencies across the Office of Science’s programs.
@@ -779,10 +766,10 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
     > - **(f)** *Definitions* In this section:
     >   - **(1)** *Minority-serving institution* The term minority-serving institution includes the entities described in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
     >   - **(2)** *Historically Black College and Universities* The term Historically Black Colleges and Universities has the meaning given in “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
-    >   - **(3)** *STEM* The term STEM has the meaning given the term in the STEM Education Act of 2015 (42 U.S.C. 1861 et seq.).
+    >   - **(3)** *STEM* The term STEM means the field or disciplines listed in section 2 of the STEM Education Act of 2015 (42 U.S.C. 6621 note).
     >   - **(4)** *Tribal colleges and universities* The term Tribal College or University has the meaning given in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
 
-  - **(2)** Clerical amendment.—The table of contents in section 2(b) of the National Defense Authorization Act for Fiscal Year 1991 is amended by inserting after the item relating to section 3167 the following:
+  - **(2)** *Clerical amendment* The table of contents in section 2(b) of the National Defense Authorization Act for Fiscal Year 1991 is amended by inserting after the item relating to section 3167 the following:
 
 ## § 13. High intensity laser research initiative; Office of Science Emerging Infectious Disease Computing Research Initiative; helium conservation program; authorization of appropriations
 
@@ -790,9 +777,9 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
   > ## § 313. High intensity laser research initiative
   >
   > - **(a)** *In general* The Director shall establish a high intensity laser research initiative consistent with the recommendations of the National Academies report, “Opportunities in Intense Ultrafast Lasers: Reaching for the Brightest Light”, and the report from the Brightest Light Initiative workshop on “The Future of Intense Ultrafast Lasers in the U.S.”. This initiative should include research and development of petawatt-scale and of high average power laser technologies necessary for future facility needs in discovery science and to advance energy technologies, as well as support for a user network of academic and national laboratory high intensity laser facilities.
-  > - **(b)** *Leverage* The Director shall also leverage new laser technologies for more compact, less complex, and low-cost accelerator systems needed for science applications.
+  > - **(b)** *Leverage* The Director shall leverage new laser technologies for more compact, less complex, and low-cost accelerator systems needed for science applications.
   > - **(c)** *Coordination* The Director shall coordinate this initiative among all relevant programs within the Office of Science, and the Under Secretary for Science shall coordinate this initiative with other relevant programs within the Department as well as within other Federal agencies.
-  > - **(d)** *Authorization of appropriations* Out of funds authorized to be appropriated for the Office of Science there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection—
+  > - **(d)** *Authorization of appropriations* Out of funds authorized to be appropriated for the Office of Science there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
   >   - **(1)** $50,000,000 for fiscal year 2022;
   >   - **(2)** $100,000,000 for fiscal year 2023;
   >   - **(3)** $150,000,000 for fiscal year 2024;
@@ -826,7 +813,7 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
   >   - **(5)** ensuring that new experimental and computational tools are accessible to relevant research communities, including private sector entities to address emerging infectious diseases, including COVID–19 challenges.
   > - **(c)** *Coordination* In carrying out this initiative, the Secretary shall ensure, to the maximum extent practicable, coordination of these activities with the Department of Energy National Laboratories, institutions of higher education, and the private sector.
   > - **(d)** *Emerging infectious diseases high performance computing research consortium*
-  >   - **(1)** *In general* The Secretary in coordination with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy shall establish and operate an Emerging Infectious Diseases High Performance Computing Research Consortium (referred to in this section as the ‘Consortium’), in order to support the initiative under subsection (a) by providing, to the extent practicable, a centralized entity for multidisciplinary, collaborative, emerging infectious disease research and development through high performance computing and advanced data analytics technologies and processes.
+  >   - **(1)** *In general* The Secretary in coordination with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy shall establish and operate an Emerging Infectious Diseases High Performance Computing Research Consortium (referred to in this section as the ‘Consortium’), to support the initiative under subsection (a) by providing, to the extent practicable, a centralized entity for multidisciplinary, collaborative, emerging infectious disease research and development through high performance computing and advanced data analytics technologies and processes.
   >   - **(2)** *Membership* The members of such consortium may include representatives from relevant Federal agencies, the private sector, institutions of higher education, which can each contribute relevant compute time, capabilities, or other resources.
   >   - **(3)** *Activities* The Consortium shall—
   >     - **(A)** match applicants with available Federal and private sector computing resources;
@@ -843,8 +830,8 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
   >   - **(2)** the collaborative research achievements of the initiative, including the achievement of the technical milestones determined under subsection (a); and
   >   - **(3)** potential opportunities to expand the technical capabilities of the Department.
   > - **(f)** *Funding* From within funds authorized to be appropriated for the Department’s Office of Science, there shall be made available to the Secretary to carry out the activities under this subsection, $50,000,000 for fiscal years 2022 and 2023.
-  > - **(g)** *Prohibition on use of funds*
-  >   - **(1)** *In general* No funds allocated to the initiative described in subsection (a) may be obligated or expended for gain-of-function research of concern.
+  > - **(g)** *Prohibition*
+  >   - **(1)** *In general* In carrying out this Act, the Secretary may not carry out gain-of-function research of concern.
   >   - **(2)** *Gain-of-function research defined* For the purposes of this subsection, “gain-of-function research of concern” means research activities with the potential to generate pathogens with high transmissibility and high virulence in humans.
   >
   > ## § 316. Authorization of appropriations
@@ -861,7 +848,7 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
 
 ## § 14. State-owned enterprises prohibition
 
-- **(a)** *Innovate in America* None of the funds authorized or made available by this Act, or the amendments made by this Act, may be used in awarding a contract, subcontract, grant, or loan to an entity that—
+- **(a)** *Innovate in America* In carrying out this Act or the amendments made by this Act, the Secretary may not award a contract, subcontract, grant, or loan to an entity that—
   - **(1)** is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
     - **(A)** is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of this Act;
     - **(B)** was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreign country under subsection (a)(2) of that section; and
@@ -869,3 +856,7 @@ The Department of Energy Research and Innovation Act (42 U.S.C. 18601 et seq.) i
   - **(2)** is listed pursuant to section 9(b)(3) of the Uyghur Human Rights Policy Act of 2020 (Public Law 116–145).
 - **(b)** *Exception* For purposes of subsection (a), the Secretary may issue a waiver, to be made publicly available, to an entity in which the legal or financial connection to a corporation is a minority relationship or investment.
 - **(c)** *International agreements* This section shall be applied in a manner consistent with the obligations of the United States under international agreements.
+
+## § 15. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
