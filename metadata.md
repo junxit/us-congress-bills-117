@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1443
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1443
@@ -60,9 +60,10 @@ LGBTQ Business Equal Credit Enforcement and Investment Act
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -95,3 +96,4 @@ LGBTQ Business Equal Credit Enforcement and Investment Act
 - 2021-06-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 252 - 176 (Roll no. 182).(text: CR H3098)
 - 2021-06-24 — The previous question was ordered pursuant to the rule.
 - 2021-06-24 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
