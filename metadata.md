@@ -1,7 +1,7 @@
 ---
 measure: H.R. 567
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 567
@@ -31,9 +31,10 @@ Trans-Sahara Counterterrorism Partnership Program Act of 2021
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Trans-Sahara Counterterrorism Partnership Program Act of 2021
 - 2021-06-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 15 (Roll no. 192). (text: 06/28/2021 CR H3171-3173)
 - 2021-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 15 (Roll no. 192).(text: 06/28/2021 CR H3171-3173)
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
