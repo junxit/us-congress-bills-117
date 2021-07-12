@@ -1,7 +1,7 @@
 ---
 measure: S. 601
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Section 3661 of title 18, United States Code, is amended by inserting “, except that a court of the United States shall not consider, except for purposes of mitigating a sentence, acquitted conduct under this section” before the period a… | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1), by striking “As” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 3661 of title 18, United States Code, is amended by inserting “, except that a court of the United States shall not consider, except for purposes of mitigating a sentence, acquitted conduct under this section” before the period a… | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “As” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “No limitation” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
