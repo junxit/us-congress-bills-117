@@ -1,7 +1,7 @@
 ---
 measure: H.R. 239
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 239
@@ -95,9 +95,10 @@ Equal Access to Contraception for Veterans Act
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -129,3 +130,4 @@ Equal Access to Contraception for Veterans Act
 - 2021-06-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 181 (Roll no. 184).(text: CR H3094)
 - 2021-06-24 — The previous question was ordered pursuant to the rule.
 - 2021-06-24 — The resolution provides for 1 hour of debate, orders the previous question, and allows a motion to recommit for each measure. Provides that H. Res. 485 is adopted. Provides that anytime through the legislative day of June 25, 2021, the Speaker may entertain motions offered by the Majority Leader or his designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of June 22 or 23, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
