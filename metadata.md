@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2662
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2662
@@ -30,10 +30,11 @@ Inspector General Independence and Empowerment Act of 2021
 - Rep. Case, Ed [D-HI-1] (C001055)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -81,3 +82,4 @@ Inspector General Independence and Empowerment Act of 2021
 - 2021-06-29 — Rule provides for consideration of H.R. 2662, H.R. 3005, H.R. 3684 and H. Res. 503. The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
 - 2021-06-29 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2021-06-29 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
