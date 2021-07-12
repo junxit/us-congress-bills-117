@@ -1,7 +1,7 @@
 ---
 measure: S. 1014
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 6 executed, 10 stated and not applied.
+32 amendatory instructions. 12 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,60 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 21 U.S.C. § 841
+
+> in subparagraph (C), by striking “felony drug offense” and inserting “serious drug felony or serious violent felony”;
+
+| | |
+|---|---|
+| Removed | `felony drug offense` |
+| Inserted | `serious drug felony or serious violent felony` |
+
+### 21 U.S.C. § 841
+
+> in subparagraph (D), by striking “felony drug offense” and inserting “serious drug felony or serious violent felony”; and
+
+| | |
+|---|---|
+| Removed | `felony drug offense` |
+| Inserted | `serious drug felony or serious violent felony` |
+
+### 21 U.S.C. § 841
+
+> in subparagraph (E)(ii), by striking “felony drug offense” and inserting “serious drug felony or serious violent felony”;
+
+| | |
+|---|---|
+| Removed | `felony drug offense` |
+| Inserted | `serious drug felony or serious violent felony` |
+
+### 21 U.S.C. § 841
+
+> in paragraph (2), by striking “felony drug offense” and inserting “serious drug felony or serious violent felony”; and
+
+| | |
+|---|---|
+| Removed | `felony drug offense` |
+| Inserted | `serious drug felony or serious violent felony` |
+
+### 21 U.S.C. § 841
+
+> in paragraph (3), by striking “felony drug offense” and inserting “serious drug felony or serious violent felony”.
+
+| | |
+|---|---|
+| Removed | `felony drug offense` |
+| Inserted | `serious drug felony or serious violent felony` |
+
+### 21 U.S.C. § 960
+
+> Section 1010(b)(3) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)(3)) is amended by striking “felony drug offense” and inserting “serious drug felony or serious violent felony”.
+
+| | |
+|---|---|
+| Removed | `felony drug offense` |
+| Inserted | `serious drug felony or serious violent felony` |
 
 ### 21 U.S.C. § 841
 
@@ -87,6 +141,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `21 U.S.C. § 802` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 802` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 5032` | insert | Chapter 403 of title 18, United States Code, is amended by inserting after section 5032 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 5032` | insert | The table of sections for chapter 403 of title 18, United States Code, is amended by inserting after the item relating to section 5032 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20911` | amend | Section 5031 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20911` | insert | in subsection (a), in the flush text following paragraph (6), by inserting after “bonding,” the following: “participation in an educational system,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20911` | replace | in subsection (b), by striking “District courts exercising jurisdiction over any juvenile” and inserting the following: “Not later than 7 days after the date on which a district court exercises jurisdiction over a juvenile, the district … | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 20911` | add-at-end | Chapter 403 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20911` | add-at-end | The table of sections for chapter 403 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 534 of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `21 U.S.C. § 802` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 5032` | insert | Chapter 403 of title 18, United States Code, is amended by inserting after section 5032 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
