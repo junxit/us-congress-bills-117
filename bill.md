@@ -2,7 +2,7 @@
 legis-num: H.R. 2225
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2225
@@ -33,21 +33,25 @@ In this Act:
 - **(4)** *Board* The term “Board” means the National Science Board.
 - **(5)** *Director* The term “Director” means the Director of the National Science Foundation.
 - **(6)** *Emerging research institution* The term “emerging research institution” means an institution of higher education with an established undergraduate student program that has, on average for 3 years prior to the time of application for an award, received less than $35,000,000 in Federal research funding.
-- **(7)** *Federal science agency* The term “Federal science agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
+- **(7)** *Federal research agency* The term “Federal research agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
 - **(8)** *Foundation* The term “Foundation” means the National Science Foundation.
-- **(9)** *Institution of higher education* The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
-- **(10)** *Labor organization* The term “labor organization” has the meaning given the term in section 2(5) of the National Labor Relations Act (29 U.S.C. 152(5)), except that such term shall also include—
+- **(9)** *Historically Black college and university* The term “historically Black college and university” has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+- **(10)** *Institution of higher education* The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+- **(11)** *Labor organization* The term “labor organization” has the meaning given the term in section 2(5) of the National Labor Relations Act (29 U.S.C. 152(5)), except that such term shall also include—
   - **(A)** any organization composed of labor organizations, such as a labor union federation or a State or municipal labor body; and
   - **(B)** any organization which would be included in the definition for such term under such section (5) but for the fact that the organization represents—
     - **(i)** individuals employed by the United States, any wholly owned Government corporation, any Federal Reserve Bank, or any State or political subdivision thereof;
     - **(ii)** individuals employed by persons subject to the Railway Labor Act (45 U.S.C. 151 et seq.); or
     - **(iii)** individuals employed as agricultural laborers.
-- **(11)** *Non-profit organization* The term “non-profit organization” means an organization which is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such code.
-- **(12)** *NSF includes* The term “NSF includes” means the initiative carried out under section 6(c).
-- **(13)** *PreK-12* The term “preK-12” means pre-kindergarten through grade 12.
-- **(14)** *Skilled technical work* The term “skilled technical work” means an occupation that requires a high level of knowledge in a technical domain and does not require a bachelor’s degree for entry.
-- **(15)** *STEM* The term “STEM” has the meaning given the term in section 2 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621 note).
-- **(16)** *STEM education* The term “STEM education” has the meaning given the term in section 2 of the STEM Education Act of 2015 (42 U.S.C. 6621 note).
+- **(12)** *Minority-serving institution* The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institutions, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in section 371 of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
+- **(13)** *Non-profit organization* The term “non-profit organization” means an organization which is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such code.
+- **(14)** *NSF includes* The term “NSF includes” means the initiative carried out under section 6(c).
+- **(15)** *PreK-12* The term “preK-12” means pre-kindergarten through grade 12.
+- **(16)** *Research and development award* The term “research and development award” means support provided to an individual or entity by a Federal research agency to carry out research and development activities, which may include support in the form of a grant, contract, cooperative agreement, or other such transaction. The term does not include a grant, contract, agreement or other transaction for the procurement of goods or services to meet the administrative needs of a Federal research agency.
+- **(17)** *Skilled technical work* The term “skilled technical work” means an occupation that requires a high level of knowledge in a technical domain and does not require a bachelor’s degree for entry.
+- **(18)** *STEM* The term “STEM” has the meaning given the term in section 2 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621 note).
+- **(19)** *STEM education* The term “STEM education” has the meaning given the term in section 2 of the STEM Education Act of 2015 (42 U.S.C. 6621 note).
+- **(20)** *Tribal College or University* The term “Tribal College or University” has the meaning given such term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
 
 ## § 4. Authorization of appropriations
 
@@ -260,48 +264,23 @@ In this Act:
         - **(II)** by striking “shall—”and all that follows through “establish a” and inserting “shall establish a”;
         - **(III)** by striking “the fields of science, technology, engineering, and mathematics” and inserting “STEM fields”; and
         - **(IV)** by striking “; and” and inserting “, including jobs at Federal and academic laboratories.”;
-    - **(D)** in subsection (c)—
-      - **(i)** in paragraph (1)—
-        - **(I)** in subparagraph (A)—
-          - **(aa)** in the matter preceding clause (i), by striking “to encourage” and all that follows through “such means as—” and inserting “to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor-degree-granting institutions, through such means as—”;
-          - **(bb)** in clause (i), by striking “to ensure” and inserting “to develop articulation agreements that ensure”; and
-          - **(cc)** in clause (ii), by striking “courses at the bachelor-degree-granting institution” and inserting “the career and educational pathways supported by the articulation agreements”;
-        - **(II)** in subparagraph (B)—
-          - **(aa)** in clause (i), by inserting “veterans and individuals engaged in” before “work in the home”;
-          - **(bb)** in clause (iii)—
-            - **(AA)** by striking “bachelor’s-degree-granting institutions” and inserting “institutions or work sites”; and
-            - **(BB)** by inserting “or industry internships” after “summer programs”; and
-          - **(cc)** by striking the flush text following clause (iv); and
-        - **(III)** by striking subparagraph (C);
-      - **(ii)** in paragraph (2)—
-        - **(I)** by striking “mathematics and science programs” and inserting “STEM programs”;
-        - **(II)** by inserting “and, as appropriate, elementary schools,” after “with secondary schools”;
-        - **(III)** by striking “mathematics and science education” and inserting “STEM education”;
-        - **(IV)** by striking “secondary school students” and inserting “students at these schools”;
-        - **(V)** by striking “science and advanced-technology fields” and inserting “STEM and advanced-technology fields”; and
-        - **(VI)** by striking “agreements with local educational agencies” and inserting “articulation agreements or dual credit courses with local secondary schools, or other means as the Director determines appropriate,”; and
-      - **(iii)** in paragraph (3)—
-        - **(I)** by striking subparagraph (B);
-        - **(II)** by striking “shall—”and all that follows through “establish a” and inserting “shall establish a”;
-        - **(III)** by striking “the fields of science, technology, engineering, and mathematics” and inserting “STEM fields”; and
-        - **(IV)** by striking “; and” and inserting “, including jobs at Federal and academic laboratories.”;
-    - **(E)** in subsection (d)(2)—
+    - **(D)** in subsection (d)(2)—
       - **(i)** in subparagraph (D), by striking “and” after the semicolon;
       - **(ii)** in subparagraph (E), by striking the period at the end and inserting a “; and”; and
       - **(iii)** by adding at the end the following:
         > - **(F)** as appropriate, applications that apply the best practices for STEM education and technical skills education through distance learning or in a simulated work environment, as determined by research described in subsection (f); and
 
-    - **(F)** in subsection (g), by striking the second sentence;
-    - **(G)** in subsection (h)(1)—
+    - **(E)** in subsection (g), by striking the second sentence;
+    - **(F)** in subsection (h)(1)—
       - **(i)** in subparagraph (A), by striking “2022” and inserting “2026”;
       - **(ii)** in subparagraph (B), by striking “2022” and inserting “2026”; and
       - **(iii)** in subparagraph (C)—
         - **(I)** by striking “up to $2,500,000” and inserting “not less than $3,000,000”; and
         - **(II)** by striking “2022” and inserting “2026”;
-    - **(H)** in subsection (i)—
+    - **(G)** in subsection (i)—
       - **(i)** by striking paragraph (3); and
       - **(ii)** by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively; and
-    - **(I)** in subsection (j)—
+    - **(H)** in subsection (j)—
       - **(i)** by striking paragraph (1) and inserting the following:
         > - **(1)** the term advanced-technology includes technological fields such as advanced manufacturing, agricultural-, biological- and chemical-technologies, energy and environmental technologies, engineering technologies, information technologies, micro and nano-technologies, cybersecurity technologies, geospatial technologies, and new, emerging technology areas;
 
@@ -359,7 +338,7 @@ In this Act:
     - **(B)** *Report* Not later than 1 year after the date of enactment of this Act, the organization charged with carrying out the study under subparagraph (A) shall publish the results of its evaluation, including a recommendation for the appropriate balance between fellowships, traineeships, and other funding models.
   - **(4)** *Fellowships and Traineeships for Early-Career AI Researchers*
     - **(A)** *Artificial intelligence traineeships*
-      - **(i)** *In general* The Director of the National Science Foundation shall award grants to institutions of higher education to establish traineeship programs for graduate students who pursue artificial intelligence-related research leading to a masters or doctorate degree by providing funding and other assistance, and by providing graduate students opportunities for research experiences in government or industry related to the students’ artificial intelligence studies.
+      - **(i)** *In general* The Director shall award grants to institutions of higher education to establish traineeship programs for graduate students who pursue artificial intelligence-related research leading to a masters or doctorate degree by providing funding and other assistance, and by providing graduate students opportunities for research experiences in government or industry related to the students’ artificial intelligence studies.
       - **(ii)** *Use of funds* A institution of higher education shall use grant funds provided under clause (i) for the purposes of—
         - **(I)** providing traineeships to students who are pursuing research in artificial intelligence leading to a masters or doctorate degree;
         - **(II)** paying tuition and fees for students receiving traineeships;
@@ -367,7 +346,7 @@ In this Act:
         - **(IV)** creating opportunities for research in technology ethics for students receiving traineeships;
         - **(V)** establishing scientific internship programs for students receiving traineeships in artificial intelligence at for-profit institutions, nonprofit research institutions, or government laboratories; and
         - **(VI)** other costs associated with the administration of the program.
-    - **(B)** *Artificial intelligence fellowships* The Director of the National Science Foundation shall award fellowships to masters and doctoral students and postdoctoral researchers who are pursuing degrees or research in artificial intelligence and related fields, including in the field of technology ethics. In making such awards, the Director shall conduct outreach, including through formal solicitations, to solicit proposals from students and postdoctoral researchers seeking to carry out research in aspects of technology ethics with relevance to artificial intelligence systems.
+    - **(B)** *Artificial intelligence fellowships* The Director shall award fellowships to masters and doctoral students and postdoctoral researchers who are pursuing degrees or research in artificial intelligence and related fields, including in the field of technology ethics. In making such awards, the Director shall conduct outreach, including through formal solicitations, to solicit proposals from students and postdoctoral researchers seeking to carry out research in aspects of technology ethics with relevance to artificial intelligence systems.
 - **(e)** *Stem workforce data*
   - **(1)** *Skilled technical workforce portfolio review*
     - **(A)** *In general* Not later than 1 year after the date of enactment of this Act, the Director shall conduct a full portfolio analysis of the Foundation’s skilled technical workforce investments across all Directorates in the areas of education, research, infrastructure, data collection, and analysis.
@@ -388,20 +367,20 @@ In this Act:
 - **(f)** *Cyber workforce development research and development*
   - **(1)** *In general* The Director shall award grants on a merit-reviewed, competitive basis to institutions of higher education or non-profit organizations (or a consortia of such institutions or organizations) to carry out research on the cyber workforce.
   - **(2)** *Research* In carrying out research pursuant to paragraph (1), the Director shall support research and development activities to—
-    - **(A)** Understand the current state of the cyber workforce, including factors that influence growth, retention, and development of that workforce;
+    - **(A)** understand the current state of the cyber workforce, including factors that influence growth, retention, and development of that workforce;
     - **(B)** examine paths to entry and re-entry into the cyber workforce;
     - **(C)** understand trends of the cyber workforce, including demographic representation, educational and professional backgrounds present, competencies available, and factors that shape employee recruitment, development, and retention and how to increase the size, diversity, and capability of the cyber workforce;
     - **(D)** examine and evaluate training practices, models, programs, and technologies; and
     - **(E)** other closely related topics as the Director determines appropriate.
-  - **(3)** *Requirements* In carrying out the activities described in paragraph (1), the Director shall—
-    - **(A)** collaborate with the National Institute for Standards and Technology, including the National Initiative for Cybersecurity Education, the Department of Homeland Security, the Department of Defense, the Office of Personnel Management, and other Federal departments and agencies, as appropriate;
+  - **(3)** *Requirements* In carrying out the activities described in paragraph (2), the Director shall—
+    - **(A)** collaborate with the National Institute of Standards and Technology, including the National Initiative for Cybersecurity Education, the Department of Homeland Security, the Department of Defense, the Office of Personnel Management, and other Federal departments and agencies, as appropriate;
     - **(B)** align with or build on the National Initiative on Cybersecurity Education Cybersecurity Workforce Framework wherever practicable and applicable;
     - **(C)** leverage the collective body of knowledge from existing cyber workforce development research and education activities; and
     - **(D)** engage with other Federal departments and agencies, research communities, and potential users of information produced under this subsection.
 - **(g)** *Federal Cyber Scholarship-for-Service Program*
   - **(1)** *Sense of Congress* It is the sense of Congress that—
     - **(A)** since cybersecurity risks are constant in the growing digital world, it is critical that the United States stay ahead of malicious cyber activity with a workforce that can safeguard our innovation, research, and work environments; and
-    - **(B)** Federal investments into the Federal Cyber Scholarship-for-Service Program at the National Science Foundation play a critical role in preparing and sustaining a strong, talented, and much-needed national cybersecurity workforce and should be strengthened.
+    - **(B)** Federal investments in the Federal Cyber Scholarship-for-Service Program at the National Science Foundation play a critical role in preparing and sustaining a strong, talented, and much-needed national cybersecurity workforce and should be strengthened.
   - **(2)** *In general* Section 302(b)(1) of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442(b)(1)) is amended by striking the semicolon at the end and inserting the following “and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace.”.
 - **(h)** *Cybersecurity workforce data initiative* The Director, acting through the National Center for Science and Engineering Statistics established in section 505 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p) and in coordination with the Director of the National Institute of Standards and Technology and other appropriate Federal statistical agencies, shall establish a cybersecurity workforce data initiative that—
   - **(1)** assesses the feasibility of providing nationally representative estimates and statistical information on the cybersecurity workforce;
@@ -415,7 +394,7 @@ In this Act:
 ## § 6. Broadening participation
 
 - **(a)** *Presidential awards for excellence in mathematics and science teaching*
-  - **(1)** *In general* Section 117(a) of the National Science Foundation Authorization Act of 1988 (42 U.S.C.1881b(a)) is amended—
+  - **(1)** *In general* Section 117(a) of the National Science Foundation Authorization Act of 1988 (42 U.S.C. 1881b(a)) is amended—
     - **(A)** in subparagraph (B)—
       - **(i)** by striking “108” and inserting “110”;
       - **(ii)** by striking clause (iv);
@@ -437,11 +416,12 @@ In this Act:
   - **(1)** *Sense of congress* It is the sense of Congress that over the next five years the Foundation should increase the number of scholarships awarded under the Robert Noyce Teacher Scholarship program established under section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) by 50 percent.
   - **(2)** *Outreach* To increase the diversity of participants, the Director shall support symposia, forums, conferences, and other activities to expand and enhance outreach to—
     - **(A)** historically Black colleges and universities that are part B institutions, as defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2));
-    - **(B)** minority institutions, as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k(3));
-    - **(C)** institutions of higher education that are located near or serve rural communities;
-    - **(D)** labor organizations;
-    - **(E)** emerging research institutions; and
-    - **(F)** higher education programs that serve or support veterans.
+    - **(B)** Tribal Colleges or Universities;
+    - **(C)** Minority serving institutions;
+    - **(D)** institutions of higher education that are located near or serve rural communities;
+    - **(E)** labor organizations;
+    - **(F)** emerging research institutions; and
+    - **(G)** higher education programs that serve or support veterans.
 - **(c)** *NSF INCLUDES initiative* The Director shall award grants and cooperative agreements, on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to carry out a comprehensive national initiative to facilitate the development of networks and partnerships to build on and scale up effective practices in broadening participation in STEM studies and careers of groups historically underrepresented in such studies and careers.
 - **(d)** *Broadening participation on major facilities awards* The Director shall require organizations seeking a cooperative agreement for the management of the operations and maintenance of a Foundation project to demonstrate prior experience and current capabilities in employing best practices in broadening participation in science and engineering and ensure implementation of such practices is considered in oversight of the award.
 - **(e)** *Partnerships with emerging research institutions* The Director shall establish a five-year pilot program to enhance partnerships between emerging research institutions and institutions classified as very high research activity by the Carnegie Classification of Institutions of Higher Education at the time of application. In carrying out this program, the Director shall—
@@ -455,7 +435,7 @@ In this Act:
 - **(f)** *Tribal colleges and universities program update*
   - **(1)** *In general* Section 525 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–13) is amended—
     - **(A)** in subsection (a) by—
-      - **(i)** striking “Native American” and inserting “American Indian, Alaska Native, and Native Hawaiian”; and
+      - **(i)** striking “Native American” and inserting “American Indian, Alaska Native, and Native Hawaiian”;
       - **(ii)** inserting “post-secondary credentials and” before “associate’s”; and
       - **(iii)** striking “or baccalaureate degrees” and inserting “, baccalaureate, and graduate degrees”; and
     - **(B)** in subsection (b) by striking “undergraduate”; and
@@ -493,15 +473,15 @@ In this Act:
     - **(A)** the extent to which the applicant will support students from diverse backgrounds, including first-generation undergraduate students;
     - **(B)** the geographic and institutional diversity of the applying institutions; and
     - **(C)** how the applicants can leverage public-private partnerships and existing partnerships with Federal Research Agencies.
-  - **(6)** *Duplication* The Director shall ensure the awards made under this subsection are complementary and not duplicative of existing program;
+  - **(6)** *Duplication* The Director shall ensure the awards made under this subsection are complementary and not duplicative of existing programs.
   - **(7)** *Report* The Director shall submit a report to Congress after the third year of the program that includes—
-    - **(A)** an assessment of the effectiveness of the program for growing the geographic and institutional diversity of Institutions of Higher Education receiving research awards from the Foundation;
-    - **(B)** an assessment of the quality, quantity and geographic and institutional diversity of Institutions of Higher Education conducting Foundation sponsored research since the establishment of the program in this subsection;
+    - **(A)** an assessment of the effectiveness of the program for growing the geographic and institutional diversity of institutions of higher education receiving research awards from the Foundation;
+    - **(B)** an assessment of the quality, quantity and geographic and institutional diversity of institutions of higher education conducting Foundation-sponsored research since the establishment of the program in this subsection;
     - **(C)** an assessment of the quantity and diversity of undergraduate and graduate students graduating from eligible institutions with STEM degrees; and
     - **(D)** statistical summary data on the program, including the geographic and institutional allocation of award funding, the number and diversity of supported graduate and undergraduate students, and how it contributes to capacity building at eligible entities.
   - **(8)** *Authorization of Appropriations* There is authorized to be appropriated to the Director $150,000,000 for each of the fiscal years 2022 through 2026 to carry out the activities under this subsection.
-- **(j)** *Capacity-building program for developing universities*
-  - **(1)** *In general* The Director of the National Science Foundation shall make awards, on a competitive basis, to eligible institutions described in paragraph (2) to support the mission of the Foundation and to build institutional research capacity at eligible institutions.
+- **(j)** *Capacity-Building program for developing universities*
+  - **(1)** *In general* The Director shall make awards, on a competitive basis, to eligible institutions described in paragraph (2) to support the mission of the Foundation and to build institutional research capacity at eligible institutions.
   - **(2)** *Eligible institution*
     - **(A)** *In general* To be eligible to receive an award under this subsection, an institution—
       - **(i)** shall be—
@@ -522,14 +502,7 @@ In this Act:
     - **(H)** further faculty development initiatives and strengthen institutional research training infrastructure, capacity, and competitiveness of an eligible institution; or
     - **(I)** address plans and prospects for long-term sustainability of institutional enhancements at an eligible institution resulting from the award including, if applicable, how the award may be leveraged by an eligible institution to build a broader base of support.
   - **(4)** *Awards* Awards made under this subsection shall be for periods of 3 years, and may be extended for periods of not more than 5 years.
-  - **(5)** *Definitions* In this subsection:
-    - **(A)** *Historically Black college or university* The term “historically Black college or university” has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
-    - **(B)** *Minority-serving institution* The term “minority-serving institution” or “MSI” means—
-      - **(i)** a Hispanic-serving institution as defined in section 502 of the Higher Education Act of 1965 (20 U.S.C. 1101a);
-      - **(ii)** an Alaska Native-serving Institution or a Native Hawaiian-serving institution as such terms are defined in section 317 of the Higher Education Act of 1965 (20 U.S.C. 1059d); and
-      - **(iii)** a Predominantly Black institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as such terms are defined in section 371 of the Higher Education Act of 1965 (20 U.S.C. 1067q(c)).
-    - **(C)** *Tribal College or University* The term “Tribal College or University” has the meaning given such term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
-  - **(6)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $100,000,000 for each of fiscal years 2022 through 2026 to carry out the activities in this Act.
+  - **(5)** *Authorization of appropriations* There are authorized to be appropriated to the Director $100,000,000 for each of fiscal years 2022 through 2026 to carry out the activities in this Act.
 - **(k)** *Chief Diversity Officer of the NSF*
   - **(1)** *Chief diversity officer*
     - **(A)** *Appointment* The Director shall appoint a senior agency official within the Office of the Director as a Chief Diversity Officer.
@@ -554,22 +527,26 @@ In this Act:
 
 ## § 7. Fundamental research
 
-- **(a)** *Broader impacts*
-  - **(1)** *Assessment* Not later than 45 days after the date of enactment of this Act, the Director shall enter into an agreement with a qualified independent organization to assess how the Broader Impacts review criterion is applied across the Foundation and make recommendations for improving the effectiveness for meeting the goals established in section 526 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010 (42 U.S.C. 1862p-14).
+- **(a)** *Definitions* In this section:
+  - **(1)** *Covered individual* The term “covered individual” means the principal investigator, co-principal investigators, and any other person at the institution who is responsible for the design, conduct, or reporting of research or educational activities funded or proposed for funding by the Foundation.
+  - **(2)** *Foreign country of concern* The term “foreign country of concern” means the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country deemed to be a country of concern as determined by the Department of State.
+  - **(3)** *Malign foreign government talent recruitment program* The term “malign foreign government talent recruitment program” means any program or activity that includes compensation, including cash, research funding, honorific titles, promised future compensation, or other types of remuneration, provided by the foreign state or an entity sponsored by the foreign state to the targeted individual in exchange for the individual transferring knowledge and expertise to the foreign country.
+- **(b)** *Broader impacts*
+  - **(1)** *Assessment* Not later than 45 days after the date of enactment of this Act, the Director shall enter into an agreement with a qualified independent organization to assess how the Broader Impacts review criterion is applied across the Foundation and make recommendations for improving the effectiveness for meeting the goals established in section 526 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010 (42 U.S.C. 1862p–14).
   - **(2)** *Activities* The Director shall award grants on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to support activities to increase the efficiency, effectiveness, and availability of resources for implementing the Broader Impacts review criterion, including—
     - **(A)** training and workshops for program officers, merit review panelists, grant office administrators, faculty, and students to improve understanding of the goals and the full range of potential broader impacts available to researchers to satisfy this criterion;
     - **(B)** repositories and clearinghouses for sharing best practices and facilitating collaboration; and
     - **(C)** tools for evaluating and documenting societal impacts of research.
-- **(b)** *Sense of Congress* It is the sense of Congress that the Director should continue to identify opportunities to reduce the administrative burden on researchers.
-- **(c)** *Research integrity and security*
-  - **(1)** *Office of research security and policy* The Director shall maintain a Research Security and Policy office within the Office of the Director with no fewer than 4 full time equivalent positions, in addition to the Chief of Research Security established in paragraph (2) of this subsection. The functions of the Research Security and Policy office shall be to coordinate all research security policy issues across the Foundation, including by—
-    - **(A)** consulting and coordinating with the Foundation Office of Inspector General and with other Federal science agencies and intelligence and law enforcement agencies, as appropriate, through the National Science and Technology Council in accordance with the authority provided under section 1746 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 42 U.S.C. 6601 note), to identify and address potential security risks that threaten research integrity and other risks to the research enterprise;
+- **(c)** *Sense of Congress* It is the sense of Congress that the Director should continue to identify opportunities to reduce the administrative burden on researchers.
+- **(d)** *Research integrity and security*
+  - **(1)** *Office of research security and policy* The Director shall maintain a Research Security and Policy office within the Office of the Director with no fewer than 4 full-time equivalent positions, in addition to the Chief of Research Security established in paragraph (2) of this subsection. The functions of the Research Security and Policy office shall be to coordinate all research security policy issues across the Foundation, including by—
+    - **(A)** consulting and coordinating with the Foundation Office of Inspector General and with other Federal research agencies and intelligence and law enforcement agencies, as appropriate, through the National Science and Technology Council in accordance with the authority provided under section 1746 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 42 U.S.C. 6601 note), to identify and address potential security risks that threaten research integrity and other risks to the research enterprise;
     - **(B)** serving as the Foundation’s primary resource for all issues related to the security and integrity of the conduct of Foundation-supported research;
     - **(C)** conducting outreach and education activities for awardees on research policies and potential security risks;
     - **(D)** educating Foundation program managers and other directorate staff on evaluating Foundation awards and awardees for potential security risks; and
     - **(E)** communicating reporting and disclosure requirements to awardees and applicants for funding.
   - **(2)** *Chief of research security* The Director shall appoint a senior agency official within the Office of the Director as a Chief of Research Security, whose primary responsibility is to manage the office established under paragraph (1).
-  - **(3)** *Report to congress* No later than 180 days after the date of enactment of this Act, the Director shall provide a report to the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate on the resources and the number of full time employees needed to carry out the functions of the Office established in paragraph (1).
+  - **(3)** *Report to Congress* No later than 180 days after the date of enactment of this Act, the Director shall provide a report to the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate on the resources and the number of full time employees needed to carry out the functions of the Office established in paragraph (1).
   - **(4)** *Online resource* The Director shall develop an online resource hosted on the Foundation’s website containing up-to-date information, tailored for institutions and individual researchers, including—
     - **(A)** an explanation of Foundation research security policies;
     - **(B)** unclassified guidance on potential security risks that threaten scientific integrity and other risks to the research enterprise;
@@ -601,25 +578,17 @@ In this Act:
       - **(ii)** participation in international conferences or other international exchanges, partnerships or programs that involve open and reciprocal exchange of scientific information, and which are aimed at advancing international scientific understanding; and
       - **(iii)** other international activities deemed appropriate by the Director.
     - **(C)** *Limitation* The policy developed under subparagraph (A) shall not apply retroactively to research and development awards made prior to the establishment of the policy by the Director.
-    - **(D)** *Definitions* In this subsection:
-      - **(i)** *Covered individual* The term “covered individual” means the principal investigator, co-principal investigators, and any other person at the institution who is responsible for the design, conduct, or reporting of research or educational activities funded or proposed for funding by the Foundation.
-      - **(ii)** *Foreign country of concern* The term “foreign country of concern” means the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country deemed to be a country of concern as determined by the Department of State.
-      - **(iii)** *Malign foreign government talent recruitment program* The term “malign foreign government talent recruitment program” means any program or activity that includes compensation, including cash, research funding, honorific titles, promised future compensation, or other types of remuneration, provided by the foreign state or an entity sponsored by the foreign state to the targeted individual in exchange for the individual transferring knowledge and expertise to the foreign country.
   - **(9)** *Security training modules*
     - **(A)** *In general* Not later than 90 days after the date of enactment of this Act, the Director, in collaboration with the Director of the National Institutes of Health and other relevant Federal research agencies, shall enter into an agreement or contract with a qualified entity for the development of online research security training modules for the research community, including modules focused on international collaboration and international travel, foreign interference, and rules for proper use of funds, disclosure, conflict of commitment, and conflict of interest.
     - **(B)** *Stakeholder input* Prior to entering into the agreement under clause (A), the Director shall seek input from academic, private sector, intelligence, and law enforcement stakeholders regarding the scope and content of training modules, including the diversity of needs across institutions of higher education and other grantees of different sizes and types, and recommendations for minimizing administrative burden on institutions of higher education and researchers.
     - **(C)** *Development* The Director shall ensure that the entity identified in (A)—
-      - **(i)** develops modules that can be adapted and utilized across Federal science agencies; and
+      - **(i)** develops modules that can be adapted and utilized across Federal research agencies; and
       - **(ii)** develops and implements a plan for regularly updating the modules as needed.
     - **(D)** *Guidelines* The Director, in collaboration with the Director of the National Institutes of Health, shall develop guidelines for institutions of higher education and other organizations receiving Federal research and development funds to use in developing their own training programs to address the unique needs, challenges, and risk profiles of such institutions, including adoption of training modules developed under this paragraph.
     - **(E)** *Implementation* Drawing on stakeholder input under subparagraph (B), not later than 12 months after the date of enactment of this Act, the Director shall establish a requirement that, as part of an application for a research and development award from the Foundation—
       - **(i)** each covered individual listed on the application for a research and development award certify that they have completed research security training that meets the guidelines developed under clause (D) within one year of the application; and
       - **(ii)** each institution of higher education or other organization applying for such award certify that each covered individual who is employed by the institution or organization and listed on the application has been made aware of the requirement under this subparagraph.
-    - **(F)** *Definitions* In this subsection:
-      - **(i)** *Covered individual* The term “covered individual” means the principal investigator, co-principal investigators, and any other person at the institution who is responsible for the design, conduct, or reporting of research or educational activities funded or proposed for funding by the Foundation.
-      - **(ii)** *Federal research agency* The term “Federal research agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
-      - **(iii)** *Research and development award* The term “research and development award” means support provided to an individual or entity by a Federal research agency to carry out research and development activities, which may include support in the form of a grant, contract, cooperative agreement, or other such transaction. The term does not include a grant, contract, agreement or other transaction for the procurement of goods or services to meet the administrative needs of a Federal research agency.
-  - **(10)** *Responsible conduct in research training* Section 7009 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act (42 U.S.C. 1862o-1) is amended by—
+  - **(10)** *Responsible conduct in research training* Section 7009 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act (42 U.S.C. 1862o–1) is amended by—
     - **(A)** striking “and postdoctoral researchers” and inserting “postdoctoral researchers, faculty, and other senior personnel”; and
     - **(B)** by inserting before the period at the end the following “, including mentor training”.
   - **(11)** *National academies guide to responsible conduct in research*
@@ -628,7 +597,7 @@ In this Act:
       - **(ii)** promising practices for preventing, addressing, and mitigating the negative impact of harassment, including sexual harassment and gender harassment as defined in the 2018 Academies report entitled “Sexual Harassment of Women: Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medicine”; and
       - **(iii)** promising practices for mitigating potential security risks that threaten research integrity.
     - **(B)** *Report* Not later than 18 months after the effective date of the agreement under subparagraph (A), the Academies, as part of such agreement, shall submit to the Director and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the report referred to in such subparagraph, as updated pursuant to such subparagraph.
-- **(d)** *Research Ethics*
+- **(e)** *Research Ethics*
   - **(1)** *Sense of congress* It is the sense of Congress that—
     - **(A)** a number of emerging areas of research have potential ethical, social, safety, and security implications that might be apparent as early as the basic research stage;
     - **(B)** the incorporation of ethical, social, safety, and security considerations into the research design and review process for Federal awards, may help mitigate potential harms before they happen;
@@ -643,7 +612,7 @@ In this Act:
     - **(A)** research to assess the potential ethical and societal implications of Foundation-supported research and products or technologies enabled by such research, including the benefits and risks identified pursuant to paragraph (2)(A); and
     - **(B)** the development and verification of approaches to proactively mitigate foreseeable risks to society, including the technical and social solutions identified pursuant to paragraph (2)(B).
   - **(5)** *Annual report* The Director shall encourage awardees to update their ethics statements as appropriate as part of the annual reports required by all awardees under the award terms and conditions.
-- **(e)** *Research reproducibility and replicability* Consistent with existing Federal law for privacy, intellectual property, and security, the Director shall facilitate the public access to research products, including data, software, and code, developed as part of Foundation-supported projects.
+- **(f)** *Research reproducibility and replicability* Consistent with existing Federal law for privacy, intellectual property, and security, the Director shall facilitate the public access to research products, including data, software, and code, developed as part of Foundation-supported projects.
   - **(1)** *Data management plans*
     - **(A)** The Director shall require that every proposal for funding for research include a machine-readable data management plan that includes a description of how the awardee will archive and preserve public access to data, software, and code developed as part of the proposed project.
     - **(B)** In carrying out the requirement in subparagraph (A), the Director shall—
@@ -651,7 +620,7 @@ In this Act:
       - **(ii)** ensure program officers and merit review panels are equipped with the resources and training necessary to review the quality of data management plans; and
       - **(iii)** ensure program officers and merit review panels treat data management plans as essential elements of grant proposals, where appropriate.
   - **(2)** *Open repositories* The Director shall—
-    - **(A)** coordinate with the heads of other Federal science agencies, and solicit input from the scientific community, to develop and widely disseminate a set of criteria for trusted open repositories, accounting for discipline-specific needs and necessary protections for sensitive information, to be used by Federally funded researchers for the sharing of data, software, and code;
+    - **(A)** coordinate with the heads of other Federal research agencies, and solicit input from the scientific community, to develop and widely disseminate a set of criteria for trusted open repositories, accounting for discipline-specific needs and necessary protections for sensitive information, to be used by federally funded researchers for the sharing of data, software, and code;
     - **(B)** work with stakeholders to identify significant gaps in available repositories meeting the criteria developed under subparagraph (A) and options for supporting the development of additional or enhanced repositories;
     - **(C)** award grants on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) for the development, upgrades, and maintenance of open data repositories that meet the criteria developed under subparagraph (A);
     - **(D)** work with stakeholders and build on existing models, where appropriate, to establish a single, public, web-based point of access to help users locate repositories storing data, software, and code resulting from or used in Foundation-supported projects;
@@ -662,7 +631,7 @@ In this Act:
     - **(A)** support research and development of open source, sustainable, usable tools and infrastructure that support reproducibility for a broad range of studies across different disciplines;
     - **(B)** support research on computational reproducibility, including the limits of reproducibility and the consistency of computational results in the development of new computation hardware, tools, and methods; and
     - **(C)** support the education and training of students, faculty, and researchers on computational methods, tools, and techniques to improve the quality and sharing of data, code, and supporting metadata to produce reproducible research.
-- **(f)** *Climate change research*
+- **(g)** *Climate change research*
   - **(1)** *In general* The Director shall award grants, on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to support research to improve our understanding of the climate system and related human and environmental systems.
   - **(2)** *Use of funds* Activities funded by a grant under this subsection may include—
     - **(A)** fundamental research on climate forcings, feedbacks, responses, and thresholds in the earth system, including impacts on and contributions from local and regional systems;
@@ -671,11 +640,11 @@ In this Act:
     - **(D)** research to support the development and implementation of effective strategies and tools for mitigating and adapting to climate change, including social strategies and research focused on local level forecasting, impacts, and challenges;
     - **(E)** research on the design, development, and assessment of effective information and decision-support systems, including understanding and developing effective dissemination pathways;
     - **(F)** improved modeling, projections, analyses, and assessments of climate and other Earth system changes;
-    - **(G)** research to understand the atmospheric processes related to solar radiation management strategies and technologies and examine related economic, geopolitical, societal, environmental, and ethical implications, not including research designed to advance future deployment of these strategies and technologies.
+    - **(G)** research to understand the atmospheric processes related to solar radiation management strategies and technologies and examine related economic, geopolitical, societal, environmental, and ethical implications, not including research designed to advance future deployment of these strategies and technologies;
     - **(H)** the development of effective strategies for educating and training future climate change researchers, and climate change response and mitigation professionals, in both research and development methods, as well as community engagement and science communication;
     - **(I)** the development of effective strategies for public and community engagement in the all stages of the research and development process; and
     - **(J)** partnerships with other agencies to address climate related challenges for specific agency missions.
-- **(g)** *Violence research*
+- **(h)** *Violence research*
   - **(1)** *In general* The Director shall award grants, on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to support research to improve our understanding of the nature, scope, causes, consequences, prevention, and response to all forms of violence.
   - **(2)** *Use of funds* Activities funded by a grant under this subsection may include—
     - **(A)** research on the magnitude and distribution of fatal and nonfatal violence;
@@ -683,70 +652,70 @@ In this Act:
     - **(C)** research on the design, development, implementation, and evaluation of interventions for preventing and responding to violence;
     - **(D)** research on scaling up effective interventions; and
     - **(E)** one or more interdisciplinary research centers to conduct violence research, foster new and expanded collaborations, and support capacity building activities to increase the number and diversity of new researchers trained in cross-disciplinary violence research.
-- **(h)** *Social, behavioral, and economic sciences* The Director shall—
-  - **(1)** actively communicate opportunities and solicit proposals for social, behavioral, and economic science researchers to participate in cross-cutting and interdisciplinary programs, including the Convergence Accelerator and Big Ideas activities, and the Mid-Scale Research Infrastructure program; and
+- **(i)** *Social, behavioral, and economic sciences* The Director shall—
+  - **(1)** actively communicate opportunities and solicit proposals for social, behavioral, and economic science researchers to participate in cross-cutting and interdisciplinary programs, including the Convergence Accelerator and agency priority activities, and the Mid-Scale Research Infrastructure program; and
   - **(2)** ensure social, behavioral, and economic science researchers are represented on relevant merit review panels for such activities.
-- **(i)** *Measuring impacts of federally funded R&D* —The Director shall award grants on a competitive, merit-reviewed basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to support research and development of data, models, indicators, and associated analytical tools to improve our understanding of the impacts of Federally funded research on society, the economy, and the workforce, including domestic job creation.
-- **(j)** *Food-energy-water research* The Director shall award grants on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to—
+- **(j)** *Measuring impacts of federally funded R&D* The Director shall award grants on a competitive, merit-reviewed basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to support research and development of data, models, indicators, and associated analytical tools to improve our understanding of the impacts of Federally funded research on society, the economy, and the workforce, including domestic job creation.
+- **(k)** *Food-Energy-Water research* The Director shall award grants on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to—
   - **(1)** support research to significantly advance our understanding of the food-energy-water system through quantitative and computational modeling, including support for relevant cyberinfrastructure;
   - **(2)** develop real-time, cyber-enabled interfaces that improve understanding of the behavior of food-energy-water systems and increase decision support capability;
   - **(3)** support research that will lead to innovative solutions to critical food-energy-water system problems; and
   - **(4)** grow the scientific workforce capable of studying and managing the food-energy-water system, through education and other professional development.
-- **(k)** *Biological field stations and marine laboratories* The Director shall continue to support enhancing, repairing and maintaining research instrumentation, laboratories, telecommunications and housing at biological field stations and marine laboratories.
-- **(l)** *Sustainable chemistry research and education* In accordance with section 263 of the National Defense Authorization Act for Fiscal Year 2021, the Director shall carry out activities in support of sustainable chemistry, including—
+- **(l)** *Biological field stations and marine laboratories* The Director shall continue to support enhancing, repairing and maintaining research instrumentation, laboratories, telecommunications and housing at biological field stations and marine laboratories.
+- **(m)** *Sustainable chemistry research and education* In accordance with section 263 of the National Defense Authorization Act for Fiscal Year 2021, the Director shall carry out activities in support of sustainable chemistry, including—
   - **(1)** establishing a program to award grants, on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to support—
     - **(A)** individual investigators and teams of investigators, including to the extent practicable, early career investigators for research and development;
     - **(B)** collaborative research and development partnerships among universities, industry, and non-profit organizations; and
     - **(C)** integrating sustainable chemistry principles into elementary, secondary, undergraduate, and graduate chemistry and chemical engineering curriculum and research training, as appropriate to that level of education and training; and
   - **(2)** incorporating sustainable chemistry into existing Foundation research and development programs.
-- **(m)** *Risk and resilience research* The Director shall award grants on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to advance knowledge of risk assessment and predictability and to support the creation of tools and technologies, including advancing data analytics and utilization of artificial intelligence, for increased resilience through—
+- **(n)** *Risk and resilience research* The Director shall award grants on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to advance knowledge of risk assessment and predictability and to support the creation of tools and technologies, including advancing data analytics and utilization of artificial intelligence, for increased resilience through—
   - **(1)** improvements in our ability to understand, model, and predict extreme events and natural hazards, including pandemics;
   - **(2)** the creation of novel engineered systems solutions for resilient complex infrastructures, particularly those that address critical interdependence among infrastructures and leverage the growing infusion of cyber-physical-social components into the infrastructures;
   - **(3)** development of equipment and instrumentation for innovation in resilient engineered infrastructures;
-  - **(4)** multidisciplinary research on the behaviors individuals and communities engage in to detect, perceive, understand, predict, assess, mitigate, and prevent risks and to improve and increase resilience.
-  - **(5)** advancements in multidisciplinary wildfire science, including those related to air quality impacts, human behavior, and early detection and warning; and
-- **(n)** *UAV technologies* The Director shall carry out a program of research and related activities for unmanned aerial vehicle technologies, which may include a prize competition pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) and support for undergraduate and graduate curriculum development.
-- **(o)** *Leveraging international expertise in research* The Director shall explore and advance opportunities for leveraging international capabilities and resources that align with the Foundation and United States research community priorities and have the potential to benefit United States prosperity, security, health, and well-being, including through binational research and development organizations and foundations and by sending teams of Foundation scientific staff for site visits of scientific facilities and agencies in other countries.
-- **(p)** *Biological research collections*
+  - **(4)** multidisciplinary research on the behaviors individuals and communities engage in to detect, perceive, understand, predict, assess, mitigate, and prevent risks and to improve and increase resilience; and
+  - **(5)** advancements in multidisciplinary wildfire science, including those related to air quality impacts, human behavior, and early detection and warning.
+- **(o)** *UAV technologies* The Director shall carry out a program of research and related activities for unmanned aerial vehicle technologies, which may include a prize competition pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) and support for undergraduate and graduate curriculum development.
+- **(p)** *Leveraging international expertise in research* The Director shall explore and advance opportunities for leveraging international capabilities and resources that align with the Foundation and United States research community priorities and have the potential to benefit United States prosperity, security, health, and well-being, including through binational research and development organizations and foundations and by sending teams of Foundation scientific staff for site visits of scientific facilities and agencies in other countries.
+- **(q)** *Biological research collections*
   - **(1)** *In general* The Director shall continue to support databases, tools, methods, and other activities that secure and improve existing physical and digital biological research collections, improve the accessibility of collections and collection-related data for research and educational purposes, develop capacity for curation and collection management, and to transfer ownership of collections that are significant to the biological research community, including to museums and universities.
-  - **(2)** *Specimen management plan* In consultation with other relevant Federal science agencies, the Director shall require that every proposal for funding for research that involves collecting or generating specimens include a specimen management plan that includes a description of how the specimens and associated data will be accessioned into and permanently maintained in an established biological collection.
+  - **(2)** *Specimen management plan* In consultation with other relevant Federal research agencies, the Director shall require that every proposal for funding for research that involves collecting or generating specimens include a specimen management plan that includes a description of how the specimens and associated data will be accessioned into and permanently maintained in an established biological collection.
   - **(3)** *Action center for biological collections* The Director shall award grants on a competitive basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to establish an Action Center for Biological Collections to facilitate coordination and data sharing among communities of practice for research, education, workforce training, evaluation, and business model development.
-- **(q)** *Clean water research and technology acceleration* The Director shall award grants on a competitive, merit-reviewed basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to—
+- **(r)** *Clean water research and technology acceleration* The Director shall award grants on a competitive, merit-reviewed basis to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to—
   - **(1)** support transdisciplinary research to significantly advance our understanding of water availability, quality, and dynamics and the impact of human activity and a changing climate on urban and rural water and wastewater systems;
   - **(2)** develop, pilot and deploy innovative technologies, systems, and other approaches to identifying and addressing challenges that affect water availability, quality, and security, including through direct engagement with affected communities and partnerships with the private sector, State, tribal, and local governments, non-profit organizations and water management professionals; and
   - **(3)** grow the scientific workforce capable of studying and managing water and wastewater systems, through education, training, and other professional development.
-- **(r)** *Technology and behavioral science research* The Director shall award grants on a merit-based, competitive basis for research to—
+- **(s)** *Technology and behavioral science research* The Director shall award grants on a merit-based, competitive basis for research to—
   - **(1)** increase understanding of social media and consumer technology access and use patterns and related psychological and behavioral issues, particularly for adolescents; and
   - **(2)** explore the role of social media and consumer technology in rising rates of depressive symptoms, suicidal ideation, drug use, and deaths of despair, particularly for communities experiencing long-term economic distress.
-- **(s)** *Manufacturing research amendment* Section 506(a) of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–1(a)) is amended—
+- **(t)** *Manufacturing research amendment* Section 506(a) of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–1(a)) is amended—
   - **(1)** in paragraph (5), by striking “and” at the end;
   - **(2)** in paragraph (6)—
     - **(A)** by striking “and” before “virtual manufacturing”; and
     - **(B)** by striking the period at the end and inserting “; and artificial intelligence and machine learning;”; and
   - **(3)** by adding at the end the following:
     > - **(7)** additive manufacturing, including new material designs, complex materials, rapid printing techniques, and real-time process controls; and
-    > - **(8)** continuous manufacturing of biological products and similar innovating monitoring and control techniques.
+    > - **(8)** continuous manufacturing of biological products and similar innovative monitoring and control techniques.
 
-- **(t)** *Critical minerals mining research and development*
-  - **(1)** *In general* The Director of the National Science Foundation shall award grants, on a competitive basis, to institutions of higher education or nonprofit organizations (or consortium of such institutions or organizations) to support basic research that will accelerate innovation to advance critical minerals mining strategies and technologies for the purpose of making better use of domestic resources and eliminating national reliance on minerals and mineral materials that are subject to supply disruptions.
+- **(u)** *Critical minerals mining research and development*
+  - **(1)** *In general* The Director shall award grants, on a competitive basis, to institutions of higher education or nonprofit organizations (or consortium of such institutions or organizations) to support basic research that will accelerate innovation to advance critical minerals mining strategies and technologies for the purpose of making better use of domestic resources and eliminating national reliance on minerals and mineral materials that are subject to supply disruptions.
   - **(2)** *Use of funds* Activities funded by a grant under this subsection may include—
     - **(A)** advancing mining research and development activities to develop new mapping and mining technologies and techniques, including advanced critical mineral extraction, production, separation, alloying, or processing techniques and technologies that can decrease energy intensity, potential environmental impact and costs of those activities;
-    - **(B)** conducting long-term earth observation of reclaimed mine sites, including the study of the evolution of microbial diversity at such sites;
+    - **(B)** conducting long-term Earth observation of reclaimed mine sites, including the study of the evolution of microbial diversity at such sites;
     - **(C)** examining the application of artificial intelligence for geological exploration of critical minerals, including what the size and diversity of data sets would be required;
     - **(D)** examining the application of machine learning for detection and sorting of critical minerals, including what the size and diversity of data sets would be required;
     - **(E)** conducting detailed isotope studies of critical minerals and the development of more refined geologic models;
     - **(F)** improved understanding of the geological and geochemical processes through which critical minerals form and are concentrated into economically viable deposits; or
     - **(G)** providing training and researcher opportunities to undergraduate and graduate students to prepare the next generation of mining engineers and researchers.
   - **(3)** *Existing programs* The Director shall ensure awards made under this subsection are complementary and not duplicative of existing programs across the foundation and Federal Government.
-- **(u)** *Study of AI Research Capacity*
-  - **(1)** *In general* The Director of the National Science Foundation shall conduct a study, or support the development of a study through the Science and Technology Policy Institute or by any other appropriate organization as determined by the Director, on artificial intelligence research capacity at U.S. institutions of higher education.
+- **(v)** *Study of AI Research Capacity*
+  - **(1)** *In general* The Director shall conduct a study, or support the development of a study through the Science and Technology Policy Institute or by any other appropriate organization as determined by the Director, on artificial intelligence research capacity at U.S. institutions of higher education.
   - **(2)** *Study contents* The Director shall ensure that, at a minimum, the study under subsection (a) addresses the following topics:
     - **(A)** Which universities are putting out significant peer-reviewed artificial intelligence research, including based on quantity and number of citations.
     - **(B)** For each of the universities described in paragraph (1), what specific factors enable their AI research, including computing power, data sets and availability, specialized curriculum, and industry and other partnerships.
     - **(C)** How universities not included in paragraph (1) could implement the factors in paragraph (2) to produce AI research, as well as case studies that universities can look to as examples and potential pilot programs that the Federal Government could develop or support to help universities produce AI research.
   - **(3)** *Workshops* The Director may support workshops to help inform the study required under this subsection.
   - **(4)** *Publication* The Director shall ensure that the study carried out under this subsection is made publicly available not later than 12 months after the date of enactment of this Act.
-- **(v)** *Advancing IoT for Precision Agriculture*
+- **(w)** *Advancing IoT for Precision Agriculture*
   - **(1)** *National Science Foundation Directive on Agricultural Sensor Research* In awarding grants under its sensor systems and networked systems programs, the Director shall include in consideration of portfolio balance research and development on sensor connectivity in environments of intermittent connectivity and intermittent computation—
     - **(A)** to improve the reliable use of advance sensing systems in rural and agricultural areas; and
     - **(B)** that considers—
@@ -771,7 +740,7 @@ In this Act:
       - **(vii)** Global Positioning System-based applications; and
       - **(viii)** data management software and advanced analytics that can assist decision making and improve agricultural outcomes; and
     - **(B)** a review of Federal programs that provide support for precision agriculture research, development, adoption, education, or training, in existence on the date of enactment of this Act.
-- **(w)** *Astronomy and satellite constellations* The Director shall support research into and the design, development, and testing of mitigation measures to address the impact of satellite constellations on Foundation scientific programs by—
+- **(x)** *Astronomy and satellite constellations* The Director shall support research into and the design, development, and testing of mitigation measures to address the impact of satellite constellations on Foundation scientific programs by—
   - **(1)** awarding grants on a competitive basis to support investigations into the impacts of satellite constellations on ground-based optical, infrared, and radio astronomy, including through existing programs such Spectrum and Wireless Innovation enabled by Future Technologies (SWIFT) and the Spectrum Innovation Initiative;
   - **(2)** supporting research on satellite impacts and benefits and mitigation strategies to be carried out at one or more Foundation supported Federally Funded Research and Development Centers or large facilities, as appropriate; and
   - **(3)** supporting workshops related to the impact of satellite constellations on scientific research and how those constellations could be used to improve scientific research.
@@ -779,7 +748,7 @@ In this Act:
 ## § 8. Research infrastructure
 
 - **(a)** *Facility operation and maintenance*
-  - **(1)** *In general* The Director shall continue the Facility Operation Transition pilot program for a total of five years.
+  - **(1)** *In general* The Director shall continue the Facility Operation Transition pilot program for a total of 5 years.
   - **(2)** *Cost sharing* The Facility Operation Transition program shall provide funding for 10–50 percent of the operations and maintenance costs for major research facilities that are within the first five years of operation, where the share is determined based on—
     - **(A)** the operations and maintenance costs of the major research facility; and
     - **(B)** the capacity of the managing directorate or division to absorb such costs.
@@ -820,7 +789,7 @@ In this Act:
         > - **(J)** provide for improving the security, reliability, and resiliency of computing and networking systems used by institutions of higher education and other nonprofit research institutions for the processing, storage and transmission of sensitive federally funded research and associated data;
 
     - **(B)** *Computing Enclave Pilot Program*
-      - **(i)** *In general* The Director of the National Science Foundation, in consultation with the Director of the National Institute of Standards and Technology and the Secretary of Energy, shall establish a pilot program to award grants to ensure the security of federally-supported research data and to assist regional institutions of higher education and their researchers in compliance with regulations regarding the safeguarding of sensitive information and other relevant regulations and Federal guidelines.
+      - **(i)** *In general* The Director, in consultation with the Director of the National Institute of Standards and Technology and the Secretary of Energy, shall establish a pilot program to award grants to ensure the security of federally-supported research data and to assist regional institutions of higher education and their researchers in compliance with regulations regarding the safeguarding of sensitive information and other relevant regulations and Federal guidelines.
       - **(ii)** *Structure* In carrying out the pilot program established pursuant to clause (i), the Director shall select three institutions of higher education from among institutions classified under the Indiana University Center for Postsecondary Research Carnegie Classification as a doctorate-granting university with a very high level of research activity, and with a history of working with secure information for the development, installation, maintenance, or sustainment of secure computing enclaves.
       - **(iii)** *Regionalization*
         - **(I)** *In general* In selecting universities pursuant to clause (ii), the Director shall give preference to institutions of higher education with the capability of serving other regional universities.
@@ -833,7 +802,7 @@ In this Act:
         - **(V)** develop a process for managing a plan of action and milestones for the secure computing enclave.
       - **(v)** *Duration* Subject to other availability of appropriations, the pilot program established pursuant to clause (i) shall operate for not less than 3 years.
       - **(vi)** *Report*
-        - **(I)** *In general* The Director of the National Science Foundation shall report to Congress not later than 6 months after the completion of the pilot program under clause (i).
+        - **(I)** *In general* The Director shall report to Congress not later than 6 months after the completion of the pilot program under clause (i).
         - **(II)** *Contents* The report required under subclause (I) shall include—
           - **(aa)** an assessment of the pilot program under clause (i), including an assessment of the security benefits provided by such secure computing enclaves;
           - **(bb)** recommendations related to the value of expanding the network of secure computing enclaves; and
@@ -844,12 +813,12 @@ In this Act:
   - **(2)** *Establishment* Not later than one year after the date of enactment of this Act, the Director shall establish a National Secure Data Service demonstration project. The National Secure Data Service demonstration project shall be—
     - **(A)** aligned with the principles, best practices, and priority actions recommended by the Advisory Committee on Data for Evidence Building, to the extent feasible; and
     - **(B)** operated directly by or via a contract that is managed by the National Center for Science and Engineering Statistics.
-  - **(3)** *Data* In carrying out this subsection, the Director shall engage with Federal and State agencies to collect, acquire, analyze, report, and disseminate statistical data in the United States and other nations to support governmentwide evidence-building activities consistent with the Foundations for Evidence-Based Policymaking Act of 2018.
+  - **(3)** *Data* In carrying out this subsection, the Director shall engage with Federal and State agencies to collect, acquire, analyze, report, and disseminate statistical data in the United States and other nations to support government-wide evidence-building activities consistent with the Foundations for Evidence-Based Policymaking Act of 2018.
   - **(4)** *Privacy and confidentiality protections* If the Director issues a management contract under paragraph (2), the awardee shall be designated as an “agent” under chapter 35 of title 44, United States Code, subchapter III, section 3561 et seq., with all requirements and obligations for protecting confidential information delineated in the Confidential Information Protection and Statistical Efficiency Act of 2018 and the Privacy Act of 1974.
   - **(5)** *Technology* In carrying out this subsection, the Director shall consider application and use of systems and technologies that incorporate protection measures to reasonably ensure confidential data and statistical products are protected in accordance with obligations under chapter 35 of title 44, United States Code, subchapter III, section 3561 et seq., including systems and technologies that ensure raw data and other sensitive inputs are not accessible to recipients of statistical outputs from the National Secure Data Service demonstration project.
   - **(6)** *Transparency* The National Secure Data Service established under paragraph (2) shall maintain a public website with up-to-date information on supported projects.
   - **(7)** *Report* Not later than 2 years after the date of enactment of this Act, the National Secure Data Service demonstration project established under paragraph (2) shall submit a report to Congress that includes—
-    - **(A)** a description of policies for protecting data, consistent with applicable federal law;
+    - **(A)** a description of policies for protecting data, consistent with applicable Federal law;
     - **(B)** a comprehensive description of all completed or active data linkage activities and projects;
     - **(C)** an assessment of the effectiveness of the demonstration project for mitigating risks and removing barriers to a sustained implementation of the National Secure Data Service as recommended by the Commission on Evidence-Based Policymaking; and
     - **(D)** if deemed effective by the Director, a plan for scaling up the demonstration project to facilitate data access for evidence building while ensuring transparency and privacy.
@@ -858,7 +827,7 @@ In this Act:
 ## § 9. Directorate for science and engineering solutions
 
 - **(a)** *Establishment* Subject to the availability of appropriated funds, there is established within the Foundation the Directorate for Science and Engineering Solutions to advance research and development solutions to address societal and national challenges for the benefit of all Americans.
-- **(b)** *Purpose* The purpose of the Directorate established under subsection (a) is to support use-inspired research, accelerate the translation of Foundation-supported fundamental research and to advance technologies, facilitate commercialization and use of Federally funded research, and expand the pipeline of United States students and researchers in areas of societal and national importance.
+- **(b)** *Purpose* The purpose of the Directorate established under subsection (a) is to support use-inspired research, accelerate the translation of Foundation-supported fundamental research and to advance technologies, facilitate commercialization and use of federally funded research, and expand the pipeline of United States students and researchers in areas of societal and national importance.
 - **(c)** *Activities* The Director shall achieve the purposes described in subsection (b) by awarding financial assistance through the Directorate to—
   - **(1)** support transformational advances in use-inspired and translational research through diverse funding mechanisms and models, including convergence accelerators;
   - **(2)** translate research into science and engineering innovations, including through developing innovative approaches to connect research with societal outcomes, developing approaches to technology transfer that do not rely only on traditional market and commercialization tools, education and training for students and researchers on engaging with end users and the public, partnerships that facilitate research uptake, application, and scaling, prototype development, entrepreneurial education, developing tech-to-market strategies, and partnerships that connect research products to businesses, accelerators, and incubators and encourage the formation and growth of new companies;
@@ -909,7 +878,7 @@ In this Act:
   - **(2)** *Uses of funds* Funds awarded under this section may be used by a Technology Research Institute to—
     - **(A)** conduct fundamental research to advance innovation in a key technology;
     - **(B)** conduct research involving a key technology to solve challenges with social, economic, health, scientific, and national security implications;
-    - **(C)** further the development, adoption, and commercialization of innovations in key technology focus areas, including through partnership with other Federal agencies and Federal laboratories, industry, including startup companies, labor organizations, civil society organizations, and state and local, and Tribal governments.
+    - **(C)** further the development, adoption, and commercialization of innovations in key technology focus areas, including through partnership with other Federal agencies and Federal laboratories, industry, including startup companies, labor organizations, civil society organizations, and state and local, and Tribal governments;
     - **(D)** develop and manage multi-user research testbeds and instrumentation for key technologies;
     - **(E)** develop and manage an accessible repository, as appropriate, for research data and computational models relevant to the relevant key technology field, consistent with applicable privacy and intellectual property laws;
     - **(F)** convene national workshops for researchers and other stakeholders in that technology area;
@@ -920,7 +889,7 @@ In this Act:
     - **(A)** have the potential to create an innovation ecosystem, or enhance existing ecosystems, to translate Technology Research Institute research into applications and products, as appropriate to the topic of each Institute;
     - **(B)** support transdisciplinary research and development across multiple institutions of higher education and organizations;
     - **(C)** support transdisciplinary education activities, including curriculum development, research experiences, and faculty professional development across undergraduate, graduate, and professional academic programs;
-    - **(D)** involve partnerships with multiple types of institutions, including emerging research institutions, HBCUs, and minority serving institutions, and with other Federal agencies, Federal laboratories, industry, state, local, and Tribal governments, labor organizations, civil society organizations, and other entities that may use or be affected by the technology; and
+    - **(D)** involve partnerships with multiple types of institutions, including emerging research institutions, historically Black colleges and universities, Tribal Colleges or Universities, and minority serving institutions, and with other Federal agencies, Federal laboratories, industry, state, local, and Tribal governments, labor organizations, civil society organizations, and other entities that may use or be affected by the technology; and
     - **(E)** include a component that addresses the ethical, societal, safety, and security implications relevant to the application of the technology.
   - **(4)** *Duration*
     - **(A)** *Initial period* An award under this section shall be for an initial period of 5 years.
@@ -930,10 +899,26 @@ In this Act:
     - **(A)** use a competitive, merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors; and
     - **(B)** ensure the focus areas of the Institute do not substantially and unnecessarily duplicate the efforts of any other Technology Research Institute or any other similar effort at another Federal agency.
   - **(7)** *Collaboration* In making awards under this section, the Director may collaborate with Federal departments and agencies whose missions contribute to or are affected by the technology focus area of the institute.
-- **(i)** *Entrepreneurial fellowships*
+- **(i)** *Planning and capacity building grants* Section 602 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–9) is amended—
+  - **(1)** by redesignating subsection (e) as subsection (f); and
+  - **(2)** by inserting after subsection (d), the following:
+    > - **(e)** *Planning and capacity building grants*
+    >   - **(1)** *In general* Under the program established in section 508 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–2) and the activities authorized under this section, the Director shall award grants to eligible entities for planning and capacity building at institutions of higher education.
+    >   - **(2)** *Eligible entity defined* In this subsection, the term “eligible entity” means an institution of higher education (or a consortium of such institutions) that, according to the data published by the National Center for Science and Engineering Statistics, is not, on average, among the top 100 institutions in Federal R&D expenditures during the 3 year period prior to the year of the award.
+    >   - **(3)** *Use of funds* In addition to activities listed under subsection (c), an eligible entity receiving a grant under this subsection may use funds to—
+    >     - **(A)** ensure the availability of staff, including technology transfer professionals, entrepreneurs in residence, and other mentors as required to accomplish the purpose of this subsection;
+    >     - **(B)** revise institution policies, including policies related to intellectual property and faculty entrepreneurship, and taking other necessary steps to implement relevant best practices for academic technology transfer;
+    >     - **(C)** develop new local and regional partnerships among institutions of higher education and between institutions of higher education and private sector entities and other relevant organizations with the purpose of building networks, expertise, and other capacity to identify promising research that may have potential market value and enable researchers to pursue further development and transfer of their ideas into possible commercial or other use;
+    >     - **(D)** develop seminars, courses, and other educational opportunities for students, post-doctoral researchers, faculty, and other relevant staff at institutions of higher education to increase awareness and understanding of entrepreneurship, patenting, business planning, and other areas relevant to technology transfer, and connect students and researchers to relevant resources, including mentors in the private sector; and
+    >     - **(E)** create and fund competitions to allow entrepreneurial students and faculty to illustrate the commercialization potential of their ideas.
+    >   - **(4)** *Minimum duration and size of award* Grants awarded under this subsection shall be at least 3 years in duration and $500,000 in total amount.
+    >   - **(5)** *Application* An eligible entity seeking funding under this subsection shall submit an application to the Director of the Foundation at such time, in such manner, and containing such information and assurances as such Director may require. The application shall include, at a minimum, a description of how the eligible entity submitting an application plans to sustain the proposed activities beyond the duration of the grant.
+    >   - **(6)** *Authorization of appropriations* From within funds authorized for the Directorate for Science and Engineering Solutions, there are authorized to carry out the activities under this subsection $40 million for each of fiscal years 2022 through 2026.
+
+- **(j)** *Entrepreneurial fellowships*
   - **(1)** *In general* The Director shall award fellowships to Ph.D.-trained scientists and engineers to help develop leaders capable of maturing promising ideas and technologies from lab to market and forge connections between academic research and government, industry, and finance.
-  - **(2)** *Applications* An applicant for a fellowship under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require. At a minimum, the Director shall require that applicants
-    - **(A)** have completed a doctoral degree in a STEM field no more than 5 years prior to the data of the application; and
+  - **(2)** *Applications* An applicant for a fellowship under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require. At a minimum, the Director shall require that applicants—
+    - **(A)** have completed a doctoral degree in a STEM field no more than 5 years prior to the date of the application; and
     - **(B)** have included in the application a letter of support from the intended host institution that describes how the fellow will be embedded in that institution’s research environment.
   - **(3)** *Outreach* The Director shall conduct program outreach to recruit fellowship applicants—
     - **(A)** from diverse research institutions;
@@ -941,8 +926,8 @@ In this Act:
     - **(C)** from groups historically underrepresented in STEM fields;
   - **(4)** The Director may enter into an agreement with a third-party entity to administer the fellowships, subject to the provisions of this subsection.
   - **(5)** *Authorization of appropriations* There is authorized to be appropriated to the Director $100,000,000 for fiscal years 2022 through 2026, to carry out the activities outlined in this subsection.
-- **(j)** *Low-income scholarship program*
-  - **(1)** *In general* The Director of the National Science Foundation (referred to in this section as the “Director”) shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, or computer science.
+- **(k)** *Low-Income scholarship program*
+  - **(1)** *In general* The Director shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, or computer science.
   - **(2)** *Eligibility*
     - **(A)** *In general* To be eligible to receive a scholarship under this section, an individual—
       - **(i)** must be a citizen of the United States, a national of the United States (as defined in section 1101(a) of title 8), an alien admitted as a refugee under section 1157 of title 8, or an alien lawfully admitted to the United States for permanent residence;
@@ -951,25 +936,22 @@ In this Act:
     - **(B)** *Ability* Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States of recipients' places of permanent residence.
   - **(3)** *Scholarship amount and renewal* The amount of a scholarship awarded under this section shall be determined by the Director. The Director may renew scholarships for up to 5 years.
   - **(4)** *Authorization* Of amounts authorized for the Directorate for Science and Engineering Solutions, $100,000,000 shall be authorized for this program.
-- **(k)** *Transfer of funds*
+- **(l)** *Transfer of funds*
   - **(1)** *In general* Funds made available to carry out this section shall be available for transfer to other offices, directorates, or divisions within the Foundation for such use as is consistent with the purposes for which such funds are provided.
   - **(2)** *Prohibition on transfer from other offices* No funds shall be available for transfer to the Directorate established under this section from other offices, directorates, or divisions within the Foundation.
-- **(l)** *Authorities* In addition to existing authorities available to the Foundation, the Director may exercise the following authorities in carrying out the activities under this section:
+- **(m)** *Authorities* In addition to existing authorities available to the Foundation, the Director may exercise the following authorities in carrying out the activities under this section:
   - **(1)** *Awards* In carrying out this section, the Director may provide awards in the form of grants, contracts, cooperative agreements, cash prizes, and other transactions.
   - **(2)** *Appointments* The Director shall have the authority to make appointments of scientific, engineering, and professional personnel for carrying out research and development functions which require the services of specially qualified personnel relating to the focus areas identified under subsection (g) and such other areas of national research priorities as the Director may determine.
-- **(m)** *Ethical, legal, and societal considerations* The Director shall establish policies regarding engagement with experts in the social dimensions of science and technology and set up formal avenues for public input, as appropriate, to ensure that ethical, legal, and societal considerations are explicitly integrated into the priorities for the Directorate, including the selection of focus areas under subsection (g), the award-making process, and throughout all stages of supported projects.
-- **(n)** *Reports and roadmaps*
+- **(n)** *Ethical, legal, and societal considerations* The Director shall establish policies regarding engagement with experts in the social dimensions of science and technology and set up formal avenues for public input, as appropriate, to ensure that ethical, legal, and societal considerations are explicitly integrated into the priorities for the Directorate, including the selection of focus areas under subsection (g), the award-making process, and throughout all stages of supported projects.
+- **(o)** *Reports and roadmaps*
   - **(1)** *Annual report* The Director shall provide to the relevant authorizing and appropriations committees of Congress an annual report describing projects supported by the Directorate during the previous year.
   - **(2)** *Roadmap* Not later than 1 year after the date of enactment of this Act, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that the Directorate will use to guide investment decisions over the following 3 years.
-- **(o)** *Evaluation*
+- **(p)** *Evaluation*
   - **(1)** *In general* After the Directorate has been in operation for 6 years, the National Science Board shall evaluate how well the Directorate is achieving the purposes identified in subsection (b), including an assessment of the impact of Directorate activities on the Foundation’s primary science mission.
   - **(2)** *Inclusions* The evaluation shall include—
     - **(A)** a recommendation on whether the Directorate should be continued or terminated; and
     - **(B)** a description of lessons learned from operation of the Directorate.
   - **(3)** *Availability* On completion of the evaluation, the evaluation shall be made available to Congress and the public.
-- **(p)** *Limitation* No amounts may be appropriated for the Directorate for each of fiscal years 2022, 2023, 2024, 2025, or 2026 unless—
-  - **(1)** a specific appropriation is made for the Directorate; and
-  - **(2)** the amount appropriated for the activities of the Foundation, other than the activities authorized under this section, for each such fiscal year exceeds the amount appropriated for the Foundation for fiscal year 2021, as adjusted for inflation in accordance with the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.
 
 ## § 10. Administrative amendments
 
@@ -982,22 +964,3 @@ In this Act:
     > - **(4)** *Materials relating to closed portions of meeting* To facilitate the risk assessment required under paragraph (3) of this subsection, and any subsequent review conducted by the Inspector General, the Office of the National Science Board shall maintain the General Counsel’s certificate, the presiding officer’s statement, and a transcript or recording of any closed meeting, for at least 3 years after such meeting.
 
 - **(c)** *Science and engineering indicators report submission* Section 4(j)(1) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(j)(1)) is amended by striking “January 15” and inserting “March 15”.
-
-## § 11. Planning and capacity building grants
-
-Section 602 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–9) is amended—
-
-- **(1)** by redesignating subsection (e) as subsection (f); and
-- **(2)** by inserting after subsection (d), the following:
-  > - **(e)** *Planning and capacity building grants*
-  >   - **(1)** *In general* Under the program established in section 508 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–2) and the activities authorized under this section, the Director shall award grants to eligible entities for planning and capacity building at institutions of higher education.
-  >   - **(2)** *Eligible entity defined* In this subsection, the term “eligible entity” means an institution of higher education (or a consortium of such institutions) that, according to the data published by the National Center for Science and Engineering Statistics, is not, on average, among the top 100 institutions in Federal R&D expenditures during the 3 year period prior to the year of the award.
-  >   - **(3)** *Use of funds* In addition to activities listed under subsection (c), an eligible entity receiving a grant under this subsection may use funds to—
-  >     - **(A)** ensure the availability of staff, including technology transfer professionals, entrepreneurs in residence, and other mentors as required to accomplish the purpose of this subsection;
-  >     - **(B)** revise institution policies, including policies related to intellectual property and faculty entrepreneurship, and taking other necessary steps to implement relevant best practices for academic technology transfer;
-  >     - **(C)** develop new local and regional partnerships among institutions of higher education and between institutions of higher education and private sector entities and other relevant organizations with the purpose of building networks, expertise, and other capacity to identify promising research that may have potential market value and enable researchers to pursue further development and transfer of their ideas into possible commercial or other use;
-  >     - **(D)** develop seminars, courses, and other educational opportunities for students, post-doctoral researchers, faculty, and other relevant staff at institutions of higher education to increase awareness and understanding of entrepreneurship, patenting, business planning, and other areas relevant to technology transfer, and connect students and researchers to relevant resources, including mentors in the private sector; and
-  >     - **(E)** create and fund competitions to allow entrepreneurial students and faculty to illustrate the commercialization potential of their ideas.
-  >   - **(4)** *Minimum duration and size of award* Grants awarded under this subsection shall be at least 3 years in duration and $500,000 in total amount.
-  >   - **(5)** *Application* An eligible entity seeking funding under this subsection shall submit an application to the Director of the Foundation at such time, in such manner, and containing such information and assurances as such Director may require. The application shall include, at a minimum, a description of how the eligible entity submitting an application plans to sustain the proposed activities beyond the duration of the grant.
-  >   - **(6)** *Authorization of appropriations* From within funds authorized under section 9, there are authorized to carry out the activities under this subsection $40 million for each of fiscal years 2022 through 2026.

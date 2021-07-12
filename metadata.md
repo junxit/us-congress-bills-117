@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2225
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2225
@@ -69,9 +69,10 @@ National Science Foundation for the Future Act
 - Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -95,3 +96,4 @@ National Science Foundation for the Future Act
 - 2021-06-28 — Placed on the Union Calendar, Calendar No. 51.
 - 2021-06-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-73.
 - 2021-06-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-73.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
