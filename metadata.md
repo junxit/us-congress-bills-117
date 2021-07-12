@@ -1,7 +1,7 @@
 ---
 measure: H.R. 391
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 391
@@ -96,9 +96,10 @@ Global Health Security Act of 2021
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -115,3 +116,4 @@ Global Health Security Act of 2021
 - 2021-06-28 — Mr. Meeks moved to suspend the rules and pass the bill, as amended.
 - 2021-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 112 (Roll no. 188). (text: CR H3165-3169)
 - 2021-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 112 (Roll no. 188).(text: CR H3165-3169)
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
