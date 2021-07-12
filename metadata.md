@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3593
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3593
@@ -58,9 +58,10 @@ Department of Energy Science for the Future Act
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Lamb, Conor [D-PA-17] (L000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ Department of Energy Science for the Future Act
 - 2021-06-28 — Placed on the Union Calendar, Calendar No. 50.
 - 2021-06-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-72.
 - 2021-06-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-72.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
