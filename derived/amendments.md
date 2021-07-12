@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2225
 congress: 117
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-103 amendatory instructions. 45 executed, 58 stated and not applied.
+85 amendatory instructions. 33 executed, 52 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -233,114 +233,6 @@ to guess them.
 
 ### 42 U.S.C. § 1862i
 
-> in the matter preceding clause (i), by striking “to encourage” and all that follows through “such means as—” and inserting “to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor-degree-granting institutions, through such means as—”;
-
-| | |
-|---|---|
-| Removed | `to encourage” and all that follows through “such means as—` |
-| Inserted | `to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor-degree-granting institutions, through such means as—` |
-
-### 42 U.S.C. § 1862i
-
-> in clause (i), by striking “to ensure” and inserting “to develop articulation agreements that ensure”; and
-
-| | |
-|---|---|
-| Removed | `to ensure` |
-| Inserted | `to develop articulation agreements that ensure` |
-
-### 42 U.S.C. § 1862i
-
-> in clause (ii), by striking “courses at the bachelor-degree-granting institution” and inserting “the career and educational pathways supported by the articulation agreements”;
-
-| | |
-|---|---|
-| Removed | `courses at the bachelor-degree-granting institution` |
-| Inserted | `the career and educational pathways supported by the articulation agreements` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “bachelor’s-degree-granting institutions” and inserting “institutions or work sites”; and
-
-| | |
-|---|---|
-| Removed | `bachelor’s-degree-granting institutions` |
-| Inserted | `institutions or work sites` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “mathematics and science programs” and inserting “STEM programs”;
-
-| | |
-|---|---|
-| Removed | `mathematics and science programs` |
-| Inserted | `STEM programs` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “mathematics and science education” and inserting “STEM education”;
-
-| | |
-|---|---|
-| Removed | `mathematics and science education` |
-| Inserted | `STEM education` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “secondary school students” and inserting “students at these schools”;
-
-| | |
-|---|---|
-| Removed | `secondary school students` |
-| Inserted | `students at these schools` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “science and advanced-technology fields” and inserting “STEM and advanced-technology fields”; and
-
-| | |
-|---|---|
-| Removed | `science and advanced-technology fields` |
-| Inserted | `STEM and advanced-technology fields` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “agreements with local educational agencies” and inserting “articulation agreements or dual credit courses with local secondary schools, or other means as the Director determines appropriate,”; and
-
-| | |
-|---|---|
-| Removed | `agreements with local educational agencies` |
-| Inserted | `articulation agreements or dual credit courses with local secondary schools, or other means as the Director determines appropriate,` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “shall—”and all that follows through “establish a” and inserting “shall establish a”;
-
-| | |
-|---|---|
-| Removed | `shall—”and all that follows through “establish a` |
-| Inserted | `shall establish a` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “the fields of science, technology, engineering, and mathematics” and inserting “STEM fields”; and
-
-| | |
-|---|---|
-| Removed | `the fields of science, technology, engineering, and mathematics` |
-| Inserted | `STEM fields` |
-
-### 42 U.S.C. § 1862i
-
-> by striking “; and” and inserting “, including jobs at Federal and academic laboratories.”;
-
-| | |
-|---|---|
-| Removed | `; and` |
-| Inserted | `, including jobs at Federal and academic laboratories.` |
-
-### 42 U.S.C. § 1862i
-
 > in subparagraph (A), by striking “2022” and inserting “2026”;
 
 | | |
@@ -402,7 +294,7 @@ to guess them.
 | Removed | `of $12,000` |
 | Inserted | `of at least $16,000` |
 
-### 42 U.S.C. § 1862n-1
+### 42 U.S.C. § 1881b
 
 > by striking “108” and inserting “110”;
 
@@ -452,12 +344,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862i` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862i` | insert | by inserting “and, as appropriate, elementary schools,” after “with secondary schools”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862i` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862i` | insert | in clause (i), by inserting “veterans and individuals engaged in” before “work in the home”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862i` | insert | by inserting “or industry internships” after “summer programs”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862i` | strike | by striking the flush text following clause (iv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862i` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862i` | insert | by inserting “and, as appropriate, elementary schools,” after “with secondary schools”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862i` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862i` | strike | in subparagraph (D), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862i` | replace | in subparagraph (E), by striking the period at the end and inserting a “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -474,11 +360,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1869` | insert | in subsection (a), by inserting “and as will address national workforce demand in critical STEM fields” after “throughout the United States”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1869` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7442` | replace | Section 302(b)(1) of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442(b)(1)) is amended by striking the semicolon at the end and inserting the following “and cybersecurity-related aspects of other related fields as appropriate, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | strike | by striking clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | replace | in clause (v), by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862n-1` | redesignate | by redesignating clauses (i), (ii), (iii), and (v) as subclauses (I), (II), (III), and (IV), respectively, and moving the margins of such subclauses (as so redesignated) two ems to the right; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | replace | by striking “In selecting teachers” and all that follows through “two teachers—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1862n-1` | add-at-end | in subparagraph (C), as designated by paragraph (1)(A)(v), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1881b` | strike | by striking clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1881b` | replace | in clause (v), by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1881b` | redesignate | by redesignating clauses (i), (ii), (iii), and (v) as subclauses (I), (II), (III), and (IV), respectively, and moving the margins of such subclauses (as so redesignated) two ems to the right; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1881b` | replace | by striking “In selecting teachers” and all that follows through “two teachers—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1881b` | add-at-end | in subparagraph (C), as designated by paragraph (1)(A)(v), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862p-13` | strike | in subsection (b) by striking “undergraduate”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862p-13` | insert | in subsection (c) by inserting “and STEM” after “laboratory”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862p-9` | strike | in subparagraph (A), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
@@ -493,6 +379,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862i` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | redesignate | by redesignating subparagraphs (J) through (O) as subparagraphs (K) through (P), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | insert | by inserting after subparagraph (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1863` | replace | by striking paragraphs (4) and (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862s-9` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862p-2` | insert | by inserting after subsection (d), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1863` | replace | by striking paragraphs (4) and (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
