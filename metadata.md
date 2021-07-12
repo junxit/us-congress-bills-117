@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3005
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3005
@@ -56,3 +56,4 @@ To direct the Joint Committee on the Library to replace the bust of Roger Brooke
 - 2021-06-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 285 - 120 (Roll no. 196).(text: CR H3263-3264)
 - 2021-06-29 — Rule provides for consideration of H.R. 2662, H.R. 3005, H.R. 3684 and H. Res. 503. The resolution provides for one hour of general debate on H.R. 2662, under a structured rule; one hour of general debate on H.R. 3005, under a closed rule; 90 minutes of general debate on H.R. 3684; and one hour of general debate on H. Res. 503, under a closed rule. Resolution provides en bloc suspension authority.
 - 2021-06-29 — The previous question was ordered pursuant to the rule.
+- 2021-07-12 — Received in the Senate.
