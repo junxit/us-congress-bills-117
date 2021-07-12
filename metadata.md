@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3261
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3261
@@ -54,9 +54,10 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution.
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ To repeal the Authorization for Use of Military Force Against Iraq Resolution.
 - 2021-06-29 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended.(consideration: CR H3258-3262; text: CR H3260)
 - 2021-06-29 — Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended. (consideration: CR H3258-3262; text: CR H3260)
 - 2021-06-29 — Pursuant to the provisions of H. Res. 504, proceedings on H.R. 3261 are considered vacated.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
