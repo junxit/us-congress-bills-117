@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3385
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3385
@@ -113,9 +113,10 @@ HOPE for Afghan SIVs Act of 2021
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -129,3 +130,4 @@ HOPE for Afghan SIVs Act of 2021
 - 2021-06-29 — Passed/agreed to in House: Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended.(consideration: CR H3258-3262; text: CR H3260-3261)
 - 2021-06-29 — Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended. (consideration: CR H3258-3262; text: CR H3260-3261)
 - 2021-06-29 — Pursuant to the provisions of H. Res. 504, proceedings on H.R. 3385 are considered vacated.
+- 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
