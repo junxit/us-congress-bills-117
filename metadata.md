@@ -1,7 +1,7 @@
 ---
 measure: S. 169
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 169
@@ -34,3 +34,5 @@ ARTS Act
 - 2021-06-08 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2021-06-08 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2021-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
+- 2021-07-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4860; text: CR S4860)
+- 2021-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4860; text: CR S4860)
