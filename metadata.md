@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3684
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3684
@@ -152,3 +152,5 @@ Infrastructure Investment and Jobs Act
 - 2021-07-01 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-07-01 — The previous question was ordered pursuant to the rule.
 - 2021-07-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed. (consideration: CR H3585-3588)
+- 2021-07-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-07-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 100.
