@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 289
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 289
@@ -16,7 +16,7 @@ A resolution designating June 2021 as "National Post-Traumatic Stress Awareness 
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -35,6 +35,7 @@ A resolution designating June 2021 as "National Post-Traumatic Stress Awareness 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -44,3 +45,7 @@ A resolution designating June 2021 as "National Post-Traumatic Stress Awareness 
 
 - 2021-06-24 — Introduced in Senate
 - 2021-06-24 — Referred to the Committee on the Judiciary.
+- 2021-07-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4908; text: CR 6/24/2021 S4783-4784)
+- 2021-07-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4908; text: CR 6/24/2021 S4783-4784)
+- 2021-07-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2021-07-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
