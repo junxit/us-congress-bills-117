@@ -1,7 +1,7 @@
 ---
 measure: H.R. 772
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 772
@@ -49,3 +49,12 @@ To designate the facility of the United States Postal Service located at 229 Min
 - 2021-07-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2021-07-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2021-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.
+- 2021-07-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5110; text: CR S5110)
+- 2021-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5110; text: CR S5110)
+- 2021-07-28 — Message on Senate action sent to the House.
+- 2021-08-04 — Presented to President.
+- 2021-08-04 — Presented to President.
+- 2021-08-06 — Became Public Law No: 117-35.
+- 2021-08-06 — Became Public Law No: 117-35.
+- 2021-08-06 — Signed by President.
+- 2021-08-06 — Signed by President.
