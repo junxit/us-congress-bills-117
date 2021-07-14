@@ -1,7 +1,7 @@
 ---
 measure: S. 65
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 65
@@ -16,7 +16,7 @@ Uyghur Forced Labor Prevention Act
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (52)
+## Cosponsors (54)
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -70,6 +70,8 @@ Uyghur Forced Labor Prevention Act
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -83,3 +85,5 @@ Uyghur Forced Labor Prevention Act
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
+- 2021-07-14 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4905-4908; text: CR S4906-4908)
+- 2021-07-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4905-4908; text: CR S4906-4908)
