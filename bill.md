@@ -1,0 +1,14 @@
+---
+legis-num: S. 2355
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2355
+
+> To require the Administrator of the Small Business Administration make a technical correction to the Restaurant Revitalization program to allow distilleries that are prohibited by State law from meeting the onsite sales requirements under the program to participate in the program.
+
+## § 1. Restaurant Revitalization
+
+The Administrator of the Small Business Administration shall amend the rules relating to the Restaurant Revitalization program under section 5003 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 85; 15 U.S.C. 9009c) to allow a distillery that is located in a State the law of which sets a limit on the percentage of the gross receipts of a distillery that may come from onsite sales that is less than 33 percent to qualify as an eligible entity under such section if the combined total of the gross receipts of the distillery from onsite sales and sales to retailers for onsite sale is not less than 33 percent.
