@@ -1,7 +1,7 @@
 ---
 measure: S. 658
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 658
@@ -33,3 +33,6 @@ National Cybersecurity Preparedness Consortium Act of 2021
 - 2021-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-24.
 - 2021-06-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-24.
 - 2021-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
+- 2021-07-15 — Message on Senate action sent to the House.
+- 2021-07-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4932; text: CR S4932)
+- 2021-07-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4932; text: CR S4932)
