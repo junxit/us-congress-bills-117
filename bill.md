@@ -38,8 +38,5 @@ This Act may be cited as the “Consumer Protection and Recovery Act”.
     >     - **(A)** *In general* A court may not order equitable relief under this subsection with respect to any violation occurring before the period that begins on the date that is 10 years before the date on which the Commission files the suit in which such relief is sought.
     >     - **(B)** *Calculation* For purposes of calculating the beginning of the period described in subparagraph (A), any time during which an individual against which the equitable relief is sought is outside of the United States shall not be counted.
 
-- **(b)** *Conforming amendments; technical correction* Section 16(a)(2) of the Federal Trade Commission Act (15 U.S.C. 56(a)(2)) is amended—
-  - **(1)** in subparagraph (A), by striking “(relating to injunctive relief)”;
-  - **(2)** in subparagraph (B), by striking “(relating to consumer redress)”; and
-  - **(3)** in subparagraph (D), by striking “subpena” and inserting “subpoena”.
+- **(b)** *Conforming amendment* Section 16(a)(2)(A) of the Federal Trade Commission Act (15 U.S.C. 56(a)(2)(A)) is amended by striking “(relating to injunctive relief)”.
 - **(c)** *Applicability* The amendments made by this section shall apply with respect to any action or proceeding that is pending on, or commenced on or after, the date of the enactment of this Act.
