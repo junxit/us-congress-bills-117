@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4475
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4475
+
+> To amend the Federal Trade Commission Act to permit the Federal Trade Commission to enforce such Act against certain common carriers.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Consumers in Commerce Act of 2021”.
+
+## § 2. Authority of Federal Trade Commission over certain common carriers
+
+Section 4 of the Federal Trade Commission Act (15 U.S.C. 44) is amended by striking the undesignated paragraph relating to the definition of the term “Acts to regulate commerce” and inserting the following:
+
+> -  “Acts to regulate commerce” means subtitle IV of title 49, United States Code, and all Acts amendatory thereof and supplementary thereto.
