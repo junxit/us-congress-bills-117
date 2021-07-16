@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 8 executed, 6 stated and not applied.
+12 amendatory instructions. 7 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,15 +87,6 @@ to guess them.
 | Removed | `In any suit under this section` |
 | Inserted | `In any such suit` |
 
-### 15 U.S.C. § 56
-
-> in subparagraph (D), by striking “subpena” and inserting “subpoena”.
-
-| | |
-|---|---|
-| Removed | `subpena` |
-| Inserted | `subpoena` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -109,5 +100,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 53` | strike | by striking “to enjoin any such act or practice”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 53` | strike | by striking “without bond”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 53` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 56` | strike | in subparagraph (A), by striking “(relating to injunctive relief)”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 56` | strike | in subparagraph (B), by striking “(relating to consumer redress)”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 56` | strike | Section 16(a)(2)(A) of the Federal Trade Commission Act (15 U.S.C. 56(a)(2)(A)) is amended by striking “(relating to injunctive relief)”. | the bill quotes the text struck but describes what replaces it |
