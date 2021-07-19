@@ -1,7 +1,7 @@
 ---
 measure: S. 111
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 111
@@ -29,3 +29,7 @@ Luke and Alex School Safety Act of 2021
 
 - 2021-01-28 — Introduced in Senate
 - 2021-01-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-03-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2021-07-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-29.
+- 2021-07-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-29.
+- 2021-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 102.
