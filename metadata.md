@@ -1,7 +1,7 @@
 ---
 measure: H.R. 826
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 826
@@ -16,7 +16,7 @@ Divided Families Reunification Act
 
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Cosponsors (21)
+## Cosponsors (27)
 
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
@@ -39,6 +39,12 @@ Divided Families Reunification Act
 - Rep. Steel, Michelle [R-CA-48] (S001135)
 - Rep. Strickland, Marilyn [D-WA-10] (S001159)
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
 
 ## Committees (1)
 
@@ -50,3 +56,13 @@ Divided Families Reunification Act
 - 2021-02-04 — Introduced in House
 - 2021-02-04 — Referred to the House Committee on Foreign Affairs.
 - 2021-02-04 — Sponsor introductory remarks on measure. (CR E105)
+- 2021-04-21 — Committee Consideration and Mark-up Session Held.
+- 2021-04-21 — Ordered to be Reported by Voice Vote.
+- 2021-07-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-19 — Considered as unfinished business. (consideration: CR H3658-3659)
+- 2021-07-19 — Considered under suspension of the rules. (consideration: CR H3651-3652)
+- 2021-07-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 826.
+- 2021-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-19 — Ms. Houlahan moved to suspend the rules and pass the bill.
+- 2021-07-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 209). (text: CR H3651)
+- 2021-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 209).(text: CR H3651)
