@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2928
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2928
@@ -52,3 +52,6 @@ Cyber Sense Act of 2021
 - 2021-07-19 — Placed on the Union Calendar, Calendar No. 66.
 - 2021-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 117-92.
 - 2021-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 117-92.
+- 2021-07-20 — Passed/agreed to in House: Pursuant to section 7 of H. Res. 535, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 678; H.R. 1036; H.R. 1079, as amended; H.R. 1158; H.R. 1250; H.R. 1754; H.R. 1833, as amended; H.R. 1850; H.R. 1871; H.R. 1877, as amended; H.R. 1893; H.R. 1895; H.R. 2118; H.R. 2795, as amended; H.R. 2928; H.R. 2980, as amended; H.R. 3003; H.R. 3138, as amended; H.R. 3223; H.R. 3263; and H.R. 3264; and the following resolutions were agreed to under suspension of the rules: H. Res. 277; and H. Res. 294.(consideration: CR H3715-3730; text: CR H3721-3722)
+- 2021-07-20 — Pursuant to section 7 of H. Res. 535, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 678; H.R. 1036; H.R. 1079, as amended; H.R. 1158; H.R. 1250; H.R. 1754; H.R. 1833, as amended; H.R. 1850; H.R. 1871; H.R. 1877, as amended; H.R. 1893; H.R. 1895; H.R. 2118; H.R. 2795, as amended; H.R. 2928; H.R. 2980, as amended; H.R. 3003; H.R. 3138, as amended; H.R. 3223; H.R. 3263; and H.R. 3264; and the following resolutions were agreed to under suspension of the rules: H. Res. 277; and H. Res. 294. (consideration: CR H3715-3730; text: CR H3721-3722)
+- 2021-07-20 — Pursuant to the provisions of H. Res. 535, proceedings on H.R. 2928 are considered vacated.
