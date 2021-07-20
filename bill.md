@@ -30,12 +30,18 @@ Section 434 of the Homeland Security Act of 2002 (6 U.S.C. 242) is amended—
   >     - **(C)** U.S. Immigration and Customs Enforcement.
   >     - **(D)** The Federal Law Enforcement Training Center.
   >     - **(E)** The United States Secret Service.
-  >     - **(F)** Any other components or offices the Secretary determines appropriate.
-  >   - **(2)** *Consultation* The Director shall consult the Board established pursuant to paragraph (1) regarding the following:
+  >     - **(F)** The Office for Civil Rights and Civil Liberties.
+  >     - **(G)** The Privacy Office.
+  >     - **(H)** Any other components or offices the Secretary determines appropriate.
+  >   - **(2)** *Charter* The Secretary is authorized to issue a charter for the Board, and such charter shall specify the following:
+  >     - **(A)** The Board’s mission, goals, and scope of its activities.
+  >     - **(B)** The duties of the Board’s representatives.
+  >     - **(C)** The frequency of the Board’s meetings.
+  >   - **(3)** *Consultation* The Director shall consult the Board established pursuant to paragraph (1) regarding the following:
   >     - **(A)** Recruitment tactics used by human traffickers to inform the development of training and materials by the Blue Campaign.
   >     - **(B)** The development of effective awareness tools for distribution to Federal and non-Federal officials to identify and prevent instances of human trafficking.
   >     - **(C)** Identification of additional persons or entities that may be uniquely positioned to recognize signs of human trafficking and the development of materials for such persons.
-  >   - **(3)** *Applicability* The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to—
+  >   - **(4)** *Applicability* The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to—
   >     - **(A)** the Board; or
   >     - **(B)** consultations under paragraph (2).
   > - **(h)** *Consultation* With regard to the development of programs under the Blue Campaign and the implementation of such programs, the Director is authorized to consult with State, local, Tribal, and territorial agencies, non-governmental organizations, private sector organizations, and experts. Such consultation shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
