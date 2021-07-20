@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3119
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3119
@@ -29,9 +29,10 @@ Energy Emergency Leadership Act
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Energy Emergency Leadership Act
 - 2021-07-19 — Placed on the Union Calendar, Calendar No. 68.
 - 2021-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 117-94.
 - 2021-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 117-94.
+- 2021-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
