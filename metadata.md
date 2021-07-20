@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 535
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 535
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 2467) to require the Administrator
 - 2021-07-19 — The House Committee on Rules reported an original measure, H. Rept. 117-95, by Ms. Ross.
 - 2021-07-19 — The House Committee on Rules reported an original measure, H. Rept. 117-95, by Ms. Ross.
 - 2021-07-19 — The resolution provides for one hour of general debate on H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides en bloc suspension authority and provides at any time through the legislative day of Thursday, July 22, 2021, the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of July 19 or 20, 2021, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-20 — Considered as privileged matter. (consideration: CR H3708-3715)
+- 2021-07-20 — DEBATE - The House proceeded with one hour of debate on H. Res. 535.
+- 2021-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-20 — On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 208 (Roll no. 211). (text: CR H3708)
+- 2021-07-20 — On ordering the previous question Agreed to by the Yeas and Nays: 216 - 207 (Roll no. 210).
+- 2021-07-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 208 (Roll no. 211).(text: CR H3708)
