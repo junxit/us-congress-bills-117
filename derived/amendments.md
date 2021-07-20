@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1036
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 2708` | strike | in paragraph (11), by striking “or” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2708` | replace | in paragraph (12), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2708` | add-at-end | by adding at the end the following new paragraph. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2708` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
