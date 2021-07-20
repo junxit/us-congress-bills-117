@@ -43,7 +43,7 @@ Congress finds the following:
   - **(2)** *Chair* The President shall designate one of the representatives from the United States Agency for International Development described in paragraph (1)(A) to serve as chair of the interagency working group.
 - **(c)** *Duties* The interagency working group shall—
   - **(1)** assess the scope of the desert locust outbreak in East Africa and other affected regions, including its impact on food security, economic productivity, and political stability in affected countries;
-  - **(2)** assess the impacts of restrictions relating to the coronavirus disease 2019 (commonly referred to as “COVID–19”) pandemic;
+  - **(2)** assess the impacts of restrictions relating to the coronavirus disease 2019 (commonly referred to as “COVID–19”) pandemic on efforts to control the desert locust outbreak and mitigate its impacts and in exacerbating food insecurity;
   - **(3)** monitor the effectiveness of ongoing assistance efforts to control the desert locust outbreak and mitigate its impacts and identify gaps and opportunities for additional support to such programs;
   - **(4)** review the effectiveness of regional and multilateral efforts to control the desert locust outbreak and the coordination among relevant United States Government agencies, regional governments, and international organizations, including the World Food Programme and the United Nations Food and Agriculture Organization; and
   - **(5)** not later than 90 days after the establishment of the interagency working group under subsection (a), develop and submit to the President and the appropriate congressional committees a comprehensive, strategic plan to control the desert locust outbreak, including a description of efforts to—
@@ -51,7 +51,7 @@ Congress finds the following:
     - **(B)** ensure delivery of necessary assets control the desert locust outbreak and humanitarian and development assistance to address and mitigate impacts to food security, economic productivity, and political stability; and
     - **(C)** to the extent practicable, prevent and mitigate future desert locust and other, similar destructive insect outbreaks (such as Fall Armyworm) in Africa and other parts of the world, which require a humanitarian response.
 - **(d)** *Interagency working group support* The interagency working group shall continue to meet not less than semi-annually to facilitate implementation of the comprehensive, strategic plan required by subsection (c)(5).
-- **(e)** *Sunset* This section shall terminate on the date that is 2 years after the date of the enactment of this Act, or at such time as there is no longer an upsurge in the desert locust outbreak in East Africa, whichever occurs earlier.
+- **(e)** *Sunset* This Act shall terminate on the date that is 2 years after the date of the enactment of this Act, or at such time as there is no longer an upsurge in the desert locust outbreak in East Africa, whichever occurs earlier.
 - **(f)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
