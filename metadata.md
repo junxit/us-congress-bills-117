@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2668
@@ -87,3 +87,18 @@ Consumer Protection and Recovery Act
 - 2021-07-16 — Placed on the Union Calendar, Calendar No. 64.
 - 2021-07-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-90, Part I.
 - 2021-07-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-90, Part I.
+- 2021-07-19 — Rules Committee Resolution H. Res. 535 Reported to House. Rule provides for consideration of H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides for one hour of general debate on H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides en bloc suspension authority and provides at any time through the legislative day of Thursday, July 22, 2021, the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of July 19 or 20, 2021, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-20 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-07-20 — Considered under the provisions of rule H. Res. 535. (consideration: CR H3730-3738)
+- 2021-07-20 — DEBATE - The House proceeded with one hour of debate on H.R. 2668.
+- 2021-07-20 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-07-20 — House amendment offered
+- 2021-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-20 — Mr. Davis, Rodney moved to recommit to the Committee on Energy and Commerce. (text: CR H3736)
+- 2021-07-20 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-07-20 — On motion to recommit Failed by the Yeas and Nays: 207 - 217 (Roll no. 213).
+- 2021-07-20 — On passage Passed by the Yeas and Nays: 221 - 205 (Roll no. 214). (text: CR H3730)
+- 2021-07-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 205 (Roll no. 214).(text: CR H3730)
+- 2021-07-20 — Rule provides for consideration of H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides for one hour of general debate on H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides en bloc suspension authority and provides at any time through the legislative day of Thursday, July 22, 2021, the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of July 19 or 20, 2021, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-07-20 — The previous question was ordered pursuant to the rule.
