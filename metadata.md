@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1158
@@ -16,7 +16,7 @@ Refugee Sanitation Facility Safety Act of 2021
 
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Cosponsors (28)
+## Cosponsors (32)
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
@@ -46,6 +46,10 @@ Refugee Sanitation Facility Safety Act of 2021
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (1)
 
@@ -57,3 +61,12 @@ Refugee Sanitation Facility Safety Act of 2021
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Referred to the House Committee on Foreign Affairs.
 - 2021-02-18 — Sponsor introductory remarks on measure. (CR E142)
+- 2021-03-25 — Committee Consideration and Mark-up Session Held.
+- 2021-03-25 — Ordered to be Reported by Voice Vote.
+- 2021-07-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-19 — Considered under suspension of the rules. (consideration: CR H3650-3651; text: CR H3650)
+- 2021-07-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1158.
+- 2021-07-19 — Ms. Houlahan moved to suspend the rules and pass the bill.
+- 2021-07-20 — Passed/agreed to in House: Pursuant to section 7 of H. Res. 535, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 678; H.R. 1036; H.R. 1079, as amended; H.R. 1158; H.R. 1250; H.R. 1754; H.R. 1833, as amended; H.R. 1850; H.R. 1871; H.R. 1877, as amended; H.R. 1893; H.R. 1895; H.R. 2118; H.R. 2795, as amended; H.R. 2928; H.R. 2980, as amended; H.R. 3003; H.R. 3138, as amended; H.R. 3223; H.R. 3263; and H.R. 3264; and the following resolutions were agreed to under suspension of the rules: H. Res. 277; and H. Res. 294.(consideration: CR H3715-3730; text: CR H3717)
+- 2021-07-20 — Pursuant to section 7 of H. Res. 535, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 678; H.R. 1036; H.R. 1079, as amended; H.R. 1158; H.R. 1250; H.R. 1754; H.R. 1833, as amended; H.R. 1850; H.R. 1871; H.R. 1877, as amended; H.R. 1893; H.R. 1895; H.R. 2118; H.R. 2795, as amended; H.R. 2928; H.R. 2980, as amended; H.R. 3003; H.R. 3138, as amended; H.R. 3223; H.R. 3263; and H.R. 3264; and the following resolutions were agreed to under suspension of the rules: H. Res. 277; and H. Res. 294. (consideration: CR H3715-3730; text: CR H3717)
+- 2021-07-20 — Pursuant to the provisions of H. Res. 535, proceedings on H.R. 1158 are considered vacated.
