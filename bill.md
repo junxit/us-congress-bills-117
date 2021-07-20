@@ -135,7 +135,7 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
   >     - **(B)** *Allocation* Of the amount reserved under subparagraph (A), funds shall be allocated in a manner determined by the Secretary in consultation with Indian tribes.
   >     - **(C)** *Exception* This paragraph shall not apply in any fiscal year in which the Secretary—
   >       - **(i)** receives fewer than five applications from Indian tribes; or
-  >       - **(ii)** does not approve at least two application from Indian tribes.
+  >       - **(ii)** does not approve at least two applications from Indian tribes.
   > - **(m)** *Federal share*
   >   - **(1)** *In general* The Federal share of the cost of an activity carried out using funds made available with a grant under this section may not exceed—
   >     - **(A)** in the case of a grant to an eligible entity—
@@ -223,8 +223,8 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
 
 ## § 3. Strategy
 
-- **(a)** *Homeland security strategy to improve the cybersecurity of state, local, tribal, and territorial governments* Section 2210 of the Homeland Security Act of 2002 (6 U.S.C. 660) is amended by adding at the end the following new subsection:
-  > - **(e)** *Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments*
+- **(a)** *Homeland security strategy To improve the cybersecurity of state, local, tribal, and territorial governments* Section 2210 of the Homeland Security Act of 2002 (6 U.S.C. 660) is amended by adding at the end the following new subsection:
+  > - **(e)** *Homeland Security Strategy To Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments*
   >   - **(1)** *In general*
   >     - **(A)** *Requirement* Not later than one year after the date of the enactment of this subsection, the Secretary, acting through the Director, shall, in coordination with the heads of appropriate Federal agencies, State, local, Tribal, and territorial governments, the State and Local Cybersecurity Resilience Committee established under section 2220A, and other stakeholders, as appropriate, develop and make publicly available a Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments.
   >     - **(B)** *Recommendations and requirements* The strategy required under subparagraph (A) shall—
