@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2980
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2980
@@ -25,3 +25,14 @@ Cybersecurity Vulnerability Remediation Act
 - 2021-05-04 — Introduced in House
 - 2021-05-04 — Introduced in House
 - 2021-05-04 — Referred to the House Committee on Homeland Security.
+- 2021-05-05 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation.
+- 2021-05-18 — Committee Consideration and Mark-up Session Held.
+- 2021-05-18 — Ordered to be Reported (Amended).
+- 2021-05-18 — Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation Discharged.
+- 2021-07-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-20 — Considered under suspension of the rules. (consideration: CR H3696-3701; text: CR H3696-3697)
+- 2021-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2980.
+- 2021-07-20 — Ms. Clarke (NY) moved to suspend the rules and pass the bill, as amended.
+- 2021-07-20 — Passed/agreed to in House: Pursuant to section 7 of H. Res. 535, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 678; H.R. 1036; H.R. 1079, as amended; H.R. 1158; H.R. 1250; H.R. 1754; H.R. 1833, as amended; H.R. 1850; H.R. 1871; H.R. 1877, as amended; H.R. 1893; H.R. 1895; H.R. 2118; H.R. 2795, as amended; H.R. 2928; H.R. 2980, as amended; H.R. 3003; H.R. 3138, as amended; H.R. 3223; H.R. 3263; and H.R. 3264; and the following resolutions were agreed to under suspension of the rules: H. Res. 277; and H. Res. 294.(consideration: CR H3715-3730; text: CR H3722)
+- 2021-07-20 — Pursuant to section 7 of H. Res. 535, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 678; H.R. 1036; H.R. 1079, as amended; H.R. 1158; H.R. 1250; H.R. 1754; H.R. 1833, as amended; H.R. 1850; H.R. 1871; H.R. 1877, as amended; H.R. 1893; H.R. 1895; H.R. 2118; H.R. 2795, as amended; H.R. 2928; H.R. 2980, as amended; H.R. 3003; H.R. 3138, as amended; H.R. 3223; H.R. 3263; and H.R. 3264; and the following resolutions were agreed to under suspension of the rules: H. Res. 277; and H. Res. 294. (consideration: CR H3715-3730; text: CR H3722)
+- 2021-07-20 — Pursuant to the provisions of H. Res. 535, proceedings on H.R. 2980 are considered vacated.

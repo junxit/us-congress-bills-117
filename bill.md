@@ -30,18 +30,19 @@ Section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659) is amended—
     - **(iii)** by inserting after subparagraph (A) the following new subparagraph:
       > - **(B)** sharing mitigation protocols to counter cybersecurity vulnerabilities pursuant to subsection (n); and
 
-    - **(iv)** in subparagraph (C), as so redesignated, by inserting “and mitigation protocols to counter cybersecurity vul­ner­a­bil­i­ties in accordance with subparagraph (B)” before “with Federal”;
+    - **(iv)** in subparagraph (C), as so redesignated, by inserting “and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B)” before “with Federal”;
   - **(B)** in paragraph (7)(C), by striking “sharing” and inserting “share”; and
   - **(C)** in paragraph (9), by inserting “mitigation protocols to counter cybersecurity vulnerabilities,” after “measures,”;
-- **(3)** in subsection (e)(1)(G), by striking the semicolon after “and” at the end; and
-- **(4)** by adding at the end the following new subsection:
-  > - **(n)** *Protocols To counter cybersecurity vulnerabilities* The Director may, as appropriate, identify, develop, and disseminate actionable protocols to mitigate cybersecurity vulnerabilities, including in circumstances in which such vulnerabilities exist because software or hardware is no longer supported by a vendor.
+- **(3)** in subsection (e)(1)(G), by striking the semicolon after “and” at the end;
+- **(4)** by redesignating subsection (o) as subsection (p); and
+- **(5)** by inserting after subsection (n) following new subsection:
+  > - **(o)** *Protocols to counter certain cybersecurity vulnerabilities* The Director may, as appropriate, identify, develop, and disseminate actionable protocols to mitigate cybersecurity vulnerabilities to information systems and industrial control systems, including in circumstances in which such vulnerabilities exist because software or hardware is no longer supported by a vendor.
 
 ## § 3. Report on cybersecurity vulnerabilities
 
-- **(a)** *Report* Not later than one year after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on how the Agency carries out subsection (m) of section 2209 of the Homeland Security Act of 2002 to coordinate vulnerability disclosures, including disclosures of cybersecurity vul­ner­a­bil­i­ties (as such term is defined in such section), and subsection (n) of such section (as added by section 2) to disseminate actionable protocols to mitigate cybersecurity vulnerabilities, that includes the following:
+- **(a)** *Report* Not later than 1 year after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on how the Agency carries out subsection (n) of section 2209 of the Homeland Security Act of 2002 to coordinate vulnerability disclosures, including disclosures of cybersecurity vulnerabilities (as such term is defined in such section), and subsection (o) of such section (as added by section 2) to disseminate actionable protocols to mitigate cybersecurity vulnerabilities to information systems and industrial control systems, that includes the following:
   - **(1)** A description of the policies and procedures relating to the coordination of vulnerability disclosures.
-  - **(2)** A description of the levels of activity in furtherance of such subsections (m) and (n) of such section 2209.
+  - **(2)** A description of the levels of activity in furtherance of such subsections (n) and (o) of such section 2209.
   - **(3)** Any plans to make further improvements to how information provided pursuant to such subsections can be shared (as such term is defined in such section 2209) between the Department and industry and other stakeholders.
   - **(4)** Any available information on the degree to which such information was acted upon by industry and other stakeholders.
   - **(5)** A description of how privacy and civil liberties are preserved in the collection, retention, use, and sharing of vulnerability disclosures.
@@ -49,4 +50,29 @@ Section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659) is amended—
 
 ## § 4. Competition relating to cybersecurity vulnerabilities
 
-The Under Secretary for Science and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in providing remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002, as amended by section 2).
+The Under Secretary for Science and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in identifying remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002, as amended by section 2) to information systems (as such term is defined in such section 2209) and industrial control systems, including supervisory control and data acquisition systems.
+
+## § 5. Title XXII technical and clerical amendments
+
+- **(a)** *Technical amendments*
+  - **(1)** *Homeland Security Act of 2002* Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) is amended—
+    - **(A)** in the first section 2215 (6 U.S.C. 665; relating to the duties and authorities relating to .gov internet domain), by amending the section enumerator and heading to read as follows:
+      > ## § 2215. Duties and authorities relating to .gov internet domain
+
+    - **(B)** in the second section 2215 (6 U.S.C. 665b; relating to the joint cyber planning office), by amending the section enumerator and heading to read as follows:
+      > ## § 2216. Joint cyber planning office
+
+    - **(C)** in the third section 2215 (6 U.S.C. 665c; relating to the Cybersecurity State Coordinator), by amending the section enumerator and heading to read as follows:
+      > ## § 2217. Cybersecurity State Coordinator
+
+    - **(D)** in the fourth section 2215 (6 U.S.C. 665d; relating to Sector Risk Management Agencies), by amending the section enumerator and heading to read as follows:
+      > ## § 2218. Sector Risk Management Agencies
+
+    - **(E)** in section 2216 (6 U.S.C. 665e; relating to the Cybersecurity Advisory Committee), by amending the section enumerator and heading to read as follows:
+      > ## § 2219. Cybersecurity Advisory Committee
+
+    - **(F)** in section 2217 (6 U.S.C. 665f; relating to Cybersecurity Education and Training Programs), by amending the section enumerator and heading to read as follows:
+      > ## § 2220. Cybersecurity Education and Training Programs
+
+  - **(2)** *Consolidated Appropriations Act, 2021* Paragraph (1) of section 904(b) of division U of the Consolidated Appropriations Act, 2021 (Public Law 116–260) is amended, in the matter preceding subparagraph (A), by inserting “of 2002” after “Homeland Security Act”.
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the items relating to sections 2214 through 2217 and inserting the following new items:
