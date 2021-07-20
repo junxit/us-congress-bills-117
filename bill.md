@@ -1,0 +1,41 @@
+---
+legis-num: S. 2398
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2398
+
+> To amend title 23, United States Code, to accommodate certain facilities within rights-of-way on Federal-aid highways.
+
+## § 1. Short title
+
+This Act may be cited as the “Sustainable Highways Innovation Act”.
+
+## § 2. Accommodation of certain facilities within any right-of-way on a Federal-aid highway
+
+Section 109 of title 23, United States Code, is amended—
+
+- **(1)** in subsection (l)—
+  - **(A)** by striking paragraph (2);
+  - **(B)** by striking the subsection designation and all that follows through “In determining” in paragraph (1) in the matter preceding subparagraph (A) and inserting the following:
+    > - **(l)** *Accommodating utility facilities in the right-of-Way*
+    >   - **(1)** *Definitions* In this subsection:
+    >     - **(A)** *Right-of-way* The term right-of-way means any real property, or interest therein, acquired, dedicated, or reserved for the construction, operation, and maintenance of a highway.
+    >     - **(B)** *Utility facility*
+    >       - **(i)** *In general* The term utility facility means any privately, publicly, or cooperatively owned line, facility, or system for producing, transmitting, or distributing communications, power, electricity, light, heat, gas, oil, crude products, water, steam, waste, storm water not connected with highway drainage, or any other similar commodity, including any fire or police signal system or street lighting system, that directly or indirectly serves the public.
+    >       - **(ii)** *Inclusions* The term utility facility includes—
+    >         - **(I)** alternative fueling infrastructure;
+    >         - **(II)** a renewable energy generation facility;
+    >         - **(III)** electrical transmission and distribution infrastructure; and
+    >         - **(IV)** broadband infrastructure and conduit.
+    >   - **(2)** *Accommodation* In determining
+
+  - **(C)** by adding at the end the following:
+    > - **(3)** *State approval* A State, on behalf of the Secretary, may approve accommodating a utility facility described in paragraph (1)(B)(ii) within a right-of-way on a Federal-aid highway.
+
+- **(2)** by adding at the end the following:
+  > - **(s)** *Vegetation management* Notwithstanding any other provision of law, States are encouraged to implement, or to enter into partnerships to implement, vegetation management practices, such as increased mowing heights and planting native grasses and pollinator-friendly habitats, along a right-of-way on a Federal-aid highway, if the implementation of those practices—
+  >   - **(1)** is in the public interest; and
+  >   - **(2)** will not impair the highway or interfere with the free and safe flow of traffic.
