@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2931
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2931
@@ -31,9 +31,10 @@ Enhancing Grid Security through Public-Private Partnerships Act
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Enhancing Grid Security through Public-Private Partnerships Act
 - 2021-07-19 — Placed on the Union Calendar, Calendar No. 67.
 - 2021-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 117-93.
 - 2021-07-19 — Reported by the Committee on Energy and Commerce. H. Rept. 117-93.
+- 2021-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
