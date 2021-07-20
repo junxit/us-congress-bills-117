@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 291
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 291
@@ -28,3 +28,7 @@ A resolution congratulating the University of Oklahoma Sooners softball team on 
 
 - 2021-06-24 — Introduced in Senate
 - 2021-06-24 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2021-07-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 06/24/2021 CR S4784)
+- 2021-07-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 06/24/2021 CR S4784)
+- 2021-07-20 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4987)
+- 2021-07-20 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4987)
