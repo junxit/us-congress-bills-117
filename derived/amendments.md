@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2980
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 1 executed, 10 stated and not applied.
+20 amendatory instructions. 1 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,7 +48,16 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 659` | strike | in subparagraph (A), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 659` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 659` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 659` | redesignate | in subparagraph (C), as so redesignated, by inserting “and mitigation protocols to counter cybersecurity vul­ner­a­bil­i­ties in accordance with subparagraph (B)” before “with Federal”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 659` | redesignate | in subparagraph (C), as so redesignated, by inserting “and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B)” before “with Federal”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 659` | insert | in paragraph (9), by inserting “mitigation protocols to counter cybersecurity vulnerabilities,” after “measures,”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 659` | strike | in subsection (e)(1)(G), by striking the semicolon after “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 659` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 659` | strike | in subsection (e)(1)(G), by striking the semicolon after “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 659` | redesignate | by redesignating subsection (o) as subsection (p); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 659` | insert | by inserting after subsection (n) following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 665` | amend | in the first section 2215 (6 U.S.C. 665; relating to the duties and authorities relating to .gov internet domain), by amending the section enumerator and heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 665b` | amend | in the second section 2215 (6 U.S.C. 665b; relating to the joint cyber planning office), by amending the section enumerator and heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 665c` | amend | in the third section 2215 (6 U.S.C. 665c; relating to the Cybersecurity State Coordinator), by amending the section enumerator and heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 665d` | amend | in the fourth section 2215 (6 U.S.C. 665d; relating to Sector Risk Management Agencies), by amending the section enumerator and heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 665e` | amend | in section 2216 (6 U.S.C. 665e; relating to the Cybersecurity Advisory Committee), by amending the section enumerator and heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 665f` | amend | in section 2217 (6 U.S.C. 665f; relating to Cybersecurity Education and Training Programs), by amending the section enumerator and heading to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 651` | insert | Paragraph (1) of section 904(b) of division U of the Consolidated Appropriations Act, 2021 (Public Law 116–260) is amended, in the matter preceding subparagraph (A), by inserting “of 2002” after “Homeland Security Act”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 651` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the items relating to sections 2214 through 2217 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
