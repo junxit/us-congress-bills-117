@@ -1,7 +1,7 @@
 ---
 measure: H.R. 826
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 826
@@ -46,9 +46,10 @@ Divided Families Reunification Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Divided Families Reunification Act
 - 2021-07-19 — Ms. Houlahan moved to suspend the rules and pass the bill.
 - 2021-07-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 209). (text: CR H3651)
 - 2021-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 209).(text: CR H3651)
+- 2021-07-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
