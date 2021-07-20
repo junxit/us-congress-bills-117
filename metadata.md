@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2931
 congress: 117
-version: Referred in Senate
+version: Reported in House
 ---
 
 # H.R. 2931
