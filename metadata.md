@@ -1,7 +1,7 @@
 ---
 measure: S. 189
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 189
@@ -43,3 +43,20 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2021
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.
 - 2021-07-21 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S5023; text of amendment in the nature of a substitute: CR S5023)
 - 2021-07-21 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S5023; text of amendment in the nature of a substitute: CR S5023)
+- 2021-07-26 — Held at the desk.
+- 2021-07-26 — Message on Senate action sent to the House.
+- 2021-07-26 — Received in the House.
+- 2021-09-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-09-20 — Considered as unfinished business. (consideration: CR H4544)
+- 2021-09-20 — Considered under suspension of the rules. (consideration: CR H4536-4537)
+- 2021-09-20 — DEBATE - The House proceeded with forty minutes of debate on S. 189.
+- 2021-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-20 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2021-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 262). (text: CR H4536)
+- 2021-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 262).(text: CR H4536)
+- 2021-09-27 — Presented to President.
+- 2021-09-27 — Presented to President.
+- 2021-10-08 — Became Public Law No: 117-45.
+- 2021-10-08 — Became Public Law No: 117-45.
+- 2021-10-08 — Signed by President.
+- 2021-10-08 — Signed by President.
