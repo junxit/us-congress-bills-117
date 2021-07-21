@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2467
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 1 executed, 10 stated and not applied.
+12 amendatory instructions. 1 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -52,3 +52,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 6924` | add-at-end | Section 3004 of the Solid Waste Disposal Act (42 U.S.C. 6924) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300j-12` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300j-12` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300j-21` | add-at-end | Part F of the Safe Drinking Water Act (42 U.S.C. 300j–21 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

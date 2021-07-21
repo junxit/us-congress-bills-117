@@ -42,7 +42,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(A)** *Rule* Notwithstanding paragraphs (1) through (3), the Administrator shall, by rule, require that comprehensive toxicity testing be conducted on all chemical substances that are perfluoroalkyl or polyfluoroalkyl substances.
   >   - **(B)** *Requirements* In issuing a rule under subparagraph (A), the Administrator—
   >     - **(i)** may establish categories of perfluoroalkyl and polyfluoroalkyl substances based on hazard characteristics or chemical properties;
-  >     - **(ii)** shall require the development of information relating to perfluoroalkyl and polyfluoroalkyl substances that the Administrator determines is likely to be useful in evaluating the hazard and risk posed by such substances in land, air, and water (including drinking water), as well as in products; and
+  >     - **(ii)** shall require the development of information relating to perfluoroalkyl and polyfluoroalkyl substances that the Administrator determines is likely to be useful in evaluating the hazard and risk posed by such substances in land, air, and water (including drinking water and water used for agricultural purposes), as well as in products; and
   >     - **(iii)** may allow for varied or tiered testing requirements based on hazard characteristics or chemical properties of perfluoroalkyl and polyfluoroalkyl substances or categories of perfluoroalkyl and polyfluoroalkyl substances.
   >   - **(C)** *Deadlines* The Administrator shall issue—
   >     - **(i)** a proposed rule under subparagraph (A) not later than 6 months after the date of enactment of this paragraph; and
@@ -67,7 +67,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 Section 5 of the Toxic Substances Control Act (15 U.S.C. 2604) is amended—
 
 - **(1)** in subsection (h), by adding at the end the following:
-  > - **(7)** This subsection does not apply to any chemical substance that is a perfluoroalkyl or polyfluoroalkyl substance.
+  > - **(7)** *PFAS*
+  >   - **(A)** *In general* Except as provided in subparagraph (B), this subsection does not apply to any chemical substance that is a perfluoroalkyl or polyfluoroalkyl substance.
+  >   - **(B)** *Drugs and devices* Paragraph (3) applies to a chemical substance that is a perfluoroalkyl or polyfluoroalkyl substance which is manufactured or processed, or proposed to be manufactured or processed, solely for purposes of—
+  >     - **(i)** scientific experimentation or analysis with respect to a drug or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act) or personal protective equipment (as such term is defined in section 20005 of the CARES Act); or
+  >     - **(ii)** chemical research on, or analysis of, such a chemical substance for the development of a drug or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act) or personal protective equipment (as such term is defined in section 20005 of the CARES Act).
 
 - **(2)** by adding at the end the following:
   > - **(j)** *Perfluoroalkyl and polyfluoroalkyl substances*
@@ -128,17 +132,16 @@ Part E of the Safe Drinking Water Act (42 U.S.C. 300j et seq.) is amended by add
 >   - **(1)** *Guidance* Not later than 12 months after the date of enactment of this section, the Administrator shall publish guidance describing the form and timing for community water systems to apply for grants under this section.
 >   - **(2)** *Required information* The Administrator shall require a community water system applying for a grant under this section to submit—
 >     - **(A)** information showing the presence of PFAS in water of the community water system; and
->     - **(B)** a certification that the treatment technology in use by the community water system at the time of application is not sufficient to remove all detectable amounts of PFAS.
-> - **(c)** *List of eligible treatment technologies* Not later than 150 days after the date of enactment of this section, and every 2 years thereafter, the Administrator shall publish a list of treatment technologies that the Administrator, after providing an opportunity for public comment, determines are effective at removing all detectable amounts of PFAS from drinking water.
-> - **(d)** *Priority for funding* In awarding grants under this section, the Administrator shall prioritize affected community water systems that—
->   - **(1)** serve a disadvantaged community or a disproportionately exposed community;
->   - **(2)** will provide at least a 10-percent cost share for the cost of implementing an eligible treatment technology; or
->   - **(3)** demonstrate the capacity to maintain the eligible treatment technology to be implemented using the grant.
+>     - **(B)** a certification that the treatment technology in use by the community water system at the time of application is not sufficient to meet all applicable standards, and all applicable health advisories published pursuant to section 1412(b)(1)(F), for perfluoroalkyl and polyfluoroalkyl substances.
+> - **(c)** *List of eligible treatment technologies* Not later than 150 days after the date of enactment of this section, and every 2 years thereafter, the Administrator shall publish a list of treatment technologies that the Administrator determines are the most effective at removing perfluoroalkyl and polyfluoroalkyl substances from drinking water.
+> - **(d)** *Priority for funding* In awarding grants under this section, the Administrator shall prioritize an affected community water system that—
+>   - **(1)** serves a disadvantaged community;
+>   - **(2)** will provide at least a 10-percent cost share for the cost of implementing an eligible treatment technology;
+>   - **(3)** demonstrates the capacity to maintain the eligible treatment technology to be implemented using the grant; or
+>   - **(4)** is located within an area with respect to which the Administrator has published a determination under the first sentence of section 1424(e) relating to an aquifer that is the sole or principal drinking water source for the area.
 > - **(e)** *No increased bonding authority* Amounts awarded to affected community water systems under this section may not be used as a source of payment of, or security for (directly or indirectly), in whole or in part, any obligation the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986.
 > - **(f)** *Authorization of appropriations*
->   - **(1)** *In general* There is authorized to be appropriated to carry out this section not more than—
->     - **(A)** $125,000,000 for each of fiscal years 2022 and 2023; and
->     - **(B)** $100,000,000 for each of fiscal years 2024 through 2026.
+>   - **(1)** *In general* There is authorized to be appropriated to carry out this section not more than $500,000,000 for each of fiscal years 2022 through 2026.
 >   - **(2)** *Special rule* Of the amounts authorized to be appropriated by paragraph (1), $25,000,000 are authorized to be appropriated for each of fiscal years 2022 and 2023 for grants under subsection (a) to pay for capital costs associated with the implementation of eligible treatment technologies during the period beginning on October 1, 2014, and ending on the date of enactment of this section.
 > - **(g)** *Definitions* In this section:
 >   - **(1)** *Affected community water system* The term affected community water system means a community water system that is affected by the presence of PFAS in the water in the community water system.
@@ -169,9 +172,23 @@ Section 3004 of the Solid Waste Disposal Act (42 U.S.C. 6924) is amended by addi
 ## § 10. Label for PFAS-free products
 
 - **(a)** *Label for PFAS-Free products* Not later than 1 year after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall—
-  - **(1)** revise the Safer Choice Standard of the Safer Choice Program to identify the requirements for a pot, pan, cooking utensil, carpet, or rug, clothing, or upholstered furniture, or a stain resistant, water resistant, or grease resistant coating not subject to requirements under section 409 of the Federal Food, Drug, and Cosmetic Act to meet in order to be labeled with a Safer Choice label, including a requirement that any such pot, pan, cooking utensil, carpet, rug, clothing, or upholstered furniture, or stain resistant, water resistant, or grease resistant coating does not contain any PFAS; or
-  - **(2)** establish a voluntary label that is available to be used by any manufacturer of any pot, pan, cooking utensil, carpet, rug, clothing, or upholstered furniture, or stain resistant, water resistant, or grease resistant coating not subject to requirements under section 409 of the Federal Food, Drug, and Cosmetic Act that the Administrator has reviewed and found does not contain any PFAS.
-- **(b)** *Definition* In this section, the term PFAS means a perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom.
+  - **(1)** revise the Safer Choice Standard of the Safer Choice Program to identify the requirements for a covered product to meet in order to be labeled with a Safer Choice label, including a requirement that any such covered product does not contain any PFAS; or
+  - **(2)** establish a voluntary label that is available to be used by any manufacturer of any covered product that the Administrator has reviewed and found does not contain any PFAS.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Covered product* The term “covered product” means—
+    - **(A)** a pot,
+    - **(B)** a pan;
+    - **(C)** a cooking utensil;
+    - **(D)** carpet;
+    - **(E)** a rug;
+    - **(F)** clothing;
+    - **(G)** upholstered furniture;
+    - **(H)** a stain resistant, water resistant, or grease resistant coating not subject to requirements under section 409 of the Federal Food, Drug, and Cosmetic Act;
+    - **(I)** food packaging material;
+    - **(J)** an umbrella;
+    - **(K)** luggage; or
+    - **(L)** a cleaning product.
+  - **(2)** *PFAS* The term “PFAS” means a perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom.
 
 ## § 11. Guidance on minimizing the use of firefighting foam and other related equipment containing any PFAS
 
@@ -203,18 +220,20 @@ The Administrator of the Environmental Protection Agency shall investigate metho
   - **(2)** A list of laboratories that analyze water samples and are certified by a State or the Administrator.
   - **(3)** State-specific information, developed in coordination with each State, on naturally occurring and human-induced contaminants.
   - **(4)** Information that, using accepted risk communication techniques, clearly communicates whether a test result value exceeds a level determined by the Administrator or the State to pose a health risk.
-  - **(5)** Information on treatment options, including information relating to water treatment systems certified by the National Science Foundation or the American National Standards Institute, and people who are qualified to install such systems.
+  - **(5)** Information on treatment options, including information relating to water treatment systems certified to the relevant NSF/ANSI American National Standard for drinking water treatment units by a third-party certification body accredited by the ANSI National Accreditation Board.
   - **(6)** A directory of whom to contact to report a test result value that exceeds a level determined by the Administrator or the State to pose a health risk.
   - **(7)** Information on financial assistance that is available for homeowners to support water treatment, including grants under section 306E of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926e) and State resources.
-  - **(8)** Any other information the Administrator considers appropriate.
-- **(c)** *Coordination* The Administrator shall coordinate with the Secretary of Health and Human Services, the Secretary of Agriculture, and appropriate State agencies in carrying out this section.
-- **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2022.
+  - **(8)** Information about the health risks associated with consuming water contaminated with PFAS as well as recommendations for individuals who believe they may have consumed such PFAS-contaminated water.
+  - **(9)** Any other information the Administrator considers appropriate.
+- **(c)** *Access* The Administrator shall ensure information on the website established under subsection (a) is presented in a manner that provides meaningful access to such information for individuals with limited English proficiency.
+- **(d)** *Coordination* The Administrator shall coordinate with the Secretary of Health and Human Services, the Secretary of Agriculture, and appropriate State agencies in carrying out this section.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2022.
 
 ## § 15. Risk-communication strategy
 
 The Administrator of the Environmental Protection Agency shall develop a risk-communication strategy to inform the public about the hazards or potential hazards of perfluoroalkyl and polyfluoroalkyl substances, or categories of perfluoroalkyl and polyfluoroalkyl substances, by—
 
-- **(1)** disseminating information about the risks or potential risks posed by such substances or categories in land, air, water (including drinking water), and products;
+- **(1)** disseminating information about the risks or potential risks posed by such substances or categories in land, air, water (including drinking water and water used for agricultural purposes), and products;
 - **(2)** notifying the public about exposure pathways and mitigation measures through outreach and educational resources; and
 - **(3)** consulting with States that have demonstrated effective risk-communication strategies for best practices in developing a national risk-communication strategy.
 
@@ -224,43 +243,69 @@ Section 1452(t) of the Safe Drinking Water Act (42 U.S.C. 300j–12) is amended�
 
 - **(1)** by redesignating paragraph (2) as paragraph (3); and
 - **(2)** by inserting after paragraph (1) the following new paragraph:
-  > - **(2)** *Assistance to Territories* Of the amounts made available under this subsection, the Administrator may use funds to provide grants to the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam for the purpose of addressing emerging contaminants, with a focus on perfluoroalkyl and polyfluoroalkyl substances.
+  > - **(2)** *Assistance to Territories* To the extent that sufficient applications are received, the Administrator shall use not less than 2 percent of the amounts made available under this subsection to provide grants to the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam for the purpose of addressing emerging contaminants, with a focus on perfluoroalkyl and polyfluoroalkyl substances.
 
-## § 17. Clean Water Act effluent standards, pretreatment standards, and water quality criteria for PFAS
+## § 17. Clean Water Act effluent limitations guidelines and standards and water quality criteria for PFAS
 
-- **(a)** *Review and regulation of substances and sources*
-  - **(1)** *Review*
-    - **(A)** *In general* As soon as practicable, but not later than September 30, 2022, and biennially thereafter, the Administrator shall publish in the Federal Register a plan under subsection (m) of section 304 of the Federal Water Pollution Control Act (33 U.S.C. 1314) that contains the results of a review, conducted in accordance with such section, of the introduction or discharge of perfluoroalkyl and polyfluoroalkyl substances from classes and categories of point sources (other than publicly owned treatment works).
-    - **(B)** *Inclusions* The Administrator shall include in each plan published pursuant to subparagraph (A)—
-      - **(i)** information on potential introduction or discharges of perfluoroalkyl and polyfluoroalkyl substances;
-      - **(ii)** any information gaps on such introduction or discharges and the process by which the Administrator will address such gaps;
-      - **(iii)** for each measurable perfluoroalkyl and polyfluoroalkyl substance that is not on the list of toxic pollutants described in section 307(a) of the Federal Water Pollution Control Act, a determination, in accordance with the requirements of such section, whether or not to add the substance to such list; and
-      - **(iv)** a determination, in accordance with the requirements of the Federal Water Pollution Control Act, whether or not to establish effluent limitations and pretreatment standards for the introduction or discharge of each substance described in clause (iii) that the Administrator determines under such clause not to add to such list and for which the Administrator has not developed such limitations or standards.
-  - **(2)** *Regulation* Based on the results of each review conducted under paragraph (1) and in accordance with the requirements of the Federal Water Pollution Control Act, the Administrator shall—
-    - **(A)** in accordance with the plan published under paragraph (1), as soon as practicable—
-      - **(i)** for each measurable perfluoroalkyl and polyfluoroalkyl substance that the Administrator determines under paragraph (1)(B)(iii) to add to the list of toxic pollutants described in section 307(a) of such Act, initiate the process for adding the substance to such list; and
-      - **(ii)** for each measurable perfluoroalkyl and polyfluoroalkyl substance that the Administrator determines under paragraph (1)(B)(iv) to establish effluent limitations and pretreatment standards, establish such effluent limitations and pretreatment standards (which limitations and standards may be established by substance or by class or category of substances); and
-    - **(B)** not later than 2 years after the date on which each plan is published under paragraph (1), publish human health water quality criteria for measurable perfluoroalkyl and polyfluoroalkyl substances and classes and categories of perfluoroalkyl and polyfluoroalkyl substances for which the Administrator has not published such criteria.
-- **(b)** *Deadlines for covered perfluoroalkyl substances*
-  - **(1)** *Water quality criteria* Not later than 2 years after the date of enactment of this section, the Administrator shall publish in the Federal Register human health water quality criteria for each covered perfluoroalkyl substance.
-  - **(2)** *Effluent limitations and pretreatment standards for priority industry categories* As soon as practicable, but not later than 4 years after the date of enactment of this section, the Administrator shall publish in the Federal Register a final rule establishing, for each priority industry category, effluent limitations and pretreatment standards for the introduction or discharge of each covered perfluoroalkyl substance.
-- **(c)** *Notification* The Administrator shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of each publication made under this section.
-- **(d)** *Implementation assistance for publicly owned treatment works*
-  - **(1)** *In general* The Administrator shall award grants, in amounts not to exceed $100,000, to owners and operators of publicly owned treatment works, to be used for the implementation of a pretreatment standard developed by the Administrator for a perfluoroalkyl or polyfluoroalkyl substance.
+- **(a)** *Deadlines*
+  - **(1)** *Water quality criteria* Not later than 3 years after the date of enactment of this section, the Administrator shall publish in the Federal Register human health water quality criteria under section 304(a)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1314) for each measurable perfluoroalkyl substance, polyfluoroalkyl substance, and class of such substances.
+  - **(2)** *Effluent limitations guidelines and standards for priority industry categories* As soon as practicable, but not later than 4 years after the date of enactment of this section, the Administrator shall publish in the Federal Register a final rule establishing, for each priority industry category, effluent limitations guidelines and standards, in accordance with the Federal Water Pollution Control Act, for the discharge (including a discharge into a publicly owned treatment works) of each measurable perfluoroalkyl substance, polyfluoroalkyl substance, and class of such substances.
+- **(b)** *Notification* The Administrator shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of each publication made under this section.
+- **(c)** *Implementation assistance for publicly owned treatment works*
+  - **(1)** *In general* The Administrator shall award grants to owners and operators of publicly owned treatment works, to be used to implement effluent limitations guidelines and standards developed by the Administrator for a perfluoroalkyl substance, polyfluoroalkyl substance, or class of such substances.
   - **(2)** *Authorization of appropriations* There is authorized to be appropriated to the Administrator to carry out this subsection $200,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+- **(d)** *No increased bonding authority* Amounts awarded to an owner or operator of a publicly owned treatment works under this section may not be used as a source of payment of, or security for (directly or indirectly), in whole or in part, any obligation the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986.
 - **(e)** *Definitions* In this section:
   - **(1)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
-  - **(2)** *Covered perfluoroalkyl substance* The term covered perfluoroalkyl substance means perfluorooctanoic acid, perfluorooctane sulfonic acid, or a salt associated with perfluorooctanoic acid or perfluorooctane sulfonic acid.
-  - **(3)** *Effluent limitation* The term effluent limitation means an effluent limitation under section 301(b) of the Federal Water Pollution Control Act (33 U.S.C. 1311).
-  - **(4)** *Introduction* The term introduction means the introduction of pollutants into treatment works, as described in section 307(b) of the Federal Water Pollution Control Act (33 U.S.C. 1317).
-  - **(5)** *Measurable* The term measurable means, with respect to a chemical substance or class or category of chemical substances, capable of being measured using—
-    - **(A)** test procedures established under section 304(h) of the Federal Water Pollution Control Act (33 U.S.C. 1314);
-    - **(B)** applicable protocols and methodologies required pursuant to section 4(a) of the Toxic Substances Control Act (15 U.S.C. 2603); or
-    - **(C)** any other analytical method developed by the Administrator for detecting pollutants, as such term is defined in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362).
-  - **(6)** *Pretreatment standard* The term pretreatment standard means a pretreatment standard under section 307(b) of the Federal Water Pollution Control Act (33 U.S.C. 1317).
-  - **(7)** *Priority industry category* The term priority industry category means the following point source categories:
-    - **(A)** Organic chemicals, plastics, and synthetic fibers, as identified in part 414 of title 40, Code of Federal Regulations.
-    - **(B)** Pulp, paper, and paperboard, as identified in part 430 of title 40, Code of Federal Regulations.
-    - **(C)** Textile mills, as identified in part 410 of title 40, Code of Federal Regulations.
-  - **(8)** *Treatment works* The term treatment works has the meaning given that term in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292).
-  - **(9)** *Water quality criteria* The term water quality criteria means criteria for water quality under section 304(a)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1314).
+  - **(2)** *Effluent limitation* The term effluent limitation has the meaning given that term in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362).
+  - **(3)** *Measurable* The term measurable means, with respect to a chemical substance or class of chemical substances, capable of being measured using test procedures established under section 304(h) of the Federal Water Pollution Control Act (33 U.S.C. 1314).
+  - **(4)** *Perfluoroalkyl substance* The term perfluoroalkyl substance means a chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
+  - **(5)** *Polyfluoroalkyl substance* The term polyfluoroalkyl substance means a chemical containing at least one fully fluorinated carbon atom and at least one carbon atom that is not a fully fluorinated carbon atom.
+  - **(6)** *Priority industry category* The term priority industry category means the following point source categories:
+    - **(A)** Organic chemicals, plastics, and synthetic fibers, as identified in part 414 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(B)** Pulp, paper, and paperboard, as identified in part 430 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(C)** Textile mills, as identified in part 410 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(D)** Electroplating, as identified in part 413 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(E)** Metal finishing, as identified in part 433 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(F)** Leather tanning and finishing, as identified in part 425 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(G)** Paint formulating, as identified in part 446 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(H)** Electrical and electronic components, as identified in part 469 of title 40, Code of Federal Regulations (or successor regulations).
+    - **(I)** Plastics molding and forming, as identified in part 463 of title 40, Code of Federal Regulations (or successor regulations).
+  - **(7)** *Treatment works* The term treatment works has the meaning given that term in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292).
+
+## § 18. School drinking water testing and filtration grant program
+
+Part F of the Safe Drinking Water Act (42 U.S.C. 300j–21 et seq.) is amended by adding at the end the following:
+
+> ## § 1466. School PFAS testing and filtration grant program
+>
+> - **(a)** *In general* Not later than 1 year after the date of enactment of this section, the Administrator shall establish a program to make grants to eligible entities for—
+>   - **(1)** testing for perfluoroalkyl and polyfluoroalkyl substances in drinking water at schools that is conducted by an entity approved by the Administrator or the applicable State to conduct the testing;
+>   - **(2)** installation, maintenance, and repair of water filtration systems effective for reducing perfluoroalkyl and polyfluoroalkyl substances in drinking water at schools that contains a level of any perfluoroalkyl or polyfluoroalkyl substance that exceeds—
+>     - **(A)** an applicable maximum contaminant level established by the Administrator under section 1412; or
+>     - **(B)** an applicable standard established by the applicable State that is more stringent than the level described in subparagraph (A); or
+>   - **(3)** safe disposal of spent water filtration equipment used to reduce perfluoroalkyl and polyfluoroalkyl substances in drinking water at schools.
+> - **(b)** *Guidance; public availability* As a condition of receiving a grant under this section, an eligible entity shall—
+>   - **(1)** expend grant funds in accordance with any applicable State regulation or guidance regarding the reduction of perfluoroalkyl and polyfluoroalkyl substances in drinking water at schools that is not less stringent than any applicable guidance issued by the Administrator;
+>   - **(2)** make publicly available, including, to the maximum extent practicable, on the website of the eligible entity, a copy of the results of any testing carried out with grant funds received under this section; and
+>   - **(3)** notify parent, teacher, and employee organizations of the availability of the results described in paragraph (2).
+> - **(c)** *Limitation* An eligible entity receiving a grant under this section may use not more than 5 percent of grant funds to pay the administrative costs of carrying out the activities for which the grant was made.
+> - **(d)** *Definition of eligible entity* In this section, the term “eligible entity” means—
+>   - **(1)** a local educational agency; or
+>   - **(2)** a State agency that administers a statewide program to test for, remediate, or filter perfluoroalkyl and polyfluoroalkyl substances in drinking water.
+> - **(e)** *Authorization of appropriation* There is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+
+## § 19. Analytical reference standards for PFAS
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall require each covered entity to submit to the Administrator an analytical reference standard for each perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom manufactured by the covered entity after the date that is 10 years prior to the date of enactment of this Act.
+- **(b)** *Uses* The Administrator may—
+  - **(1)** use an analytical reference standard submitted under this section only for—
+    - **(A)** the development of information, protocols, and methodologies, which may be carried out by an entity determined appropriate by the Administrator; and
+    - **(B)** activities relating to the implementation or enforcement of Federal requirements; and
+  - **(2)** provide an analytical reference standard submitted under this section to a State, to be used only for—
+    - **(A)** the development of information, protocols, and methodologies, which may be carried out by an entity determined appropriate by the State; and
+    - **(B)** activities relating to the implementation or enforcement of State requirements.
+- **(c)** *Prohibition* No person receiving an analytical reference standard submitted under this section may use or transfer the analytical reference standard for a commercial purpose.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Covered entity* The term “covered entity” means a manufacturer of a perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom.
+  - **(2)** *Manufacture; State* The terms “manufacture” and “State” have the meanings given those terms in section 3 of the Toxic Substances Control Act (15 U.S.C. 2602).
