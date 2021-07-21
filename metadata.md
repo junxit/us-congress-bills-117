@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 274
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 274
@@ -16,7 +16,7 @@ A resolution designating July 24, 2021, as "National Day of the American Cowboy"
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
@@ -28,6 +28,7 @@ A resolution designating July 24, 2021, as "National Day of the American Cowboy"
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -37,3 +38,7 @@ A resolution designating July 24, 2021, as "National Day of the American Cowboy"
 
 - 2021-06-17 — Introduced in Senate
 - 2021-06-17 — Referred to the Committee on the Judiciary.
+- 2021-07-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 06/17/2021 CR S4630)
+- 2021-07-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 06/17/2021 CR S4630)
+- 2021-07-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5025)
+- 2021-07-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5025)
