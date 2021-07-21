@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1870
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1870
@@ -20,9 +20,10 @@ Strengthening Local Transportation Security Capabilities Act of 2021
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Strengthening Local Transportation Security Capabilities Act of 2021
 - 2021-07-20 — Ms. Barragan moved to suspend the rules and pass the bill, as amended.
 - 2021-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3681-3682)
 - 2021-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3681-3682)
+- 2021-07-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
