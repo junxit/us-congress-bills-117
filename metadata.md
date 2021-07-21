@@ -1,7 +1,7 @@
 ---
 measure: S. 1910
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1910
@@ -28,3 +28,7 @@ Major Medical Facility Authorization Act of 2021
 
 - 2021-05-27 — Introduced in Senate
 - 2021-05-27 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-07-21 — Passed Senate without amendment by Unanimous Consent. (text: CR S5025)
+- 2021-07-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5025)
+- 2021-07-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5025)
+- 2021-07-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5025)
