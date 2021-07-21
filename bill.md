@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 546
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 546
+
+> Expressing the sense of the House of Representatives that the United States Women’s National Soccer Team and the United States Men’s National Soccer Team should receive equal pay for equal work.
+
+## Preamble
+
+- Whereas the achievement of women and girls in sports is a powerful way to teach leadership and life skills and to provide female role models for young women as leaders;
+- Whereas the United States Women’s National Soccer Team has raised the profile of the game of soccer in the United States, and its players have become role models for women’s achievements in sports worldwide;
+- Whereas, over the last 30 years, the United States Women’s National Soccer Team has won more World Cup titles and more Olympic gold medals than any other men’s or women’s soccer team in the world;
+- Whereas the United States Women’s National Soccer Team holds numerous world records, including— (1)the most goals in a single Women’s World Cup match; (2)the most goals in a single Women’s World Cup tournament; (3)the most total wins in Women’s World Cup history; and (4)the largest margin of victory in one match in either men’s or women’s World Cup history;
+- Whereas the United States Women’s National Soccer Team generates as much or more revenue for the United States Soccer Federation as does the United States Men’s National Soccer Team;
+- Whereas overall game viewership over time for the United States Women’s National Soccer Team exceeds that of the United States Men’s National Soccer Team;
+- Whereas, despite their unprecedented success and excellence in the sport, members of the United States Women’s National Soccer Team earn significantly less compared to their counterparts performing the same job on the United States Men’s National Soccer Team; and
+- Whereas the principle of gender equity should be espoused and promoted by all public and private actors, and individuals of all genders should earn the same pay for the same work: Now, therefore, be it
+
+That it is the sense of the House of Representatives that the United States Women’s National Soccer Team and the United States Men’s National Soccer Team should receive equal pay, including third-party prize money and any other form of remuneration.
