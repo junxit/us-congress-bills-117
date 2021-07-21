@@ -7,30 +7,24 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 189
 
-> To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.
+> To increase, effective as of December 1, 2021, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans' Disability Compensation Automatic COLA Act of 2021”.
+This Act may be cited as the “Veterans’ Compensation Cost-of-Living Adjustment Act of 2021”.
 
-## § 2. Automatic annual increase in rates of disability compensation and dependency and indemnity compensation
+## § 2. Increase in rates of disability compensation and dependency and indemnity compensation
 
-- **(a)** *Indexing to social security increases* Section 5312 of title 38, United States Code, is amended—
-  - **(1)** by redesignating subsection (c) as subsection (d);
-  - **(2)** by inserting after subsection (b) the following new subsection:
-    > - **(c)**
-    >   - **(1)** Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in paragraph (2), as such amounts were in effect immediately before the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
-    >   - **(2)** The dollar amounts to be increased pursuant to paragraph (1) are the following:
-    >     - **(A)** *Disability compensation* Each of the dollar amounts in effect under section 1114 of this title.
-    >     - **(B)** *Additional compensation for dependents* Each of the dollar amounts in effect under section 1115(1) of this title.
-    >     - **(C)** *Clothing allowance* The dollar amount in effect under section 1162 of this title.
-    >     - **(D)** *New DIC rates* Each of the dollar amounts in effect under paragraphs (1) and (2) of section 1311(a) of this title.
-    >     - **(E)** *Old DIC rates* Each of the dollar amounts in effect under section 1311(a)(3) of this title.
-    >     - **(F)** *Additional DIC for surviving spouses with minor children* The dollar amount in effect under section 1311(b) of this title.
-    >     - **(G)** *Additional DIC for disability* Each of the dollar amounts in effect under subsections (c) and (d) of section 1311 of this title.
-    >     - **(H)** *DIC for dependent children* Each of the dollar amounts in effect under sections 1313(a) and 1314 of this title.
+- **(a)** *Rate adjustment* Effective on December 1, 2021, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2021, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+- **(b)** *Amounts To be increased* The dollar amounts to be increased pursuant to subsection (a) are the following:
+  - **(1)** *Wartime disability compensation* Each of the dollar amounts under section 1114 of title 38, United States Code.
+  - **(2)** *Additional compensation for dependents* Each of the dollar amounts under section 1115(1) of such title.
+  - **(3)** *Clothing allowance* The dollar amount under section 1162 of such title.
+  - **(4)** *Dependency and indemnity compensation to surviving spouse* Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
+  - **(5)** *Dependency and indemnity compensation to children* Each of the dollar amounts under sections 1313(a) and 1314 of such title.
+- **(c)** *Determination of Increase* Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2021, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+- **(d)** *Special rule* The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of title 38, United States Code.
 
-  - **(3)** by adding at the end of subsection (d), as redesignated by paragraph (1), the following new paragraph:
-    > - **(3)** Whenever there is an increase under subsection (c)(1) in amounts in effect for the payment of disability compensation and dependency and indemnity compensation, the Secretary shall publish such amounts, as increased pursuant to such subsection, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+## § 3. Publication of adjusted rates
 
-- **(b)** *Effective date* Subsection (c) of section 5312 of title 38, United States Code, as added by subsection (a) of this section, shall take effect on the first day of the first calendar year that begins after the date of the enactment of this Act.
+The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2022.

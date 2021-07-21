@@ -1,7 +1,7 @@
 ---
 measure: S. 189
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 189
@@ -41,3 +41,5 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2021
 - 2021-06-24 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2021-06-24 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.
+- 2021-07-21 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S5023; text of amendment in the nature of a substitute: CR S5023)
+- 2021-07-21 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S5023; text of amendment in the nature of a substitute: CR S5023)
