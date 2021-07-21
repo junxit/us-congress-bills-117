@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2668
@@ -102,3 +102,4 @@ Consumer Protection and Recovery Act
 - 2021-07-20 — Rule provides for consideration of H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides for one hour of general debate on H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides en bloc suspension authority and provides at any time through the legislative day of Thursday, July 22, 2021, the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of July 19 or 20, 2021, and on which the yeas and nays were ordered and further proceedings postponed.
 - 2021-07-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-07-20 — The previous question was ordered pursuant to the rule.
+- 2021-07-21 — Received in the Senate.
