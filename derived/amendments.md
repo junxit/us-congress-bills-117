@@ -1,7 +1,7 @@
 ---
 measure: S. 894
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
