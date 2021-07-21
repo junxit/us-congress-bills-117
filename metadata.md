@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2467
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2467
@@ -90,3 +90,27 @@ PFAS Action Act of 2021
 - 2021-07-13 — Placed on the Union Calendar, Calendar No. 61.
 - 2021-07-13 — Reported by the Committee on Energy and Commerce. H. Rept. 117-86, Part I.
 - 2021-07-13 — Reported by the Committee on Energy and Commerce. H. Rept. 117-86, Part I.
+- 2021-07-19 — Rules Committee Resolution H. Res. 535 Reported to House. Rule provides for consideration of H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides for one hour of general debate on H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides en bloc suspension authority and provides at any time through the legislative day of Thursday, July 22, 2021, the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of July 19 or 20, 2021, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-21 — Amendment agreed to by House: On agreeing to the Tonko amendments (A002) Agreed to by the Yeas and Nays: 226 - 195 (Roll no. 215).
+- 2021-07-21 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-07-21 — Amendments en bloc (A002) offered by Mr. Tonko. (consideration: CR H3784-3789; text: CR H3784-3785)
+- 2021-07-21 — Considered under the provisions of rule H. Res. 535. (consideration: CR H3770-3791; text: CR H3770-3773)
+- 2021-07-21 — DEBATE - Pursuant to the provisions of H. Res. 535, the House proceeded with 20 minutes of debate on the Tonko amendment en bloc.
+- 2021-07-21 — DEBATE - The House proceeded with one hour of debate on H.R. 2467.
+- 2021-07-21 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-07-21 — House amendment agreed to: On agreeing to the Tonko amendments (A002) Agreed to by the Yeas and Nays: 226 - 195 (Roll no. 215).
+- 2021-07-21 — House amendment offered
+- 2021-07-21 — House amendment offered
+- 2021-07-21 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Tonko.
+- 2021-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-21 — Mr. Crenshaw moved to recommit to the Committee on Energy and Commerce. (text: CR H3789)
+- 2021-07-21 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-07-21 — On agreeing to the Tonko amendments (A002) Agreed to by the Yeas and Nays: 226 - 195 (Roll no. 215).
+- 2021-07-21 — On motion to recommit Failed by the Yeas and Nays: 204 - 218 (Roll no. 216).
+- 2021-07-21 — On passage Passed by the Yeas and Nays: 241 - 183 (Roll no. 217).
+- 2021-07-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 241 - 183 (Roll no. 217).
+- 2021-07-21 — Roll call votes on amendments in House
+- 2021-07-21 — Rule provides for consideration of H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides for one hour of general debate on H.R. 2467, H.R. 2668 and H.R. 3985. The resolution provides en bloc suspension authority and provides at any time through the legislative day of Thursday, July 22, 2021, the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules with respect to multiple measures that were the object of motions to suspend the rules on the legislative days of July 19 or 20, 2021, and on which the yeas and nays were ordered and further proceedings postponed.
+- 2021-07-21 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2467.
+- 2021-07-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-07-21 — The previous question was ordered pursuant to the rule.
