@@ -1,7 +1,7 @@
 ---
 measure: S. 894
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 894
@@ -33,3 +33,5 @@ Hire Veteran Health Heroes Act of 2021
 - 2021-06-24 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment. Without written report.
 - 2021-06-24 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment. Without written report.
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 85.
+- 2021-07-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5024; text: CR S5024)
+- 2021-07-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5024; text: CR S5024)
