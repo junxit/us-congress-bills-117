@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2467
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2467
@@ -68,10 +68,11 @@ PFAS Action Act of 2021
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -114,3 +115,4 @@ PFAS Action Act of 2021
 - 2021-07-21 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2467.
 - 2021-07-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-07-21 — The previous question was ordered pursuant to the rule.
+- 2021-07-22 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
