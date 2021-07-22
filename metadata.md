@@ -1,7 +1,7 @@
 ---
 measure: S. 2382
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2382
@@ -16,15 +16,18 @@ A bill to authorize the National Cyber Director to accept details from other ele
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Actions
 
 - 2021-07-19 — Introduced in Senate
 - 2021-07-19 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2021-07-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
+- 2021-07-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5057; text: CR S5057-5058)
+- 2021-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5057; text: CR S5057-5058)
