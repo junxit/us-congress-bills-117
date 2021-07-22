@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 165
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 165
@@ -34,3 +34,5 @@ A resolution calling on the Government of the Russian Federation to provide evid
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
+- 2021-07-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S5056-5057; text: CR S5057)
+- 2021-07-22 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S5056-5057; text: CR S5057)
