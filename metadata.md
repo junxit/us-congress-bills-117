@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2278
@@ -16,10 +16,25 @@ To designate the September 11th National Memorial Trail Route, and for other pur
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Cosponsors (2)
+## Cosponsors (17)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 
 ## Committees (1)
 
@@ -30,3 +45,11 @@ To designate the September 11th National Memorial Trail Route, and for other pur
 - 2021-03-29 — Introduced in House
 - 2021-03-29 — Introduced in House
 - 2021-03-29 — Referred to the House Committee on Natural Resources.
+- 2021-05-24 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-05-27 — Subcommittee Hearings Held.
+- 2021-07-14 — Committee Consideration and Mark-up Session Held.
+- 2021-07-14 — Ordered to be Reported by Unanimous Consent.
+- 2021-07-14 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2021-07-22 — Placed on the Union Calendar, Calendar No. 74.
+- 2021-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-101.
+- 2021-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-101.

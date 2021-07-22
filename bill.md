@@ -9,34 +9,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To authorize the Secretary of the Interior to designate the September 11th National Memorial Trail, and for other purposes.
 
-## § 1. September 11th National Memorial Trail
+## § 1. September 11th National Memorial Trail Route
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Park* The term Park means the Flight 93 National Memorial.
+  - **(1)** *Map* The term “Map” means the map entitled “September 11th National Memorial Trail Route Proposed Trail Route,” numbered ___, and dated July 2021.
   - **(2)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
-  - **(3)** *State* The term States means Virginia, Maryland, Pennsylvania, New York, New Jersey, Delaware, and the District of Columbia.
-  - **(4)** *Trail* The term Trail means the September 11th National Memorial Trail Route designated under subsection (b).
+  - **(3)** *Trail Route* The term Trail Route means the September 11th National Memorial Trail Route designated under subsection (b).
 - **(b)** *Establishment of trail route*
-  - **(1)** *Authority* The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a tour route, to be known as the “September 11th National Memorial Trail Route”, to link the National September 11 Memorial and Museum in New York City, the Pentagon Memorial in Arlington, Virginia, and the Flight 93 National Memorial in Somerset County, Pennsylvania. The September 11th National Memorial Trail shall—
+  - **(1)** *Designation* There is designated a Trail Route, to be known as the “September 11th National Memorial Trail Route”, to link the National 9/11 Memorial and Museum in New York City, the National 9/11 Pentagon Memorial in Arlington, Virginia, and the Flight 93 National Memorial in Somerset County, Pennsylvania. The September 11th National Memorial Trail Route shall—
     - **(A)** provide for a tribute to the family members and loved ones who were victims of the attack and the heroes of September 11th, including the first responders in the days, weeks, and months after the attack;
-    - **(B)** be a Trail of Remembrance to honor the fallen in a tangible way that keeps their memories alive and reaffirms the exceptionalism of our country; and
-    - **(C)** be a celebration of our Nation's resilience and perseverance since its founding as well as a promotion of our cultural and industrial heritage.
-  - **(2)** *Route* The Trail shall form an unbroken triangular trail of approximately 1,300 miles as follows:
-    - **(A)** Starting at the Pentagon Memorial in Arlington, Virginia, following the Mt. Vernon Trail;
-    - **(B)** then extending north along the 184-mile Chesapeake and Ohio Canal National Historic Park where it connects at Cumberland, Maryland, with the 150-mile Great Allegheny Passage and follows to Garret in Somerset County, Pennsylvania;
-    - **(C)** turning northeast and continuing for approximately 21 miles to the Flight 93 National Memorial;
-    - **(D)** continuing east through the communities and historic sights of Pennsylvania, until arriving at New Jersey’s 130-mile Liberty Water Gap Trail, then follows to New York City and continues to the National September 11 Memorial and Museum;
-    - **(E)** returning south following important sections of the East Coast Greenway and connecting Pennsylvania’s 9–11 Memorial Garden of Reflection to the Trail;
-    - **(F)** continuing through New Jersey, Delaware, Maryland, and the District of Columbia; and
-    - **(G)** ending at the Pentagon Memorial.
-- **(c)** *Administration* The Trail shall be administered by the Secretary through the Park.
-- **(d)** *Activities* To facilitate the establishment of the Trail and the dissemination of information regarding the Trail, the Secretary shall—
-  - **(1)** produce and disseminate appropriate educational materials regarding the Trail, such as handbooks, maps, exhibits, signs, interpretive guides, and electronic information;
-  - **(2)** coordinate the management, planning, and with participating properties, other Federal agencies, State, and local governments, and nonprofit entities;
-  - **(3)** create and adopt an official, uniform symbol or device to mark the Trail; and
-  - **(4)** issue guidelines for the use of the symbol or device adopted under paragraph (3).
-- **(e)** *Elements of trail route* Subject to the consent of the owner of the property, the Secretary may designate as an official stop on the Trail—
-  - **(1)** all units and programs of the Park relating to the attacks of September 11th;
-  - **(2)** other Federal, State, local, and privately owned properties that the Secretary determines have a verifiable connection to the attacks of September 11th and our Nation’s sacrifices since its founding; and
-  - **(3)** other governmental and nongovernmental facilities and programs of an educational, commemorative, research, or interpretive nature that the Secretary determines to be related to the attacks of September 11th and our Nation’s sacrifices since its founding.
-- **(f)** *Cooperative agreements and memoranda of understanding* To facilitate the establishment of the Trail and to ensure effective coordination of the Federal and non-Federal properties designated as stops along the Trail, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical and financial assistance to, other Federal agencies, the State, localities, regional governmental bodies, and private entities.
+    - **(B)** be a trail of remembrance to honor the fallen in a tangible way that keeps their memories alive and reaffirms the exceptionalism of our country; and
+    - **(C)** be a celebration of our Nation's resilience and perseverance since September 11, 2001.
+  - **(2)** *Route*
+    - **(A)** *In general* The Trail Route shall consist of a series of trails as generally depicted on the Map.
+    - **(B)** *Availability of map* The Map shall be available in the appropriate offices of the National Park Service.
+    - **(C)** *Revision* The Secretary may revise the Map by publication in the Federal Register of a notice of availability of a new Map.
+- **(c)** *Administration* The Trail Route program shall be administered by the Secretary in consultation with the affected landowners, including any Federal, State, Tribal or local agencies that manage the affected lands, but shall not be considered to be a unit of the National Park System or a part of the National Trail System.
+- **(d)** *Activities* To facilitate the administration of the Trail Route program and the dissemination of information regarding the Trail Route, the Secretary shall—
+  - **(1)** produce and disseminate appropriate educational materials regarding the Trail Route, such as handbooks, maps, exhibits, signs, interpretive guides, electronic information, and other interpretive materials;
+  - **(2)** coordinate the management and planning of the Trail Route with participating property owners, other Federal agencies, State, Tribal, and local governments, and nonprofit entities;
+  - **(3)** create and adopt an official, uniform symbol or device to mark the Trail Route;
+  - **(4)** issue guidelines for the use of the symbol or device adopted under paragraph (3); and
+  - **(5)** if deemed appropriate by the Secretary, authorize signage on lands managed by the General Services Administration or the National Park Service in the District of Columbia and its environs, without regard to the requirements of the Commemorative Works Act (40 U.S.C. 8901).
+- **(e)** *Cooperative agreements and memoranda of understanding* To ensure effective coordination of the Federal and non-Federal properties along the Trail Route, the Secretary may enter into agreements with, and provide technical and financial assistance to, other Federal agencies, the State, localities, regional governmental bodies, and private entities.
