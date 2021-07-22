@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 67
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 67
@@ -37,3 +37,5 @@ A resolution calling for the immediate release of Trevor Reed, a United States c
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
+- 2021-07-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5056; text: 02/22/2021 CR S773-774)
+- 2021-07-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5056; text: 02/22/2021 CR S773-774)
