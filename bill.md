@@ -15,7 +15,7 @@ This Act may be cited as the “Providing Urgent Maternal Protections for Nursin
 
 ## § 2. Breastfeeding accommodations in the workplace
 
-- **(a)** *Expanding employee access to break time and space* The Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) is amended—
+- **(a)** *Expanding employee access to break time and place* The Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) is amended—
   - **(1)** in section 7, by striking subsection (r);
   - **(2)** in section 15(a)—
     - **(A)** by striking the period at the end of paragraph (5) and inserting “; and”; and
@@ -27,15 +27,26 @@ This Act may be cited as the “Providing Urgent Maternal Protections for Nursin
     > ## § 18D. Breastfeeding accommodations in the workplace
     >
     > - **(a)** An employer shall provide—
-    >   - **(1)** a reasonable break time for an employee to express breast milk for such employee’s nursing child for 1 year after the child’s birth each time such employee has need to express the milk; and
+    >   - **(1)** a reasonable break time for an employee to express breast milk each time such employee has need to express breast milk for the 2-year period beginning on the date on which the circumstances related to such need arise; and
     >   - **(2)** a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
     > - **(b)**
     >   - **(1)** Subject to paragraph (2), an employer shall not be required to compensate an employee receiving break time under subsection (a)(1) for any time spent during the workday for such purpose unless otherwise required by Federal or State law or municipal ordinance.
     >   - **(2)** Break time provided under subsection (a)(1) shall be considered hours worked if the employee is not completely relieved from duty during the entirety of such break.
-    > - **(c)** An employer that employs less than 50 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
-    > - **(d)** Nothing in this section shall preempt a State law or municipal ordinance that provides greater protections to employees than the protections provided for under this section.
+    > - **(c)** An employer that employs fewer than 25 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
+    > - **(d)** No provision of this section or of any order thereunder shall excuse noncompliance with any Federal or State law or municipal ordinance that provides greater protections to employees than the protections provided for under this section.
+    > - **(e)**
+    >   - **(1)** Subject to paragraph (2), before an employee commences an action to recover liability under section 16(b) for a violation of paragraph (a)(2), the employee shall inform the employer of the failure to provide adequate place and provide the employer with 10 calendar days after such notice is provided to come into compliance with subsection (a)(2) with respect to such employee.
+    >   - **(2)** Paragraph (1) shall not apply in the case that—
+    >     - **(A)** the employee has been discharged because the employee has made a request for break time or place under this section or has opposed any employer conduct related to this section; or
+    >     - **(B)** the employer has indicated that the employer has no intention of complying with subsection (a)(2).
+    > - **(f)** The circumstances described in subsection (a)(1) arise if an employee—
+    >   - **(1)** begins providing breast milk for a nursing child; or
+    >   - **(2)** gives birth, including to—
+    >     - **(A)** a stillborn child; or
+    >     - **(B)** a child over whom the employee does not retain legal custody.
 
 - **(b)** *Clarifying remedies* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended by striking “15(a)(3)” each place the term appears and inserting “7(r) or 15(a)(3)”.
+- **(c)** *Guidance* Not later than 60 days after the date of enactment of this Act, the Secretary of Labor shall issue guidance with respect to employer compliance with section 18D of the Fair Labor Standards Act of 1938, as amended by this Act, which shall be similar, with respect to specific examples of compliance, to the guidance relating to “Supporting Nursing Moms at Work” published on the website of the Office on Women's Health of the Department of Health and Human Services as of such date of enactment.
 
 ## § 3. Effective date
 
