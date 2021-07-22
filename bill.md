@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4645
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4645
+
+> To clarify that individuals engaged in aircraft flight instruction or testing, including phased testing of experimental aircraft, are not operating an aircraft carrying persons or property for compensation or hire.
+
+## § 1. Short title
+
+This Act may be cited as the “Certainty for General Aviation Pilots Act of 2021”.
+
+## § 2. Flight instruction or testing
+
+- **(a)** *In general* A certificated flight instructor providing student instruction, flight instruction, or flight training shall not be deemed to be operating an aircraft carrying persons or property for compensation or hire.
+- **(b)** *Authorized additional pilots* An individual acting as an authorized additional pilot during Phase I flight testing of aircraft holding an experimental airworthiness certificate, in accordance with section 21.191 of title 14, Code of Federal Regulations, and meeting the requirements set forth by Federal Aviation Administration regulation and policy, shall not be deemed to be operating an aircraft carrying persons or property for compensation or hire.
+- **(c)** *Use of aircraft* An individual who uses, causes to use, or authorizes to use aircraft shall not be deemed to be operating the aircraft carrying persons or property for compensation or hire for flights conducted under subsection (a) or (b).
+- **(d)** *Revision of rules* Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall issue, revise, or repeal its rules, regulations, guidance, or procedures to conform to this section.
