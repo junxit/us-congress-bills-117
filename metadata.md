@@ -1,7 +1,7 @@
 ---
 measure: H.R. 438
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 438
@@ -30,3 +30,11 @@ To amend the Alyce Spotted Bear and Walter Soboleff Commission on Native Childre
 - 2021-01-21 — Introduced in House
 - 2021-01-21 — Introduced in House
 - 2021-01-21 — Referred to the House Committee on Natural Resources.
+- 2021-02-18 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2021-05-20 — Subcommittee Hearings Held.
+- 2021-05-26 — Committee Consideration and Mark-up Session Held.
+- 2021-05-26 — Ordered to be Reported by Unanimous Consent.
+- 2021-05-26 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2021-07-26 — Placed on the Union Calendar, Calendar No. 76.
+- 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-103.
+- 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-103.
