@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4300
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4300
@@ -16,7 +16,7 @@ Alexander Lofgren Veterans in Parks (VIP) Act
 
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
 
-## Cosponsors (134)
+## Cosponsors (151)
 
 - Rep. Gallego, Ruben [D-AZ-7] (G000574)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
@@ -152,6 +152,23 @@ Alexander Lofgren Veterans in Parks (VIP) Act
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 - Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Gosar, Paul A. [R-AZ-4] (G000565)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Franklin, C. Scott [R-FL-15] (F000472)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
 
 ## Committees (2)
 
@@ -164,3 +181,17 @@ Alexander Lofgren Veterans in Parks (VIP) Act
 - 2021-07-01 — Introduced in House
 - 2021-07-01 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-07-01 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-07-08 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-07-13 — Subcommittee Hearings Held.
+- 2021-07-14 — Committee Consideration and Mark-up Session Held.
+- 2021-07-14 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2021-07-14 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2021-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-26 — Committee on Agriculture discharged.
+- 2021-07-26 — Committee on Agriculture discharged.
+- 2021-07-26 — Considered under suspension of the rules. (consideration: CR H3864-3868)
+- 2021-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4300.
+- 2021-07-26 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2021-07-26 — Placed on the Union Calendar, Calendar No. 78.
+- 2021-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-105, Part I.
+- 2021-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-105, Part I.
