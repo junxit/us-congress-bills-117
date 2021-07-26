@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2485
 
-> To require the Director of the Government Publishing Office to establish and maintain an online portal accessible to the public that allows the public to obtain electronic copies of all congressionally mandated reports in one place, and for other purposes.
+> To require the Director of the Government Publishing Office to establish and maintain a single online portal accessible to the public that allows the public to obtain electronic copies of all congressionally mandated reports, and for other purposes.
 
 ## § 1. Short title
 
@@ -121,4 +121,4 @@ In this Act:
 
 ## § 8. Determination of budgetary effects
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

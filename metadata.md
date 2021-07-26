@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2485
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2485
@@ -16,7 +16,7 @@ Access to Congressionally Mandated Reports Act
 
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Cosponsors (17)
+## Cosponsors (22)
 
 - Rep. Comer, James [R-KY-1] (C001108)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
@@ -35,6 +35,11 @@ Access to Congressionally Mandated Reports Act
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
 
 ## Committees (3)
 
@@ -49,3 +54,12 @@ Access to Congressionally Mandated Reports Act
 - 2021-04-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-04-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-04-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-05-13 — Committee Consideration and Mark-up Session Held.
+- 2021-05-13 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2021-07-26 — Considered under suspension of the rules. (consideration: CR H3869-3872)
+- 2021-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2485.
+- 2021-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-26 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2021-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3869-3871)
+- 2021-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3869-3871)
+- 2021-07-26 — The title of the measure was amended. Agreed to without objection.
