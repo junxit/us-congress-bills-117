@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1029
@@ -16,7 +16,7 @@ Free Veterans from Fees Act
 
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
 
-## Cosponsors (16)
+## Cosponsors (22)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
@@ -34,6 +34,12 @@ Free Veterans from Fees Act
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Hagedorn, Jim [R-MN-1] (H001088)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (1)
 
@@ -44,3 +50,14 @@ Free Veterans from Fees Act
 - 2021-02-11 — Introduced in House
 - 2021-02-11 — Introduced in House
 - 2021-02-11 — Referred to the House Committee on Natural Resources.
+- 2021-03-15 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-05-05 — Committee Consideration and Mark-up Session Held.
+- 2021-05-05 — Ordered to be Reported by Unanimous Consent.
+- 2021-05-05 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2021-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-26 — Considered under suspension of the rules. (consideration: CR H3858-3860)
+- 2021-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1029.
+- 2021-07-26 — Mrs. Dingell moved to suspend the rules and pass the bill.
+- 2021-07-26 — Placed on the Union Calendar, Calendar No. 79.
+- 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-106.
+- 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-106.
