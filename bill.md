@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans in Parks (VIP) Act”.
+This Act may be cited as the “Alexander Lofgren Veterans in Parks (VIP) Act”
 
 ## § 2. Recreation passes
 
