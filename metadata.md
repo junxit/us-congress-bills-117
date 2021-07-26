@@ -1,7 +1,7 @@
 ---
 measure: S. 1917
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1917
@@ -16,9 +16,11 @@ K-12 Cybersecurity Act of 2021
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ K-12 Cybersecurity Act of 2021
 
 - 2021-05-27 — Introduced in Senate
 - 2021-05-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-07-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2021-07-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-32.
+- 2021-07-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-32.
+- 2021-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
