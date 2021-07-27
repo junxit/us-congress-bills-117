@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1664
@@ -36,9 +36,10 @@ To authorize the National Medal of Honor Museum Foundation to establish a commem
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To authorize the National Medal of Honor Museum Foundation to establish a commem
 - 2021-07-26 — Placed on the Union Calendar, Calendar No. 80.
 - 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-107.
 - 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-107.
+- 2021-07-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
