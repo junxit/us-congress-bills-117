@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 555
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 508, agreed to June 30, 2021), is amended by striking "July 30, 2021" each place it appears and inserting (in each instance) "September 22, 2021". | the bill names no machine-readable US Code section |
+| — | replace | House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 508, agreed to June 30, 2021), is amended by striking “July 30, 2021” each place it appears and inserting (in each instance) “September 22, 2021”. | the bill names no machine-readable US Code section |
