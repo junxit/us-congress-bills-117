@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2365
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2365
@@ -21,9 +21,10 @@ Gold Star Mothers Family Monument Extension Act
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Gold Star Mothers Family Monument Extension Act
 - 2021-07-26 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2021-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 221). (text: CR H3862)
 - 2021-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 221).(text: CR H3862)
+- 2021-07-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
