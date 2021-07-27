@@ -1,7 +1,7 @@
 ---
 measure: S. 503
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 503
@@ -29,3 +29,7 @@ PARENTS Act of 2021
 
 - 2021-03-01 — Introduced in Senate
 - 2021-03-01 — Read twice and referred to the Committee on Finance.
+- 2021-07-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S5110; text: CR S5110)
+- 2021-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5110; text: CR S5110)
+- 2021-07-27 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2021-07-27 — Senate Committee on Finance discharged by Unanimous Consent.
