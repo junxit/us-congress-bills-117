@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2485
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2485
@@ -41,11 +41,12 @@ Access to Congressionally Mandated Reports Act
 - Rep. Levin, Mike [D-CA-49] (L000593)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Accountability Committee
 - House — Budget Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Access to Congressionally Mandated Reports Act
 - 2021-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3869-3871)
 - 2021-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3869-3871)
 - 2021-07-26 — The title of the measure was amended. Agreed to without objection.
+- 2021-07-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
