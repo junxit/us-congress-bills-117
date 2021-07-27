@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1275
@@ -28,3 +28,7 @@ Family Violence Prevention and Services Improvement Act of 2021
 
 - 2021-04-21 — Introduced in Senate
 - 2021-04-21 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-07-21 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-07-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-07-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.
