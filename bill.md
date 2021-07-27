@@ -39,8 +39,11 @@ Congress finds the following:
 
 ## § 4. Duplicate medals
 
-Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+- **(a)** *In general* The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+- **(b)** *Proceeds of sales* The amounts received from the sale of duplicate medals under subsection (a) shall be deposited in the United States Mint Public Enterprise Fund.
+- **(c)** *Authority to use fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the costs of the medals struck under this Act.
 
 ## § 5. Status of medals
 
-Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+- **(a)** *National medal* The medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+- **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
