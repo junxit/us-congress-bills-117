@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 317
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 317
@@ -28,3 +28,7 @@ A resolution congratulating the Milwaukee Bucks, and the fans of the Milwaukee B
 
 - 2021-07-22 — Introduced in Senate
 - 2021-07-22 — Referred to the Committee on Commerce, Science, and Transportation. (text: CR S5055)
+- 2021-07-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5111; text: 07/22/2021 CR S5110)
+- 2021-07-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5111; text: 07/22/2021 CR S5110)
+- 2021-07-27 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2021-07-27 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
