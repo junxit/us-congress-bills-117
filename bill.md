@@ -2,14 +2,14 @@
 legis-num: H. RES. 555
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 555
 
 > Providing for consideration of the bill (H.R. 4502) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2022, and for other purposes; and for other purposes.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4502) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2022, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-12, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations or their respective designees; (2) the further amendments described in section 2 of this resolution; (3) the amendments en bloc described in section 3 of this resolution; and (4) one motion to recommit.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4502) making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2022, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–12, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations or their respective designees; (2) the further amendments described in section 2 of this resolution; (3) the amendments en bloc described in section 3 of this resolution; and (4) one motion to recommit.
 
 ## § 2.
 
@@ -25,7 +25,7 @@ All points of order against the further amendments printed in part B of the repo
 
 ## § 5.
 
-House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 508, agreed to June 30, 2021), is amended by striking "July 30, 2021" each place it appears and inserting (in each instance) "September 22, 2021".
+House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 508, agreed to June 30, 2021), is amended by striking “July 30, 2021” each place it appears and inserting (in each instance) “September 22, 2021”.
 
 ## § 6.
 
