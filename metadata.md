@@ -1,7 +1,7 @@
 ---
 measure: S. 452
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 452
@@ -105,3 +105,18 @@ Willie O'Ree Congressional Gold Medal Act
 - 2021-07-27 — Senate amendment agreed to: Amendment SA 2122 agreed to in Senate by Unanimous Consent.
 - 2021-07-27 — Senate amendment proposed (on the floor): Amendment SA 2122 proposed by Senator Whitehouse for Senator Stabenow.(consideration: CR S5110-5111; text: CR S5109)
 - 2021-07-27 — Senate amendment submitted
+- 2021-07-28 — Held at the desk.
+- 2021-07-28 — Message on Senate action sent to the House.
+- 2021-07-28 — Received in the House.
+- 2022-01-19 — Considered under suspension of the rules. (consideration: CR H235-238)
+- 2022-01-19 — DEBATE - The House proceeded with forty minutes of debate on S. 452.
+- 2022-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-01-19 — Ms. Dean moved to suspend the rules and pass the bill.
+- 2022-01-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 11). (text: CR H235)
+- 2022-01-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 11).(text: CR H235)
+- 2022-01-20 — Presented to President.
+- 2022-01-20 — Presented to President.
+- 2022-01-31 — Became Public Law No: 117-84.
+- 2022-01-31 — Became Public Law No: 117-84.
+- 2022-01-31 — Signed by President.
+- 2022-01-31 — Signed by President.
