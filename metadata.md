@@ -1,7 +1,7 @@
 ---
 measure: S. 566
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 566
@@ -34,3 +34,20 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
 - 2021-07-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5110; text: CR S5110)
 - 2021-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5110; text: CR S5110)
+- 2021-07-28 — Held at the desk.
+- 2021-07-28 — Message on Senate action sent to the House.
+- 2021-07-28 — Received in the House.
+- 2022-02-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-02-01 — Considered under suspension of the rules. (consideration: CR H317-318; text: CR H317)
+- 2022-02-01 — DEBATE - The House proceeded with forty minutes of debate on S. 566.
+- 2022-02-01 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill.
+- 2022-02-08 — Considered as unfinished business. (consideration: CR H1056)
+- 2022-02-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 432 - 0, 1 Present (Roll no. 37).
+- 2022-02-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 432 - 0, 1 Present (Roll no. 37).
+- 2022-02-14 — Presented to President.
+- 2022-02-14 — Presented to President.
+- 2022-02-22 — Became Public Law No: 117-87.
+- 2022-02-22 — Became Public Law No: 117-87.
+- 2022-02-22 — Signed by President.
+- 2022-02-22 — Signed by President.
