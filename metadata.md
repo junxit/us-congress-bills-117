@@ -1,7 +1,7 @@
 ---
 measure: S. 812
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 812
@@ -16,9 +16,11 @@ A bill to direct the Secretary of State to develop a strategy to regain observer
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ A bill to direct the Secretary of State to develop a strategy to regain observer
 
 - 2021-03-17 — Introduced in Senate
 - 2021-03-17 — Read twice and referred to the Committee on Foreign Relations.
+- 2021-07-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2021-07-28 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2021-07-28 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2021-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.
