@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4749
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4749
+
+> To prohibit Federal funds from being made available for certain solicitation of COVID–19 vaccines.
+
+## § 1. Short title
+
+This Act may be cited as the “Don’t Knock on My Door Act of 2021”.
+
+## § 2. No Federal funds for certain solicitation of COVID–19 vaccines
+
+- **(a)** *In general* No Federal funds may be authorized to be appropriated or otherwise made available to any Federal, State, or local governmental entity for door-to-door outreach, or for funding a third party to engage in door-to-door outreach, that solicits or coerces an individual to receive a COVID–19 vaccine.
+- **(b)** *Definition* In this section, the term “door-to-door outreach” means any in-person, uninvited outreach.
