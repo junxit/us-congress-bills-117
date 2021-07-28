@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -163,6 +163,6 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1151` | amend | by amending paragraph (1) of subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1151` | replace | in paragraph (2) of subsection (a), by striking “The Center” and inserting “The Office”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1151` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1802` | amend | “Section 1” of the Act entitled “An Act to fix the annual rates of pay for the Architect of the Capitol and the Assistant Architect of the Capitol” (2 U.S.C. 1802) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1802` | amend | Section 1 of the Act entitled “An Act to fix the annual rates of pay for the Architect of the Capitol and the Assistant Architect of the Capitol” (2 U.S.C. 1802) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1805` | redesignate | Section 1203(b) of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1805(b)), as redesignated by section 701(b) of Public Law 116–260 (134 Stat. 2154), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1902` | amend | Subsection (c) of the first section of the Act entitled “An Act to establish by law the position of Chief of the Capitol Police, and for other purposes” (2 U.S.C. 1902) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
