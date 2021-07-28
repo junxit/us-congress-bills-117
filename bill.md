@@ -39,3 +39,15 @@ That the Senate—
 - **(6)** urges democratic governments and legislatures in Europe, Latin America, and the Caribbean—
   - **(A)** to pledge their support for freedom and democracy in Cuba; and
   - **(B)** to speak out against the repression of demonstrators in Cuba.
+- **(1)** expresses its strong solidarity with the people of Cuba in their desire to live in a free and democratic country with uncensored access to information, justice, and economic prosperity;
+- **(2)** condemns the violence ordered by Miguel Díaz-Canel against peaceful protesters as violations of internationally recognized human rights that does nothing to address Cuba’s challenges;
+- **(3)** calls on Cuban forces—
+  - **(A)** to respect the Cuban people’s exercise of freedom of assembly, freedom of expression, and other universal human rights;
+  - **(B)** to refrain from restricting internet access and connectivity in the country; and
+  - **(C)** to permit Cuban citizens to freely communicate on digital platforms, as is their fundamental right;
+- **(4)** calls for the immediate and unconditional release of all arbitrarily detained Cuban citizens and all Cuban political prisoners;
+- **(5)** calls on members of the Cuban Revolutionary Armed Forces, the Cuban Ministry of the Interior, and Cuba’s National Revolutionary Police Force to refrain from violently repressing peaceful protesters and committing other human rights violations;
+- **(6)** urges foreign governments, including authoritarian regimes, to halt the provision of technology, equipment, and other forms of assistance that are increasing the capability of the Cuban Revolutionary Armed Forces, the Cuban Ministry of the Interior, and Cuba’s National Revolutionary Police Force to violently repress peaceful protestors, curtail freedom of expression through censorship of the internet, and commit other human rights abuses; and
+- **(7)** urges democratic governments and legislatures in Europe, Latin America, and the Caribbean—
+  - **(A)** to pledge their support for freedom and democracy in Cuba; and
+  - **(B)** to speak out against the repression of demonstrators in Cuba.
