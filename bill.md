@@ -1,0 +1,18 @@
+---
+legis-num: S. RES. 327
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 327
+
+> Amending the Standing Rules of the Senate to require inflationary impact statements in committee reports.
+
+That paragraph 11 of rule XXVI of the Standing Rules of the Senate is amended—
+
+- **(1)** by redesignating subparagraph (c) as subparagraph (d);
+- **(2)** by inserting after subparagraph (b) the following:
+  > - **(c)** Each committee report shall also contain a detailed analytical statement as to whether, and the extent to which, the increased budget authority, outlays, or revenue produced by the enactment of the bill or joint resolution into law may have an inflationary impact on prices and costs in the operation of the national economy. The statement shall also include whether, and the extent to which, the inflationary impact would affect the purchasing power of low and middle income families.
+
+- **(3)** in subparagraph (d), as so redesignated, by striking “subparagraphs (a) and (b)” and inserting “subparagraphs (a), (b), and (c)”.
