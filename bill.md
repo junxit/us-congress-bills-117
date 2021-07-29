@@ -1,0 +1,30 @@
+---
+legis-num: S. 2567
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2567
+
+> To enact the definition of “waters of the United States” into law, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Navigable Waters Protection Act of 2021”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** as of March 2021, the final rule of the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, and the Administrator of the Environmental Protection Agency entitled “The Navigable Waters Protection Rule: Definition of ‘Waters of the United States”’ (85 Fed. Reg. 22250 (April 21, 2020)) (referred to in this section as the Navigable Waters Protection Rule) is being implemented in all 50 States;
+- **(2)** the final rule issued by the Administrator of the Environmental Protection Agency and the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, entitled “Clean Water Rule: Definition of “Waters of the United States”” (80 Fed. Reg. 37054 (June 29, 2015))—
+  - **(A)** was subject to a vote under chapter 8 of title 5, United States Code (commonly known as the “Congressional Review Act”), in which members of both parties in the House of Representatives and the Senate voted in favor of disapproving the final rule under that chapter; and
+  - **(B)** was stayed across the United States for over 2 years due to legal deficiencies; and
+- **(3)** the Navigable Waters Protection Rule established a definition of “navigable waters” under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) that—
+  - **(A)** for the first time, provides clarity, predictability, and consistency while ensuring environmental protection; and
+  - **(B)** clearly delineates where Federal regulations apply and gives State and local authorities the flexibility to determine how to best manage water resources within their borders.
+
+## § 3. Waters of the United States
+
+The definitions of the term waters of the United States and the other terms defined in section 328.3 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act), are enacted into law.
