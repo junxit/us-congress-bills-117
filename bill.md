@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4300
 
-> To direct the Secretary of the Interior to make free National Parks and Federal Recreational Lands Passes available to members of the Armed Forces, and for other purposes.
+> To direct the Secretary of the Interior and the Secretary of Agriculture to make free National Parks and Federal Recreational Lands Passes available to members of the Armed Forces, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Alexander Lofgren Veterans in Parks (VIP) Act”
+This Act may be cited as the “Alexander Lofgren Veterans in Parks (VIP) Act”.
 
 ## § 2. Recreation passes
 
@@ -29,3 +29,7 @@ Section 805 of the Federal Lands Recreation Enhancement Act (Public Law 108–44
   - **(C)** in paragraph (3)—
     - **(i)** in the heading, by striking “Gold star families parks pass” and inserting “Annual passes”; and
     - **(ii)** by striking “members of” and all that follows through the end of the sentence and inserting “members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
