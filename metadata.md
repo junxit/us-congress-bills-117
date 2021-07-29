@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 231
@@ -39,3 +39,12 @@ PFAS Act
 - 2021-05-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-21.
 - 2021-05-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-21.
 - 2021-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
+- 2021-07-29 — Amendment SA 2125 agreed to in Senate by Unanimous Consent.
+- 2021-07-29 — Amendment SA 2125 proposed by Senator Heinrich for Senator Peters. (consideration: CR S5190; text: CR S5190) In the nature of a substitute.
+- 2021-07-29 — Measure laid before Senate by unanimous consent. (consideration: CR S5189-5190)
+- 2021-07-29 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5189-5190)
+- 2021-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S5189-5190)
+- 2021-07-29 — Senate amendment agreed to: Amendment SA 2125 agreed to in Senate by Unanimous Consent.
+- 2021-07-29 — Senate amendment proposed (on the floor): Amendment SA 2125 proposed by Senator Heinrich for Senator Peters.(consideration: CR S5190; text: CR S5190)
+- 2021-07-29 — Senate amendment submitted
+- 2021-07-29 — The committee substitute withdrawn by Unanimous Consent.
