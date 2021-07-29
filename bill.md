@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2497
 
-> To establish the Amache National Historic Site in the State of Colorado as a unit of the National Park System, and for other purposes.
+> To establish the Amache National Historic Site in the State of Colorado as a Unit of the National Park System, and for other purposes.
 
 ## § 1. Short title
 

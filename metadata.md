@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2497
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2497
@@ -30,6 +30,10 @@ Amache National Historic Site Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2021-07-29 — [House 117-1-253](votes/house-117-1-0253.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–2)
+
 ## Actions
 
 - 2021-04-14 — Introduced in House
@@ -43,3 +47,12 @@ Amache National Historic Site Act
 - 2021-07-22 — Placed on the Union Calendar, Calendar No. 73.
 - 2021-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-100.
 - 2021-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-100.
+- 2021-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-26 — Considered under suspension of the rules. (consideration: CR H3862-3864)
+- 2021-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2497.
+- 2021-07-26 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2021-07-29 — Considered as unfinished business. (consideration: CR H4271-4272)
+- 2021-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 253). (text: 07/26/2021 CR H3862-3863)
+- 2021-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 253).(text: 07/26/2021 CR H3862-3863)
+- 2021-07-29 — The title of the measure was amended. Agreed to without objection.
