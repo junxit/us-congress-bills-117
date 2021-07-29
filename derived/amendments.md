@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
