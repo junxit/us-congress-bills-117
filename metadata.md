@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2278
@@ -53,3 +53,15 @@ To designate the September 11th National Memorial Trail Route, and for other pur
 - 2021-07-22 — Placed on the Union Calendar, Calendar No. 74.
 - 2021-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-101.
 - 2021-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-101.
+- 2021-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-07-26 — Considered under suspension of the rules. (consideration: CR H3857-3858)
+- 2021-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2278.
+- 2021-07-26 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2021-07-29 — Considered as unfinished business. (consideration: CR H4270-4271)
+- 2021-07-29 — Motion to reconsider laid on the table Objection heard.
+- 2021-07-29 — Mr. Stanton moved to reconsider the vote.
+- 2021-07-29 — Ms. DeLauro moved to table the motion to reconsider.
+- 2021-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 251). (text: 07/26/2021 CR H3857)
+- 2021-07-29 — On motion to table the motion to reconsider Agreed to by the Yeas and Nays: 239 - 181 (Roll no. 252).
+- 2021-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 251).(text: 07/26/2021 CR H3857)
+- 2021-07-29 — The title of the measure was amended. Agreed to without objection.
