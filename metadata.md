@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3237
@@ -68,3 +68,9 @@ Emergency Security Supplemental Appropriations Act, 2021
 - 2021-07-29 — Senate amendment submitted
 - 2021-07-29 — Senate amendment submitted
 - 2021-07-29 — The House proceeded with 40 minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 3237.
+- 2021-07-30 — Became Public Law No: 117-31.
+- 2021-07-30 — Became Public Law No: 117-31.
+- 2021-07-30 — Presented to President.
+- 2021-07-30 — Presented to President.
+- 2021-07-30 — Signed by President.
+- 2021-07-30 — Signed by President.
