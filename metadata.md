@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4346
@@ -16,9 +16,10 @@ Chips and Science Act
 
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Chips and Science Act
 - 2021-07-28 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-07-28 — The previous question was ordered pursuant to the rule.
 - 2021-07-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2021-07-29 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
