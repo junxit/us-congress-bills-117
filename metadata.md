@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4373
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4373
@@ -75,3 +75,4 @@ Further Additional Continuing Appropriations and Extensions Act, 2023
 - 2021-07-28 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-07-28 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-07-28 — The previous question was ordered pursuant to the rule.
+- 2021-07-29 — Received in the Senate.
