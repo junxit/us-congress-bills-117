@@ -23,7 +23,7 @@ Congress finds that—
 - **(4)** the Department has received among the highest scorecard letter grades 10 years in a row and is the largest Federal agency to have such a track record;
 - **(5)** in virtually every segment of the economy of the United States, including the homeland security community, there are small businesses working to support the mission and playing a critical role in delivering efficient and innovative solutions to the acquisition needs of the Federal Government;
 - **(6)** the Procurement Innovation Lab of the Department—
-  - **(A)** is aimed at experimenting with innovative acquisition techniques across the Homeland Security enterpriseEnterprise;
+  - **(A)** is aimed at experimenting with innovative acquisition techniques across the Homeland Security Enterprise;
   - **(B)** provides a forum to test new ideas, share lessons learned, and promote best practices;
   - **(C)** fosters cultural changes that promote innovation and managed risk taking through a continuous cycle of testing, obtaining feedback, sharing information, and retesting where appropriate; and
   - **(D)** aims to make the acquisition process more smooth and innovative within the construct of the Federal Acquisition Regulation for both the Federal Government and contractors; and
@@ -39,7 +39,7 @@ In this Act:
   - **(B)** the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on Small Business of the House of Representatives.
 - **(3)** *Council* The term Council means the Chief Acquisition Officers Council established under section 1311 of title 41, United States Code.
 - **(4)** *Department* The term Department means the Department of Homeland Security.
-- **(5)** *Homeland Security enterpriseEnterprise* The term Homeland Security enterpriseEnterprise has the meaning given the term in section 2211(h) of the Homeland Security Act of 2002 (6 U.S.C. 661(h)).
+- **(5)** *Homeland Security Enterprise* The term Homeland Security Enterprise has the meaning given the term in section 2211(h) of the Homeland Security Act of 2002 (6 U.S.C. 661(h)).
 - **(6)** *Scorecard* The term scorecard means the scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 (15 U.S.C. 644 note).
 - **(7)** *Secretary* The term Secretary means the Secretary of Homeland Security.
 - **(8)** *Small business* The term small business means—
@@ -95,5 +95,5 @@ In this Act:
         - **(III)** events to build awareness and understanding of innovation activities;
         - **(IV)** award recognition programs and recent recipients; and
         - **(V)** upcoming plans to leverage innovative practices and technologies.
-- **(e)** *Experts* In carrying out the duties of the Council under this section, the Council is encourageencouraged to consult with governmental and nongovernmental experts.
+- **(e)** *Experts* In carrying out the duties of the Council under this section, the Council is encouraged to consult with governmental and nongovernmental experts.
 - **(f)** *Termination* The duties of the Council as set forth in this section shall terminate 30 days after the date on which the Council conducts the briefing required under subsection (d)(2).

@@ -1,7 +1,7 @@
 ---
 measure: S. 583
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 583
@@ -34,3 +34,5 @@ PRICE Act of 2021
 - 2021-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-26.
 - 2021-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-26.
 - 2021-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
+- 2021-07-29 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5190-5192; text: CR S5191-5192)
+- 2021-07-29 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5190-5192; text: CR S5191-5192)
