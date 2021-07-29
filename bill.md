@@ -7,12 +7,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2278
 
-> To authorize the Secretary of the Interior to designate the September 11th National Memorial Trail, and for other purposes.
+> To designate the September 11th National Memorial Trail Route, and for other purposes.
 
 ## § 1. September 11th National Memorial Trail Route
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Map* The term “Map” means the map entitled “September 11th National Memorial Trail Route Proposed Trail Route,” numbered ___, and dated July 2021.
+  - **(1)** *Map* The term “Map” means the map entitled “September 11th National Memorial Trail Route Proposed Trail Route,” numbered 669/176,670A, and dated July 2021.
   - **(2)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
   - **(3)** *Trail Route* The term Trail Route means the September 11th National Memorial Trail Route designated under subsection (b).
 - **(b)** *Establishment of trail route*
@@ -31,4 +31,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** create and adopt an official, uniform symbol or device to mark the Trail Route;
   - **(4)** issue guidelines for the use of the symbol or device adopted under paragraph (3); and
   - **(5)** if deemed appropriate by the Secretary, authorize signage on lands managed by the General Services Administration or the National Park Service in the District of Columbia and its environs, without regard to the requirements of the Commemorative Works Act (40 U.S.C. 8901).
-- **(e)** *Cooperative agreements and memoranda of understanding* To ensure effective coordination of the Federal and non-Federal properties along the Trail Route, the Secretary may enter into agreements with, and provide technical and financial assistance to, other Federal agencies, the State, localities, regional governmental bodies, and private entities.
+- **(e)** *Agreements* To ensure effective coordination of the Federal and non-Federal properties along the Trail Route, the Secretary may enter into agreements with, and provide technical and financial assistance to, other Federal agencies, the State, localities, regional governmental bodies, and private entities.
