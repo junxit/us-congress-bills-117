@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4850
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4850
+
+> To amend the definition of State to include outlying areas for purposes of the Job Corps program.
+
+## § 1. Short title
+
+This Act may be cited as the “Job Corps Nationwide Act”.
+
+## § 2. Job Corps definitions
+
+Section 142 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3192) is amended by adding at the end the following:
+
+> - **(11)** *State* The term “State” has the meaning given the term in section 3, except that such term also includes outlying areas (as defined in section 3).
