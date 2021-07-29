@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4300
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4300
@@ -175,6 +175,10 @@ Alexander Lofgren Veterans in Parks (VIP) Act
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2021-07-29 — [House 117-1-254](votes/house-117-1-0254.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–0)
+
 ## Actions
 
 - 2021-07-01 — Introduced in House
@@ -195,3 +199,8 @@ Alexander Lofgren Veterans in Parks (VIP) Act
 - 2021-07-26 — Placed on the Union Calendar, Calendar No. 78.
 - 2021-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-105, Part I.
 - 2021-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-105, Part I.
+- 2021-07-29 — Considered as unfinished business. (consideration: CR H4272-4273)
+- 2021-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 254). (text: 07/26/2021 CR H3864)
+- 2021-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 254).(text: 07/26/2021 CR H3864)
+- 2021-07-29 — The title of the measure was amended. Agreed to without objection.
