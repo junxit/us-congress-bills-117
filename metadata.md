@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2497
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2497
@@ -26,9 +26,10 @@ Amache National Historic Site Act
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Amache National Historic Site Act
 - 2021-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 253). (text: 07/26/2021 CR H3862-3863)
 - 2021-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 253).(text: 07/26/2021 CR H3862-3863)
 - 2021-07-29 — The title of the measure was amended. Agreed to without objection.
+- 2021-07-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
