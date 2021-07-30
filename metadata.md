@@ -1,7 +1,7 @@
 ---
 measure: S. 1046
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1046
@@ -35,3 +35,7 @@ Residential Substance Use Disorder Treatment Act of 2021
 
 - 2021-03-25 — Introduced in Senate
 - 2021-03-25 — Read twice and referred to the Committee on the Judiciary.
+- 2021-07-30 — Passed Senate without amendment by Unanimous Consent. (text: CR S5223-5224)
+- 2021-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5223-5224)
+- 2021-07-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5223-5224)
+- 2021-07-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5223-5224)
