@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4884
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4884
+
+> To restrict employers from requiring an employee or an applicant for employment with such employer to undertake a medical procedure, including a vaccine, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Employee Rights and Freedoms Act”.
+
+## § 2. Restriction on mandatory medical procedures
+
+- **(a)** *In general* It shall be an unlawful employment practice for an employer to require an employee, or an applicant for employment with such employer, to undertake a medical procedure, including a vaccine.
+- **(b)** *Exemption* An employee, or an applicant for employment, required to undertake a medical procedure, including a vaccine, shall be exempted from such procedure because of such employee’s firmly held belief.
+- **(c)** *Accommodations* An employer with an employee, or an applicant for employment, exempted under subsection (b) shall provide such employee or applicant with reasonable accommodations to enable such employee or applicant to continue to perform the essential functions of the employment position that such employee or applicant holds or desires.
+- **(d)** *Private right of action* An individual who is aggrieved by a violation of this section may bring a civil action in an appropriate Federal district court of competent jurisdiction.
