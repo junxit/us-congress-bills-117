@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 318
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 318
@@ -29,3 +29,7 @@ A resolution expressing support for the designation of July 2021 as "American Gr
 
 - 2021-07-26 — Introduced in Senate
 - 2021-07-26 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S5071-5072; Sponsor introductory remarks on measure: CR S5072)
+- 2021-07-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 07/26/2021 CR S5071-5072)
+- 2021-07-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 07/26/2021 CR S5071-5072)
+- 2021-07-30 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S5225)
+- 2021-07-30 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S5225)
