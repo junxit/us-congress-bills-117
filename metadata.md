@@ -1,7 +1,7 @@
 ---
 measure: S. 2045
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2045
@@ -31,3 +31,7 @@ A bill to designate the area between the intersections of 16th Street, Northwest
 
 - 2021-06-14 — Introduced in Senate
 - 2021-06-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-07-30 — Passed Senate without amendment by Unanimous Consent. (text: CR S5224-5225)
+- 2021-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5224-5225)
+- 2021-07-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5224-5225)
+- 2021-07-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5224-5225)
