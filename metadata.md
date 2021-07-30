@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2278
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2278
@@ -66,3 +66,12 @@ To designate the September 11th National Memorial Trail Route, and for other pur
 - 2021-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 251).(text: 07/26/2021 CR H3857)
 - 2021-07-29 — The title of the measure was amended. Agreed to without objection.
 - 2021-07-30 — Received in the Senate, read twice.
+- 2021-10-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6875)
+- 2021-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6875)
+- 2021-10-02 — Message on Senate action sent to the House.
+- 2021-10-05 — Presented to President.
+- 2021-10-05 — Presented to President.
+- 2021-10-13 — Became Public Law No: 117-48.
+- 2021-10-13 — Became Public Law No: 117-48.
+- 2021-10-13 — Signed by President.
+- 2021-10-13 — Signed by President.
