@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4502
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4502
@@ -134,3 +134,4 @@ Labor, Health and Human Services, Education, Agriculture, Rural Development, Ene
 - 2021-07-29 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4502.
 - 2021-07-29 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-07-29 — The previous question was ordered pursuant to the rule.
+- 2021-08-03 — Received in the Senate.
