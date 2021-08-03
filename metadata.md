@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 310
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 310
@@ -16,7 +16,7 @@ A resolution expressing solidarity with Cuban citizens demonstrating peacefully 
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (18)
+## Cosponsors (19)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -36,6 +36,7 @@ A resolution expressing solidarity with Cuban citizens demonstrating peacefully 
 - Sen. Lujan, Ben Ray [D-NM] (L000570)
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -49,3 +50,5 @@ A resolution expressing solidarity with Cuban citizens demonstrating peacefully 
 - 2021-07-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2021-07-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2021-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
+- 2021-08-03 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(consideration: CR S5699-5701; text: CR S5699-5700)
+- 2021-08-03 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S5699-5701; text: CR S5699-5700)

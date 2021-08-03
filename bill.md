@@ -26,19 +26,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas international human rights groups, including Human Rights Watch, Amnesty International, the United Nations Office of the High Commissioner for Human Rights, and the Inter-American Commission on Human Rights, have long condemned the Cuban regime for violating human rights and fundamental freedoms; and
 - Whereas for years the Cuban regime has exported its authoritarian methods to Venezuela, sending intelligence personnel to assist Venezuelan security forces as they repressed similar peaceful protests calling for democratic change: Now, therefore, be it
 
-That the Senate—
-
-- **(1)** expresses its strong solidarity with the people of Cuba in their desire to live in a free and democratic country with uncensored access to information, justice, and economic prosperity;
-- **(2)** condemns the violence ordered by Miguel Díaz-Canel against peaceful protesters as violations of internationally recognized human rights that does nothing to address Cuba’s challenges;
-- **(3)** calls on Cuban forces—
-  - **(A)** to respect the Cuban people’s exercise of freedom of assembly, freedom of expression, and other universal human rights;
-  - **(B)** to refrain from restricting internet access and connectivity in the country; and
-  - **(C)** to permit Cuban citizens to freely communicate on digital platforms, as is their fundamental right;
-- **(4)** calls for the immediate and unconditional release of all arbitrarily detained Cuban citizens and all Cuban political prisoners;
-- **(5)** calls on members of the Cuban Revolutionary Armed Forces, the Cuban Ministry of the Interior, and Cuba’s National Revolutionary Police Force to refrain from violently repressing peaceful protesters and committing other human rights violations; and
-- **(6)** urges democratic governments and legislatures in Europe, Latin America, and the Caribbean—
-  - **(A)** to pledge their support for freedom and democracy in Cuba; and
-  - **(B)** to speak out against the repression of demonstrators in Cuba.
 - **(1)** expresses its strong solidarity with the people of Cuba in their desire to live in a free and democratic country with uncensored access to information, justice, and economic prosperity;
 - **(2)** condemns the violence ordered by Miguel Díaz-Canel against peaceful protesters as violations of internationally recognized human rights that does nothing to address Cuba’s challenges;
 - **(3)** calls on Cuban forces—
