@@ -1,0 +1,18 @@
+---
+legis-num: S. 2628
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2628
+
+> To amend the Federal Food, Drug, and Cosmetic Act with respect to safe disposal packaging and safe disposal system requirements for certain drugs.
+
+## § 1. Short title
+
+This Act may be cited as the “Better Options for Drug Disposal Systems To Reduce Diversion Act of 2021” or the “Better ODDS To Reduce Diversion Act of 2021”.
+
+## § 2. Safety-enhancing packaging and disposal features
+
+Section 505–1(e)(4)(B) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(e)(4)(B)) is amended by striking “for purposes of rendering drugs nonretrievable (as defined in section 1300.05 of title 21, Code of Federal Regulations (or any successor regulation))”.
