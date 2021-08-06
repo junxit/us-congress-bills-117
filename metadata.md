@@ -1,7 +1,7 @@
 ---
 measure: S. 812
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 812
@@ -34,3 +34,5 @@ A bill to direct the Secretary of State to develop a strategy to regain observer
 - 2021-07-28 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2021-07-28 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2021-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.
+- 2021-08-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5989-5990; text: CR S5989-5990)
+- 2021-08-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5989-5990; text: CR S5989-5990)
