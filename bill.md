@@ -14,34 +14,28 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *Short title* This Act may be cited as the “Reinforcing Nicaragua's Adherence to Conditions for Electoral Reform Act of 2021” or the “RENACER Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Findings
-
-Congress makes the following findings:
-
-- **(1)** Adopted by the Organization of American States (in this Act referred to as the “OAS”) on October 21, 2020, the Resolution Restoring Democratic Institutions and Respect for Human Rights in Nicaragua Through Free and Fair Elections (in this section referred to as the “OAS Resolution”) reiterated hemispheric concern that the government of President Daniel Ortega in Nicaragua has failed to release all political prisoners and implement agreed-upon measures to ensure freedom of expression.
-- **(2)** The OAS Resolution called on the Ortega government to accept the deployment of domestic and international electoral observation missions and outlined a need for timely, inclusive negotiations to achieve meaningful electoral reforms, including the modernization of the Supreme Electoral Council, the revitalization of a pluralistic political process, and an independent audit of Nicaraguan voter rolls.
-- **(3)** A November 19, 2019, report from the OAS High Level Commission on Nicaragua noted the Ortega government had engaged in significant efforts since April 2018 to curtail the fundamental rights of the citizens of Nicaragua, including repeated acts of police intimidation and at least 325 murders, which were predominately committed by government security forces.
-- **(4)** On April 21, 2018, Nicaraguan journalist Ángel Gahona was killed while broadcasting live on social protests in the country. Since April 2018, the Ortega government has increased its harassment of independent media, which includes December 2019 police raids of the digital newspaper Confidencial and the 100% Noticias news channel, and a September 2020 court-ordered seizure of assets belonging to independent broadcaster Nicavision Canal 12.
-- **(5)** Since 2007, family members of President Daniel Ortega and their political allies have purchased over a dozen TV channels, radio stations, and online news sites in Nicaragua, including Canal 4, 8, and 13, Radio Nicaragua, and El 19 Digital, to increase pro-government media coverage and silence media coverage critical of the government.
-- **(6)** Sandinista National Liberation Front members of the National Assembly of Nicaragua, with support from the Ortega government, recently approved legislation to obstruct citizen mobilization and codify the persecution of political opponents, including—
-  - **(A)** the Foreign Agents Regulation Law on October 15, 2020, which requires civil society, nongovernmental organizations, and citizens who receive funds originating from abroad to register as “foreign agents”, and bars them from engaging in domestic political activity;
-  - **(B)** the Special Cybercrimes Law on October 27, 2020, which established prison sentences for individuals who spread information online that the Government of Nicaragua deems to be false or construes to cause alarm, terror, or unease in the public;
-  - **(C)** the Self-Determination Law on December 21, 2020, which provides President Ortega with the authority to unilaterally declare citizens “terrorists” or “traitors to the homeland” for opposing his rule and ban them from running for public office, effectively preventing any individuals who supported the 2018 protests from being candidates; and
-  - **(D)** the reform to the Consumer Protection Law on February 4, 2021, which provides the Government of Nicaragua the authority to mandate Nicaraguan commercial banks to overturn and ignore sanctions imposed by the United States with respect to persons on the list of specifically designated national and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury.
-- **(7)** According to preliminary reports of the Government of Nicaragua, Hurricanes Eta and Iota, which made landfall in Nicaragua on November 3 and November 16, 2020, respectively, affected more than 3,000,000 individuals and resulted in an economic loss in excess of $742,000,000. Indigenous Miskito and Mayangna communities situated in the North Caribbean Coast Autonomous Region bore the brunt of the devastation, with at least 23 indigenous territories and upwards of 147,000 indigenous inhabitants directly impacted by the weather phenomena.
-
-## § 3. Sense of Congress
+## § 2. Sense of Congress
 
 It is the sense of Congress that—
 
-- **(1)** ongoing efforts by the government of President Daniel Ortega in Nicaragua to suppress the voice and actions of civil society, political opponents, and independent news media violate the fundamental freedoms and basic human rights of the people of Nicaragua;
-- **(2)** Congress unequivocally condemns the passage of the Foreign Agents Regulation Law, the Special Cybercrimes Law, and the Self-Determination Law by the National Assembly of Nicaragua, which represent clear attempts by the Ortega government to curtail the fundamental freedoms and basic human rights of the people of Nicaragua;
-- **(3)** Congress recognizes that free, fair, and transparent elections predicated on robust reform measures and the presence of domestic and international observers represent the best opportunity for the people of Nicaragua to restore democracy and reach a peaceful solution to the political and social crisis in Nicaragua;
-- **(4)** the United States should align the use of diplomatic engagement and all other foreign policy tools, including the use of targeted sanctions, in support of efforts by democratic political actors and civil society in Nicaragua to advance the necessary conditions for free, fair, and transparent elections in Nicaragua;
-- **(5)** the United States, in order to maximize the effectiveness of efforts described in paragraph (4), should—
-  - **(A)** coordinate with diplomatic partners, including the Government of Canada, the European Union, and partners in Latin America and the Caribbean; and
-  - **(B)** advance diplomatic initiatives in consultation with the OAS and the United Nations; and
-- **(6)** pursuant to section 6(b) of the Nicaragua Investment Conditionality Act of 2018, the President should waive the application of restrictions under section 4 of that Act and the sanctions under section 5 of that Act if the Secretary of State certifies that the Government of Nicaragua is taking the steps identified in section 6(a) of that Act, including taking steps to “to hold free and fair elections overseen by credible domestic and international observers”.
+- **(1)** ongoing efforts by the government of President Daniel Ortega in Nicaragua to suppress the voice and actions of political opponents through intimidation and unlawful detainment, civil society, and independent news media violate the fundamental freedoms and basic human rights of the people of Nicaragua;
+- **(2)** Congress unequivocally condemns the politically motivated and unlawful detention of presidential candidates Cristiana Chamorro, Arturo Cruz, Felix Maradiaga, and Juan Sebastian Chamorro;
+- **(3)** Congress unequivocally condemns the passage of the Foreign Agents Regulation Law, the Special Cybercrimes Law, the Self-Determination Law, and the Consumer Protection Law by the National Assembly of Nicaragua, which represent clear attempts by the Ortega government to curtail the fundamental freedoms and basic human rights of the people of Nicaragua;
+- **(4)** Congress recognizes that free, fair, and transparent elections predicated on robust reform measures and the presence of domestic and international observers represent the best opportunity for the people of Nicaragua to restore democracy and reach a peaceful solution to the political and social crisis in Nicaragua;
+- **(5)** the United States recognizes the right of the people of Nicaragua to freely determine their own political future as vital to ensuring the sustainable restoration of democracy in their country;
+- **(6)** the United States should align the use of diplomatic engagement and all other foreign policy tools, including the use of targeted sanctions, in support of efforts by democratic political actors and civil society in Nicaragua to advance the necessary conditions for free, fair, and transparent elections in Nicaragua;
+- **(7)** the United States, in order to maximize the effectiveness of efforts described in paragraph (6), should—
+  - **(A)** coordinate with diplomatic partners, including the Government of Canada, the European Union, and partners in Latin America and the Caribbean;
+  - **(B)** advance diplomatic initiatives in consultation with the Organization of American States and the United Nations; and
+  - **(C)** thoroughly investigate the assets and holdings of the Nicaraguan Armed Forces in the United States and consider appropriate actions to hold such forces accountable for gross violations of human rights; and
+- **(8)** pursuant to section 6(b) of the Nicaragua Investment Conditionality Act of 2018, the President should waive the application of restrictions under section 4 of that Act and the sanctions under section 5 of that Act if the Secretary of State certifies that the Government of Nicaragua is taking the steps identified in section 6(a) of that Act, including taking steps to “to hold free and fair elections overseen by credible domestic and international observers”.
+
+## § 3. Review of participation of Nicaragua in Dominican Republic-Central America-United States Free Trade Agreement
+
+- **(a)** *Findings* Congress makes the following findings:
+  - **(1)** On November 27, 2018, the President signed Executive Order 13851 (50 U.S.C. 1701 note; relating to blocking property of certain persons contributing to the situation in Nicaragua), which stated that “the situation in Nicaragua, including the violent response by the Government of Nicaragua to the protests that began on April 18, 2018, and the Ortega regime's systematic dismantling and undermining of democratic institutions and the rule of law, its use of indiscriminate violence and repressive tactics against civilians, as well as its corruption leading to the destabilization of Nicaragua's economy, constitutes an unusual and extraordinary threat to the national security and foreign policy of the United States”.
+  - **(2)** Article 21.2 of the Dominican Republic-Central America-United States Free Trade Agreement approved by Congress under section 101(a)(1) of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (19 U.S.C. 4011(a)(1)) states, “Nothing in this Agreement shall be construed . . . to preclude a Party from applying measures that it considers necessary for the fulfillment of its obligations with respect to the maintenance or restoration of international peace or security, or the protection of its own essential security interests.”.
+- **(b)** *Sense of Congress* It is the sense of Congress that the President should review the continued participation of Nicaragua in the Dominican Republic-Central America-United States Free Trade Agreement if the Government of Nicaragua continues to tighten its authoritarian rule in an attempt to subvert democratic elections in November 2021 and undermine democracy and human rights in Nicaragua.
 
 ## § 4. Restrictions on international financial institutions relating to Nicaragua
 
@@ -54,31 +48,37 @@ Section 4 of the Nicaragua Investment Conditionality Act of 2018 is amended—
 - **(3)** in subsection (c), as so redesignated, by striking “subsection (a)” and inserting “subsection (b)”; and
 - **(4)** by striking subsection (d), as so redesignated, and inserting the following:
   > - **(d)** *Increased oversight*
-  >   - **(1)** *In general* The United States Executive Director at each international financial institution of the World Bank Group, the United States Executive Director at the Inter-American Development Bank, and the United States Executive Director at each other international financial institution, including the International Monetary Fund, shall take all practicable steps to increase scrutiny of any loan or financial or technical assistance provided for a project in Nicaragua to ensure that the loan or assistance is being used for the intended purposes.
-  >   - **(2)** *Mechanisms for increased scrutiny* The United States Executive Director at each international financial institution described in paragraph (1) shall use the voice, vote, and influence of the United States to encourage that institution to develop oversight mechanisms for new and existing loans or financial or technical assistance provided for a project in Nicaragua to ensure that such loans and assistance are being used for the intended purposes.
+  >   - **(1)** *In general* The United States Executive Director at each international financial institution of the World Bank Group, the United States Executive Director at the Inter-American Development Bank, and the United States Executive Director at each other international financial institution, including the International Monetary Fund, shall take all practicable steps—
+  >     - **(A)** to increase scrutiny of any loan or financial or technical assistance provided for a project in Nicaragua; and
+  >     - **(B)** to ensure that the loan or assistance is administered through an entity with full technical, administrative, and financial independence from the Government of Nicaragua.
+  >   - **(2)** *Mechanisms for increased scrutiny* The United States Executive Director at each international financial institution described in paragraph (1) shall use the voice, vote, and influence of the United States to encourage that institution to increase oversight mechanisms for new and existing loans or financial or technical assistance provided for a project in Nicaragua.
   > - **(e)** *Interagency consultation* Before implementing the restrictions described in subsection (b), or before exercising an exception under subsection (c), the Secretary of the Treasury shall consult with the Secretary of State and with the Administrator of the United States Agency for International Development to ensure that all loans and financial or technical assistance to Nicaragua are consistent with United States foreign policy objectives as defined in section 3.
   > - **(f)** *Report* Not later than 180 days after the date of the enactment of the RENACER Act, and annually thereafter until the termination date specified in section 10, the Secretary of the Treasury, in coordination with the Secretary of State and the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a report on the implementation of this section, which shall include—
   >   - **(1)** summary of any loans and financial and technical assistance provided by international financial institutions for projects in Nicaragua;
   >   - **(2)** a description of the implementation of the restrictions described in subsection (b);
-  >   - **(3)** an identification of the occasions in which the exceptions under subsection (c) are exercised and an assessment of how the loan or assistance provided with each such exception may address basic human needs or promote democracy in Nicaragua; and
-  >   - **(4)** a description of the results of the increased oversight conducted under subsection (d).
+  >   - **(3)** an identification of the occasions in which the exceptions under subsection (c) are exercised and an assessment of how the loan or assistance provided with each such exception may address basic human needs or promote democracy in Nicaragua;
+  >   - **(4)** a description of the results of the increased oversight conducted under subsection (d); and
+  >   - **(5)** a description of international efforts to address the humanitarian needs of the people of Nicaragua.
 
 ## § 5. Targeted sanctions to advance democratic elections
 
 - **(a)** *Coordinated strategy*
   - **(1)** *In general* The Secretary of State and the Secretary of the Treasury, in consultation with the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), shall develop and implement a coordinated strategy to align diplomatic engagement efforts with the implementation of targeted sanctions in order to support efforts to facilitate the necessary conditions for free, fair, and transparent elections in Nicaragua.
-  - **(2)** *Briefing required* Not later than 60 days after the date of the enactment of this Act, and every 60 days thereafter until December 31, 2021, the Secretary of State and the Secretary of the Treasury shall brief the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on steps to be taken by the United States Government to develop and implement the coordinated strategy required by paragraph (1).
+  - **(2)** *Briefing required* Not later than 90 days after the date of the enactment of this Act, and every 90 days thereafter until December 31, 2022, the Secretary of State and the Secretary of the Treasury shall brief the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on steps to be taken by the United States Government to develop and implement the coordinated strategy required by paragraph (1).
 - **(b)** *Targeted sanctions prioritization*
-  - **(1)** *In general* Pursuant to the coordinated strategy required by subsection (a), the President shall prioritize the implementation of the targeted sanctions required under section 5 of the Nicaragua Investment Conditionality Act of 2018 with respect to foreign persons directly or indirectly obstructing the establishment of conditions necessary for the realization of free, fair, and transparent elections in Nicaragua.
-  - **(2)** *Targets* In carrying out paragraph (1), the President shall specifically target foreign persons involved in directly or indirectly obstructing the establishment of conditions described in that paragraph, including—
-    - **(A)** officials in the government of President Daniel Ortega;
-    - **(B)** family members of President Daniel Ortega;
-    - **(C)** members of the National Nicaraguan Police;
-    - **(D)** members of the Nicaraguan Armed Forces;
-    - **(E)** members of the Supreme Electoral Council of Nicaragua;
-    - **(F)** party members and elected officials from the Sandinista National Liberation Front and their family members;
-    - **(G)** individuals or entities affiliated with businesses engaged in corrupt financial transactions with officials in the government of President Daniel Ortega, his party, or his family; and
-    - **(H)** individuals identified in the report required by section 8 as involved in significant acts of public corruption in Nicaragua.
+  - **(1)** *In general* Pursuant to the coordinated strategy required by subsection (a), the President shall prioritize the implementation of the targeted sanctions required under section 5 of the Nicaragua Investment Conditionality Act of 2018.
+  - **(2)** *Targets* In carrying out paragraph (1), the President—
+    - **(A)** shall examine whether foreign persons involved in directly or indirectly obstructing the establishment of conditions necessary for the realization of free, fair, and transparent elections in Nicaragua are subject to sanctions under section 5 of the Nicaragua Investment Conditionality Act of 2018; and
+    - **(B)** should, in particular, examine whether the following persons have engaged in conduct subject to such sanctions:
+      - **(i)** Officials in the government of President Daniel Ortega.
+      - **(ii)** Family members of President Daniel Ortega.
+      - **(iii)** High-ranking members of the National Nicaraguan Police.
+      - **(iv)** High-ranking members of the Nicaraguan Armed Forces.
+      - **(v)** Members of the Supreme Electoral Council of Nicaragua.
+      - **(vi)** Officials of the Central Bank of Nicaragua.
+      - **(vii)** Party members and elected officials from the Sandinista National Liberation Front and their family members.
+      - **(viii)** Individuals or entities affiliated with businesses engaged in corrupt financial transactions with officials in the government of President Daniel Ortega, his party, or his family.
+      - **(ix)** Individuals identified in the report required by section 8 as involved in significant acts of public corruption in Nicaragua.
 
 ## § 6. Developing and implementing a coordinated sanctions strategy with diplomatic partners
 
@@ -88,7 +88,7 @@ Section 4 of the Nicaragua Investment Conditionality Act of 2018 is amended—
   - **(3)** On October 12, 2020, the European Union extended its authority to impose restrictive measures on “persons and entities responsible for serious human rights violations or abuses or for the repression of civil society and democratic opposition in Nicaragua, as well as persons and entities whose actions, policies or activities otherwise undermine democracy and the rule of law in Nicaragua, and persons associated with them”.
 - **(b)** *Sense of Congress* It is the sense of Congress that the United States should encourage the Government of Canada, the European Union and governments of members countries of the European Union, and governments of countries in Latin America and the Caribbean to use targeted sanctions with respect to persons involved in human rights violations and the obstruction of free, fair, and transparent elections in Nicaragua.
 - **(c)** *Coordinating international sanctions* The Secretary of State, working through the head of the Office of Sanctions Coordination established by section 1(h) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(h)), and in consultation with the Secretary of the Treasury, shall engage in diplomatic efforts with governments of countries that are partners of the United States, including the Government of Canada, governments of countries in the European Union, and governments of countries in Latin America and the Caribbean, to impose targeted sanctions with respect to the persons described in section 5(b) in order to advance democratic elections in Nicaragua.
-- **(d)** *Briefing requirement* Not later than 60 days after the date of the enactment of this Act, and every 60 days thereafter until December 31, 2021, the Secretary of State, in consultation with the Secretary of the Treasury, shall brief the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the implementation of this section.
+- **(d)** *Briefing requirement* Not later than 90 days after the date of the enactment of this Act, and every 90 days thereafter until December 31, 2022, the Secretary of State, in consultation with the Secretary of the Treasury, shall brief the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the implementation of this section.
 
 ## § 7. Inclusion of Nicaragua in list of countries subject to certain sanctions relating to corruption
 
@@ -99,7 +99,7 @@ Section 353 of title III of division FF of the Consolidated Appropriations Act, 
 
 ## § 8. Classified report on the involvement of Ortega family members and Nicaraguan government officials in corruption
 
-- **(a)** *Report required* Not later than 60 days after the date of the enactment of this Act, the Secretary of State, acting through the Bureau of Intelligence and Research of the Department of State, and in coordination with the Director of National Intelligence, shall submit a classified report to the appropriate congressional committees on significant acts of public corruption in Nicaragua that—
+- **(a)** *Report required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, acting through the Bureau of Intelligence and Research of the Department of State, and in coordination with the Director of National Intelligence, shall submit a classified report to the appropriate congressional committees on significant acts of public corruption in Nicaragua that—
   - **(1)** involve—
     - **(A)** the President of Nicaragua, Daniel Ortega;
     - **(B)** members of the family of Daniel Ortega; and
@@ -108,51 +108,67 @@ Section 353 of title III of division FF of the Consolidated Appropriations Act, 
       - **(ii)** elected officials from the Sandinista National Liberation Front party;
   - **(2)** pose challenges for United States national security and regional stability;
   - **(3)** impede the realization of free, fair, and transparent elections in Nicaragua; and
-  - **(4)** infringe upon the fundamental freedoms of civil society and political opponents in Nicaragua.
+  - **(4)** violate the fundamental freedoms of civil society and political opponents in Nicaragua.
 - **(b)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 ## § 9. Classified report on the activities of the Russian Federation in Nicaragua
 
-The Secretary of State shall include in the classified report required by section 8 a separate section on activities of the Government of the Russian Federation in Nicaragua, including—
+- **(a)** *Report required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, acting through the Bureau of Intelligence and Research of the Department of State, and in coordination with the Director of National Intelligence, shall submit a classified report to the appropriate congressional committees on activities of the Government of the Russian Federation in Nicaragua, including—
+  - **(1)** cooperation between Russian and Nicaraguan military personnel, intelligence services, security forces, and law enforcement, and private Russian security contractors;
+  - **(2)** cooperation related to telecommunications and satellite navigation;
+  - **(3)** other political and economic cooperation, including with respect to banking, disinformation, and election interference; and
+  - **(4)** the threats and risks that such activities pose to United States national interests and national security.
+- **(b)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
+  - **(1)** the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate; and
+  - **(2)** the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-- **(1)** cooperation between Russian and Nicaraguan military personnel, intelligence services, security forces, and private Russian security contractors;
-- **(2)** cooperation related to telecommunications and satellite navigation;
-- **(3)** other political and economic cooperation; and
-- **(4)** the threats and risks that such activities pose to United States national interests and national security.
+## § 10. Imposition of sanctions under section 231 of Countering America’s Adversaries Through Sanctions Act with respect to Government of Nicaragua
 
-## § 10. Report on human rights abuses in the interior of Nicaragua
+- **(a)** *Report required*
+  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, acting through the Bureau of Intelligence and Research of the Department of State, and in coordination with the Director of National Intelligence and the Director of the Defense Intelligence Agency, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that includes—
+    - **(A)** a list of—
+      - **(i)** all equipment, technology, or infrastructure with respect to the military or intelligence sector of Nicaragua purchased, on or after January 1, 2011, by the Government of Nicaragua from an entity identified by the Department of State under section 231(e) of the Countering America’s Adversaries Through Sanctions Act (22 U.S.C. 9525(e)); and
+      - **(ii)** all agreements with respect to the military or intelligence sector of Nicaragua entered into, on or after January 1, 2011, by the Government of Nicaragua with an entity described in clause (i); and
+    - **(B)** a description of and date for each purchase and agreement described in subparagraph (A).
+  - **(2)** *Consideration* The report required by paragraph (1) shall be prepared after consideration of the content of the report of the Defense Intelligence Agency entitled, “Russia: Defense Cooperation with Cuba, Nicaragua, and Venezuela” and dated February 4, 2019.
+  - **(3)** *Form of report* The report required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+- **(b)** *Review required* Not later than 30 days after submitting the report required by subsection (a), the Secretary of State, in coordination with the Director of National Intelligence and the Director of the Defense Intelligence Agency, shall—
+  - **(1)** review whether any of the purchases or agreements included in the list required by subsection (a)(1)(A) that occurred after August 2, 2017, qualify as significant transactions described in section 231(a) of the Countering America’s Adversaries Through Sanctions Act (22 U.S.C. 9525(a)); and
+  - **(2)** submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the results of the review conducted under paragraph (1).
+- **(c)** *Imposition of sanctions* Pursuant to the review conducted under subsection (b) and section 231 of the Countering America’s Adversaries Through Sanctions Act (22 U.S.C. 9525), the President shall impose 5 or more of the sanctions described in section 235 of that Act (22 U.S.C. 9529) with respect to each significant transaction identified pursuant to the review.
+
+## § 11. Report on human rights abuses in Nicaragua
 
 - **(a)** *Findings* Congress finds that, since the June 2018 initiation of “Operation Clean-up”, an effort of the government of Daniel Ortega to dismantle barricades constructed throughout Nicaragua during social demonstrations in April 2018, the Ortega government has increased its abuse of campesinos and members of indigenous communities, including arbitrary detentions, torture, and sexual violence as a form of intimidation.
-- **(b)** *Report required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report that documents the perpetration of gross human rights violations by the Ortega government against campesinos and indigenous communities in the interior of Nicaragua.
+- **(b)** *Report required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report that documents the perpetration of gross human rights violations by the Ortega government against the citizens of Nicaragua, including campesinos and indigenous communities in the interior of Nicaragua.
 - **(c)** *Elements* The report required by subsection (b) shall—
-  - **(1)** include a compilation of human rights violations committed by the Ortega government against inhabitants of the interior of Nicaragua, with a focus on such violations committed since April 2018, including human rights abuses and extrajudicial killings in—
+  - **(1)** include a compilation of human rights violations committed by the Ortega government against the citizens of Nicaragua, with a focus on such violations committed since April 2018, including human rights abuses and extrajudicial killings in—
     - **(A)** the cities of Managua, Carazo, and Masaya between April and June of 2018; and
     - **(B)** the municipalities of Wiwili, El Cuá, San Jose de Bocay, and Santa Maria de Pantasma in the Department of Jinotega, Esquipulas in the Department of Rivas, and Bilwi in the North Caribbean Coast Autonomous Region between 2018 and 2021;
-  - **(2)** outline efforts by the Ortega government to intimidate and disrupt the activities of CENIDH and other civil society organizations attempting to hold the government accountable for infringing on the fundamental rights and freedoms of the people of Nicaragua; and
-  - **(3)** provide recommendations on how the United States, in collaboration with international partners and Nicaraguan civil society, should leverage its diplomatic capabilities, including sanctions, to curtail the gross human rights violations perpetrated by the Ortega government and better support the victims of human rights violations in the interior of Nicaragua.
+  - **(2)** outline efforts by the Ortega government to intimidate and disrupt the activities of civil society organizations attempting to hold the government accountable for infringing on the fundamental rights and freedoms of the people of Nicaragua; and
+  - **(3)** provide recommendations on how the United States, in collaboration with international partners and Nicaraguan civil society, should leverage bilateral and regional relationships to curtail the gross human rights violations perpetrated by the Ortega government and better support the victims of human rights violations in Nicaragua.
 - **(d)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Relations of the Senate; and
   - **(2)** the Committee on Foreign Affairs of the House of Representatives.
 
-## § 11. Supporting independent news media and freedom of information in Nicaragua
+## § 12. Supporting independent news media and freedom of information in Nicaragua
 
 - **(a)** *Report required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, the Administrator for the United States Agency for International Development, and the Chief Executive Officer of the United States Agency for Global Media, shall submit to Congress a report that includes—
-  - **(1)** an evaluation of the governmental, political, and technological obstacles faced by the people of Nicaragua in their efforts to obtain accurate, objective, and comprehensive news and information about domestic and international affairs;
-  - **(2)** a list of all TV channels, radio stations, online news sites, and other media platforms operating in Nicaragua that are directly or indirectly owned or beneficially controlled by President Daniel Ortega, members of the Ortega family, or known allies of the Ortega government; and
-  - **(3)** a list of any independent press organization or any person affiliated with the independent news media that has experienced intimidation, harassment, physical assault, theft of property, or fatal injury by agents of the Government of Nicaragua or pro-government supporters in direct relation to their journalistic activities since April 2018.
+  - **(1)** an evaluation of the governmental, political, and technological obstacles faced by the people of Nicaragua in their efforts to obtain accurate, objective, and comprehensive news and information about domestic and international affairs; and
+  - **(2)** a list of all TV channels, radio stations, online news sites, and other media platforms operating in Nicaragua that are directly or indirectly owned or controlled by President Daniel Ortega, members of the Ortega family, or known allies of the Ortega government.
 - **(b)** *Elements* The report required by subsection (a) shall include—
   - **(1)** an assessment of the extent to which the current level and type of news and related programming and content provided by the Voice of America and other sources is addressing the informational needs of the people of Nicaragua;
   - **(2)** a description of existing United States efforts to strengthen freedom of the press and freedom of expression in Nicaragua, including recommendations to expand upon those efforts; and
   - **(3)** a strategy for strengthening independent broadcasting, information distribution, and media platforms in Nicaragua.
 
-## § 12. Amendment to short title of Public Law 115–335
+## § 13. Amendment to short title of Public Law 115–335
 
 Section 1(a) of the Nicaragua Human Rights and Anticorruption Act of 2018 (Public Law 115–335; 50 U.S.C. 1701 note) is amended to read as follows:
 
 > - **(a)** *Short title* This Act may be cited as the “Nicaragua Investment Conditionality Act of 2018” or the “NICA Act”.
 
-## § 13. Definition
+## § 14. Definition
 
-In this Act, the term Nicaragua Investment Conditionality Act of 2018 means the Public Law 115–335 (50 U.S.C. 1701 note), as amended by section 12.
+In this Act, the term Nicaragua Investment Conditionality Act of 2018 means the Public Law 115–335 (50 U.S.C. 1701 note), as amended by section 13.
