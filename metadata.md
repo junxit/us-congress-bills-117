@@ -1,7 +1,7 @@
 ---
 measure: S. 658
 congress: 117
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 658
@@ -21,9 +21,10 @@ National Cybersecurity Preparedness Consortium Act of 2021
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ National Cybersecurity Preparedness Consortium Act of 2021
 - 2021-07-15 — Message on Senate action sent to the House.
 - 2021-07-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4932; text: CR S4932)
 - 2021-07-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4932; text: CR S4932)
+- 2021-07-16 — Held at the desk.
+- 2021-07-16 — Received in the House.
+- 2021-08-06 — Referred to the House Committee on Homeland Security.
