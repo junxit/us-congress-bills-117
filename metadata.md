@@ -1,7 +1,7 @@
 ---
 measure: S. 1041
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1041
@@ -37,3 +37,5 @@ RENACER Act
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2021-06-24 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2021-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.
+- 2021-08-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5987-5989; text: CR S5987-5989)
+- 2021-08-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5987-5989; text: CR S5987-5989)
