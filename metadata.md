@@ -1,7 +1,7 @@
 ---
 measure: S. 1031
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1031
@@ -39,3 +39,18 @@ A bill to require the Comptroller General of the United States to conduct a stud
 - 2021-08-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5990)
 - 2021-08-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5990)
 - 2021-08-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5990)
+- 2021-08-09 — Message on Senate action sent to the House.
+- 2021-08-10 — Held at the desk.
+- 2021-08-10 — Received in the House.
+- 2021-11-15 — Considered under suspension of the rules. (consideration: CR H6251-6252)
+- 2021-11-15 — DEBATE - The House proceeded with forty minutes of debate on S. 1031.
+- 2021-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-15 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2021-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2021-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2021-11-19 — Presented to President.
+- 2021-11-19 — Presented to President.
+- 2021-11-30 — Became Public Law No: 117-66.
+- 2021-11-30 — Became Public Law No: 117-66.
+- 2021-11-30 — Signed by President.
+- 2021-11-30 — Signed by President.
