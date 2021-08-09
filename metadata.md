@@ -1,7 +1,7 @@
 ---
 measure: S. 1917
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1917
@@ -34,3 +34,5 @@ K-12 Cybersecurity Act of 2021
 - 2021-07-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-32.
 - 2021-07-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-32.
 - 2021-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
+- 2021-08-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6189-6190; text: CR S6189-6190)
+- 2021-08-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6189-6190; text: CR S6189-6190)
