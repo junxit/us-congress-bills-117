@@ -1,0 +1,816 @@
+---
+measure: S.Con.Res. 14
+congress: 117
+version: Placed on Calendar Senate
+---
+
+# S.Con.Res. 14
+
+A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2022 and setting forth the appropriate budgetary levels for fiscal years 2023 through 2031.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Sanders, Bernard [I-VT] (S000033)
+
+## Cosponsors (10)
+
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+
+## Committees (1)
+
+- Senate — Budget Committee
+
+## Actions
+
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — 
+- 2021-08-09 — Introduced in Senate
+- 2021-08-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.
+- 2021-08-09 — Referred to the Committee on the Budget. (text: CR S6117-6125)
+- 2021-08-09 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2021-08-09 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
+- 2021-08-09 — Senate amendment submitted
