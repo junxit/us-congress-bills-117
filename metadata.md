@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 202
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 202
@@ -16,7 +16,7 @@ A resolution designating May 7, 2021, as "United States Foreign Service Day" in 
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -27,6 +27,8 @@ A resolution designating May 7, 2021, as "United States Foreign Service Day" in 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -36,3 +38,7 @@ A resolution designating May 7, 2021, as "United States Foreign Service Day" in 
 
 - 2021-04-29 — Introduced in Senate
 - 2021-04-29 — Referred to the Committee on the Judiciary. (text: CR S2370)
+- 2021-08-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/29/2021 CR S2370)
+- 2021-08-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/29/2021 CR S2370)
+- 2021-08-09 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6104)
+- 2021-08-09 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6104)
