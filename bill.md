@@ -34,11 +34,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Federal Government relied on data from the Radium Girls’ cases to develop safety standards for radium and other radioactive materials for factory workers, medical personnel, and scientists, including the workers and scientists of the Manhattan Project;
 - Whereas some of the Radium Girls and their families received either no compensation or only meager compensation related to their harmful exposure to radium and their contributions to science;
 - Whereas the Radium Girls’ highly publicized case was among the first in which the courts held an employer responsible for the safety and health of its workers;
-- Whereas the Radium Girls’ struggle for justice was a turning point in the movement to protect workers’ safety and ultimately spurred Congress to enact critical occupational health reforms; and
+- Whereas the Radium Girls’ struggle was a turning point in the movement to promote workers’ safety and occupational health reforms; and
 - Whereas many workers in the United States today are still fighting for a safe and equitable workplace: Now, therefore, be it
 
 That the Senate—
 
 - **(1)** honors the Radium Girls and their determination to seek justice in the face of overwhelming obstacles;
-- **(2)** recognizes the invaluable contributions of the Radium Girls to developing modern workplace safety laws and standards; and
-- **(3)** reaffirms the commitment of the Federal Government to protecting the health and safety of all workers in the United States.
+- **(2)** recognizes the invaluable contributions of the Radium Girls to developing modern workplace safety standards; and
+- **(3)** reaffirms the importance of protecting the health and safety of all workers in the United States.
