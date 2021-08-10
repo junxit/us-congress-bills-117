@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3684
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3684
@@ -594,9 +594,10 @@ Infrastructure Investment and Jobs Act
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -1946,3 +1947,27 @@ Infrastructure Investment and Jobs Act
 - 2021-08-10 — Considered by Senate. (consideration: CR S6193-6194, S6199-6203)
 - 2021-08-10 — Passed Senate with an amendment by Yea-Nay Vote. 69 - 30. Record Vote Number: 314.
 - 2021-08-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 69 - 30. Record Vote Number: 314.
+- 2021-08-16 — Message on Senate action sent to the House.
+- 2021-09-27 — DEBATE - The House proceeded with one hour of debate on the motion to agree to Senate amendment to H.R. 3684.
+- 2021-09-27 — Mr. DeFazio moved that the House agree to the Senate amendment. (CR H5446)
+- 2021-09-27 — Pursuant to the provisions of H. Res. 601, Mr. DeFazio moved that the House agree to the Senate amendment to H.R. 3684. (consideration: CR H5182-5453; text: CR H5182-5446)
+- 2021-09-27 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on agreeing to the Senate amendment to H.R. 3684 were postponed.
+- 2021-09-28 — DEBATE - The House resumed with debate on the motion to agree to Senate amendment to H.R. 3684.
+- 2021-09-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to agree to the Senate amendment to H.R. 3684, the Chair put the question on passage of the motion and by voice vote announced the ayes had prevailed. Mr. Graves (MO) demanded the yeas and nays and further proceedings on the question of adoption of the motion was postponed until a time to be announced.
+- 2021-09-28 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further debate on the motion to agree to the Senate amendment to H.R. 3684. (consideration: CR H5473-5477)
+- 2021-09-28 — The previous question was ordered pursuant to the rule.
+- 2021-10-01 — Considered as unfinished business. (consideration: CR H5589)
+- 2021-10-01 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, further consideration of the motion to concur in the Senate amendment to H.R. 3684 is postponed.
+- 2021-11-05 — Kelly (IL) moved to reconsider the vote. (CR H6231)
+- 2021-11-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-05 — Mr. Horsford moved to table the motion to reconsider the vote (CR H6231)
+- 2021-11-05 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 228 - 206 (Roll no. 369). (consideration: CR H6230-6231)
+- 2021-11-05 — On motion to table the motion to reconsider Agreed to by the Yeas and Nays: 228 - 205 (Roll no. 370).
+- 2021-11-05 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 228 - 206 (Roll no. 369).(consideration: CR H6230-6231)
+- 2021-11-08 — Presented to President.
+- 2021-11-08 — Presented to President.
+- 2021-11-15 — Became Public Law No: 117-58.
+- 2021-11-15 — Became Public Law No: 117-58.
+- 2021-11-15 — Signed by President.
+- 2021-11-15 — Signed by President.
+- 2022-08-04 — Committee on Banking, Housing, and Urban Affairs. Hearings held.
