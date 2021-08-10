@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3684
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3684
 
-That the bill from the House of Representatives (H.R. 3684) entitled “An Act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.
 
 ## § 1. Short title; table of contents
 
