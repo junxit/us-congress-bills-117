@@ -1,7 +1,7 @@
 ---
 measure: S. 1
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 1
@@ -71,7 +71,16 @@ For the People Act of 2021
 
 - Senate — Rules and Administration Committee
 
+## Recorded votes (1)
+
+- 2021-08-11 — [Senate 117-1-358](votes/senate-117-1-0358.md) — On the Motion to Discharge — **Motion to Discharge Agreed to** (50–49)
+
 ## Actions
 
 - 2021-03-17 — Introduced in Senate
 - 2021-03-17 — Read twice and referred to the Committee on Rules and Administration.
+- 2021-03-24 — Committee on Rules and Administration. Hearings held. Hearings printed: S.Hrg. 117-14.
+- 2021-05-11 — Committee on Rules and Administration. Failed to report favorably.
+- 2021-08-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
+- 2021-08-11 — Senate Committee on Rules and Administration discharged by Yea-Nay Vote. 50 - 49. Record Vote Number: 358 (Pursuant to S. Res. 27, 117th Congress). (consideration: CR S6250)
+- 2021-08-11 — Senate Committee on Rules and Administration discharged by Yea-Nay Vote. 50 - 49. Record Vote Number: 358 (Pursuant to S. Res. 27, 117th Congress).(consideration: CR S6250)

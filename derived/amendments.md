@@ -1,7 +1,7 @@
 ---
 measure: S. 1
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
