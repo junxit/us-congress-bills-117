@@ -1,0 +1,14 @@
+---
+legis-num: S. 2712
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2712
+
+> To authorize appropriations for planning for United States participation in the 2025 World Expo in Osaka, Japan.
+
+## § 1. Authorization of appropriations for planning for United States participation in the 2025 World Expo
+
+Notwithstanding section 204 of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 (22 U.S.C. 2452b), there is authorized to be appropriated for planning for United States participation in the 2025 World Expo in Osaka, Japan, $2,000,000 for fiscal year 2022.
