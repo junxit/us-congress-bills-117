@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 14
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 14
@@ -2837,3 +2837,8 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2021-08-11 — Senate amendment submitted
 - 2021-08-11 — Senate amendment submitted
 - 2021-08-11 — Senate amendment submitted
+- 2021-08-16 — Message on Senate action sent to the House.
+- 2021-08-17 — Held at the desk.
+- 2021-08-17 — Received in the House.
+- 2021-08-24 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 601, S. Con. Res. 14 is considered passed House.(text: CR H4372-4384)
+- 2021-08-24 — Pursuant to the provisions of H. Res. 601, S. Con. Res. 14 is considered passed House. (text: CR H4372-4384)
