@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1619
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1619
@@ -33,3 +33,10 @@ Catawba Indian Nation Lands Act
 - 2021-03-08 — Introduced in House
 - 2021-03-08 — Introduced in House
 - 2021-03-08 — Referred to the House Committee on Natural Resources.
+- 2021-05-05 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2021-05-21 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2021-05-26 — Committee Consideration and Mark-up Session Held.
+- 2021-05-26 — Ordered to be Reported by Voice Vote.
+- 2021-08-13 — Placed on the Union Calendar, Calendar No. 82.
+- 2021-08-13 — Reported by the Committee on Natural Resources. H. Rept. 117-114.
+- 2021-08-13 — Reported by the Committee on Natural Resources. H. Rept. 117-114.
