@@ -1,0 +1,19 @@
+---
+legis-num: H. RES. 587
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 587
+
+> Expressing the sense of the House of Representatives that Congress disapproves of Department of Defense leadership pursuing adverse actions toward members of the Armed Forces of the United States who choose not to receive a COVID–19 vaccine.
+
+## Preamble
+
+- Whereas the Secretary of Defense has announced a COVID–19 vaccine mandate will take effect for the Armed Forces of the United States even if the Food and Drug Administration has only approved the COVID–19 vaccine under an emergency use authorization;
+- Whereas many Americans have reservations about taking a vaccine that has only been available for less than a year;
+- Whereas reports of adverse actions being taken, or threatened, by military leadership at all levels are antithetical to our fundamental American values; and
+- Whereas any discharge other than honorable denotes a dereliction of duty or that a servicemember did not serve the United States and its people to the best of his or her ability: Now, therefore, be it
+
+That the House of Representatives stands in opposition to any adverse punishment or any discharge that is not an honorable discharge for servicemembers whose discharge is because they choose not to receive the COVID–19 vaccine.
