@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5048
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5048
+
+> To amend the Food and Nutrition Act of 2008 to permit States to record in writing that applicants for supplemental nutrition assistance benefits have signed an application through a recorded verbal assent over the telephone.
+
+## § 1. Short title
+
+This Act may be cited as the “Streamlining Nutrition Assistance Paperwork Act of 2021” or the “SNAP Act of 2021”.
+
+## § 2. Amendment
+
+Section 11(e)(2)(C)(iii)(I) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(e)(2)(C)(iii)(I)) is amended by inserting “as audio or in writing” after “record”.
+
+## § 3. Effective date; Application of amendment
+
+- **(a)** *Effective date* This Act, and the amendment made by this Act, shall take effect on January 1, 2023.
+- **(b)** *Application of amendment* The amendment made by section 2 shall apply with respect to applications made after the effective date of this Act.
