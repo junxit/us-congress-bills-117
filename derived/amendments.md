@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 17 executed, 29 stated and not applied.
+49 amendatory instructions. 17 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 52 U.S.C. § 10301
 
-> by striking “as provided in subsection (b)” and inserting “as provided in subsection (b), (c), (d), or (e)”.
+> by striking “as provided in subsection (b)” and inserting “as provided in subsection (b), (c), (d), or (f)”.
 
 | | |
 |---|---|
 | Removed | `as provided in subsection (b)` |
-| Inserted | `as provided in subsection (b), (c), (d), or (e)` |
+| Inserted | `as provided in subsection (b), (c), (d), or (f)` |
 
 ### 52 U.S.C. § 10302
 
@@ -200,6 +200,9 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 10303` | strike | in paragraph (5), by striking “(in the case of a State or subdivision which sought a declaratory judgment under the second sentence of this subsection)”; | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 10303` | strike | by striking paragraphs (7) and (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10303` | redesignate | by redesignating paragraph (9) as paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10303` | add-at-end | Section 4 of the Voting Rights Act of 1965 (52 U.S.C. 10303) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10303` | insert | Section 4(a)(1) of the Voting Rights Act of 1965 (52 U.S.C. 10303(a)(1)), as amended by this Act, is further amended by inserting after “the United States District Court for the District of Columbia issues a declaratory judgment under th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10303` | strike | On the date that is 1 year after the effective date of this subsection, section 4(g)(3) of the Voting Rights Act of 1965 (52 U.S.C. 10303(g)(3)) is amended by striking “During the 1 year period beginning on the effective date of this sub… | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 10301` | insert | The Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.) is further amended by inserting after section 4 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10301` | insert | The Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.) is amended by inserting after section 5 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10302` | strike | Section 3(a) of such Act (52 U.S.C. 10302(a)) is amended by striking “in accordance with section 6”. | the bill quotes the text struck but describes what replaces it |
