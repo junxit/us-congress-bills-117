@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5085
 congress: 117
-version: Considered and Passed House
+version: Engrossed in House
 ---
 
 # H.R. 5085
