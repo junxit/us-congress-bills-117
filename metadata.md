@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4
@@ -16,7 +16,7 @@ John R. Lewis Voting Rights Advancement Act of 2021
 
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Cosponsors (191)
+## Cosponsors (223)
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
@@ -209,6 +209,38 @@ John R. Lewis Voting Rights Advancement Act of 2021
 - Rep. Harder, Josh [D-CA-10] (H001090)
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 
 ## Committees (1)
 
@@ -219,3 +251,17 @@ John R. Lewis Voting Rights Advancement Act of 2021
 - 2021-08-17 — Introduced in House
 - 2021-08-17 — Introduced in House
 - 2021-08-17 — Referred to the House Committee on the Judiciary.
+- 2021-08-24 — Amendment reported by the House Committee on Rules.
+- 2021-08-24 — Considered under the provisions of rule H. Res. 601. (consideration: CR H4384-4415)
+- 2021-08-24 — DEBATE - The House proceeded with one hour of debate on H.R. 4.
+- 2021-08-24 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-08-24 — House amendment offered
+- 2021-08-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-08-24 — Mr. Davis, Rodney moved to recommit to the Committee on the Judiciary. (text: CR H4413)
+- 2021-08-24 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-08-24 — On motion to recommit Failed by the Yeas and Nays: 212 - 218 (Roll no. 259).
+- 2021-08-24 — On passage Passed by the Yeas and Nays: 219 - 212 (Roll no. 260). (text: CR H4384-4391)
+- 2021-08-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 212 (Roll no. 260).(text: CR H4384-4391)
+- 2021-08-24 — Sponsor introductory remarks on measure. (CR H4369)
+- 2021-08-24 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-08-24 — The previous question was ordered pursuant to the rule.
