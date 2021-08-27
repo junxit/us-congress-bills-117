@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5114
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5114
+
+> To amend title 46, United States Code, to allow the Administrator of the Maritime Administration to finance vessel retrofit, repair, or similar work required for the vessel to be a vessel of the United States, and for other purposes.
+
+## § 1. Loans for retrofitting to qualify as a vessel of the United States
+
+Section 53706 of title 46, United States Code, is amended—
+
+- **(1)** in subsection (a), by adding at the end the following:
+  > - **(8)** Financing (including reimbursement of an obligor for expenditures previously made for) reconstruction, reconditioning, retrofitting, repair, or similar work in a shipyard located in the United States—
+  >   - **(A)** required for the vessel to be a vessel of the United States;
+  >   - **(B)** required for the vessel to be issued a coastwise endorsement under chapter 121;
+  >   - **(C)** to convert a civilian vessel of the United States to a more useful military configuration;
+  >   - **(D)** for any vessel under contract to the Federal Government; or
+  >   - **(E)** for any vessel participating in:
+  >     - **(i)** the Maritime Security Program under chapter 531;
+  >     - **(ii)** the Cable Security Fleet under chapter 532; or
+  >     - **(iii)** the Tanker Security Fleet under chapter 534.
