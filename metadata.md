@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5085
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5085
@@ -41,3 +41,12 @@ Emergency Repatriation Assistance for Returning Americans Act
 - 2021-08-24 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-08-24 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-08-24 — Referred to the Subcommittee on Social Security.
+- 2021-08-31 — Became Public Law No: 117-39.
+- 2021-08-31 — Became Public Law No: 117-39.
+- 2021-08-31 — Message on Senate action sent to the House.
+- 2021-08-31 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6431)
+- 2021-08-31 — Presented to President.
+- 2021-08-31 — Presented to President.
+- 2021-08-31 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6431)
+- 2021-08-31 — Signed by President.
+- 2021-08-31 — Signed by President.
