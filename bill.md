@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 630
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 630
+
+> Expressing the sense of Congress that President Biden must secure the United States from terror threats by denying entry to certain individuals due to a heightened terror threat from an unstable Afghanistan.
+
+## Preamble
+
+- Whereas the Biden administration’s evacuation of United States citizens, military personnel, and Afghan allies from Afghanistan was ill-executed and required additional military personnel to be placed in a dangerously untenable position to complete an unnecessarily hasty withdrawal;
+- Whereas the resulting instability in Afghanistan threatens the safety of American citizens and the security of the American homeland;
+- Whereas 13 United States soldiers were killed by a terrorist attack at Hamid Karzai International Airport on August 26, 2021;
+- Whereas estimates indicate 5,000 to 7,000 prisoners were released by the Taliban when they captured Bagram Air Base, including many al-Qaida operatives;
+- Whereas Afghanistan has previously been a hub for terrorist activity and training;
+- Whereas Pentagon officials have warned that extremist groups could regenerate in Afghanistan within two years of the United States withdrawing military forces;
+- Whereas, in July 2021, U.S. Customs and Border Protection reported 212,672 encounters on the southwest border, the highest recorded level;
+- Whereas the Biden administration has rescinded or weakened border security policies including the southwest border wall, the Migrant Protection Protocols, and title 42 expulsion; and
+- Whereas the President has broad authority under section 212(f) of the Immigration and Nationality Act to deny entry to aliens who pose a threat to the United States and the American people: Now, therefore, be it
+
+That the House of Representatives calls on President Biden to use his executive authority under section 212(f) of the Immigration and Nationality Act to secure the border and points of entry by denying entry to individuals from Afghanistan who pose a terrorist threat to the United States.
