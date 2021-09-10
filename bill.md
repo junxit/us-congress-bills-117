@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 5199
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5199
+
+> To amend title 10, United States Code, to provide for the treatment of notice of presumed risk issued by the Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions.
+
+## § 1. Treatment of notice of presumed risk issued by Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions
+
+Subparagraph (B) of paragraph (2) of subsection (C) of section 183a of title 10, United States Code, is amended to read as follows:
+
+> - **(B)** A notice of presumed risk issued pursuant to subparagraph (A) is a preliminary assessment only and is not a finding of unacceptable risk under subsection (e). A discussion of mitigation actions could resolve the concerns identified by the Department in the preliminary assessment in favor of the applicant.
