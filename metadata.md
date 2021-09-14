@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4611
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4611
@@ -29,3 +29,10 @@ DHS Software Supply Chain Risk Management Act of 2021
 - 2021-07-21 — Introduced in House
 - 2021-07-21 — Introduced in House
 - 2021-07-21 — Referred to the House Committee on Homeland Security.
+- 2021-07-22 — Referred to the Subcommittee on Oversight, Management, and Accountability.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-07-28 — Subcommittee on Oversight, Management, and Accountability Discharged.
+- 2021-09-14 — Placed on the Union Calendar, Calendar No. 85.
+- 2021-09-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-120.
+- 2021-09-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-120.
