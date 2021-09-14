@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4
@@ -265,3 +265,4 @@ John R. Lewis Voting Rights Advancement Act of 2021
 - 2021-08-24 — Sponsor introductory remarks on measure. (CR H4369)
 - 2021-08-24 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-08-24 — The previous question was ordered pursuant to the rule.
+- 2021-09-14 — Received in the Senate.
