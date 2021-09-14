@@ -15,7 +15,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas ataxia can strike individuals of all ages, including children;
 - Whereas the term “ataxia” is used to classify a group of rare, inherited neurodegenerative diseases including—(1)ataxia telangiectasia;(2)episodic ataxia;(3)Friedreich’s ataxia; and(4)spinocerebellar ataxia;
 - Whereas there are many known types of genetic ataxia, but the genetic basis for ataxia in some patients is still unknown;
-- Whereas all inherited ataxias affect fewer than 200,000 individuals and, therefore, are recognized as rare diseases under the Orphan Drug Act (Public Law 97–414; 96 Stat. 2049);
+- Whereas all inherited ataxias affect fewer than 200,000 individuals in the United States and, therefore, are recognized as rare diseases under the Orphan Drug Act (Public Law 97–414; 96 Stat. 2049);
 - Whereas some genetic ataxias are inherited in an autosomal dominant manner, while others are inherited in an autosomal recessive manner;
 - Whereas ataxia symptoms can also be caused by noninherited health conditions and other factors, including stroke, tumor, cerebral palsy, head trauma, multiple sclerosis, alcohol abuse, and certain medications;
 - Whereas ataxia can present physical, psychological, and financial challenges for patients and their families;
