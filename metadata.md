@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 315
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 315
@@ -34,3 +34,7 @@ A resolution commending the service of Hamilton-class Coast Guard cutters and th
 
 - 2021-07-22 — Introduced in Senate
 - 2021-07-22 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2021-09-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 7/22/2021 CR S5054)
+- 2021-09-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 7/22/2021 CR S5054)
+- 2021-09-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6481-6482)
+- 2021-09-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6481-6482)
