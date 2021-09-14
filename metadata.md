@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4691
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4691
@@ -32,3 +32,10 @@ K–12 Cybersecurity Act of 2021
 - 2021-07-26 — Introduced in House
 - 2021-07-26 — Introduced in House
 - 2021-07-26 — Referred to the House Committee on Homeland Security.
+- 2021-07-27 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-28 — Ordered to be Reported by Voice Vote.
+- 2021-07-28 — Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation Discharged.
+- 2021-09-14 — Placed on the Union Calendar, Calendar No. 87.
+- 2021-09-14 — Reported by the Committee on Homeland Security. H. Rept. 117-122.
+- 2021-09-14 — Reported by the Committee on Homeland Security. H. Rept. 117-122.
