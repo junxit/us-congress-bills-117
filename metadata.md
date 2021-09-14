@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 325
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 325
@@ -43,3 +43,7 @@ A resolution recognizing the seriousness of polycystic ovary syndrome (PCOS) and
 
 - 2021-07-28 — Introduced in Senate
 - 2021-07-28 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-09-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 7/28/2021 CR S5144-5145)
+- 2021-09-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 7/28/2021 CR S5144-5145)
+- 2021-09-14 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6482)
+- 2021-09-14 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6482)
