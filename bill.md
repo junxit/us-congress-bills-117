@@ -53,8 +53,10 @@ Section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Ac
 ## § 6. Fees
 
 - **(a)** *In general* The North Pacific Fishery Management Council may recommend, and the Secretary of Commerce may approve, regulations necessary for the collection of fees from charter vessel operators who guide recreational anglers who harvest Pacific halibut in International Pacific Halibut Commission regulatory areas 2C and 3A as those terms are defined in part 300 of title 50, Code of Federal Regulations (or any successor regulations).
-- **(b)** *Use of fees* Any fees collected under this section shall be available, without appropriation or fiscal year limitation, for the purposes of—
+- **(b)** *Use of fees* Any fees collected under this section shall be available for the purposes of—
   - **(1)** financing administrative costs of the Recreational Quota Entity program;
   - **(2)** the purchase of halibut quota shares in International Pacific Halibut Commission regulatory areas 2C and 3A by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations);
   - **(3)** halibut conservation and research; and
   - **(4)** promotion of the halibut resource by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations).
+- **(c)** *Limitation on collection and availability* Fees shall be collected and available pursuant to this section only to the extent and in such amounts as provided in advance in appropriations Acts, subject to subsection (d).
+- **(d)** *Fee collected during start-up period* Notwithstanding subsection (c), fees may be collected through the date of enactment of an Act making appropriations for the activities authorized under this Act through September 30, 2022, and shall be available for obligation and remain available until expended.
