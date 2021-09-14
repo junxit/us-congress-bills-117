@@ -23,11 +23,12 @@ This Act may be cited as the “DHS Contract Reporting Act of 2021”.
     - **(D)** the total contract value for such award, including all options;
     - **(E)** the description of the purpose for such award;
     - **(F)** the number of proposals or bids received;
-    - **(G)** the name and address of the vendor;
+    - **(G)** the name and address of the vendor, and whether such vendor is considered a small business;
     - **(H)** the period and each place of performance for such award;
-    - **(I)** whether such award is multiyear; and
-    - **(J)** the contracting office and the point of contact for such office.
-  - **(2)** *Update* Updates referred to in paragraph (1) shall occur not later than the next business day after the date on which the covered contract is authorized or modified.
+    - **(I)** whether such award is multiyear;
+    - **(J)** whether such award requires a small business subcontracting plan; and
+    - **(K)** the contracting office and the point of contact for such office.
+  - **(2)** *Update* Updates referred to in paragraph (1) shall occur not later than two business days after the date on which the covered contract is authorized or modified.
   - **(3)** *Subscribing to alerts* The website referred to in paragraph (1) shall provide the option to subscribe to an automatic notification of the publication of each report required under such paragraph.
   - **(4)** *Effective date* Paragraph (1) shall take effect on the date that is 180 days after the date of the enactment of this section.
 - **(b)** *Undefinitized contract action or definitized amount* If a covered contract award reported pursuant to subsection (a) includes an undefinitized contract action, the Secretary shall—
@@ -39,12 +40,13 @@ This Act may be cited as the “DHS Contract Reporting Act of 2021”.
     - **(A)** means a contract action of the Department with the total authorized dollar amount of $4,000,000 or greater, including unexercised options; and
     - **(B)** includes—
       - **(i)** contract awards governed by the Federal Acquisition Regulation;
-      - **(ii)** modifications to a contract award;
-      - **(iii)** orders placed on a single or multiple award contract that includes delivery or quantity terms that are indefinite;
+      - **(ii)** modifications to a contract award that increase the total value, expand the scope of work, or extend the period of performance;
+      - **(iii)** orders placed on a multiple award or multiple-agency contract that includes delivery or quantity terms that are indefinite;
       - **(iv)** other transaction authority agreements; and
       - **(v)** contract awards made with other than full and open competition.
   - **(2)** *Definitized amount* The term “definitized amount” means the final amount of a covered contract award after agreement between the Department and the contractor at issue.
   - **(3)** *Department* The term “Department” means the Department of Homeland Security.
   - **(4)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
-  - **(5)** *Total contract value* The term “total contract value” means the total amount of funds expected to be provided to the contractor at issue under the terms of the contract through the full period of performance.
-  - **(6)** *Undefinitized contract action* The term “undefinitized contract action” means any contract action for which the contract terms, specifications, or price is not established prior to the start of the performance of a covered contract award.
+  - **(5)** *Small business* The term “small business” means an entity that qualifies as a small business concern, as such term is described under section 3 of the Small Business Act (15 U.S.C. 632).
+  - **(6)** *Total contract value* The term “total contract value” means the total amount of funds expected to be provided to the contractor at issue under the terms of the contract through the full period of performance.
+  - **(7)** *Undefinitized contract action* The term “undefinitized contract action” means any contract action for which the contract terms, specifications, or price is not established prior to the start of the performance of a covered contract award.
