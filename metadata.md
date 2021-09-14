@@ -1,7 +1,7 @@
 ---
 measure: S. 1037
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1037
@@ -29,3 +29,7 @@ Manufacturing.gov Act
 
 - 2021-03-25 — Introduced in Senate
 - 2021-03-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-05-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-38.
+- 2021-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-38.
+- 2021-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.
