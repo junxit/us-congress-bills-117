@@ -1,7 +1,7 @@
 ---
 measure: S. 297
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 297
@@ -28,3 +28,7 @@ Reinforcing American-Made Products Act
 
 - 2021-02-08 — Introduced in Senate
 - 2021-02-08 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-09-14 — Passed Senate without amendment by Unanimous Consent. (text: CR S6481)
+- 2021-09-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6481)
+- 2021-09-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6481)
+- 2021-09-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6481)
