@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5276
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5276
+
+> To amend the Small Business Act to modify Govermentwide goals for certain small business concerns.
+
+## § 1. Governmentwide goals for certain small business concerns
+
+Section 15(g)(1)(A) of the Small Business Act (15 U.S.C. 644(g)(1)) is amended—
+
+- **(1)** in clause (ii), by striking “3 percent” and inserting “4 percent”;
+- **(2)** in clause (iii), by striking “3 percent” and inserting “4 percent”;
+- **(3)** in clause (iv), by striking “at not less than” and all that follows and inserting the following:
+  > at not less than—
+  > - **(I)** 11 percent of the total value of all prime contract and subcontract awards for fiscal year 2022;
+  > - **(II)** 12 percent of the total value of all prime contract and subcontract awards for fiscal year 2023;
+  > - **(III)** 13 percent of the total value of all prime contract and subcontract awards for fiscal year 2024; and
+  > - **(IV)** 15 percent of the total value of all prime contract and subcontract awards for fiscal year 2025 and each fiscal year thereafter.
+
+- **(4)** in clause (v), by striking “at not less than” and all that follows and inserting the following:
+  > at not less than—
+  > - **(I)** 6 percent of the total value of all prime contract and subcontract awards for each of fiscal years 2022 and 2023; and
+  > - **(II)** 7 percent of the total value of all prime contract and subcontract awards for fiscal year 2024 and each fiscal year thereafter.
