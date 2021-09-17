@@ -1,0 +1,22 @@
+---
+legis-num: H. RES. 651
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 651
+
+> Expressing the sense of the House of Representatives related to the Department of Defense’s consideration of the Intergovernmental Panel on Climate Change report.
+
+## Preamble
+
+- Whereas the Intergovernmental Panel on Climate Change has provided valuable scientific assessments on climate change since its creation in 1988;
+- Whereas the first part of the Sixth Assessment Report, Climate Change 2021: The Physical Science Basis, was finalized on August 6, 2021;
+- Whereas the report finds that the global average temperature is expected to reach or exceed 1.5 degrees Celsius above pre-industrial levels within the coming decades without immediate and large-scale efforts to reduce greenhouse gas emissions; and
+- Whereas this increase in global temperature will affect all regions of the world, impacting weather patterns, sea levels, ocean temperatures, biodiversity, and more: Now, therefore, be it
+
+That it is the sense of the House of Representatives that—
+
+- **(1)** the Department of Defense should take the most recent report of the Intergovernmental Panel on Climate Change into consideration when carrying out resiliency efforts and making energy and transportation decisions for military bases and installations; and
+- **(2)** the Department of Defense should consider adding the recommendations of the Sixth Assessment Report to the Unified Facilities Criteria where appropriate.
