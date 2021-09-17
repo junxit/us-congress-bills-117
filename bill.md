@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5280
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5280
+
+> To amend title 10, United States Code, to increase Federal assistance available to State and local governments for maintaining and improving military resilience, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Local Resiliency Act”.
+
+## § 2. Grants for maintaining or improving military installation resilience
+
+Section 2391 of title 10, United States Code, is amended—
+
+- **(1)** in subsection (b)(5), by adding at the end the following new subparagraph:
+  > - **(D)**
+  >   - **(i)** The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds, in order to assist a State or local government in planning and implementing measures and projects that, as determined by the Secretary of Defense, will contribute to maintaining or improving military installation resilience. Amounts appropriated or otherwise made available for assistance under this subparagraph shall remain available until expended.
+  >   - **(ii)** In the case of funds provided under this subparagraph for projects involving the preservation, maintenance, or restoration of natural features for the purpose of maintaining or enhancing military installation resilience, such funds may be provided in a lump sum and include an amount intended to cover the future costs of the natural resource maintenance and improvement activities required for the preservation, maintenance, or restoration of such natural features, and may be placed by the recipient in an interest-bearing or other investment account, and any interest or income shall be applied for the same purposes as the principal.
+
+- **(2)** in subsection (e)(1), by striking “subsection (b)(1)(D)” and inserting “paragraphs (1) (D) and (E) and (5)(D) of subsection (b) and subsection (d)”.
