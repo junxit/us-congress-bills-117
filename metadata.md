@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3475
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3475
@@ -41,3 +41,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2021-05-25 — Introduced in House
 - 2021-05-25 — Introduced in House
 - 2021-05-25 — Referred to the House Committee on Veterans' Affairs.
+- 2021-08-02 — Referred to the Subcommittee on Health.
+- 2021-09-20 — Considered under suspension of the rules. (consideration: CR H4541-4543)
+- 2021-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3475.
+- 2021-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-20 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2021-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4541)
+- 2021-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4541)
