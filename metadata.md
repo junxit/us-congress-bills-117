@@ -1,7 +1,7 @@
 ---
 measure: S. 1543
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1543
@@ -16,7 +16,7 @@ STANDUP Act of 2021
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Cosponsors (10)
+## Cosponsors (16)
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -28,6 +28,12 @@ STANDUP Act of 2021
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
@@ -37,3 +43,7 @@ STANDUP Act of 2021
 
 - 2021-05-10 — Introduced in Senate
 - 2021-05-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-08-03 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-09-21 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-09-21 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 127.
