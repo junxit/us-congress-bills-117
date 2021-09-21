@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3475
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3475
@@ -32,9 +32,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2021-09-20 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2021-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4541)
 - 2021-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4541)
+- 2021-09-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
