@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5293
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5293
@@ -35,3 +35,4 @@ Department of Veterans Affairs Expiring Authorities Act of 2021
 - 2021-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 261).(text: CR H4535)
 - 2021-09-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-09-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-09-21 — Received in the Senate, read twice.
