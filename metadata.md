@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1281
@@ -50,3 +50,14 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2021-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4539)
 - 2021-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4539)
 - 2021-09-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-02-03 — Passed Senate without amendment by Unanimous Consent.
+- 2022-02-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-02-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S528)
+- 2022-02-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S528)
+- 2022-02-07 — Message on Senate action sent to the House.
+- 2022-02-15 — Presented to President.
+- 2022-02-15 — Presented to President.
+- 2022-02-23 — Became Public Law No: 117-89.
+- 2022-02-23 — Became Public Law No: 117-89.
+- 2022-02-23 — Signed by President.
+- 2022-02-23 — Signed by President.
