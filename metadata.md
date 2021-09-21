@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 41
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 41
@@ -16,9 +16,10 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Graves, Garret [R-LA-6] (G000577)
 
 ## Committees (1)
 
@@ -29,3 +30,14 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2021-07-20 — Introduced in House
 - 2021-07-20 — Introduced in House
 - 2021-07-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2021-07-21 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-28 — Ordered to be Reported by Voice Vote.
+- 2021-07-28 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2021-09-21 — Committee on Transportation discharged.
+- 2021-09-21 — Committee on Transportation discharged.
+- 2021-09-21 — Considered by unanimous consent. (consideration: CR H4596)
+- 2021-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-21 — Ms. Titus asked unanimous consent to discharge from committee and consider.
+- 2021-09-21 — On agreeing to the resolution Agreed to without objection. (text: CR H4596)
+- 2021-09-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4596)
