@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3475
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3475
@@ -50,3 +50,14 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2021-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4541)
 - 2021-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4541)
 - 2021-09-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-10-28 — Message on Senate action sent to the House.
+- 2021-10-28 — Passed Senate without amendment by Unanimous Consent.
+- 2021-10-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-10-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7450)
+- 2021-10-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7450)
+- 2021-11-03 — Presented to President.
+- 2021-11-03 — Presented to President.
+- 2021-11-12 — Became Public Law No: 117-56.
+- 2021-11-12 — Became Public Law No: 117-56.
+- 2021-11-12 — Signed by President.
+- 2021-11-12 — Signed by President.
