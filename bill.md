@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 670
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 670
+
+> Condemning the inhumane treatment of Haitian migrants at the southern border of the United States.
+
+## Preamble
+
+- Whereas some U.S. Customs and Border Patrol agents have treated the Haitian migrants inhumanely, charging them on horseback while using reins as lashes: Now, therefore, be it
+
+That the House of Representatives condemns and denounces the actions of those U.S. Customs and Border Patrol agents who confronted some Haitian migrants on horseback using their reins as lashes.
