@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 41
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 41
@@ -42,3 +42,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2021-09-21 — On agreeing to the resolution Agreed to without objection. (text: CR H4596)
 - 2021-09-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4596)
 - 2021-09-22 — Received in the Senate.
+- 2021-09-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6666)
+- 2021-09-23 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6666)
+- 2021-09-24 — Message on Senate action sent to the House.
