@@ -1,7 +1,7 @@
 ---
 measure: S. 1226
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1226
@@ -28,3 +28,8 @@ A bill to designate the United States courthouse located at 1501 North 6th Stree
 
 - 2021-04-20 — Introduced in Senate
 - 2021-04-20 — Read twice and referred to the Committee on Environment and Public Works.
+- 2021-09-22 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 117-108.
+- 2021-09-22 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.
