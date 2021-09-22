@@ -1,7 +1,7 @@
 ---
 measure: S. 2126
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2126
@@ -28,3 +28,8 @@ A bill to designate the Federal Office Building located at 308 W. 21st Street in
 
 - 2021-06-17 — Introduced in Senate
 - 2021-06-17 — Read twice and referred to the Committee on Environment and Public Works.
+- 2021-09-22 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 117-108.
+- 2021-09-22 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.
