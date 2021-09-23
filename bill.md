@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4350
 
-> To authorize appropriations for fiscal year 2022 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.
+> To authorize appropriations for fiscal year 2022 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,12 +15,14 @@ This Act may be cited as the “National Defense Authorization Act for Fiscal Ye
 
 ## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into four divisions as follows:
+- **(a)** *Divisions* This Act is organized into seven divisions as follows:
   - **(1)** Division A—Department of Defense Authorizations.
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
   - **(4)** Division D—Funding Tables.
   - **(5)** Division E—Non-Department of Defense Matters.
+  - **(6)** Division F—Department of State Authorities.
+  - **(7)** Division G—Global Pandemic Prevention and Biosecurity.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees

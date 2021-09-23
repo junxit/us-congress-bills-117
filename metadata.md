@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4350
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4350
@@ -54,3 +54,355 @@ National Defense Authorization Act for Fiscal Year 2022
 - 2021-09-10 — Placed on the Union Calendar, Calendar No. 83.
 - 2021-09-10 — Reported (Amended) by the Committee on Armed Services. H. Rept. 117-118.
 - 2021-09-10 — Reported (Amended) by the Committee on Armed Services. H. Rept. 117-118.
+- 2021-09-17 — SUPPLEMENTAL FILING AUTHORITY - Without objection, the Committee on Armed Services is authorized to file a supplemental report on the bill H.R. 4350.
+- 2021-09-17 — Supplemental report filed by the Committee on Armed Services, H. Rept. 117-118, Part II.
+- 2021-09-17 — Supplemental report filed by the Committee on Armed Services, H. Rept. 117-118, Part II.
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — 
+- 2021-09-21 — Amendment (A001) offered by Mr. Perlmutter. (consideration: CR H4805-4810; text: CR H4805-4808)
+- 2021-09-21 — Amendment (A002) offered by Ms. Dean. (consideration: CR H4810-4811, H4880-4881; text: CR H4810)
+- 2021-09-21 — Amendment (A003) offered by Ms. Plaskett. (consideration: CR H4811-4813, H4881; text: CR H4811-4812)
+- 2021-09-21 — Amendment (A004) offered by Mr. Green, Al (TX). (consideration: CR H4813-4815; text: CR H4813-4814)
+- 2021-09-21 — Amendment (A005) offered by Mr. Cicilline. (consideration: CR H4815-4816; text: CR H4815)
+- 2021-09-21 — Amendment (A006) offered by Ms. Tlaib. (consideration: CR H4816-4818, H4881-4882; text: CR H4816-4817)
+- 2021-09-21 — Amendment (A007) offered by Ms. Slotkin. (consideration: CR H4818-4821, H4882-4883; text: CR H4818-4820)
+- 2021-09-21 — Amendment (A008) offered by Ms. DeGette. (consideration: CR H4821-4846, H4883-4884; text: CR H4821-4845)
+- 2021-09-21 — Amendment (A009) offered by Mr. Neguse. (consideration: CR H4846-4857, H4884; text: CR H4846-4855)
+- 2021-09-21 — Amendment (A010) offered by Mr. Kim (NJ). (consideration: CR H4857-4858; text: CR H4857)
+- 2021-09-21 — Amendment (A011) offered by Mr. Sherman. (consideration: CR H4858-4860; text: CR H4858-4859)
+- 2021-09-21 — Amendment agreed to by House: On agreeing to the Cicilline amendment (A005) Agreed to by voice vote.
+- 2021-09-21 — Amendment agreed to by House: On agreeing to the Green, Al (TX) amendment (A004) Agreed to by voice vote.
+- 2021-09-21 — Amendment agreed to by House: On agreeing to the Kim (NJ) amendment (A010) Agreed to by voice vote.
+- 2021-09-21 — Amendment agreed to by House: On agreeing to the Perlmutter amendment (A001) Agreed to by voice vote.
+- 2021-09-21 — Amendment agreed to by House: On agreeing to the Sherman amendment (A011) Agreed to by voice vote.
+- 2021-09-21 — Considered under the provisions of rule H. Res. 667. (consideration: CR H4596-4861; text: CR H4596-4793)
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Al Green amendment No. 9.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Cicilline amendment No. 10.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the DeGette amendment No. 16.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Dean amendment No. 5.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Kim (NJ) amendment No. 18.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Neguse amendment No. 17.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Perlmutter amendment No. 1.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Plaskett amendment No. 6.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Sherman amendment No. 20.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Slotkin amendment No. 15.
+- 2021-09-21 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Tlaib amendment No. 11.
+- 2021-09-21 — DEBATE - The House proceeded with one hour of debate on H.R. 4350.
+- 2021-09-21 — House amendment agreed to: On agreeing to the Cicilline amendment (A005) Agreed to by voice vote.
+- 2021-09-21 — House amendment agreed to: On agreeing to the Green, Al (TX) amendment (A004) Agreed to by voice vote.
+- 2021-09-21 — House amendment agreed to: On agreeing to the Kim (NJ) amendment (A010) Agreed to by voice vote.
+- 2021-09-21 — House amendment agreed to: On agreeing to the Perlmutter amendment (A001) Agreed to by voice vote.
+- 2021-09-21 — House amendment agreed to: On agreeing to the Sherman amendment (A011) Agreed to by voice vote.
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered
+- 2021-09-21 — House amendment offered/reported by: Amendment (A001) offered by Mr. Perlmutter.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A002) offered by Ms. Dean.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A003) offered by Ms. Plaskett.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A004) offered by Mr. Green, Al (TX).
+- 2021-09-21 — House amendment offered/reported by: Amendment (A005) offered by Mr. Cicilline.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A006) offered by Ms. Tlaib.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A007) offered by Ms. Slotkin.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A008) offered by Ms. DeGette.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A009) offered by Mr. Neguse.
+- 2021-09-21 — House amendment offered/reported by: Amendment (A010) offered by Mr. Kim (NJ).
+- 2021-09-21 — House amendment offered/reported by: Amendment (A011) offered by Mr. Sherman.
+- 2021-09-21 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-21 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-21 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-21 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-21 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-21 — On agreeing to the Cicilline amendment (A005) Agreed to by voice vote.
+- 2021-09-21 — On agreeing to the Green, Al (TX) amendment (A004) Agreed to by voice vote.
+- 2021-09-21 — On agreeing to the Kim (NJ) amendment (A010) Agreed to by voice vote.
+- 2021-09-21 — On agreeing to the Perlmutter amendment (A001) Agreed to by voice vote.
+- 2021-09-21 — On agreeing to the Sherman amendment (A011) Agreed to by voice vote.
+- 2021-09-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeGette amendment No. 16, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lamborn demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dean amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Davidson demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neguse amendment No. 17, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lamborn demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Plaskett amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tiffany demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Slotkin amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Boebert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tlaib amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Davidson demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-21 — Rule provides for consideration of H.R. 3755, H.R. 4350 and H.R. 5305. Rule provides for one hour of debate on H.R. 3755; one hour of debate on H.R. 4350, with consideration under a structured rule; and one hour of debate on H.R. 5305, with consideration under a closed rule. The rule provides that proceedings may be postponed through October 1, 2021, on measures that were the object of motions to suspend the rules on the legislative days of July 26, July 27, or September 21, 2021 and on which the yeas and nays were ordered. The rule provides that House Resolution 188, agreed to March 8, 2021, is further amended by striking "September 22, 2021" and inserting "October 27, 2021".
+- 2021-09-21 — Rules Committee Resolution H. Res. 667 Reported to House. Rule provides for consideration of H.R. 3755, H.R. 4350 and H.R. 5305. Rule provides for one hour of debate on H.R. 3755; one hour of debate on H.R. 4350, with consideration under a structured rule; and one hour of debate on H.R. 5305, with consideration under a closed rule. The rule provides that proceedings may be postponed through October 1, 2021, on measures that were the object of motions to suspend the rules on the legislative days of July 26, July 27, or September 21, 2021 and on which the yeas and nays were ordered. The rule provides that House Resolution 188, agreed to March 8, 2021, is further amended by striking "September 22, 2021" and inserting "October 27, 2021".
+- 2021-09-21 — The previous question was ordered on the amendment (A001) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A006) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A007) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A008) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A009) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A010) pursuant to the rule.
+- 2021-09-21 — The previous question was ordered on the amendment (A011) pursuant to the rule.
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — 
+- 2021-09-22 — Amendment (A012) offered by Mr. Schiff. (consideration: CR H4860-4861; text: CR H4860)
+- 2021-09-22 — Amendment (A013) offered by Mr. Schiff. (consideration: CR H4861; text: CR H4861)
+- 2021-09-22 — Amendment (A015) offered by Mr. Bowman. (consideration: CR H4936-4937, H5115-5116; text: CR H4936)
+- 2021-09-22 — Amendment (A016) offered by Mr. Mfume. (consideration: CR H4937-4939, H5116; text: CR H4937)
+- 2021-09-22 — Amendment (A017) offered by Mr. Khanna. (consideration: CR H4939-4940, H5116-5117; text: CR H4939)
+- 2021-09-22 — Amendment (A018) offered by Mr. Meeks. (consideration: CR H4940-4941, H5117-5118; text: CR H4940)
+- 2021-09-22 — Amendment (A019) offered by Mrs. Maloney, Carolyn B.. (consideration: CR H4941-4944, H5118; text: CR H4941-4943)
+- 2021-09-22 — Amendment (A020) offered by Mr. Johnson (GA). (consideration: CR H4944-4947, H5118-5119; text: CR H4944-4945)
+- 2021-09-22 — Amendment (A021) offered by Mr. Garamendi. (consideration: CR H4947-4950, H5119-5120; text: CR H4947-4948)
+- 2021-09-22 — Amendment (A022) offered by Mr. Schrader. (consideration: CR H4950-4951, H5120-5121; text: CR H4950)
+- 2021-09-22 — Amendment (A023) offered by Ms. Ocasio-Cortez. (consideration: CR H4951-4952, H5121-5122; text: CR H4951)
+- 2021-09-22 — Amendment (A024) offered by Ms. Jacobs (CA). (consideration: CR H4952-4954, H5122; text: CR H4952)
+- 2021-09-22 — Amendment (A025) offered by Mr. Langevin. (consideration: CR H4954-4956, H5122-5123; text: CR H4954-4955)
+- 2021-09-22 — Amendment (A026) offered by Mr. Bowman. (consideration: CR H4956-4957, H5123-5124; text: CR H4956)
+- 2021-09-22 — Amendment (A030) offered by Ms. Leger Fernandez. (consideration: CR H5075-5076, H5126-5127; text: CR H5075)
+- 2021-09-22 — Amendment (A031) offered by Mrs. Torres (CA). (consideration: CR H5076-5078, H5127; text: CR H5076-5077)
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the DeGette amendment (A008) Agreed to by the Yeas and Nays: 222 - 200 (Roll no. 273).
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Dean amendment (A002) Agreed to by the Yeas and Nays: 219 - 204 (Roll no. 269).
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Neguse amendment (A009) Agreed to by the Yeas and Nays: 224 - 204 (Roll no. 274).
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Plaskett amendment (A003) Agreed to by the Yeas and Nays: 235 - 190 (Roll no. 270).
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Schiff amendment (A012) Agreed to by voice vote.
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Schiff amendment (A013) Agreed to by voice vote.
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Slotkin amendment (A007) Agreed to by the Yeas and Nays: 236 - 186 (Roll no. 272).
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A014) Agreed to by voice vote.
+- 2021-09-22 — Amendment agreed to by House: On agreeing to the Tlaib amendment (A006) Agreed to by the Yeas and Nays: 222 - 203 (Roll no. 271).
+- 2021-09-22 — Amendments en bloc (A014) offered by Mr. Smith (WA). (consideration: CR H4884-4936; text: CR H4884-4931)
+- 2021-09-22 — Amendments en bloc (A027) offered by Mr. Smith (WA). (consideration: CR H4957-4989, H5124-5125; text: CR H4957-4985)
+- 2021-09-22 — Amendments en bloc (A028) offered by Mr. Smith (WA). (consideration: CR H4989-5033, H5125; text: CR H4989-5031)
+- 2021-09-22 — Amendments en bloc (A029) offered by Mr. Smith (WA). (consideration: CR H5033-5075, H5125-5126; text: CR H5033-5073)
+- 2021-09-22 — Considered as unfinished business. (consideration: CR H4880-5078)
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Bowman amendment No. 105.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Bowman amendment No. 25.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Carolyn B. Maloney amendment No. 35.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Garamendi amendment No. 38.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Jacobs(CA) amendment No. 41.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 36.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Khanna amendment No. 28.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Langevin amendment No. 42.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Leger Fernandez amendment No. 241.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Meeks amendment No. 30.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Mfume amendment No. 26.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Ocasio-Cortez amendment No. 40.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Schiff amendment No. 23.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Schiff amendment No. 24.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Schrader amendment No. 39.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 10 minutes of debate on the Torres (CA) amendment No. 435.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 30 minutes of debate on the Smith (WA) amendment en bloc No. 2, as modified.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 1.
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 3. %kp1
+- 2021-09-22 — DEBATE - Pursuant to the provisions of H. Res. 667, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 4.
+- 2021-09-22 — House amendment agreed to: On agreeing to the DeGette amendment (A008) Agreed to by the Yeas and Nays: 222 - 200 (Roll no. 273).
+- 2021-09-22 — House amendment agreed to: On agreeing to the Dean amendment (A002) Agreed to by the Yeas and Nays: 219 - 204 (Roll no. 269).
+- 2021-09-22 — House amendment agreed to: On agreeing to the Neguse amendment (A009) Agreed to by the Yeas and Nays: 224 - 204 (Roll no. 274).
+- 2021-09-22 — House amendment agreed to: On agreeing to the Plaskett amendment (A003) Agreed to by the Yeas and Nays: 235 - 190 (Roll no. 270).
+- 2021-09-22 — House amendment agreed to: On agreeing to the Schiff amendment (A012) Agreed to by voice vote.
+- 2021-09-22 — House amendment agreed to: On agreeing to the Schiff amendment (A013) Agreed to by voice vote.
+- 2021-09-22 — House amendment agreed to: On agreeing to the Slotkin amendment (A007) Agreed to by the Yeas and Nays: 236 - 186 (Roll no. 272).
+- 2021-09-22 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A014) Agreed to by voice vote.
+- 2021-09-22 — House amendment agreed to: On agreeing to the Tlaib amendment (A006) Agreed to by the Yeas and Nays: 222 - 203 (Roll no. 271).
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered
+- 2021-09-22 — House amendment offered/reported by: Amendment (A012) offered by Mr. Schiff.
+- 2021-09-22 — House amendment offered/reported by: Amendment (A013) offered by Mr. Schiff.
+- 2021-09-22 — House amendment offered/reported by: Amendment (A015) offered by Mr. Bowman.(consideration: CR H4936-4937; text: CR H4936)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A016) offered by Mr. Mfume.(consideration: CR H4937-4939; text: CR H4937)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A017) offered by Mr. Khanna.(consideration: CR H4939-4940; text: CR H4939)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A018) offered by Mr. Meeks.(consideration: CR H4940-4941; text: CR H4940)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A019) offered by Mrs. Maloney, Carolyn B..(consideration: CR H4941-4944; text: CR H4941-4943)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A020) offered by Mr. Johnson (GA).(consideration: CR H4944-4947; text: CR H4944-4945)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A021) offered by Mr. Garamendi.(consideration: CR H4947-4950; text: CR H4947-4948)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A022) offered by Mr. Schrader.(consideration: CR H4950-4951; text: CR H4950)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A023) offered by Ms. Ocasio-Cortez.(consideration: CR H4951-4952; text: CR H4951)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A024) offered by Ms. Jacobs (CA).(consideration: CR H4952-4954; text: CR H4952)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A025) offered by Mr. Langevin.(consideration: CR H4954-4956; text: CR H4954-4955)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A026) offered by Mr. Bowman.(consideration: CR H4956-4957; text: CR H4956)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A030) offered by Ms. Leger Fernandez.(consideration: CR H5075-5076; text: CR H5075)
+- 2021-09-22 — House amendment offered/reported by: Amendment (A031) offered by Mrs. Torres (CA).(consideration: CR H5076-5078; text: CR H5076-5077)
+- 2021-09-22 — House amendment offered/reported by: Amendments en bloc (A014) offered by Mr. Smith (WA).
+- 2021-09-22 — House amendment offered/reported by: Amendments en bloc (A027) offered by Mr. Smith (WA).(consideration: CR H4957-4989; text: CR H4957-4985)
+- 2021-09-22 — House amendment offered/reported by: Amendments en bloc (A028) offered by Mr. Smith (WA).(consideration: CR H4989-5033; text: CR H4989-5031)
+- 2021-09-22 — House amendment offered/reported by: Amendments en bloc (A029) offered by Mr. Smith (WA).(consideration: CR H5033-5075; text: CR H5033-5073)
+- 2021-09-22 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-22 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2021-09-22 — On agreeing to the DeGette amendment (A008) Agreed to by the Yeas and Nays: 222 - 200 (Roll no. 273).
+- 2021-09-22 — On agreeing to the Dean amendment (A002) Agreed to by the Yeas and Nays: 219 - 204 (Roll no. 269).
+- 2021-09-22 — On agreeing to the Neguse amendment (A009) Agreed to by the Yeas and Nays: 224 - 204 (Roll no. 274).
+- 2021-09-22 — On agreeing to the Plaskett amendment (A003) Agreed to by the Yeas and Nays: 235 - 190 (Roll no. 270).
+- 2021-09-22 — On agreeing to the Schiff amendment (A012) Agreed to by voice vote.
+- 2021-09-22 — On agreeing to the Schiff amendment (A013) Agreed to by voice vote.
+- 2021-09-22 — On agreeing to the Slotkin amendment (A007) Agreed to by the Yeas and Nays: 236 - 186 (Roll no. 272).
+- 2021-09-22 — On agreeing to the Smith (WA) amendments (A014) Agreed to by voice vote.
+- 2021-09-22 — On agreeing to the Tlaib amendment (A006) Agreed to by the Yeas and Nays: 222 - 203 (Roll no. 271).
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bowman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Higgins (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bowman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Wilson (SC) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carolyn B. Maloney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fallon demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Turner demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jacobs(CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Khanna amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Wilson (SC) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tiffany demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Leger Fernandez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Higgins (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meeks amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Wilson (SC) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mfume amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Meuser demanded a the yeas and nays and the Chair postponedfurther proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schrader amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) en bloc No. 2, as modified, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Higgins (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) en bloc No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Higgins (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) en bloc No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Higgins (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Torres (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Higgins (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-09-22 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further consideration of H.R. 4350.
+- 2021-09-22 — Roll call votes on amendments in House
+- 2021-09-22 — Roll call votes on amendments in House
+- 2021-09-22 — Roll call votes on amendments in House
+- 2021-09-22 — Roll call votes on amendments in House
+- 2021-09-22 — Roll call votes on amendments in House
+- 2021-09-22 — Roll call votes on amendments in House
+- 2021-09-22 — Smith (WA) amendment (A027) modified by unanimous consent. Mr. Smith (WA) asked unanimous consent that the amendment numbered 207 printed in Part C of House Report 117-125 be modified in the form placed at the desk. Agreed to without objection.
+- 2021-09-22 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 4350 are postponed.
+- 2021-09-22 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 4350 are postponed.
+- 2021-09-22 — The previous question was ordered on the amendment (A012) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A013) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A014) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A015) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A016) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A017) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A018) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A019) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A020) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A021) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A022) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A023) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A024) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A025) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A026) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A027) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A028) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A029) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A030) pursuant to the rule.
+- 2021-09-22 — The previous question was ordered on the amendment (A031) pursuant to the rule.
+- 2021-09-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of agreeing to amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Bowman amendment (A026) Agreed to by the Yeas and Nays: 234 - 183 (Roll no. 287).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Khanna amendment (A017) Agreed to by the Yeas and Nays: 219 - 207 (Roll no. 278).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Langevin amendment Agreed to by the Yeas and Nays: 225 - 187 (Roll no. 286).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Leger Fernandez amendment (A030) Agreed to by the Yeas and Nays: 240 - 185 (Roll no. 291).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Maloney, Carolyn B. amendment (A019) Agreed to by the Yeas and Nays: 223 - 202 (Roll no. 280).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Meeks amendment (A018) Agreed to by the Yeas and Nays: 223 - 204 (Roll no. 279).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Mfume amendment (A016) Agreed to by the Yeas and Nays: 219 - 202 (Roll no. 277).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A027) as modified Agreed to by the Yeas and Nays: 367 - 59 (Roll no. 288).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A028) Agreed to by the Yeas and Nays: 362 - 59 (Roll no. 289).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A029) Agreed to by the Yeas and Nays: 360 - 66 (Roll no. 290).
+- 2021-09-23 — Amendment agreed to by House: On agreeing to the Torres (CA) amendment (A031) Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 292).
+- 2021-09-23 — Amendment failed by House: On agreeing to the Bowman amendment (A015) Failed by the Yeas and Nays: 141 - 286 (Roll no. 276).
+- 2021-09-23 — Amendment failed by House: On agreeing to the Garamendi amendment (A021) Failed by the Yeas and Nays: 118 - 299 (Roll no. 282).
+- 2021-09-23 — Amendment failed by House: On agreeing to the Jacobs (CA) amendment (A024) Failed by the Yeas and Nays: 142 - 286 (Roll no. 285).
+- 2021-09-23 — Amendment failed by House: On agreeing to the Johnson (GA) amendment (A020) Failed by the Yeas and Nays: 198 - 231 (Roll no. 281).
+- 2021-09-23 — Amendment failed by House: On agreeing to the Ocasio-Cortez amendment (A023) Failed by the Yeas and Nays: 86 - 332 (Roll no. 284).
+- 2021-09-23 — Amendment failed by House: On agreeing to the Schrader amendment (A022) Failed by the Yeas and Nays: 167 - 256 (Roll no. 283).
+- 2021-09-23 — Considered as unfinished business. (consideration: CR H5115-5128)
+- 2021-09-23 — House amendment agreed to: On agreeing to the Bowman amendment (A026) Agreed to by the Yeas and Nays: 234 - 183 (Roll no. 287).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Khanna amendment (A017) Agreed to by the Yeas and Nays: 219 - 207 (Roll no. 278).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by the Yeas and Nays: 225 - 187 (Roll no. 286).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Leger Fernandez amendment (A030) Agreed to by the Yeas and Nays: 240 - 185 (Roll no. 291).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Maloney, Carolyn B. amendment (A019) Agreed to by the Yeas and Nays: 223 - 202 (Roll no. 280).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Meeks amendment (A018) Agreed to by the Yeas and Nays: 223 - 204 (Roll no. 279).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Mfume amendment (A016) Agreed to by the Yeas and Nays: 219 - 202 (Roll no. 277).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A027) as modified Agreed to by the Yeas and Nays: 367 - 59 (Roll no. 288).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A028) Agreed to by the Yeas and Nays: 362 - 59 (Roll no. 289).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A029) Agreed to by the Yeas and Nays: 360 - 66 (Roll no. 290).
+- 2021-09-23 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A031) Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 292).
+- 2021-09-23 — House amendment not agreed to: On agreeing to the Bowman amendment (A015) Failed by the Yeas and Nays: 141 - 286 (Roll no. 276).
+- 2021-09-23 — House amendment not agreed to: On agreeing to the Garamendi amendment (A021) Failed by the Yeas and Nays: 118 - 299 (Roll no. 282).
+- 2021-09-23 — House amendment not agreed to: On agreeing to the Jacobs (CA) amendment (A024) Failed by the Yeas and Nays: 142 - 286 (Roll no. 285).
+- 2021-09-23 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A020) Failed by the Yeas and Nays: 198 - 231 (Roll no. 281).
+- 2021-09-23 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A023) Failed by the Yeas and Nays: 86 - 332 (Roll no. 284).
+- 2021-09-23 — House amendment not agreed to: On agreeing to the Schrader amendment (A022) Failed by the Yeas and Nays: 167 - 256 (Roll no. 283).
+- 2021-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-23 — On agreeing to the Bowman amendment (A015) Failed by the Yeas and Nays: 141 - 286 (Roll no. 276).
+- 2021-09-23 — On agreeing to the Bowman amendment (A026) Agreed to by the Yeas and Nays: 234 - 183 (Roll no. 287).
+- 2021-09-23 — On agreeing to the Garamendi amendment (A021) Failed by the Yeas and Nays: 118 - 299 (Roll no. 282).
+- 2021-09-23 — On agreeing to the Jacobs (CA) amendment (A024) Failed by the Yeas and Nays: 142 - 286 (Roll no. 285).
+- 2021-09-23 — On agreeing to the Johnson (GA) amendment (A020) Failed by the Yeas and Nays: 198 - 231 (Roll no. 281).
+- 2021-09-23 — On agreeing to the Khanna amendment (A017) Agreed to by the Yeas and Nays: 219 - 207 (Roll no. 278).
+- 2021-09-23 — On agreeing to the Langevin amendment Agreed to by the Yeas and Nays: 225 - 187 (Roll no. 286).
+- 2021-09-23 — On agreeing to the Leger Fernandez amendment (A030) Agreed to by the Yeas and Nays: 240 - 185 (Roll no. 291).
+- 2021-09-23 — On agreeing to the Maloney, Carolyn B. amendment (A019) Agreed to by the Yeas and Nays: 223 - 202 (Roll no. 280).
+- 2021-09-23 — On agreeing to the Meeks amendment (A018) Agreed to by the Yeas and Nays: 223 - 204 (Roll no. 279).
+- 2021-09-23 — On agreeing to the Mfume amendment (A016) Agreed to by the Yeas and Nays: 219 - 202 (Roll no. 277).
+- 2021-09-23 — On agreeing to the Ocasio-Cortez amendment (A023) Failed by the Yeas and Nays: 86 - 332 (Roll no. 284).
+- 2021-09-23 — On agreeing to the Schrader amendment (A022) Failed by the Yeas and Nays: 167 - 256 (Roll no. 283).
+- 2021-09-23 — On agreeing to the Smith (WA) amendments (A027) as modified Agreed to by the Yeas and Nays: 367 - 59 (Roll no. 288).
+- 2021-09-23 — On agreeing to the Smith (WA) amendments (A028) Agreed to by the Yeas and Nays: 362 - 59 (Roll no. 289).
+- 2021-09-23 — On agreeing to the Smith (WA) amendments (A029) Agreed to by the Yeas and Nays: 360 - 66 (Roll no. 290).
+- 2021-09-23 — On agreeing to the Torres (CA) amendment (A031) Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 292).
+- 2021-09-23 — On passage Passed by the Yeas and Nays: 316 - 113 (Roll no. 293).
+- 2021-09-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 316 - 113 (Roll no. 293).
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — Roll call votes on amendments in House
+- 2021-09-23 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4350.
+- 2021-09-23 — The previous question was ordered pursuant to the rule.
+- 2021-09-23 — The title of the measure was amended. Agreed to without objection.
