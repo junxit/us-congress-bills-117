@@ -1,0 +1,24 @@
+---
+legis-num: S. 2842
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2842
+
+> To amend title 10, United States Code, to prohibit the Secretary of Defense from requiring that members of the Armed Forces receive a COVID–19 vaccine, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Respecting Our Ser­vice­mem­bers Act”.
+
+## § 2. Prohibition on COVID–19 vaccination requirements for members of the Armed Forces
+
+- **(a)** *In general* Chapter 55 of title 10, United States Code, is amended by inserting after section 1110b the following new section:
+  > ## § 1110c. Prohibition on COVID–19 vaccination requirement
+  >
+  > - **(a)** *In general* The Secretary of Defense may not require any member of an Armed Force to receive a vaccine with respect to the Coronavirus Disease 2019 (COVID–19).
+  > - **(b)** *Member of an Armed Force defined* In this section the term member of an Armed Force means a member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or Space Force, including any member of a reserve component thereof on active service or active status.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 55 of such title is amended by inserting after the item relating to section 1110b the following new item:
