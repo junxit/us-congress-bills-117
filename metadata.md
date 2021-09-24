@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3755
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3755
@@ -16,7 +16,7 @@ Women's Health Protection Act of 2021
 
 - Rep. Chu, Judy [D-CA-27] (C001080)
 
-## Cosponsors (172)
+## Cosponsors (215)
 
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
@@ -190,6 +190,49 @@ Women's Health Protection Act of 2021
 - Rep. Manning, Kathy E. [D-NC-6] (M001135)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
 ## Committees (1)
 
@@ -200,3 +243,19 @@ Women's Health Protection Act of 2021
 - 2021-06-08 — Introduced in House
 - 2021-06-08 — Introduced in House
 - 2021-06-08 — Referred to the House Committee on Energy and Commerce.
+- 2021-06-09 — Referred to the Subcommittee on Health.
+- 2021-09-21 — Rules Committee Resolution H. Res. 667 Reported to House. Rule provides for consideration of H.R. 3755, H.R. 4350 and H.R. 5305. Rule provides for one hour of debate on H.R. 3755; one hour of debate on H.R. 4350, with consideration under a structured rule; and one hour of debate on H.R. 5305, with consideration under a closed rule. The rule provides that proceedings may be postponed through October 1, 2021, on measures that were the object of motions to suspend the rules on the legislative days of July 26, July 27, or September 21, 2021 and on which the yeas and nays were ordered. The rule provides that House Resolution 188, agreed to March 8, 2021, is further amended by striking "September 22, 2021" and inserting "October 27, 2021".
+- 2021-09-24 — Amendment reported by the House Committee on Rules. (consideration: CR H5139-5159; text: CR H5139-5142)
+- 2021-09-24 — Considered under the provisions of rule H. Res. 667. (consideration: CR H5139-5159)
+- 2021-09-24 — DEBATE - The House proceeded with one hour of debate on H.R. 3755.
+- 2021-09-24 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-09-24 — House amendment offered
+- 2021-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-24 — Ms. Letlow moved to recommit to the Committee on Energy and Commerce. (text: CR H5157)
+- 2021-09-24 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-09-24 — On motion to recommit Failed by the Yeas and Nays: 210 - 219 (Roll no. 294).
+- 2021-09-24 — On passage Passed by the Yeas and Nays: 218 - 211 (Roll no. 295).
+- 2021-09-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 211 (Roll no. 295).
+- 2021-09-24 — Rule provides for consideration of H.R. 3755, H.R. 4350 and H.R. 5305. Rule provides for one hour of debate on H.R. 3755; one hour of debate on H.R. 4350, with consideration under a structured rule; and one hour of debate on H.R. 5305, with consideration under a closed rule. The rule provides that proceedings may be postponed through October 1, 2021, on measures that were the object of motions to suspend the rules on the legislative days of July 26, July 27, or September 21, 2021 and on which the yeas and nays were ordered. The rule provides that House Resolution 188, agreed to March 8, 2021, is further amended by striking "September 22, 2021" and inserting "October 27, 2021".
+- 2021-09-24 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-09-24 — The previous question was ordered pursuant to the rule.

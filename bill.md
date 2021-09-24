@@ -60,7 +60,7 @@ This Act may be cited as the “Women’s Health Protection Act of 2021”.
 In this Act:
 
 - **(1)** *Abortion services* The term abortion services means an abortion and any medical or non-medical services related to and provided in conjunction with an abortion (whether or not provided at the same time or on the same day as the abortion).
-- **(2)** *Government* The term government includes each branch, department, agency, instrumentality, and official (and other person acting under color of law) of the United States or a State.
+- **(2)** *Government* The term government includes each branch, department, agency, instrumentality, and official of the United States or a State.
 - **(3)** *Health care provider* The term health care provider means any entity or individual (including any physician, certified nurse-midwife, nurse practitioner, and physician assistant) that—
   - **(A)** is engaged or seeks to engage in the delivery of health care services, including abortion services, and
   - **(B)** if required by law or regulation to be licensed or certified to engage in the delivery of such services—
@@ -68,7 +68,7 @@ In this Act:
     - **(ii)** would be so licensed or certified but for their past, present, or potential provision of abortion services permitted by section 4.
 - **(4)** *Medically comparable procedure* The term medically comparable procedures means medical procedures that are similar in terms of health and safety risks to the patient, complexity, or the clinical setting that is indicated.
 - **(5)** *Pregnancy* The term pregnancy refers to the period of the human reproductive process beginning with the implantation of a fertilized egg.
-- **(6)** *State* The term State includes the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States, and any subdivision of any of the foregoing.
+- **(6)** *State* The term State includes the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States, and any subdivision of any of the foregoing, including any unit of local government, such as a county, city, town, village, or other general purpose political subdivision of a State.
 - **(7)** *Viability* The term viability means the point in a pregnancy at which, in the good-faith medical judgment of the treating health care provider, based on the particular facts of the case before the health care provider, there is a reasonable likelihood of sustained fetal survival outside the uterus with or without artificial support.
 
 ## § 4. Permitted services
@@ -85,7 +85,7 @@ In this Act:
   - **(9)** A prohibition on abortion after fetal viability when, in the good-faith medical judgment of the treating health care provider, continuation of the pregnancy would pose a risk to the pregnant patient’s life or health.
   - **(10)** A limitation on a health care provider’s ability to provide immediate abortion services when that health care provider believes, based on the good-faith medical judgment of the provider, that delay would pose a risk to the patient’s health.
   - **(11)** A requirement that a patient seeking abortion services at any point or points in time prior to fetal viability disclose the patient’s reason or reasons for seeking abortion services, or a limitation on the provision or obtaining of abortion services at any point or points in time prior to fetal viability based on any actual, perceived, or potential reason or reasons of the patient for obtaining abortion services, regardless of whether the limitation is based on a health care provider’s degree of actual or constructive knowledge of such reason or reasons.
-- **(b)** *Other Limitations or Requirements* A health care provider has a statutory right to provide abortion services, and may provide abortion services, and that provider’s patient has a corresponding right to receive such services, without a limitation or requirement that—
+- **(b)** *Other Limitations or Requirements* The statutory right specified in subsection (a) shall not be limited or otherwise infringed through, in addition to the limitations and requirements specified in paragraphs (1) through (11) of subsection (a), any limitation or requirement that—
   - **(1)** is the same as or similar to one or more of the limitations or requirements described in subsection (a); or
   - **(2)** both—
     - **(A)** expressly, effectively, implicitly, or as implemented singles out the provision of abortion services, health care providers who provide abortion services, or facilities in which abortion services are provided; and
@@ -105,33 +105,35 @@ In this Act:
 ## § 5. Applicability and preemption
 
 - **(a)** *In general*
-  - **(1)** Except as stated under subsection (b), this Act supersedes and applies to the law of the Federal Government and each State government, and the implementation of such law, whether statutory, common law, or otherwise, and whether adopted before or after the date of enactment of this Act, and neither the Federal Government nor any State government shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law that conflicts with any provision of this Act, notwithstanding any other provision of Federal law, including the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb et seq.).
+  - **(1)** Except as stated under subsection (b), this Act supersedes and applies to the law of the Federal Government and each State government, and the implementation of such law, whether statutory, common law, or otherwise, and whether adopted before or after the date of enactment of this Act, and neither the Federal Government nor any State government shall administer, implement, or enforce any law, rule, regulation, standard, or other provision having the force and effect of law that conflicts with any provision of this Act, notwithstanding any other provision of Federal law, including the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb et seq.).
   - **(2)** Federal statutory law adopted after the date of the enactment of this Act is subject to this Act unless such law explicitly excludes such application by reference to this Act.
 - **(b)** *Limitations* The provisions of this Act shall not supersede or apply to—
   - **(1)** laws regulating physical access to clinic entrances;
   - **(2)** insurance or medical assistance coverage of abortion services;
   - **(3)** the procedure described in section 1531(b)(1) of title 18, United States Code; or
   - **(4)** generally applicable State contract law.
+- **(c)** *Defense* In any cause of action against an individual or entity who is subject to a limitation or requirement that violates this Act, in addition to the remedies specified in section 8, this Act shall also apply to, and may be raised as a defense by, such an individual or entity.
 
 ## § 6. Effective date
 
 This Act shall take effect immediately upon the date of enactment of this Act. This Act shall apply to all restrictions on the provision of, or access to, abortion services whether the restrictions are enacted or imposed prior to or after the date of enactment of this Act, except as otherwise provided in this Act.
 
-## § 7. Liberal construction
+## § 7. Rules of construction
 
-- **(a)** *Liberal Construction* In interpreting the provisions of this Act, a court shall liberally construe such provisions to effectuate the purposes of the Act.
+- **(a)** *In General* In interpreting the provisions of this Act, a court shall liberally construe such provisions to effectuate the purposes of the Act.
 - **(b)** *Rule of Construction* Nothing in this Act shall be construed to authorize any government to interfere with a person’s ability to terminate a pregnancy, to diminish or in any way negatively affect a person’s constitutional right to terminate a pregnancy, or to displace any other remedy for violations of the constitutional right to terminate a pregnancy.
+- **(c)** *Other Individuals Considered as Government Officials* Any person who, by operation of a provision of Federal or State law, is permitted to implement or enforce a limitation or requirement that violates section 4 of this Act shall be considered a government official for purposes of this Act.
 
 ## § 8. Enforcement
 
-- **(a)** *Attorney General* The Attorney General may commence a civil action for prospective injunctive relief on behalf of the United States against any government official that is charged with implementing or enforcing any limitation or requirement that is challenged as a violation of a statutory right under this Act. The court shall hold unlawful and set aside the limitation or requirement if it is in violation of this Act.
+- **(a)** *Attorney General* The Attorney General may commence a civil action on behalf of the United States against any State that violates, or against any government official (including a person described in section 7(c)) that implements or enforces a limitation or requirement that violates, section 4. The court shall hold unlawful and set aside the limitation or requirement if it is in violation of this Act.
 - **(b)** *Private Right of Action*
-  - **(1)** *In general* Any individual or entity, including any health care provider, aggrieved by an alleged violation of this Act may commence a civil action for prospective injunctive relief against the government official that is charged with implementing or enforcing the limitation or requirement that is challenged as a violation of a statutory right under this Act. The court shall hold unlawful and set aside the limitation or requirement if it is in violation of this Act.
-  - **(2)** *Health care provider* A health care provider may commence an action for prospective injunctive relief on its own behalf and/or on behalf of the provider’s patients who are or may be adversely affected by an alleged violation of this Act.
+  - **(1)** *In general* Any individual or entity, including any health care provider or patient, adversely affected by an alleged violation of this Act, may commence a civil action against any State that violates, or against any government official (including a person described in section 7(c)) that implements or enforces a limitation or requirement that violates, section 4. The court shall hold unlawful and set aside the limitation or requirement if it is in violation of this Act.
+  - **(2)** *Health care provider* A health care provider may commence an action for relief on its own behalf, on behalf of the provider’s staff, and on behalf of the provider’s patients who are or may be adversely affected by an alleged violation of this Act.
 - **(c)** *Equitable Relief* In any action under this section, the court may award appropriate equitable relief, including temporary, preliminary, or permanent injunctive relief.
-- **(d)** *Costs* In any action under this section, the court shall award costs of litigation, as well as reasonable attorney fees, to any prevailing plaintiff. A plaintiff shall not be liable to a defendant for costs in any non-frivolous action under this section.
+- **(d)** *Costs* In any action under this section, the court shall award costs of litigation, as well as reasonable attorney’s fees, to any prevailing plaintiff. A plaintiff shall not be liable to a defendant for costs or attorney’s fees in any non-frivolous action under this section.
 - **(e)** *Jurisdiction* The district courts of the United States shall have jurisdiction over proceedings under this Act and shall exercise the same without regard to whether the party aggrieved shall have exhausted any administrative or other remedies that may be provided for by law.
-- **(f)** *Abrogation of State Immunity* A State shall not be immune under the Eleventh Amendment to the Constitution of the United States from an action in Federal or State court of competent jurisdiction for a violation of this Act. In any action against a State for a violation of the requirements of this Act, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in an action against any public or private entity other than a State.
+- **(f)** *Abrogation of State Immunity* Neither a State that enforces or maintains, nor a government official (including a person described in section 7(c)) who is permitted to implement or enforce any limitation or requirement that violates section 4 shall be immune under the Tenth Amendment to the Constitution of the United States, the Eleventh Amendment to the Constitution of the United States, or any other source of law, from an action in a Federal or State court of competent jurisdiction challenging that limitation or requirement.
 
 ## § 9. Severability
 
