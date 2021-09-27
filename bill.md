@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Eliminating a Quantifiably Unjust Application of the Law Act” or the “EQUAL Act”.
+This Act may be cited as the “Eliminating a Quantifiably Unjust Application of the Law Act of 2021” or the “EQUAL Act of 2021”.
 
 ## § 2. Elimination of increased penalties for cocaine offenses where the cocaine involved is cocaine base
 
@@ -23,4 +23,13 @@ This Act may be cited as the “Eliminating a Quantifiably Unjust Application of
   - **(2)** Subparagraph (C) of section 1010(b)(2) (21 U.S.C. 960(b)(2)).
 - **(c)** *Applicability to pending and past cases*
   - **(1)** *Pending cases* This section, and the amendments made by this section, shall apply to any sentence imposed after the date of enactment of this Act, regardless of when the offense was committed.
-  - **(2)** *Past cases* In the case of a defendant who, before the date of enactment of this Act, was convicted or sentenced for a Federal offense involving cocaine base, the sentencing court may, on motion of the defendant, the Bureau of Prisons, the attorney for the Government, or on its own motion, impose a reduced sentence after considering the factors set forth in section 3553(a) of title 18, United States Code.
+  - **(2)** *Past cases*
+    - **(A)** *In general* In the case of a defendant who, on or before the date of enactment of this Act, was sentenced for a Federal offense described in subparagraph (B), the sentencing court may, on motion of the defendant, the Bureau of Prisons, the attorney for the Government, or on its own motion, impose a reduced sentence after considering the factors set forth in section 3553(a) of title 18, United States Code.
+    - **(B)** *Federal offense described* A Federal offense described in this subparagraph is an offense that involves cocaine base that is an offense under one of the following:
+      - **(i)** Section 401 of the Controlled Substances Act (21 U.S.C. 841).
+      - **(ii)** Section 1010 of the Controlled Substances Import and Export Act (21 U.S.C. 960).
+      - **(iii)** Section 404(a) of the Controlled Substances Act (21 U.S.C. 844(a)).
+      - **(iv)** Any other Federal criminal offense, the conduct or penalties for which were established by reference to a provision described in clause (i), (ii), or (iii).
+    - **(C)** *Defendant not required to be present* Notwithstanding Rule 43 of the Federal Rules of Criminal Procedure, the defendant is not required to be present at any hearing on whether to impose a reduced sentence pursuant to this paragraph.
+    - **(D)** *No reduction for previously reduced sentences* A court may not consider a motion made under this paragraph to reduce a sentence if the sentence was previously imposed or previously reduced in accordance with this Act.
+    - **(E)** *No requirement to reduce sentence* Nothing in this paragraph may be construed to require a court to reduce a sentence pursuant to this paragraph.
