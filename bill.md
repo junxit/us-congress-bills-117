@@ -15,7 +15,7 @@ This act may be cited as the “Agricultural Fairs Rescue Act”.
 
 ## § 2. Agricultural Fair Rescue Grants
 
-- **(a)** *In general* Not later than September 30, 2021, the Secretary of Agriculture, acting through the Administrator of the Agricultural Marketing Service, shall award a grant to each State department of agriculture (or other appropriate State agency assigned with the promotion of agricultural fairs) for the purposes of providing support to eligible agricultural fairs for losses sustained by such fairs due to COVID–19.
+- **(a)** *In general* Not later than 180 days after the date on which funds are made available to carry out this section, the Secretary of Agriculture, acting through the Administrator of the Agricultural Marketing Service, shall award a grant to each State department of agriculture (or other appropriate State agency assigned with the promotion of agricultural fairs) for the purposes of providing support to eligible agricultural fairs for losses sustained by such fairs due to COVID–19.
 - **(b)** *Amount of grant* The amount of a grant to a State or State department of agriculture under this section shall be based on the difference between the average attendance at agricultural fairs in the State for a calendar year occurring during the 3-calendar-year period beginning with calendar year 2017 (or over a shorter period, if attendance data is not available for the entire 3-calendar-year period) compared to calendar year 2020.
 - **(c)** *Conditions* As a condition on the receipt of a grant under this section, a State or State department of agriculture shall agree—
   - **(1)** to prioritize supporting eligible agricultural fairs in the State facing the greatest financial hardship; and
@@ -29,7 +29,7 @@ This act may be cited as the “Agricultural Fairs Rescue Act”.
   - **(4)** agree to use all grant funds within the 18-month period that begins on the date on which such funds are received; and
   - **(5)** agree to use funds received pursuant to this section for operating capital expenses, to reimburse operating expenses paid from reserves not originally intended for operating expenses, repay indebtedness incurred to pay operating expenses, or repay other third parties that contributed to funding operating expenses, but not for capital improvements.
 - **(e)** *Funding*
-  - **(1)** *In general* There is authorized to be appropriated to make grants under this section $500,000,000 for fiscal year 2021, each succeeding fiscal year occurring during the COVID–19 national emergency, and the first fiscal year immediately following the termination of such national emergency.
+  - **(1)** *In general* There is authorized to be appropriated to make grants under this section $500,000,000 for fiscal year 2022, each succeeding fiscal year occurring during the COVID–19 national emergency, and the first fiscal year immediately following the termination of such national emergency.
   - **(2)** *Administrative expenses* Of the funds made available under paragraph (1) to carry out this section for a fiscal year, not more than 8 percent may be used for expenses related to administering the program under this section.
 - **(f)** *Definitions* In this section:
   - **(1)** *Eligible agricultural fair* The term eligible agricultural fair means a local, county, or State fair that—
