@@ -13,7 +13,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Cambodia Democracy Act of 2021”.
 
-## § 2. Sanctions relating to undermining democracy in Cambodia
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Prime Minister Hun Sen has been in power in Cambodia since 1985 and is the longest-serving leader in Southeast Asia. Despite decades of international attention and assistance to promote a pluralistic, multi-party democratic system in Cambodia, the Government of Cambodia continues to be undemocratically dominated by the ruling Cambodia People’s Party (CPP), which controls every agency and security apparatus of the state.
+- **(2)** The Government of Cambodia has taken several measures, particularly since 2017 and during the COVID–19 pandemic, to restrict Cambodia’s space for civil society and media environment, especially through politicized tax investigations against independent media outlets.
+- **(3)** On September 3, 2017, Kem Sokha, the President of the Cambodia National Rescue Party (CNRP), was arrested on politically motivated charges and faces up to 30 years in prison. On November 16, 2017, Cambodia’s Supreme Court dissolved the CNRP, eliminating the primary opposition party. While Kem Sokha is no longer in prison, his movements are restricted, he is prohibited from engaging in political activity, and his charges remain pending. The CNRP’s previous leader, Sam Rainsy, remains in unofficial exile, and has been prevented from returning to the country.
+- **(4)** Since the CNRP’s dissolution, the Government of Cambodia has arrested, imprisoned, or brought politically motivated charges against CNRP leaders and activists. Starting in November 2020, the Government of Cambodia has held a series of mass trials for over 100 individuals affiliated with the CNRP.
+- **(5)** Since 1991, the elections that have taken place in Cambodia were conducted in circumstances that were not free, fair, and credible or were marked by fraud, intimidation, violence, and the government’s misuse of legal mechanisms to weaken opposition candidates and parties.
+- **(6)** The United States is committed to promoting democracy, human rights, and the rule of law in Cambodia. The United States continues to urge the Government of Cambodia to immediately drop charges against Kem Sokha, reinstate the political status of the CNRP and restore its elected seats in the National Assembly, and support electoral reform efforts in Cambodia with free, fair, and credible elections monitored by international observers.
+
+## § 3. Sanctions relating to undermining democracy in Cambodia
 
 - **(a)** *Designation of persons responsible for undermining democracy in Cambodia*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall designate and transmit to the appropriate congressional committees a list of—
@@ -42,7 +53,7 @@ This Act may be cited as the “Cambodia Democracy Act of 2021”.
   - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
   - **(2)** *Good defined* In this subsection, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
-## § 3. Suspension of sanctions
+## § 4. Suspension of sanctions
 
 - **(a)** *Suspension* The sanctions described in section 3 may be suspended for up to 1-year upon certification by the President to the appropriate congressional committees that Cambodia is making meaningful progress toward the following:
   - **(1)** Ending government efforts to undermine democracy.
@@ -50,15 +61,15 @@ This Act may be cited as the “Cambodia Democracy Act of 2021”.
   - **(3)** Conducting free and fair elections which allow for the active participation of credible opposition candidates.
 - **(b)** *Renewal of suspension* The suspension described in subsection (a) may be renewed for additional, consecutive-day periods if the President certifies to the appropriate congressional committees that Cambodia is continuing to make meaningful progress towards satisfying the conditions described in such subsection during the previous year.
 
-## § 4. Determination of budgetary effects
+## § 5. Determination of budgetary effects
 
 The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
 
-## § 5. Sunset
+## § 6. Sunset
 
 This Act shall terminate on the date that is 5 years after the date of the enactment of this Act.
 
-## § 6. Definitions
+## § 7. Definitions
 
 In this Act:
 
