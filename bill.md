@@ -33,3 +33,7 @@ This Act may be cited as the “Eliminating a Quantifiably Unjust Application of
     - **(C)** *Defendant not required to be present* Notwithstanding Rule 43 of the Federal Rules of Criminal Procedure, the defendant is not required to be present at any hearing on whether to impose a reduced sentence pursuant to this paragraph.
     - **(D)** *No reduction for previously reduced sentences* A court may not consider a motion made under this paragraph to reduce a sentence if the sentence was previously imposed or previously reduced in accordance with this Act.
     - **(E)** *No requirement to reduce sentence* Nothing in this paragraph may be construed to require a court to reduce a sentence pursuant to this paragraph.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

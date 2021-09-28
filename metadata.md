@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1693
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1693
@@ -96,3 +96,11 @@ EQUAL Act of 2021
 - 2021-09-27 — Placed on the Union Calendar, Calendar No. 92.
 - 2021-09-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-128, Part I.
 - 2021-09-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-128, Part I.
+- 2021-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-09-28 — Considered as unfinished business. (consideration: CR H5492-5493)
+- 2021-09-28 — Considered under suspension of the rules. (consideration: CR H5477-5481)
+- 2021-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1693.
+- 2021-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-28 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
+- 2021-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 361 - 66 (Roll no. 297). (text: CR H5477)
+- 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 361 - 66 (Roll no. 297).(text: CR H5477)
