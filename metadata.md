@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1154
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1154
@@ -43,3 +43,7 @@ Great Dismal Swamp National Heritage Area Act
 - 2021-07-26 — Placed on the Union Calendar, Calendar No. 77.
 - 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-104.
 - 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-104.
+- 2021-09-28 — Considered as unfinished business. (consideration: CR H5496-5497)
+- 2021-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 36 (Roll no. 303). (text: CR 7/26/2021 H3860)
+- 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 36 (Roll no. 303).(text: CR 7/26/2021 H3860)
