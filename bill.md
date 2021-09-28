@@ -1,0 +1,18 @@
+---
+legis-num: S. 2879
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2879
+
+> To provide that Executive Orders 14042 and 14043 shall have no force or effect.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Vaccine Mandates Act”.
+
+## § 2. Executive Orders 14042 and 14043
+
+The provisions of Executive Order 14042 (86 Fed. Reg. 50985; relating to ensuring adequate COVID safety protocols for Federal contractors) and Executive Order 14043 (86 Fed. Reg. 50989; relating to requiring Coronavirus Disease 2019 vaccination for Federal employees) are rescinded and shall have no force or effect.
