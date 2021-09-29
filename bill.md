@@ -23,10 +23,12 @@ This Act may be cited as the “Unmanned Aerial Security Act” or the “UAS Ac
     - **(D)** uses network connectivity or data storage located in a covered foreign country or administered by a corporation domiciled in a covered foreign country;
   - **(2)** a software operating system associated with a UAS that uses network connectivity or data storage located in a covered foreign country or administered by a corporation domiciled in a covered foreign country; or
   - **(3)** a system for the detection or identification of a UAS, which system is manufactured in a covered foreign country or by a corporation domiciled in a covered foreign country.
-- **(b)** *Waiver* The Secretary of Homeland Security is authorized to waive the prohibition under subsection (a) if the Secretary certifies in writing to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS referred to in any of paragraphs (1) through (3) of such subsection that is the subject of such a waiver is required—
-  - **(1)** in the national interest of the United States;
-  - **(2)** for counter-UAS surrogate research, testing, development, evaluation, or training; or
-  - **(3)** for intelligence, electronic warfare, or information warfare operations, testing, analysis, and or training.
+- **(b)** *Waiver*
+  - **(1)** *In general* The Secretary of Homeland Security is authorized to waive the prohibition under subsection (a) if the Secretary certifies in writing to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS referred to in any of subparagraphs (A) through (C) of such subsection that is the subject of such a waiver is required—
+    - **(A)** in the national interest of the United States;
+    - **(B)** for counter-UAS surrogate research, testing, development, evaluation, or training; or
+    - **(C)** for intelligence, electronic warfare, or information warfare operations, testing, analysis, and or training.
+  - **(2)** *Notice* The certification described in paragraph (1) shall be submitted to the Committees specified in such paragraph by not later than the date that is 14 days after the date on which a waiver is issued under such paragraph.
 - **(c)** *Effective dates*
   - **(1)** *In general* This Act shall take effect on the date that is 120 days after the date of the enactment of this Act.
   - **(2)** *Waiver process* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security shall establish a process by which the head of an office or component of the Department of Homeland Security may request a waiver under subsection (b).
@@ -37,7 +39,7 @@ This Act may be cited as the “Unmanned Aerial Security Act” or the “UAS Ac
     - **(B)** one year after the date of the enactment of this Act,
 - **(d)** *Drone origin security report to Congress* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a terrorism threat assessment and report that contains information relating to the following:
   - **(1)** The extent to which the Department of Homeland Security has previously analyzed the threat that a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS from a covered foreign country operating in the United States poses, and the results of such analysis.
-  - **(2)** The number of UAS, software operating systems associated with a UAS, or systems for the detection or identification of a UAS from a covered foreign country in operation by the Department as of such date.
+  - **(2)** The number of UAS, software operating systems associated with a UAS, or systems for the detection or identification of a UAS from a covered foreign country in operation by the Department, including an identification of the component or office of the Department at issue, as of such date.
   - **(3)** The extent to which information gathered by such a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS from a covered foreign country could be employed to harm the national or economic security of the United States.
 - **(e)** *Definitions* In this section:
   - **(1)** *Covered foreign country* The term “covered foreign country” means a country that—
