@@ -1,0 +1,32 @@
+---
+legis-num: H. RES. 690
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 690
+
+> Disapproving the action of Major League Baseball to move one of their equipment production facilities to China and encouraging Major League Baseball to buy American-made products.
+
+## Preamble
+
+- Whereas, for more than two decades, Miken Sports has been located in the Minnesota community of Caledonia, a small town of roughly 2,800 people;
+- Whereas Miken Sports is one of the largest employers in the rural town of Caledonia, Minnesota;
+- Whereas the Miken Sports plant produces the baseball helmets for Major League Baseball, and non-wood bats for baseball and softball recreational use;
+- Whereas Miken Sports is partially owned by Major League Baseball;
+- Whereas the Miken Sports plant in Caledonia, Minnesota, plans to close their doors and move their bat production facility to China, removing the Caledonia community of one of their largest employers and economic contributors;
+- Whereas Caledonia will consequently face significant economic hardship from the loss of one of their largest employers;
+- Whereas Miken Sports is an integral small business in the Caledonia, Minnesota, community that employed nearly 150 people and contributed greatly to the local economy;
+- Whereas Major League Baseball has become increasingly active in China;
+- Whereas, for years, Major League Baseball has benefitted greatly due to a unique exemption from Federal antitrust law that other professional sports do not have;
+- Whereas Major League Baseball has received billions of dollars in taxpayers support and Federal breaks on bonds;
+- Whereas in exchange, Major League Baseball should support the American economy and not move jobs away from American workers to China;
+- Whereas prioritizing American jobs and manufacturing helps strengthen the economy and reduce the country’s reliance on foreign-made products; and
+- Whereas moving jobs to China is incompatible with Major League Baseball’s position as America’s pastime: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** urges Major League Baseball to reverse the planned closure of the Miken Sports production facility in Caledonia, Minnesota;
+- **(2)** calls on Major League Baseball to buy products that are made in America; and
+- **(3)** disapproves of Major League Baseball’s dealings with China.
