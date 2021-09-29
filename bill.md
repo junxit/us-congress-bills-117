@@ -74,7 +74,7 @@ In this Act:
     - **(C)** based in whole or in part on the contribution of the employee to the agency in which the employee performed such service, as communicated from that agency to the employing agency of the employee.
 - **(c)** *Program requirements for rotational service*
   - **(1)** *In general* An employee serving in a cyber workforce position in an agency may, with the approval of the head of the agency, submit an application for detail to a rotational cyber workforce position that appears on the list developed under section 3(b).
-  - **(2)** *OPM approval for certain positions* An employee serving in a position in the excepted service may only be selected for a rotational cyber workforce position that is in the competitive service with the prior approval of the Office of Personnel Management, in accordance with section 300.301 of title 5, Code of Federal Regulations, or any successor thereto.
+  - **(2)** *Opm approval for certain positions* An employee serving in a position in the excepted service may only be selected for a rotational cyber workforce position that is in the competitive service with the prior approval of the Office of Personnel Management, in accordance with section 300.301 of title 5, Code of Federal Regulations, or any successor thereto.
   - **(3)** *Selection and term*
     - **(A)** *Selection* The head of an agency shall select an employee for a rotational cyber workforce position under the rotational cyber workforce program in a manner that is consistent with the merit system principles under section 2301(b) of title 5, United States Code.
     - **(B)** *Term* Except as provided in subparagraph (C), and notwithstanding section 3341(b) of title 5, United States Code, a detail to a rotational cyber workforce position shall be for a period of not less than 180 days and not more than 1 year.
@@ -100,3 +100,7 @@ Not later than the end of the third fiscal year after the fiscal year in which t
 ## § 6. Sunset
 
 Effective 5 years after the date of enactment of this Act, this Act is repealed.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
