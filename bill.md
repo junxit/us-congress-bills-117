@@ -2,23 +2,19 @@
 legis-num: S. 1301
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1301
 
-> To provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans.
+That the bill from the Senate (S. 1301) entitled “An Act to provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans.”, do pass with the following
 
-## § 1. Short title
+*Strike out all after the enacting clause and insert:*
 
-This Act may be cited as the “Promoting Physical Activity for Americans Act”.
+## § 1. Temporary extension of public debt limit
 
-## § 2. Physical activity recommendations for Americans
-
-- **(a)** *Reports*
-  - **(1)** *In general* Not later than December 31, 2028, and at least every 10 years thereafter, the Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall publish a report that provides physical activity recommendations for the people of the United States. Each such report shall contain physical activity information and recommendations for consideration and use by the general public, and shall be considered, as applicable and appropriate, by relevant Federal agencies in carrying out relevant Federal health programs.
-  - **(2)** *Basis of recommendations* The information contained in each report required under paragraph (1) shall be based on the most current evidence-based scientific and medical knowledge at the time the report is prepared, and shall include additional recommendations for population subgroups, such as children or individuals with disabilities, including information regarding engagement in appropriate physical activity and avoiding inactivity.
-  - **(3)** *Update reports* Not later than 5 years after the publication of the first report under paragraph (1), and at least every 10 years thereafter, the Secretary shall publish an updated report detailing evidence-based practices and highlighting continuing issues with respect to physical activity. The contents of reports under this paragraph may focus on a particular group, subsection, or other division of the general public or on a particular issue relating to physical activity.
-- **(b)** *Interaction with other recommendations* Federal agencies proposing to issue physical activity recommendations that differ from the recommendations in the most recent report published under subsection (a)(1) shall, as applicable and appropriate, take into consideration the recommendations provided through reports issued under this Act.
-- **(c)** *Existing authority not affected* This section is not intended to limit the support of biomedical research by any Federal agency or to limit the presentation or communication of scientific or medical findings or review of such findings by any Federal agency.
-- **(d)** *Limitation* Notwithstanding any other provision of this Act, no physical fitness standard established under this Act shall be binding on any individual as a matter of Federal law or regulation.
+- **(a)** *In general* Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act and ending on December 16, 2022.
+- **(b)** *Special rule relating to obligations issued during extension period* Effective on December 17, 2022, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+  - **(1)** the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on December 17, 2022, exceeds
+  - **(2)** the face amount of such obligations outstanding on the date of the enactment of this Act.
+- **(c)** *Extension limited to necessary obligations* An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before December 17, 2022.
