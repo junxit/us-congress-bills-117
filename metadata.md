@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4686
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4686
@@ -26,11 +26,12 @@ Cambodia Democracy Act of 2021
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Trahan, Lori [D-MA-3] (T000482)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Cambodia Democracy Act of 2021
 - 2021-09-28 — Ms. Wild moved to suspend the rules and pass the bill, as amended.
 - 2021-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 17 (Roll no. 301). (text: CR H5490-5491)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 17 (Roll no. 301).(text: CR H5490-5491)
+- 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
