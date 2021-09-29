@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1154
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1154
@@ -49,3 +49,14 @@ Great Dismal Swamp National Heritage Area Act
 - 2021-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 36 (Roll no. 303). (text: CR 7/26/2021 H3860)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 36 (Roll no. 303).(text: CR 7/26/2021 H3860)
 - 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2022-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9730)
+- 2022-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-21 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-12-21 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-12-22 — Message on Senate action sent to the House.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-331.
+- 2023-01-05 — Became Public Law No: 117-331.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
