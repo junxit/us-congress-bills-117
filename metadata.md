@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4363
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4363
@@ -38,3 +38,9 @@ DHS Contract Reporting Act of 2021
 - 2021-09-14 — Placed on the Union Calendar, Calendar No. 86.
 - 2021-09-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-121.
 - 2021-09-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-121.
+- 2021-09-29 — Considered under suspension of the rules. (consideration: CR H5545-5547)
+- 2021-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4363.
+- 2021-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5545-5546)
+- 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5545-5546)
