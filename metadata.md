@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4094
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4094
@@ -43,3 +43,9 @@ One-Stop Pilot Program Act of 2021
 - 2021-09-17 — Placed on the Union Calendar, Calendar No. 88.
 - 2021-09-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-123.
 - 2021-09-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-123.
+- 2021-09-29 — Considered under suspension of the rules. (consideration: CR H5541-5544)
+- 2021-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4094.
+- 2021-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5542)
+- 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5542)
