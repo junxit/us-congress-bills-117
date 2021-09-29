@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1228
@@ -31,11 +31,12 @@ Libya Stabilization Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Libya Stabilization Act
 - 2021-09-28 — Ms. Wild moved to suspend the rules and pass the bill, as amended.
 - 2021-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 35 (Roll no. 300). (text: CR H5483-5488)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 35 (Roll no. 300).(text: CR H5483-5488)
+- 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
