@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4981
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4981
@@ -38,3 +38,12 @@ To amend the Fentanyl Sanctions Act, to modify certain deadlines relating to the
 - 2021-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 14 (Roll no. 298). (text: CR H5481)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 14 (Roll no. 298).(text: CR H5481)
 - 2021-09-29 — Received in the Senate, read twice.
+- 2021-10-07 — Message on Senate action sent to the House.
+- 2021-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6947)
+- 2021-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6947)
+- 2021-10-14 — Presented to President.
+- 2021-10-14 — Presented to President.
+- 2021-10-19 — Became Public Law No: 117-51.
+- 2021-10-19 — Became Public Law No: 117-51.
+- 2021-10-19 — Signed by President.
+- 2021-10-19 — Signed by President.
