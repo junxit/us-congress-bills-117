@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4426
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4426
@@ -36,3 +36,14 @@ Homeland Security for Children Act
 - 2021-07-13 — Introduced in House
 - 2021-07-13 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-07-13 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-07-14 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2021-07-14 — Referred to the Subcommittee on Emergency Preparedness, Response, and Recovery.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-07-28 — Subcommittee on Emergency Preparedness, Response, and Recovery Discharged.
+- 2021-09-29 — Considered under suspension of the rules. (consideration: CR H5539-5541)
+- 2021-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4426.
+- 2021-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5539-5540)
+- 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5539-5540)
