@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5323
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5323
@@ -33,3 +33,6 @@ Iron Dome Supplemental Appropriations Act, 2022
 - 2021-09-23 — Ms. DeLauro moved to suspend the rules and pass the bill.
 - 2021-09-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 9, 2 Present (Roll no. 275). (text: CR H5107-5108)
 - 2021-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 9, 2 Present (Roll no. 275).(text: CR H5107-5108)
+- 2021-09-27 — Received in the Senate.
+- 2021-09-28 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2021-09-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.
