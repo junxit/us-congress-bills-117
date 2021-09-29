@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5415
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5415
+
+> To provide the Secretary of the Treasury authority to increase the public debt limit.
+
+## § 1. Short title
+
+This Act may be cited as the “Debt Ceiling Reform Act”.
+
+## § 2. Secretary of Treasury authorized to increase public debt limit
+
+The dollar amount contained in section 3101(b) of title 31, United States Code, shall be treated as being equal to such greater dollar amount as the Secretary of the Treasury may periodically determine. The preceding sentence shall not apply to the extent provided in any subsequently enacted provision of law.
