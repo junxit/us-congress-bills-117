@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1154
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1154
@@ -22,9 +22,10 @@ Great Dismal Swamp National Heritage Area Act
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Great Dismal Swamp National Heritage Area Act
 - 2021-09-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 36 (Roll no. 303). (text: CR 7/26/2021 H3860)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 36 (Roll no. 303).(text: CR 7/26/2021 H3860)
+- 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
