@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1693
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1693
@@ -75,10 +75,11 @@ EQUAL Act of 2021
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ EQUAL Act of 2021
 - 2021-09-28 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
 - 2021-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 361 - 66 (Roll no. 297). (text: CR H5477)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 361 - 66 (Roll no. 297).(text: CR H5477)
+- 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
