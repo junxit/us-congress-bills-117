@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4094
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4094
@@ -27,9 +27,10 @@ One-Stop Pilot Program Act of 2021
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ One-Stop Pilot Program Act of 2021
 - 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5542)
 - 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5542)
+- 2021-09-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
