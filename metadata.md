@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4426
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4426
@@ -25,10 +25,11 @@ Homeland Security for Children Act
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Homeland Security for Children Act
 - 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5539-5540)
 - 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5539-5540)
+- 2021-09-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
