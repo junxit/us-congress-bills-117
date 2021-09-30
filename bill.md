@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5305
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 5305
 
-That the bill from the House of Representatives (H.R. 5305) entitled “An Act making continuing appropriations for the fiscal year ending September 30, 2022, and for providing emergency assistance, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> Making continuing appropriations for the fiscal year ending September 30, 2022, and for providing emergency assistance, and for other purposes.
 
 ## § 1. Short title
 

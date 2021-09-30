@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5305
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5305
