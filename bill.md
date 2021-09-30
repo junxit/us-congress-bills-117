@@ -29,12 +29,10 @@ In this Act:
     - **(A)** collects and integrates information on the key indicators of floods and flood impacts, including streamflow, reservoir release and diversion, precipitation, soil moisture, snow water equivalent, land cover, and evaporative demand;
     - **(B)** makes usable, reliable, and timely forecasts of floods;
     - **(C)** assesses the severity of flood conditions and effects;
-    - **(D)** issues flood watches and warnings when necessary;
-    - **(E)** provides information described in subparagraph (A), forecasts described in subparagraph (B), and assessments described in subparagraph (C) at the national, regional, and local levels, as appropriate; and
-    - **(F)** communicates flood forecasts, flood conditions, and flood impacts to public and private entities engaged in flood planning, preparedness, and response and post-event flood extent, including—
-      - **(i)** decision makers at the Federal, State, local, and Tribal levels of government;
-      - **(ii)** the private sector; and
-      - **(iii)** the public;
+    - **(D)** provides information described in subparagraph (A), forecasts described in subparagraph (B), and assessments described in subparagraph (C) at the national, regional, and local levels, as appropriate; and
+    - **(E)** communicates flood forecasts, flood conditions, and flood impacts to appropriate entities engaged in flood planning, preparedness, and response and post-event flood extent, including—
+      - **(i)** decision makers at the Federal, State, local, and Tribal levels of government; and
+      - **(ii)** the public;
   - **(2)** provide timely data, information, and products that reflect differences in flood conditions among localities, regions, watersheds, and States;
   - **(3)** coordinate and integrate, through interagency agreements as practicable, Federal research and monitoring in support of the flood early warning information system provided under paragraph (1);
   - **(4)** use existing forecasting and assessment programs and partnerships;
@@ -44,7 +42,7 @@ In this Act:
     - **(B)** the role of extreme weather events and climate variability in floods; and
     - **(C)** how water travels over and through surfaces.
 - **(c)** *Partnerships* The Administrator, through the National Integrated Flood Information System, may—
-  - **(1)** engage with the private sector to improve flood monitoring, forecasts, land and topography data, and communication, if the Administrator determines that such engagement is appropriate, cost effective, and beneficial to the public and decision makers described in subsection (b)(1)(F)(i);
+  - **(1)** engage with the private sector to improve flood monitoring, forecasts, land and topography data, and communication, if the Administrator determines that such engagement is appropriate, cost effective, and beneficial to the public and decision makers described in subsection (b)(1)(E)(i);
   - **(2)** facilitate the development of 1 or more academic cooperative partnerships to assist in carrying out the functions of the National Integrated Flood Information System described in subsection (b);
   - **(3)** use and support monitoring by citizen scientists, including by developing best practices to facilitate maximum data integration, as the Administrator considers appropriate;
   - **(4)** engage with, and leverage the resources of, entities within the National Oceanic and Atmospheric Administration in existence as of the date of the enactment of this Act, such as the National Weather Service with respect to forecast and warning functions, the National Integrated Drought Information System, the Regional Climate Center, and the National Mesonet Program, to improve coordination of water monitoring, forecasting, and management; and
@@ -193,7 +191,7 @@ Section 1762(f)(1) of the Food Security Act of 1985 (15 U.S.C. 8521(f)(1)) is am
 - **(e)** *Partnerships* The Administrator may partner with other Federal agencies, members of the private sector, academic cooperative partnerships, or nongovernment associations to assist in carrying out the functions described in subsection (c).
 - **(f)** *Consultation* In carrying out this section, the Administrator may consult with relevant Federal, State, local, Tribal, and Territorial government agencies, research institutions, and the private sector, as the Administrator determines necessary.
 - **(g)** *Coordination* In carrying out this section, the Administrator may coordinate with other Federal agencies.
-- **(h)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section, from amounts otherwise authorized to be appropriated to the Administrator to carry out this Act, $3,500,000 for each of fiscal years 2021 through 2030.
+- **(h)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section, from amounts otherwise authorized to be appropriated to the Administrator to carry out this Act, $3,500,000 for each of fiscal years 2022 through 2030.
 
 ## § 13. Interagency Committee on Water Management and Infrastructure
 
@@ -264,7 +262,7 @@ Section 1762(f)(1) of the Food Security Act of 1985 (15 U.S.C. 8521(f)(1)) is am
     - **(H)** Support the integration of social science to advance decision support services.
     - **(I)** Develop methods to study groundwater sustainability and estimate the efficiency of recharge management.
 - **(c)** *Direct hiring*
-  - **(1)** *Authority* During fiscal year 2021 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, to a position with the Federal agency a recipient of a fellowship under the program who—
+  - **(1)** *Authority* During fiscal year 2022 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, to a position with the Federal agency a recipient of a fellowship under the program who—
     - **(A)** earned a degree from a program described in subsection (b)(2)(B);
     - **(B)** successfully fulfilled the requirements of the fellowship within the executive branch of the Federal Government; and
     - **(C)** meets qualification standards established by the Office of Personnel Management.
@@ -276,7 +274,7 @@ Section 1762(f)(1) of the Food Security Act of 1985 (15 U.S.C. 8521(f)(1)) is am
   - **(1)** *Extreme weather* The term extreme weather includes observed or anticipated severe and unseasonable atmospheric conditions, including drought, heavy precipitation, hurricanes, tornadoes and other windstorms (including derechos), large hail, extreme heat, extreme cold, flooding, sustained temperatures or precipitation that deviate substantially from historical averages, and any other weather event that the Administrator determines qualifies as extreme weather.
   - **(2)** *Long-term* The term long-term shall have such meaning as the Director of the National Institute of Standards and Technology, in consultation with the Administrator, considers appropriate for purposes of this section.
   - **(3)** *Other environmental trends* The term other environmental trends means wildfires, coastal flooding, inland flooding, land subsidence, rising sea levels, and any other challenges relating to changes in environmental systems over time that the Administrator determines qualify as environmental challenges other than extreme weather.
-- **(b)** *Identification and support of consistent, Federal set of forward-Looking, long-Term meteorological information* The Administrator shall identify, and support research that enables, a consistent, Federal set of forward-looking, long-term meteorological information that models future extreme weather events, other environmental trends, projections, and up-to-date observations, including mesoscale information as determined appropriate by the Administrator.
+- **(b)** *Identification and support of consistent, Federal set of forward-looking, long-term meteorological information* The Administrator shall identify, and support research that enables, a consistent, Federal set of forward-looking, long-term meteorological information that models future extreme weather events, other environmental trends, projections, and up-to-date observations, including mesoscale information as determined appropriate by the Administrator.
 
 ## § 16. Gap analysis on availability of snow-related data to assess and predict flood and flood impacts
 
