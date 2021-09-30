@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 368
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 368
@@ -28,3 +28,7 @@ A resolution designating September 25, 2021, through October 3, 2021, as "Blue S
 
 - 2021-09-20 — Introduced in Senate
 - 2021-09-20 — Referred to the Committee on the Judiciary.
+- 2021-09-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 9/20/2021 CR S6553)
+- 2021-09-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 9/20/2021 CR S6553)
+- 2021-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6863)
+- 2021-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6863)
