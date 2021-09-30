@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5305
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -79,6 +79,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 330(e)(3) of title 11, United States Code, is amended by striking “in that fiscal year” at the end of the paragraph. | the bill names no machine-readable US Code section |
-| — | insert | Title IX of division C of Public Law 116–260 is amended under the heading “Afghanistan Security Forces Fund” by inserting the following before the penultimate proviso: “Provided further, That the Secretary of Defense may obligate and exp… | the bill names no machine-readable US Code section |
+| — | insert | Title IX of division C of Public Law 116–260 is amended under the heading “Afghanistan Security Forces Fund” by inserting the following before the penultimate proviso: “ Provided further, That the Secretary of Defense may obligate and ex… | the bill names no machine-readable US Code section |
 | — | replace | Section 3014(a) of title 18, United States Code, is amended by striking “September 30, 2021” and inserting “December 31, 2021”. | the bill names no machine-readable US Code section |
 | — | replace | Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act (as amended by Public Law 117–12) is amended by striki… | the bill names no machine-readable US Code section |
