@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4363
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4363
@@ -22,9 +22,10 @@ DHS Contract Reporting Act of 2021
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ DHS Contract Reporting Act of 2021
 - 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5545-5546)
 - 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5545-5546)
+- 2021-09-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
