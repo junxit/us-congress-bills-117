@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4682
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4682
@@ -21,9 +21,10 @@ UAS Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ UAS Act
 - 2021-09-29 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5544)
 - 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5544)
+- 2021-09-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
