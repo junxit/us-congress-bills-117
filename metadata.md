@@ -1,7 +1,7 @@
 ---
 measure: S. 1486
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1486
@@ -16,13 +16,15 @@ Pregnant Workers Fairness Act
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -32,3 +34,7 @@ Pregnant Workers Fairness Act
 
 - 2021-04-29 — Introduced in Senate
 - 2021-04-29 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-08-03 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-09-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-09-30 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2021-09-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 141.
