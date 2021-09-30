@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3599
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
