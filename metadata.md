@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5434
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5434
