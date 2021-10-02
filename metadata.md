@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5434
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5434
@@ -42,3 +42,12 @@ Surface Transportation Extension Act of 2021
 - 2021-10-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 51 (Roll no. 313). (text: CR H5586-5587)
 - 2021-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 51 (Roll no. 313).(text: CR H5586-5587)
 - 2021-10-01 — Referred to the Subcommittee on Energy.
+- 2021-10-02 — Became Public Law No: 117-44.
+- 2021-10-02 — Became Public Law No: 117-44.
+- 2021-10-02 — Message on Senate action sent to the House.
+- 2021-10-02 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6878)
+- 2021-10-02 — Presented to President.
+- 2021-10-02 — Presented to President.
+- 2021-10-02 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6878)
+- 2021-10-02 — Signed by President.
+- 2021-10-02 — Signed by President.
