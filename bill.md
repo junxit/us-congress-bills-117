@@ -27,7 +27,7 @@ In this Act:
 ## § 3. Support by Department of Veterans Affairs of maternity care coordination
 
 - **(a)** *Program on maternity care coordination*
-  - **(1)** *In general* The Secretary of Veterans Affairs shall carry out the maternity care coordination program described in Veterans Health Administration Handbook 1330.03, or successor handbook.
+  - **(1)** *In general* The Secretary of Veterans Affairs shall carry out the maternity care coordination program described in Veterans Health Administration Directive 1330.03.
   - **(2)** *Training and support* In carrying out the program under paragraph (1), the Secretary shall provide to community maternity care providers training and support with respect to the unique needs of pregnant and postpartum veterans, particularly regarding mental and behavioral health conditions relating to the service of those veterans in the Armed Forces.
 - **(b)** *Authorization of appropriations*
   - **(1)** *In general* There is authorized to be appropriated to the Secretary $15,000,000 for fiscal year 2022 for the program under subsection (a)(1).
@@ -48,7 +48,7 @@ In this Act:
     - **(E)** identification of the causes of maternal mortality and severe maternal morbidity that are unique to veterans, including post-traumatic stress disorder, military sexual trauma, and infertility or miscarriages that may be caused by service in the Armed Forces;
     - **(F)** identification of the causes of maternal mortality and severe maternal morbidity that are unique to veterans from racial and ethnic minority groups and such other at-risk populations as the Comptroller General considers appropriate;
     - **(G)** identification of any correlations between the former rank of veterans and their maternal health outcomes;
-    - **(H)** the number of veterans who have been diagnosed with infertility by a health care provider of the Veterans Health Administration each year in the most recent five years, disaggregated by age, race, ethnicity, sex, marital status, sexual orientation, gender identity, and geographical location;
+    - **(H)** the number of veterans who have been diagnosed with infertility by a health care provider of the Veterans Health Administration each year in the most recent five years, disaggregated by age, race, ethnicity, sex, marital status, and geographical location;
     - **(I)** the number of veterans who have received a clinical diagnosis of unexplained infertility by a health care provider of the Veterans Health Administration each year in the most recent five years; and
     - **(J)** an assessment of the extent to which the rate of incidence of clinically diagnosed infertility among veterans compare or differ to the rate of incidence of clinically diagnosed infertility among the civilian population.
   - **(2)** An assessment of the barriers to determining the information required under paragraph (1) and recommendations for improvements in tracking maternal health outcomes among pregnant and postpartum veterans who—
