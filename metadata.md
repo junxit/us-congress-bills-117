@@ -1,7 +1,7 @@
 ---
 measure: S. 2126
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2126
@@ -16,9 +16,11 @@ A bill to designate the Federal Office Building located at 308 W. 21st Street in
 
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Barrasso, John [R-WY] (B001261)
 
 ## Committees (1)
 
@@ -33,3 +35,5 @@ A bill to designate the Federal Office Building located at 308 W. 21st Street in
 - 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2021-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.
+- 2021-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6991-6992; text: CR S6992)
+- 2021-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6991-6992; text: CR S6992)
