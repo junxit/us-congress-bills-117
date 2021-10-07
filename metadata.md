@@ -1,7 +1,7 @@
 ---
 measure: S. 1301
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 1301
@@ -130,3 +130,12 @@ Promoting Physical Activity for Americans Act
 - 2021-10-07 — Senate amendment submitted
 - 2021-10-07 — Senate amendment submitted
 - 2021-10-07 — Senate concurred in the House amendment to S.1301 with an amendment (SA 3847) by Yea-Nay Vote. 50 - 48. Record Vote Number: 412. (text of amendment in the nature of a substitute: CR S6993-6994)
+- 2021-10-08 — Message on Senate action sent to the House.
+- 2021-10-12 — Pursuant to the provisions of H. Res. 716, House agreed to Senate amendment to House amendment
+- 2021-10-12 — Resolving differences -- House actions: Pursuant to the provisions of H. Res. 716, House agreed to Senate amendment to House amendment
+- 2021-10-14 — Became Public Law No: 117-50.
+- 2021-10-14 — Became Public Law No: 117-50.
+- 2021-10-14 — Presented to President.
+- 2021-10-14 — Presented to President.
+- 2021-10-14 — Signed by President.
+- 2021-10-14 — Signed by President.
