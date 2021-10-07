@@ -2,19 +2,15 @@
 legis-num: S. 1301
 congress: 117th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: In the Senate of the United States,
 ---
 
 # S. 1301
 
-That the bill from the Senate (S. 1301) entitled “An Act to provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans.”, do pass with the following
+That the Senate agree to the amendment of the House of Representatives to the bill (S. 1301) entitled “An Act to provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans.”, do pass with the following
 
-*Strike out all after the enacting clause and insert:*
+*Strike all after the enacting clause and insert the following:*
 
-## § 1. Temporary extension of public debt limit
+## § 1. Increase of public debt limit
 
-- **(a)** *In general* Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act and ending on December 16, 2022.
-- **(b)** *Special rule relating to obligations issued during extension period* Effective on December 17, 2022, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
-  - **(1)** the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on December 17, 2022, exceeds
-  - **(2)** the face amount of such obligations outstanding on the date of the enactment of this Act.
-- **(c)** *Extension limited to necessary obligations* An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before December 17, 2022.
+The limitation under section 3101(b) of title 31, United States Code, as most recently increased by section 301 of the Bipartisan Budget Act of 2019 (31 U.S.C. 3101 note), is increased by $480,000,000,000.
