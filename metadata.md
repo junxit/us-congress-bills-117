@@ -1,7 +1,7 @@
 ---
 measure: S. 233
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 233
@@ -35,3 +35,5 @@ Donna M. Doss Memorial Act of 2021
 - 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2021-09-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2021-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
+- 2021-10-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6991-6992; text: CR S6992)
+- 2021-10-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6991-6992; text: CR S6992)
