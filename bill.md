@@ -1,0 +1,30 @@
+---
+legis-num: S. 2952
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2952
+
+> To amend the Federal Food, Drug, and Cosmetic Act to allow manufacturers and sponsors of a drug to use alternative testing methods to animal testing to investigate the safety and effectiveness of a drug, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “FDA Modernization Act of 2021”.
+
+## § 2. New approach methodologies
+
+Section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) is amended—
+
+- **(1)** in subsection (b)(5)(B)(i)(II), by striking “animal” and inserting “nonclinical tests or studies”;
+- **(2)** in subsection (i)—
+  - **(A)** in paragraph (1)(A), by striking “preclinical tests (including tests on animals)” and inserting “nonclinical tests”; and
+  - **(B)** in paragraph (2)(B), by striking “animal” and inserting “nonclinical tests or studies”; and
+- **(3)** after subsection (y), by inserting the following:
+  > - **(z)** *Nonclinical test or study defined* For purposes of this section, the term nonclinical test or study means a test or study conducted in vitro, in silico, in chemico, or in vivo that occurs before or during the clinical trial phase of the investigation of the safety and effectiveness of a drug, and may include the following:
+  >   - **(1)** Cell-based assays.
+  >   - **(2)** Organ chips and microphysiological systems.
+  >   - **(3)** Computer models.
+  >   - **(4)** Other non-animal or human biology-based test methods.
+  >   - **(5)** Animal tests.
