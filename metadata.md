@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 372
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 372
@@ -52,3 +52,7 @@ A resolution designating the week beginning September 13, 2021, as "National His
 
 - 2021-09-21 — Introduced in Senate
 - 2021-09-21 — Referred to the Committee on the Judiciary.
+- 2021-10-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 09/21/2021 CR S6590)
+- 2021-10-07 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 09/21/2021 CR S6590)
+- 2021-10-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6992)
+- 2021-10-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6992)
