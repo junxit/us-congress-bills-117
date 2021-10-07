@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 400
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 400
@@ -33,3 +33,7 @@ A resolution designating September 2021 as "National Childhood Cancer Awareness 
 
 - 2021-09-30 — Introduced in Senate
 - 2021-09-30 — Referred to the Committee on the Judiciary.
+- 2021-10-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 9/30/2021 CR S6848)
+- 2021-10-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 9/30/2021 CR S6848)
+- 2021-10-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6992)
+- 2021-10-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6992)
