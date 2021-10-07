@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1301
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 1st Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1301
 
-That the Senate agree to the amendment of the House of Representatives to the bill (S. 1301) entitled “An Act to provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for the publication by the Secretary of Health and Human Services of physical activity recommendations for Americans.
 
 ## § 1. Increase of public debt limit
 
