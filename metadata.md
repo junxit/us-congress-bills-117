@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3462
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3462
@@ -29,3 +29,8 @@ SBA Cyber Awareness Act
 - 2021-05-21 — Introduced in House
 - 2021-05-21 — Introduced in House
 - 2021-05-21 — Referred to the House Committee on Small Business.
+- 2021-07-29 — Committee Consideration and Mark-up Session Held.
+- 2021-07-29 — Ordered to be Reported by Voice Vote.
+- 2021-10-12 — Placed on the Union Calendar, Calendar No. 98.
+- 2021-10-12 — Reported by the Committee on Small Business. H. Rept. 117-138.
+- 2021-10-12 — Reported by the Committee on Small Business. H. Rept. 117-138.
