@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4256
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4256
@@ -29,3 +29,8 @@ Investing in Main Street Act of 2021
 - 2021-06-30 — Introduced in House
 - 2021-06-30 — Introduced in House
 - 2021-06-30 — Referred to the House Committee on Small Business.
+- 2021-07-29 — Committee Consideration and Mark-up Session Held.
+- 2021-07-29 — Ordered to be Reported by Voice Vote.
+- 2021-10-12 — Placed on the Union Calendar, Calendar No. 100.
+- 2021-10-12 — Reported by the Committee on Small Business. H. Rept. 117-140.
+- 2021-10-12 — Reported by the Committee on Small Business. H. Rept. 117-140.
