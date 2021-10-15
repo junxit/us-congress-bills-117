@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Communications Security Advisory Act of 2021”.
+This Act may be cited as the “Communications Security, Reliability, and Interoperability Council Act”.
 
 ## § 2. Council on communications security, reliability, and interoperability
 
-- **(a)** *Establishment* Not later than 90 days after the date of the enactment of this Act, the Commission shall establish a council to advise the Commission on issues including the security, reliability, and interoperability of communications networks.
+- **(a)** *Establishment* Not later than 90 days after the date of the enactment of this Act, the Commission shall establish a council, to advise the Commission on issues including the security, reliability, and interoperability of communications networks.
 - **(b)** *Membership*
   - **(1)** *Appointment* The members of the council shall be appointed by the Chair.
   - **(2)** *Composition* To the extent practicable, the membership of the council shall be composed of the following:
@@ -28,8 +28,7 @@ This Act may be cited as the “Communications Security Advisory Act of 2021”.
     - **(B)** *Vacancies* Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
 - **(c)** *Reports*
   - **(1)** *In general* Not later than 2 years after the date on which the council is established under subsection (a), and every 2 years thereafter, the council shall submit to the Chair each report adopted by the council during the preceding 2-year period, and any report adopted by any working group of the council during such period, including any such report of the council or a working group containing recommendations on ways to increase the security, reliability, and interoperability of communications networks, and on other relevant issues as appropriate.
-  - **(2)** *Submission to Congress* Not later than 5 days after receiving each report from the council under paragraph (1), the Chair shall submit such report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-  - **(3)** *Availability on Commission website* The Commission shall make each report submitted under paragraph (1) publicly available on the website of the Commission.
+  - **(2)** *Availability on Commission website* The Commission shall make each report submitted under paragraph (1) publicly available on the website of the Commission.
 - **(d)** *Duration* Section 14(a)(2)(B) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees) shall not apply to the council.
 - **(e)** *Definitions* In this section:
   - **(1)** *Chair* The term “Chair” means the Chair of the Commission.
