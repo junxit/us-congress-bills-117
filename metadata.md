@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4350
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4350
@@ -406,3 +406,4 @@ National Defense Authorization Act for Fiscal Year 2022
 - 2021-09-23 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4350.
 - 2021-09-23 — The previous question was ordered pursuant to the rule.
 - 2021-09-23 — The title of the measure was amended. Agreed to without objection.
+- 2021-10-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.
