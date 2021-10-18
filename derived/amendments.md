@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4350
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,768 amendatory instructions. 322 executed, 1,446 stated and not applied.
+1,768 amendatory instructions. 364 executed, 1,404 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1275,6 +1275,366 @@ to guess them.
 | Removed | `2022` |
 | Inserted | `2024` |
 
+### 26 U.S.C. § 10502
+
+> Section 10148(b) of title 10, United States Code, is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 10502
+
+> Section 10502(a)(1) of such title is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 10505
+
+> Section 10505(a)(1)(A) of such title is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 10506
+
+> Section 10506(a)(1) of such title is amended by striking “the commanding general of the District of Columbia National Guard” both places it appears and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 12301
+
+> in subsection (b), by striking “commanding general of the District of Columbia National Guard” in the second sentence and inserting “Mayor of the District of Columbia”; and
+
+| | |
+|---|---|
+| Removed | `commanding general of the District of Columbia National Guard` |
+| Inserted | `Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 12406
+
+> Section 12406 of such title is amended by striking “the commanding general of the National Guard of the District of Columbia” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the National Guard of the District of Columbia` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 18238
+
+> Section 18238 of such title is amended by striking “the commanding general of the National Guard of the District of Columbia” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the National Guard of the District of Columbia` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 112
+
+> Section 112(h)(2) of such title is amended by striking “the Commanding General of the National Guard of the District of Columbia” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the Commanding General of the National Guard of the District of Columbia` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 314
+
+> in subsection (b) (as so redesignated), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia,”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia,` |
+
+### 26 U.S.C. § 325
+
+> Section 325(a)(2)(B) of such title is amended by striking “commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 328
+
+> Subsection (a) of section 328 of such title is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 505
+
+> Section 505 of such title is amended by striking “commanding general of the National Guard of the District of Columbia” in the first sentence and inserting “Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `commanding general of the National Guard of the District of Columbia` |
+| Inserted | `Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 509
+
+> in subsection (c)(1), by striking “the commanding general of the District of Columbia National Guard, under which the Governor or the commanding general” and inserting “the Mayor of the District of Columbia, under which the Governor or the Mayor”;
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard, under which the Governor or the commanding general` |
+| Inserted | `the Mayor of the District of Columbia, under which the Governor or the Mayor` |
+
+### 26 U.S.C. § 509
+
+> in subsection (g)(2), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”;
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 509
+
+> in subsection (j), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”; and
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 509
+
+> in subsection (k), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `the commanding general of the District of Columbia National Guard` |
+| Inserted | `the Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 702
+
+> Section 702(a) of such title is amended by striking “commanding general of the National Guard of the District of Columbia” and inserting “Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `commanding general of the National Guard of the District of Columbia` |
+| Inserted | `Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 708
+
+> Section 708(a) of such title is amended by striking “commanding general of the National Guard of the District of Columbia” and inserting “Mayor of the District of Columbia”.
+
+| | |
+|---|---|
+| Removed | `commanding general of the National Guard of the District of Columbia` |
+| Inserted | `Mayor of the District of Columbia` |
+
+### 26 U.S.C. § 196
+
+> Section 196(d) is amended by striking “,,” and inserting “,”.
+
+| | |
+|---|---|
+| Removed | `,,` |
+| Inserted | `,` |
+
+### 26 U.S.C. § 231a
+
+> Section 231a(e)(2) is amended by striking “include the following,” and inserting “include”.
+
+| | |
+|---|---|
+| Removed | `include the following,` |
+| Inserted | `include` |
+
+### 26 U.S.C. § 240b
+
+> Section 240b(b)(1)(B)(xiii) is amended by striking “An” and inserting “A”.
+
+| | |
+|---|---|
+| Removed | `An` |
+| Inserted | `A` |
+
+### 26 U.S.C. § 240g
+
+> Section 240g(a)(3) is amended by striking “; and” and inserting “;”.
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `;` |
+
+### 26 U.S.C. § 138
+
+> Section 856(b) (article 56(b) of the Uniform Code of Military Justice) is amended by striking “subsection (d) of section 853a” and inserting “subsection (c) of section 853a”.
+
+| | |
+|---|---|
+| Removed | `subsection (d) of section 853a` |
+| Inserted | `subsection (c) of section 853a` |
+
+### 26 U.S.C. § 1044e
+
+> Section 1044e(g) is amended by striking “number of Special Victims’ Counsel” and inserting “number of Special Victims’ Counsels”.
+
+| | |
+|---|---|
+| Removed | `number of Special Victims’ Counsel` |
+| Inserted | `number of Special Victims’ Counsels` |
+
+### 26 U.S.C. § 1463
+
+> Section 1463(a)(4) is amended by striking “that that” and inserting “that”.
+
+| | |
+|---|---|
+| Removed | `that that` |
+| Inserted | `that` |
+
+### 26 U.S.C. § 1465
+
+> Section 1465(b)(2) is amended by striking “the the” and inserting “the”.
+
+| | |
+|---|---|
+| Removed | `the the` |
+| Inserted | `the` |
+
+### 26 U.S.C. § 1466
+
+> Section 1466(a) is amended, in the matter preceding paragraph (1), by striking “Coast guard” and inserting “Coast Guard”.
+
+| | |
+|---|---|
+| Removed | `Coast guard` |
+| Inserted | `Coast Guard` |
+
+### 26 U.S.C. § 1554a
+
+> Section 1554a(g)(2) is amended by striking “..” and inserting “.”.
+
+| | |
+|---|---|
+| Removed | `..` |
+| Inserted | `.` |
+
+### 26 U.S.C. § 1705
+
+> Section 1705(a) is amended by striking “a fund” and inserting “an account”.
+
+| | |
+|---|---|
+| Removed | `a fund` |
+| Inserted | `an account` |
+
+### 26 U.S.C. § 1722a
+
+> Section 1722a(a) is amended by striking “,,” and inserting “,”.
+
+| | |
+|---|---|
+| Removed | `,,` |
+| Inserted | `,` |
+
+### 26 U.S.C. § 1788a
+
+> in paragraph (3), by striking “section 167(i)” and inserting “section 167(j)”;
+
+| | |
+|---|---|
+| Removed | `section 167(i)` |
+| Inserted | `section 167(j)` |
+
+### 26 U.S.C. § 1788a
+
+> in paragraph (4), by striking “covered personnel” and inserting “covered individuals”; and
+
+| | |
+|---|---|
+| Removed | `covered personnel` |
+| Inserted | `covered individuals` |
+
+### 26 U.S.C. § 1788a
+
+> in paragraph (5), in the matter preceding subparagraph (A), by striking “covered personnel” and inserting “covered individuals”.
+
+| | |
+|---|---|
+| Removed | `covered personnel` |
+| Inserted | `covered individuals` |
+
+### 26 U.S.C. § 2321
+
+> Section 2321(f) is amended by striking “the item” both places it appears and inserting “the commercial product”.
+
+| | |
+|---|---|
+| Removed | `the item` |
+| Inserted | `the commercial product` |
+
+### 26 U.S.C. § 2534
+
+> in paragraph (5), by striking “principle” and inserting “principal”; and
+
+| | |
+|---|---|
+| Removed | `principle` |
+| Inserted | `principal` |
+
+### 26 U.S.C. § 2534
+
+> in paragraph (3), by striking “subsection (j)” and inserting “subsection (k)”.
+
+| | |
+|---|---|
+| Removed | `subsection (j)` |
+| Inserted | `subsection (k)` |
+
+### 26 U.S.C. § 2891a
+
+> Section 2891a(e)(1) is amended by striking “the any” and inserting “the”.
+
+| | |
+|---|---|
+| Removed | `the any` |
+| Inserted | `the` |
+
+### 26 U.S.C. § 9840
+
+> Section 9840 is amended in the second sentence by striking “He” and inserting “The officer”.
+
+| | |
+|---|---|
+| Removed | `He` |
+| Inserted | `The officer` |
+
+### 26 U.S.C. § 6382
+
+> in subparagraph (A), by striking “(A) or (B)” and inserting “(A), (B), or (F)”; and
+
+| | |
+|---|---|
+| Removed | `(A) or (B)` |
+| Inserted | `(A), (B), or (F)` |
+
+### 26 U.S.C. § 6382
+
+> in subparagraph (B)(i), by striking “birth or placement” and inserting “birth, placement, or death”.
+
+| | |
+|---|---|
+| Removed | `birth or placement` |
+| Inserted | `birth, placement, or death` |
+
 ### 10 U.S.C. § 113
 
 > by striking “fiscal year 2021” and inserting “fiscal year 2022”; and
@@ -2202,6 +2562,24 @@ to guess them.
 | Removed | `Chairman` |
 | Inserted | `Chair` |
 
+### 26 U.S.C. § 55501
+
+> Chapter 504 of such title, as redesignated by paragraph (1), is amended in the chapter heading by striking “Miscellaneous” and inserting “Committees”.
+
+| | |
+|---|---|
+| Removed | `Miscellaneous` |
+| Inserted | `Committees` |
+
+### 26 U.S.C. § 55501
+
+> Section 8332(b)(1) of the Elijah E. Cummings Coast Guard Authorization Act of 2020 (division G of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283)) is amended by striking “section 55502” and inserting “section 50402”.
+
+| | |
+|---|---|
+| Removed | `section 55502` |
+| Inserted | `section 50402` |
+
 ### 20 U.S.C. § 4704
 
 > in the subsection heading, by striking “Award of scholarships and fellowships” and inserting “Award of scholarships, fellowships, and research internships”;
@@ -3082,8 +3460,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 574(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2141) is amended by striking “April 30, 2021” and inserting “April 30, 2026”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 80 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 80 of title 10, United Stated Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 930` | add-at-end | Chapter 80 of title 10, United Stated Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 930` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 985` | add-at-end | Part II of subtitle A of title 10, United States Code, is amended by adding at the end the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 985` | insert | The table of chapters for part II of subtitle A of such title 10 is amended by inserting, after the item relating to chapter 88, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 985` | insert | Chapter 39 of title 10, United States Code, is amended by inserting after section 985 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3487,9 +3865,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (7) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new sections: | the bill names no machine-readable US Code section |
 | — | add-at-end | in the table of sections at the beginning of such chapter, by adding at the end the following new items: | the bill names no machine-readable US Code section |
-| `10 U.S.C. § 221` | redesignate | by redesignating subsection (c) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 221` | insert | by inserting after subsection (b) the following new subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 221` | insert | Section 233 of title 10, United States Code, is further amended by inserting after subsection (c), as added by subsection (a), the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 221` | redesignate | by redesignating subsection (c) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 221` | insert | by inserting after subsection (b) the following new subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 118` | insert | Section 233 of title 10, United States Code, is further amended by inserting after subsection (c), as added by subsection (a), the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 221` | repeal | Section 357 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 221 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “$20,000,000” and inserting “$25,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$250,000” and inserting “$300,000”; | the bill names no machine-readable US Code section |
@@ -3514,13 +3892,13 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 481a` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 481a the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subsection (a), by striking “of a military department” and inserting “concerned”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b)(1), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (c)(2) by adding at the end of the following new subparagraph— | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (H), by inserting “, including the promotion of good governance and rule of law and the protection of civilians and human rights” before the period at the end; | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “or violations of the Geneva Conventions of 1949, including—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (i)(3) by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 362` | add-at-end | in subsection (c)(2) by adding at the end of the following new subparagraph— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 362` | insert | in subparagraph (H), by inserting “, including the promotion of good governance and rule of law and the protection of civilians and human rights” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 362` | replace | by striking the period at the end and inserting “or violations of the Geneva Conventions of 1949, including—”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 362` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 362` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 362` | add-at-end | in subsection (i)(3) by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 362` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 119a of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 134(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2037) is amended by striking “the report under subsection (e)(2)” and inserting “a report that includes the information describe… | the bill names no machine-readable US Code section |
 | — | replace | Section 1014 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) is amended by striking “December 31, 2022” and inserting “December 31, 2023”. | the bill names no machine-readable US Code section |
@@ -3542,71 +3920,33 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 45 of such Act (sec. 49–103, D.C. Official Code) is amended by striking “, or for the United States Marshal” and all that follows through “shall thereupon order” and inserting “to order”. | the bill names no machine-readable US Code section |
 | — | replace | Section 46 of such Act (sec. 49–104, D.C. Official Code) is amended by striking “the President” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
 | — | replace | Section 51 of such Act (sec. 49–503, D.C. Official Code) is amended by striking “the President of the United States” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 10148(b) of title 10, United States Code, is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 10502(a)(1) of such title is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 10505(a)(1)(A) of such title is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 10506(a)(1) of such title is amended by striking “the commanding general of the District of Columbia National Guard” both places it appears and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “commanding general of the District of Columbia National Guard” in the second sentence and inserting “Mayor of the District of Columbia”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), by striking the period at the end and inserting the following: “, or, in the case of the District of Columbia National Guard, the Mayor of the District of Columbia.”. | the bill names no machine-readable US Code section |
-| — | replace | Section 12406 of such title is amended by striking “the commanding general of the National Guard of the District of Columbia” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 18238 of such title is amended by striking “the commanding general of the National Guard of the District of Columbia” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | strike | Section 109(c) of title 32, United States Code, is amended by striking “(or commanding general in the case of the District of Columbia)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 112(h)(2) of such title is amended by striking “the Commanding General of the National Guard of the District of Columbia” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 113 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (c) and (d) as subsections (b) and (c), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b) (as so redesignated), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia,”. | the bill names no machine-readable US Code section |
-| — | replace | Section 325(a)(2)(B) of such title is amended by striking “commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (a) of section 328 of such title is amended by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | amend | The heading of such section is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 3 of such title is amended by striking the item relating to section 328 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 505 of such title is amended by striking “commanding general of the National Guard of the District of Columbia” in the first sentence and inserting “Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(1), by striking “the commanding general of the District of Columbia National Guard, under which the Governor or the commanding general” and inserting “the Mayor of the District of Columbia, under which the Governor or t… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g)(2), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (j), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (k), by striking “the commanding general of the District of Columbia National Guard” and inserting “the Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 702(a) of such title is amended by striking “commanding general of the National Guard of the District of Columbia” and inserting “Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
-| — | replace | Section 708(a) of such title is amended by striking “commanding general of the National Guard of the District of Columbia” and inserting “Mayor of the District of Columbia”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 12301` | replace | in subsection (d), by striking the period at the end and inserting the following: “, or, in the case of the District of Columbia National Guard, the Mayor of the District of Columbia.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 112` | strike | Section 109(c) of title 32, United States Code, is amended by striking “(or commanding general in the case of the District of Columbia)”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 113` | add-at-end | Section 113 of such title is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 314` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 314` | redesignate | by redesignating subsections (c) and (d) as subsections (b) and (c), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 328` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 328` | replace | The table of sections at the beginning of chapter 3 of such title is amended by striking the item relating to section 328 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | Section 602(b) of the District of Columbia Home Rule Act (sec. 1–206.02(b), D.C. Official Code) is amended by striking “the National Guard of the District of Columbia,”. | the bill names no machine-readable US Code section |
-| — | strike | The table of chapters at the beginning of part I of subtitle A is amended by striking the item relating to the second section 19 (relating to cyber matters). | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 2 is amended by striking the item relating to section 118 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | strike | Section 138(b)(2)(A)(i) is amended by striking the semicolon. | the bill names no machine-readable US Code section |
-| — | replace | Section 196(d) is amended by striking “,,” and inserting “,”. | the bill names no machine-readable US Code section |
-| — | replace | Section 231a(e)(2) is amended by striking “include the following,” and inserting “include”. | the bill names no machine-readable US Code section |
-| — | replace | Section 240b(b)(1)(B)(xiii) is amended by striking “An” and inserting “A”. | the bill names no machine-readable US Code section |
-| — | replace | Section 240g(a)(3) is amended by striking “; and” and inserting “;”. | the bill names no machine-readable US Code section |
-| — | insert | Section 393(b)(2)(D) is amended by inserting a period at the end. | the bill names no machine-readable US Code section |
-| — | insert | Section 483(f)(3) is amended by inserting “this” before “title”. | the bill names no machine-readable US Code section |
-| — | insert | Section 651(a) is amended by inserting a comma after “3806(d)(1))”. | the bill names no machine-readable US Code section |
-| — | amend | The table of sections at the beginning of chapter 39 is amended by adding a period at the end of the item relating to section 691. | the bill names no machine-readable US Code section |
-| — | insert | Section 823(a)(2) (article 23(a)(2) of the Uniform Code of Military Justice) is amended by inserting a comma after “Army”. | the bill names no machine-readable US Code section |
-| — | replace | Section 856(b) (article 56(b) of the Uniform Code of Military Justice) is amended by striking “subsection (d) of section 853a” and inserting “subsection (c) of section 853a”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1044e(g) is amended by striking “number of Special Victims’ Counsel” and inserting “number of Special Victims’ Counsels”. | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 54 is amended by striking the item relating to section 1065 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 1463(a)(4) is amended by striking “that that” and inserting “that”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1465(b)(2) is amended by striking “the the” and inserting “the”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1466(a) is amended, in the matter preceding paragraph (1), by striking “Coast guard” and inserting “Coast Guard”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1554a(g)(2) is amended by striking “..” and inserting “.”. | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (a), by redesignating the second paragraph (7) and paragraph (8) as paragraphs (8) and (9), respectively; and | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (b)(1), by redesignating the second subparagraph (G) and subparagraph (H) as subparagraphs (H) and (I), respectively. | the bill names no machine-readable US Code section |
-| — | replace | Section 1705(a) is amended by striking “a fund” and inserting “an account”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1722a(a) is amended by striking “,,” and inserting “,”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “section 167(i)” and inserting “section 167(j)”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4), by striking “covered personnel” and inserting “covered individuals”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5), in the matter preceding subparagraph (A), by striking “covered personnel” and inserting “covered individuals”. | the bill names no machine-readable US Code section |
-| — | strike | The table of chapters at the beginning of Part III of subtitle A is amended, in the item relating to chapter 113, by striking the period after “2200g”. | the bill names no machine-readable US Code section |
-| — | strike | Section 2107(a) is amended by striking “or Space Force”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 2279b(b) is amended by redesignating the second paragraph (11) as paragraph (12). | the bill names no machine-readable US Code section |
-| — | replace | Section 2321(f) is amended by striking “the item” both places it appears and inserting “the commercial product”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5), by striking “principle” and inserting “principal”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “subsection (j)” and inserting “subsection (k)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2891a(e)(1) is amended by striking “the any” and inserting “the”. | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 871 is amended by striking the item relating to section 8749 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | amend | The section heading for section 9401 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The section heading for section 9402 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 9840 is amended in the second sentence by striking “He” and inserting “The officer”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(a) In general.—” before “This Act”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 138` | strike | The table of chapters at the beginning of part I of subtitle A is amended by striking the item relating to the second section 19 (relating to cyber matters). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | replace | The table of sections at the beginning of chapter 2 is amended by striking the item relating to section 118 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | strike | Section 138(b)(2)(A)(i) is amended by striking the semicolon. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 393` | insert | Section 393(b)(2)(D) is amended by inserting a period at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 483` | insert | Section 483(f)(3) is amended by inserting “this” before “title”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 651` | insert | Section 651(a) is amended by inserting a comma after “3806(d)(1))”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | amend | The table of sections at the beginning of chapter 39 is amended by adding a period at the end of the item relating to section 691. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | insert | Section 823(a)(2) (article 23(a)(2) of the Uniform Code of Military Justice) is amended by inserting a comma after “Army”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | replace | The table of sections at the beginning of chapter 54 is amended by striking the item relating to section 1065 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1599h` | redesignate | in subsection (a), by redesignating the second paragraph (7) and paragraph (8) as paragraphs (8) and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1599h` | redesignate | in subsection (b)(1), by redesignating the second subparagraph (G) and subparagraph (H) as subparagraphs (H) and (I), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | strike | The table of chapters at the beginning of Part III of subtitle A is amended, in the item relating to chapter 113, by striking the period after “2200g”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2107` | strike | Section 2107(a) is amended by striking “or Space Force”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 2279b` | redesignate | Section 2279b(b) is amended by redesignating the second paragraph (11) as paragraph (12). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | replace | The table of sections at the beginning of chapter 871 is amended by striking the item relating to section 8749 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9401` | amend | The section heading for section 9401 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9402` | amend | The section heading for section 9402 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 138` | insert | by inserting “(a) In general.—” before “This Act”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 138` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 138(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (10) of section 9511 of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in section 9511a by striking “Secretary of Defense” each place it appears and inserting “Secretary”; | the bill names no machine-readable US Code section |
@@ -3686,15 +4026,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking “through 2021” and inserting “through 2026”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) as subsection (h); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 5519 of title 5, United States Code, is amended by striking “or (c)”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6323` | strike | Section 5519 of title 5, United States Code, is amended by striking “or (c)”. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Subchapter II of chapter 29 of title 5, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 29 of title 5, United States Code, is amended by inserting after the item relating to chapter 2954 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6382(a)(1) of title 5, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 6382(b)(1) of such title is amended by inserting after the third sentence the following: “Leave under subsection (a)(1)(F) shall not be taken by an employee intermittently or on a reduced leave schedule unless the employee and th… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “(A) or (B)” and inserting “(A), (B), or (F)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B)(i), by striking “birth or placement” and inserting “birth, placement, or death”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6382(e) of such title is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6383 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6382` | add-at-end | Section 6382(a)(1) of title 5, United States Code, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6382` | insert | Section 6382(b)(1) of such title is amended by inserting after the third sentence the following: “Leave under subsection (a)(1)(F) shall not be taken by an employee intermittently or on a reduced leave schedule unless the employee and th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6382` | add-at-end | Section 6382(e) of such title is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6383` | add-at-end | Section 6383 of such title is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1202(a) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1639) is amended by striking “2023” and inserting “2025”. | the bill names no machine-readable US Code section |
@@ -3944,12 +4282,10 @@ complete account of the bill's effect, which it is not.
 | `46 U.S.C. § 55602` | insert | Chapter 556 of title 46, United States Code, is amended by inserting after section 55602 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55602` | replace | by striking the item relating to section 55601 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55602` | insert | by inserting after the item relating to section 55602 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Chapter 504 of such title, as redesignated by paragraph (1), is amended in the chapter heading by striking “Miscellaneous” and inserting “Committees”. | the bill names no machine-readable US Code section |
-| — | redesignate | The section heading for section 50401 of such title, as redesignated by paragraph (3), is amended to read as follows: “United States Committee on the Marine Transportation System”. | the bill names no machine-readable US Code section |
-| — | replace | Section 8332(b)(1) of the Elijah E. Cummings Coast Guard Authorization Act of 2020 (division G of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283)) is amended by striking “secti… | the bill names no machine-readable US Code section |
-| — | redesignate | The analysis for chapter 504 of title 46, United States Code, as redesignated by subsection (a)(1), is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the item relating to chapter 503 the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking the item relating to chapter 555. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 50401` | redesignate | The section heading for section 50401 of such title, as redesignated by paragraph (3), is amended to read as follows: “United States Committee on the Marine Transportation System”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55501` | redesignate | The analysis for chapter 504 of title 46, United States Code, as redesignated by subsection (a)(1), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55501` | insert | by inserting after the item relating to chapter 503 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55501` | strike | by striking the item relating to chapter 555. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Part C of subtitle V of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “or subsection (d)” and inserting “or subsection (b)”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II) by striking “; or” and inserting a semicolon; and | the bill names no machine-readable US Code section |
