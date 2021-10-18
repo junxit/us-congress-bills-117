@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 417
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 417
@@ -75,3 +75,7 @@ A resolution recognizing Hispanic Heritage Month and celebrating the heritage an
 
 - 2021-10-07 — Introduced in Senate
 - 2021-10-07 — Referred to the Committee on the Judiciary.
+- 2021-10-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 10/07/2021 CR S7005-7006)
+- 2021-10-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 10/07/2021 CR S7005-7006)
+- 2021-10-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7028)
+- 2021-10-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7028)
