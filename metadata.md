@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 418
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 418
@@ -64,7 +64,15 @@ A resolution expressing support for the designation of October 3 through October
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Scott, Tim [R-SC] (S001184)
 
+## Committees (1)
+
+- Senate — Agriculture, Nutrition, and Forestry Committee
+
 ## Actions
 
 - 2021-10-07 — Introduced in Senate
 - 2021-10-07 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2021-10-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 10/07/2021 CR S7006)
+- 2021-10-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 10/07/2021 CR S7006)
+- 2021-10-19 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S7079)
+- 2021-10-19 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S7079)
