@@ -20,3 +20,7 @@ This Act may be cited as the “Drug-Free Communities Pandemic Relief Act”.
   - **(2)** with respect to a renewal grant described under paragraph (3)(D)(i) of such section, that exceeds 125 percent of the amount of non-Federal funds raised by the eligible coalition, including in-kind contributions, for that fiscal year; and
   - **(3)** with respect to a renewal grant described under paragraph (3)(D)(ii) of such section, that exceeds 150 percent of the amount of non-Federal funds raised by the eligible coalition, including in-kind contributions, for that fiscal year.
 - **(b)** *Limitation* The Administrator may not provide a grant or renewal grant to an eligible coalition in an amount exceeding the amount of funds initially agreed to be provided by the Administrator under the applicable agreement.
+
+## § 3. Raising cap on administrative expenses under Anti-Drug Abuse Act of 1988
+
+Section 1024(b) of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1524(b)) is amended by striking “8 percent” and inserting “12 percent”.
