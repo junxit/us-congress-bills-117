@@ -32,8 +32,8 @@ This Act may be cited as the “Information and Communication Technology Strateg
 - **(b)** *Whole-of-Government strategy*
   - **(1)** *In general* The Secretary shall develop, on the basis of the report required by subsection (a), a whole-of-Government strategy to ensure the economic competitiveness of trusted information and communication technology vendors that includes—
     - **(A)** recommendations on how—
-      - **(i)** to strengthen the structure, resources, and authorities of the Federal Government to support the economic competitiveness of trusted information and communication technology vendors; and
-      - **(ii)** the Federal Government can address any barriers to a market-based solution for increasing the economic competitiveness of trusted information and communication technology vendors;
+      - **(i)** to strengthen the structure, resources, and authorities of the Federal Government to support the economic competitiveness of trusted information and communication technology vendors, including United States vendors that are trusted information and communication technology vendors; and
+      - **(ii)** the Federal Government can address any barriers to a market-based solution for increasing the economic competitiveness of such information and communication technology vendors;
     - **(B)** defined lines of effort and responsibilities for Federal agencies to implement the strategy; and
     - **(C)** a description of—
       - **(i)** any change to a Federal program, Federal law, or structure of the Federal Government necessary to implement any recommendation under subparagraph (A); and
@@ -41,15 +41,12 @@ This Act may be cited as the “Information and Communication Technology Strateg
   - **(2)** *Report* Not later than 180 days after the submission of the report required by subsection (a), the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the strategy developed under paragraph (1).
 - **(c)** *Consultation required* In carrying out subsections (a) and (b), the Secretary shall consult with—
   - **(1)** a cross-section of trusted information and communication technology vendors; and
-  - **(2)** the Secretary of State, the Secretary of Homeland Security, the Attorney General, the Director of National Intelligence, and any other head of an agency the Secretary determines necessary.
+  - **(2)** the Secretary of State, the Secretary of Homeland Security, the Attorney General, the Director of National Intelligence, the Chair of the Federal Communications Commission and any other head of an agency the Secretary determines necessary.
 - **(d)** *Definitions* In this section:
   - **(1)** *Advanced telecommunications capability* The term “advanced telecommunications capability” has the meaning given that term in section 706 of the Telecommunications Act of 1996 (47 U.S.C. 1302).
   - **(2)** *Information and communication technology supply chain* The term information and communication technology supply chain means all of the companies that produce information and communication technology.
   - **(3)** *Information and communication technology* The term information and communication technology means a technology (including software), component, or material that enables communications by radio or wire.
-  - **(4)** *Not trusted* The term not trusted means, with respect to a company or information and communication technology, that the company or information and communication technology is determined by the Secretary to pose a threat to the national security of the United States. In making such a determination, the Secretary shall rely solely on one or more of the following determinations:
-    - **(A)** A specific determination made by any executive branch interagency body with appropriate national security expertise, including the Federal Acquisition Security Council established under section 1322(a) of title 41, United States Code.
-    - **(B)** A specific determination made by the Department of Commerce pursuant to Executive Order No. 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain).
-    - **(C)** Whether information and communication technology is, or whether a company produces or provides, covered telecommunications equipment or services, as defined in section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1918).
+  - **(4)** *Not trusted* The term not trusted means, with respect to a company or information and communication technology, that the company or information and communication technology is determined by the Secretary to pose an unacceptable risk to national security of the United States, or the security and safety of the United States persons based solely on one or more determination described under paragraphs (1) through (4) of section 2(c) of the Secure and Trusted Communications Networks Act of 2019 (Public Law 116–124).
   - **(5)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Assistant Secretary of Commerce for Communications and Information.
   - **(6)** *Trusted* The term trusted means, with respect to a company, that the Secretary has not determined that the company is not trusted.
   - **(7)** *Trusted information and communication technology vendor* The term trusted information and communication technology vendor means a company—
