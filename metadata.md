@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1029
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1029
@@ -61,3 +61,7 @@ Free Veterans from Fees Act
 - 2021-07-26 — Placed on the Union Calendar, Calendar No. 79.
 - 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-106.
 - 2021-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-106.
+- 2021-10-19 — Considered as unfinished business. (consideration: CR H5661-5662)
+- 2021-10-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 3 (Roll no. 316). (text: CR 7/26/2021 H3858-3859)
+- 2021-10-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 3 (Roll no. 316).(text: CR 7/26/2021 H3858-3859)
