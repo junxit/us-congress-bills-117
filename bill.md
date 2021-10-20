@@ -2,12 +2,12 @@
 legis-num: H.R. 4369
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4369
 
-> To amend the 21st Century Cures Act to provide for designation of institutions of higher education that provide research, data, and leadership on continuous manufacturing as National Centers of Excellence in Continuous Pharmaceutical Manufacturing, and for other purposes.
+> To amend the 21st Century Cures Act to provide for designation of institutions of higher education that provide research, data, and leadership on advanced and continuous pharmaceutical manufacturing as National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing, and for other purposes.
 
 ## § 1. Short title
 

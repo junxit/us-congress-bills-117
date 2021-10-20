@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4369
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4369
@@ -20,9 +20,10 @@ National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufac
 
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufac
 - 2021-10-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-151.
 - 2021-10-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-151.
 - 2021-10-19 — The title of the measure was amended. Agreed to without objection.
+- 2021-10-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
