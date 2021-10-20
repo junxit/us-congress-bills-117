@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 654
 
-> To provide the Administrator of the Drug-Free Communities Support Program the authority to waive the Federal fund limitation for the Drug-Free Communities Support Program.
+> To provide the Administrator of the Drug-Free Communities Support Program the authority to waive the Federal fund limitation for the Drug-Free Communities Support Program, and for other purposes.
 
 ## § 1. Short title
 
