@@ -53,3 +53,7 @@ This Act may be cited as the “DHS Software Supply Chain Risk Management Act of
     - **(B)** any other official of the Department as determined appropriate by the Under Secretary.
   - **(5)** *Software* The term “software” means computer programs and associated data that may be dynamically written or modified during execution.
   - **(6)** *Under Secretary* The term “Under Secretary” means the Under Secretary for Management of the Department of Homeland Security.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
