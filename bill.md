@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4032
 
-> To provide outreach and technical assistance to small providers regarding the benefits of Open RAN networks, and for other purposes.
+> To provide outreach and technical assistance to small providers regarding Open RAN networks, and for other purposes.
 
 ## § 1. Short title
 
