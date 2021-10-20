@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2044
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2044
@@ -31,3 +31,11 @@ To designate the facility of the United States Postal Service located at 17 East
 - 2021-03-18 — Introduced in House
 - 2021-03-18 — Introduced in House
 - 2021-03-18 — Referred to the House Committee on Oversight and Reform.
+- 2021-04-14 — Committee Consideration and Mark-up Session Held.
+- 2021-04-14 — Ordered to be Reported by Unanimous Consent.
+- 2021-10-20 — Considered under suspension of the rules. (consideration: CR H5696-5697)
+- 2021-10-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2044.
+- 2021-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5696)
+- 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5696)
