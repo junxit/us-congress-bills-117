@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 767
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 40 Fult
 
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 
-## Cosponsors (8)
+## Cosponsors (26)
 
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
@@ -26,6 +26,24 @@ To designate the facility of the United States Postal Service located at 40 Fult
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Jacobs, Chris [R-NY-27] (J000020)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Meng, Grace [D-NY-6] (M001188)
 
 ## Committees (1)
 
@@ -36,3 +54,11 @@ To designate the facility of the United States Postal Service located at 40 Fult
 - 2021-02-03 — Introduced in House
 - 2021-02-03 — Introduced in House
 - 2021-02-03 — Referred to the House Committee on Oversight and Reform.
+- 2021-04-14 — Committee Consideration and Mark-up Session Held.
+- 2021-04-14 — Ordered to be Reported by Unanimous Consent.
+- 2021-10-20 — Considered under suspension of the rules. (consideration: CR H5693)
+- 2021-10-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 767.
+- 2021-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5693)
+- 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5693)
