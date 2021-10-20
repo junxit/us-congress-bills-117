@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3919
 
-> To ensure that the Federal Communications Commission does not approve radio frequency devices that pose a national security risk.
+> To ensure that the Federal Communications Commission prohibits authorization of radio frequency devices that pose a national security risk.
 
 ## § 1. Short title
 
