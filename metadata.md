@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3210
@@ -34,3 +34,11 @@ To designate the facility of the United States Postal Service located at 1905 15
 - 2021-05-13 — Introduced in House
 - 2021-05-13 — Introduced in House
 - 2021-05-13 — Referred to the House Committee on Oversight and Reform.
+- 2021-05-25 — Committee Consideration and Mark-up Session Held.
+- 2021-05-25 — Ordered to be Reported by Unanimous Consent.
+- 2021-10-20 — Considered under suspension of the rules. (consideration: CR H5692-5693)
+- 2021-10-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3210.
+- 2021-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5692)
+- 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5692)
