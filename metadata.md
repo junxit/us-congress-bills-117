@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3419
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3419
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 66 Mese
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
@@ -43,6 +43,7 @@ To designate the facility of the United States Postal Service located at 66 Mese
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Katko, John [R-NY-24] (K000386)
 
 ## Committees (1)
 
@@ -53,3 +54,11 @@ To designate the facility of the United States Postal Service located at 66 Mese
 - 2021-05-20 — Introduced in House
 - 2021-05-20 — Introduced in House
 - 2021-05-20 — Referred to the House Committee on Oversight and Reform.
+- 2021-05-25 — Committee Consideration and Mark-up Session Held.
+- 2021-05-25 — Ordered to be Reported by Unanimous Consent.
+- 2021-10-20 — Considered under suspension of the rules. (consideration: CR H5693-5694)
+- 2021-10-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3419.
+- 2021-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5693)
+- 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5693)
