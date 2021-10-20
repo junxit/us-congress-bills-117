@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4089
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4089
@@ -20,9 +20,10 @@ Darren Drake Act
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Darren Drake Act
 - 2021-10-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-10-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 51 (Roll no. 317). (text: CR 9/29/2021 H5536)
 - 2021-10-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 51 (Roll no. 317).(text: CR 9/29/2021 H5536)
+- 2021-10-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
