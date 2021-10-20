@@ -1,7 +1,7 @@
 ---
 measure: S. 2899
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2899
@@ -29,3 +29,7 @@ Prison Camera Reform Act of 2021
 
 - 2021-09-29 — Introduced in Senate
 - 2021-09-29 — Read twice and referred to the Committee on the Judiciary.
+- 2021-10-20 — Passed Senate without amendment by Unanimous Consent. (text: CR S7132)
+- 2021-10-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7132)
+- 2021-10-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7132)
+- 2021-10-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7132)
