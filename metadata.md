@@ -1,7 +1,7 @@
 ---
 measure: H.R. 654
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 654
@@ -26,6 +26,10 @@ Drug-Free Communities Pandemic Relief Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2021-10-20 — [House 117-1-321](votes/house-117-1-0321.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (395–30)
+
 ## Actions
 
 - 2021-02-01 — Introduced in House
@@ -43,3 +47,8 @@ Drug-Free Communities Pandemic Relief Act
 - 2021-10-19 — Placed on the Union Calendar, Calendar No. 106.
 - 2021-10-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-146.
 - 2021-10-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-146.
+- 2021-10-20 — Considered as unfinished business. (consideration: CR H5700)
+- 2021-10-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 321). (text: CR 10/19/2021 H5650)
+- 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 321).(text: CR 10/19/2021 H5650)
+- 2021-10-20 — The title of the measure was amended. Agreed to without objection.
