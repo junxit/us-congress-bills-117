@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4028
 
-> To require the Secretary of Commerce to report on and develop a whole-of-Government strategy with respect to the economic competitiveness of the information and communication technology supply chain, and for other purposes.
+> To require the Secretary of Commerce, acting through the Assistant Secretary of Commerce for Communications and Information, to report on and develop a whole-of-Government strategy with respect to the economic competitiveness of the information and communication technology supply chain, and for other purposes.
 
 ## § 1. Short title
 
