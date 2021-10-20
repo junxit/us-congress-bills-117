@@ -53,7 +53,7 @@ Section 1003 of the 21st Century Cures Act (42 U.S.C. 290ee–3 note) is amended
 >   - **(2)** the ultimate recipients of amounts provided to the State; and
 >   - **(3)** the number of individuals served through the grant.
 > - **(d)** *Limitations* Any funds made available pursuant to subsection (i)—
->   - **(1)** notwithstanding any transfer authority in any appropriations Act, shall not be used for any purpose other than the grant program in subsection (b); and
+>   - **(1)** shall not be used for any purpose other than the grant program under subsection (b); and
 >   - **(2)** shall be subject to the same requirements as substance use disorders prevention and treatment programs under titles V and XIX of the Public Health Service Act (42 U.S.C. 290aa et seq., 300w et seq.).
 > - **(e)** *Indian Tribes, Tribal organizations, and Urban Indian organizations* The Secretary, in consultation with Indian Tribes, Tribal organizations, and Urban Indian organizations, shall identify and establish appropriate mechanisms for Indian Tribes, Tribal organizations, and Urban Indian organizations to demonstrate or report the information as required under subsections (b), (c), and (d).
 > - **(f)** *Report to Congress* Not later than September 30, 2024, and biennially thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and the Committees on Appropriations of the House of Representatives and the Senate, a report that includes a summary of the information provided to the Secretary in reports made pursuant to subsections (c) and (e), including—
