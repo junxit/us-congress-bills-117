@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3919
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3919
@@ -68,3 +68,12 @@ Secure Equipment Act of 2021
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 4 (Roll no. 323).(text: CR 10/19/2021 H5654-5655)
 - 2021-10-20 — The title of the measure was amended. Agreed to without objection.
 - 2021-10-21 — Received in the Senate, read twice.
+- 2021-10-28 — Message on Senate action sent to the House.
+- 2021-10-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR H7450)
+- 2021-10-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR H7450)
+- 2021-11-03 — Presented to President.
+- 2021-11-03 — Presented to President.
+- 2021-11-11 — Became Public Law No: 117-55.
+- 2021-11-11 — Became Public Law No: 117-55.
+- 2021-11-11 — Signed by President.
+- 2021-11-11 — Signed by President.
