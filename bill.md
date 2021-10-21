@@ -2,11 +2,11 @@
 legis-num: H. RES. 727
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 727
 
-> Relating to the consideration of House Report 117–152 and an accompanying resolution.
+> Relating to the consideration of House Report 117-152 and an accompanying resolution.
 
 That if House Report 117–152 is called up by direction of the Select Committee to Investigate the January 6th Attack on the United States Capitol: (a) all points of order against the report are waived and the report shall be considered as read; and (b)(1) an accompanying resolution offered by direction of the Select Committee to Investigate the January 6th Attack on the United States Capitol shall be considered as read and shall not be subject to a point of order; and (2) the previous question shall be considered as ordered on such resolution to adoption without intervening motion or demand for division of the question except one hour of debate equally divided among and controlled by Representative Thompson of Mississippi, Representative Cheney of Wyoming, and an opponent, or their respective designees.
