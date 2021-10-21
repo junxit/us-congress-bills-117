@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4067
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4067
@@ -24,9 +24,10 @@ Communications Security, Reliability, and Interoperability Council Act
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Communications Security, Reliability, and Interoperability Council Act
 - 2021-10-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-10-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 29 (Roll no. 325). (text: CR 10/19/2021 H5657-5658)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 29 (Roll no. 325).(text: CR 10/19/2021 H5657-5658)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
