@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 408
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 408
@@ -32,3 +32,7 @@ A resolution designating October 2021 as "National Co-op Month" and commending t
 
 - 2021-10-06 — Introduced in Senate
 - 2021-10-06 — Referred to the Committee on the Judiciary.
+- 2021-10-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 10/06/2021 CR S6944-6945)
+- 2021-10-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 10/06/2021 CR S6944-6945)
+- 2021-10-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7321)
+- 2021-10-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7321)
