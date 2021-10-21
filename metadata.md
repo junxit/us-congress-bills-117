@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4032
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4032
@@ -26,9 +26,10 @@ Open RAN Outreach Act
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Open RAN Outreach Act
 - 2021-10-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 17 (Roll no. 324). (text: CR 10/19/2021 H5656)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 17 (Roll no. 324).(text: CR 10/19/2021 H5656)
 - 2021-10-20 — The title of the measure was amended. Agreed to without objection.
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
