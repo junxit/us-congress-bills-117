@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1170
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1170
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 1 Leagu
 - Rep. Nunes, Devin [R-CA-22] (N000181)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 1 Leagu
 - 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5691)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5691)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
