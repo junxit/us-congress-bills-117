@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1444
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1444
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 132 Nor
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 132 Nor
 - 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5694)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5694)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
