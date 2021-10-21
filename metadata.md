@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3175
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3175
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 135 Mai
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the facility of the United States Postal Service located at 135 Mai
 - 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5695)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5695)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
