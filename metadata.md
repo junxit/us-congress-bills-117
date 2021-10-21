@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2044
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2044
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 17 East
 - Rep. LaTurner, Jake [R-KS-2] (L000266)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the facility of the United States Postal Service located at 17 East
 - 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5696)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5696)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
