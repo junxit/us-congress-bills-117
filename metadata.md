@@ -1,7 +1,7 @@
 ---
 measure: H.R. 960
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 960
@@ -34,9 +34,10 @@ To designate the facility of the United States Postal Service located at 3493 Bu
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 - Rep. Fudge, Marcia L. [D-OH-11] (F000455)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 3493 Bu
 - 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5697)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5697)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
