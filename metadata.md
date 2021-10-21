@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 767
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 40 Fult
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To designate the facility of the United States Postal Service located at 40 Fult
 - 2021-10-20 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5693)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5693)
+- 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
