@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5703
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5703
+
+> To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to authorize the President to provide professional counseling services to victims of emergencies declared under such Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Post-Disaster Mental Health Response Act”.
+
+## § 2. Crisis counseling assistance and training
+
+Section 502(a)(6) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5192(a)(6)) is amended by inserting “and section 416” after “section 408”.
