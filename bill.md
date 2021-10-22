@@ -22,7 +22,7 @@ This Act may be cited as the “Providing Urgent Maternal Protections for Nursin
     - **(B)** by adding at the end the following:
       > - **(6)** to violate any of the provisions of section 18D.
 
-  - **(3)** in section 16(b) by striking “7(r)” each place the term appears and inserting “18D of this title”; and
+  - **(3)** in section 16(b), by striking “7(r) or 15(a)(3)” each place the term appears and inserting “15(a)(3) or 18D”; and
   - **(4)** by inserting after section 18C the following:
     > ## § 18D. Breastfeeding accommodations in the workplace
     >
@@ -32,7 +32,7 @@ This Act may be cited as the “Providing Urgent Maternal Protections for Nursin
     > - **(b)**
     >   - **(1)** Subject to paragraph (2), an employer shall not be required to compensate an employee receiving break time under subsection (a)(1) for any time spent during the workday for such purpose unless otherwise required by Federal or State law or municipal ordinance.
     >   - **(2)** Break time provided under subsection (a)(1) shall be considered hours worked if the employee is not completely relieved from duty during the entirety of such break.
-    > - **(c)** An employer that employs fewer than 25 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
+    > - **(c)** An employer that employs fewer than 50 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
     > - **(d)** No provision of this section or of any order thereunder shall excuse noncompliance with any Federal or State law or municipal ordinance that provides greater protections to employees than the protections provided for under this section.
     > - **(e)**
     >   - **(1)** Subject to paragraph (2), before an employee commences an action to recover liability under section 16(b) for a violation of paragraph (a)(2), the employee shall inform the employer of the failure to provide adequate place and provide the employer with 10 calendar days after such notice is provided to come into compliance with subsection (a)(2) with respect to such employee.
@@ -44,11 +44,42 @@ This Act may be cited as the “Providing Urgent Maternal Protections for Nursin
     >   - **(2)** gives birth, including to—
     >     - **(A)** a stillborn child; or
     >     - **(B)** a child over whom the employee does not retain legal custody.
+    > - **(g)**
+    >   - **(1)** This section shall apply to an air carrier, as defined in section 40102 of title 49, United States Code, subject to the following requirements:
+    >     - **(A)** In providing a break described in subsection (a)(1) to a crewmember, an employer shall not be required to—
+    >       - **(i)** completely relieve such crewmember from duty during break time taken during flight time; or
+    >       - **(ii)** provide such a break during critical phases of flight.
+    >     - **(B)** Nothing in this subsection shall require an employer to incur significant expense, when considered in relation to the size, financial resources, nature, or structure of the employer's business, to retrofit an aircraft.
+    >   - **(2)** In this subsection—
+    >     - **(A)** the terms “flight time” and “crewmember” have the meaning given such terms in section 1.1 of title 14, Code of Federal Regulations; and
+    >     - **(B)** the term “critical phases of flight” has the meaning given the term in 121.542 of title 14, Code of Federal Regulations.
 
 - **(b)** *Clarifying remedies* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended by striking “15(a)(3)” each place the term appears and inserting “7(r) or 15(a)(3)”.
 - **(c)** *Guidance* Not later than 60 days after the date of enactment of this Act, the Secretary of Labor shall issue guidance with respect to employer compliance with section 18D of the Fair Labor Standards Act of 1938, as amended by this Act, which shall be similar, with respect to specific examples of compliance, to the guidance relating to “Supporting Nursing Moms at Work” published on the website of the Office on Women's Health of the Department of Health and Human Services as of such date of enactment.
+- **(d)** *Conforming coverage of certain other employees* Section 203(a)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1313(a)(1)) is amended—
+  - **(1)** by striking “and section 12(c)” and inserting “section 12(c), and section 18D”; and
+  - **(2)** by inserting “, 218D” after “212(c)”.
 
 ## § 3. Effective date
 
-- **(a)** *Expanding access* The amendments made under section 2(a) shall take effect on the date that is 120 days after the date of enactment of this Act.
+- **(a)** *Expanding access* Except as provided in subsection (c), the amendments made under sections 2(a) and 2(d) shall take effect on the date that is 120 days after the date of enactment of this Act.
 - **(b)** *Remedies and clarification* The amendments made under section 2(b) shall take effect on the date of enactment of this Act.
+- **(c)** *Application of law* Section 18D of the Fair Labor Standards Act of 1938 (as added by section 2) shall not apply to crewmembers of an air carrier, as defined in section 40102 of title 49, United States Code, until the date that is 1 year after the date of enactment of this Act.
+
+## § 4. Regulations required
+
+Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration, in consultation with the Secretary of Labor, shall propose regulations, as appropriate, to—
+
+- **(1)** identify appropriate means for air carriers, as defined in section 40102 of title 49, United States Code, to comply with subsection (b)(1) of section 18D of the Fair Labor Standards Act of 1938 during flight time; and
+- **(2)** update title 14, Code of Federal Regulations, to ensure that expressing breast milk is considered a physiological need.
+
+## § 5. Report
+
+Not later than 24 months after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate that contains recommendations as appropriate to improve compliance among covered employers, including what is known about employee awareness of the rights afforded to them by the amendments made by this Act.
+
+## § 6. Report on racial disparities
+
+The Comptroller General shall—
+
+- **(1)** conduct a study on what is known about the racial disparities that exist with respect to access to pumping breastmilk in the workplace; and
+- **(2)** submit to Congress a report on the results of such study containing such recommendations as the Comptroller General determines appropriate to address those disparities.
