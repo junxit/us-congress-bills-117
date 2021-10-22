@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3110
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+8 amendatory instructions. 3 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 29 U.S.C. § 201
 
-> in section 16(b) by striking “7(r)” each place the term appears and inserting “18D of this title”; and
+> in section 16(b), by striking “7(r) or 15(a)(3)” each place the term appears and inserting “15(a)(3) or 18D”; and
 
 | | |
 |---|---|
-| Removed | `7(r)` |
-| Inserted | `18D of this title` |
+| Removed | `7(r) or 15(a)(3)` |
+| Inserted | `15(a)(3) or 18D` |
 
 ### 29 U.S.C. § 216
 
@@ -41,6 +41,15 @@ to guess them.
 |---|---|
 | Removed | `15(a)(3)` |
 | Inserted | `7(r) or 15(a)(3)` |
+
+### 2 U.S.C. § 1313
+
+> by striking “and section 12(c)” and inserting “section 12(c), and section 18D”; and
+
+| | |
+|---|---|
+| Removed | `and section 12(c)` |
+| Inserted | `section 12(c), and section 18D` |
 
 ## Stated, not applied
 
@@ -55,3 +64,4 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 201` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 201` | insert | by inserting after section 18C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1313` | insert | by inserting “, 218D” after “212(c)”. | the bill quotes the text inserted but describes where it goes |
