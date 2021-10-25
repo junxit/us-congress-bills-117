@@ -15,31 +15,23 @@ This Act may be cited as the “Real Justice for Our Veterans Act of 2021”.
 
 ## § 2. Equal access to veterans court treatment programs for racial and ethnic minorities and women
 
-Section 2991(i)(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10651(i)(2)) is amended—
+Section 2991(i)(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10651(i)(2)) is amended by adding at the end the following:
 
-- **(1)** in subparagraph (B)—
-  - **(A)** in clause (ii), by striking “and” at the end;
-  - **(B)** in clause (iii), by striking the period at the end and inserting “; and”; and
-  - **(C)** by adding at the end the following:
-    > - **(iv)** include a description of a proposal to implement a process to ensure that racial and ethnic minorities and women have equal access to the program, and an equal opportunity to complete the program, including by collecting and analyzing data related to admission in the program and completion of the program, to ensure there are not disparities related to race, ethnicity, or sex.
-
-- **(2)** by adding at the end the following:
-  > - **(C)** *Report* Not later than 3 years after the date of enactment of this subparagraph, the Attorney General shall submit to Congress a report on the effectiveness of veterans treatment court programs. In preparing such report, the Attorney General shall conduct a national multi-site evaluation of such programs, including an assessment of—
-  >   - **(i)** the population served by such programs;
-  >   - **(ii)** whether such programs use evidence-based treatments for substance use and mental health, including medication for addiction treatment;
-  >   - **(iii)** recidivism rates of participants in such programs; and
-  >   - **(iv)** program completion rates.
+> - **(C)** *Report* Not later than 3 years after the date of enactment of this subparagraph, the Attorney General shall submit to Congress a report on the effectiveness of veterans treatment court programs. In preparing such a report, the Attorney General shall conduct a national multi-site evaluation of such programs, including an assessment of—
+>   - **(i)** the population served by such programs;
+>   - **(ii)** whether such programs use evidence-based treatments for substance use and mental health, including medication for addiction treatment;
+>   - **(iii)** recidivism rates of participants in such programs;
+>   - **(iv)** program completion rates; and
+>   - **(v)** whether racial and ethnic minorities and women have equal access to such programs and an equal opportunity to complete such programs, including by collecting and analyzing data related to admission in such programs and completion of such programs, to ensure there are not disparities related to race, ethnicity, or sex.
 
 ## § 3. Veterans pilot program on promising retention models
 
-- **(a)** *Establishment* The Attorney General, acting through the Director of the Bureau of Justice Assistance, shall carry out a pilot program—
-  - **(1)** to provide training and technical support to local and State conviction review entities; and
-  - **(2)** to make grants to eligible units of local government to improve retention in a veterans treatment court program (as such term is defined in section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10651)) and drug courts.
-- **(b)** *Eligibility* In order to be eligible for a grant under subsection (a)(2), a unit of local government shall operate a veterans treatment court program or a drug court.
-- **(c)** *Application* A unit of local government seeking a grant through the pilot program under subsection (a)(2) shall submit to the Attorney General an application at such time, in such manner, and containing such information as the Attorney General may reasonably require, and shall contain, including—
-  - **(1)** a description of the therapy model that they plan to implement and data to support the use of the therapy model, including information showing how the therapy will promote retention in and completion of veterans treatment court programs; and
-  - **(2)** detailed plans on how the applicant would test the efficacy of the therapy program.
-- **(d)** *Reporting metrics* Not later than 180 days after receiving a grant under subsection (a)(2), a unit of local government shall submit to the Attorney General a report, which includes demographic information of participants in the veterans treatment court program and completion rates of such participants. The Attorney General shall develop guidelines for the report required under this subsection.
+- **(a)** *Establishment* The Attorney General, acting through the Director of the Bureau of Justice Assistance, shall carry out a pilot program to make grants to eligible units of local government to improve retention in veterans treatment court programs (as such term is defined in section 2991 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10651)) and drug court programs.
+- **(b)** *Eligibility* In order to be eligible for a grant under subsection (a), a unit of local government shall operate a veterans treatment court program or a drug court.
+- **(c)** *Application* A unit of local government seeking a grant through the pilot program under subsection (a) shall submit to the Attorney General an application at such time, in such manner, and containing such information as the Attorney General may reasonably require, including—
+  - **(1)** a description of the therapeutic or treatment modality that the unit of local government plans to implement and data to support the use of the therapeutic or treatment modality, including information showing how the therapeutic or treatment modality will promote retention in and completion of veterans treatment court programs and drug court programs; and
+  - **(2)** detailed plans on how the applicant would test the efficacy of the therapeutic or treatment modality.
+- **(d)** *Reporting metrics* Not later than 180 days after receiving a grant under subsection (a), a unit of local government shall submit to the Attorney General a report, which includes demographic information of participants in the veterans treatment court program, and completion rates of such participants. The Attorney General shall develop guidelines for the report required under this subsection.
 - **(e)** *Authorization of appropriations* There is authorized to be appropriated $3,000,000 for each of fiscal years 2022 through 2027 to carry out this section.
 
 ## § 4. Admission of veterans to drug courts
