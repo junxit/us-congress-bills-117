@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2989
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 0 executed, 35 stated and not applied.
+30 amendatory instructions. 0 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,9 +34,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5311` | add-at-end | Subtitle A of title I of the Financial Stability Act of 2010 (12 U.S.C. 5311 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5311` | insert | The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting after the item relating to section 123 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 124 of the Financial Stability Act of 2010, as added by section 101, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `12 U.S.C. § 5343` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5343` | redesignate | by redesignating paragraphs (3) through (7) as paragraphs (2) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5343` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80b-4` | redesignate | by redesignating the second subsection (d) (relating to Records of Persons With Custody of Use) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80b-4` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80a-1` | add-at-end | in section 8, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -60,8 +57,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1844` | add-at-end | Section 5 of the Bank Holding Company Act of 1956 (12 U.S.C. 1844) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5468` | add-at-end | Section 809 of the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5468) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 226` | add-at-end | The Federal Reserve Act (12 U.S.C. 226 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1` | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1` | add-at-end | The Commodity Exchange Act (7 U.S.C. 1 et seq.), as amended by section 701, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1752` | add-at-end | Title I of the Federal Credit Union Act (12 U.S.C. 1752 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1752` | add-at-end | Title I of the Federal Credit Union Act (12 U.S.C. 1752 et seq.), as amended by section 801, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4501` | add-at-end | Part 1 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
