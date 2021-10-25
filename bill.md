@@ -43,3 +43,7 @@ The Secretary may strike and sell duplicates in bronze of the gold medal struck 
 
 - **(a)** *Authority To use fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the costs of the medals struck pursuant to this Act.
 - **(b)** *Proceeds of sale* The amounts received from the sale of duplicate bronze medals authorized under section 3 shall be deposited into the United States Mint Public Enterprise Fund.
+
+## § 6. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
