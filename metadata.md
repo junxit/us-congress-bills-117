@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2989
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2989
@@ -20,10 +20,11 @@ Financial Transparency Act of 2021
 
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Financial Transparency Act of 2021
 - 2021-10-25 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2021-10-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 19 (Roll no. 333). (text: CR H5840-5846)
 - 2021-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 19 (Roll no. 333).(text: CR H5840-5846)
+- 2021-10-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
