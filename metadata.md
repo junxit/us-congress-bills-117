@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5142
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5142
@@ -363,3 +363,12 @@ To award posthumously a Congressional Gold Medal, in commemoration to the servic
 - 2021-10-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5850)
 - 2021-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5850)
 - 2021-10-26 — Received in the Senate, read twice.
+- 2021-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8341)
+- 2021-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8341)
+- 2021-11-18 — Message on Senate action sent to the House.
+- 2021-12-07 — Presented to President.
+- 2021-12-07 — Presented to President.
+- 2021-12-16 — Became Public Law No: 117-72.
+- 2021-12-16 — Became Public Law No: 117-72.
+- 2021-12-16 — Signed by President.
+- 2021-12-16 — Signed by President.
