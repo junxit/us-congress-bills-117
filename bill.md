@@ -36,9 +36,7 @@ Section 302 (42 U.S.C. 10402) is amended to read as follows:
 > In this title:
 >
 > - **(1)** *Alaska native* The term “Alaska Native” has the meaning given the term Native in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602).
-> - **(2)** *Child* The term “child” means an individual who is—
->   - **(A)** younger than age 18; and
->   - **(B)** not an emancipated minor.
+> - **(2)** *Child* The term child means an individual who is younger than age 18.
 > - **(3)** *Dating partner*
 >   - **(A)** *In general* The term dating partner means any person who is or has been in a social relationship of a romantic or intimate nature with an abuser, and where the existence of such a relationship shall be determined based on a consideration of one or more of the following factors:
 >     - **(i)** The length of the relationship.
@@ -60,7 +58,7 @@ Section 302 (42 U.S.C. 10402) is amended to read as follows:
 >   - **(C)** exert undue influence over a person’s financial and economic behavior or decisions, including forcing default on joint or other financial obligations, exploiting powers of attorney, guardianship, or conservatorship, or failing or neglecting to act in the best interests of a person to whom one has a fiduciary duty.
 > - **(7)** *Indian; Indian Tribe; Tribal organization* The terms Indian, Indian Tribe, and Tribal organization have the meanings given the terms Indian, Indian tribe, and tribal organization, respectively, in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 > - **(8)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
-> - **(9)** *Native Hawaiian* The term “Native Hawaiian” has the meaning given the term in section 6207 of the Elementary and Secondary Education Act of 1965.
+> - **(9)** *Native Hawaiian; Native Hawaiian organization* The terms ‘Native Hawaiian’ and ‘Native Hawaiian organization’ have the meanings given such terms in section 6207 of the Native Hawaiian Education Act (20 U.S.C. 7517).
 > - **(10)** *Personally identifying information* The term “personally identifying information” has the meaning given the term in section 40002(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12291(a)).
 > - **(11)** *Population specific services* The term population specific services has the meaning given such term in section 40002(a) of the Violence Against Women Act (34 U.S.C. 12291(a)).
 > - **(12)** *Racial and ethnic minority group; racial and ethnic minority population* The terms “racial and ethnic minority group” and “racial and ethnic minority population” include each group listed in the definition of such term in section 1707(g) of the Public Health Service Act (42 U.S.C. 300u–6(g)).
@@ -136,7 +134,7 @@ Section 304 (42 U.S.C. 10404) is amended—
 
 - **(3)** by adding at the end the following:
   > - **(d)** *Emergency authority*
-  >   - **(1)** *In general* In response to any emergency or disaster described in paragraph (3), for the duration of the emergency or disaster, the Secretary may—
+  >   - **(1)** *In general* In response to any emergency or disaster described in paragraph (3) that substantially disrupts the provision of services under this title, for the duration of the emergency or disaster, the Secretary may—
   >     - **(A)** modify or broaden the allowable uses of funds by grantees and subgrantees solely to ensure the continuity of services authorized under this title, including for remote and mobile service delivery; and
   >     - **(B)** modify or waive any administrative conditions, processes, or deadlines, including with respect to—
   >       - **(i)** application requirements;
@@ -146,7 +144,7 @@ Section 304 (42 U.S.C. 10404) is amended—
   >   - **(3)** *Emergencies described* The emergencies and disasters described in this paragraph are the following:
   >     - **(A)** A major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
   >     - **(B)** An emergency declared by the President under section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191).
-  >     - **(C)** A public health emergency determined to exist pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d).
+  >     - **(C)** A public health emergency determined by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d).
 
 ## § 6. Allotment of funds
 
@@ -274,7 +272,7 @@ Section 308 (42 U.S.C. 10408) is amended—
 
 - **(3)** in subsection (c)—
   - **(A)** in paragraph (1)—
-    - **(i)** by striking “a local public agency, or ”; and
+    - **(i)** by striking “a local public agency, or ”;
     - **(ii)** by striking “tribal organizations, and voluntary associations),” and inserting “Tribal organizations and voluntary associations) or a local public agency”; and
     - **(iii)** by striking “dependents” and inserting “children and dependents”; and
   - **(B)** by amending paragraph (2) to read as follows:
@@ -305,10 +303,11 @@ Section 310 (42 U.S.C. 10410) is amended—
   - **(B)** in subparagraph (A)—
     - **(i)** in clause (i), by striking “; and” and inserting a semicolon;
     - **(ii)** in clause (ii)—
-      - **(I)** by striking “7” and inserting “10”; and
+      - **(I)** by striking “7” and inserting “11”; and
       - **(II)** by inserting “dating violence, and family violence,” after “domestic violence,”; and
     - **(iii)** by adding at the end the following:
-      > - **(iii)** an Alaska Native Tribal resource center on domestic violence, dating violence, and family violence, to reduce disparities in the rate of such violence within the Alaska Native population; and
+      > - **(iii)** an Alaska Native Tribal resource center on domestic violence, dating violence, and family violence, to reduce disparities in the rate of such violence within the Alaska Native population;
+      > - **(iv)** a Native Hawaiian resource center on domestic violence, to reduce Native Hawaiian disparities; and
 
   - **(C)** in subparagraph (B)—
     - **(i)** in the matter preceding clause (i), by striking “grants, to” and inserting “grants to entities that focus on other critical issues, such as”;
@@ -339,8 +338,8 @@ Section 310 (42 U.S.C. 10410) is amended—
         - **(cc)** by inserting “, dating violence, and family violence” after “domestic violence”; and
         - **(dd)** by striking “42” and all the follows through “3796gg–10 note” and inserting “34 U.S.C. 10452 note”;
       - **(II)** in clause (ii)—
-        - **(aa)** by striking “tribes and tribal organizations” and inserting “Tribes and Tribal organizations”; and
-        - **(bb)** by inserting “, dating violence, and family violence” after “domestic violence”;
+        - **(aa)** by striking “tribes and tribal organizations” and inserting “Tribes and Tribal organizations”;
+        - **(bb)** by inserting “, dating violence, and family violence” after “domestic violence”; and
         - **(cc)** by striking “42” and all that follows through “3796gg–10 note” and inserting “34 U.S.C. 10452 note”; and
       - **(III)** in clause (iii)—
         - **(aa)** by inserting “dating violence, and family violence,” after “domestic violence,”; and
@@ -381,12 +380,20 @@ Section 310 (42 U.S.C. 10410) is amended—
 
   - **(E)** in paragraph (4), as so redesignated—
     - **(i)** in subparagraphs (A) and (B)(i), by striking “Indian tribes, tribal organizations” each place such term appears and inserting “Indian Tribes, Tribal organizations”;
-    - **(ii)** in subparagraph (A). by inserting “, dating violence, and family violence” after “domestic violence”;
+    - **(ii)** in subparagraph (A) by inserting “, dating violence, and family violence” after “domestic violence”;
     - **(iii)** in subparagraph (B)—
       - **(I)** in clause (i), by striking “the tribes” and inserting “the Tribes”;
       - **(II)** in clause (ii), by striking “nontribal” and inserting “non-Tribal”; and
       - **(III)** in clause (iii), by inserting “, dating violence, and family violence” after “domestic violence”; and
     - **(iv)** by striking “(including Alaska Natives)” each place such term appears; and
+  - **(F)** by adding at the end the following:
+    > - **(5)** *Native Hawaiian resource center* In accordance with subsection (a)(2), the Secretary shall award a grant to an eligible entity for an Native Hawaiian resource center on domestic violence to reduce Native Hawaiian disparities, which shall—
+    >   - **(A)** offer a comprehensive array of technical assistance and training resources to Native Hawaiian organizations, specifically designed to enhance the capacity of the Native Hawaiian organizations to respond to family violence, domestic violence, and dating violence;
+    >   - **(B)** coordinate all projects and other activities with the national resource center described in paragraph (1)(B);
+    >   - **(C)** coordinate all projects and other activities, with State and local governments, that involve working with the State and local governments, to enhance their capacity to understand the unique needs of Native Hawaiians;
+    >   - **(D)** provide comprehensive community education and prevention initiatives relating to family violence, domestic violence, and dating violence in a culturally sensitive and relevant manner; and
+    >   - **(E)** coordinate activities with other Federal agencies, offices, and grantees that address the needs of Native Hawaiians who experience family violence, domestic violence, and dating violence, including the Office for Victims of Crime and the Office on Violence Against Women of the Department of Justice.
+
 - **(3)** in subsection (c)—
   - **(A)** in paragraph (1)—
     - **(i)** in the matter preceding subparagraph (A)—
@@ -407,7 +414,7 @@ Section 310 (42 U.S.C. 10410) is amended—
       - **(I)** by inserting “, dating violence, and family violence” after “domestic violence” the first place such term appears; and
       - **(II)** by inserting “, dating violence, or family violence” after “domestic violence” the second place such term appears; and
     - **(ii)** in subparagraph (B)—
-      - **(I)** in clause (i), by inserting “, dating violence, and family violence” after “domestic violence” ; and
+      - **(I)** in clause (i), by inserting “, dating violence, and family violence” after “domestic violence”;
       - **(II)** in clause (ii), by striking “; and” and inserting a semicolon;
       - **(III)** in clause (iii), by striking the period and inserting “; and”; and
       - **(IV)** by adding at the end the following:
@@ -428,7 +435,14 @@ Section 310 (42 U.S.C. 10410) is amended—
       - **(I)** in clause (i), by striking “(including Alaska Natives)”; and
       - **(II)** in clause (ii)—
         - **(aa)** by striking “Indian tribe, tribal organization” and inserting “Indian Tribe, Tribal organization”; and
-        - **(bb)** by inserting “, dating violence, and family violence” after “domestic violence”.
+        - **(bb)** by inserting “, dating violence, and family violence” after “domestic violence”; and
+  - **(G)** by adding at the end the following:
+    > - **(6)** *Native Hawaiian resource center* To be eligible to receive a grant under subsection (b)(3), an entity shall be a Native Hawaiian organization, or a nonprofit private organization that focuses primarily on issues of family violence, domestic violence, and dating violence within the Native Hawaiian community, that submits information to the Secretary demonstrating—
+    >   - **(A)** experience working with Native Hawaiian organizations to respond to family violence, domestic violence, and dating violence;
+    >   - **(B)** experience providing Native Hawaiian organizations with assistance in developing prevention and intervention services addressing family violence, domestic violence, and dating violence and safety for Native Hawaiian women;
+    >   - **(C)** strong support for the entity’s designation as the Native Hawaiian resource center on domestic violence from advocates working with Native Hawaiian organizations to address family violence, domestic violence, and dating violence and the safety of Native Hawaiian women;
+    >   - **(D)** a record of demonstrated effectiveness in assisting Native Hawaiian organizations with prevention and intervention services addressing family violence, domestic violence, and dating violence; and
+    >   - **(E)** the capacity to serve geographically diverse Native Hawaiian communities and organizations.
 
 ## § 12. Grants to State domestic violence coalitions
 
@@ -565,7 +579,7 @@ Section 313 (42 U.S.C. 10413) is amended—
     - **(ii)** by striking “assistance to adult” and inserting “for the benefit of adult”; and
   - **(C)** in paragraph (2)—
     - **(i)** in subparagraph (A), by inserting “and an internet service provider for the use of operating digital services” before the semicolon;
-    - **(ii)** in subparagraph (B), by striking “, provide counseling and referral services for callers on a 24-hour-a-day basis, and directly connect callers” and inserting “and digital services contracts, provide counseling, health relationship information, and referral services for callers and digital services users, on a 24-hour-a-day basis, and directly connect callers and digital services users”;
+    - **(ii)** in subparagraph (B), by striking “, provide counseling and referral services for callers on a 24-hour-a-day basis, and directly connect callers” and inserting “and digital services contracts, provide counseling, healthy relationship information, and referral services for callers and digital services users, on a 24-hour-a-day basis, and directly connect callers and digital services users”;
     - **(iii)** in subparagraph (C), by inserting “or digital services users” after “callers”;
     - **(iv)** in subparagraph (D), by inserting “and digital services” after “hotline”;
     - **(v)** in subparagraph (E), by striking “underserved populations” and inserting “racial and ethnic minority groups, Tribal and underserved populations,”; and
@@ -647,7 +661,7 @@ Section 314 (42 U.S.C. 10414) is amended to read as follows:
 >       - **(i)** shall use the grant funds to—
 >         - **(I)** build the coalition's organizational capacity and enhance its State or Tribal leadership to advance evidence-informed primary and secondary prevention of domestic violence, dating violence, and family violence;
 >         - **(II)** provide primary and secondary prevention-focused training, technical assistance, peer learning opportunities, and other support to local domestic violence programs and other community-based and culturally specific programs working to address domestic violence, dating violence, or family violence;
->         - **(III)** provide training and advocacy to other State, Tribal, and local public and private systems on how to prevent domestic violence, dating violence, and family violence, and help victims, including through health services, early childhood programs, economic support programs, schools, child welfare, workforce development, community-based programs primarily serving racial and ethnic minority groups, community-based programs serving Deaf individuals and individuals with disabilities, community-based programs primarily serving other underserved populations, faith-based programs, and youth programs; and
+>         - **(III)** provide training and advocacy to other State, Tribal, and local public and private systems on how to prevent domestic violence, dating violence, and family violence, and help victims, including through health services, housing and shelter services, early childhood programs, economic support programs, schools, child welfare, workforce development, community-based programs primarily serving racial and ethnic minority groups, community-based programs serving Deaf individuals and individuals with disabilities, community-based programs primarily serving other underserved populations, faith-based programs, and youth programs; and
 >         - **(IV)** support dissemination of primary and secondary prevention strategies and approaches throughout the State, territorial, or Tribal communities; and
 >       - **(ii)** may use the grant funds to provide subgrants to local programs to support the dissemination of primary and secondary prevention programs or initiatives.
 >     - **(F)** *Reports* Each coalition receiving a grant under this paragraph shall submit a report to the Secretary at such time as the Secretary requires. Such report shall describe the activities that have been carried out with such grant funds and the effectiveness of such activities, and provide such additional information as the Secretary may require.
@@ -655,7 +669,7 @@ Section 314 (42 U.S.C. 10414) is amended to read as follows:
 >   - **(2)** *Cooperative agreement for implementation and evaluation of primary and secondary prevention strategies*
 >     - **(A)** *Purpose* The Secretary shall enter into cooperative agreements with qualified State, territorial, and Tribal domestic violence coalitions that are in partnerships with entities carrying out local and culturally specific programs, to test, evaluate, or, as appropriate, scale up innovative domestic violence, dating violence, or family violence primary and secondary prevention strategies and models, particularly those serving culturally specific or traditionally underserved populations.
 >     - **(B)** *Qualification* To be qualified to enter into a cooperative agreement under subsection (a)(2)(A)(ii), an organization shall be a State, territorial, or Tribal domestic violence coalition and include representatives of pertinent sectors of the local community, which may include—
->       - **(i)** health care providers and Tribal, State, or local health departments;
+>       - **(i)** health care providers (including mental health providers and substance use disorder treatment providers) and Tribal, State, or local health departments;
 >       - **(ii)** the education community;
 >       - **(iii)** a faith-based community;
 >       - **(iv)** the juvenile justice system;
@@ -691,13 +705,14 @@ Section 314 (42 U.S.C. 10414) is amended to read as follows:
 >       - **(iv)** in the case of a new grantee, use the funds for up to 1 year for planning and capacity building without subcontracting as described in clause (iii); and
 >       - **(v)** use up to 8 percent of the funds awarded under this paragraph to procure technical assistance from a list of providers approved by the Secretary and peer-to-peer technical assistance from other grantees under this paragraph.
 >     - **(I)** *Reports* Each organization entering into a cooperative agreement under this paragraph shall submit a report to the Secretary at such time as shall be reasonably required by the Secretary. Such report shall describe activities that have been carried out with the funds made available through the agreement and the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require. The Secretary shall make the evaluations received under this subparagraph publicly available on the Department of Health and Human Services internet website, and shall submit such reports to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives.
-> - **(c)** *Grants to expand community-based prevention*
+> - **(c)** *Grants to expand community-Based prevention*
 >   - **(1)** *Program* The Secretary shall establish a grant program to expand the capacity of communities and systems to engage in effective primary and secondary prevention efforts.
 >   - **(2)** *Grants* The Secretary may award grants to eligible entities through the program established under paragraph (1) for periods of not more than 4 years. If the Secretary determines that an entity has received such a grant and been successful in meeting the objectives of the grant application so submitted, the Secretary may renew the grant for 1 additional period of not more than 4 years.
 >   - **(3)** *Eligible entities* To be eligible to receive a grant under this subsection, an entity shall—
 >     - **(A)** be a private nonprofit, nongovernmental organization (which may include faith-based and charitable organizations) or a Tribal organization that is—
->       - **(i)** a community-based organization whose primary purpose is providing culturally specific services to racial and ethnic minority groups or other underserved populations; or
->       - **(ii)** a community-based organization with a program focused on serving youth or serving children and their parents or caregivers; and
+>       - **(i)** a community-based organization whose primary purpose is providing culturally specific services to racial and ethnic minority groups or other underserved populations;
+>       - **(ii)** a community-based organization with a program focused on serving youth or serving children and their parents or caregivers; or
+>       - **(iii)** a community-based organization that offers legal services to help victims of domestic violence, dating violence, or family violence and that works to serve the needs of racial or ethnic minority groups, other underserved populations, youth, or children and their parents or caregivers; and
 >     - **(B)** have a demonstrated record of serving victims of domestic violence, dating violence, or family violence, or demonstrate a partnership with another organization that has such a record.
 >   - **(4)** *Application* An entity seeking a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—
 >     - **(A)** a description of how the entity will develop, expand, or replicate evidence-informed primary and secondary prevention strategies and approaches in their communities, including culturally and linguistically appropriate primary and secondary prevention programming;
@@ -723,7 +738,7 @@ The Family Violence Prevention and Services Act (42 U.S.C. 10401 et seq.) is ame
 >   - **(1)** with respect to the programs under subsections (d) and (e), be—
 >     - **(A)** a population specific organization that has demonstrated experience and expertise in providing population specific services in the relevant underserved communities, or a population specific organization working in partnership with a victim service provider or domestic violence or sexual assault coalition; or
 >     - **(B)** a victim service provider offering population-specific services for a specific underserved population; or
->   - **(2)** with respect to the program under subsection (f), be an eligible entity described in paragraph (1) that is working in collaboration with an entity specializing in evaluation with documented experience working with targeted underserved populations;
+>   - **(2)** with respect to the program under subsection (f), be an eligible entity described in paragraph (1) that is working in collaboration with an entity specializing in evaluation with documented experience working with targeted underserved populations.
 > - **(d)** *Capacity building grants*
 >   - **(1)** *In general* The Secretary shall award grants to eligible entities to support the capacity building, planning, and development of programs for underserved communities that utilize community-driven intervention and prevention strategies that address the barriers to domestic violence services, raise awareness of domestic violence, dating violence, and family violence and promote community engagement in the prevention of domestic violence, dating violence, and family violence in targeted underserved populations. Such grants may be used to—
 >     - **(A)**
@@ -805,5 +820,8 @@ Not later than 2 years after the date of the enactment of this Act, the Comptrol
 - **(3)** a description of the key Federal programs providing survivors described in paragraph (1) with financial and non-financial support;
 - **(4)** an analysis of the gaps in current Federal programs, in terms of benefit adequacy and benefit coverage for the population of survivors described in paragraph (1);
 - **(5)** a demographic analysis of the distribution of the gaps described in paragraph (4), for groups including racial and ethnic minorities, individuals with disabilities, tribal populations, and individuals who are geographically isolated;
-- **(6)** a review of challenges that could affect program utilization by the population of survivors described in paragraph (1); and
-- **(7)** an indication of the extent to which Federal agencies or departments currently administering programs described in paragraph (3) have taken steps to ensure that survivors of domestic violence, dating violence, and family violence have access to programs that will support their financial stability.
+- **(6)** a review of challenges that could affect program utilization by the population of survivors described in paragraph (1);
+- **(7)** an indication of the extent to which Federal agencies or departments currently administering programs described in paragraph (3) have taken steps to ensure that survivors of domestic violence, dating violence, and family violence have access to programs that will support their financial stability; and
+- **(8)** information on the outreach efforts conducted pursuant to section 308 on outreach to racial and ethnic minorities, individuals with disabilities, tribal populations, and individuals who are geographically isolated, to determine ways—
+  - **(A)** to increase the availability of services relating to domestic violence, dating violence, and family violence for such groups; and
+  - **(B)** to ensure access to such services.

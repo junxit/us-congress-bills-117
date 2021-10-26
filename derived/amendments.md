@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2119
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-216 amendatory instructions. 94 executed, 122 stated and not applied.
+218 amendatory instructions. 94 executed, 124 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -440,12 +440,12 @@ to guess them.
 
 ### 42 U.S.C. § 10410
 
-> by striking “7” and inserting “10”; and
+> by striking “7” and inserting “11”; and
 
 | | |
 |---|---|
 | Removed | `7` |
-| Inserted | `10` |
+| Inserted | `11` |
 
 ### 42 U.S.C. § 10410
 
@@ -494,7 +494,7 @@ to guess them.
 
 ### 34 U.S.C. § 10452
 
-> by striking “tribes and tribal organizations” and inserting “Tribes and Tribal organizations”; and
+> by striking “tribes and tribal organizations” and inserting “Tribes and Tribal organizations”;
 
 | | |
 |---|---|
@@ -845,12 +845,12 @@ to guess them.
 
 ### 42 U.S.C. § 10413
 
-> in subparagraph (B), by striking “, provide counseling and referral services for callers on a 24-hour-a-day basis, and directly connect callers” and inserting “and digital services contracts, provide counseling, health relationship information, and referral services for callers and digital services users, on a 24-hour-a-day basis, and directly connect callers and digital services users”;
+> in subparagraph (B), by striking “, provide counseling and referral services for callers on a 24-hour-a-day basis, and directly connect callers” and inserting “and digital services contracts, provide counseling, healthy relationship information, and referral services for callers and digital services users, on a 24-hour-a-day basis, and directly connect callers and digital services users”;
 
 | | |
 |---|---|
 | Removed | `, provide counseling and referral services for callers on a 24-hour-a-day basis, and directly connect callers` |
-| Inserted | `and digital services contracts, provide counseling, health relationship information, and referral services for callers and digital services users, on a 24-hour-a-day basis, and directly connect callers and digital services users` |
+| Inserted | `and digital services contracts, provide counseling, healthy relationship information, and referral services for callers and digital services users, on a 24-hour-a-day basis, and directly connect callers and digital services users` |
 
 ### 42 U.S.C. § 10413
 
@@ -916,7 +916,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10408` | redesignate | in subparagraph (I), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10408` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10408` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 10408` | strike | by striking “a local public agency, or ”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10408` | strike | by striking “a local public agency, or ”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10408` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10408` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10410` | replace | in clause (i), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -931,7 +931,7 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 10452` | insert | in the matter preceding subclause (I), by inserting “online” after “central”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | in subclause (II), by inserting “, dating violence, and family violence” after “domestic violence”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence”; and | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | by inserting “dating violence, and family violence,” after “domestic violence,”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | by inserting “the Office for Victims of Crime and” after “Human Services, and”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “enhancing domestic violence”; | the bill quotes the text inserted but describes where it goes |
@@ -944,23 +944,25 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 10452` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | redesignate | by redesignating paragraph (3) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10452` | insert | in subparagraph (A). by inserting “, dating violence, and family violence” after “domestic violence”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10452` | insert | in subparagraph (A) by inserting “, dating violence, and family violence” after “domestic violence”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | in clause (iii), by inserting “, dating violence, and family violence” after “domestic violence”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | strike | by striking “(including Alaska Natives)” each place such term appears; and | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 10452` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | in subparagraph (A), by inserting “dating violence, and family violence,” after “domestic violence,”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence” each place such term appears; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence” the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | insert | by inserting “, dating violence, or family violence” after “domestic violence” the second place such term appears; and | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 10452` | insert | in clause (i), by inserting “, dating violence, and family violence” after “domestic violence” ; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10452` | insert | in clause (i), by inserting “, dating violence, and family violence” after “domestic violence”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | replace | in clause (ii), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 10452` | replace | in clause (iii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10452` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | redesignate | by redesignating paragraph (4) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10452` | strike | in clause (i), by striking “(including Alaska Natives)”; and | the bill quotes the text struck but describes what replaces it |
-| `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence”. | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10452` | insert | by inserting “, dating violence, and family violence” after “domestic violence”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10452` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10411` | strike | in the matter preceding paragraph (1), by striking “shall include”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10411` | insert | by inserting “, and evidence-informed prevention of,” after “comprehensive responses to”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10411` | replace | by striking “working with local” and inserting “shall include— | the bill quotes the text struck but describes what replaces it |
