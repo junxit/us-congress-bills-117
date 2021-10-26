@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2119
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2119
@@ -116,3 +116,38 @@ Family Violence Prevention and Services Improvement Act of 2021
 - 2021-09-23 — Placed on the Union Calendar, Calendar No. 90.
 - 2021-09-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-126.
 - 2021-09-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-126.
+- 2021-10-12 — Rules Committee Resolution H. Res. 716 Reported to House. Rule provides for consideration of H.R. 2119, H.R. 3110 and H.R. 3992. The resolution provides that H. Res. 188, agreed to March 8, 2021, is amended by striking "October 27, 2021" each place it appears and inserting "November 18, 2021.
+- 2021-10-26 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 238 - 189 (Roll no. 334).
+- 2021-10-26 — Amendment failed by House: On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 175 - 250 (Roll no. 335).
+- 2021-10-26 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-10-26 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H5904-5906, H5908-5909; text: CR H5904)
+- 2021-10-26 — Amendments en bloc (A003) offered by Mr. Scott (VA). (consideration: CR H5906-5908, H5909-5910; text: CR H5906-5907)
+- 2021-10-26 — Considered as unfinished business. (consideration: H5908-5911)
+- 2021-10-26 — Considered under the provisions of rule H. Res. 716. (consideration: H5885-5908; text: CR H5885-5895)
+- 2021-10-26 — DEBATE - Pursuant to the provisions of H. Res. 716, the House proceeded with 20 minutes of debate on the Scott (VA) en bloc No. 1.
+- 2021-10-26 — DEBATE - Pursuant to the provisions of H. Res. 716, the House proceeded with 20 minutes of debate on the Scott (VA) en bloc No. 2.
+- 2021-10-26 — DEBATE - The House proceeded with one hour of debate on H.R. 2119.
+- 2021-10-26 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-10-26 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 238 - 189 (Roll no. 334).
+- 2021-10-26 — House amendment not agreed to: On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 175 - 250 (Roll no. 335).
+- 2021-10-26 — House amendment offered
+- 2021-10-26 — House amendment offered
+- 2021-10-26 — House amendment offered
+- 2021-10-26 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).(consideration: CR H5904-5906, H5908-5909; text: CR H5904)
+- 2021-10-26 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Scott (VA).(consideration: CR H5906-5908, H5909-5910; text: CR H5906-5907)
+- 2021-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-26 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-10-26 — On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 238 - 189 (Roll no. 334).
+- 2021-10-26 — On agreeing to the Scott (VA) amendments (A003) Failed by the Yeas and Nays: 175 - 250 (Roll no. 335).
+- 2021-10-26 — On passage Passed by the Yeas and Nays: 228 - 200 (Roll no. 336).
+- 2021-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Clyde demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) en bloc No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-10-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 200 (Roll no. 336).
+- 2021-10-26 — Pursuant to clause 1(c) of rule XIX, the Chair announced that further proceedings on H.R. 2119 is postponed.
+- 2021-10-26 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further consideration of H.R. 2119.
+- 2021-10-26 — Roll call votes on amendments in House
+- 2021-10-26 — Roll call votes on amendments in House
+- 2021-10-26 — Rule provides for consideration of H.R. 2119, H.R. 3110 and H.R. 3992. The resolution provides that H. Res. 188, agreed to March 8, 2021, is amended by striking "October 27, 2021" each place it appears and inserting "November 18, 2021.
+- 2021-10-26 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-10-26 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-10-26 — The previous question was ordered pursuant to the rule.
