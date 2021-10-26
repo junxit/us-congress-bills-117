@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 5732
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5732
+
+> To codify certain regulations for interagency cooperation relating to endangered and threatened wildlife and plants.
+
+## § 1. Codification of regulations for interagency cooperation relating to endangered species and threatened species
+
+The amendments to part 402 of title 50, Code of Federal Regulations, made by the final rule promulgated by the Secretary of the Interior entitled “Endangered Threatened Wildlife and Plants; Regulations for Interagency Cooperation” and published August 27, 2019 (84 Fed. Reg. 44976), shall have the force and effect of law.
