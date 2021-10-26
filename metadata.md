@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2265
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2265
@@ -27,9 +27,10 @@ Financial Exploitation Prevention Act of 2021
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Financial Exploitation Prevention Act of 2021
 - 2021-10-25 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2021-10-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5848-5849)
 - 2021-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5848-5849)
+- 2021-10-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
