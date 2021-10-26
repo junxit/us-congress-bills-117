@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4111
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4111
@@ -20,9 +20,10 @@ Sovereign Debt Contract Capacity Act
 
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Sovereign Debt Contract Capacity Act
 - 2021-10-25 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2021-10-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 29 (Roll no. 332). (text: CR H5838-5839)
 - 2021-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 29 (Roll no. 332).(text: CR H5838-5839)
+- 2021-10-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
