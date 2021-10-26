@@ -19,28 +19,33 @@ It is the sense of the Congress that the United States has a national security a
 
 ## § 3. Establishment of cybersecurity literacy campaign
 
-- **(a)** *In general* The Assistant Secretary for Communications and Information shall develop and conduct a cybersecurity literacy campaign to increase the knowledge and awareness of the American people of best practices to reduce cybersecurity risks.
+- **(a)** *In general* The Assistant Secretary shall develop and conduct a cybersecurity literacy campaign (which shall be available in multiple languages and formats, if practicable) to increase the knowledge and awareness of the American people of best practices to reduce cybersecurity risks.
 - **(b)** *Campaign* To reduce cybersecurity risks, the Assistant Secretary shall—
-  - **(1)** identify the critical areas of an IT system that present cybersecurity risks and educate American people on how to prevent and mitigate such attacks by—
-    - **(A)** instructing American people on how to identify—
-      - **(i)** phishing emails; and
+  - **(1)** educate the American people on how to prevent and mitigate cyberattacks and cybersecurity risks, including by—
+    - **(A)** instructing the American people on how to identify—
+      - **(i)** phishing emails and messages; and
       - **(ii)** secure websites;
-    - **(B)** instructing American people on the need to change default passwords on hardware and software technology;
+    - **(B)** instructing the American people about the benefits of changing default passwords on hardware and software technology;
     - **(C)** encouraging the use of cybersecurity tools, including—
       - **(i)** multi-factor authentication;
       - **(ii)** complex passwords;
-      - **(iii)** firewalls; and
-      - **(iv)** anti-virus software;
+      - **(iii)** anti-virus software;
+      - **(iv)** patching and updating software and applications; and
+      - **(v)** virtual private networks;
     - **(D)** identifying the devices that could pose possible cybersecurity risks, including—
       - **(i)** personal computers;
       - **(ii)** smartphones;
       - **(iii)** tablets;
-      - **(iv)** Wi-Fi routers; and
+      - **(iv)** Wi-Fi routers;
       - **(v)** smart home appliances;
+      - **(vi)** webcams;
+      - **(vii)** internet-connected monitors; and
+      - **(viii)** any other device that can be connected to the internet, including mobile devices other than smartphones and tablets;
     - **(E)** encouraging Americans to—
       - **(i)** regularly review mobile application permissions;
       - **(ii)** decline privilege requests from mobile applications that are unnecessary;
       - **(iii)** download applications only from trusted vendors or sources; and
-      - **(iv)** connect internet of things or devices to a separate and dedicated network; and
+      - **(iv)** consider a product’s life cycle and the developer or manufacturer’s commitment to providing security updates during a connected device’s expected period of use; and
     - **(F)** identifying the potential cybersecurity risks of using publicly available Wi-Fi networks and the methods a user may utilize to limit such risks; and
-  - **(2)** direct American people and businesses to Federal resources to help mitigate the cybersecurity risks identified in this subsection.
+  - **(2)** encourage the American people to use resources to help mitigate the cybersecurity risks identified in this subsection.
+- **(c)** *Assistant Secretary defined* In this section, the term Assistant Secretary means the Assistant Secretary of Commerce for Communications and Information.

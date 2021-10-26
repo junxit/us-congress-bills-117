@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4055
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4055
@@ -16,12 +16,19 @@ American Cybersecurity Literacy Act
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Cosponsors (4)
+## Cosponsors (11)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
 
 ## Committees (1)
 
@@ -32,3 +39,11 @@ American Cybersecurity Literacy Act
 - 2021-06-22 — Introduced in House
 - 2021-06-22 — Introduced in House
 - 2021-06-22 — Referred to the House Committee on Energy and Commerce.
+- 2021-06-23 — Referred to the Subcommittee on Communications and Technology.
+- 2021-06-30 — Subcommittee Hearings Held.
+- 2021-07-20 — Subcommittee on Communications and Technology Discharged.
+- 2021-07-21 — Committee Consideration and Mark-up Session Held.
+- 2021-07-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-10-26 — Placed on the Union Calendar, Calendar No. 113.
+- 2021-10-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-155.
+- 2021-10-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-155.
