@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3110
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3110
@@ -72,3 +72,5 @@ PUMP for Nursing Mothers Act
 - 2021-10-22 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2021-10-22 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-10-22 — The previous question was ordered pursuant to the rule.
+- 2021-10-25 — Received in the Senate.
+- 2021-10-26 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
