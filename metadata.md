@@ -1,7 +1,7 @@
 ---
 measure: S. 1511
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1511
@@ -67,3 +67,13 @@ Protecting America's First Responders Act of 2021
 - 2021-10-27 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
 - 2021-10-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 338). (text: CR H5948-5950)
 - 2021-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 338).(text: CR H5948-5950)
+- 2021-10-28 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2021-11-04 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1511 by Unanimous Consent.(consideration: CR S8054)
+- 2021-11-04 — Senate agreed to the House amendment to S. 1511 by Unanimous Consent. (consideration: CR S8054)
+- 2021-11-08 — Message on Senate action sent to the House.
+- 2021-11-16 — Presented to President.
+- 2021-11-16 — Presented to President.
+- 2021-11-18 — Became Public Law No: 117-61.
+- 2021-11-18 — Became Public Law No: 117-61.
+- 2021-11-18 — Signed by President.
+- 2021-11-18 — Signed by President.
