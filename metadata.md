@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4035
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4035
@@ -35,3 +35,9 @@ Real Justice for Our Veterans Act of 2021
 - 2021-10-25 — Placed on the Union Calendar, Calendar No. 112.
 - 2021-10-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-154.
 - 2021-10-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-154.
+- 2021-10-27 — Considered under suspension of the rules. (consideration: CR H5940-5942)
+- 2021-10-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4035.
+- 2021-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-27 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
+- 2021-10-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5940)
+- 2021-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5940)
