@@ -1,7 +1,7 @@
 ---
 measure: S. 1511
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1511
@@ -16,7 +16,7 @@ Protecting America's First Responders Act of 2021
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
@@ -35,6 +35,7 @@ Protecting America's First Responders Act of 2021
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
@@ -55,3 +56,14 @@ Protecting America's First Responders Act of 2021
 - 2021-06-10 — Senate amendment agreed to: Amendment SA 2118 agreed to in Senate by Unanimous Consent.
 - 2021-06-10 — Senate amendment proposed (on the floor): Amendment SA 2118 proposed by Senator Cortez Masto for Senator Grassley.
 - 2021-06-10 — Senate amendment submitted
+- 2021-06-14 — Held at the desk.
+- 2021-06-14 — Message on Senate action sent to the House.
+- 2021-06-14 — Received in the House.
+- 2021-10-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-10-27 — Considered as unfinished business. (consideration: CR H5954)
+- 2021-10-27 — Considered under suspension of the rules. (consideration: CR H5948-5953)
+- 2021-10-27 — DEBATE - The House proceeded with forty minutes of debate on S. 1511.
+- 2021-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-10-27 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
+- 2021-10-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 338). (text: CR H5948-5950)
+- 2021-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 338).(text: CR H5948-5950)
