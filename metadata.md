@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2119
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2119
@@ -151,3 +151,4 @@ Family Violence Prevention and Services Improvement Act of 2021
 - 2021-10-26 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2021-10-26 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-10-26 — The previous question was ordered pursuant to the rule.
+- 2021-10-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.
