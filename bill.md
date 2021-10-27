@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1511
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 1st Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1511
 
-That the bill from the Senate (S. 1511) entitled “An Act to amend the Omnibus Crime Control and Safe Streets Act of 1968 with respect to payments to certain public safety officers who have become permanently and totally disabled as a result of personal injuries sustained in the line of duty, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Omnibus Crime Control and Safe Streets Act of 1968 with respect to payments to certain public safety officers who have become permanently and totally disabled as a result of personal injuries sustained in the line of duty, and for other purposes.
 
 ## § 1. Short title
 
