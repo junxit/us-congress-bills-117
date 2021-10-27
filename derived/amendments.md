@@ -1,7 +1,7 @@
 ---
 measure: S. 1511
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 11 executed, 18 stated and not applied.
+32 amendatory instructions. 13 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -123,6 +123,24 @@ to guess them.
 | Removed | `under this chapter. The` |
 | Inserted | `or other law. The Attorney General, the` |
 
+### 42 U.S.C. § 247d
+
+> in subsection (a)(1), by striking “between January 1, 2020, and December 31, 2021” and inserting “during the period beginning on January 1, 2020, and ending on the termination date” and
+
+| | |
+|---|---|
+| Removed | `between January 1, 2020, and December 31, 2021` |
+| Inserted | `during the period beginning on January 1, 2020, and ending on the termination date` |
+
+### 42 U.S.C. § 247d
+
+> in subsection (b)(1), by striking “between January 1, 2020, and December 31, 2021” and inserting “during the period beginning on January 1, 2020, and ending on the termination date”; and
+
+| | |
+|---|---|
+| Removed | `between January 1, 2020, and December 31, 2021` |
+| Inserted | `during the period beginning on January 1, 2020, and ending on the termination date` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -150,3 +168,4 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 10288` | replace | Section 1206(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10288(b)) is amended by striking “the Bureau may not” and all that follows and inserting the following: “the Bureau— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10225` | insert | by inserting “Attorney General, the” before the “Bureau of Justice Assistance”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10225` | insert | by inserting “conduct examinations” after “examine witnesses,”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 247d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

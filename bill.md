@@ -2,12 +2,14 @@
 legis-num: S. 1511
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1511
 
-> To amend the Omnibus Crime Control and Safe Streets Act of 1968 with respect to payments to certain public safety officers who have become permanently and totally disabled as a result of personal injuries sustained in the line of duty, and for other purposes.
+That the bill from the Senate (S. 1511) entitled “An Act to amend the Omnibus Crime Control and Safe Streets Act of 1968 with respect to payments to certain public safety officers who have become permanently and totally disabled as a result of personal injuries sustained in the line of duty, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -142,3 +144,14 @@ Section 806 of title I of the Omnibus Crime Control and Safe Streets Act of 1968
     - **(A)** to the WTC responder, if living on the date the application is determined, in a final agency determination; or
     - **(B)** if the WTC responder is not living on the date indicated in subparagraph (A), to the individual (or individuals), if living on such date, to whom benefits would have been payable on such date under section 1201(a) of such title I (34 U.S.C. 10281(a)) had the application been, instead, a claim under such section 1201(a).
   - **(4)** *Special limited rule of construction* A claim filed pursuant to paragraph (1) or (2) shall be determined as though the date of catastrophic injury of the public safety officer were the date of enactment of this Act, for purposes of determining the amount that may be payable.
+
+## § 9. Safeguarding America's First Responders
+
+Section 3 of Safeguarding America's First Responders Act of 2020 (Public Law 116–157) is amended—
+
+- **(1)** in subsection (a)(1), by striking “between January 1, 2020, and December 31, 2021” and inserting “during the period beginning on January 1, 2020, and ending on the termination date” and
+- **(2)** in subsection (b)(1), by striking “between January 1, 2020, and December 31, 2021” and inserting “during the period beginning on January 1, 2020, and ending on the termination date”; and
+- **(3)** by adding at the end the following:
+  > - **(c)** *Termination date* For purposes of this section, the term “termination date” means the earlier of—
+  >   - **(1)** the date on which the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to the Coronavirus Disease (COVID–19), expires; and
+  >   - **(2)** December 31, 2023.
