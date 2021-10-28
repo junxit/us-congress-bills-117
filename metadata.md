@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5661
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5661
@@ -42,3 +42,4 @@ Continued State Flexibility To Assist Older Foster Youth Act
 - 2021-10-27 — Mr. Davis, Danny K. moved to suspend the rules and pass the bill.
 - 2021-10-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5937-5938)
 - 2021-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5937-5938)
+- 2021-10-28 — Received in the Senate.
