@@ -1,7 +1,7 @@
 ---
 measure: S. 1104
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1104
@@ -28,3 +28,7 @@ Haiti Development, Accountability, and Institutional Transparency Initiative Act
 
 - 2021-04-13 — Introduced in Senate
 - 2021-04-13 — Read twice and referred to the Committee on Foreign Relations.
+- 2021-10-19 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-10-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2021-10-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2021-10-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
