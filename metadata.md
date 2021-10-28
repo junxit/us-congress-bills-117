@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5763
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5763
@@ -46,3 +46,10 @@ Further Surface Transportation Extension Act of 2021
 - 2021-10-28 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, Natural Resources, Science, Space, and Technology, Energy and Commerce, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-10-28 — See also S. 3122.
 - 2021-10-28 — UNANIMOUS CONSENT - Mr. Cicilline asked unanimous consent that in the engrossment of H.R. 5763, the Clerk be directed to make the following correction: On page 3, line 17, insert "of this section" after "(c)".
+- 2021-10-29 — Presented to President.
+- 2021-10-29 — Presented to President.
+- 2021-10-29 — Referred to the Subcommittee on Energy.
+- 2021-10-31 — Became Public Law No: 117-52.
+- 2021-10-31 — Became Public Law No: 117-52.
+- 2021-10-31 — Signed by President.
+- 2021-10-31 — Signed by President.
