@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4035
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4035
@@ -21,9 +21,10 @@ Real Justice for Our Veterans Act of 2021
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Real Justice for Our Veterans Act of 2021
 - 2021-10-27 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
 - 2021-10-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5940)
 - 2021-10-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5940)
+- 2021-10-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
