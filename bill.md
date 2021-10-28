@@ -35,7 +35,7 @@ Section 108(b) of the Surface Transportation Extension Act of 2021 (Public Law 1
   - **(2)** in subsection (d)(2) by striking “November 1, 2021” and inserting “December 4, 2021”.
 - **(c)** *Leaking Underground Storage Tank Trust Fund* Section 9508(e)(2) of such Code is amended by striking “November 1, 2021” and inserting “December 4, 2021”.
 - **(d)** *Special rule for amendments* On the date of enactment of H.R. 3684 (117th Congress)—
-  - **(1)** subsections (a), (b), and (c), the amendments made by such subsections, section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44), and the amendments made by such section shall cease to be effective;
+  - **(1)** subsections (a), (b), and (c) of this section, the amendments made by such subsections, section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44), and the amendments made by such section shall cease to be effective;
   - **(2)** the text of the laws amended by subsections (a), (b), and (c) of this section and section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44) shall revert back so as to read as the text read on September 30, 2021; and
   - **(3)** the amendments made by H.R. 3684 (117th Congress) shall be executed as if this section and section 201 of the Surface Transportation Extension Act had not been enacted.
 - **(e)** *Conforming amendment* Section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44) is amended by striking subsection (d).
