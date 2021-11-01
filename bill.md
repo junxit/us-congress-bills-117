@@ -22,7 +22,7 @@ This Act may be cited as the “Administrative False Claims Act of 2021”.
   - **(2)** *References* Any reference to the Program Fraud Civil Remedies Act of 1986 in any provision of law, regulation, map, document, record, or other paper of the United States shall be deemed a reference to the Administrative False Claims Act.
 - **(b)** *Reverse false claims* Chapter 38 of title 31, United States Code, is amended—
   - **(1)** in section 3801(a)(3), by amending subparagraph (C) to read as follows:
-    > - **(C)** made to an authority which has the effect of concealing or improperly avoiding or decreasing an obligation to pay or transmit property, services, or money to the authority.
+    > - **(C)** made to an authority which has the effect of concealing or improperly avoiding or decreasing an obligation to pay or transmit property, services, or money to the authority,.
 
   - **(2)** in section 3802(a)(3)—
     - **(A)** by striking “An assessment” and inserting “(A) Except as provided in subparagraph (B), an assessment”; and
@@ -30,8 +30,9 @@ This Act may be cited as the “Administrative False Claims Act of 2021”.
       > - **(B)** In the case of a claim described in section 3801(a)(3)(C), an assessment shall not be made under the second sentence of paragraph (1) in an amount that is more than double the value of the property, services, or money that was wrongfully withheld from the authority.
 
 - **(c)** *Increasing dollar amount of claims* Section 3803(c) of title 31, United States Code, is amended—
-  - **(1)** in paragraph (1) by striking “$150,000” each place that term appears and inserting “$1,000,000”; and
+  - **(1)** in paragraph (1), by striking “$150,000” each place that term appears and inserting “$1,000,000”; and
   - **(2)** by adding at the end the following:
+    > - **(3)** *Adjustment for inflation* The maximum amount in paragraph (1) shall be adjusted for inflation in the same manner and to the same extent as civil monetary penalties under the Federal Civil Penalties Inflation Adjustment Act (28 U.S.C. 2461 note).
     > - **(3)** *Adjustment for inflation* The maximum amount in paragraph (1) shall be adjusted for inflation in the same manner and to the same extent as civil monetary penalties under the Federal Civil Penalties Inflation Adjustment Act (28 U.S.C. 2461 note).
 
 - **(d)** *Recovery of costs* Section 3806(g)(1) of title 31, United States Code, is amended to read as follows:
@@ -68,7 +69,8 @@ This Act may be cited as the “Administrative False Claims Act of 2021”.
     - **(B)** by adding at the end the following:
       > - **(2)** A reviewing official shall notify the Attorney General in writing not later than 30 days before entering into any agreement to compromise or settle allegations of liability under section 3802 of this title and before the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b).
 
-  - **(2)** in section 3812—
+  - **(2)** in the table of sections for chapter 38, by striking the item relating to section 3812 and inserting the following:
+  - **(2)(3)** in section 3812—
     - **(A)** in the section heading, by striking “Prohibition against delegation” and inserting “Delegation authority”; and
     - **(B)** by striking “, shall not be delegated to, or carried out by,” and inserting “may be delegated to”.
 - **(g)** *Revision of definition of hearing officials*
@@ -83,13 +85,13 @@ This Act may be cited as the “Administrative False Claims Act of 2021”.
       - **(i)** in subparagraph (A), by striking “and” at the end;
       - **(ii)** in subparagraph (B)—
         - **(I)** by striking “the presiding” and inserting “(i) in the case of a referral to a presiding officer described in subparagraph (A) or (B) of section 3801(a)(7), the presiding”;
-        - **(II)** in clause (i), as so designated, by adding “or” at the end; and
+        - **(II)** in clause (i), as so designated, by striking the period at the end and inserting “; or”adding “or” at the end; and
         - **(III)** by adding at the end the following:
           > - **(ii)** in the case of a referral to a presiding officer described in subparagraph (C) of section 3801(a)(7)—
           >   - **(I)** the reviewing official shall submit a copy of the notice required by under paragraph (1) and of the response of the person receiving such notice requesting a hearing—
           >     - **(aa)** to the board of contract appeals that has jurisdiction over matters arising from the agency of the reviewing official pursuant to section 7105(e)(1) of title 41; or
           >     - **(bb)** if the Chair of the board of contract appeals declines to accept the referral, to any other board of contract appeals; and
-          >   - **(II)** the reviewing official shall simultaneously mail, by registered or certified mail, or shall deliver, notice to the person alleged to be liable under section 3802 that the referral has been made to an agency board of contract appeals with an explanation as to where the person may obtain the relevant rules of procedure promulgated by the board.
+          >   - **(II)** the reviewing official shall simultaneously mail, by registered or certified mail, or shall deliver, notice to the person alleged to be liable under section 3802 that the referral has been made to an agency board of contract appeals with an explanation as to where the person may obtain the relevant rules of procedure promulgated by the board.; and
 
       - **(iii)** by adding at the end the following:
         > - **(C)** in the case of a hearing conducted by a presiding officer described in subparagraph (C) of section 3801(a)(7)—
