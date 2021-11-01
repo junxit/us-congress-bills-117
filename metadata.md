@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5589
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5589
@@ -30,3 +30,8 @@ Pyrolysis Innovation Grants Act
 - 2021-10-15 — Introduced in House
 - 2021-10-15 — Introduced in House
 - 2021-10-15 — Referred to the House Committee on Agriculture.
+- 2021-10-21 — Committee Consideration and Mark-up Session Held.
+- 2021-10-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-11-01 — Placed on the Union Calendar, Calendar No. 122.
+- 2021-11-01 — Reported (Amended) by the Committee on Agriculture. H. Rept. 117-167.
+- 2021-11-01 — Reported (Amended) by the Committee on Agriculture. H. Rept. 117-167.
