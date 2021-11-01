@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2220
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2220
@@ -30,3 +30,10 @@ To amend title 40, United States Code, to modify the treatment of certain bargai
 - 2021-03-26 — Introduced in House
 - 2021-03-26 — Introduced in House
 - 2021-03-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2021-03-29 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-28 — Ordered to be Reported by Voice Vote.
+- 2021-07-28 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2021-11-01 — Placed on the Union Calendar, Calendar No. 116.
+- 2021-11-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-159.
+- 2021-11-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-159.
