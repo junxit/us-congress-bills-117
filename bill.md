@@ -21,3 +21,7 @@ Section 302(b) of the Small Business Investment Act of 1958 (15 U.S.C. 682(b)) i
 - **(2)** in paragraph (2), by inserting before the period the following: “or, subject to the approval of the appropriate Federal banking agency, 15 percent of such capital and surplus”; and
 - **(3)** by adding at the end the following:
   > - **(3)** *Appropriate federal banking agency defined* For purposes of this subsection, the term appropriate Federal banking agency has the meaning given that term under section 3 of the Federal Deposit Insurance Act.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
