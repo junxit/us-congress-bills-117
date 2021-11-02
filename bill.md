@@ -1,0 +1,34 @@
+---
+legis-num: S. 3138
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3138
+
+> To amend the Moving Ahead for Progress in the 21st Century Act to exempt covered farm vehicles from certain requirements, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Covered Farm Vehicle Modernization Act of 2021”.
+
+## § 2. Exemptions for covered farm vehicles
+
+Section 32934 of MAP–21 (49 U.S.C. 31136 note; Public Law 112–141) is amended—
+
+- **(1)** in subsection (a), by adding at the end the following:
+  > - **(6)** Any requirement relating to registration under section 31134 of title 49, United States Code, including any requirement relating to a USDOT number under that section.
+  > - **(7)** Any requirement relating to registration under the unified carrier registration agreement (as defined in section 14504a(a) of title 49, United States Code).
+
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (1), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately;
+  - **(B)** in paragraph (2), by striking “Paragraph (1)” and inserting “Subparagraph (A)”;
+  - **(C)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;
+  - **(D)** by inserting before subparagraph (A) (as so designated) the following:
+    > - **(1)** *Federal transportation funding*
+
+  - **(E)** by adding at the end the following:
+    > - **(2)** *IFTA requirements* A covered farm vehicle and the individual operating that covered farm vehicle shall be exempt from any requirement relating to a license under the International Fuel Tax Agreement (as defined in section 31701 of title 49, United States Code).
+
+- **(3)** in subsection (c)(1)(B), by striking “26,001” each place it appears and inserting “36,001”.
