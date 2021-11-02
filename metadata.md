@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 410
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 410
@@ -33,3 +33,7 @@ A resolution supporting the goals and ideals of National Cybersecurity Awareness
 
 - 2021-10-07 — Introduced in Senate
 - 2021-10-07 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 10/7/2021 S7002-7003)
+- 2021-11-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 10/7/2021 S7002-7003)
+- 2021-11-02 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7685-7686)
+- 2021-11-02 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7685-7686)
