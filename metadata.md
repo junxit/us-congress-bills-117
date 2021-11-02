@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2088
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2088
@@ -20,6 +20,10 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2021-11-02 — [House 117-1-347](votes/house-117-1-0347.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–16)
+
 ## Actions
 
 - 2021-03-19 — Introduced in House
@@ -36,3 +40,7 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 - 2021-11-01 — Placed on the Union Calendar, Calendar No. 119.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-164.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-164.
+- 2021-11-02 — Considered as unfinished business. (consideration: CR H6098-6099)
+- 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 16 (Roll no. 347). (text: 11/1/2021 CR H6050-6051)
+- 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 16 (Roll no. 347).(text: 11/1/2021 CR H6050-6051)
