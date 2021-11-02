@@ -1,7 +1,7 @@
 ---
 measure: S. 1364
 congress: 117
-version: Placed on Calendar Senate
+version: Referred to Committee Senate
 ---
 
 # S. 1364
@@ -20,8 +20,13 @@ Lumbee Tribe of North Carolina Recognition Act
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 
+## Committees (1)
+
+- Senate — Indian Affairs Committee
+
 ## Actions
 
 - 2021-04-26 — Introduced in Senate
 - 2021-04-26 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2021-04-27 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
+- 2021-11-02 — Referred to the Committee on Indian Affairs by unanimous consent.
