@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4881
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4881
@@ -50,3 +50,7 @@ Old Pascua Community Land Acquisition Act
 - 2021-11-01 — Placed on the Union Calendar, Calendar No. 121.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-166.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-166.
+- 2021-11-02 — Considered as unfinished business. (consideration: CR H6097-6098)
+- 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 45, 1 Present (Roll no. 346). (text: 11/1/2021 CR H6048-6049)
+- 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 45, 1 Present (Roll no. 346).(text: 11/1/2021 CR H6048-6049)
