@@ -1,7 +1,7 @@
 ---
 measure: S. 1364
 congress: 117
-version: Placed on Calendar Senate
+version: Referred to Committee Senate
 derived: true
 ---
 
