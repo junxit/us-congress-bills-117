@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4256
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4256
@@ -34,3 +34,11 @@ Investing in Main Street Act of 2021
 - 2021-10-12 — Placed on the Union Calendar, Calendar No. 100.
 - 2021-10-12 — Reported by the Committee on Small Business. H. Rept. 117-140.
 - 2021-10-12 — Reported by the Committee on Small Business. H. Rept. 117-140.
+- 2021-11-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-11-02 — Considered as unfinished business. (consideration: CR H6100)
+- 2021-11-02 — Considered under suspension of the rules. (consideration: CR H6087-6088)
+- 2021-11-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4256.
+- 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-02 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2021-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 10 (Roll no. 349). (text: CR H6087)
+- 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 10 (Roll no. 349).(text: CR H6087)
