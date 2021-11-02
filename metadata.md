@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1619
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1619
@@ -24,9 +24,10 @@ Catawba Indian Nation Lands Act
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Catawba Indian Nation Lands Act
 - 2021-11-01 — Ms. Leger Fernandez moved to suspend the rules and pass the bill.
 - 2021-11-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 55, 3 Present (Roll no. 340). (text: CR H6039)
 - 2021-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 55, 3 Present (Roll no. 340).(text: CR H6039)
+- 2021-11-02 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
