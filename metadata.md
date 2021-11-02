@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5221
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5221
@@ -64,3 +64,7 @@ Urban Indian Health Confer Act
 - 2021-11-01 — Placed on the Union Calendar, Calendar No. 123.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-168, Part I.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-168, Part I.
+- 2021-11-02 — Considered as unfinished business. (consideration: CR H6095-6096)
+- 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 17 (Roll no. 343). (text: 11/1/2021 CR H6044)
+- 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 17 (Roll no. 343).(text: 11/1/2021 CR H6044)
