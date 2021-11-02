@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2758
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
