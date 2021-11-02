@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1975
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1975
@@ -24,6 +24,10 @@ Pala Band of Mission Indians Land Transfer Act of 2021
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2021-11-02 — [House 117-1-342](votes/house-117-1-0342.md) — On Motion to Suspend the Rules and Pass — **Passed** (397–25)
+
 ## Actions
 
 - 2021-03-17 — Introduced in House
@@ -40,3 +44,7 @@ Pala Band of Mission Indians Land Transfer Act of 2021
 - 2021-11-01 — Placed on the Union Calendar, Calendar No. 118.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-163.
 - 2021-11-01 — Reported by the Committee on Natural Resources. H. Rept. 117-163.
+- 2021-11-02 — Considered as unfinished business. (consideration: CR H6094-6095)
+- 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 342). (text: 11/1/2021 CR H6043)
+- 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 342).(text: 11/1/2021 CR H6043)
