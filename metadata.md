@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2758
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2758
@@ -44,3 +44,4 @@ Lumbee Recognition Act
 - 2021-11-01 — Ms. Leger Fernandez moved to suspend the rules and pass the bill.
 - 2021-11-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 59, 1 Present (Roll no. 341). (text: CR H6041)
 - 2021-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 59, 1 Present (Roll no. 341).(text: CR H6041)
+- 2021-11-02 — Received in the Senate.
