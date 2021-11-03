@@ -1,0 +1,20 @@
+---
+legis-num: S. 3152
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3152
+
+> To amend the Energy Policy Act of 2005 to disqualify certain borrowers from receiving a guarantee for a project, and for other purposes.
+
+## § 1. Disqualification of borrowers who have previously defaulted
+
+- **(a)** *Incentives for innovative technologies* Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended—
+  - **(1)** by redesignating subsections (i) through (q) as subsections (j) through (r), respectively; and
+  - **(2)** by inserting after subsection (h) the following:
+    > - **(i)** *Disqualification for previous defaults* The Secretary may not make a guarantee under this title for a project if the borrower has previously defaulted on an obligation guaranteed under this title.
+
+- **(b)** *Advanced technology vehicles manufacturing incentive program* Section 136(d) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013(d)) is amended by adding at the end the following:
+  > - **(5)** *Disqualification for previous defaults* The Secretary may not provide a loan under this subsection to an applicant for the loan if the applicant has previously defaulted on a loan provided under this subsection.
