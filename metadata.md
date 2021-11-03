@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4531
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4531
@@ -21,9 +21,10 @@ version: Engrossed in House
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ version: Engrossed in House
 - 2021-11-02 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 352). (text: CR H6092)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 352).(text: CR H6092)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
