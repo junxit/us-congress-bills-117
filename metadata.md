@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3616
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3616
@@ -20,9 +20,10 @@ Bear River National Heritage Area Study Act
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Bear River National Heritage Area Study Act
 - 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 23 (Roll no. 344). (text: 11/1/2021 CR H6046-6047)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 23 (Roll no. 344).(text: 11/1/2021 CR H6046-6047)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
