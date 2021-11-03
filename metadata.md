@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3419
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3419
@@ -68,3 +68,12 @@ To designate the facility of the United States Postal Service located at 66 Mese
 - 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2021-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.
+- 2022-02-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S723)
+- 2022-02-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-02-16 — Message on Senate action sent to the House.
+- 2022-03-02 — Presented to President.
+- 2022-03-02 — Presented to President.
+- 2022-03-11 — Became Public Law No: 117-94.
+- 2022-03-11 — Became Public Law No: 117-94.
+- 2022-03-11 — Signed by President.
+- 2022-03-11 — Signed by President.
