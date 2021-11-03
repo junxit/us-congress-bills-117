@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3462
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3462
@@ -20,9 +20,10 @@ SBA Cyber Awareness Act
 
 - Rep. Kim, Young [R-CA-39] (K000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ SBA Cyber Awareness Act
 - 2021-11-02 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 350). (text: CR H6088-6089)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 350).(text: CR H6088-6089)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
