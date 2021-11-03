@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4881
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4881
@@ -29,9 +29,10 @@ Old Pascua Community Land Acquisition Act
 - Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Old Pascua Community Land Acquisition Act
 - 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 45, 1 Present (Roll no. 346). (text: 11/1/2021 CR H6048-6049)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 45, 1 Present (Roll no. 346).(text: 11/1/2021 CR H6048-6049)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
