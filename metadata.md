@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 44
@@ -16,7 +16,7 @@ Fiscal State of the Nation Resolution
 
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Cosponsors (75)
+## Cosponsors (116)
 
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Barr, Andy [R-KY-6] (B001282)
@@ -93,6 +93,47 @@ Fiscal State of the Nation Resolution
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Keller, Fred [R-PA-12] (K000395)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Rice, Tom [R-SC-7] (R000597)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Bishop, Dan [R-NC-9] (B001311)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. McClain, Lisa C. [R-MI-10] (M001136)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Cheney, Liz [R-WY-At Large] (C001109)
 
 ## Committees (1)
 
@@ -103,3 +144,9 @@ Fiscal State of the Nation Resolution
 - 2021-07-29 — Introduced in House
 - 2021-07-29 — Introduced in House
 - 2021-07-29 — Referred to the House Committee on Rules.
+- 2021-11-03 — Considered under suspension of the rules. (consideration: CR H6134-6136)
+- 2021-11-03 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 44.
+- 2021-11-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-03 — Mr. McGovern moved to suspend the rules and agree to the resolution, as amended.
+- 2021-11-03 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6134)
+- 2021-11-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6134)
