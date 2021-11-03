@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 5833
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5833
+
+> To amend the Internal Revenue Code of 1986 to modify certain provisions related to horses.
+
+## § 1. Short title
+
+This Act may be cited as the “Equine Tax Fairness Act”.
+
+## § 2. Reduction of holding period to 12 months for purposes of determining whether horses are section 1231 assets
+
+- **(a)** *In general* Section 1231(b)(3)(A) of the Internal Revenue Code of 1986 is amended by striking “and horses”.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2021.
+
+## § 3. Three-year depreciation for race horses
+
+- **(a)** *In general* Section 168(e)(3)(A)(i) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(i)** any race horse,
+
+- **(b)** *Effective date* The amendments made by this section shall apply to property placed in service after December 31, 2021.
