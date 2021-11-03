@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2044
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2044
@@ -41,3 +41,7 @@ To designate the facility of the United States Postal Service located at 17 East
 - 2021-10-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5696)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5696)
 - 2021-10-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2021-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
