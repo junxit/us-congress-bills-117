@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5221
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5221
@@ -38,10 +38,11 @@ Urban Indian Health Confer Act
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Urban Indian Health Confer Act
 - 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 17 (Roll no. 343). (text: 11/1/2021 CR H6044)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 17 (Roll no. 343).(text: 11/1/2021 CR H6044)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
