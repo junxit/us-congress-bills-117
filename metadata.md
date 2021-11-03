@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1975
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1975
@@ -20,9 +20,10 @@ Pala Band of Mission Indians Land Transfer Act of 2021
 
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Pala Band of Mission Indians Land Transfer Act of 2021
 - 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 342). (text: 11/1/2021 CR H6043)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 342).(text: 11/1/2021 CR H6043)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
