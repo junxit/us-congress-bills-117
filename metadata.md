@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2088
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2088
@@ -16,9 +16,10 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 - 2021-11-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 16 (Roll no. 347). (text: 11/1/2021 CR H6050-6051)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 16 (Roll no. 347).(text: 11/1/2021 CR H6050-6051)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
