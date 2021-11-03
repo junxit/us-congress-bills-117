@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4256
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4256
@@ -20,9 +20,10 @@ Investing in Main Street Act of 2021
 
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Investing in Main Street Act of 2021
 - 2021-11-02 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2021-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 10 (Roll no. 349). (text: CR H6087)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 10 (Roll no. 349).(text: CR H6087)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
