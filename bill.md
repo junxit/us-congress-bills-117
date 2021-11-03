@@ -9,8 +9,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the 100th anniversary of the dedication of the Tomb of the Unknown Soldier.
 
-That
-
 ## § 1. Use of rotunda of the Capitol
 
 The rotunda of the Capitol is authorized to be used on November 10, 2021, for a ceremony as part of the commemoration of the 100th anniversary of the dedication of the Tomb of the Unknown Soldier.
