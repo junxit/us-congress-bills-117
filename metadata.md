@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4481
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4481
@@ -25,9 +25,10 @@ Small Business 7(a) Loan Agent Transparency Act
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Small Business 7(a) Loan Agent Transparency Act
 - 2021-11-02 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 9 (Roll no. 351). (text: CR H6090)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 9 (Roll no. 351).(text: CR H6090)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
