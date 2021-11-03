@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3469
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3469
@@ -22,9 +22,10 @@ Veteran Entrepreneurship Training Act of 2021
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Veteran Entrepreneurship Training Act of 2021
 - 2021-11-02 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 348). (text: CR H6084-6085)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 348).(text: CR H6084-6085)
+- 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
