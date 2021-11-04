@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2220
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2220
@@ -25,6 +25,10 @@ To amend title 40, United States Code, to modify the treatment of certain bargai
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2021-11-04 — [House 117-1-363](votes/house-117-1-0363.md) — On Motion to Suspend the Rules and Pass — **Passed** (416–4)
+
 ## Actions
 
 - 2021-03-26 — Introduced in House
@@ -37,3 +41,11 @@ To amend title 40, United States Code, to modify the treatment of certain bargai
 - 2021-11-01 — Placed on the Union Calendar, Calendar No. 116.
 - 2021-11-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-159.
 - 2021-11-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-159.
+- 2021-11-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-11-03 — Considered under suspension of the rules. (consideration: CR H6144)
+- 2021-11-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2220.
+- 2021-11-03 — Mr. Pappas moved to suspend the rules and pass the bill.
+- 2021-11-04 — Considered as unfinished business. (consideration: CR H6200)
+- 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 363). (text: 11/3/2021 CR H6144)
+- 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 363).(text: 11/3/2021 CR H6144)
