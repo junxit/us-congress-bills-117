@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 44
@@ -135,9 +135,10 @@ Fiscal State of the Nation Resolution
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Cheney, Liz [R-WY-At Large] (C001109)
 
-## Committees (1)
+## Committees (2)
 
 - House — Rules Committee
+- Senate — Budget Committee
 
 ## Actions
 
@@ -150,3 +151,4 @@ Fiscal State of the Nation Resolution
 - 2021-11-03 — Mr. McGovern moved to suspend the rules and agree to the resolution, as amended.
 - 2021-11-03 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6134)
 - 2021-11-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6134)
+- 2021-11-04 — Received in the Senate and referred to the Committee on the Budget.
