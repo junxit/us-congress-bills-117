@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 623` | insert | by inserting “or applicants for employment” after “employees”, and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 623` | insert | by inserting “or applicants for employment” after “employees”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 623` | insert | by inserting “or as an applicant for employment” after “employee”. | the bill quotes the text inserted but describes where it goes |
