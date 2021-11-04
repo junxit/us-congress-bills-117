@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1917
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1917
@@ -45,3 +45,11 @@ Hazard Eligibility and Local Projects Act
 - 2021-11-02 — Placed on the Union Calendar, Calendar No. 124.
 - 2021-11-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-170, Part I.
 - 2021-11-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-170, Part I.
+- 2021-11-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-11-03 — Considered under suspension of the rules. (consideration: CR H6136-6138)
+- 2021-11-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1917.
+- 2021-11-03 — Mr. Pappas moved to suspend the rules and pass the bill.
+- 2021-11-04 — Considered as unfinished business. (consideration: CR H6195-6196)
+- 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 16 (Roll no. 359). (text: 11/3/2021 CR H6136-6137)
+- 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 16 (Roll no. 359).(text: 11/3/2021 CR H6136-6137)
