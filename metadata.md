@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3193
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3193
@@ -55,3 +55,7 @@ E-BRIDGE Act
 - 2021-11-03 — Placed on the Union Calendar, Calendar No. 125.
 - 2021-11-03 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-171, Part I.
 - 2021-11-03 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-171, Part I.
+- 2021-11-04 — Considered as unfinished business. (consideration: CR H6198-6199)
+- 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 361). (text: 11/3/2021 CR H6141)
+- 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 361).(text: 11/3/2021 CR H6141)
