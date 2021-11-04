@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3992
@@ -96,3 +96,38 @@ POJA Act of 2021
 - 2021-09-23 — Placed on the Union Calendar, Calendar No. 91.
 - 2021-09-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-127.
 - 2021-09-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-127.
+- 2021-10-12 — Rule H. Res. 716 passed House.
+- 2021-10-12 — Rules Committee Resolution H. Res. 716 Reported to House. Rule provides for consideration of H.R. 2119, H.R. 3110 and H.R. 3992. The resolution provides that H. Res. 188, agreed to March 8, 2021, is amended by striking "October 27, 2021" each place it appears and inserting "November 18, 2021.
+- 2021-11-03 — Amendment (A002) offered by Mr. Pappas. (consideration: CR H6164-6165; text: CR H6164)
+- 2021-11-03 — Amendment (A003) offered by Mr. Keller. (consideration: CR H6166-6167; text: CR H6166)
+- 2021-11-03 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-11-03 — Considered under the provisions of rule H. Res. 716. (consideration: CR H6158-6167; text: CR H6158)
+- 2021-11-03 — DEBATE - Pursuant to the provisions of H.Res. 716, the House proceeded with 10 minutes of debate on the Keller amendment No. 2.
+- 2021-11-03 — DEBATE - Pursuant to the provisions of H.Res. 716, the House proceeded with 10 minutes of debate on the Pappas amendment No. 1.
+- 2021-11-03 — DEBATE - The House proceeded with one hour of debate on H.R. 3992.
+- 2021-11-03 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-11-03 — House amendment offered
+- 2021-11-03 — House amendment offered
+- 2021-11-03 — House amendment offered
+- 2021-11-03 — House amendment offered/reported by: Amendment (A002) offered by Mr. Pappas.(consideration: CR H6164-6165; text: CR H6164)
+- 2021-11-03 — House amendment offered/reported by: Amendment (A003) offered by Mr. Keller.(consideration: CR H6166-6167; text: CR H6166)
+- 2021-11-03 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Keller amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Keller demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pappas amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Good demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-11-03 — Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 3992 is postponed.
+- 2021-11-03 — Rule provides for consideration of H.R. 2119, H.R. 3110 and H.R. 3992. The resolution provides that H. Res. 188, agreed to March 8, 2021, is amended by striking "October 27, 2021" each place it appears and inserting "November 18, 2021.
+- 2021-11-03 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-11-03 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-11-04 — Amendment agreed to by House: On agreeing to the Pappas amendment (A002) Agreed to by the Yeas and Nays: 225 - 201 (Roll no. 356).
+- 2021-11-04 — Amendment failed by House: On agreeing to the Keller amendment (A003) Failed by the Yeas and Nays: 197 - 228 (Roll no. 357).
+- 2021-11-04 — Considered as unfinished business. (consideration: CR H6193-6195)
+- 2021-11-04 — House amendment agreed to: On agreeing to the Pappas amendment (A002) Agreed to by the Yeas and Nays: 225 - 201 (Roll no. 356).
+- 2021-11-04 — House amendment not agreed to: On agreeing to the Keller amendment (A003) Failed by the Yeas and Nays: 197 - 228 (Roll no. 357).
+- 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-04 — On agreeing to the Keller amendment (A003) Failed by the Yeas and Nays: 197 - 228 (Roll no. 357).
+- 2021-11-04 — On agreeing to the Pappas amendment (A002) Agreed to by the Yeas and Nays: 225 - 201 (Roll no. 356).
+- 2021-11-04 — On passage Passed by the Yeas and Nays: 224 - 200 (Roll no. 358).
+- 2021-11-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 200 (Roll no. 358).
+- 2021-11-04 — Roll call votes on amendments in House
+- 2021-11-04 — Roll call votes on amendments in House
+- 2021-11-04 — The previous question was ordered pursuant to the rule.
