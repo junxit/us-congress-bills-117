@@ -1,0 +1,969 @@
+---
+legis-num: H.R. 5961
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5961
+
+> To make revisions in title 5, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code.
+
+## § 1. Table of contents
+
+The table of contents for this Act is as follows:
+
+## § 2. Purposes; restatement does not change meaning or effect of existing law
+
+- **(a)** *Purposes* The purposes of this Act are—
+  - **(1)** to make revisions in title 5, United States Code, as necessary to keep the title current; and
+  - **(2)** to make technical amendments to improve the United States Code.
+- **(b)** *Restatement Does not Change Meaning or Effect of Existing Law*
+  - **(1)** *In general* The restatement of existing law enacted by this Act does not change the meaning or effect of the existing law. The restatement incorporates in title 5, United States Code, various provisions that were enacted separately over a period of years, reorganizing them, conforming style and terminology, modernizing obsolete language, and correcting drafting errors. These changes serve to remove ambiguities, contradictions, and other imperfections, but they do not change the meaning or effect of the existing law or impair the precedential value of earlier judicial decisions or other interpretations.
+  - **(2)** *Rule of construction*
+    - **(A)** *In general* Notwithstanding the plain meaning rule or other rules of statutory construction, a change in wording made in the restatement of existing law enacted by this Act serves to clarify the existing law as indicated in paragraph (1), but not to change the meaning or effect of the existing law.
+    - **(B)** *Revision notes* Subparagraph (A) applies whether or not a change in wording is explained by a revision note appearing in a congressional report accompanying this Act. If such a revision note does appear, a court shall consider the revision note in interpreting the change.
+
+## § 3. Revision of title 5, United States Code
+
+- **(a)** *Enactment of Chapter 10* Part I of title 5, United States Code, is amended by inserting after chapter 9 the following:
+- **(b)** *Enactment of Chapter 4* Part I of title 5, United States Code, as amended by subsection (a), is amended by inserting after chapter 3 the following:
+- **(c)** *Enactment of Part IV, Chapter 131* Title 5, United States Code, is amended by inserting after part III the following:
+
+## § 4. Technical amendments
+
+- **(a)** *Amendments To Update References to Federal Advisory Committee Act*
+  - **(1)** Section 204(b) (matter before paragraph (1)) of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1534(b) (matter before paragraph (1)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(2)** Section 3(8)(B)(vi) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602(8)(B)(vi)) is amended by striking “the Federal Advisory Committee Act;” and inserting “chapter 10 of title 5, United States Code;”.
+  - **(3)** Section 411(c)(1)(B) of title 3, United States Code, is amended by striking “section 3(2) of the Federal Advisory Committee Act;” and inserting “section 1001 of title 5;”.
+  - **(4)** Section 2(6) of the Negotiated Rulemaking Act of 1990 (Public Law 101–648, 5 U.S.C. 561 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(5)** Section 562(7) of title 5, United States Code, is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of this title”.
+  - **(6)** Section 11(e)(1) of the Administrative Dispute Resolution Act of 1996 (Public Law 104–320, 5 U.S.C. 563 note) is amended by striking “section 9 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “section 1008 of title 5, United States Code,”.
+  - **(7)** Section 565(a)(1) of title 5, United States Code, is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of this title”.
+  - **(8)** Section 566 of title 5, United State Code, is amended—
+    - **(A)** in subsection (c), by striking “section 10(e) of the Federal Advisory Committee Act,” and inserting “section 1009(e) of this title,”;
+    - **(B)** in subsection (d)(3), by striking “section 10(b) and (c) of the Federal Advisory Committee Act,” and inserting “section 1009(b) and (c) of this title,”; and
+    - **(C)** in subsection (g), by striking “section 10(b) and (c) of the Federal Advisory Committee Act.” and inserting “section 1009(b) and (c) of this title.”.
+  - **(9)** Section 568(c) (matter before paragraph (1)) of title 5, United States Code, is amended by striking “section 7(d) of the Federal Advisory Committee Act,” and inserting “section 1006(d) of this title,”.
+  - **(10)** Section 8473(f) of title 5, United States Code, is amended by striking “Section 14(a)(2) of the Federal Advisory Committee Act” and inserting “Section 1013(a) of this title”.
+  - **(11)** Section 606 of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306, 6 U.S.C. 101 note) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT” and inserting “CHAPTER 10 OF TITLE 5, UNITED STATES CODE”; and
+    - **(B)** in subsection (a), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(12)** Section 210D(h) of the Homeland Security Act of 2002 (6 U.S.C. 124k(h)) is amended—
+    - **(A)** in the subsection heading, by striking “the Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in section text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(13)** Section 232(b)(2) of the Homeland Security Act of 2002 (6 U.S.C. 162(b)(2)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.))” and inserting “chapter 10 of title 5, United States Code)”.
+  - **(14)** Section 311(i) of the Homeland Security Act of 2002 (6 U.S.C. 191(i)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act Exemption” and inserting “Exemption From Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(15)** Section 508(e) of the Homeland Security Act of 2002 (6 U.S.C. 318(e)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”;
+    - **(B)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.), including subsections (a), (b), and (d) of section 10 of such Act,” and inserting “chapter 10 of title 5, United States Code, including subsections (a), (b), and (d) of section 1009 of title 5, United States Code,”; and
+    - **(C)** in paragraph (2), by striking “Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(a)(2) of title 5, United States Code,”.
+  - **(16)** Section 871(a) of the Homeland Security Act of 2002 (6 U.S.C. 451(a)) is amended by striking “Public Law 92–463,” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(17)** Section 1016(g)(4) of the National Security Intelligence Reform Act of 2004 (6 U.S.C. 485(g)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(18)** Section 2224(b) of the Homeland Security Act of 2002 (6 U.S.C. 673(b)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. 2).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(19)** Section 2(a)(15)(E) of the Commodity Exchange Act (7 U.S.C. 2(a)(15)(E)) is amended—
+    - **(A)** in the subparagraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(20)** Section 21(b) of the United States Grain Standards Act (7 U.S.C. 87j(b)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. 2).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(21)** Section 3(c)(11)(F) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(c)(11)(F)) is amended—
+    - **(A)** in the subparagraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(22)** Section 5 of the Research Facilities Act (7 U.S.C. 390c) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT” and inserting “CHAPTER 10 OF TITLE 5, UNITED STATES CODE”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(23)** Section 3a(c)(2) of the Act of March 3, 1927 (7 U.S.C. 473a(c)(2)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(24)** Section 5 of the Act of August 23, 1935 (7 U.S.C. 511d) is amended by striking “the Federal Advisory Committee Act,” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(25)** Section 2(b)(3)(B) of the Mandatory Price Reporting Act of 2010 (Public Law 111–239, 7 U.S.C. 1635k note) is amended—
+    - **(A)** in the subparagraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(26)** Section 205(e) of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1725(e)) is amended—
+    - **(A)** in the subsection heading, by striking “Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(27)** Section 11(o)(1) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(o)(1)) is amended by striking “the Federal Advisory Committee Act,” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(28)** Section 607(b)(3) of the Rural Development Act of 1972 (7 U.S.C. 2204b(b)(3)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(29)** Section 921(g)(1) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 2279b(g)(1)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.);” and inserting “chapter 10 of title 5, United States Code;”.
+  - **(30)** Section 1806(2) of the Food and Agriculture Act of 1977 (7 U.S.C. 2286(2)) is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(31)** Section 1408(f) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3123(f)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “section 1008(c) of title 5, United States Code.”.
+  - **(32)** Section 1408A(a)(2)(E) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3123a(a)(2)(E)) is amended—
+    - **(A)** in the subparagraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “section 1008(c) of title 5, United States Code,”.
+  - **(33)** Section 1409A(e) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3124a(e)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in paragraph (2), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(34)** Section 1413B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3129a) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT EXEMPTION” and inserting “EXEMPTION FROM CHAPTER 10 OF TITLE 5, UNITED STATES CODE,”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(35)** Section 1417(k) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3152(k)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App. 2)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(36)** Section 2(j) of Public Law 89–106 (7 U.S.C. 3157(j)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App. 2)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(37)** Section 1434(f) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3196(f)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(38)** Section 1634(l) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5843(l)) is amended—
+    - **(A)** in the subsection heading, by striking “Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(a) of title 5, United States Code,”.
+  - **(39)** Section 2119(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 6518(a)) is amended by striking “(in accordance with the Federal Advisory Committee Act (5 U.S.C. App. 2 et seq.)) (hereafter referred to in this section as the “Board”)” and inserting “(hereafter referred to in this section as the “Board”) in accordance with chapter 10 of title 5, United States Code,”.
+  - **(40)** Section 420(b)(3) of the Plant Protection Act (7 U.S.C. 7721(b)(3)) is amended—
+    - **(A)** in the paragraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(41)** Section 1308(c)(5) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7958(c)(5)) is amended—
+    - **(A)** in the paragraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(42)** Section 1210(d)(3)(B) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8740(d)(3)(B)) is amended—
+    - **(A)** in the subparagraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(43)** Section 1210(d)(3)(B) of the Agricultural Act of 2014 (7 U.S.C. 9040(d)(3)(B)) is amended—
+    - **(A)** in the subparagraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(44)** Section 286(k) of the Immigration and Nationality Act (8 U.S.C. 1356(k)) is amended by striking “the Federal Advisory Committee Act,” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(45)** Section 343(e)(9) of title 10, United States Code, is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14”and inserting “Chapter 10 of title 5, other than section 1013 of title 5”.
+  - **(46)** Section 946(j) of title 10, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(47)** Section 723(d)(6) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65, 10 U.S.C. 1071 note) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(48)** Section 722(e) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, 10 U.S.C. 1073 note) is amended—
+    - **(A)** in the subsection heading, by striking “Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(49)** Section 718(g)(2) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375, 10 U.S.C. 1092 note) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(50)** Section 1783 of title 10, United States Code, is amended by striking “section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “section 1001(2) of title 5”.
+  - **(51)** Section 2012(h)(3) of title 10, United States Code, is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(52)** Section 2164(d)(6) of title 10, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.” and inserting “chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.”.
+  - **(53)** Section 2705(d)(2)(C) of title 10, United States Code, is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(54)** Section 202(b) of the National Housing Act (12 U.S.C. 1708(b)) is amended—
+    - **(A)** in the matter before paragraph (1), by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”; and
+    - **(B)** in paragraph (10), by striking “Section 7 of the Federal Advisory Committee Act,” and inserting “section 1006 of title 5, United States Code,”.
+  - **(55)** Section 1205(f) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (Public Law 101–73, 12 U.S.C. 1818 note) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting â€œChapter 10 of Title 5, United States Code,â€; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(56)** Section 5.12 of the Farm Credit Act of 1971 (12 U.S.C. 2246) is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(57)** Section 104(d) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703(d)) is amended—
+    - **(A)** in paragraph (1), by striking “the Federal Advisory Committee Act, except that section 14 of that Act” and inserting “chapter 10 of title 5, United States Code, except that section 1013 of title 5, United States Code,”; and
+    - **(B)** in paragraph (7), by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(58)** Section 111(g) of the Financial Stability Act of 2010 (12 U.S.C. 5321(g)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(59)** Section 1013(h) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493(h)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.), such Act” and inserting “chapter 10 of title 5, United States Code, such chapter”.
+  - **(60)** Section 2925(a)(3) of title 14, United States Code, is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(61)** Section 2944 of title 14, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5”.
+  - **(62)** Section 11A(a)(3)(A) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(a)(3)(A)) is amended by striking “the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section)” and inserting “chapter 10 of title 5, United States Code (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section),”.
+  - **(63)** Section 17A(f)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78q–1(f)(4)) is amended—
+    - **(A)** in subparagraph (A), by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”;
+    - **(B)** in subparagraph (B)(i), by striking “the Federal Advisory Committee Act;” and inserting “chapter 10 of title 5, United States Code;”; and
+    - **(C)** in subparagraph (C), by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(64)** Section 39(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78pp(i)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(65)** Section 25(m)(4) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(m)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA applicability” and inserting â€œApplicability of chapter 10 of title 5, united states code,â€;
+    - **(B)** in subparagraph (A), by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”; and
+    - **(C)** in subparagraph (B), by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(66)** Section 7(b) of the Small Business Computer Security and Education Act of 1984 (Public Law 98–362, 15 U.S.C. 633 note) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(67)** Section 31(b)(2)(D) of the Consumer Product Safety Act (15 U.S.C. 2080(b)(2)(D)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(68)** Section 33 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229) is amended—
+    - **(A)** in subsection (f)(2) —
+      - **(i)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+      - **(ii)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”;
+    - **(B)** in subsection (l)(3)—
+      - **(i)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+      - **(ii)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(69)** Section 26(b)(4)(E) of the Toxic Substances Control Act (15 U.S.C. 2625(b)(4)(E)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(70)** Section 604(a)(3)(B)(iii) of the America COMPETES Reauthorization Act of 2010 (Public Law 111–358, 15 U.S.C. 3701 note) is amended—
+    - **(A)** in the clause heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(71)** Section 24(k)(4) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(k)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(72)** Section 273(i) of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603(i)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App. 2)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(73)** Section 5203 of the Competitiveness Policy Council Act (15 U.S.C. 4802) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(74)** Section 5207 of the Competitiveness Policy Council Act (15 U.S.C. 4806) is amended—
+    - **(A)** in subsection (g)(6), by striking “the Federal Advisory Committee Act,” and inserting “chapter 10 of title 5, United States Code,”; and
+    - **(B)** in subsection (h)—
+      - **(i)** in the subsection heading, by striking “Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+      - **(ii)** in text, by striking “subsections (e) and (f) of section 10, of the Federal Advisory Committee Act” and inserting “subsections (e) and (f) of section 1009 of title 5, United States Code,”.
+  - **(75)** Section 101(b)(3) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(b)(3)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(76)** Section 214(c) of the Protecting Children in the 21st Century Act (15 U.S.C. 6554(c)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code,”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(77)** Section 11(c) of the National Construction Safety Team Act (15 U.S.C. 7310(c)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(78)** Section 4(f) of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7503(f)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(79)** Section 5 of the San Francisco Maritime National Historical Park Act of 1988 (16 U.S.C. 410nn–3) is amended—
+    - **(A)** in subsection (d), by striking “the Federal Advisory Committee Act,” and inserting “chapter 10 of title 5, United States Code,”; and
+    - **(B)** in subsection (e), by striking “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),” and inserting “section 1013(b) of title 5, United States Code,”.
+  - **(80)** Section 6(e) of Public Law 100–479 (16 U.S.C. 410oo–5(e)) is amended by striking “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),” and inserting “section 1013(b) of title 5, United States Code,”.
+  - **(81)** Section 3(g)(4) of Public Law 100–571 (16 U.S.C. 410qq–2(g)(4)) is amended by striking “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),” and inserting “section 1013(b) of title 5, United States Code,”.
+  - **(82)** Section 106(h) of the Omnibus Insular Areas Act of 1992 (16 U.S.C. 410tt–4(h)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this title, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “section 1013(b) of title 5, United States Code, and except as otherwise provided in this title, the provisions of chapter 10 of title 5, United States Code,” .
+  - **(83)** Section 201(i) of the Dayton Aviation Heritage Preservation Act of 1992 (16 U.S.C. 410ww–21(i)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(b) of title 5, United States Code,”.
+  - **(84)** Section 307(c) of the California Desert Protection Act of 1994 (16 U.S.C. 410aaa–6(c)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(85)** Section 407(c) of the California Desert Protection Act of 1994 (16 U.S.C. 410aaa–27(c)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(86)** Section 518(c) of the California Desert Protection Act of 1994 (16 U.S.C. 410aaa–58(c)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(87)** Section 10(d) of the Great Sand Dunes National Park and Preserve Act of 2000 (16 U.S.C. 410hhh–8(d)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(88)** Section 7001(e)(9) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 410lll(e)(9)) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA nonapplicability” and inserting “Nonapplicability of chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(b) of title 5, United States Code,”.
+  - **(89)** Section 3032(k)(9) of the Military Construction Authorization Act for Fiscal Year 2015 (16 U.S.C. 410qqq(k)(9)) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA Nonapplicability” and inserting “Nonapplicability of chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(b) of title 5, United States Code,”.
+  - **(90)** Section 5(e) of Public Law 101–377 (16 U.S.C. 430g–8(e)) is amended by striking “section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “section 1013 of title 5, United States Code,”.
+  - **(91)** Section 14 of the Winding Stair Mountain National Recreation and Wilderness Area Act (16 U.S.C. 460vv–12) is amended by striking “the Federal Advisory Committee Act (Public Law 92–463),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(92)** Section 206(e) of the West Virginia National Interest River Conservation Act of 1987 (16 U.S.C. 460ww–5(e)) is amended by striking “the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776). The provisions of section 14(b) of such Act (relating to the charter of the Committee)” and inserting “chapter 10 of title 5, United States Code. The provisions of section 1013(b) of title 5, United States Code (relating to the charter of the Committee),”.
+  - **(93)** Section 1029(g)(4) of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 460kkk(g)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “section 1013 of title 5, United States Code,”.
+  - **(94)** Section 522(h) of the Land Between the Lakes Protection Act of 1998 (16 U.S.C. 460lll–22(h)) is amended by striking “Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(a) of title 5, United States Code,”.
+  - **(95)** Section 8(c)(1) of the McInnis Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000 (16 U.S.C. 460mmm–6(c)(1)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.);” and inserting “chapter 10 of title 5, United States Code;”.
+  - **(96)** Section 131(h) of the Steens Mountain Cooperative Management and Protection Act of 2000 (16 U.S.C. 460nnn–51(h)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(97)** Section 2407(c)(1) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 460zzz–6(c)(1)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.);” and inserting “chapter 10 of title 5, United States Code;”.
+  - **(98)** Section 8(a) of Public Law 93–535 (16 U.S.C. 541g(a)) is amended by striking “the Federal Advisory Committee Act (86 Stat. 770),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(99)** Section 4(o) of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd(o)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(100)** Section 1(a)(2) [title IX, §902(f)] of Public Law 106–553 (16 U.S.C. 669 note) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Inapplicability of Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(101)** Section 11(e) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h–2(e)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United Stats Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(102)** Section 1007 of the Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 698u–5) is amended—
+    - **(A)** in subsection (f), by striking “the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “chapter 10 of title 5, United States Code,”; and
+    - **(B)** in subsection (i), by striking “section 14(b) of the Federal Advisory Committee Act (15 U.S.C. App.)” and inserting “section 1013(b) of title 5, United States Code,”.
+  - **(103)** Section 14(f) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777m(f)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(104)** Section 4(h)(10)(D)(iii) of the Pacific Northwest Electric Power Planning and Conservation Act (16 U.S.C. 839b(h)(10)(D)(iii)), as added to the “Northwest Power Planning and Conservation Act” (meaning the Pacific Northwest Electric Power Planning and Conservation Act), is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(105)** Section 4(a)(1)(E) of the Tuna Conventions Act of 1950 (16 U.S.C. 953(a)(1)(E)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(106)** Section 4(b)(6) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971b(b)(6)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(107)** Section 3(a)(67)(B)(vii) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)(67)(B)(vii)) is amended by striking “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),” and inserting “section 1013(b) of title 5, United States Code,”.
+  - **(108)** Section 117(d)(2) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1386(d)(2)) is amended by striking “the Federal Advisory Committee Act (5 App. U.S.C.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(109)** Section 118(f)(6)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1387(f)(6)(D)) is amended by striking “the Federal Advisory Committee Act (5 App. U.S.C.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(110)** Section 120(i)(1)(B) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1389(i)(1)(B)) is amended by striking “the Federal Advisory Committee Act (5 App. U.S.C.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(111)** Section 404(a)(1)(B) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1421c(a)(1)(B)) is amended by striking “The Federal Advisory Committee Act (5 App. U.S.C.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(112)** Section 315(a) of the National Marine Sanctuaries Act (16 U.S.C. 1445a(a)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(113)** Section 4(f)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1533(f)(2)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(114)** Section 14(b) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1612(b)) is amended by striking “the Federal Advisory Committee Act (86 Stat. 770)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(115)** Section 5(d) of Public Law 100–629 (16 U.S.C. 1823 note) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(116)** Section 302(i)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(i)(1)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App. 1)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(117)** Section 303(d) of the Atlantic Salmon Convention Act of 1982 (16 U.S.C. 3602(d)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(118)** Section 3(i) of the Pacific Salmon Treaty Act of 1985 (16 U.S.C. 3632(i)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(119)** Section 1262(d) of the Food Security Act of 1985 (16 U.S.C. 3862(d)), as generally amended by Public Law 110–246 as the “Farm Security Act of 1985” (meaning the Food Security Act of 1985), is amended—
+    - **(A)** in the subsection heading, by striking “FACA Requirements” and inserting “Requirements of Chapter 10 of title 5, United States Code”;
+    - **(B)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”; and
+    - **(C)** in paragraph (2), by striking “the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(120)** Section 2104(c) of the African Elephant Conservation Act (16 U.S.C. 4214(c)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(121)** Section 7(c) of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4265a(c)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(122)** Section 4(a)(1) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)) is amended by striking “Public Law 92–463, as amended,” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(123)** Section 9(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5305c(c)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(124)** Section 202(f)(2) of the Northwest Atlantic Fisheries Convention Act of 1995 (16 U.S.C. 5601(f)(2)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(125)** Section 208(d) of the Northwest Atlantic Fisheries Convention Act of 1995 (16 U.S.C. 5607(d)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(126)** Section 706 of the Yukon River Salmon Act of 1995 (16 U.S.C. 5705) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(127)** Section 204 of the Yukon River Salmon Act of 2000 (16 U.S.C. 5723) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(128)** Section 7(b)(3) of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6106(b)(3)) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(129)** Section 4(i)(5) of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303(i)(5)) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 App. U.S.C.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(130)** Section 103(b)(2) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6513(b)(2)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(131)** Section 6(c) of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6605(c)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(132)** Section 804(d)(12) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6803(d)(12)) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(133)** Section 503(d)(1)(C) of the Western and Central Pacific Fisheries Convention Implementation Act (16 U.S.C. 6902(d)(1)(C)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(134)** Section 208(b)(3) of title 18, United States Code, is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5”.
+  - **(135)** Section 3056(a)(7) of title 18, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. 2).” and inserting “chapter 10 of title 5.”.
+  - **(136)** Section 105 of the USA PATRIOT Act (Public Law 107–56, 18 U.S.C. 3056 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. 2).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(137)** Section 13031(k) of the Trade Adjustment Assistance Reform and Extension Act of 1986 (19 U.S.C. 58c(k)) is amended by striking “section 14 of the Federal Advisory Committee Act.” and inserting “section 1013 of title 5, United States Code.”.
+  - **(138)** Section 135(f) of the Trade Act of 1974 (19 U.S.C. 2155(f)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”;
+    - **(B)** in the matter before paragraph (1), by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”;
+    - **(C)** in paragraph (2)(A), by striking “subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act” and inserting “subsections (a) and (b) of sections 1009 and 1010 of title 5, United States Code”; and
+    - **(D)** in paragraph (2)(B), by striking “subsection (a)(2) of section 14 of the Federal Advisory Committee Act,” and inserting “subsection (a) of section 1013 of title 5, United States Code,”.
+  - **(139)** Section 127(j) of the Trade Deficit Review Commission Act (Public Law 105–277, 19 U.S.C. 2213 note) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(140)** Section 306(h) of the Convention on Cultural Property Implementation Act (19 U.S.C. 2605(h)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. Appendix I) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act” and inserting “chapter 10 of title 5, United States Code, shall apply to the Committee, except that the requirements of subsections (a) and (b) of section 1009 and section 1010 of title 5, United States Code”.
+  - **(141)** Section 102(b)(1) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3312(b)(1)) is amended (matter at end) by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(142)** Section 102(b)(1)(B) of the Uruguay Round Agreements Act (19 U.S.C. 3512(b)(1)(B)) is amended (matter at end) by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(143)** Section 109 of the Trade Facilitation and Trade Enforcement Act of 2015 (19 U.S.C. 4316) is amended—
+    - **(A)** in subsection (d), by striking “section 10(f) of the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “section 1009(f) of title 5, United States Code,”; and
+    - **(B)** in subsection (f), by striking “Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees)” and inserting “Section 1013(a) of title 5, United States Code,”.
+  - **(144)** Section 702(g) of the Trade Facilitation and Trade Enforcement Act of 2015 (19 U.S.C. 4422(g)) is amended—
+    - **(A)** in the subsection heading, by striking “the Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”;
+    - **(B)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”; and
+    - **(C)** in paragraph (2), by striking “section 10 and section 11 of the Federal Advisory Committee Act” and inserting “section 1009 and section 1010 of title 5, United States Code”.
+  - **(145)** Section 12(g) of the National Museum of the American Indian Act (20 U.S.C. 80q–10(g)) is amended—
+    - **(A)** in the subsection heading, by striking “the Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(146)** Section 114(d)(4) of the Higher Education Act of 1965 (20 U.S.C. 1011c(d)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act” and inserting “Chapter 10 of title 5, United States Code, shall apply to the Committee, except that section 1013 of title 5, United States Code,”.
+  - **(147)** Section 491(k) of the Higher Education Act of 1965 (20 U.S.C. 1098(k)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. I)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(148)** Section 492(c) of the Higher Education Act of 1965 (20 U.S.C. 1098a(c)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(149)** Section 114(d)(1)(D) of the Vocational Education Act of 1963 (20 U.S.C. 2324(d)(1)(D)) is amended—
+    - **(A)** in the subparagraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(150)** Section 9(b)(6) of the National Environmental Education Act (20 U.S.C. 5508(b)(6)) is amended by striking “Section 14(a) of the Federal Advisory Committee Act” and inserting “Section 1013(a) of title 5, United States Code,”.
+  - **(151)** Section 11(f) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5607b(f)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(152)** Section 1601(b)(4)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6571(b)(4)(A)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.);” and inserting “chapter 10 of title 5, United States Code;”.
+  - **(153)** Section 114(g) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9514(g)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(154)** Section 302(h) of the National Assessment of Educational Progress Authorization Act (20 U.S.C. 9621(h)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.” and inserting “Chapter 10 of title 5, United States Code, shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5, United States Code.”.
+  - **(155)** Section 513(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360c(b)) is amended—
+    - **(A)** in paragraph (1), by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”; and
+    - **(B)** in paragraph (8), by striking the “Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(156)** Section 520(f)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(f)(3)) is amended (matter at end) by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(157)** Section 567(a)(4) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–6(a)(4)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(158)** Section 572(d)(3)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ccc–1(d)(3)(C)) is amended by striking “the Federal Advisory Committee Act, 5 U.S.C. App. 2.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(159)** Section 712(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379d–1(a)(1)) is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(160)** Section 917(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387q(d)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”;
+    - **(B)** in paragraph (3)—
+      - **(i)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+      - **(ii)** in text, by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(161)** Section 410(h) of the Federal Meat Inspection Act (21 U.S.C. 679a(h)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(162)** Section 810(i)(1) of the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1908(i)(1)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(163)** Section 543(b) of the North American Free Trade Agreement Implementation Act (22 U.S.C. 290m–2(b)) is amended—
+    - **(A)** in paragraph (1), by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”; and
+    - **(B)** in paragraph (4)(D), by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(164)** Section 8(a) of the U.S. Holocaust Assets Commission Act of 1998 (Public Law 105–186, 22 U.S.C. 1621 note) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(165)** Section 301(h) of the International Travel Act of 1961 (22 U.S.C. 2124(h)) is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(166)** Section 234A(b)(4) of the Foreign Assistance Act of 1961 (22 U.S.C. 2194b(b)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(167)** Section 637(g) of the HELP Commission Act (22 U.S.C. 2394b(g)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(168)** Section 8D(f) of the Peace Corps Act (22 U.S.C. 2507d(f)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(169)** Section 406(f)(3) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4356(f)(3)) is amended by striking “The Federal Advisory Committee Act shall not apply to the Advisory Committee to the extent that the provisions of this title are inconsistent with that Act.” and inserting “Chapter 10 of title 5, United States Code, shall not apply to the Advisory Committee to the extent that the provisions of this title are inconsistent with that chapter.”.
+  - **(170)** Section 303(d) of the Diplomatic Security Act (22 U.S.C. 4833(d)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(171)** Section 202(e) of the Support for East European Democracy (SEED) Act of 1989 (22 U.S.C. 5422(e)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(172)** Section 206 of the International Religious Freedom Act of 1998 (22 U.S.C. 6434) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(173)** Section 1238(g) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (22 U.S.C. 7002(g)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(174)** Section 5204(h)(2) of the Intelligent Transportation Systems Act of 1998 (Public Law 105–178, 23 U.S.C. 502 note) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(175)** Section 6011(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 23 U.S.C. 502 note) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(176)** Section 5305(h)(5) of SAFETEA–LU (Public Law 109–59, 23 U.S.C. 512 note) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(177)** Section 5307(a)(4)(B) of SAFETEA–LU (Public Law 109–59, 23 U.S.C. 512 note) is amended—
+    - **(A)** in the subparagraph heading, by striking “advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(178)** Section 515(h)(5) of title 23, United States Code, is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(179)** Section 4(d)(2) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225b(d)(2)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(180)** Section 19 of Public Law 103–435 (25 U.S.C. 166) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT” and inserting “CHAPTER 10 OF TITLE 5, UNITED STATES CODE”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(181)** Section 3307(j) of the Youth Drug and Mental Health Services Act (Public Law 106–310, 25 U.S.C. 1671 note) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(182)** Section 1138(b) of the Education Amendments of 1978 (25 U.S.C. 2018(b)) is amended—
+    - **(A)** in paragraph (3)(E), by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”; and
+    - **(B)** in paragraph (4), by striking “section 7(d) of the Federal Advisory Committee Act,” and inserting “section 1006(d) of title 5, United States Code,”.
+  - **(183)** Section 15(m) of the Indian Law Enforcement Reform Act (25 U.S.C. 2812(m)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(184)** Section 306(c) of the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4046(c)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(185)** Section 9 of the Indian Tribal Regulatory Reform and Business Development Act of 2000 (Public Law 106–447, 25 U.S.C. 4301 note) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT” and inserting “CHAPTER 10 OF TITLE, UNITED STATES CODE”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(186)** Section 15(d)(2)(F) of the Wagner-Peyser Act (29 U.S.C. 49l–2(d)(2)(F)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(187)** Section 205(i) of the Rehabilitation Act of 1973 (29 U.S.C. 765(i)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(188)** Section 904(a)(6) of the Food and Drug Administration Safety and Innovation Act (Public Law 112–144, 29 U.S.C. 792 note) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA waiver” and inserting “Waiver of chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(189)** Section 512(e) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1142(e)) is amended by striking “Section 14(a) of the Federal Advisory Committee Act (relating to termination)” and inserting “Section 1013(a) of title 5, United States Code (relating to termination),”.
+  - **(190)** Section 517(f)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1147(f)(3)) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(191)** Section 4002(h)(8) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1302(h)(8)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(192)** Section 166(i)(4)(G) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3221(i)(4)(G)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(193)** Section 9(f) of the Mining and Mineral Resources Institutes Act (30 U.S.C. 1229(f)) is amended by striking “Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1009 of title 5, United States Code,”.
+  - **(194)** Section 624(d) of the Treasury and General Government Appropriations Act, 2001 (Public Law 106–554, 31 U.S.C. 1105 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(195)** Section 202(c)(2) of the Government Securities Act Amendments of 1993 (Public Law 103–202, 31 U.S.C. 3121 note) is amended by striking “section 10(c) of the Federal Advisory Committee Act” and inserting “section 1009(c) of title 5, United States Code,”.
+  - **(196)** Section 5135(h) of title 31, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5”.
+  - **(197)** Section 1564(c) of the Annunzio-Wylie Anti-Money Laundering Act (Public Law 102–550, 31 U.S.C. 5311 note) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(198)** Section 8(f)(9) of the National Dam Safety Program Act (33 U.S.C. 467f(f)(9)) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(199)** Section 8004(g)(2)(D) of the Water Resources Development Act of 2007 (Public Law 110–114, 33 U.S.C. 652 note) is amended—
+    - **(A)** in the subparagraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(200)** Section 3(a) of the Oceans Act of 2000 (Public Law 106–256, 33 U.S.C. 857–19 note) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12,” and inserting “Chapter 10 of title 5, United States Code, except for sections 1001, 1006, and 1011,”.
+  - **(201)** Section 311(t)(2)(C)(viii) of the Federal Water Pollution Control Act (33 U.S.C. 1321(t)(2)(C)(viii)) is amended—
+    - **(A)** in the clause heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(202)** Section 302(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2251(f)) is amended—
+    - **(A)** in paragraph (1) by striking “the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14,” and inserting “chapter 10 of title 5, United States Code, other than section 1013,”; and
+    - **(B)** in paragraph (2), by striking “the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(203)** Section 2034(j) of the Water Resources Development Act of 2007 (33 U.S.C. 2343(j)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(204)** Section 2035(g) of the Water Resources Development Act of 2007 (33 U.S.C. 2344(g)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(205)** Section 5008(c) of the Oil Pollution Act of 1990 (33 U.S.C. 2738(c)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App. 2)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(206)** Section 903(b) of the Oceans and Human Health Act (33 U.S.C. 3102(b)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(207)** Section 9003(h) of the National Levee Safety Act of 2007 (33 U.S.C. 3302(h)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(208)** Section 12005(b) of the Omnibus Public Land Management Act of 2009 (33 U.S.C. 3405(b)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(209)** Section 12304(d)(4)(E) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3603(d)(4)(E)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(210)** Section 807(e) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10226(e)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(211)** Section 210303(b)(2) of the DNA Identification Act of 1994 (34 U.S.C. 12591(b)(2)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(212)** Section 7(n) of the Prison Rape Elimination Act of 2003 (34 U.S.C. 30306(n)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(213)** Section 215(d) of the National Crime Prevention and Privacy Compact Act of 1998 (34 U.S.C. 40314(d)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(214)** Section 217 [Article VIII(a) of the National Crime Prevention and Privacy Compact] of the National Crime Prevention and Privacy Compact Act of 1998 (34 U.S.C. 40316) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(215)** Section 5(h) of title 35, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(216)** Section 8(b) of the World War I Centennial Commission Act (Public Law 112–272, 36 U.S.C. note prec. 101) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”;
+    - **(B)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”; and
+    - **(C)** in paragraph (2), by striking “Section 14(a)(2) of such Act” and inserting “Section 1013(a) of title 5, United States Code,”.
+  - **(217)** Section 545(d) of title 38, United States Code, is amended—
+    - **(A)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5”; and
+    - **(B)** in paragraph (2), by striking “Section 14 of such Act” and inserting “Section 1013 of title 5”.
+  - **(218)** Section 546(f) of title 38, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”;
+    - **(B)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5”; and
+    - **(C)** in paragraph (2), by striking “Section 14 of such Act” and inserting “Section 1013 of title 5”.
+  - **(219)** Section 7314(d)(4) of title 38, United States Code, is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5.”.
+  - **(220)** Section 7320(e)(4) of title 38, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5.”.
+  - **(221)** Section 2(b)(4) of the Department of Veterans Affairs Emergency Preparedness Act of 2002 (Public Law 107–287, 38 U.S.C. 7325 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(222)** Section 303(a) of the Veterans Health Programs Improvement Act of 2004 (Public Law 108–422, 38 U.S.C. 7328 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(223)** Section 7329(d)(4) of title 38, United States Code, is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5.”.
+  - **(224)** Section 7330(d)(4) of title 38, United States Code, is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5.”.
+  - **(225)** Section 7330A(c)(5) of title 38, United States Code, is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5.”.
+  - **(226)** Section 407(b)(3) of title 39, United States Code, is amended by striking “the Federal Advisory Committee Act)” and inserting “chapter 10 of title 5)”.
+  - **(227)** Section 217(d) of the Public Health Service Act (42 U.S.C. 218(d)) is amended by striking “Section 14(a) of the Federal Advisory Committee Act” and inserting “Section 1013(a) of title 5, United States Code,”.
+  - **(228)** Section 319L(e)(2) of the Public Health Service Act (42 U.S.C. 247d–7e(e)(2)) is amended by striking “section 14 of the Federal Advisory Committee Act,” and inserting “section 1013 of title 5, United States Code,”.
+  - **(229)** Section 337(c) of the Public Health Service Act (42 U.S.C. 254j(c)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(230)** Section 399U(e) of the Public Health Service Act (42 U.S.C. 280g–10(e)) is amended by striking “Appendix 2 of title 5, United States Code.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(231)** Section 402(b) (matter after last paragraph) of the Public Health Service Act (42 U.S.C. 282(b) (matter after last paragraph)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(232)** Section 405(c) (matter after paragraph (4)) of the Public Health Service Act (42 U.S.C. 284(c)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(233)** Section 14(d) of the Best Pharmaceuticals for Children Act (42 U.S.C. 284m–1(d)) is amended by striking “section 14 of the Federal Advisory Committee Act,” and inserting “section 1013 of title 5, United States Code,”.
+  - **(234)** Section 452(c)(1) (matter after subparagraph (F)) of the Public Health Service Act (42 U.S.C. 285g–4(c)(1)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(235)** Section 3(d)(1) of the ICCVAM Authorization Act of 2000 (42 U.S.C. 285l–3(d)(1)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(236)** Section 501(h) of the Public Health Service Act (42 U.S.C. 290aa(h)) is amended by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(237)** Section 749(g) of the Public Health Service Act (42 U.S.C. 293l(g)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act” and inserting “Chapter 10 of title 5, United States Code, shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5, United States Code,”.
+  - **(238)** Section 757(g) of the Public Health Service Act (42 U.S.C. 294f(g)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act” and inserting “Chapter 10 of title 5, United States Code, shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5, United States Code,”.
+  - **(239)** Section 5101(c)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 294q(c)(1)) is amended by striking “section 5 of the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “section 1004 of title 5, United States Code.”.
+  - **(240)** Section 851(h) of the Public Health Service Act (42 U.S.C. 297t(h)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act” and inserting “Chapter 10 of title 5, United States Code, shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5, United States Code,”.
+  - **(241)** Section 915(a)(5) of the Public Health Service Act (42 U.S.C. 299b–4(a)(5)) is amended by striking “Appendix 2 of title 5, United States Code.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(242)** Section 942(j) of the Public Health Service Act (42 U.S.C. 299c(j)) is amended by striking “section 14(a) of the Federal Advisory Committee Act,” and inserting “section 1013(a) of title 5, United States Code,”.
+  - **(243)** Section 941(c)(3) of the Public Health Service Act (42 U.S.C. 299c–1(c)(3)) is amended by striking “section 14(a) of the Federal Advisory Committee Act,” and inserting “section 1013(a) of title 5, United States Code,”.
+  - **(244)** Section 1111(g) of the Public Health Service Act (42 U.S.C. 300b–10(g)) is amended—
+    - **(A)** in paragraph (1), by striking “section 14 of the Federal Advisory Committee Act,” and inserting “section 1013 of title 5, United States Code,”; and
+    - **(B)** in paragraph (2), by striking “the Federal Advisory Committee Act, an advisory committee established by the President or an officer of the Federal Government under section 9(a) of such Act.” and inserting “chapter 10 of title 5, United States Code, an advisory committed established by the President or an officer of the Federal Government under section 1008(a) of title 5, United States Code.”.
+  - **(245)** Section 1446(d) of the Public Health Service Act (42 U.S.C. 300j–5(d)) is amended by striking “Section 14(a) of the Federal Advisory Committee Act (relating to termination)” and inserting “Section 1013(a) of title 5, United States Code (relating to termination),”.
+  - **(246)** Section 3002(e) of the Public Health Service Act (42 U.S.C. 300jj–12(e)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of such Act,” and inserting “Chapter 10 of title 5, United States Code, other than section 1013 of title 5, United States Code,”.
+  - **(247)** Section 3302(a)(6) of the Public Health Service Act (42 U.S.C. 300mm–1(a)(6)) is amended—
+    - **(A)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act.” and inserting “Chapter 10 of title 5, United States Code.”.
+  - **(248)** Section 3(b)(3) of the Social Security Disability Benefits Reform Act of 1984 (Public Law 98–460, 42 U.S.C. 423 note) is amended by striking “the Federal Advisory Committee Act)” and inserting “Chapter 10 of title 5, United States Code)”.
+  - **(249)** Section 703(h) of the Social Security Act (42 U.S.C. 903(h)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(250)** Section 5006(e)(1) of the American Recovery and Reinvestment Act of 2009 (42 U.S.C. 1320b–24) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(251)** Section 1834A(f)(2) of the Social Security Act (42 U.S.C. 1395m–1(f)(2)) is amended—
+    - **(A)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(252)** Section 1847(c)(4) of the Social Security Act (42 U.S.C. 1395w–3(c)(4)) is amended—
+    - **(A)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(253)** Section 3134(b)(1)(A) of the Patient Protection and Affordable Care Act (Public Law 111–148, 42 U.S.C. 1395w–4 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(254)** Section 4012(c) of the Balanced Budget Act of 1997 (Pub. L. 105–33, 42 U.S.C. 1395w–23 note) is amended by striking “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “section 1008(c) of title 5, United States Code,”.
+  - **(255)** Section 1868(c)(1)(G) of the Social Security Act (42 U.S.C. 1395ee(c)(1)(G)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(256)** Section 2021(j) of the Social Security Act (42 U.S.C. 1397k(j)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(257)** Section 2022(j) of the Social Security Act (42 U.S.C. 1397k–1(j)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(258)** Section 23(j) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–9(j)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(259)** Section 1061(l)(2) of the National Security Intelligence Reform Act of 2004 (42 U.S.C. 2000ee(l)(2)) is amended by striking “section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).” and inserting “section 1001(2) of title 5, United States Code).”.
+  - **(260)** Section 170(l) of the Atomic Energy Damages Act (42 U.S.C. 2210(l)) is amended—
+    - **(A)** in paragraph (1), by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”; and
+    - **(B)** in paragraph (4)—
+      - **(i)** in subparagraph (A), by striking “the Federal Advisory Committee Act (5 U.S.C. App.) and title 5, United States Code.” and inserting “title 5, United States Code.”; and
+      - **(ii)** in subparagraphs (E) and (F), by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(261)** Section 308 of the Denali Commission Act of 1998 (Public Law 105–277, 42 U.S.C. 3121 note) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT” and inserting “CHAPTER 10 OF TITLE 5, UNITED STATES CODE”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(262)** Section 309(b)(5) of the Denali Commission Act of 1998 (Public Law 105–277, 42 U.S.C. 3121 note) is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code,”; and
+    - **(B)** in text by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(263)** Section 1345(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4081(b)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(264)** Section 106(g) of the Energy Reorganization Act of 1974 (42 U.S.C. 5816(g)) is amended by striking “the Federal Advisory Committee Act (Public Law 92–463),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(265)** Section 253(c)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6273(c)(1)) is amended by striking “sections 10 and 11 of the Federal Advisory Committee Act,” and inserting “sections 1009 and 1010 of title 5, United States Code,”.
+  - **(266)** Section 624 of the Department of Energy Organization Act (42 U.S.C. 7234) is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(267)** Section 3112 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 42 U.S.C. 7234 note) is amended—
+    - **(A)** in the section heading, by striking “FEDERAL ADVISORY COMMITTEE ACT” and inserting “CHAPTER 10 OF TITLE 5, UNITED STATES CODE,”; and
+    - **(B)** in text, by striking “section 3 of the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “section 1001 of title 5, United States Code.”.
+  - **(268)** Section 3142(f) of the Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999 (42 U.S.C. 7383(f)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(269)** Section 169B(c)(4) of the Clean Air Act (42 U.S.C. 7492(c)(4)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. Appendix 2, Section 1).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(270)** Section 176A(b)(2) of the Clean Air Act (42 U.S.C. 7506a(b)(2)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(271)** Section 5(a)(5)(D) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(a)(5)(D)) is amended—
+    - **(A)** in the subparagraph heading, by striking “Federal advisory committee act application” and inserting “Application of chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(272)** Section 172(e) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10173b(e)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(273)** Section 408(10) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10248(10)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(274)** Section 163(c) of the National and Community Service Act of 1990 (42 U.S.C. 12623(c)) is amended by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(275)** Section 192A(h) of the National and Community Service Act of 1990 (42 U.S.C. 12651b(h)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(276)** Section 103(h)(7) of the Energy Policy Act of 1992 (42 U.S.C. 13458(h)(7)) is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(277)** Section 205(e) of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15704(e)) is amended by striking “section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act,” and inserting “section 1013(b)(2) of title 5, United States Code, the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 1008(c) of title 5, United States Code,”.
+  - **(278)** Section 990(b) of the Energy Research, Development, Demonstration, and Commercial Application Act of 2005 (42 U.S.C. 16354(b)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(279)** Section 494(e) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17123(e)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA Exemption” and inserting “Exemption From Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “section 1013 of title 5, United States Code.”.
+  - **(280)** Section 641(e)(3)(B) of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231(e)(3)(B)) is amended—
+    - **(A)** in the subparagraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(281)** Section 1303(a)(3) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17383(a)(3)) is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(282)** Section 1322(b)(4)(E) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(b)(4)(E)) is amended—
+    - **(A)** in the subparagraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory board, except that section 14 of such Act” and inserting “Chapter 10 of title 5, United States Code, shall apply to the advisory board, except that section 1013 of title 5, United States Code,”.
+  - **(283)** Section 205 of the Energy and Water Development Appropriations Act, 1993 (43 U.S.C. 1475a) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. Appendix (1988)):” and inserting “chapter 10 of title 5, United States Code:”.
+  - **(284)** Section 4(b) of the Colorado River Floodway Protection Act (43 U.S.C. 1600b(b)) is amended by striking “the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App. I)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(285)** Section 309(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1739(a)) is amended by striking “the Federal Advisory Committee Act (86 Stat. 770; 5 U.S.C. App. 1).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(286)** Section 8(d)(2) of the President John F. Kennedy Assassination Records Collection Act of 1992 (Public Law 102–526, 44 U.S.C. 2107 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(287)** Section 2701(b) of title 44, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.), except that the Committee shall be of permanent duration, notwithstanding any provision of section 14 of the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, except that the Committee shall be of permanent duration, notwithstanding any provision of section 1013 of title 5.”.
+  - **(288)** Section 1168(a) of the Northeast Rail Service Act of 1981 (45 U.S.C. 1116(a)) is amended by striking “the Federal Advisory Committee Act,” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(289)** Section 613(a) of the Alaska Railroad Transfer Act of 1982 (45 U.S.C. 1212(a)) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(290)** Section 7510(c)(9) of title 46, United States Code, is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(291)** Section 9307 of title 46, United States Code, is amended—
+    - **(A)** in subsection (c)(2), by striking “section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “section 1009(c) of title 5.”; and
+    - **(B)** in subsection (f)(1), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(292)** Section 51313(d) of title 46, United States Code, is amended by striking “The Federal Advisory Committee Act (5 App. U.S.C.)” and inserting “Chapter 10 of title 5”.
+  - **(293)** Section 109(a)(2) of the Maritime Transportation Security Act of 2002 (Public Law 107–295, 46 U.S.C. 70101 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(294)** Section 70112(b)(4)(B) of title 46, United States Code, is amended by striking “section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “section 1009(c) of title 5.”.
+  - **(295)** Section 70112(b)(7) of title 46, United States Code, is amended—
+    - **(A)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(296)** Section 332(b)(4) of the Communications Act of 1934 (47 U.S.C. 332(b)(4)) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(297)** Section 201(h) of the Twenty-First Century Communications and Video Accessibility Act of 2010 (Public Law 111–260, 47 U.S.C. 613 note) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(298)** Section 106(f) of the Twenty-First Century Communications and Video Accessibility Act of 2010 (47 U.S.C. 615c(f)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(299)** Section 113 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923) is amended—
+    - **(A)** in subsection (h)(3)(E), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”; and
+    - **(B)** in subsection (i)(9), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(300)** Section 603(f) of the Warning, Alert, and Response Network Act (47 U.S.C. 1202(f)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act” and inserting “chapter 10 of title 5, United States Code, nor any rule, order, or regulation promulgated under that chapter”.
+  - **(301)** Section 6203(e) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1423(e)) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(302)** Section 106(p)(5) of title 49, United States Code, is amended—
+    - **(A)** in the paragraph heading, by striking “Federal advisory committee act” and inserting “Chapter 10 of title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(303)** Section 1325(a)(4) of title 49, United States Code, is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5.”.
+  - **(304)** Section 6305(e) of title 49, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory council established under this section, except that section 14 of that Act” and inserting “Chapter 10 of title 5 shall apply to the advisory council established under this section, except that section 1013 of title 5”.
+  - **(305)** Section 14504a(d)(9) of title 49, United States Code, is amended—
+    - **(A)** in the paragraph heading, by striking “federal advisory committee act” and inserting “chapter 10 of title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(306)** Section 20133(d) of title 49, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “chapter 10 of title 5,”.
+  - **(307)** Section 502(c)(5) of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432, 49 U.S.C. 26106 note) is amended by striking “the Federal Advisory Committee Act (P.L. 92–463)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(308)** Section 30306(i) of title 49, United States Code, is amended by striking “sections 10(e) and (f) and 14 of the Federal Advisory Committee Act (5 App. U.S.C.).” and inserting “sections 1009(e) and (f) and 1013 of title 5.”.
+  - **(309)** Section 4144(d) of the Motor Carrier Safety Reauthorization Act of 2005 (Public Law 109–59, 49 U.S.C. 31100 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.),” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(310)** Section 5106(a)(5) of the FAST Act (Public Law 114–94, 49 U.S.C. 31102 note) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(311)** Section 274(b)(5)(C) of the Air Traffic Management System Performance Improvement Act of 1996 (Public Law 104–264, 49 U.S.C. 40101 note) is amended—
+    - **(A)** in the subparagraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code,”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”.
+  - **(312)** Section 805(d) of the National Parks Air Tour Management Act of 2000 (Public Law 106–181, 49 U.S.C. 40128 note) is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in paragraph (3)—
+      - **(i)** in the paragraph heading, by striking “FACA” and inserting “Chapter 10 of title 5, united states code”; and
+      - **(ii)** in text, by striking “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013 of title 5, United States Code,”.
+  - **(313)** Section 44508(d) of title 49, United States Code, is amended by striking “Section 14 of the Federal Advisory Committee Act (5 App. U.S.C.)” and inserting “Section 1013 of title 5”.
+  - **(314)** Section 44511(f)(2) of title 49, United States Code, is amended by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5”.
+  - **(315)** Section 204(f) of the Airline Safety and Federal Aviation Administration Extension Act of 2010 (Public Law 111–216, 49 U.S.C. 44701 note) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(316)** Section 44903(f) of title 49, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5.”.
+  - **(317)** Section 44946(f) of title 49, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “FACA” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5”.
+  - **(318)** Section 703(l) of the Public Interest Declassification Act of 2000 (Public Law 106–567, 50 U.S.C. 3161 note) is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(319)** Section 410(b)(3) of the Intelligence Authorization Act for Fiscal Year 2010 (50 U.S.C. 3309(3)) is amended by striking “section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.” and inserting “section 1003(b)(3) of title 5, United States Code, that an advisory committee cannot comply with the requirements of chapter 10 of title 5, United States Code.”.
+  - **(320)** Section 19(c) of the National Security Agency Act of 1959 (50 U.S.C. 3617(c)) is amended by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
+  - **(321)** Section 708(d)(1) of the Defense Production Act of 1950 (50 U.S.C. 4558(d)(1)) is amended by striking “the Federal Advisory Committee Act, whether or not such Act” and inserting “chapter 10 of title 5, United States Code, whether or not such chapter”.
+  - **(322)** Section 708(n) of the Defense Production Act of 1950 (50 U.S.C. 4558(n)) is amended—
+    - **(A)** in the subsection heading, by striking “Advisory Committee Act Provisions” and inserting “Chapter 10 of Title 5, United States Code,”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(323)** Section 722(e) of the Defense Production Act of 1950 (50 U.S.C. 4567(e)) is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “chapter 10 of title 5, United States Code,”.
+  - **(324)** Section 121(b) of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1991 (Public Law 101–611, 51 U.S.C. 20111 note) is amended by striking “section 14(a)(2) of the Federal Advisory Committee Act.” and inserting “section 1013(a) of title 5, United States Code.”.
+  - **(325)** Section 40308(a) of title 51, United States Code, is amended by striking “the Federal Advisory Committee Act (5 App. U.S.C.).” and inserting “chapter 10 of title 5.”.
+  - **(326)** Section 60304(a) of title 51, United States Code, is amended by striking “section 14 of the Federal Advisory Committee Act (5 App. U.S.C.),” and inserting “section 1013 of title 5,”.
+  - **(327)** Section 70906(a) of title 51, United States Code, is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5”.
+  - **(328)** Section 100906(b) of title 54, United States Code, is amended by striking “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Section 1013(b) of title 5”.
+  - **(329)** Section 101919(e) of title 54, United States Code, is amended by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5.”.
+  - **(330)** Section 102303(h) of title 54, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.), with the exception of section 14(b),” and inserting “Chapter 10 of title 5, with the exception of section 1013(b),”.
+  - **(331)** Section 304105(i) of title 54, United States Code, is amended—
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5”; and
+    - **(B)** in text, by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5.”.
+- **(b)** *Amendments To Update References to Inspector General Act of 1978*
+  - **(1)** Subsection (d)(1) of the Library of Congress Inspector General Act of 2005 (2 U.S.C. 185(d)(1)) is amended by striking “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof), and 407 of title 5, United States Code,”.
+  - **(2)** Section 3(8)(B)(xvii) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602(8)(B)(xvii)) is amended by striking “the Inspector General Act of 1978,” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(3)** Subsection (d)(1) of the Architect of the Capitol Inspector General Act of 2007 (2 U.S.C. 1808(d)(1)) is amended by striking “Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “Sections 404, 405 (other than subsections (b)(13) and (f)(1)(B) thereof), 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5, United States Code,”.
+  - **(4)** Section 1004 of the Legislative Branch Appropriations Act, 2006 (2 U.S.C. 1909) is amended—
+    - **(A)** in subsection (c)(1), by striking “section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4),” and inserting “section 404 of title 5, United States Code,”;
+    - **(B)** in subsection (c)(2)—
+      - **(i)** by striking “section 5 (other than subsection (a)(13) thereof) of the Inspector General Act of 1978, (5 U.S.C. App. 5).” and inserting “section 405 (other than subsection (b)(13) thereof) of title 5, United States Code.”;
+      - **(ii)** by striking “section 5 of such Act” and inserting “section 405 of such title”; and
+      - **(iii)** by striking “section 5(b) of such Act.” and inserting “section 405(c) of such title.”; and
+    - **(C)** in subsection (d)(1), by striking “section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.” and inserting “section 406(a) of title 5, United States Code, other than paragraphs (7) and (8) of such section.”.
+  - **(5)** Section 6(c) of the Inspector General Reform Act of 2008 (Public Law 110–409, 122 Stat. 4305) is amended by striking “sections 3(g) and 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by this section).” and inserting “sections 403(g) and 415(g) of title 5, United States Code.”.
+  - **(6)** Section 4(d) of the Inspector General Reform Act of 2008 (Public Law 110–409, 122 Stat. 4304) is amended—
+    - **(A)** in paragraph (1), by striking “section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 7(a) of this Act);” and inserting “section 401 of title 5, United States Code;” and
+    - **(B)** in paragraph (2), by striking “section 8G(2) of the Inspector General Act of 1978 (5 U.S.C. App.);” and inserting “section 415(a) of title 5, United States Code;”.
+  - **(7)** Section 101(d)(3) of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277, 112 Stat. 2681–585), as amended by section 1000(a)(5) [title II, §239(a)] of Public Law 106–113 (113 Stat. 1536, 1501A–302), is amended by striking “section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 412(j) of title 5, United States Code,”.
+  - **(8)** Section 845(a)(1) of the Acquisition Improvement and Accountability Act of 2007 (Public Law 110–181, div. A, title VIII, 122 Stat. 240) is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(9)** Section 6009(b) of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3367), as amended by section 810 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 394) is amended by striking “section 5(a)(3) of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 405(b)(3) of title 5, United States Code,”.
+  - **(10)** Section 2 of Public Law 106–422 (114 Stat. 1873) is amended—
+    - **(A)** in subsection (a)(1), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”;
+    - **(B)** in subsection (a)(2) (matter before subparagraph (A)), by striking “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 401 of title 5, United States Code”;
+    - **(C)** in subsection (a)(2)(B), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”;
+    - **(D)** in subsection (b)(1), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”;
+    - **(E)** in subsection (b)(2) (matter before subparagraph (A)), by striking “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 401 of title 5, United States Code”; and
+    - **(F)** in subsection (b)(2)(B), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(11)** Section 403(c) of the Intelligence Authorization Act for Fiscal Year 2014 (Public Law 113–126, 128 Stat. 1409) is amended by striking “section 3 of the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “section 403 of title 5, United States Code,”.
+  - **(12)** Section 413(c) of the Intelligence Authorization Act for Fiscal Year 2014 (Public Law 113–126, 128 Stat. 1410) is amended by striking “section 3 of the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “section 403 of title 5, United States Code,”.
+  - **(13)** Section 11314(a)(1) of the Passenger Rail Reform and Investment Act of 2015 (Public Law 114–94, div. A, title XI, 129 Stat. 1674) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(14)** The matter under the headings “RELATED AGENCIES”, “Commission on Civil Rights”, “salaries and expenses”, and “(including transfer of funds)”, in title IV of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013 (Public Law 113–6, div. B, 127 Stat. 266) is amended—
+    - **(A)** in the 4th proviso, by striking “the Inspector General Act of 1978:” and inserting “chapter 4 of title 5, United States Code:”; and
+    - **(B)** in the 7th proviso (which is not classified to the United States Code), by striking “section 5 of the Inspector General Act of 1978)” and inserting “section 405 of title 5, United States Code)”.
+  - **(15)** Section 1229 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181) is amended—
+    - **(A)** in subsection (c)(6), by striking “section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 403(b) of title 5, United States Code.”;
+    - **(B)** in subsection (f)(3)—
+      - **(i)** in the paragraph heading, by striking “inspector general act of 1978” and inserting “chapter 4 of title 5, united states code”; and
+      - **(ii)** in text, by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5, United States Code.”; and
+    - **(C)** in subsection (g)—
+      - **(i)** in paragraph (1)—
+        - **(I)** in the paragraph heading, by striking “inspector general act of 1978” and inserting “chapter 4 of title 5, united states code”; and
+        - **(II)** in text, by striking “section 6 of the Inspector General Act of 1978,” and inserting “section 406 of title 5, United States Code,”; and
+      - **(ii)** in paragraph (2), by striking “section 4(b)(1) of the Inspector General Act of 1978.” and inserting “section 404(b)(1) of title 5, United States Code.”.
+  - **(16)** The 2d proviso in the matter under the headings “Chemical Safety and Hazard Investigation Board” and “salaries and expenses” in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2002 (Public Law 107–73, 115 Stat. 679) is amended by striking “the Inspector General Act of 1978, as amended:” and inserting “chapter 4 of title 5, United States Code:”.
+  - **(17)** Section 3001 of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 (Public Law 108–106) is amended—
+    - **(A)** in subsection (c)(4), by striking “section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 403(b) of title 5, United States Code.”;
+    - **(B)** in subsection (f)(3), by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5, United States Code.”;
+    - **(C)** in subsection (g)—
+      - **(i)** in paragraph (1), by striking “section 6 of the Inspector General Act of 1978,” and inserting “section 406 of title 5, United States Code,”; and
+      - **(ii)** in paragraph (2), by striking “section 4(b)(1) of the Inspector General Act of 1978.” and inserting “section 404(b)(1) of title 5, United States Code.”; and
+    - **(D)** in subsection (i)(3), by striking “section 5 of the Inspector General Act of 1978.” and inserting “section 405 of title 5, United States Code.”.
+  - **(18)** Section 409(b) of the Amtrak Reform and Accountability Act of 1997 (Public Law 105–134, 111 Stat. 2587) is amended by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(19)** Section 102(e)(4) of the Inspector General Act Amendments of 1988 (Public Law 100–504, 102 Stat. 2517) is amended by striking “section 3(b) of the Inspector General Act of 1978.” and inserting “section 403(b) of title 5, United States Code.”.
+  - **(20)** Section 7 of the Special Inspector General for the Troubled Asset Relief Program Act of 2009 (Public Law 111–15, 123 Stat. 1605) is amended by striking “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 424 of title 5, United States Code,”.
+  - **(21)** Section 103(b) of the Homeland Security Act of 2002 (6 U.S.C. 113(b)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(22)** Section 1413(a)(1)(A) of the National Transit Systems Security Act of 2007 (6 U.S.C. 1142(a)(1)(A)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);” and inserting “chapter 4 of title 5, United States Code;”.
+  - **(23)** Section 1337 (matter after paragraph (3)) of the Food Stamp and Commodity Distribution Amendments of 1981 (7 U.S.C. 2270 (matter after paragraph (3))) is amended by striking “the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9).” and inserting “the authority provided in section 406 of title 5, United States Code, or described in section 9 of the Inspector General Act of 1978 (Public Law 95–452, 92 Stat. 1107).”.
+  - **(24)** The proviso in the matter under the heading “Office of the Inspector General (including transfers of funds)” in title I of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (7 U.S.C. 2270a) is amended by striking “the Inspector General Act of 1978,” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(25)** Section 22(c) of the Department of Justice Appropriation Authorization Act, Fiscal Year 1980 (Public Law 96–132, 8 U.S.C. 1551 note) is amended—
+    - **(A)** in the matter before paragraph (1)—
+      - **(i)** by striking “the Inspector General Act of 1978 (Public Law 95–452)” and inserting “chapter 4 of title 5, United States Code,”; and
+      - **(ii)** by striking “such Act:” and inserting “such chapter:”;
+    - **(B)** in paragraph (1), by striking “Section 4” and inserting “Section 404”;
+    - **(C)** in paragraph (2), by striking “Section 5” and inserting “Section 405”;
+    - **(D)** in paragraph (3), by striking “Section 6” and inserting “Section 406”; and
+    - **(E)** in paragraph (4), by striking “Section 7” and inserting “Section 407”.
+  - **(26)** Section 141 of title 10, United States Code, is amended—
+    - **(A)** in subsection (a), by striking “section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).” and inserting “section 403 of title 5.”; and
+    - **(B)** in subsection (b), by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5.”.
+  - **(27)** Section 1034(b)(1)(B)(ii) of title 10, United States Code, is amended by striking “the Inspector General Act of 1978;” and inserting “chapter 4 of title 5;”.
+  - **(28)** Section 2409(g)(5) of title 10, United States Code, is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5”.
+  - **(29)** Section 1601(b) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66, 10 U.S.C. 2533a note) is amended by striking “section 8(f)(1) of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 408(f)(1) of title 5, United States Code.”.
+  - **(30)** Section 7020(d) of title 10, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App. 3)” and inserting “chapter 4 of title 5”.
+  - **(31)** Section 8020(c) of title 10, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App. 3)” and inserting “chapter 4 of title 5”.
+  - **(32)** Section 9020(d) of title 10, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App. 3)” and inserting “chapter 4 of title 5”.
+  - **(33)** Section 216(j)(5)(A) of the Federal Credit Union Act (12 U.S.C. 1790d(j)(5)(A)) is amended by striking “section 8L of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 419 of title 5, United States Code,”.
+  - **(34)** Section 1317(d) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4517(d)) is amended by striking “section 3(a) of the Inspector General Act of 1978.” and inserting “section 403(a) of title 5, United States Code.”.
+  - **(35)** Section 121 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231) is amended—
+    - **(A)** in subsection (b)(4), by striking “section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 403(b) of title 5, United States Code.”;
+    - **(B)** in subsection (b)(6), by striking “section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 403(e) of title 5, United States Code.”;
+    - **(C)** in subsection (c)(3), by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5, United States Code.”;
+    - **(D)** in subsection (d)(1), by striking “section 6 of the Inspector General Act of 1978.” and inserting “section 406 of title 5, United States Code.”;
+    - **(E)** in subsection (d)(2), by striking “section 4(b)(1) of the Inspector General Act of 1978.” and inserting “section 404(b)(1) of title 5, United States Code.”;
+    - **(F)** in subsection (d)(3), by striking “section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 406(f)(3) of title 5, United States Code,”; and
+    - **(G)** in subsection (h), by striking “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 424 of title 5, United States Code,”.
+  - **(36)** Section 211 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5391) is amended—
+    - **(A)** in subsection (d)(3), by striking “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “section 405(b) of title 5, United States Code,”; and
+    - **(B)** in subsection (e)(3), by striking “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “section 405(b) of title 5, United States Code,”.
+  - **(37)** Section 30(b)(2)(B) of the Small Business Act (15 U.S.C. 657(b)(2)(B)) is amended by striking “section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);” and inserting “section 407 of title 5, United States Code;”.
+  - **(38)** Section 6(d) of the John F. Kennedy Center Act (20 U.S.C. 76l(d)) is amended—
+    - **(A)** by striking “the Inspector General Act of 1978 (5 U.S.C. App. 3).” and inserting “chapter 4 of title 5, United States Code.”; and
+    - **(B)** by striking “such Act” and inserting “such chapter”.
+  - **(39)** Section 432(f)(2) of the Higher Education Act of 1965 (20 U.S.C. 1082(f)(2)) is amended—
+    - **(A)** by striking “section 6(a)(4) of the Inspector General Act of 1978,” and inserting “section 406(a)(4) of title 5, United States Code,”; and
+    - **(B)** by striking “that Act” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(40)** Section 202(c) of the Department of Education Organization Act (20 U.S.C. 3412(c)) is amended by striking “the Inspector General Act of 1978 (as amended by section 508(n) of this Act).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(41)** Section 211 of the Department of Education Organization Act (20 U.S.C. 3422) is amended by striking “the Inspector General Act of 1978 (as amended by section 508(n) of this Act).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(42)** Section 209(e)(1) of the Foreign Service Act of 1980 (22 U.S.C. 3929(e)(1)) is amended—
+    - **(A)** by striking “section 6 of the Inspector General Act of 1978” and inserting “section 406 of title 5, United States Code,”;
+    - **(B)** by striking “section 11(2) of such Act)” and inserting “section 401 of title 5, United States Code)”;
+    - **(C)** by striking “that Act,” and inserting “chapter 4 of title 5, United States Code,”; and
+    - **(D)** by striking “section 6(b) and (c) of such Act.” and inserting “section 406(c) and (d) of title 5, United States Code.”.
+  - **(43)** Section 339(c)(2) of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, as enacted by section 1000(a)(7) of Public Law 106–113 (22 U.S.C. 3929 note) is amended by striking “section 7(b) of the Inspector General Act of 1978 (5 U.S.C. app.);” and inserting “section 407(b) of title 5, United States Code;”.
+  - **(44)** Section 413(b) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4861(b)) is amended by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(45)** Section 308(j)(3) of the United States International Broadcasting Act of 1994 (22 U.S.C. 6207(j)(3)) is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(46)** Section 7803(d) of the Internal Revenue Code of 1986 (26 U.S.C. 7803(d)) is amended—
+    - **(A)** in paragraph (1) (matter before subparagraph (A)), by striking “section 5 of the Inspector General Act of 1978” and inserting “section 405 of title 5, United States Code”; and
+    - **(B)** in paragraph (2)(A) (matter before clause (i)), by striking “section 5 of the Inspector General Act of 1978” and inserting “section 405 of title 5, United States Code”.
+  - **(47)** Section 9(b)(2) of Wagner-Peyser Act (29 U.S.C. 49h(b)(2)) is amended by striking “the Inspector General Act.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(48)** Section 185(b)(3)(D) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3245(b)(3)(D)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(49)** Section 902(b)(2) of title 31, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5.”.
+  - **(50)** Section 1105(a)(25) of title 31, United States Code, is amended by striking “section 11(2) of the Inspector General Act of 1978.” and inserting “section 401 of title 5.”.
+  - **(51)** Section 301(27) of the Community Renewal Tax Relief Act of 2000, as enacted by section 1(a)(7) of the Consolidated Appropriations Act, 2001 (Public Law 106–554, 31 U.S.C. 1113 note) is amended—
+    - **(A)** in the matter before subparagraph (A), by striking “the Inspector General Act of 1978 (Public Law 95–452):” and inserting “chapter 4 of title 5, United States Code:”;
+    - **(B)** in subparagraph (A), by striking “Section 5(b).” and inserting “Section 405(c).”; and
+    - **(C)** in subparagraph (B), by striking “Section 5(d).” and inserting “Section 405(e).”.
+  - **(52)** Section 3003(a)(2)(A) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66, 31 U.S.C. 1113 note) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.);” and inserting “chapter 4 of title 5, United States Code;”.
+  - **(53)** Section 5(e)(1) of the Improper Payments Elimination and Recovery Improvement Act of 2012 (Public Law 112–248, 31 U.S.C. 3321 note) is amended by striking “subparagraph (A), (B), or (I) of section 11(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “subparagraph (A), (B), or (I) of section 424(b)(1) of title 5, United States Code,”.
+  - **(54)** Section 804(b) (matter before paragraph (1)) of the Federal Financial Management Improvement Act of 1996 (Public Law 104–208, div. A, §101(f) [title VIII], 31 U.S.C. 3512 note) is amended by striking “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 405(b) of title 5, United States Code,”.
+  - **(55)** Section 3521(e)(1) of title 31, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5,”.
+  - **(56)** Section 3801(a) of title 31, United States Code, is amended—
+    - **(A)** in paragraph (1)(C), by striking “section 11(2) of the Inspector General Act of 1978)” and inserting “section 401 of title 5)”;
+    - **(B)** in paragraph (1)(F), by striking “section 8G(a)(2) of the Inspector General Act of 1978)” and inserting “section 415(a) of title 5)”;
+    - **(C)** in paragraph (4)(A)(i), by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5”; and
+    - **(D)** in paragraph (4)(A)(ii), by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5”.
+  - **(57)** Section 3808(c) of title 31, United States Code, is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5”.
+  - **(58)** Section 9105(a)(1) of title 31, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5,”.
+  - **(59)** Section 3703 of the Crime Control Act of 1990 (34 U.S.C. 11298) is amended—
+    - **(A)** in subsection (a) (matter before paragraph (1)), by striking “section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 403 or 415 of title 5, United States Code,”; and
+    - **(B)** in subsection (b)(1), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(60)** Section 312 of title 38, United States Code, is amended—
+    - **(A)** in subsection (a), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5.”; and
+    - **(B)** in subsection (c)(1) (matter before subparagraph (A)), by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5,”.
+  - **(61)** Section 7366(a)(1)(B) of title 38, United States Code, is amended—
+    - **(A)** by striking “sections 4(a)(1) and 6(a)(1) of the Inspector General Act of 1978,” and inserting “sections 404(a)(1) and 406(a)(1) of title 5,”; and
+    - **(B)** by striking “such Act.” and inserting “chapter 4 of title 5.”.
+  - **(62)** Section 202(e)(3) of title 39, United States Code, is amended by striking “section 8G(e) of the Inspector General Act of 1978.” and inserting “section 415(e) of title 5.”.
+  - **(63)** Section 410(b)(10) of title 39, United States Code, is amended by striking “the Inspector General Act of 1978;” and inserting “chapter 4 of title 5;”.
+  - **(64)** Section 504(h)(1) of title 39, United States Code, is amended by striking “the Inspector General Act of 1978,” and inserting “chapter 4 of title 5,”.
+  - **(65)** Section 1003 of title 39, United States Code, is amended—
+    - **(A)** in subsection (a), by striking “section 8G of the Inspector General Act of 1978,” and inserting “section 415 of title 5,”; and
+    - **(B)** in subsection (b), by striking “section 11(2) of the Inspector General Act of 1978.” and inserting “section 401(1) of title 5.”.
+  - **(66)** Section 2003(e)(1) of title 39, United States Code, is amended by striking “section 8G(f) of the Inspector General Act of 1978.” and inserting “section 415(f) of title 5.”.
+  - **(67)** Section 2009 of title 39, United States Code, is amended by striking “section 8G(f) of the Inspector General Act of 1978,” and inserting “section 415(f) of title 5,”.
+  - **(68)** Section 4(b) of the Mail Order Consumer Protection Amendments of 1983 (Public Law 98–186, 39 U.S.C. 3005 note) is amended by striking “section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 405 of title 5, United States Code.”.
+  - **(69)** Section 3013 (matter after paragraph (6)) of title 39, United States Code, is amended by striking “section 5 of the Inspector General Act of 1978” and inserting “section 405 of title 5”.
+  - **(70)** Section 15704(a) of title 40, United States Code, is amended by striking “section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 403(a) of title 5.”.
+  - **(71)** Section 1505 of title 41, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5,”.
+  - **(72)** Section 4705(a)(3) of title 41, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5.”.
+  - **(73)** Section 4706(c)(1) of title 41, United States Code, is amended by striking “section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 403 or 415 of title 5”.
+  - **(74)** Section 4712(g)(2) of title 41, United States Code, is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5”.
+  - **(75)** Section 351A(i)(2) of the Public Health Service Act (42 U.S.C. 262a(i)(2)) is amended by striking “section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 406 of title 5, United States Code.”.
+  - **(76)** Section 702(e) of the Social Security Act (42 U.S.C. 902(e)) is amended by striking “section 3(a) of the Inspector General Act of 1978.” and inserting “section 403(a) of title 5, United States Code.”.
+  - **(77)** Section 1128A(m)(2)(B) of the Social Security Act (42 U.S.C. 1320a–7a(m)(2)(B)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(78)** Section 1128C(a) of the Social Security Act (42 U.S.C. 1320a–7c(a)) is amended—
+    - **(A)** in paragraph (4), by striking “paragraphs (3) through (9) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “paragraphs (3) through (9) of section 406(a) of title 5, United States Code,”; and
+    - **(B)** in paragraph (5), by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(79)** Section 1128D(a)(1)(C) of the Social Security Act (42 U.S.C. 1320a–7d(a)(1)(C)) is amended by striking “section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “section 405 of title 5, United States Code,”.
+  - **(80)** Section 322(a) of the Atomic Energy Act of 1954 (42 U.S.C. 2286k(a)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(81)** The last proviso in the matter under the heading “Nuclear Regulatory Commission—office of inspector general” in title IV of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (42 U.S.C. 2286l) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(82)** Section 160 of the Energy Policy Act of 1992 (42 U.S.C. 8262f) is amended—
+    - **(A)** in subsection (a) (matter before paragraph (1))—
+      - **(i)** by striking “section 11(2) of the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “section 401(1) of title 5, United States Code,”; and
+      - **(ii)** by striking “section 8E(f)(1) as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988 (Public Law 100–504)” and inserting “section 415(f) of title 5, United States Code,”; and
+    - **(B)** in subsection (c), by striking “section 2 of the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “section 402 of title 5, United States Code,”.
+  - **(83)** Section 183(c)(2)(B) of the National and Community Service Act of 1990 (42 U.S.C. 12643(c)(2)(B)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(84)** Section 204(b)(2) of the National and Community Service Trust Act of 1993 (Public Law 103–82, 42 U.S.C. 12651 note) is amended—
+    - **(A)** in subparagraph (A), by striking “the Inspector General Act of 1978 (5 U.S.C. App.);” and inserting “chapter 4 of title 5, United States Code;”; and
+    - **(B)** in subparagraph (B) (matter before clause (i)), by striking “the Inspector General Act of 1978,” and inserting “chapter 4 of title 5, United States Code,”.
+  - **(85)** Section 192A(g)(6) of the National and Community Service Act of 1990 (42 U.S.C. 12651b(g)(6)) is amended by striking “section 8E of the Inspector General Act of 1978;” and inserting “section 414 of title 5, United States Code;”.
+  - **(86)** Section 193A(a) of the National and Community Service Act of 1990 (42 U.S.C. 12651d(a)) is amended by striking “section 8E of the Inspector General Act of 1978.” and inserting “section 414 of title 5, United States Code.”.
+  - **(87)** Section 194(b)(2) of the National and Community Service Act of 1990 (42 U.S.C. 12651e(b)(2)) is amended by striking “the Inspector General Act of 1978.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(88)** Section 195(a) of the National and Community Service Act of 1990 (42 U.S.C. 12651f(a)) is amended by striking “section 8E of the Inspector General Act of 1978,” and inserting “section 414 of title 5, United States Code,”.
+  - **(89)** Section 3555(b)(1) of title 44, United States Code, is amended by striking “the Inspector General Act of 1978,” and inserting “chapter 4 of title 5,”.
+  - **(90)** Section 3903(a) (matter before paragraph (1)) of title 44, United States Code, is amended by striking “Sections 4, 5, 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3)” and inserting “Sections 404, 405, 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5”.
+  - **(91)** Section 9–A(b) of the Organic Act of Guam (48 U.S.C. 1422d(b)) is amended by striking “the Inspector General Act of 1978 (92 Stat. 1101), as amended.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(92)** Section 17(b) of the Revised Organic Act of the Virgin Islands (48 U.S.C. 1599(b)) is amended by striking “the Inspector General Act of 1978 (92 Stat. 1101), as amended.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(93)** Section 501(c) of Public Law 96–205 (48 U.S.C. 1668(c)) is amended by striking “the Inspector General Act of 1978 (92 Stat. 1101), as amended.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(94)** Section 4(b) of the Act of June 30, 1954 (48 U.S.C. 1681b(b)) is amended by striking “the Inspector General Act of 1978 (92 Stat. 1101), as amended.” and inserting “chapter 4 of title 5, United States Code.”.
+  - **(95)** Section 114(o) of title 49, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “chapter 4 of title 5”.
+  - **(96)** Section 1137(c) of title 49, United States Code, is amended by striking “subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “subsections (a) and (c) of section 406 of title 5.”.
+  - **(97)** Section 1326(c) of title 49, United States Code, is amended by striking “subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “subsections (a) and (c) of section 406 of title 5.”.
+  - **(98)** Section 20109(a)(1)(A) of title 49, United States Code, is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);” and inserting “chapter 4 of title 5;”.
+  - **(99)** Section 103H(k)(5)(H) of the National Security Act of 1947 (50 U.S.C. 3033(k)(5)(H)) is amended by striking “section 8H of the Inspector General Act of 1978 (5 U.S.C. App.).” and inserting “section 416 of title 5, United States Code.”.
+  - **(100)** Section 507(a)(1) of the National Security Act of 1947 (50 U.S.C. 3106(a)(1)) is amended by striking “section 8H(g) of the Inspector General Act of 1978.” and inserting “section 416(h) of title 5, United States Code.”.
+  - **(101)** Section 3001(j)(1)(C)(i) of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341(j)(1)(C)(i)) is amended by striking “subsections (a)(1), (d), and (h) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);” and inserting “subsections (b)(1), (e), and (i) of section 416 of title 5, United States Code;”.
+- **(c)** *Amendments To Update References to Ethics in Government Act of 1978*
+  - **(1)** Section 1201(c)(5) of the Legislative Branch Appropriations Act, 2008 (2 U.S.C. 612(c)(5)) is amended by striking “the Ethics in Government Act of 1978 (5 U.S.C. App.);” and inserting “chapter 131 of title 5, United States Code;”.
+  - **(2)** Section 301(k) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(k)) is amended by striking “title I of the Ethics in Government Act of 1978” and inserting “subchapter I of chapter 131 of title 5, United States Code,”.
+  - **(3)** Section 3(4)(D) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602(4)(D)) is amended by striking “section 109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “section 13101(13) of title 5, United States Code.”.
+  - **(4)** Section 304 of the Honest Leadership and Open Government Act of 2007 (2 U.S.C. 4712) is amended—
+    - **(A)** in subsection (a)(2), by striking “section 103(h)(1) of the Ethics in Government Act of 1978” and inserting “section 13105(h)(1) of title 5, United States Code,”; and
+    - **(B)** in subsection (c), by striking “section 103(h)(1) of the Ethics in Government Act of 1978,” and inserting “section 13105(h)(1) of title 5, United States Code,”.
+  - **(5)** Section 901(a) of the Ethics Reform Act of 1989 (2 U.S.C. 4725(a)) is amended—
+    - **(A)** in paragraph (2)(B), by striking “section 102(a)(2)(A) of the Ethics in Government Act of 1978;” and inserting “section 13104(a)(2)(A) of title 5, United States Code;”; and
+    - **(B)** in paragraph (3)(B), by striking “section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521).” and inserting “section 13101(16) of title 5, United States Code.”.
+  - **(6)** Section 3374(c)(2) of title 5, United States Code, is amended by striking “the Ethics in Government Act of 1978,” and inserting “chapter 131 of this title,”.
+  - **(7)** Section 1110(e)(2)(E) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84, 5 U.S.C. 3702 note) is amended by striking “the Ethics in Government Act of 1978;” and inserting “chapter 131 of title 5, United States Code;”.
+  - **(8)** Section 3704(b)(2)(E) of title 5, United States Code, is amended by striking “the Ethics in Government Act of 1978;” and inserting “chapter 131 of this title;”.
+  - **(9)** Section 7353(d)(1)(E) of title 5, United States Code, is amended by striking “title I of the Ethics in Government Act of 1978 are transmitted under such title,” and inserting “subchapter I of chapter 131 of this title are transmitted under such subchapter,”.
+  - **(10)** Section 2(a) of Public Law 110–402 (5 U.S.C. 7353 note) is amended—
+    - **(A)** in paragraph (1), by striking “section 109(5) of the Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “section 13101(5) of title 5, United States Code.”; and
+    - **(B)** in paragraph (2), by striking “section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “section 13101(10) of title 5, United States Code.”.
+  - **(11)** Section 2 of the Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 291, 5 U.S.C. App. 101 note) is amended—
+    - **(A)** in paragraph (2)(B), by striking “section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).” and inserting “section 13101(11) of title 5, United States Code).”;
+    - **(B)** in paragraph (4), by striking “section 109(10) of the Ethics in Government Act of 1978 (U.S.C. App. 109(10)).” and inserting “section 13101(10) of title 5, United States Code.”;
+    - **(C)** in paragraph (5), by striking “section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)).” and inserting “section 13101(9) of title 5, United States Code.”; and
+    - **(D)** in paragraph (6), by striking “section 109(18) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(18)).” and inserting “section 13101(18) of title 5, United States Code.”.
+  - **(12)** Section 17(a) of the Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 303, 5 U.S.C. App. 101 note) is amended by striking “section 101 of the Ethics in Government Act of 1978 (5 U.S.C. App. 101)” and inserting “section 13103 of title 5, United States Code,”.
+  - **(13)** Section 22(c) of the Lobbying Disclosure Act of 1995 (Public Law 104–65, 109 Stat. 705, 5 U.S.C. App. 102 note) is amended by striking “title I of the Ethics in Government Act of 1978” and inserting “subchapter I of chapter 131 of title 5, United States Code,”.
+  - **(14)** Section 1003(b) of the Legislative Branch Appropriations Act, 2006 (Public Law 109–55, 119 Stat. 572, 5 U.S.C. App. 103 note) is amended by striking “the Ethics in Government Act of 1978” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(15)** Section 8 of the Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 295, 5 U.S.C. App. 105 note) is amended—
+    - **(A)** in subsection (a)—
+      - **(i)** in paragraph (1), by striking “title I of the Ethics in Government Act of 1978” and inserting “subchapter I of chapter 131 of title 5, United States Code,”; and
+      - **(ii)** in paragraph (3), by striking “section 103(l) of the Ethics in Government Act of 1978, as added by this Act,” and inserting “section 13105(l) of title 5, United States Code,”; and
+    - **(B)** in subsection (b)—
+      - **(i)** in paragraph (1)—
+        - **(I)** in subparagraph (A), by striking “section 103(h)(1)(A) of title I of the Ethics in Government Act of 1978;” and inserting “section 13105(h)(1)(A) of title 5, United States Code;”; and
+        - **(II)** in subparagraph (B)—
+          - **(aa)** in clause (ii), by striking “section 103(l) of the Ethics in Government Act of 1978,” and inserting “section 13105(l) of title 5, United States Code,”; and
+          - **(bb)** in the matter following clause (iii), by striking “title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.),” and inserting “subchapter I of chapter 131 of title 5, United States Code,”;
+      - **(ii)** in paragraph (2), by striking “section 105(b)(2) of the Ethics in Government Act of 1978” and inserting “section 13107(b)(2) of title 5, United States Code,”;
+      - **(iii)** in paragraph (3), by striking “section 105(b)(1) of the Ethics in Government Act of 1978,” and inserting “section 13107(b)(1) of title 5, United States Code,”; and
+      - **(iv)** in paragraph (4), by striking “the Ethics in Government Act of 1978” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(16)** Section 11 of the Stop Trading on Congressional Knowledge Act of 2012 (Public Law 112–105, 126 Stat. 298, 5 U.S.C. App. 105 note) is amended—
+    - **(A)** in subsection (a)—
+      - **(i)** in paragraph (1)—
+        - **(I)** by striking “title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.),” and inserting “subchapter I of chapter 131 of title 5, United States Code,”; and
+        - **(II)** by striking “section 101 of that Act” and inserting “section 13103 of title 5, United States Code,”; and
+      - **(ii)** in paragraph (3), by striking “section 103(l) of the Ethics in Government Act of 1978, as added by this Act,” and inserting “section 13105(l) of title 5, United States Code,”; and
+    - **(B)** in subsection (b)—
+      - **(i)** in paragraph (1)—
+        - **(I)** in subparagraph (A), by striking “section 103 of the Ethics in Government Act of 1978 (5 U.S.C. App. 103),” and inserting “section 13105 of title 5, United States Code,”;
+        - **(II)** in subparagraph (B)(ii), by striking “section 103(l) of the Ethics in Government Act of 1978,” and inserting “section 13105(l) of title 5, United States Code,”; and
+        - **(III)** in the matter following clause (iii) of subparagraph (B), by striking “title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.),” and inserting “subchapter I of chapter 131 of title 5, United States Code,”;
+      - **(ii)** in paragraph (2), by striking “section 105(b)(2) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(2))” and inserting “section 13107(b)(2) of title 5, United States Code,”;
+      - **(iii)** in paragraph (3), by striking “section 105(b)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(1)),” and inserting “section 13107(b)(1) of title 5, United States Code,”; and
+      - **(iv)** in paragraph (4), by striking “title I of the Ethics in Government Act of 1978” and inserting “subchapter I of chapter 131 of title 5, United States Code,”.
+  - **(17)** Section 902(a) of the Ethics Reform Act of 1989 (Public Law 101–194, 103 Stat. 1780, 5 U.S.C. App. 111 note) is amended by striking “title I of the Ethics in Government Act of 1978” and inserting “subchapter I of chapter 131 of title 5, United States Code,”.
+  - **(18)** Section 7601(f)(4)(B)(ii) of the Agricultural Act of 2014 (7 U.S.C. 5939(f)(4)(B)(ii)) is amended by striking “section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.))” and inserting “section 13101 of title 5, United States Code)”.
+  - **(19)** Section 1110(g)(2)(E) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92, 10 U.S.C. 1701 note) is amended by striking “the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.);” and inserting “chapter 131 of title 5, United States Code;”.
+  - **(20)** Section 232(b)(3)(B)(v) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291, 10 U.S.C. 2358 note) is amended by striking “The Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “Chapter 131 of title 5, United States Code.”.
+  - **(21)** Section 2904(h) of title 10, United States Code, is amended by striking “title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “subchapter I of chapter 131 of title 5.”.
+  - **(22)** Section 3(k)(2)(C) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(k)(2)(C)) is amended by striking “the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).” and inserting “chapter 131 of title 5, United States Code.”.
+  - **(23)** Section 5.11(c)(2)(C)(i) of the Farm Credit Act of 1971 (12 U.S.C. 2245(c)(2)(C)(i)) is amended by striking “the Ethics in Government Act of 1978;” and inserting “chapter 131 of title 5, United States Code;”.
+  - **(24)** Section 21A of the Securities Exchange Act of 1934 (15 U.S.C. 78u–1) is amended—
+    - **(A)** in subsection (g)(2)(B)(ii), by striking “section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).” and inserting “section 13101(11) of title 5, United States Code).”;
+    - **(B)** in subsection (h)(2)—
+      - **(i)** in subparagraph (B), by striking “section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8));” and inserting “section 13101(9) of title 5, United States Code;”; and
+      - **(ii)** in subparagraph (C), by striking “section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).” and inserting “section 13101(10) of title 5, United States Code.”; and
+    - **(C)** in subsection (i), by striking “section 101(f) of the Ethics in Government Act of 1978” and inserting “section 13103(f) of title 5, United States Code,”.
+  - **(25)** Section 208(c)(2) of the Consumer Product Safety Improvement Act of 2008 (15 U.S.C. 2053a(c)(2)) is amended by striking “the Ethics in Government Act (5 U.S.C. App.)” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(26)** Section 103(c)(5) of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333, 16 U.S.C. 460bb note) is amended by striking “the Ethics in Government Act,” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(27)** Section 208 of title 18, United States Code, is amended—
+    - **(A)** in subsection (b)(3), by striking “the Ethics in Government Act of 1978,” and inserting “chapter 131 of title 5,”; and
+    - **(B)** in subsection (d)(1)—
+      - **(i)** by striking “section 105 of the Ethics in Government Act of 1978.” and inserting “section 13107 of title 5.”; and
+      - **(ii)** by striking “the Ethics in Government Act of 1978.” and inserting “chapter 131 of title 5.”.
+  - **(28)** Section 116(c)(4)(D) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9516(c)(4)(D)) is amended by striking “the Ethics in Government Act of 1978.” and inserting “chapter 131 of title 5, United States Code.”.
+  - **(29)** Section 712(c) (matter before paragraph (1)) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379d–1(c) (matter before paragraph (1))) is amended by striking “section 107(a)(2) of the Ethics in Government Act of 1978,” and inserting “section 13109(a)(2) of title 5, United States Code,”.
+  - **(30)** Section 1103(d)(1)(D) of the Panama Canal Act of 1979 (22 U.S.C. 3613(d)(1)(D)) is amended by striking “sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978 (5 U.S.C. App.),” and inserting “sections 13143(a) and 13144(a)(4) of title 5, United States Code,”.
+  - **(31)** Section 1112(b)(5) of the Panama Canal Act of 1979 (22 U.S.C. 3622(b)(5)) is amended by striking “the Ethics in Government Act of 1978 (92 Stat. 1824), as amended;” and inserting “chapter 131 of title 5, United States Code;”.
+  - **(32)** Section 3504(b) of the Panama Canal Commission Authorization Act for Fiscal Year 1994 (Public Law 103–160, div. C, title XXXV, 22 U.S.C. 3641 note) is amended by striking “the Ethics in Government Act of 1978 (5 U.S.C. App.),” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(33)** Section 7701(k) (matter before paragraph (1)) of the Internal Revenue Code of 1986 (26 U.S.C. 7701(k) (matter before paragraph (1))) is amended by striking “section 501(b) of the Ethics in Government Act of 1978,” and inserting “section 13143(b) of title 5, United States Code,”.
+  - **(34)** Section 7802(b)(3)(A) of the Internal Revenue Code of 1986 (26 U.S.C. 7802(b)(3)(A)) is amended by striking “section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act” and inserting “section 13103(f) of title 5, United States Code, for purposes of subchapter I of chapter 131 of such title, except that section 13103(d) of such title”.
+  - **(35)** Section 731(i)(5) of title 31, United States Code, is amended by striking “the Ethics in Government Act of 1978 (5 U.S.C. App.);” and inserting “chapter 131 of title 5;”.
+  - **(36)** Section 3730(e)(2)(B) of title 31, United States Code, is amended by striking “section 101(f) of the Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “section 13103(f) of title 5.”.
+  - **(37)** Section 3(h)(4)(A) of the National Foundation on Fitness, Sports, and Nutrition Establishment Act (Public Law 111–332, 36 U.S.C. note prec. 20101) is amended by striking “section 109(16) of the Ethics in Government Act, 1978)” and inserting “section 13101(16) of title 5, United States Code)”.
+  - **(38)** Section 399G(h)(4)(A) of the Public Health Service Act (42 U.S.C. 280e–11(h)(4)(A)) is amended by striking “the Ethics in Government Act,” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(39)** Section 499(j)(2) of the Public Health Service Act (42 U.S.C. 290b(j)(2)) is amended by striking “section 109(16) of the Ethics in Government Act of 1978)” and inserting “section 13101(16) of title 5, United States Code)”.
+  - **(40)** Section 5101(c)(2)(D) of the Patient Protection and Affordable Care Act (42 U.S.C. 294q(c)(2)(D)) is amended by striking “title I of the Ethics in Government Act of 1978.” and inserting “subchapter I of chapter 131 of title 5, United States Code.”.
+  - **(41)** Section 1805(c)(2)(D) of the Social Security Act (42 U.S.C. 1395b–6(c)(2)(D)) is amended by striking “title I of the Ethics in Government Act of 1978 (Public Law 95–521).” and inserting “subchapter I of chapter 131 of title 5, United States Code.”.
+  - **(42)** Section 1868(c)(1)(B)(iv) of the Social Security Act (42 U.S.C. 1395ee(c)(1)(B)(iv)) is amended by striking “title I of the Ethics in Government Act of 1978 (Public Law 95–521).” and inserting “subchapter I of chapter 131 of title 5, United States Code.”.
+  - **(43)** Section 1900(c)(2)(D) of the Social Security Act (42 U.S.C. 1396(c)(2)(D)) is amended by striking “title I of the Ethics in Government Act of 1978 (Public Law 95–521).” and inserting “subchapter I of chapter 131 of title 5, United States Code.”.
+  - **(44)** Section 204 of the National Science Foundation Authorization Act of 1998 (42 U.S.C. 1862m) is amended by striking “the Ethics in Government Act of 1978 (5 U.S.C. App.)” and inserting “chapter 131 of title 5, United States Code,”.
+  - **(45)** Section 109(b) of the Puerto Rico Oversight, Management, and Economic Stability Act (48 U.S.C. 2129(b)) is amended by striking “section 102 of the Ethics in Government Act of 1978 (5 U.S.C. App.).” and inserting “section 13104 of title 5, United States Code.”.
+  - **(46)** Section 106(p)(6)(I)(i) of title 49, United States Code, is amended by striking “section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act” and inserting “section 13103(f) of title 5 for purposes of subchapter I of chapter 131 of such title; except that section 13103(d) of such title”.
+  - **(47)** Section 710(b)(5)(B) of the Defense Production Act of 1950 (50 U.S.C. 4560(b)(5)(B)) is amended—
+    - **(A)** by striking “section 101 of the Ethics in Government Act of 1978,” and inserting “section 13103 of title 5, United States Code,”; and
+    - **(B)** by striking “section 107 of that Act” and inserting “section 13109 of title 5, United States Code,”.
+- **(d)** *Amendments To Update Tables of Contents in Title 5, United States Code*
+  - **(1)** *Table of contents of title* The table of contents of title 5, United States Code, is amended by inserting after the item relating to part III the following:
+  - **(2)** *Table of contents of part i* The table of contents of part I of title 5, United States Code, is amended—
+    - **(A)** by inserting after the item relating to chapter 3 the following:
+    - **(B)** by inserting after the item relating to chapter 9 the following:
+  - **(3)** *Table of contents of part iv* Part IV of title 5, United States Code, as inserted by section 3(c), is amended by inserting after the heading of part IV the following:
+
+## § 5. Transitional and savings provisions
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Restated provision* The term restated provision means a provision of title 5, United States Code, that is enacted by section 3.
+  - **(2)** *Source Provision* The term source provision means a provision of law that is replaced by a restated provision.
+- **(b)** *Cutoff Date* The restated provisions replace certain provisions of law enacted on or before October 19, 2021. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding restated provision. If a law enacted after that date is otherwise inconsistent with a restated provision or a provision of this Act, that law supersedes the restated provision or provision of this Act to the extent of the inconsistency.
+- **(c)** *Original Date of Enactment Unchanged* A restated provision is deemed to have been enacted on the date of enactment of the corresponding source provision.
+- **(d)** *References to Restated Provisions* A reference to a restated provision is deemed to refer to the corresponding source provision.
+- **(e)** *References to Source Provisions* A reference to a source provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding restated provision.
+- **(f)** *Regulations, Orders, and Other Administrative Actions* A regulation, order, or other administrative action in effect under a source provision continues in effect under the corresponding restated provision.
+- **(g)** *Actions Taken and Offenses Committed* An action taken or an offense committed under a source provision is deemed to have been taken or committed under the corresponding restated provision.
+- **(h)** *Legislative Construction* An inference of legislative construction is not to be drawn by reason of a restated provision's location in the United States Code or by reason of the heading used for the restated provision.
+
+## § 6. EFFECT OF REFERENCES TO TITLE 5 ON APPLICATION OF ETHICS PROVISIONS
+
+A Federal statute providing that title 5 of the United States Code as a whole is inapplicable, or providing that an appointment may be made without regard to the provisions of title 5 governing appointment in the competitive service, shall not affect the application of any provision of chapter 131 of title 5, United States Code.
+
+## § 7. Repeals
+
+The following provisions of law are repealed, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before the date of enactment of this Act:
