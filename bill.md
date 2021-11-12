@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5954
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5954
+
+> To designate the facility of the United States Postal Service located at 1304 4th Avenue in Canyon, Texas, as the “Gary James Fletcher Post Office Building”.
+
+## § 1. Gary James Fletcher Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 1304 4th Avenue in Canyon, Texas, shall be known and designated as the “Gary James Fletcher Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Gary James Fletcher Post Office Building”.
