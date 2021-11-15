@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1917
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1917
@@ -25,10 +25,11 @@ Hazard Eligibility and Local Projects Act
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Hazard Eligibility and Local Projects Act
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 16 (Roll no. 359). (text: 11/3/2021 CR H6136-6137)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 16 (Roll no. 359).(text: 11/3/2021 CR H6136-6137)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
