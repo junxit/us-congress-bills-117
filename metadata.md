@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1339
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1339
@@ -29,9 +29,10 @@ Advanced Air Mobility Coordination and Leadership Act
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 - Rep. LaTurner, Jake [R-KS-2] (L000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Advanced Air Mobility Coordination and Leadership Act
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 41 (Roll no. 360). (text: 11/3/2021 CR H6138-6139)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 41 (Roll no. 360).(text: 11/3/2021 CR H6138-6139)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
