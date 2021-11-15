@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 390
@@ -27,9 +27,10 @@ To redesignate the Federal building located at 167 North Main Street in Memphis,
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To redesignate the Federal building located at 167 North Main Street in Memphis,
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 2, 1 Present (Roll no. 364). (text: 11/3/2021 CR H6145)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 2, 1 Present (Roll no. 364).(text: 11/3/2021 CR H6145)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
