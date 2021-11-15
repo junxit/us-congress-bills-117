@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5971
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5971
+
+> To amend title 18, United States Code, to punish the criminal offense of guardianship fraud, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Guardians Aren’t Above Prosecution Act of 2021”.
+
+## § 2. Guardianship fraud
+
+- **(a)** *In general* Chapter 47 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 1041. Rule of construction relating to guardianship fraud
+  >
+  > Nothing in this chapter may be construed to provide that a person designated under the law of any State as the guardian or conservator of another shall not be subject to the provisions of this chapter.
+
+- **(b)** *Clerical amendment* The table of sections for such chapter is amended by adding at the end the following:
