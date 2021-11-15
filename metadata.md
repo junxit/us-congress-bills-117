@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3992
@@ -81,9 +81,10 @@ POJA Act of 2021
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -131,3 +132,4 @@ POJA Act of 2021
 - 2021-11-04 — Roll call votes on amendments in House
 - 2021-11-04 — Roll call votes on amendments in House
 - 2021-11-04 — The previous question was ordered pursuant to the rule.
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
