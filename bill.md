@@ -18,7 +18,11 @@ Section 2 of the SAVE LIVES Act (Public Law 117–4; 38 U.S.C. 1701 note) is ame
   - **(A)** in the matter preceding paragraph (1), by inserting “and seasonal influenza vaccines” after “vaccines for COVID–19”; and
   - **(B)** in paragraph (2), by inserting “, seasonal influenza vaccines, or both” after “vaccines for COVID–19”;
 - **(3)** in subsection (d), by striking “Vaccine allocation” in the heading and inserting “COVID–19 Vaccine allocation”;
-- **(4)** in subsection (e)—
+- **(4)** by redesignating subsection (e) as subsection (f);
+- **(5)** by inserting after subsection (d) the following new subsection (e):
+  > - **(e)** *Limitation on furnishing seasonal influenza vaccine* A seasonal influenza vaccine may not be furnished under this section after April 29, 2022.
+
+- **(6)** in subsection (f), as so redesignated—
   - **(A)** by redesignating paragraph (6) as paragraph (7); and
   - **(B)** by inserting after paragraph (5) the following new paragraph:
     > - **(6)** *Seasonal influenza vaccine* The term seasonal influenza vaccine means any product that is—
@@ -26,4 +30,4 @@ Section 2 of the SAVE LIVES Act (Public Law 117–4; 38 U.S.C. 1701 note) is ame
     >   - **(B)** commercially available; and
     >   - **(C)** recommended by the Centers for Disease Control and Prevention for the prevention of influenza in a particular season.
 
-- **(5)** in the section heading by striking “vaccine” and inserting “and influenza vaccines”.
+- **(7)** in the section heading by striking “vaccine” and inserting “and influenza vaccines”.
