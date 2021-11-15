@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4660
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4660
@@ -16,9 +16,10 @@ To designate the Federal Building and United States Courthouse located at 1125 C
 
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the Federal Building and United States Courthouse located at 1125 C
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4, 1 Present (Roll no. 366). (text: 11/3/2021 CR H6146)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4, 1 Present (Roll no. 366).(text: 11/3/2021 CR H6146)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
