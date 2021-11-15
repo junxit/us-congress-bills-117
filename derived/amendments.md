@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5671
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,5 +62,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 1701` | insert | in the matter preceding paragraph (1), by inserting “and seasonal influenza vaccines” after “vaccines for COVID–19”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | in paragraph (2), by inserting “, seasonal influenza vaccines, or both” after “vaccines for COVID–19”; | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1701` | redesignate | by redesignating subsection (e) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | insert | by inserting after subsection (d) the following new subsection (e): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
