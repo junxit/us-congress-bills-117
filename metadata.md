@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3193
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3193
@@ -31,10 +31,11 @@ E-BRIDGE Act
 - Rep. Mann, Tracey [R-KS-1] (M000871)
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ E-BRIDGE Act
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 361). (text: 11/3/2021 CR H6141)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 361).(text: 11/3/2021 CR H6141)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
