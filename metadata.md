@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2220
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2220
@@ -21,9 +21,10 @@ To amend title 40, United States Code, to modify the treatment of certain bargai
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 - Rep. Pence, Greg [R-IN-6] (P000615)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To amend title 40, United States Code, to modify the treatment of certain bargai
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 363). (text: 11/3/2021 CR H6144)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 363).(text: 11/3/2021 CR H6144)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
