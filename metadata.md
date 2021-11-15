@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2220
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2220
@@ -47,3 +47,14 @@ To amend title 40, United States Code, to modify the treatment of certain bargai
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 363). (text: 11/3/2021 CR H6144)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 363).(text: 11/3/2021 CR H6144)
 - 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2022-11-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6912)
+- 2022-11-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-11-30 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-11-30 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-12-01 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-21 — Became Public Law No: 117-257.
+- 2022-12-21 — Became Public Law No: 117-257.
+- 2022-12-21 — Signed by President.
+- 2022-12-21 — Signed by President.
