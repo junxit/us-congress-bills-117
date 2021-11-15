@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4679
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4679
@@ -20,9 +20,10 @@ To designate the Federal building located at 1200 New Jersey Avenue Southeast in
 
 - Rep. Carson, Andre [D-IN-7] (C001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the Federal building located at 1200 New Jersey Avenue Southeast in
 - 2021-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 14, 1 Present (Roll no. 365). (text: 11/3/2021 CR H6145)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 14, 1 Present (Roll no. 365).(text: 11/3/2021 CR H6145)
+- 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
