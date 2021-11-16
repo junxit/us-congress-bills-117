@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 345
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 345
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate on the political situation in Be
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
@@ -30,6 +30,7 @@ A resolution expressing the sense of the Senate on the political situation in Be
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -39,3 +40,7 @@ A resolution expressing the sense of the Senate on the political situation in Be
 
 - 2021-08-09 — Introduced in Senate
 - 2021-08-09 — Referred to the Committee on Foreign Relations. (text: CR S6112-6113)
+- 2021-10-19 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2021-11-16 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-11-16 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2021-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
