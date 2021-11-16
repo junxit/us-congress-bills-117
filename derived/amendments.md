@@ -1,7 +1,7 @@
 ---
 measure: S. 2428
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 3729 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3731 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 3730(c)(2)(A) of title 31, United States Code, is amended by inserting before the period at the end the following: “, at which the Government shall have the burden of demonstrating reasons for dismissal, and the qui tam plaintiff… | the bill names no machine-readable US Code section |
+| — | insert | Section 3730(h)(1) of title 31, United States Code, is amended by inserting “current or former” after “Any”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3729 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 3730(c)(2)(A) of title 31, United States Code, is amended by inserting before the period at the end the following: “, at which the Government shall identify a valid government purpose and a rational relation between dismissal and… | the bill names no machine-readable US Code section |
 | — | insert | Section 3730(h)(1) of title 31, United States Code, is amended by inserting “current or former” after “Any”. | the bill names no machine-readable US Code section |
