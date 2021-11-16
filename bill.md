@@ -29,7 +29,11 @@ This Act may be cited as the “VITAL Assessment Act”.
 - **(b)** *Uniform best practices, goals, and measures* The Secretary shall establish best practices, goals, and measures for the Veterans Integration to Academic Leadership program of the Department that are uniform among the medical centers of the Department.
 - **(c)** *Outreach* The Secretary shall conduct outreach among the Armed Forces, veterans service organizations, institutions of higher learning, and non-college degree programs with respect to the Veterans Integration to Academic Leadership program of the Department.
 - **(d)** *Assessment* The Secretary shall assess the feasibility and advisability of including the suicide rate for student veterans in the National Veteran Suicide Prevention Annual Report of the Office of Mental Health and Suicide Prevention of the Department.
-- **(e)** *Student veteran defined* The term student veteran means a veteran or member of the Armed Forces using educational assistance under any of the following provisions of law:
-  - **(1)** Chapter 30, 31, 32, or 33 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.
-  - **(2)** Section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 38 U.S.C. 3001 note).
-  - **(3)** Section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2; 38 U.S.C. 3001 note prec.).
+- **(e)** *Definitions* In this section:
+  - **(1)** The term “institution of higher learning” has the meaning given that term in section 3452 of title 38, United States Code.
+  - **(2)** The term “student veteran” means the following:
+    - **(A)** A veteran or member of the Armed Forces using educational assistance under any of the following provisions of law:
+      - **(i)** Chapter 30, 31, 32, or 33 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.
+      - **(ii)** Section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 38 U.S.C. 3001 note).
+      - **(iii)** Section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2; 38 U.S.C. 3001 note prec.).
+    - **(B)** A veteran who is enrolled in an institution of higher learning or other training program, without regard to whether the veteran is using educational assistance specified in subparagraph (A).
