@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 147
 
-> To amend titles 10 and 38, United States Code, to make certain improvements to transitional services for separating members of the Armed Forces and educational assistance under laws administered by the Secretary of Veterans Affairs, and for other purposes.
+> To amend title 10, United States Code, to make certain improvements to services and benefits for veterans and separating members of the Armed Forces with respect to apprenticeship programs, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,16 +17,16 @@ This Act may be cited as the “Bringing Registered Apprenticeships to Veterans 
 
 Section 1144(b)(1) of title 10, United States Code, is amended by inserting “(including apprenticeship programs registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the “National Apprenticeship Act”) and approved under chapters 30 through 36 of title 38)” after “employment opportunities”.
 
-## § 3. Expansion of certain educational stipend administered by the Secretary of Veterans Affairs
+## § 3. Websites regarding apprenticeship programs
 
-Section 3313(c)(1)(B)(i) of title 38, United States Code, is amended by striking “housing stipend” and inserting “stipend” each place it appears.
+- **(a)** *Website under the jurisdiction of Secretary of Labor* The Assistant Secretary of Labor for Veterans’ Employment and Training, in coordination with the Secretary of Veterans Affairs, shall establish a user-friendly website (or update an existing website) that is available to the public on which veterans can find information about apprenticeship programs registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the “National Apprenticeship Act”) and approved under chapters 30 through 36 of title 38, United States Code. Such information shall be searchable and sortable by occupation and location, and include, with regard to each such program, the following:
+  - **(1)** A description, including any cost to a veteran.
+  - **(2)** Contact information.
+  - **(3)** Whether the program has been endorsed by a veterans service organization or nonprofit organization that caters to veterans.
+  - **(4)** Whether the program prefers to hire veterans.
+  - **(5)** Each certification or degree an individual earns by completing the program.
+- **(b)** *Coordination with other website* The Assistant Secretary shall update all information regarding programs for veterans listed on apprenticeship.gov (or any successor website) to include the information specified under subsection (a).
 
-## § 4. VA website regarding apprenticeship programs
+## § 4. Determination of budgetary effects
 
-The Secretary of Veterans Affairs, in coordination with the Secretary of Labor, shall establish a user-friendly website that is available to the public on which veterans can find information about apprenticeship programs registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the “National Apprenticeship Act”) and approved under chapters 30 through 36 of title 38, United States Code. Such information shall be searchable and sortable by craft and location, and include, with regard to each such program, the following:
-
-- **(1)** A description, including any cost to a veteran.
-- **(2)** Contact information.
-- **(3)** Whether the program has been endorsed by a veterans service organization or nonprofit organization that caters to veterans.
-- **(4)** Whether the program prefers to hire veterans.
-- **(5)** Whether the program grants a certification or degree on completion.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
