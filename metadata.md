@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3665
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3665
@@ -71,9 +71,10 @@ To designate the medical center of the Department of Veterans Affairs in San Die
 - Rep. Valadao, David G. [R-CA-21] (V000129)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ To designate the medical center of the Department of Veterans Affairs in San Die
 - 2021-11-15 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2021-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6253)
 - 2021-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6253)
+- 2021-11-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
