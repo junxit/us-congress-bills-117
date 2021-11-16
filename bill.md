@@ -72,7 +72,7 @@ This Act may be cited as the “DHS Acquisition Review Board Act of 2021”.
   >     - **(A)** identifying and validating needs;
   >     - **(B)** assessing alternatives to select the most appropriate solution;
   >     - **(C)** clearly establishing well-defined requirements;
-  >     - **(D)** developing realistic cost estimates and schedules that account for the entire life-cycle of such an acquisition ;
+  >     - **(D)** developing realistic cost estimates and schedules that account for the entire life-cycle of such an acquisition;
   >     - **(E)** securing stable funding that matches resources to requirements before initiating such development;
   >     - **(F)** demonstrating technology, design, and manufacturing maturity before initiating production of the item that is the subject of such acquisition;
   >     - **(G)** using milestones and exit criteria or specific accomplishments that demonstrate the attainment of knowledge to support progress;
