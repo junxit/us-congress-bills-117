@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3665
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3665
@@ -89,3 +89,14 @@ To designate the medical center of the Department of Veterans Affairs in San Die
 - 2021-11-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6253)
 - 2021-11-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6253)
 - 2021-11-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-03-03 — Message on Senate action sent to the House.
+- 2022-03-03 — Passed Senate without amendment by Unanimous Consent.
+- 2022-03-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-03-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S998)
+- 2022-03-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S998)
+- 2022-03-11 — Presented to President.
+- 2022-03-11 — Presented to President.
+- 2022-03-14 — Became Public Law No: 117-98.
+- 2022-03-14 — Became Public Law No: 117-98.
+- 2022-03-14 — Signed by President.
+- 2022-03-14 — Signed by President.
