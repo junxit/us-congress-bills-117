@@ -1,7 +1,7 @@
 ---
 measure: H.R. 147
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Section 1144(b)(1) of title 10, United States Code, is amended by inserting “(including apprenticeship programs registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the National Apprenticeship Act) and appro… | the bill names no machine-readable US Code section |
-| — | replace | Section 3313(c)(1)(B)(i) of title 38, United States Code, is amended by striking “housing stipend” and inserting “stipend” each place it appears. | the bill names no machine-readable US Code section |
