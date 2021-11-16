@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2915
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2915
@@ -45,3 +45,9 @@ HOPR Act
 - 2021-10-05 — Placed on the Union Calendar, Calendar No. 96.
 - 2021-10-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-135.
 - 2021-10-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-135.
+- 2021-11-16 — Considered under suspension of the rules. (consideration: CR H6292-6294)
+- 2021-11-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2915.
+- 2021-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-16 — Mr. Correa moved to suspend the rules and pass the bill, as amended.
+- 2021-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6292-6293)
+- 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6292-6293)
