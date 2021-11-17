@@ -1,0 +1,142 @@
+---
+measure: H.R. 6004
+congress: 117
+version: Introduced in House
+---
+
+# H.R. 6004
+
+Upholding the 1995 Jerusalem Embassy Law Act of 2021
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Kustoff, David [R-TN-8] (K000392)
+
+## Cosponsors (112)
+
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Cawthorn, Madison [R-NC-11] (C001104)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Garcia, Mike [R-CA-25] (G000061)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Gimenez, Carlos A. [R-FL-26] (G000593)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Keller, Fred [R-PA-12] (K000395)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
+- Rep. Miller, Carol D. [R-WV-3] (M001205)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Murphy, Gregory [R-NC-3] (M001210)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+- Rep. Perry, Scott [R-PA-10] (P000605)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Mullin, Markwayne [R-OK-2] (M001190)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Cheney, Liz [R-WY-At Large] (C001109)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2021-11-17 — Introduced in House
+- 2021-11-17 — Introduced in House
+- 2021-11-17 — Referred to the House Committee on Foreign Affairs.
