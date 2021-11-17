@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 789
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 789
@@ -16,7 +16,7 @@ Censuring Representative Paul Gosar.
 
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 
-## Cosponsors (60)
+## Cosponsors (123)
 
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
@@ -78,6 +78,69 @@ Censuring Representative Paul Gosar.
 - Rep. Garamendi, John [D-CA-3] (G000559)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Casten, Sean [D-IL-6] (C001117)
 
 ## Committees (1)
 
@@ -88,3 +151,15 @@ Censuring Representative Paul Gosar.
 - 2021-11-12 — Introduced in House
 - 2021-11-12 — Introduced in House
 - 2021-11-12 — Referred to the House Committee on Ethics.
+- 2021-11-17 — Amendment reported by the House Committee on Rules.
+- 2021-11-17 — Considered as privileged matter. (consideration: CR H6336-6347)
+- 2021-11-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 789.
+- 2021-11-17 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-11-17 — House amendment offered
+- 2021-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-11-17 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 207, 1 Present (Roll no. 379). (text: CR H6336-6337)
+- 2021-11-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 207, 1 Present (Roll no. 379).(text: CR H6336-6337)
+- 2021-11-17 — Rule H. Res. 795 passed House.
+- 2021-11-17 — Rules Committee Resolution H. Res. 795 Reported to House. Rule provides for consideration of H. Res. 789 with 1 hour of general debate. Bill is closed to amendments. The resoluton provides that the amendment printed in this report shall be considered as adopted.
+- 2021-11-17 — The previous question was ordered pursuant to the rule.
