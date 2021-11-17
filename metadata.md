@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4233
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4233
@@ -36,9 +36,10 @@ Student Veterans Counseling Centers Eligibility Act
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Student Veterans Counseling Centers Eligibility Act
 - 2021-11-16 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2021-11-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 4 (Roll no. 375). (text: CR H6288)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 4 (Roll no. 375).(text: CR H6288)
+- 2021-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
