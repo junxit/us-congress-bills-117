@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5516
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5516
@@ -22,9 +22,10 @@ VITAL Assessment Act
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ VITAL Assessment Act
 - 2021-11-16 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2021-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6279)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6279)
+- 2021-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
