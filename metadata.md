@@ -1,7 +1,7 @@
 ---
 measure: H.R. 147
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 147
@@ -26,10 +26,11 @@ BRAVE Act
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Armed Services Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ BRAVE Act
 - 2021-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 376). (text: CR H6289)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 376).(text: CR H6289)
 - 2021-11-16 — The title of the measure was amended. Agreed to without objection.
+- 2021-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
