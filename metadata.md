@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4591
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4591
@@ -30,9 +30,10 @@ VA Electronic Health Record Transparency Act of 2021
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ VA Electronic Health Record Transparency Act of 2021
 - 2021-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6278)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6278)
 - 2021-11-16 — The title of the measure was amended. Agreed to without objection.
+- 2021-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
