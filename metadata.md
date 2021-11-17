@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2915
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2915
@@ -51,3 +51,4 @@ HOPR Act
 - 2021-11-16 — Mr. Correa moved to suspend the rules and pass the bill, as amended.
 - 2021-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6292-6293)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6292-6293)
+- 2021-11-17 — Received in the Senate.
