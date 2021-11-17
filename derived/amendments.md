@@ -1,7 +1,7 @@
 ---
 measure: S. 2342
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | add-at-end | Title 9 of the United States Code is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in section 2, by inserting “or as otherwise provided in chapter 4” before the period at the end; | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “Chapter 1; residual application” and inserting “Application”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”; and | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “Chapter 1; residual application” and inserting “Application”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”. | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 2 of title 9, United States Code, is amended by striking the item relating to section 208 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 3 of title 9, United States Code, is amended by striking the item relating to section 307 and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of chapters for title 9, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title 9 of the United States Code is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in section 2, by inserting “or as otherwise provided in chapter 4” before the period at the end; | the bill names no machine-readable US Code section |
 | — | replace | in the section heading, by striking “Chapter 1; residual application” and inserting “Application”; and | the bill names no machine-readable US Code section |
