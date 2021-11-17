@@ -2,7 +2,7 @@
 legis-num: H. RES. 789
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 789
@@ -24,5 +24,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That—
 
 - **(1)** Representative Paul Gosar of Arizona be censured;
-- **(2)** Representative Paul Gosar forthwith present himself in the well of the House of Representatives for the pronouncement of censure; and
-- **(3)** Representative Paul Gosar be censured with the public reading of this resolution by the Speaker.
+- **(2)** Representative Paul Gosar forthwith present himself in the well of the House of Representatives for the pronouncement of censure;
+- **(3)** Representative Paul Gosar be censured with the public reading of this resolution by the Speaker; and
+- **(4)** Representative Paul Gosar be, and is hereby, removed from the Committee on Natural Resources and the Committee on Oversight and Reform.
