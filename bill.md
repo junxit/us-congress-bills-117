@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5991
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5991
+
+> To direct the Administrator of the Environmental Protection Agency to ensure the completion of a marginal well study by the Secretary of Energy so as to inform the development of certain rules under the Clean Air Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Science-Based Emissions Standards Act of 2021”.
+
+## § 2. Ensuring completion of marginal well study prior to replacement methane rules
+
+- **(a)** *In general* The Administrator of the Environmental Protection Agency may not finalize any rule to amend the new source performance standards under section 111 of the Clean Air Act (42 U.S.C. 7411) (including the regulations thereunder, including subpart OOOOa of part 60 of title 40, Code of Federal Regulations), to reduce methane emissions from new and modified oil and natural gas facilities until the Secretary of Energy—
+  - **(1)** completes and publishes the results of the study titled “Quantification of Methane Emissions from Marginal (Small Producing) Oil and Gas Wells” (project number DE–FE0031702); and
+  - **(2)** provides a period of at least 90 days for public comment on the application of the results of such study to inform such rule.
+- **(b)** *Consideration of marginal well study* In finalizing any rule described in subsection (a), the Administrator of the Environmental Protection Agency shall take into consideration the results of such study.
