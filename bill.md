@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6009
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6009
+
+> To provide that the public health emergency declared with respect to COVID–19 shall terminate on the date on which the Secretary of Health and Human Services approves, or authorizes emergency use of, a drug intended to treat COVID–19.
+
+## § 1. Short title
+
+This Act may be cited as the “Pandemic Cessation Act”.
+
+## § 2. Termination of COVID–19 public health emergency
+
+- **(a)** *In general* The public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19, and any renewal thereof, shall terminate on the first date after the date of enactment of this Act on which the Secretary of Health and Human Services—
+  - **(1)** grants approval under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) to an application with respect to a new drug intended to treat COVID–19; or
+  - **(2)** authorizes emergency use under section 564 of such Act (21 U.S.C. 360bbb–3) with respect to a drug intended to treat COVID–19.
+- **(b)** *Definition* In this section, the terms drug and new drug have the meanings given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).
