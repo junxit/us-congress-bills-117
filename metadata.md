@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4591
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4591
@@ -52,3 +52,14 @@ VA Electronic Health Record Transparency Act of 2021
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6278)
 - 2021-11-16 — The title of the measure was amended. Agreed to without objection.
 - 2021-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-05-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S2737)
+- 2022-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-05-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-05-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-05-31 — Message on Senate action sent to the House.
+- 2022-06-22 — Presented to President.
+- 2022-06-22 — Presented to President.
+- 2022-06-23 — Became Public Law No: 117-154.
+- 2022-06-23 — Became Public Law No: 117-154.
+- 2022-06-23 — Signed by President.
+- 2022-06-23 — Signed by President.
