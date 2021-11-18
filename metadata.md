@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5652
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5652
@@ -24,9 +24,10 @@ DHS Acquisition Review Board Act of 2021
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ DHS Acquisition Review Board Act of 2021
 - 2021-11-16 — Mr. Correa moved to suspend the rules and pass the bill.
 - 2021-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6294-6295)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6294-6295)
+- 2021-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
