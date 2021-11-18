@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 6020
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6020
+
+> To amend title XVIII of the Social Security Act to extend certain increases in payments for physicians’ services under the Medicare program through 2022.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting Medicare Providers Act of 2021”.
+
+## § 2. Extending certain increases in payments for physicians’ services under the Medicare program through 2022
+
+- **(a)** *In general* Section 1848(t) of the Social Security Act (42 U.S.C. 1395w–4(t)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “during 2021” and inserting “during 2021 or 2022”; and
+    - **(B)** by striking “January 1, 2022” and inserting “January 1, 2023”; and
+  - **(2)** in paragraph (2)(C)—
+    - **(A)** in the header, by striking “2021” and inserting “2021 and 2022”; and
+    - **(B)** by striking “after 2021” and inserting “after 2022”.
+- **(b)** *Conforming amendment* Section 1848(c)(2)(B)(iv)(V) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)(iv)(V)) is amended by striking “2021” and inserting “2021 or 2022”.
