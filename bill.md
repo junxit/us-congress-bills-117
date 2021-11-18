@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 803
+congress: 117th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 803
+
+> Providing for further consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con. Res. 14.
+
+That during further consideration of the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con. Res. 14, pursuant to House Resolution 774, the further amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted.
