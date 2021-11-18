@@ -29,4 +29,5 @@ This Act may be cited as the “TSA Reaching Across Nationalities, Societies, an
 - **(f)** *Definitions* In this section:
   - **(1)** *Airport* The term “airport” has the meaning given such term in section 40102 of title 49, United States Code.
   - **(2)** *Major airports* The term “major airports” means Category X and Category I airports.
-  - **(3)** *TSA material* The term “TSA material” means signs, videos, audio messages, websites, press releases, social media postings, and other communications published and disseminated by the Administrator of the TSA in Category X and Category I airports.
+  - **(3)** *Non-traveling individual* The term “non-traveling individual” has the meaning given such term in section 1560.3 of title 49, Code of Federal Regulations.
+  - **(4)** *TSA material* The term “TSA material” means signs, videos, audio messages, websites, press releases, social media postings, and other communications published and disseminated by the Administrator of the TSA in Category X and Category I airports for use by both traveling and non-traveling individuals.
