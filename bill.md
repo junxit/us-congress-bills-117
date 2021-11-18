@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 6046
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6046
+
+> To amend title 49, United States Code, to allow passenger ferry boats in nonurbanized areas to qualify for certain grants.
+
+## § 1. Passenger ferry grants
+
+Section 5307(h) of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(4)** *Passenger ferries in nonurbanized areas* Notwithstanding paragraphs (1) and (2) and subsection (a), the Secretary may also make grants under this subsection to passenger ferry projects in nonurbanized areas regardless of population size. Such grants shall be subject to the requirements of section 5311 of title 49, United States Code.
