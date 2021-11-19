@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5376
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,588 amendatory instructions. 440 executed, 1,148 stated and not applied.
+1,478 amendatory instructions. 415 executed, 1,063 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,32 +24,140 @@ to guess them.
 
 ## Executed
 
-### 20 U.S.C. § 1022a
+### 16 U.S.C. § 3839aa-2
 
-> in subsection (b)(6)(C), by striking “subsection (f) or (g)” and inserting “subsection (f) or (h)”;
-
-| | |
-|---|---|
-| Removed | `subsection (f) or (g)` |
-| Inserted | `subsection (f) or (h)` |
-
-### 20 U.S.C. § 1070a
-
-> in clause (ii), by striking “(5)(A)(ii)” and inserting “(5)(A)(iii)”.
+> in subsection (a), by striking “2023” and inserting “2031”; and
 
 | | |
 |---|---|
-| Removed | `(5)(A)(ii)` |
-| Inserted | `(5)(A)(iii)` |
+| Removed | `2023` |
+| Inserted | `2031` |
 
-### 20 U.S.C. § 1087e
+### 16 U.S.C. § 3839aa-2
 
-> in paragraph (1), in the matter preceding subparagraph (A), by striking “paragraph (2)” and inserting “paragraph (3)”; and
+> in the subparagraph heading, by striking “2023” and inserting “2031”; and
 
 | | |
 |---|---|
-| Removed | `paragraph (2)` |
-| Inserted | `paragraph (3)` |
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3839aa-2
+
+> by striking “2023” and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3839aa-8
+
+> Section 1240H of the Food Security Act of 1985 (16 U.S.C. 3839aa–8) is amended by striking “2023” each place it appears and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3839aa-22
+
+> Section 1240J(a) of the Food Security Act of 1985 (16 U.S.C. 3839aa–22(a)) is amended, in the matter preceding paragraph (1), by striking “2023” and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3839aa-24
+
+> Section 1240L(h)(2)(A) of the Food Security Act of 1985 (16 U.S.C. 3839aa–24(h)(2)(A)) is amended by striking “2023” and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3841
+
+> in the matter preceding paragraph (1), by striking “2023” and inserting “2031”;
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3841
+
+> in paragraph (1), by striking “2023” each place it appears and inserting “2031”;
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3841
+
+> in paragraph (2)(F), by striking “2023” and inserting “2031”; and
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3841
+
+> in paragraph (3), by striking “fiscal year 2023” each place it appears and inserting “each of fiscal years 2023 through 2031”;
+
+| | |
+|---|---|
+| Removed | `fiscal year 2023` |
+| Inserted | `each of fiscal years 2023 through 2031` |
+
+### 16 U.S.C. § 3841
+
+> in subsection (b), by striking “2023” and inserting “2031”; and
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3841
+
+> in paragraph (1)(B), in the subparagraph heading, by striking “2023” and inserting “2031”; and
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3841
+
+> by striking “2023” each place it appears and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3844
+
+> Section 1244(n)(3)(A) of the Food Security Act of 1985 (16 U.S.C. 3844(n)(3)(A)) is amended by striking “2023” and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
+
+### 16 U.S.C. § 3871d
+
+> Section 1271D(a) of the Food Security Act of 1985 (16 U.S.C. 3871d(a)) is amended by striking “2023” and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2031` |
 
 ### 29 U.S.C. § 666
 
@@ -186,68 +294,23 @@ to guess them.
 | Removed | `706(a)(1)` |
 | Inserted | `733(a)(1)` |
 
-### 42 U.S.C. § 601
+### 2 U.S.C. § 661a
 
-> in paragraph (6)(A), by striking “or (5)” both places it appears and inserting “(5), or (15)”; and
-
-| | |
-|---|---|
-| Removed | `or (5)` |
-| Inserted | `(5), or (15)` |
-
-### 42 U.S.C. § 9902
-
-> in the enumerator, by striking “(F)” and inserting “(D)”; and
+> in paragraph (1), by striking “(as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) for an amount equal to not more than 90 percent of” and inserting “(as defined in section 1701 of the Energy Policy Act of 2005 (42 U.S.C. 16511)) for”; and
 
 | | |
 |---|---|
-| Removed | `(F)` |
-| Inserted | `(D)` |
+| Removed | `(as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) for an amount equal to not more than 90 percent of` |
+| Inserted | `(as defined in section 1701 of the Energy Policy Act of 2005 (42 U.S.C. 16511)) for` |
 
-### 42 U.S.C. § 9902
+### 25 U.S.C. § 3502
 
-> by striking “conducting the demonstration project under this paragraph” and inserting “carrying out this paragraph”;
-
-| | |
-|---|---|
-| Removed | `conducting the demonstration project under this paragraph` |
-| Inserted | `carrying out this paragraph` |
-
-### 42 U.S.C. § 6865
-
-> in paragraph (1), by striking “$6,500” and inserting “$12,000”; and
+> in paragraph (4), by striking “$2,000,000,000” and inserting “$20,000,000,000”.
 
 | | |
 |---|---|
-| Removed | `$6,500` |
-| Inserted | `$12,000` |
-
-### 42 U.S.C. § 6865
-
-> in paragraph (4), by striking “$3,000” and inserting “$6,000”.
-
-| | |
-|---|---|
-| Removed | `$3,000` |
-| Inserted | `$6,000` |
-
-### 42 U.S.C. § 17153
-
-> in subsection (c), by striking “subsection (a)(2)” and inserting “subsection (a)(3)”; and
-
-| | |
-|---|---|
-| Removed | `subsection (a)(2)` |
-| Inserted | `subsection (a)(3)` |
-
-### 42 U.S.C. § 17153
-
-> in subsection (d), by striking “subsection (a)(3)” and inserting “subsection (a)(4)”.
-
-| | |
-|---|---|
-| Removed | `subsection (a)(3)` |
-| Inserted | `subsection (a)(4)` |
+| Removed | `$2,000,000,000` |
+| Inserted | `$20,000,000,000` |
 
 ### 42 U.S.C. § 18071
 
@@ -267,14 +330,50 @@ to guess them.
 | Removed | `this section` |
 | Inserted | `paragraphs (1) and (2)` |
 
-### 42 U.S.C. § 1396r-8
+### 42 U.S.C. § 18071
 
-> by striking “or under part B of title XVIII” and inserting “, under the Federal Medicaid program under section 1948, or under part B of title XVIII”; and
+> in the header, by striking “2021” and inserting “certain years”;
 
 | | |
 |---|---|
-| Removed | `or under part B of title XVIII` |
-| Inserted | `, under the Federal Medicaid program under section 1948, or under part B of title XVIII` |
+| Removed | `2021` |
+| Inserted | `certain years` |
+
+### 42 U.S.C. § 18071
+
+> in the matter preceding paragraph (1), by striking “2021” and inserting “any of years 2021 through 2022”; and
+
+| | |
+|---|---|
+| Removed | `2021` |
+| Inserted | `any of years 2021 through 2022` |
+
+### 42 U.S.C. § 18071
+
+> in paragraph (2), by striking “133 percent” and inserting “150 percent”.
+
+| | |
+|---|---|
+| Removed | `133 percent` |
+| Inserted | `150 percent` |
+
+### 42 U.S.C. § 1396b
+
+> in paragraph (3)(A), by striking “paragraphs (6), (7), and (8)” and inserting “paragraphs (6), (7), (8), and (10)”;
+
+| | |
+|---|---|
+| Removed | `paragraphs (6), (7), and (8)` |
+| Inserted | `paragraphs (6), (7), (8), and (10)` |
+
+### 42 U.S.C. § 1396d
+
+> in subparagraph (E), by striking “2020 and each year thereafter.” and inserting “2020, 2021, and 2022; and”; and
+
+| | |
+|---|---|
+| Removed | `2020 and each year thereafter.` |
+| Inserted | `2020, 2021, and 2022; and` |
 
 ### 42 U.S.C. § 1396d
 
@@ -285,15 +384,6 @@ to guess them.
 | Removed | `and (ii)` |
 | Inserted | `(ii), and (jj)` |
 
-### 42 U.S.C. § 1301
-
-> in subsection (d)(1)(A), by striking “; and” and inserting “and, beginning with the report for the first year that begins after the date that is 2 years after the Secretary publishes the home and community-based quality measures developed under subsection (b)(5)(D), home and community-based services quality measures included in the core set of adult health quality measures maintained under subsection (b)(5) and any updates or changes to such measures or an equivalent alternative set of home and community-based services quality measures approved by the Secretary; and”.
-
-| | |
-|---|---|
-| Removed | `; and` |
-| Inserted | `and, beginning with the report for the first year that begins after the date that is 2 years after the Secretary publishes the home and community-based quality measures developed under subsection (b)(5)(D), home and community-based services quality measures included in the core set of adult health quality measures maintained under subsection (b)(5) and any updates or changes to such measures or an equivalent alternative set of home and community-based services quality measures approved by the Secretary; and` |
-
 ### 42 U.S.C. § 1396b
 
 > in subparagraph (F)(ii), by striking “plus” after the semicolon and inserting “and”; and
@@ -302,6 +392,33 @@ to guess them.
 |---|---|
 | Removed | `plus` |
 | Inserted | `and` |
+
+### 42 U.S.C. § 1396b
+
+> by striking “and ambulatory health care settings” and inserting “, ambulatory health care, and home and community-based settings ”; and
+
+| | |
+|---|---|
+| Removed | `and ambulatory health care settings` |
+| Inserted | `, ambulatory health care, and home and community-based settings` |
+
+### 42 U.S.C. § 1396b
+
+> in subsection (d)(1)(A), by striking “; and” and inserting “and, beginning with the report for the first year that begins after the date that is 2 years after the Secretary publishes the home and community-based quality measures developed under subsection (b)(5)(D), all home and community-based services quality measures included in the core set of adult health quality measures maintained under subsection (b)(5) and any updates or changes to such measures; and”.
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `and, beginning with the report for the first year that begins after the date that is 2 years after the Secretary publishes the home and community-based quality measures developed under subsection (b)(5)(D), all home and community-based services quality measures included in the core set of adult health quality measures maintained under subsection (b)(5) and any updates or changes to such measures; and` |
+
+### 42 U.S.C. § 1396r-5
+
+> Section 2404 of the Patient Protection and Affordable Care Act (42 U.S.C. 1396r–5 note) is amended by striking “September 30, 2023” and inserting “the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2023` |
+| Inserted | `the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14` |
 
 ### 42 U.S.C. § 1396a
 
@@ -312,16 +429,25 @@ to guess them.
 | Removed | `September 30, 2023` |
 | Inserted | `September 30 of the subsequent fiscal year` |
 
+### 42 U.S.C. § 1395yy
+
+> in subparagraph (A), by striking “and the data submitted under subsection (e)(6) a process to validate such measures and data” and inserting “, the data submitted under subsection (e)(6), and, during the period beginning with fiscal year 2024 and ending with fiscal year 2031, the resident assessment data described in section 1819(b)(3) and the direct care staffing information described in section 1128I(g) a process to validate such measures, data, and information”; and
+
+| | |
+|---|---|
+| Removed | `and the data submitted under subsection (e)(6) a process to validate such measures and data` |
+| Inserted | `, the data submitted under subsection (e)(6), and, during the period beginning with fiscal year 2024 and ending with fiscal year 2031, the resident assessment data described in section 1819(b)(3) and the direct care staffing information described in section 1128I(g) a process to validate such measures, data, and information` |
+
 ### 42 U.S.C. § 1396a
 
-> by striking “(5) A woman who” and inserting “(5)(A) For any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), a woman who”; and
+> by striking “(5) A woman who” and inserting “(5)(A) For any fiscal year quarter (beginning with the first fiscal year quarter beginning one year after the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14) with respect to which subparagraph (B) does not apply, an individual who”; and
 
 | | |
 |---|---|
 | Removed | `(5) A woman who` |
-| Inserted | `(5)(A) For any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), a woman who` |
+| Inserted | `(5)(A) For any fiscal year quarter (beginning with the first fiscal year quarter beginning one year after the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14) with respect to which subparagraph (B) does not apply, an individual who` |
 
-### 42 U.S.C. § 1396
+### 42 U.S.C. § 1396a
 
 > in section 1902(a)(10), in the matter following subparagraph (G), by striking “(VII) the medical assistance” and all that follows through “, (VIII)” and inserting “(VIII)”;
 
@@ -330,50 +456,194 @@ to guess them.
 | Removed | `(VII) the medical assistance” and all that follows through “, (VIII)` |
 | Inserted | `(VIII)` |
 
-### 42 U.S.C. § 1396
+### 42 U.S.C. § 1396a
 
-> in section 1902(e)(6), by striking “In the case of” and inserting “For any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), in the case of”;
+> in section 1902(e)(6), by striking “In the case of” and inserting “For any fiscal year quarter with respect to which paragraph (5)(B) does not apply, in the case of”;
 
 | | |
 |---|---|
 | Removed | `In the case of` |
-| Inserted | `For any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), in the case of` |
-
-### 42 U.S.C. § 1396
-
-> in section 1902(l)(1)(A), by striking “60-day period” and inserting “12-month period”;
-
-| | |
-|---|---|
-| Removed | `60-day period` |
-| Inserted | `12-month period` |
-
-### 42 U.S.C. § 1396
-
-> in clause (i), by striking “60-day period” and inserting “12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period)”; and
-
-| | |
-|---|---|
-| Removed | `60-day period` |
-| Inserted | `12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period)` |
-
-### 42 U.S.C. § 1396
-
-> in section 1905(a), in the 4th sentence in the matter following paragraph (31), by striking “60-day period” and inserting “12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period)”.
-
-| | |
-|---|---|
-| Removed | `60-day period` |
-| Inserted | `12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period)` |
+| Inserted | `For any fiscal year quarter with respect to which paragraph (5)(B) does not apply, in the case of` |
 
 ### 42 U.S.C. § 1396a
 
-> Section 1902(e)(16)(A) of the Social Security Act (42 U.S.C. 1396a(e)(16)(A)) is amended by striking “At the option of the State” and inserting “For any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), at the option of the State”.
+> in section 1902(l)(1)(A), by striking “60-day period” and inserting “12-month period (or, for any fiscal year quarter with respect to which subsection (e)(5)(B) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period)”;
+
+| | |
+|---|---|
+| Removed | `60-day period` |
+| Inserted | `12-month period (or, for any fiscal year quarter with respect to which subsection (e)(5)(B) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period)` |
+
+### 42 U.S.C. § 1396a
+
+> in subparagraph (A)(i), by striking “the 60-day period” and inserting “the applicable period (as described in subparagraph (D))”;
+
+| | |
+|---|---|
+| Removed | `the 60-day period` |
+| Inserted | `the applicable period (as described in subparagraph (D))` |
+
+### 42 U.S.C. § 1396a
+
+> in section 1905(a), in the 4th sentence in the matter following paragraph (31), by striking “60-day period” and inserting “12-month period (or, for any fiscal year quarter with respect to which section 1902(e)(5)(B) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period)”; and
+
+| | |
+|---|---|
+| Removed | `60-day period` |
+| Inserted | `12-month period (or, for any fiscal year quarter with respect to which section 1902(e)(5)(B) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period)` |
+
+### 42 U.S.C. § 1396a
+
+> Section 1902(e)(16)(A) of the Social Security Act (42 U.S.C. 1396a(e)(16)(A)) is amended by striking “At the option of the State” and inserting “For any fiscal year quarter with respect to which paragraph (5)(B) does not apply, at the option of the State”.
 
 | | |
 |---|---|
 | Removed | `At the option of the State` |
-| Inserted | `For any fiscal year quarter with respect to which the amendments made by section 30723(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), at the option of the State` |
+| Inserted | `For any fiscal year quarter with respect to which paragraph (5)(B) does not apply, at the option of the State` |
+
+### 42 U.S.C. § 1397gg
+
+> by striking “Paragraphs (5) and (16)” and inserting “(i) For any fiscal year quarter with respect to which paragraph (5)(B) of section 1902(e) does not apply, paragraphs (5)(A) and (16) of such section”; and
+
+| | |
+|---|---|
+| Removed | `Paragraphs (5) and (16)` |
+| Inserted | `(i) For any fiscal year quarter with respect to which paragraph (5)(B) of section 1902(e) does not apply, paragraphs (5)(A) and (16) of such section` |
+
+### 42 U.S.C. § 1397ll
+
+> in paragraph (2)(A), by striking “60-day period” and all that follows through “ends” and inserting “12-month period (or, for any fiscal year quarter with respect to which section 2107(e)(1)(J)(ii) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period) ends”; and
+
+| | |
+|---|---|
+| Removed | `60-day period” and all that follows through “ends` |
+| Inserted | `12-month period (or, for any fiscal year quarter with respect to which section 2107(e)(1)(J)(ii) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period) ends` |
+
+### 42 U.S.C. § 1397ll
+
+> in subsection (f)(2), by striking “60-day period” and inserting “12-month period (or, for any fiscal year quarter (beginning with the first fiscal year quarter beginning one year after the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14) with respect to which section 2107(e)(1)(J)(ii) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period)”.
+
+| | |
+|---|---|
+| Removed | `60-day period` |
+| Inserted | `12-month period (or, for any fiscal year quarter (beginning with the first fiscal year quarter beginning one year after the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14) with respect to which section 2107(e)(1)(J)(ii) does not apply and for which the State has not adopted the option under section 1902(e)(16)(A), 60-day period)` |
+
+### 42 U.S.C. § 1308
+
+> by striking “except as provided in clause (ii)” and inserting “for each of fiscal years 1999 through 2019”; and
+
+| | |
+|---|---|
+| Removed | `except as provided in clause (ii)` |
+| Inserted | `for each of fiscal years 1999 through 2019` |
+
+### 42 U.S.C. § 1308
+
+> in clause (i), by striking “except as provided in clause (ii),” and inserting “for each of fiscal years 1999 through 2019,”;
+
+| | |
+|---|---|
+| Removed | `except as provided in clause (ii),` |
+| Inserted | `for each of fiscal years 1999 through 2019,` |
+
+### 42 U.S.C. § 1308
+
+> in clause (i), by striking “except as provided in clause (ii),” and inserting “for each of fiscal years 1999 through 2019,”;
+
+| | |
+|---|---|
+| Removed | `except as provided in clause (ii),` |
+| Inserted | `for each of fiscal years 1999 through 2019,` |
+
+### 42 U.S.C. § 1308
+
+> in clause (i), by striking “except as provided in clause (ii),” and inserting “for each of fiscal years 1999 through 2019,”;
+
+| | |
+|---|---|
+| Removed | `except as provided in clause (ii),` |
+| Inserted | `for each of fiscal years 1999 through 2019,` |
+
+### 42 U.S.C. § 1308
+
+> in clause (i), by striking “except as provided in clause (ii),” and inserting “for each of fiscal years 1999 through 2019,”;
+
+| | |
+|---|---|
+| Removed | `except as provided in clause (ii),` |
+| Inserted | `for each of fiscal years 1999 through 2019,` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “December 3, 2021,” and inserting “September 30, 2021”; and
+
+| | |
+|---|---|
+| Removed | `December 3, 2021,` |
+| Inserted | `September 30, 2021` |
+
+### 42 U.S.C. § 1396d
+
+> in subparagraph (C), as so redesignated, by striking “December 3, 2021,” and inserting “September 30, 2021”;
+
+| | |
+|---|---|
+| Removed | `December 3, 2021,` |
+| Inserted | `September 30, 2021` |
+
+### 42 U.S.C. § 1320b-5
+
+> by striking “the last day of the calendar quarter in which the last day of such emergency period occurs” and inserting “September 30, 2022”; and
+
+| | |
+|---|---|
+| Removed | `the last day of the calendar quarter in which the last day of such emergency period occurs` |
+| Inserted | `September 30, 2022` |
+
+### 42 U.S.C. § 1320b-5
+
+> by striking “6.2 percentage points” and inserting “the number of percentage points specified in paragraph (2) with respect to such calendar quarter”; and
+
+| | |
+|---|---|
+| Removed | `6.2 percentage points` |
+| Inserted | `the number of percentage points specified in paragraph (2) with respect to such calendar quarter` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “the State fails” and inserting “subject to subsection (f), the State fails”;
+
+| | |
+|---|---|
+| Removed | `the State fails` |
+| Inserted | `subject to subsection (f), the State fails` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “and ending the last day of the month in which the emergency period described in subsection (a) ends” and inserting “and ending on March 31, 2022,”; and
+
+| | |
+|---|---|
+| Removed | `and ending the last day of the month in which the emergency period described in subsection (a) ends` |
+| Inserted | `and ending on March 31, 2022,` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “through the end of the month in which such emergency period ends” and inserting “through September 30, 2022,”; and
+
+| | |
+|---|---|
+| Removed | `through the end of the month in which such emergency period ends` |
+| Inserted | `through September 30, 2022,` |
+
+### 42 U.S.C. § 1396a
+
+> in subparagraph (C), by striking “upon release” and inserting “30 days prior to release”.
+
+| | |
+|---|---|
+| Removed | `upon release` |
+| Inserted | `30 days prior to release` |
 
 ### 42 U.S.C. § 1396a
 
@@ -384,13 +654,103 @@ to guess them.
 | Removed | `through September 30” and all that follows through “ends on September 30, 2027` |
 | Inserted | `(but beginning on October 1, 2019,` |
 
-### 42 U.S.C. § 1397dd
+### 42 U.S.C. § 1396a
 
-> in paragraph (2)(B)(i), by striking “,, 2023, and 2027” and inserting “and 2023”;
+> in paragraph (3), by striking “Subject to paragraph (8)” and inserting “Subject to paragraphs (8) and (9)”;
 
 | | |
 |---|---|
-| Removed | `,, 2023, and 2027` |
+| Removed | `Subject to paragraph (8)` |
+| Inserted | `Subject to paragraphs (8) and (9)` |
+
+### 42 U.S.C. § 1396a
+
+> by striking “December 31, 2021” and inserting “March 31, 2026”;
+
+| | |
+|---|---|
+| Removed | `December 31, 2021` |
+| Inserted | `March 31, 2026` |
+
+### 42 U.S.C. § 1396a
+
+> by striking “recommendations concerning” and all that follows through the period and inserting “recommendations concerning whether and how the demonstration programs under this section should be modified.”; and
+
+| | |
+|---|---|
+| Removed | `recommendations concerning` |
+| Inserted | `recommendations concerning whether and how the demonstration programs under this section should be modified.` |
+
+### 42 U.S.C. § 1308
+
+> in subsection (f), in the matter preceding paragraph (1), by striking “subsections (g) and (h)” and inserting “subsections (g), (h), and (i)”; and
+
+| | |
+|---|---|
+| Removed | `subsections (g) and (h)` |
+| Inserted | `subsections (g), (h), and (i)` |
+
+### 42 U.S.C. § 1396w-6
+
+> in subsection (c), by striking “occurring during the period described in subsection (a) that a State” and inserting “in which a State provides medical assistance for qualifying community-based mobile crisis intervention services under this section and”; and
+
+| | |
+|---|---|
+| Removed | `occurring during the period described in subsection (a) that a State` |
+| Inserted | `in which a State provides medical assistance for qualifying community-based mobile crisis intervention services under this section and` |
+
+### 42 U.S.C. § 1396w-6
+
+> in subparagraph (A), by striking “for the fiscal year preceding the first fiscal quarter occurring during the period described in subsection (a)” and inserting “for the fiscal year preceding the first fiscal quarter in which the State provides medical assistance for qualifying community-based mobile crisis intervention services under this section”; and
+
+| | |
+|---|---|
+| Removed | `for the fiscal year preceding the first fiscal quarter occurring during the period described in subsection (a)` |
+| Inserted | `for the fiscal year preceding the first fiscal quarter in which the State provides medical assistance for qualifying community-based mobile crisis intervention services under this section` |
+
+### 42 U.S.C. § 1396w-6
+
+> in subparagraph (B), by striking “occurring during the period described in subsection (a)” and inserting “occurring during a fiscal quarter”.
+
+| | |
+|---|---|
+| Removed | `occurring during the period described in subsection (a)` |
+| Inserted | `occurring during a fiscal quarter` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after the date of the enactment of the American Rescue Plan Act of 2021” and inserting “for the period of the 16 fiscal year quarters that begins on April 1, 2021”; and
+
+| | |
+|---|---|
+| Removed | `for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after the date of the enactment of the American Rescue Plan Act of 2021` |
+| Inserted | `for the period of the 16 fiscal year quarters that begins on April 1, 2021` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “such 8 fiscal year quarters” and inserting “such period of 16 fiscal year quarters”.
+
+| | |
+|---|---|
+| Removed | `such 8 fiscal year quarters` |
+| Inserted | `such period of 16 fiscal year quarters` |
+
+### 42 U.S.C. § 1396b
+
+> in subparagraph (E), by striking “or” after the semicolon and inserting “and”; and
+
+| | |
+|---|---|
+| Removed | `or` |
+| Inserted | `and` |
+
+### 42 U.S.C. § 1397dd
+
+> in paragraph (2)(B)(i), by striking “, 2023, and 2027” and inserting “and 2023”;
+
+| | |
+|---|---|
+| Removed | `, 2023, and 2027` |
 | Inserted | `and 2023` |
 
 ### 42 U.S.C. § 1397dd
@@ -476,12 +836,12 @@ to guess them.
 
 ### 42 U.S.C. § 1397ee
 
-> by striking “periods from” and all that follows through “applying eligibility standards” and inserting “periods from applying eligibility standards”.
+> as amended by subclause (i)(III), by striking “as preventing a State from” and all that follows through “applying eligibility standards” and inserting “as preventing a State from applying eligibility standards”.
 
 | | |
 |---|---|
-| Removed | `periods from” and all that follows through “applying eligibility standards` |
-| Inserted | `periods from applying eligibility standards` |
+| Removed | `as preventing a State from” and all that follows through “applying eligibility standards` |
+| Inserted | `as preventing a State from applying eligibility standards` |
 
 ### 42 U.S.C. § 1397ee
 
@@ -557,11 +917,11 @@ to guess them.
 
 ### 42 U.S.C. § 1397dd
 
-> by striking “and 2024 through 2026” and inserting “beginning with fiscal year 2024”; and
+> by striking “2024 through 2026” and inserting “beginning with fiscal year 2024”; and
 
 | | |
 |---|---|
-| Removed | `and 2024 through 2026` |
+| Removed | `2024 through 2026` |
 | Inserted | `beginning with fiscal year 2024` |
 
 ### 42 U.S.C. § 1397dd
@@ -609,6 +969,24 @@ to guess them.
 | Removed | `2023, or 2027` |
 | Inserted | `or 2023` |
 
+### 42 U.S.C. § 1396r-8
+
+> by striking “or under part B of title XVIII” and inserting “, under part B of title XVIII, or, beginning with the first full calendar quarter with respect to which section 2107(e)(1)(V) applies, under section 2105 with respect to child health assistance or pregnancy-related assistance under title XXI”;
+
+| | |
+|---|---|
+| Removed | `or under part B of title XVIII` |
+| Inserted | `, under part B of title XVIII, or, beginning with the first full calendar quarter with respect to which section 2107(e)(1)(V) applies, under section 2105 with respect to child health assistance or pregnancy-related assistance under title XXI` |
+
+### 42 U.S.C. § 1396r-8
+
+> by striking “a rebate agreement described in subsection (b)” and inserting “a single rebate agreement described in subsection (b) with respect to payment under section 1903(a) and, beginning January 1, 2024, title XXI,”; and
+
+| | |
+|---|---|
+| Removed | `a rebate agreement described in subsection (b)` |
+| Inserted | `a single rebate agreement described in subsection (b) with respect to payment under section 1903(a) and, beginning January 1, 2024, title XXI,` |
+
 ### 42 U.S.C. § 1397jj
 
 > in subclause (III), by striking “and” at the end and inserting “or”; and
@@ -627,68 +1005,14 @@ to guess them.
 | Removed | `the 50 States or the District of Columbia` |
 | Inserted | `a State (including the District of Columbia and each commonwealth and territory)` |
 
-### 42 U.S.C. § 1397gg
-
-> by striking “Paragraphs (5) and (16)” and inserting “(i) For any fiscal year quarter with respect to which the amendments made by section 30804(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), paragraphs (5)(A) and (16)”; and
-
-| | |
-|---|---|
-| Removed | `Paragraphs (5) and (16)` |
-| Inserted | `(i) For any fiscal year quarter with respect to which the amendments made by section 30804(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), paragraphs (5)(A) and (16)` |
-
-### 42 U.S.C. § 1397ll
-
-> in paragraph (2), by striking “60-day period” and all that follows through “ends” and inserting “12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30804(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period) (beginning on the last day of her pregnancy) ends”; and
-
-| | |
-|---|---|
-| Removed | `60-day period” and all that follows through “ends` |
-| Inserted | `12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30804(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period) (beginning on the last day of her pregnancy) ends` |
-
-### 42 U.S.C. § 1397ll
-
-> in subsection (f)(2), by striking “60-day period” and inserting “12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30804(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period)”.
-
-| | |
-|---|---|
-| Removed | `60-day period` |
-| Inserted | `12-month period (or, for any fiscal year quarter with respect to which the amendments made by section 30804(a)(1)(B) of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 do not apply (beginning with the first fiscal year quarter beginning one year after the date of the enactment of such Act), 60-day period)` |
-
-### 42 U.S.C. § 1395w
-
-> in the flush matter at the end, by striking “paragraph (4)” and inserting “paragraphs (4) and (5)”.
-
-| | |
-|---|---|
-| Removed | `paragraph (4)` |
-| Inserted | `paragraphs (4) and (5)` |
-
-### 42 U.S.C. § 1395r
-
-> The last sentence of section 1839(a)(1) of the Social Security Act (42 U.S.C. 1395r(a)(1)), as added by section 30901(g)(1), is amended by striking “section 30901 (other than subsection (g))” and inserting “sections 30901 (other than subsection (g)), 30902 (other than subsection (d))”.
-
-| | |
-|---|---|
-| Removed | `section 30901 (other than subsection (g))` |
-| Inserted | `sections 30901 (other than subsection (g)), 30902 (other than subsection (d))` |
-
-### 42 U.S.C. § 1395w
-
-> Paragraph (4) of section 1844(a) of such Act (42 U.S.C. 1395w(a)), as added by section 30901(g)(2), is amended by striking “section 30901 (other than subsection (g))” and inserting “sections 30901 (other than subsection (g)), 30902 (other than subsection (d))”.
-
-| | |
-|---|---|
-| Removed | `section 30901 (other than subsection (g))` |
-| Inserted | `sections 30901 (other than subsection (g)), 30902 (other than subsection (d))` |
-
 ### 42 U.S.C. § 1395x
 
-> Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)), as amended by section 30902(b)(1), is further amended by striking “, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens” and inserting “, including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens, if furnished before October 1, 2022, and including conventional eyeglasses or contact lenses (as described in section 1834(h)(8)), whether or not furnished subsequent to such a surgery, if furnished on or after October 1, 2022”.
+> by striking “the audiologist” and inserting “the audiologist or qualified hearing aid professional”; and
 
 | | |
 |---|---|
-| Removed | `, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens` |
-| Inserted | `, including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens, if furnished before October 1, 2022, and including conventional eyeglasses or contact lenses (as described in section 1834(h)(8)), whether or not furnished subsequent to such a surgery, if furnished on or after October 1, 2022` |
+| Removed | `the audiologist` |
+| Inserted | `the audiologist or qualified hearing aid professional` |
 
 ### 42 U.S.C. § 300mm-21
 
@@ -708,394 +1032,16 @@ to guess them.
 | Removed | `section 3351` |
 | Inserted | `sections 3351 and 3352` |
 
-### 42 U.S.C. § 300mm
+### 12 U.S.C. § 5708
 
-> Section 3301(f)(2)(E) of such Act (42 U.S.C. 300mm(f)(2)(E)) is amended by striking “section 3341(a)” and inserting “subsection (a) or (c) of section 3341”.
-
-| | |
-|---|---|
-| Removed | `section 3341(a)` |
-| Inserted | `subsection (a) or (c) of section 3341` |
-
-### 47 U.S.C. § 309
-
-> in subsection (a), by striking “2022” and inserting “2024”; and
+> in subsection (c), by striking “at the end of the 7-year period beginning on March 11, 2021” and inserting “on September 30, 2030”; and
 
 | | |
 |---|---|
-| Removed | `2022` |
-| Inserted | `2024` |
+| Removed | `at the end of the 7-year period beginning on March 11, 2021` |
+| Inserted | `on September 30, 2030` |
 
-### 47 U.S.C. § 309
-
-> in subsection (b)(1), by striking “2022” and inserting “2024”; and
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2024` |
-
-### 47 U.S.C. § 309
-
-> in section 1006(c)(1), by striking “2022” and inserting “2024”.
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2024` |
-
-### 12 U.S.C. § 5701
-
-> in section 3009(c), by striking “7-year period” and inserting “10-year period”.
-
-| | |
-|---|---|
-| Removed | `7-year period` |
-| Inserted | `10-year period` |
-
-### 25 U.S.C. § 5304
-
-> in subparagraph (A), by striking “for each of fiscal years 2020 through 2034, the Secretary may expend from the Fund an amount not to exceed $120,000,000,” and inserting “for fiscal year 2022 and each fiscal year thereafter, the Secretary may expend from the Fund an amount not to exceed $370,000,000”;
-
-| | |
-|---|---|
-| Removed | `for each of fiscal years 2020 through 2034, the Secretary may expend from the Fund an amount not to exceed $120,000,000,` |
-| Inserted | `for fiscal year 2022 and each fiscal year thereafter, the Secretary may expend from the Fund an amount not to exceed $370,000,000` |
-
-### 25 U.S.C. § 5304
-
-> in subparagraph (B), by striking “more than $120,000,000, for any fiscal year if such amounts are available in the Fund due to expenditures not reaching $120,000,000” and inserting “more than $370,000,000 for any fiscal year if such amounts are available in the Fund, for the fiscal year in which expenditures are made pursuant to subparagraph (D) and paragraphs (2) and (3)”; and
-
-| | |
-|---|---|
-| Removed | `more than $120,000,000, for any fiscal year if such amounts are available in the Fund due to expenditures not reaching $120,000,000` |
-| Inserted | `more than $370,000,000 for any fiscal year if such amounts are available in the Fund, for the fiscal year in which expenditures are made pursuant to subparagraph (D) and paragraphs (2) and (3)` |
-
-### 43 U.S.C. § 407
-
-> In subsection (c)(3)(C), by striking “for any authorized use” and inserting “for any use authorized under paragraph (2) or paragraph (1)(D)”.
-
-| | |
-|---|---|
-| Removed | `for any authorized use` |
-| Inserted | `for any use authorized under paragraph (2) or paragraph (1)(D)` |
-
-### 30 U.S.C. § 207
-
-> in section 7(a), by striking “12½” and inserting “20”;
-
-| | |
-|---|---|
-| Removed | `12½` |
-| Inserted | `20` |
-
-### 30 U.S.C. § 207
-
-> in section 31(e), by striking “16 2⁄3” both places such term appears and inserting “25”.
-
-| | |
-|---|---|
-| Removed | `16 2⁄3` |
-| Inserted | `25` |
-
-### 30 U.S.C. § 226
-
-> by striking “$2 per acre” and inserting “$10 per acre, except as otherwise provided by this paragraph”; and
-
-| | |
-|---|---|
-| Removed | `$2 per acre` |
-| Inserted | `$10 per acre, except as otherwise provided by this paragraph` |
-
-### 30 U.S.C. § 226
-
-> by striking “Federal Onshore Oil and Gas Leasing Reform Act of 1987” and inserting “subtitle H of the Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 of the 117th Congress”;
-
-| | |
-|---|---|
-| Removed | `Federal Onshore Oil and Gas Leasing Reform Act of 1987` |
-| Inserted | `subtitle H of the Act to provide for reconciliation pursuant to title II of S. Con. Res. 14 of the 117th Congress` |
-
-### 30 U.S.C. § 226
-
-> in subsection (b)(2)(C), by striking “$2 per acre” and inserting “$10 per acre”; and
-
-| | |
-|---|---|
-| Removed | `$2 per acre` |
-| Inserted | `$10 per acre` |
-
-### 30 U.S.C. § 226
-
-> Section 17(d) of the Mineral Leasing Act (30 U.S.C. 226(d)) is amended in the first sentence by striking “$1.50 per acre per year for the first through fifth years of the lease and not less than $2 per acre per year for each year thereafter” and inserting “$3 per acre per year during the 2-year period beginning on the date the lease begins for new leases, and after the end of such two-year period not less than $5 per acre per year”.
-
-| | |
-|---|---|
-| Removed | `$1.50 per acre per year for the first through fifth years of the lease and not less than $2 per acre per year for each year thereafter` |
-| Inserted | `$3 per acre per year during the 2-year period beginning on the date the lease begins for new leases, and after the end of such two-year period not less than $5 per acre per year` |
-
-### 30 U.S.C. § 188
-
-> Section 31(e) of the Mineral Leasing Act (30 U.S.C. 188(e)) is amended by striking “$10” and inserting “$20”.
-
-| | |
-|---|---|
-| Removed | `$10` |
-| Inserted | `$20` |
-
-### 30 U.S.C. § 207
-
-> in the first sentence, by striking “twenty” and inserting “10”;
-
-| | |
-|---|---|
-| Removed | `twenty` |
-| Inserted | `10` |
-
-### 30 U.S.C. § 207
-
-> in the second sentence, by striking “ten” and inserting “5”; and
-
-| | |
-|---|---|
-| Removed | `ten` |
-| Inserted | `5` |
-
-### 30 U.S.C. § 207
-
-> by striking “twenty” and inserting “10”; and
-
-| | |
-|---|---|
-| Removed | `twenty` |
-| Inserted | `10` |
-
-### 30 U.S.C. § 207
-
-> by striking “ten” and inserting “5”; and
-
-| | |
-|---|---|
-| Removed | `ten` |
-| Inserted | `5` |
-
-### 30 U.S.C. § 207
-
-> in subsection (b)(5), by striking “20” and inserting “10”.
-
-| | |
-|---|---|
-| Removed | `20` |
-| Inserted | `10` |
-
-### 30 U.S.C. § 226
-
-> Section 17(e) of the Mineral Leasing Act (30 U.S.C. 226(e)) is amended by striking “10 years:” and inserting “5 years.”.
-
-| | |
-|---|---|
-| Removed | `10 years:` |
-| Inserted | `5 years.` |
-
-### 30 U.S.C. § 226
-
-> by striking “Competitive and noncompetitive leases” and inserting “Leases, including leases for tar sand areas,”; and
-
-| | |
-|---|---|
-| Removed | `Competitive and noncompetitive leases` |
-| Inserted | `Leases, including leases for tar sand areas,` |
-
-### 30 U.S.C. § 188
-
-> in paragraph (1) by striking “as a competitive” and all that follows through the period and inserting “in the same manner as the original lease issued pursuant to section 17.”;
-
-| | |
-|---|---|
-| Removed | `as a competitive` |
-| Inserted | `in the same manner as the original lease issued pursuant to section 17.` |
-
-### 30 U.S.C. § 226
-
-> in paragraph (2), as redesignated, by striking “, applicable to leases issued under subsection 17(c) of this Act (30 U.S.C. 226(c)) except,” and inserting “, except”.
-
-| | |
-|---|---|
-| Removed | `, applicable to leases issued under subsection 17(c) of this Act (30 U.S.C. 226(c)) except,` |
-| Inserted | `, except` |
-
-### 30 U.S.C. § 188
-
-> Section 8721(b) of title 10, United States Code, is amended by striking “202–209” and inserting “202–208”.
-
-| | |
-|---|---|
-| Removed | `202–209` |
-| Inserted | `202–208` |
-
-### 30 U.S.C. § 188
-
-> Section 8735(a) of title 10, United States Code, is amended by striking “202–209” and inserting “202–208”.
-
-| | |
-|---|---|
-| Removed | `202–209` |
-| Inserted | `202–208` |
-
-### 30 U.S.C. § 195
-
-> in subsection (b), by striking “$500,000” and inserting “$1,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$500,000` |
-| Inserted | `$1,000,000` |
-
-### 30 U.S.C. § 195
-
-> in subsection (c), by striking “$100,000” and inserting “$250,000”.
-
-| | |
-|---|---|
-| Removed | `$100,000` |
-| Inserted | `$250,000` |
-
-### 30 U.S.C. § 1719
-
-> in subsection (a)(2), by striking “$500” and inserting “$1,500”;
-
-| | |
-|---|---|
-| Removed | `$500` |
-| Inserted | `$1,500` |
-
-### 30 U.S.C. § 1719
-
-> in subsection (b), by striking “$5,000”and inserting “$15,000”;
-
-| | |
-|---|---|
-| Removed | `$5,000` |
-| Inserted | `$15,000` |
-
-### 30 U.S.C. § 1719
-
-> in subsection (c)(3), by striking “$10,000” and inserting “$30,000”;
-
-| | |
-|---|---|
-| Removed | `$10,000` |
-| Inserted | `$30,000` |
-
-### 30 U.S.C. § 1719
-
-> in subsection (d)(3), by striking “$25,000” and inserting “$75,000”;
-
-| | |
-|---|---|
-| Removed | `$25,000` |
-| Inserted | `$75,000` |
-
-### 30 U.S.C. § 1719
-
-> in section 110, by striking “$50,000” and inserting “$150,000”.
-
-| | |
-|---|---|
-| Removed | `$50,000` |
-| Inserted | `$150,000` |
-
-### 43 U.S.C. § 1350
-
-> Section 24(c) of the Outer Continental Shelf Lands Act (43 U.S.C. 1350(c)) is amended by striking “$100,000” and inserting “$1,000,000”.
-
-| | |
-|---|---|
-| Removed | `$100,000` |
-| Inserted | `$1,000,000` |
-
-### 43 U.S.C. § 1350
-
-> Section 24(d) of the Outer Continental Shelf Lands Act (43 U.S.C. 1350(d)) is amended by striking “knowingly and willfully authorized, ordered, or carried out” and inserting “authorized, ordered, carried out, or through reckless disregard of the law caused”.
-
-| | |
-|---|---|
-| Removed | `knowingly and willfully authorized, ordered, or carried out` |
-| Inserted | `authorized, ordered, carried out, or through reckless disregard of the law caused` |
-
-### 30 U.S.C. § 1713
-
-> Section 103(b) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1713(b)) is amended by striking “6” and inserting “7”.
-
-| | |
-|---|---|
-| Removed | `6` |
-| Inserted | `7` |
-
-### 30 U.S.C. § 1721a
-
-> by striking “six-year” and inserting “four-year”; and
-
-| | |
-|---|---|
-| Removed | `six-year` |
-| Inserted | `four-year` |
-
-### 30 U.S.C. § 1721a
-
-> by striking “period shall” and inserting “period may”; and
-
-| | |
-|---|---|
-| Removed | `period shall` |
-| Inserted | `period may` |
-
-### 30 U.S.C. § 1724
-
-> in paragraph (1), in the heading, by striking “33-month” and inserting “48-month”;
-
-| | |
-|---|---|
-| Removed | `33-month` |
-| Inserted | `48-month` |
-
-### 30 U.S.C. § 1724
-
-> by striking “33 months” each place it appears and inserting “48 months”; and
-
-| | |
-|---|---|
-| Removed | `33 months` |
-| Inserted | `48 months` |
-
-### 30 U.S.C. § 1724
-
-> by striking “33-month” each place it appears and inserting “48-month”.
-
-| | |
-|---|---|
-| Removed | `33-month` |
-| Inserted | `48-month` |
-
-### 30 U.S.C. § 1721a
-
-> by striking “six-year” and inserting “four-year”; and
-
-| | |
-|---|---|
-| Removed | `six-year` |
-| Inserted | `four-year` |
-
-### 30 U.S.C. § 1721a
-
-> by striking “period shall” and inserting “period may”; and
-
-| | |
-|---|---|
-| Removed | `period shall` |
-| Inserted | `period may` |
-
-### 15 U.S.C. § 694b
+### 15 U.S.C. § 694c
 
 > in subparagraph (A), by striking “$6,500,000” and inserting “$10,000,000”; and
 
@@ -1104,7 +1050,7 @@ to guess them.
 | Removed | `$6,500,000` |
 | Inserted | `$10,000,000` |
 
-### 15 U.S.C. § 694b
+### 15 U.S.C. § 694c
 
 > in subsection (e)(2), by striking “$6,500,000” and inserting “the amount described in subparagraph (A) or (B) of subsection (a)(1), as applicable”; and
 
@@ -1112,15 +1058,6 @@ to guess them.
 |---|---|
 | Removed | `$6,500,000` |
 | Inserted | `the amount described in subparagraph (A) or (B) of subsection (a)(1), as applicable` |
-
-### 15 U.S.C. § 683
-
-> in section 303(b)(2)(B) (15 U.S.C. 683(b)(2)(B)), by striking “$350,000,000” and inserting “$400,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$350,000,000` |
-| Inserted | `$400,000,000` |
 
 ### 15 U.S.C. § 636
 
@@ -1167,68 +1104,14 @@ to guess them.
 | Removed | `paragraph (15) or (35)` |
 | Inserted | `paragraph (15), (35), or (40)` |
 
-### 29 U.S.C. § 2612
+### 26 U.S.C. § 6103
 
-> as if paragraph (3) were amended by striking “the spouse, son, daughter, parent, or next of kin” and inserting “a qualified family member of the employee (as defined in subparagraph (C)(ii))”.
-
-| | |
-|---|---|
-| Removed | `the spouse, son, daughter, parent, or next of kin` |
-| Inserted | `a qualified family member of the employee (as defined in subparagraph (C)(ii))` |
-
-### 42 U.S.C. § 653
-
-> Section 453(i)(2)(C) of such Act (42 U.S.C. 653(i)(2)(C)) is amended by striking “(j)(5)” and inserting “(j)(6)”.
+> Section 6103(p)(4) of such Code is amended by striking “or (22)” in the matter preceding subparagraph (A) and in subparagraph (F)(ii) and inserting “(22), or (23)”.
 
 | | |
 |---|---|
-| Removed | `(j)(5)` |
-| Inserted | `(j)(6)` |
-
-### 26 U.S.C. § 414
-
-> by striking “(B)(i) and” and inserting “(B)(i),” and by inserting after “subparagraph (B)(ii)” the following: “, and the $1,000 amount described in subparagraph (B)(iii)”,
-
-| | |
-|---|---|
-| Removed | `(B)(i) and` |
-| Inserted | `(B)(i),` |
-
-### 26 U.S.C. § 416
-
-> Section 416(g)(4)(H)(i) is amended by striking “or 401(k)(13)” and inserting “401(k)(13), or 401(k)(16)”.
-
-| | |
-|---|---|
-| Removed | `or 401(k)(13)` |
-| Inserted | `401(k)(13), or 401(k)(16)` |
-
-### 26 U.S.C. § 45E
-
-> Section 45E(b)(1) is amended by striking “2 taxable years” and inserting “4 taxable years”.
-
-| | |
-|---|---|
-| Removed | `2 taxable years` |
-| Inserted | `4 taxable years` |
-
-### 26 U.S.C. § 6211
-
-> Section 6211(b)(4) is amended by striking “and 7527A” and inserting “7527A, and 6433”.
-
-| | |
-|---|---|
-| Removed | `and 7527A` |
-| Inserted | `7527A, and 6433` |
-
-### 26 U.S.C. § 6433
-
-> Section 1324(b)(2) of title 31, United States Code, is amended by striking “or 7527A” and inserting “7527A, or 6433”.
-
-| | |
-|---|---|
-| Removed | `or 7527A` |
-| Inserted | `7527A, or 6433` |
+| Removed | `or (22)` |
+| Inserted | `(22), or (23)` |
 
 ### 19 U.S.C. § 2271
 
@@ -1536,60 +1419,6 @@ to guess them.
 | Removed | `gives adequate consideration to` |
 | Inserted | `is in` |
 
-### 26 U.S.C. § 133301
-
-> in paragraph (1), by striking “eligible institutions” and inserting “eligible entities”; and
-
-| | |
-|---|---|
-| Removed | `eligible institutions` |
-| Inserted | `eligible entities` |
-
-### 26 U.S.C. § 133301
-
-> in the matter preceding subparagraph (A), by striking “eligible institution” and inserting “eligible entity”; and
-
-| | |
-|---|---|
-| Removed | `eligible institution` |
-| Inserted | `eligible entity` |
-
-### 26 U.S.C. § 133301
-
-> by striking “$1,000,000” and inserting “$2,500,000”;
-
-| | |
-|---|---|
-| Removed | `$1,000,000` |
-| Inserted | `$2,500,000` |
-
-### 26 U.S.C. § 133301
-
-> by striking “(B)” and inserting “(B)(i) in the case of an eligible institution,”;
-
-| | |
-|---|---|
-| Removed | `(B)` |
-| Inserted | `(B)(i) in the case of an eligible institution,` |
-
-### 26 U.S.C. § 133301
-
-> by striking “eligible institution” each place it appears and inserting “eligible entity”; and
-
-| | |
-|---|---|
-| Removed | `eligible institution` |
-| Inserted | `eligible entity` |
-
-### 26 U.S.C. § 133301
-
-> In subsection (d), by striking “eligible institution” each place it appears and inserting “eligible entity”.
-
-| | |
-|---|---|
-| Removed | `eligible institution` |
-| Inserted | `eligible entity` |
-
 ### 19 U.S.C. § 2401a
 
 > in paragraph (2), by striking “(2)” and inserting “(2)(A)(i)”;
@@ -1637,48 +1466,57 @@ to guess them.
 
 ### 19 U.S.C. § 2271
 
-> Section 285 of the Trade Act of 1974 (19 U.S.C. 2271 note) is amended by striking “2021” each place it appears and inserting “2028”.
+> Section 285 of the Trade Act of 1974 (19 U.S.C. 2271 note) is amended by striking “2021” each place it appears and inserting “2025”.
 
 | | |
 |---|---|
 | Removed | `2021` |
-| Inserted | `2028` |
+| Inserted | `2025` |
 
 ### 19 U.S.C. § 2318
 
-> Section 246(b)(1) of the Trade Act of 1974 (19 U.S.C. 2318(b)(1)) is amended by striking “2021” and inserting “2028”.
+> Section 246(b)(1) of the Trade Act of 1974 (19 U.S.C. 2318(b)(1)) is amended by striking “2021” and inserting “2025”.
 
 | | |
 |---|---|
 | Removed | `2021` |
-| Inserted | `2028` |
+| Inserted | `2025` |
 
 ### 19 U.S.C. § 2317
 
-> in subsection (a), by striking “2021” and inserting “2028”; and
+> in subsection (a), by striking “2021” and inserting “2025”; and
 
 | | |
 |---|---|
 | Removed | `2021` |
-| Inserted | `2028` |
+| Inserted | `2025` |
+
+### 19 U.S.C. § 2317
+
+> Subsection (a) of section 279A of the Trade Act of 1974 (as redesignated) is amended by striking “$40,000,000” and all that follows through “December 31, 2010,” and inserting “$300,000,000 for each of the fiscal years 2022 through 2025”.
+
+| | |
+|---|---|
+| Removed | `$40,000,000” and all that follows through “December 31, 2010,` |
+| Inserted | `$300,000,000 for each of the fiscal years 2022 through 2025` |
 
 ### 19 U.S.C. § 2401g
 
-> by striking “$90,000,000” and inserting “$50,000,000”; and
+> by striking “$90,000,000” and inserting “$10,000,000”; and
 
 | | |
 |---|---|
 | Removed | `$90,000,000` |
-| Inserted | `$50,000,000` |
+| Inserted | `$10,000,000` |
 
 ### 19 U.S.C. § 2401g
 
-> by striking “2021” and inserting “2028”; and
+> by striking “2021” and inserting “2025”; and
 
 | | |
 |---|---|
 | Removed | `2021` |
-| Inserted | `2028` |
+| Inserted | `2025` |
 
 ### 42 U.S.C. § 1397m-1
 
@@ -1752,195 +1590,6 @@ to guess them.
 | Removed | `450b` |
 | Inserted | `5304` |
 
-### 42 U.S.C. § 1395yy
-
-> in subparagraph (A), by striking “and the data submitted under subsection (e)(6)” and inserting “, the data submitted under subsection (e)(6), and, during the period beginning with fiscal year 2024 and ending with fiscal year 2031, the resident assessment data described in section 1819(b)(3) and the direct care staffing information described in section 1128I(g)”; and
-
-| | |
-|---|---|
-| Removed | `and the data submitted under subsection (e)(6)` |
-| Inserted | `, the data submitted under subsection (e)(6), and, during the period beginning with fiscal year 2024 and ending with fiscal year 2031, the resident assessment data described in section 1819(b)(3) and the direct care staffing information described in section 1128I(g)` |
-
-### 42 U.S.C. § 1395w
-
-> in the flush matter at the end, by striking “paragraph (4)” and inserting “paragraphs (4) and (5)”.
-
-| | |
-|---|---|
-| Removed | `paragraph (4)` |
-| Inserted | `paragraphs (4) and (5)` |
-
-### 42 U.S.C. § 1395r
-
-> The last sentence of section 1839(a)(1) of the Social Security Act (42 U.S.C. 1395r(a)(1)), as added by section 134401(g)(1), is amended by striking “section 134401 (other than subsection (g))” and inserting “sections 134401 (other than subsection (g)), 134402 (other than subsection (d))”.
-
-| | |
-|---|---|
-| Removed | `section 134401 (other than subsection (g))` |
-| Inserted | `sections 134401 (other than subsection (g)), 134402 (other than subsection (d))` |
-
-### 42 U.S.C. § 1395w
-
-> Paragraph (4) of section 1844(a) of such Act (42 U.S.C. 1395w(a)), as added by section 134401(g)(2), is amended by striking “section 134401 (other than subsection (g))” and inserting “sections 134401 (other than subsection (g)), 134402 (other than subsection (d))”.
-
-| | |
-|---|---|
-| Removed | `section 134401 (other than subsection (g))` |
-| Inserted | `sections 134401 (other than subsection (g)), 134402 (other than subsection (d))` |
-
-### 42 U.S.C. § 1395x
-
-> Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)), as amended by section 134402(b)(1), is further amended by striking “, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens” and inserting “, including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens, if furnished before October 1, 2022, and including conventional eyeglasses or contact lenses (as described in section 1834(h)(8)), whether or not furnished subsequent to such a surgery, if furnished on or after October 1, 2022”.
-
-| | |
-|---|---|
-| Removed | `, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens` |
-| Inserted | `, including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens, if furnished before October 1, 2022, and including conventional eyeglasses or contact lenses (as described in section 1834(h)(8)), whether or not furnished subsequent to such a surgery, if furnished on or after October 1, 2022` |
-
-### 26 U.S.C. § 6431A
-
-> Section 1324(b)(2) of title 31, United States Code, is amended by striking “or 6431” and inserting “6431, or 6431A”.
-
-| | |
-|---|---|
-| Removed | `or 6431` |
-| Inserted | `6431, or 6431A` |
-
-### 26 U.S.C. § 149
-
-> by striking “to advance refund another bond.” in paragraph (1) and inserting “as part of an issue described in paragraph (2), (3), or (4).”,
-
-| | |
-|---|---|
-| Removed | `to advance refund another bond.` |
-| Inserted | `as part of an issue described in paragraph (2), (3), or (4).` |
-
-### 26 U.S.C. § 265
-
-> Subparagraphs (C)(i), (D)(i), and (D)(iii)(II) of section 265(b)(3) are each amended by striking “$10,000,000” and inserting “$30,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$30,000,000` |
-
-### 26 U.S.C. § 144
-
-> in subparagraph (A)(i), by striking “$10,000,000” and inserting “$30,000,000”, and
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$30,000,000` |
-
-### 26 U.S.C. § 144
-
-> in the heading, by striking “$10,000,000” and inserting “$30,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$30,000,000` |
-
-### 26 U.S.C. § 147
-
-> Section 147(c)(2)(A) is amended by striking “$450,000” and inserting “$552,500”.
-
-| | |
-|---|---|
-| Removed | `$450,000` |
-| Inserted | `$552,500` |
-
-### 26 U.S.C. § 144
-
-> Section 144(a)(11)(A) is amended by striking “$250,000” and inserting “$552,500”.
-
-| | |
-|---|---|
-| Removed | `$250,000` |
-| Inserted | `$552,500` |
-
-### 26 U.S.C. § 144
-
-> by striking “after 2008, the dollar amount in subparagraph (A) shall be increased” and inserting “after 2021, the dollar amounts in subparagraph (A) and section 144(a)(11)(A) shall each be increased”, and
-
-| | |
-|---|---|
-| Removed | `after 2008, the dollar amount in subparagraph (A) shall be increased` |
-| Inserted | `after 2021, the dollar amounts in subparagraph (A) and section 144(a)(11)(A) shall each be increased` |
-
-### 26 U.S.C. § 144
-
-> in clause (ii), by striking “2007” and inserting “2020”.
-
-| | |
-|---|---|
-| Removed | `2007` |
-| Inserted | `2020` |
-
-### 26 U.S.C. § 147
-
-> Section 147(c)(2)(E) is amended by striking “median” and inserting “average”.
-
-| | |
-|---|---|
-| Removed | `median` |
-| Inserted | `average` |
-
-### 26 U.S.C. § 146
-
-> Section 146(g) is amended by striking “and” at the end of paragraph (3), striking the period at the end of paragraph (4) and inserting “, and”, and inserting after paragraph (4) the following new paragraph:
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `, and` |
-
-### 2 U.S.C. § 905
-
-> Section 1324(b)(2) of title 31, United States Code, as amended by the preceding provisions of this Act, is amended by striking “or 6431A” and inserting “6431A, or 6431B”.
-
-| | |
-|---|---|
-| Removed | `or 6431A` |
-| Inserted | `6431A, or 6431B` |
-
-### 26 U.S.C. § 47
-
-> Section 47(a)(2) is amended by striking “20 percent” and inserting “the applicable percentage”.
-
-| | |
-|---|---|
-| Removed | `20 percent` |
-| Inserted | `the applicable percentage` |
-
-### 26 U.S.C. § 139
-
-> Section 139(d) is amended by striking “and qualified” and inserting “, qualified catastrophe mitigation payments, and qualified”.
-
-| | |
-|---|---|
-| Removed | `and qualified` |
-| Inserted | `, qualified catastrophe mitigation payments, and qualified` |
-
-### 26 U.S.C. § 139
-
-> Section 139(i) (as redesignated by subsection (a)) is amended by striking “or qualified” and inserting “, qualified catastrophe mitigation payment, or qualified”.
-
-| | |
-|---|---|
-| Removed | `or qualified` |
-| Inserted | `, qualified catastrophe mitigation payment, or qualified` |
-
-### 26 U.S.C. § 1016
-
-> Section 38(b), as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (33), by striking the period at the end of paragraph (34) and inserting “, plus”, and by adding at the end the following new paragraph:
-
-| | |
-|---|---|
-| Removed | `plus` |
-| Inserted | `, plus` |
-
 ### 26 U.S.C. § 42
 
 > Section 42(b)(4)(C) is amended by striking “(h)(7)” and inserting “(h)(8)”.
@@ -1950,16 +1599,16 @@ to guess them.
 | Removed | `(h)(7)` |
 | Inserted | `(h)(8)` |
 
-### 26 U.S.C. § 135503
+### 26 U.S.C. § 135403
 
-> Subparagraph (F) of section 42(h)(7), as redesignated by section 135503, is amended by striking “the nonlow-income portion” and all that follows and inserting “the nonlow-income portion and the low-income portion of the building for fair market value (determined by the housing credit agency by taking into account the rent restrictions required for the low-income portion of the building to continue to meet the standards of paragraphs (1) and (2) of subsection (g)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph.”.
+> Subparagraph (F) of section 42(h)(7), as redesignated by section 135403, is amended by striking “the nonlow-income portion” and all that follows and inserting “the nonlow-income portion and the low-income portion of the building for fair market value (determined by the housing credit agency by taking into account the rent restrictions required for the low-income portion of the building to continue to meet the standards of paragraphs (1) and (2) of subsection (g)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph.”.
 
 | | |
 |---|---|
 | Removed | `the nonlow-income portion` |
 | Inserted | `the nonlow-income portion and the low-income portion of the building for fair market value (determined by the housing credit agency by taking into account the rent restrictions required for the low-income portion of the building to continue to meet the standards of paragraphs (1) and (2) of subsection (g)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph.` |
 
-### 26 U.S.C. § 135503
+### 26 U.S.C. § 135403
 
 > Subclause (II) of section 42(h)(7)(E)(i), as so redesignated and as amended by subsection (a), is further amended by striking “subparagraph (I)” and inserting “subparagraph (H)”.
 
@@ -1995,32 +1644,14 @@ to guess them.
 | Removed | `the property` |
 | Inserted | `the property or all of the partnership interests (other than interests of the person exercising such option or a related party thereto (within the meaning of section 267(b) or 707(b)(1))) relating to the property` |
 
-### 26 U.S.C. § 42
-
-> Subparagraph (B) of section 42(i)(7) is amended by striking “the sum of” and all that follows and inserting “the principal amount of outstanding indebtedness secured by the building (other than indebtedness incurred within the 5-year period ending on the date of the sale to the tenants). In the case of a purchase of a partnership interest, the minimum purchase price is an amount not less than such interest's ratable share of the amount determined under the first sentence of this subparagraph.”.
-
-| | |
-|---|---|
-| Removed | `the sum of` |
-| Inserted | `the principal amount of outstanding indebtedness secured by the building (other than indebtedness incurred within the 5-year period ending on the date of the sale to the tenants). In the case of a purchase of a partnership interest, the minimum purchase price is an amount not less than such interest's ratable share of the amount determined under the first sentence of this subparagraph.` |
-
-### 26 U.S.C. § 42
-
-> Section 42(d)(5)(B)(v) is amended by striking “The preceding sentence” and inserting “In the case of determinations of housing credit dollar amount after December 31, 2028, the preceding sentence”.
-
-| | |
-|---|---|
-| Removed | `The preceding sentence` |
-| Inserted | `In the case of determinations of housing credit dollar amount after December 31, 2028, the preceding sentence` |
-
 ### 26 U.S.C. § 45D
 
-> Section 45D(f)(4), as added by the preceding provisions of this Act, is amended by striking “the dollar amount paragraph (1)(H) shall be increased” and inserting “the dollar amounts in paragraphs (1)(H) and (5)(A) shall each be increased”.
+> by striking “the aggregate amount allocated” and inserting “the amount of such limitation allocated by the Secretary”.
 
 | | |
 |---|---|
-| Removed | `the dollar amount paragraph (1)(H) shall be increased` |
-| Inserted | `the dollar amounts in paragraphs (1)(H) and (5)(A) shall each be increased` |
+| Removed | `the aggregate amount allocated` |
+| Inserted | `the amount of such limitation allocated by the Secretary` |
 
 ### 26 U.S.C. § 45D
 
@@ -2033,48 +1664,102 @@ to guess them.
 
 ### 26 U.S.C. § 38
 
-> Subsection (b) of section 38, as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting “, plus”, and by adding at the end the following new paragraph:
+> Subsection (b) of section 38, as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (34), by striking the period at the end of paragraph (35) and inserting “, plus”, and by adding at the end the following new paragraph:
 
 | | |
 |---|---|
 | Removed | `plus` |
 | Inserted | `, plus` |
 
+### 26 U.S.C. § 139
+
+> Section 139(d) is amended by striking “and qualified” and inserting “, qualified catastrophe mitigation payments, and qualified”.
+
+| | |
+|---|---|
+| Removed | `and qualified` |
+| Inserted | `, qualified catastrophe mitigation payments, and qualified` |
+
+### 26 U.S.C. § 139
+
+> Section 139(i) (as redesignated by subsection (a)) is amended by striking “or qualified” and inserting “, qualified catastrophe mitigation payment, or qualified”.
+
+| | |
+|---|---|
+| Removed | `or qualified` |
+| Inserted | `, qualified catastrophe mitigation payment, or qualified` |
+
 ### 26 U.S.C. § 45
 
-> The following provisions of section 45(d) are each amended by striking “January 1, 2022” each place it appears and inserting “January 1, 2034”:
+> The following provisions of section 45(d) are each amended by striking “January 1, 2022” each place it appears and inserting “January 1, 2027”:
 
 | | |
 |---|---|
 | Removed | `January 1, 2022` |
-| Inserted | `January 1, 2034` |
+| Inserted | `January 1, 2027` |
 
 ### 26 U.S.C. § 45
 
-> Section 45(d)(4)(A) is amended by striking “is placed in service before January 1, 2006” and inserting “the construction of which begins before January 1, 2034.”.
+> Section 45 is amended by striking “1.5 cents” each place it appears and inserting “0.3 cents”.
+
+| | |
+|---|---|
+| Removed | `1.5 cents` |
+| Inserted | `0.3 cents` |
+
+### 26 U.S.C. § 45
+
+> Section 45(d)(4)(A) is amended by striking “is placed in service before January 1, 2006” and inserting “the construction of which begins before January 1, 2027.”.
 
 | | |
 |---|---|
 | Removed | `is placed in service before January 1, 2006` |
-| Inserted | `the construction of which begins before January 1, 2034.` |
+| Inserted | `the construction of which begins before January 1, 2027.` |
 
 ### 26 U.S.C. § 48
 
-> Section 48(a)(5)(C)(ii) is amended by striking “January 1, 2022” and inserting “January 1, 2034”.
+> Section 48(a)(5)(C)(ii) is amended by striking “January 1, 2022” and inserting “January 1, 2027”.
 
 | | |
 |---|---|
 | Removed | `January 1, 2022` |
-| Inserted | `January 1, 2034` |
+| Inserted | `January 1, 2027` |
 
 ### 26 U.S.C. § 45
 
-> Section 45(d)(1) is amended by striking “January 1, 2022” and inserting “January 1, 2034”.
+> Section 45(d)(1) is amended by striking “January 1, 2022” and inserting “January 1, 2027”.
 
 | | |
 |---|---|
 | Removed | `January 1, 2022` |
-| Inserted | `January 1, 2034` |
+| Inserted | `January 1, 2027` |
+
+### 26 U.S.C. § 45
+
+> Section 45(b)(2) is amended by striking “If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent” and inserting “If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent”.
+
+| | |
+|---|---|
+| Removed | `If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent` |
+| Inserted | `If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent` |
+
+### 26 U.S.C. § 45
+
+> Section 45(b)(4)(A) is amended by striking “last sentence” and inserting “last two sentences”.
+
+| | |
+|---|---|
+| Removed | `last sentence` |
+| Inserted | `last two sentences` |
+
+### 26 U.S.C. § 48
+
+> The following provisions of section 48 are each amended by striking “January 1, 2024” each place it appears and inserting “January 1, 2027”:
+
+| | |
+|---|---|
+| Removed | `January 1, 2024` |
+| Inserted | `January 1, 2027` |
 
 ### 26 U.S.C. § 48
 
@@ -2087,21 +1772,39 @@ to guess them.
 
 ### 26 U.S.C. § 48
 
-> Section 48(a)(2)(A)(i)(II) is amended by striking “January 1, 2024” and inserting “January 1, 2034”.
+> in clause (i), by striking “30 percent” and inserting “6 percent”, and
 
 | | |
 |---|---|
-| Removed | `January 1, 2024` |
-| Inserted | `January 1, 2034` |
+| Removed | `30 percent` |
+| Inserted | `6 percent` |
 
 ### 26 U.S.C. § 48
 
-> Paragraphs (2)(A)(i)(II), (6)(A), and (6)(B) of section 48(a) are each amended by striking “paragraph (3)(A)(i)” and inserting “clause (i), (iii), or (vii) of paragraph (3)(A)”.
+> in clause (ii), by striking “10 percent” and inserting “2 percent”, and
+
+| | |
+|---|---|
+| Removed | `10 percent` |
+| Inserted | `2 percent` |
+
+### 26 U.S.C. § 48
+
+> in paragraph (5)(A)(ii), by striking “30 percent” and inserting “6 percent”.
+
+| | |
+|---|---|
+| Removed | `30 percent` |
+| Inserted | `6 percent` |
+
+### 26 U.S.C. § 48
+
+> Section 48(a)(2)(A)(i)(II) is amended by striking “paragraph (3)(A)(i)” and inserting “clause (i) or (iii) of paragraph (3)(A)”.
 
 | | |
 |---|---|
 | Removed | `paragraph (3)(A)(i)` |
-| Inserted | `clause (i), (iii), or (vii) of paragraph (3)(A)` |
+| Inserted | `clause (i) or (iii) of paragraph (3)(A)` |
 
 ### 26 U.S.C. § 48
 
@@ -2112,41 +1815,32 @@ to guess them.
 | Removed | `January 1, 2024` |
 | Inserted | `January 1, 2034` |
 
+### 26 U.S.C. § 7701
+
+> in subparagraph (A)(i), by striking “or” at the end of subclause (II), by striking “and” at the end of subclause (III) and inserting “or”, and by adding at the end the following new subclause:
+
+| | |
+|---|---|
+| Removed | `or” at the end of subclause (II), by striking “and` |
+| Inserted | `or` |
+
+### 26 U.S.C. § 7701
+
+> in paragraph (4), by striking “or water treatment works facility” and inserting “water treatment facility, or storage facility”.
+
+| | |
+|---|---|
+| Removed | `or water treatment works facility` |
+| Inserted | `water treatment facility, or storage facility` |
+
 ### 26 U.S.C. § 50
 
-> Section 50(a)(2)(E) is amended by striking “or 48C(b)(2)” and inserting “48C(b)(2), or 48D”.
+> Section 50(a)(2)(E) is amended by striking “or 48C(b)(2)” and inserting “48C(b)(2), or 48D(e)”.
 
 | | |
 |---|---|
 | Removed | `or 48C(b)(2)` |
-| Inserted | `48C(b)(2), or 48D` |
-
-### 26 U.S.C. § 46
-
-> Section 46 is amended by striking “and” at the end of paragraph (6), by striking the period at the end of paragraph (7) and inserting “, and”, and by adding at the end the following new paragraph:
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `, and` |
-
-### 26 U.S.C. § 50
-
-> Section 50(a)(2)(E) is amended by striking “ or 48D” and inserting “48D, or 48E(b)(2)”.
-
-| | |
-|---|---|
-| Removed | `or 48D` |
-| Inserted | `48D, or 48E(b)(2)` |
-
-### 26 U.S.C. § 45Q
-
-> Section 45Q(d)(1) is amended by striking “January 1, 2026” and inserting “January 1, 2032”.
-
-| | |
-|---|---|
-| Removed | `January 1, 2026` |
-| Inserted | `January 1, 2032` |
+| Inserted | `48C(b)(2), or 48D(e)` |
 
 ### 26 U.S.C. § 45Q
 
@@ -2159,79 +1853,97 @@ to guess them.
 
 ### 26 U.S.C. § 45Q
 
-> Section 45Q(b)(1)(C), as redesignated by subparagraph (A), is amended by striking “subparagraph (A)” and inserting “subparagraph (A) or (B)”.
+> Section 45Q(b)(1)(D), as redesignated by subparagraph (A), is amended by striking “subparagraph (A)” and inserting “subparagraph (A), (B), or (C)”.
 
 | | |
 |---|---|
 | Removed | `subparagraph (A)` |
-| Inserted | `subparagraph (A) or (B)` |
+| Inserted | `subparagraph (A), (B), or (C)` |
+
+### 26 U.S.C. § 45Q
+
+> in subclause (I), by striking “$50” and inserting “the amount determined under clause (i)(I) with respect to the qualified facility”, and
+
+| | |
+|---|---|
+| Removed | `$50` |
+| Inserted | `the amount determined under clause (i)(I) with respect to the qualified facility` |
+
+### 26 U.S.C. § 45Q
+
+> in subclause (II), by striking “$35” and inserting “the amount determined under clause (i)(II) with respect to the qualified facility”.
+
+| | |
+|---|---|
+| Removed | `$35` |
+| Inserted | `the amount determined under clause (i)(II) with respect to the qualified facility` |
 
 ### 26 U.S.C. § 40A
 
-> Section 40A(g) is amended by striking “December 31, 2022” and inserting “December 31, 2031”.
+> Section 40A(g) is amended by striking “December 31, 2022” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2022` |
-| Inserted | `December 31, 2031` |
+| Inserted | `December 31, 2026` |
 
 ### 26 U.S.C. § 6426
 
-> Section 6426(c)(6) is amended by striking “December 31, 2022” and inserting “December 31, 2031”.
+> Section 6426(c)(6) is amended by striking “December 31, 2022” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2022` |
-| Inserted | `December 31, 2031` |
+| Inserted | `December 31, 2026` |
 
 ### 26 U.S.C. § 6427
 
-> Section 6427(e)(6)(B) is amended by striking “December 31, 2022” and inserting “December 31, 2031”.
+> Section 6427(e)(6)(B) is amended by striking “December 31, 2022” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2022` |
-| Inserted | `December 31, 2031` |
+| Inserted | `December 31, 2026` |
 
 ### 26 U.S.C. § 6426
 
-> Section 6426(d)(5) is amended by striking “December 31, 2021” and inserting “December 31, 2031”.
+> Section 6426(d)(5) is amended by striking “December 31, 2021” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2021` |
-| Inserted | `December 31, 2031` |
+| Inserted | `December 31, 2026` |
 
 ### 26 U.S.C. § 6426
 
-> Section 6426(e)(3) is amended by striking “December 31, 2021” and inserting “December 31, 2031”.
+> Section 6426(e)(3) is amended by striking “December 31, 2021” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2021` |
-| Inserted | `December 31, 2031` |
+| Inserted | `December 31, 2026` |
 
 ### 26 U.S.C. § 6427
 
-> Section 6427(e)(6)(C) is amended by striking “December 31, 2021” and inserting “December 31, 2031”.
+> Section 6427(e)(6)(C) is amended by striking “December 31, 2021” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `December 31, 2021` |
-| Inserted | `December 31, 2031` |
+| Inserted | `December 31, 2026` |
 
 ### 26 U.S.C. § 40
 
-> Section 40(b)(6)(J)(i) is amended by striking “2022” and inserting “2032”.
+> Section 40(b)(6)(J)(i) is amended by striking “2022” and inserting “2027”.
 
 | | |
 |---|---|
 | Removed | `2022` |
-| Inserted | `2032` |
+| Inserted | `2027` |
 
 ### 26 U.S.C. § 38
 
-> Section 38(b) is amended by striking “plus” at the end of paragraph (37), by striking the period at the end of paragraph (38) and inserting “, plus”, and by inserting after paragraph (38) the following new paragraph:
+> Section 38(b) is amended by striking “plus” at the end of paragraph (33), by striking the period at the end of paragraph (34) and inserting “, plus”, and by inserting after paragraph (34) the following new paragraph:
 
 | | |
 |---|---|
@@ -2282,15 +1994,6 @@ to guess them.
 |---|---|
 | Removed | `December 31, 2021` |
 | Inserted | `December 31, 2031` |
-
-### 26 U.S.C. § 25C
-
-> Section 25C(a)(1) is amended by striking “10 percent” and inserting “30 percent”.
-
-| | |
-|---|---|
-| Removed | `10 percent` |
-| Inserted | `30 percent` |
 
 ### 26 U.S.C. § 25C
 
@@ -2348,12 +2051,12 @@ to guess them.
 
 ### 26 U.S.C. § 179D
 
-> Section 179D(c)(2) is amended by striking “the date that is 2 years before the date that construction of such property begins” and inserting “the date that is 2 years before the date such property is placed into service”.
+> Section 179D(d)(2) is amended by striking “not later than the date that is 2 years before the date that construction of such property begins” and inserting “not later than the date that is 4 years before the date such property is placed in service”.
 
 | | |
 |---|---|
-| Removed | `the date that is 2 years before the date that construction of such property begins` |
-| Inserted | `the date that is 2 years before the date such property is placed into service` |
+| Removed | `not later than the date that is 2 years before the date that construction of such property begins` |
+| Inserted | `not later than the date that is 4 years before the date such property is placed in service` |
 
 ### 26 U.S.C. § 45L
 
@@ -2381,6 +2084,24 @@ to guess them.
 |---|---|
 | Removed | `In general` |
 | Inserted | `Energy conservation measure` |
+
+### 26 U.S.C. § 1016
+
+> Section 38(b), as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting “, plus”, and by adding at the end the following new paragraph:
+
+| | |
+|---|---|
+| Removed | `plus` |
+| Inserted | `, plus` |
+
+### 26 U.S.C. § 36C
+
+> Section 36C(g)(3)(iii), as added by subsection (a), is amended by striking “, and (k)” and inserting “(k), and (l)”.
+
+| | |
+|---|---|
+| Removed | `, and (k)` |
+| Inserted | `(k), and (l)` |
 
 ### 26 U.S.C. § 1016
 
@@ -2472,18 +2193,9 @@ to guess them.
 | Removed | `reimbursement` |
 | Inserted | `benefit` |
 
-### 26 U.S.C. § 38
-
-> Section 38(b) is amended by striking “plus” at the end of paragraph (39), by striking the period at the end of paragraph (40) and inserting “, plus”, and by adding at the end the following new paragraph:
-
-| | |
-|---|---|
-| Removed | `plus` |
-| Inserted | `, plus` |
-
 ### 26 U.S.C. § 1016
 
-> Section 1016(a) is amended by striking “and” at the end of paragraph (37), by striking the period at the end of paragraph (38) and inserting “, and”, and by adding at the end the following new paragraph:
+> Section 1016(a) is amended by striking “and” at the end of paragraph (38), by striking the period at the end of paragraph (39) and inserting “, and”, and by adding at the end the following new paragraph:
 
 | | |
 |---|---|
@@ -2510,21 +2222,39 @@ to guess them.
 
 ### 26 U.S.C. § 48C
 
-> by striking “new qualified plug-in electric drive motor vehicles (as defined by section 30D)” and inserting “vehicles described in section 36C, 45Y, and 36E”, and
+> by striking “new qualified plug-in electric drive motor vehicles (as defined by section 30D)” and inserting “vehicles described in sections 36C and 45Y, and bicycles described in section 36E”, and
 
 | | |
 |---|---|
 | Removed | `new qualified plug-in electric drive motor vehicles (as defined by section 30D)` |
-| Inserted | `vehicles described in section 36C, 45Y, and 36E` |
+| Inserted | `vehicles described in sections 36C and 45Y, and bicycles described in section 36E` |
+
+### 26 U.S.C. § 48C
+
+> 48C(f), as redesignated by this section, is amended by striking “or 48B” and inserting “48B, 48F, 45Q, or 45X”.
+
+| | |
+|---|---|
+| Removed | `or 48B` |
+| Inserted | `48B, 48F, 45Q, or 45X` |
 
 ### 26 U.S.C. § 280C
 
-> Section 38(b), as amended by the preceding provisions of this Act, is further amended by striking “plus” at the end of paragraph (40), by striking the period at the end of paragraph (41) and inserting “, plus”, and by adding at the end the following new paragraph:
+> Section 38(b), as amended by the preceding provisions of this Act, is further amended by striking “plus” at the end of paragraph (36), by striking the period at the end of paragraph (37) and inserting “, plus”, and by adding at the end the following new paragraph:
 
 | | |
 |---|---|
 | Removed | `plus` |
 | Inserted | `, plus` |
+
+### 26 U.S.C. § 50
+
+> Section 50(a)(2)(E) is amended by striking “or 48D(e)” and inserting “48D(e), or 48E(c)(1)”.
+
+| | |
+|---|---|
+| Removed | `or 48D(e)` |
+| Inserted | `48D(e), or 48E(c)(1)` |
 
 ### 26 U.S.C. § 4611
 
@@ -2543,6 +2273,15 @@ to guess them.
 |---|---|
 | Removed | `December 31, 1995` |
 | Inserted | `December 31, 2031` |
+
+### 26 U.S.C. § 50
+
+> Section 50(a)(2)(E) is amended by striking “or 48E(c)(1)” and inserting “48E(c)(1), or 48F(e)”.
+
+| | |
+|---|---|
+| Removed | `or 48E(c)(1)` |
+| Inserted | `48E(c)(1), or 48F(e)` |
 
 ### 26 U.S.C. § 24
 
@@ -2607,158 +2346,50 @@ to guess them.
 | Removed | `December 31, 2021` |
 | Inserted | `December 31, 2022` |
 
-### 26 U.S.C. § 26
+### 26 U.S.C. § 7527A
 
-> Section 26(b)(2) is amended by striking “and” at the end of subparagraph (Y), by striking the period at the end of subparagraph (Z) and inserting “, and”, and by adding at the end the following new subparagraph:
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `, and` |
-
-### 26 U.S.C. § 6213
-
-> by striking “subsection (g)(1) thereof” and inserting “section 24(g)(1) or section 24A(f)(1), respectively”.
+> in subparagraph (B), by striking “periodic payment” both places it appears and inserting “monthly payment”.
 
 | | |
 |---|---|
-| Removed | `subsection (g)(1) thereof` |
-| Inserted | `section 24(g)(1) or section 24A(f)(1), respectively` |
+| Removed | `periodic payment` |
+| Inserted | `monthly payment` |
 
-### 26 U.S.C. § 21
+### 26 U.S.C. § 7527A
 
-> by striking “$3,000” in paragraph (1) and inserting “$8,000”, and
-
-| | |
-|---|---|
-| Removed | `$3,000` |
-| Inserted | `$8,000` |
-
-### 26 U.S.C. § 21
-
-> by striking “$6,000” in paragraph (2) and inserting “$16,000”.
+> Section 7527A(c)(2) is amended by striking “subsection (b)(3)(B)” and inserting “subsection (b)(3)”.
 
 | | |
 |---|---|
-| Removed | `$6,000` |
-| Inserted | `$16,000` |
+| Removed | `subsection (b)(3)(B)` |
+| Inserted | `subsection (b)(3)` |
 
-### 26 U.S.C. § 21
+### 26 U.S.C. § 7527A
 
-> by striking “35 percent” and inserting “50 percent”, and
-
-| | |
-|---|---|
-| Removed | `35 percent` |
-| Inserted | `50 percent` |
-
-### 26 U.S.C. § 21
-
-> by striking “$15,000” and inserting “$125,000”.
+> in subparagraph (A), by striking “The advance” and inserting “Except as provided in subparagraph (D), the advance”, and
 
 | | |
 |---|---|
-| Removed | `$15,000` |
-| Inserted | `$125,000` |
+| Removed | `The advance` |
+| Inserted | `Except as provided in subparagraph (D), the advance` |
 
-### 26 U.S.C. § 21
+### 26 U.S.C. § 24
 
-> Section 21(d)(2) is amended by striking “of not less than—” and all that follows through “In the case of” and inserting “of not less than 1/12 of the dollar amount in effect under paragraph (1) or (2) of subsection (c) (whichever is applicable to the taxpayer for the taxable year). In the case of”.
-
-| | |
-|---|---|
-| Removed | `of not less than—” and all that follows through “In the case of` |
-| Inserted | `of not less than 1/12 of the dollar amount in effect under paragraph (1) or (2) of subsection (c) (whichever is applicable to the taxpayer for the taxable year). In the case of` |
-
-### 26 U.S.C. § 21
-
-> Section 21(a)(2) is amended by striking “20 percent” and inserting “the phaseout percentage”.
+> Section 24(h)(1) is amended by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”.
 
 | | |
 |---|---|
-| Removed | `20 percent` |
-| Inserted | `the phaseout percentage` |
-
-### 26 U.S.C. § 21
-
-> by striking “The Secretary” and inserting “With respect to taxable years beginning in or with calendar years after 2020, the Secretary”, and
-
-| | |
-|---|---|
-| Removed | `The Secretary` |
-| Inserted | `With respect to taxable years beginning in or with calendar years after 2020, the Secretary` |
-
-### 26 U.S.C. § 21
-
-> by striking “The Secretary” and inserting “With respect to taxable years beginning in or with calendar years after 2020, the Secretary”, and
-
-| | |
-|---|---|
-| Removed | `The Secretary` |
-| Inserted | `With respect to taxable years beginning in or with calendar years after 2020, the Secretary` |
-
-### 26 U.S.C. § 21
-
-> in paragraph (3), by striking “in or with 2021” and inserting “after December 31, 2020”.
-
-| | |
-|---|---|
-| Removed | `in or with 2021` |
-| Inserted | `after December 31, 2020` |
-
-### 26 U.S.C. § 129
-
-> Section 129(a)(2)(A) is amended by striking “$5,000 ($2,500” and inserting “$10,500 (half such dollar amount”.
-
-| | |
-|---|---|
-| Removed | `$5,000 ($2,500` |
-| Inserted | `$10,500 (half such dollar amount` |
+| Removed | `paragraphs (2) through (7)` |
+| Inserted | `paragraphs (2) through (6)` |
 
 ### 26 U.S.C. § 32
 
-> Section 32(c)(1)(A)(ii)(II) is amended by striking “age 25” and inserting “the applicable minimum age”.
+> Section 32(n) is amended by striking “January 1, 2022” and inserting “January 1, 2023”.
 
 | | |
 |---|---|
-| Removed | `age 25` |
-| Inserted | `the applicable minimum age` |
-
-### 26 U.S.C. § 32
-
-> The table contained in section 32(b)(1) is amended by striking “7.65” each place it appears therein and inserting “15.3”.
-
-| | |
-|---|---|
-| Removed | `7.65` |
-| Inserted | `15.3` |
-
-### 26 U.S.C. § 32
-
-> by striking “$4,220” and inserting “$9,820”, and
-
-| | |
-|---|---|
-| Removed | `$4,220` |
-| Inserted | `$9,820` |
-
-### 26 U.S.C. § 32
-
-> by striking “$5,280” and inserting “$11,610”.
-
-| | |
-|---|---|
-| Removed | `$5,280` |
-| Inserted | `$11,610` |
-
-### 26 U.S.C. § 32
-
-> by striking “(2021 in the case of the dollar amount in subsection (i)(1))” and inserting “(2021 in the case of the $9,820 and $11,610 amounts in subsection (b)(2)(A) and the $10,000 amount in subsection (i)(1))”,
-
-| | |
-|---|---|
-| Removed | `(2021 in the case of the dollar amount in subsection (i)(1))` |
-| Inserted | `(2021 in the case of the $9,820 and $11,610 amounts in subsection (b)(2)(A) and the $10,000 amount in subsection (i)(1))` |
+| Removed | `January 1, 2022` |
+| Inserted | `January 1, 2023` |
 
 ### 26 U.S.C. § 7530
 
@@ -2789,57 +2420,39 @@ to guess them.
 
 ### 26 U.S.C. § 36B
 
-> in clause (i)(II), by striking “9.5 percent” and inserting “8.5 percent”, and
+> by striking “in 2021 or 2022” and inserting “after December 31, 2020, and before January 1, 2026”, and
 
 | | |
 |---|---|
-| Removed | `9.5 percent` |
-| Inserted | `8.5 percent` |
+| Removed | `in 2021 or 2022` |
+| Inserted | `after December 31, 2020, and before January 1, 2026` |
 
 ### 26 U.S.C. § 36B
 
-> in subparagraph (C)(ii), by striking “9.5 percent” and inserting “8.5 percent”, and
+> by striking “and 2022” in the heading thereof and inserting “through 2025”.
 
 | | |
 |---|---|
-| Removed | `9.5 percent` |
-| Inserted | `8.5 percent` |
-
-### 42 U.S.C. § 18071
-
-> in subparagraph (A), by striking “this subsection” and inserting “paragraph (1) or (2)”; and
-
-| | |
-|---|---|
-| Removed | `this subsection` |
-| Inserted | `paragraph (1) or (2)` |
-
-### 42 U.S.C. § 18071
-
-> in subparagraph (B), by striking “this section” and inserting “paragraphs (1) and (2)”; and
-
-| | |
-|---|---|
-| Removed | `this section` |
-| Inserted | `paragraphs (1) and (2)` |
+| Removed | `and 2022` |
+| Inserted | `through 2025` |
 
 ### 26 U.S.C. § 36B
 
-> Section 36B(g)(1) is amended by striking “during 2021,” and inserting “after December 31, 2020, and before January 1, 2026,”.
+> Section 36B(g)(1) is amended by striking “during 2021,” and inserting “after December 31, 2020, and before January 1, 2023,”.
 
 | | |
 |---|---|
 | Removed | `during 2021,` |
-| Inserted | `after December 31, 2020, and before January 1, 2026,` |
+| Inserted | `after December 31, 2020, and before January 1, 2023,` |
 
 ### 26 U.S.C. § 36B
 
-> Section 36B(g)(1)(B) is amended by striking “133 percent” and inserting “150 percent”.
+> Section 36B(g)(1)(B) is amended by striking “133 percent” and inserting “150 percent (133 percent in the case of any week beginning during 2021)”.
 
 | | |
 |---|---|
 | Removed | `133 percent` |
-| Inserted | `150 percent` |
+| Inserted | `150 percent (133 percent in the case of any week beginning during 2021)` |
 
 ### 26 U.S.C. § 35
 
@@ -2868,50 +2481,95 @@ to guess them.
 | Removed | `, or the` |
 | Inserted | `, the` |
 
+### 42 U.S.C. § 1395ww
+
+> in paragraph (4)(F)(i), by striking “and (9)” and inserting “(9), and (10)”;
+
+| | |
+|---|---|
+| Removed | `and (9)` |
+| Inserted | `(9), and (10)` |
+
+### 42 U.S.C. § 1395ww
+
+> in paragraph (4)(H)(i), by striking “and (9)” and inserting “(9), and (10)”; and
+
+| | |
+|---|---|
+| Removed | `and (9)` |
+| Inserted | `(9), and (10)` |
+
+### 42 U.S.C. § 1395ww
+
+> in clause (v), in the third sentence, by striking “and (h)(9)” and inserting “(h)(9), and (h)(10)”;
+
+| | |
+|---|---|
+| Removed | `and (h)(9)` |
+| Inserted | `(h)(9), and (h)(10)` |
+
 ### 26 U.S.C. § 38
 
-> Subsection (b) of section 38, as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (38), by striking the period at the end of paragraph (39) and inserting “, plus”, and by adding at the end the following new paragraph:
+> Subsection (b) of section 38, as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (41), by striking the period at the end of paragraph (42) and inserting “, plus”, and by adding at the end the following new paragraph:
 
 | | |
 |---|---|
 | Removed | `plus` |
 | Inserted | `, plus` |
 
-### 26 U.S.C. § 243
+### 26 U.S.C. § 164
 
-> Section 243(a)(1) is amended by striking “50 percent” and inserting “60 percent”.
-
-| | |
-|---|---|
-| Removed | `50 percent` |
-| Inserted | `60 percent` |
-
-### 26 U.S.C. § 243
-
-> prior to amendment by subparagraph (B), by striking “65 percent” and inserting “72.5 percent”, and
+> by striking “2025” in the heading and inserting “2031”,
 
 | | |
 |---|---|
-| Removed | `65 percent` |
-| Inserted | `72.5 percent` |
+| Removed | `2025` |
+| Inserted | `2031` |
 
-### 26 U.S.C. § 243
+### 26 U.S.C. § 164
 
-> by striking “50 percent” and inserting “60 percent”.
-
-| | |
-|---|---|
-| Removed | `50 percent` |
-| Inserted | `60 percent` |
-
-### 26 U.S.C. § 1561
-
-> by striking “accumulated earnings credit” in the heading and inserting “certain multiple tax benefits”.
+> by striking “January 1, 2026” and inserting “January 1, 2032”,
 
 | | |
 |---|---|
-| Removed | `accumulated earnings credit` |
-| Inserted | `certain multiple tax benefits` |
+| Removed | `January 1, 2026` |
+| Inserted | `January 1, 2032` |
+
+### 26 U.S.C. § 55
+
+> Section 55(a) is amended by striking “In the case of a taxpayer other than a corporation, there” and inserting “There”.
+
+| | |
+|---|---|
+| Removed | `In the case of a taxpayer other than a corporation, there` |
+| Inserted | `There` |
+
+### 26 U.S.C. § 860E
+
+> Section 860E(a)(4) is amended by striking “55(b)(2)” and inserting “55(b)(1)(D)”.
+
+| | |
+|---|---|
+| Removed | `55(b)(2)` |
+| Inserted | `55(b)(1)(D)` |
+
+### 26 U.S.C. § 897
+
+> Section 897(a)(2)(A)(i) is amended by striking “55(b)(2)” and inserting “55(b)(1)(D)”.
+
+| | |
+|---|---|
+| Removed | `55(b)(2)` |
+| Inserted | `55(b)(1)(D)` |
+
+### 26 U.S.C. § 11
+
+> Section 11(d) is amended by striking “the tax imposed by subsection (a)” and inserting “the taxes imposed by subsection (a) and section 55”.
+
+| | |
+|---|---|
+| Removed | `the tax imposed by subsection (a)` |
+| Inserted | `the taxes imposed by subsection (a) and section 55` |
 
 ### 26 U.S.C. § 613A
 
@@ -2922,33 +2580,6 @@ to guess them.
 | Removed | `and` |
 | Inserted | `, and` |
 
-### 26 U.S.C. § 904
-
-> Section 904(c) is amended by striking “10 succeeding taxable years” and inserting “5 succeeding taxable years”.
-
-| | |
-|---|---|
-| Removed | `10 succeeding taxable years` |
-| Inserted | `5 succeeding taxable years` |
-
-### 26 U.S.C. § 6511
-
-> Section 6511(d)(3)(A) is amended by striking “10 years” and inserting “5 years”.
-
-| | |
-|---|---|
-| Removed | `10 years` |
-| Inserted | `5 years` |
-
-### 26 U.S.C. § 907
-
-> by striking “first 10” and inserting “first 5”.
-
-| | |
-|---|---|
-| Removed | `first 10` |
-| Inserted | `first 5` |
-
 ### 26 U.S.C. § 864
 
 > Section 864(e)(3) is amended by striking “or 245(a)” and inserting “, 245(a), or 245A”.
@@ -2958,6 +2589,15 @@ to guess them.
 | Removed | `or 245(a)` |
 | Inserted | `, 245(a), or 245A` |
 
+### 26 U.S.C. § 905
+
+> in paragraph (2)(B), by striking “Any such taxes” and inserting “Except as otherwise provided by the Secretary, any such taxes”, and
+
+| | |
+|---|---|
+| Removed | `Any such taxes` |
+| Inserted | `Except as otherwise provided by the Secretary, any such taxes` |
+
 ### 26 U.S.C. § 6511
 
 > by striking “actually paid” and inserting “paid (or deemed paid under section 960)”, and
@@ -2966,6 +2606,15 @@ to guess them.
 |---|---|
 | Removed | `actually paid` |
 | Inserted | `paid (or deemed paid under section 960)` |
+
+### 26 U.S.C. § 6511
+
+> in subparagraph (B), by striking “the allowance of a credit for the taxes” and inserting “the allowance of an additional credit by reason of the change in liability for the taxes”.
+
+| | |
+|---|---|
+| Removed | `the allowance of a credit for the taxes` |
+| Inserted | `the allowance of an additional credit by reason of the change in liability for the taxes` |
 
 ### 26 U.S.C. § 951A
 
@@ -2978,7 +2627,7 @@ to guess them.
 
 ### 26 U.S.C. § 951A
 
-> Section 951A(c)(2)(A) is amended by inserting “and” at the end of subclause (III), by striking “and” at the end of subclause (IV) and inserting “over”, and by striking subclause (V).
+> Section 951A(c)(2)(A)(i) is amended by inserting “and” at the end of subclause (III), by striking “and” at the end of subclause (IV) and inserting “over”, and by striking subclause (V).
 
 | | |
 |---|---|
@@ -2993,6 +2642,24 @@ to guess them.
 |---|---|
 | Removed | `80 percent` |
 | Inserted | `95 percent (100 percent in the case of tested foreign income taxes paid or accrued to a possession of the United States)` |
+
+### 26 U.S.C. § 960
+
+> Section 960(d)(2)(B) is amended by striking “the aggregate amount described in section 951A(c)(1)(A)” and inserting “the net CFC tested income (as defined in section 951A(c)(1))”.
+
+| | |
+|---|---|
+| Removed | `the aggregate amount described in section 951A(c)(1)(A)` |
+| Inserted | `the net CFC tested income (as defined in section 951A(c)(1))` |
+
+### 26 U.S.C. § 960
+
+> Section 960(d)(4), as added by subsection (d), is amended by striking “20 percent” and inserting “5 percent”.
+
+| | |
+|---|---|
+| Removed | `20 percent` |
+| Inserted | `5 percent` |
 
 ### 26 U.S.C. § 245A
 
@@ -3012,6 +2679,42 @@ to guess them.
 | Removed | `Paragraph (1)` |
 | Inserted | `Paragraphs (1) and (4)` |
 
+### 26 U.S.C. § 959
+
+> by striking “the earnings and profits of a controlled foreign corporation” and inserting “the earnings and profits of a foreign corporation”,
+
+| | |
+|---|---|
+| Removed | `the earnings and profits of a controlled foreign corporation` |
+| Inserted | `the earnings and profits of a foreign corporation` |
+
+### 26 U.S.C. § 959
+
+> by striking “another controlled foreign corporation” and inserting “a controlled foreign corporation”,
+
+| | |
+|---|---|
+| Removed | `another controlled foreign corporation` |
+| Inserted | `a controlled foreign corporation` |
+
+### 26 U.S.C. § 959
+
+> by striking “such other controlled foreign corporation” and inserting “such controlled foreign corporation”, and
+
+| | |
+|---|---|
+| Removed | `such other controlled foreign corporation` |
+| Inserted | `such controlled foreign corporation` |
+
+### 26 U.S.C. § 959
+
+> by striking “of such United States shareholder in the controlled foreign corporation” and inserting “of such United States shareholder in the foreign corporation”.
+
+| | |
+|---|---|
+| Removed | `of such United States shareholder in the controlled foreign corporation` |
+| Inserted | `of such United States shareholder in the foreign corporation` |
+
 ### 26 U.S.C. § 245A
 
 > Section 245A(e)(4) is amended by striking “an amount received” and all that follows through “for which the controlled foreign corporation received a deduction” and inserting “any dividend received from a controlled foreign corporation for which such controlled foreign corporation received a deduction”.
@@ -3021,23 +2724,104 @@ to guess them.
 | Removed | `an amount received” and all that follows through “for which the controlled foreign corporation received a deduction` |
 | Inserted | `any dividend received from a controlled foreign corporation for which such controlled foreign corporation received a deduction` |
 
-### 26 U.S.C. § 245A
+### 26 U.S.C. § 91
 
-> by striking “any dividend” and inserting “any hybrid dividend”, and
+> in subsection (a), by striking “specified 10-percent owned foreign corporation (as defined in section 245A)” and inserting “controlled foreign corporation”, and
 
 | | |
 |---|---|
-| Removed | `any dividend` |
-| Inserted | `any hybrid dividend` |
+| Removed | `specified 10-percent owned foreign corporation (as defined in section 245A)` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 91
+
+> in subsection (e), by striking “specified 10-percent owned foreign corporation” and inserting “controlled foreign corporation”.
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporation` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 245A
+
+> The heading of section 245A is amended by striking “specified 10-percent owned foreign corporations” and inserting “controlled foreign corporations”.
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporations` |
+| Inserted | `controlled foreign corporations` |
+
+### 26 U.S.C. § 245A
+
+> The item relating to section 245A in the table of sections for part VIII of subchapter B of chapter 1 is amended by striking “specified 10-percent owned foreign corporations” and inserting “controlled foreign corporations”.
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporations` |
+| Inserted | `controlled foreign corporations` |
 
 ### 26 U.S.C. § 246
 
-> Section 246(c)(1) is amended by striking “section 243” and all that follows through “245A” and inserting “section 243, 245, or 245A”.
+> in subparagraph (B), by striking “specified 10-percent owned foreign corporation” each place it appears and inserting “controlled foreign corporation”, and
 
 | | |
 |---|---|
-| Removed | `section 243” and all that follows through “245A` |
-| Inserted | `section 243, 245, or 245A` |
+| Removed | `specified 10-percent owned foreign corporation` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 246
+
+> by striking “specified 10-percent owned foreign corporation” in the heading and inserting “controlled foreign corporation”.
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporation` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 904
+
+> in subsection (b)(4), by striking “specified 10-percent owned foreign corporation” both places it appears and inserting “controlled foreign corporation”, and
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporation` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 909
+
+> Section 909(b) is amended by striking “(as defined in section 245A(b) without regard to paragraph (2) thereof)” and inserting “(as defined in section 904(d)(2)(E)(ii) without regard to subclause (II) thereof)”.
+
+| | |
+|---|---|
+| Removed | `(as defined in section 245A(b) without regard to paragraph (2) thereof)` |
+| Inserted | `(as defined in section 904(d)(2)(E)(ii) without regard to subclause (II) thereof)` |
+
+### 26 U.S.C. § 961
+
+> by striking “specified 10-percent owned foreign corporation (as defined in section 245A)” and inserting “controlled foreign corporation”, and
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporation (as defined in section 245A)` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 961
+
+> by striking “specified 10-percent owned foreign corporation” in the heading and inserting “controlled foreign corporation”.
+
+| | |
+|---|---|
+| Removed | `specified 10-percent owned foreign corporation` |
+| Inserted | `controlled foreign corporation` |
+
+### 26 U.S.C. § 954
+
+> Section 954(d)(1)(A) is amended by striking “under the laws of which the controlled foreign corporation is created or organized” and inserting “in which the controlled foreign corporation is a tax resident”.
+
+| | |
+|---|---|
+| Removed | `under the laws of which the controlled foreign corporation is created or organized` |
+| Inserted | `in which the controlled foreign corporation is a tax resident` |
 
 ### 26 U.S.C. § 954
 
@@ -3048,32 +2832,14 @@ to guess them.
 | Removed | `subsection (d)(3)` |
 | Inserted | `subsection (d)` |
 
-### 26 U.S.C. § 951
+### 26 U.S.C. § 954
 
-> by striking “the last day” in the matter preceding subparagraph (A) and inserting “any day”,
-
-| | |
-|---|---|
-| Removed | `the last day` |
-| Inserted | `any day` |
-
-### 26 U.S.C. § 951
-
-> by striking “his” each place it appears and inserting “such shareholder’s”, and
+> Section 954(e)(1)(B) is amended by striking “under the laws of which the controlled foreign corporation is created or organized” and inserting “in which the controlled foreign corporation is a tax resident”.
 
 | | |
 |---|---|
-| Removed | `his` |
-| Inserted | `such shareholder’s` |
-
-### 26 U.S.C. § 951A
-
-> Section 951A(e)(1) is amended by striking “determined under the rules of section 951(a)(2) in the same manner as such section applies to subpart F income” and inserting “determined under rules similar to the rules of section 951(a)(2)”.
-
-| | |
-|---|---|
-| Removed | `determined under the rules of section 951(a)(2) in the same manner as such section applies to subpart F income` |
-| Inserted | `determined under rules similar to the rules of section 951(a)(2)` |
+| Removed | `under the laws of which the controlled foreign corporation is created or organized` |
+| Inserted | `in which the controlled foreign corporation is a tax resident` |
 
 ### 26 U.S.C. § 953
 
@@ -3128,6 +2894,24 @@ to guess them.
 |---|---|
 | Removed | `paragraphs (1)(A) and (2)(A) shall each` |
 | Inserted | `paragraph (2) shall` |
+
+### 26 U.S.C. § 59A
+
+> Section 59A(e)(1)(C) is amended by striking “the base erosion percentage (as determined under subsection (c)(4))” and inserting “in the case of any taxable year beginning before January 1, 2024, the base erosion percentage (as determined under subsection (c)(4) as in effect before the date of the enactment of the Act enacted during the 117th Congress which is entitled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14.)”.
+
+| | |
+|---|---|
+| Removed | `the base erosion percentage (as determined under subsection (c)(4))` |
+| Inserted | `in the case of any taxable year beginning before January 1, 2024, the base erosion percentage (as determined under subsection (c)(4) as in effect before the date of the enactment of the Act enacted during the 117th Congress which is entitled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14.)` |
+
+### 26 U.S.C. § 59A
+
+> Section 59A(b)(1) is amended by striking “Except as provided in paragraphs (2) and (3), the” and inserting “The”.
+
+| | |
+|---|---|
+| Removed | `Except as provided in paragraphs (2) and (3), the` |
+| Inserted | `The` |
 
 ### 26 U.S.C. § 59A
 
@@ -3192,122 +2976,41 @@ to guess them.
 | Removed | `and` |
 | Inserted | `, and` |
 
-### 26 U.S.C. § 1061
+### 26 U.S.C. § 6045
 
-> in paragraph (1), by striking “to such other entity” and inserting “with respect to a trade or business that is not an applicable trade or business”,
-
-| | |
-|---|---|
-| Removed | `to such other entity` |
-| Inserted | `with respect to a trade or business that is not an applicable trade or business` |
-
-### 26 U.S.C. § 1061
-
-> in paragraph (3), by striking “an interest in a partnership to the extent of the partnership’s proportionate interest in any of the foregoing” and inserting “except as otherwise provided by the Secretary, an interest in a partnership if such partnership has a direct or indirect interest in any of the foregoing”, and
+> by striking “security (other than stock” and inserting “covered security (other than stock”, and
 
 | | |
 |---|---|
-| Removed | `an interest in a partnership to the extent of the partnership’s proportionate interest in any of the foregoing` |
-| Inserted | `except as otherwise provided by the Secretary, an interest in a partnership if such partnership has a direct or indirect interest in any of the foregoing` |
+| Removed | `security (other than stock` |
+| Inserted | `covered security (other than stock` |
 
-### 26 U.S.C. § 1061
+### 26 U.S.C. § 6045
 
-> by striking “The term” and inserting “Except as otherwise provided by the Secretary, the term”, and
-
-| | |
-|---|---|
-| Removed | `The term` |
-| Inserted | `Except as otherwise provided by the Secretary, the term` |
-
-### 26 U.S.C. § 1061
-
-> in subparagraph (A), by striking “corporation” and inserting “C corporation”.
+> by striking “stock sold or transferred” and inserting “covered security sold or transferred”, and
 
 | | |
 |---|---|
-| Removed | `corporation` |
-| Inserted | `C corporation` |
+| Removed | `stock sold or transferred` |
+| Inserted | `covered security sold or transferred` |
 
-### 26 U.S.C. § 1091
+### 26 U.S.C. § 6045
 
-> Section 1091(a) is amended by striking “the taxpayer has acquired” and inserting “the taxpayer (or a related party) has acquired”.
-
-| | |
-|---|---|
-| Removed | `the taxpayer has acquired` |
-| Inserted | `the taxpayer (or a related party) has acquired` |
-
-### 26 U.S.C. § 1091
-
-> by striking “stock or securities” each place it appears and inserting “specified assets”, and
+> by striking “stock or securities” and inserting “specified assets”, and
 
 | | |
 |---|---|
 | Removed | `stock or securities` |
 | Inserted | `specified assets` |
 
-### 26 U.S.C. § 1
+### 26 U.S.C. § 6045
 
-> Section 1(j)(1) is amended by striking “December 31, 2017” and inserting “December 31, 2021”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2017` |
-| Inserted | `December 31, 2021` |
-
-### 26 U.S.C. § 1
-
-> The heading of section 1(j) is amended by striking “2018” and inserting “2022”.
+> by striking “identical securities” and inserting “identical specified assets (as defined in section 1091(g))”.
 
 | | |
 |---|---|
-| Removed | `2018` |
-| Inserted | `2022` |
-
-### 26 U.S.C. § 1
-
-> The heading of section 1(i) is amended by striking “Rate reductions” and inserting “Modifications”
-
-| | |
-|---|---|
-| Removed | `Rate reductions` |
-| Inserted | `Modifications` |
-
-### 26 U.S.C. § 15
-
-> Section 15(f) is amended by striking “rate reductions” and inserting “modifications”.
-
-| | |
-|---|---|
-| Removed | `rate reductions` |
-| Inserted | `modifications` |
-
-### 26 U.S.C. § 1
-
-> Section 1(h)(1)(D) is amended by striking “20 percent” and inserting “25 percent”.
-
-| | |
-|---|---|
-| Removed | `20 percent` |
-| Inserted | `25 percent` |
-
-### 26 U.S.C. § 1
-
-> by striking “each of the dollar amounts in clauses (i) and (ii)” in subparagraph (C) and inserting “each dollar amount in clause (i), (ii), or (iv)”.
-
-| | |
-|---|---|
-| Removed | `each of the dollar amounts in clauses (i) and (ii)` |
-| Inserted | `each dollar amount in clause (i), (ii), or (iv)` |
-
-### 26 U.S.C. § 55
-
-> The following provisions are each amended by striking “20 percent” and inserting “25 percent”:
-
-| | |
-|---|---|
-| Removed | `20 percent` |
-| Inserted | `25 percent` |
+| Removed | `identical securities` |
+| Inserted | `identical specified assets (as defined in section 1091(g))` |
 
 ### 26 U.S.C. § 1411
 
@@ -3327,61 +3030,79 @@ to guess them.
 | Removed | `and” at the end of clause (ii), by striking “over` |
 | Inserted | `and` |
 
-### 26 U.S.C. § 199A
+### 26 U.S.C. § 1301
 
-> Section 199A(a) is amended by striking “or” at the end of paragraph (1), by striking the period at the end of paragraph (2) and inserting “, or”, and by adding at the end the following new paragraph:
-
-| | |
-|---|---|
-| Removed | `or` |
-| Inserted | `, or` |
-
-### 26 U.S.C. § 2032A
-
-> Section 2032A(a)(2) of the Internal Revenue Code of 1986 is amended by striking “$750,000” and inserting “$11,700,000”.
+> Section 1301(a) is amended by striking “section 1” both places it appears and inserting “sections 1 and 1A”.
 
 | | |
 |---|---|
-| Removed | `$750,000` |
-| Inserted | `$11,700,000` |
+| Removed | `section 1` |
+| Inserted | `sections 1 and 1A` |
 
-### 26 U.S.C. § 2032A
+### 26 U.S.C. § 6225
 
-> by striking “$750,000” both places it appears and inserting “$11,700,000”,
-
-| | |
-|---|---|
-| Removed | `$750,000` |
-| Inserted | `$11,700,000` |
-
-### 26 U.S.C. § 2032A
-
-> by striking “1998” in the matter preceding subparagraph (A) and inserting “2021”, and
+> by striking “subsection (b)(1)(A)” and inserting “subsection (b)(1)(B)”, and
 
 | | |
 |---|---|
-| Removed | `1998` |
-| Inserted | `2021` |
+| Removed | `subsection (b)(1)(A)` |
+| Inserted | `subsection (b)(1)(B)` |
 
-### 26 U.S.C. § 2032A
+### 26 U.S.C. § 404
 
-> by striking “1997” in subparagraph (B) and inserting “2020”.
+> Section 404(a)(2) is amended by striking “and (37)” and inserting “(37), and (39)”.
 
 | | |
 |---|---|
-| Removed | `1997` |
-| Inserted | `2020` |
+| Removed | `and (37)` |
+| Inserted | `(37), and (39)` |
 
-### 26 U.S.C. § 267
+### 26 U.S.C. § 402A
 
-> Section 267(b) is amended by striking “or” at the end of paragraph (12), by striking the period at the end of paragraph (13) and inserting “; or”, and by adding at the end the following new paragraph:
+> by striking “and without regard to” and inserting “without regard to”, and
+
+| | |
+|---|---|
+| Removed | `and without regard to` |
+| Inserted | `without regard to` |
+
+### 26 U.S.C. § 4975
+
+> by striking “or (E)” both places it appears in subparagraphs (F) and (G) and inserting “(E), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))”,
+
+| | |
+|---|---|
+| Removed | `or (E)` |
+| Inserted | `(E), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))` |
+
+### 26 U.S.C. § 4975
+
+> by striking “or (G)” in subparagraph (I) and inserting “(G), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))”, and
+
+| | |
+|---|---|
+| Removed | `or (G)` |
+| Inserted | `(G), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))` |
+
+### 26 U.S.C. § 4121
+
+> Section 4121(e)(2)(A) is amended by striking “December 31, 2021” and inserting “December 31, 2025”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2021` |
+| Inserted | `December 31, 2025` |
+
+### 26 U.S.C. § 4975
+
+> Section 4975(c)(1) is amended by striking “or” at the end of subparagraph (E), by striking the period at the end of subparagraph (F) and inserting “; or”, and by adding at the end the following new subparagraph:
 
 | | |
 |---|---|
 | Removed | `or` |
 | Inserted | `; or` |
 
-### 26 U.S.C. § 408
+### 26 U.S.C. § 4975
 
 > by striking “where employee engages in prohibited transaction” in the heading and inserting “in case of certain prohibited transactions and investments”,
 
@@ -3390,16 +3111,7 @@ to guess them.
 | Removed | `where employee engages in prohibited transaction` |
 | Inserted | `in case of certain prohibited transactions and investments` |
 
-### 26 U.S.C. § 408
-
-> by striking “In general” in the heading of subparagraph (A) and inserting “Employee engaging in prohibited transaction”, and
-
-| | |
-|---|---|
-| Removed | `In general` |
-| Inserted | `Employee engaging in prohibited transaction` |
-
-### 26 U.S.C. § 408
+### 26 U.S.C. § 4975
 
 > by striking “(A)” in subparagraph (C), as so redesignated, and inserting “(A) or (B)”.
 
@@ -3410,7 +3122,7 @@ to guess them.
 
 ### 26 U.S.C. § 408
 
-> Paragraph (1) of section 408(c) is amended by striking “(1) through (6)” and inserting “(1) through (7)”.
+> Section 408(c)(1) is amended by striking “(1) through (6)” and inserting “(1) through (7)”.
 
 | | |
 |---|---|
@@ -3435,189 +3147,9 @@ to guess them.
 | Removed | `section 408(e)(2)(A)` |
 | Inserted | `subparagraph (A) or (B) of section 408(e)(2)` |
 
-### 26 U.S.C. § 408
-
-> Subparagraph (B) of section 408(e)(2), as added by this Act, is amended by striking “(a)(7)” and inserting “(a)(7) or (a)(8)”.
-
-| | |
-|---|---|
-| Removed | `(a)(7)` |
-| Inserted | `(a)(7) or (a)(8)` |
-
-### 26 U.S.C. § 408
-
-> Paragraph (1) of section 408(c), as amended by the preceding provisions of this Act, is amended by striking “(1) through (7)” and inserting “(1) through (8)”.
-
-| | |
-|---|---|
-| Removed | `(1) through (7)` |
-| Inserted | `(1) through (8)` |
-
-### 26 U.S.C. § 4975
-
-> by striking “or (E)” both places it appears in subparagraphs (F) and (G) and inserting “(E), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))”,
-
-| | |
-|---|---|
-| Removed | `or (E)` |
-| Inserted | `(E), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))` |
-
-### 26 U.S.C. § 4975
-
-> by striking “or (G)” in subparagraph (I) and inserting “(G), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))”, and
-
-| | |
-|---|---|
-| Removed | `or (G)` |
-| Inserted | `(G), or (J) (in the case of a plan described in subparagraph (B) or (C) of paragraph (1))` |
-
-### 26 U.S.C. § 6662
-
-> Section 6662(h)(2) is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting “, and”, and by adding at the end the following new subparagraph:
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `, and` |
-
-### 26 U.S.C. § 6751
-
-> Section 6751(b)(2)(A) is amended by striking “subsection (b)(9)” and inserting “paragraph (9) or (10) of subsection (b)”.
-
-| | |
-|---|---|
-| Removed | `subsection (b)(9)` |
-| Inserted | `paragraph (9) or (10) of subsection (b)` |
-
-### 26 U.S.C. § 162
-
-> Section 162(m)(3)(C) is amended by striking “December 31, 2026” and inserting “December 31, 2021”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2026` |
-| Inserted | `December 31, 2021` |
-
-### 26 U.S.C. § 4121
-
-> Section 4121(e)(2)(A) is amended by striking “December 31, 2021” and inserting “December 31, 2025”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2021` |
-| Inserted | `December 31, 2025` |
-
-### 26 U.S.C. § 4975
-
-> Section 4975(c)(1) is amended by striking “or” at the end of subparagraph (E), by striking the period at the end of subparagraph (F) and inserting “; or”, and by adding at the end the following new subparagraph:
-
-| | |
-|---|---|
-| Removed | `or` |
-| Inserted | `; or` |
-
-### 26 U.S.C. § 5701
-
-> Section 5701(b)(1) is amended by striking “$50.33” and inserting “$100.66”.
-
-| | |
-|---|---|
-| Removed | `$50.33` |
-| Inserted | `$100.66` |
-
-### 26 U.S.C. § 5701
-
-> Section 5701(b)(2) is amended by striking “$105.69” and inserting “$211.39”.
-
-| | |
-|---|---|
-| Removed | `$105.69` |
-| Inserted | `$211.39` |
-
-### 26 U.S.C. § 5701
-
-> Section 5701(a)(1) is amended by striking “$50.33” and inserting “$100.66”.
-
-| | |
-|---|---|
-| Removed | `$50.33` |
-| Inserted | `$100.66` |
-
-### 26 U.S.C. § 5701
-
-> Section 5701(a)(2) is amended by striking “52.75 percent” and all that follows through the period and inserting “$49.56 per pound and a proportionate tax at the like rate on all fractional parts of a pound but not less than 10.06 cents per cigar.”.
-
-| | |
-|---|---|
-| Removed | `52.75 percent` |
-| Inserted | `$49.56 per pound and a proportionate tax at the like rate on all fractional parts of a pound but not less than 10.06 cents per cigar.` |
-
-### 26 U.S.C. § 5701
-
-> in paragraph (1), by striking “$1.51” and inserting “$26.84”,
-
-| | |
-|---|---|
-| Removed | `$1.51` |
-| Inserted | `$26.84` |
-
-### 26 U.S.C. § 5701
-
-> in paragraph (2), by striking “50.33 cents” and inserting “$10.70”, and
-
-| | |
-|---|---|
-| Removed | `50.33 cents` |
-| Inserted | `$10.70` |
-
-### 26 U.S.C. § 5702
-
-> in paragraph (1), by striking “or chewing tobacco” and inserting “, chewing tobacco, or discrete single-use unit”,
-
-| | |
-|---|---|
-| Removed | `or chewing tobacco` |
-| Inserted | `, chewing tobacco, or discrete single-use unit` |
-
-### 26 U.S.C. § 5701
-
-> Section 5701(f) is amended by striking “$2.8311 cents” and inserting “$49.56”.
-
-| | |
-|---|---|
-| Removed | `$2.8311 cents` |
-| Inserted | `$49.56` |
-
-### 26 U.S.C. § 5701
-
-> Section 5701(g) is amended by striking “$24.78” and inserting “$49.56”.
-
-| | |
-|---|---|
-| Removed | `$24.78` |
-| Inserted | `$49.56` |
-
-### 26 U.S.C. § 5702
-
-> Section 5702(c) is amended by striking “and roll-your-own tobacco” and inserting “roll-your-own tobacco, and taxable nicotine”.
-
-| | |
-|---|---|
-| Removed | `and roll-your-own tobacco` |
-| Inserted | `roll-your-own tobacco, and taxable nicotine` |
-
-### 26 U.S.C. § 45S
-
-> Section 45S(i) is amended by striking “December 31, 2025” and inserting “December 31, 2023”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2025` |
-| Inserted | `December 31, 2023` |
-
 ### 26 U.S.C. § 996
 
-> Section 996(g) of the Internal Revenue Code of 1986 is amended by striking “of such shareholder” and inserting “deemed to be had by such shareholder”.
+> Section 996(g) is amended by striking “of such shareholder” and inserting “deemed to be had by such shareholder”.
 
 | | |
 |---|---|
@@ -3653,12 +3185,12 @@ to guess them.
 
 ### 26 U.S.C. § 181
 
-> Section 181(h) (as redesignated by subsection (e)) is amended by striking “qualified film or television production or any qualified live theatrical production” and inserting “qualified film or television production, any qualified live theatrical production, or any qualified sound recording production”.
+> Section 181(h) (as redesignated by subsection (e)) is amended by striking “or qualified live theatrical productions” and inserting “, qualified live theatrical productions, or qualified sound recording productions”.
 
 | | |
 |---|---|
-| Removed | `qualified film or television production or any qualified live theatrical production` |
-| Inserted | `qualified film or television production, any qualified live theatrical production, or any qualified sound recording production` |
+| Removed | `or qualified live theatrical productions` |
+| Inserted | `, qualified live theatrical productions, or qualified sound recording productions` |
 
 ### 26 U.S.C. § 168
 
@@ -3723,86 +3255,140 @@ to guess them.
 | Removed | `6421, or 6427,` |
 | Inserted | `6421, 6427, or 6433` |
 
-### 26 U.S.C. § 856
+### 26 U.S.C. § 3111
 
-> Section 856(d)(5) is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following:
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `, and` |
-
-### 29 U.S.C. § 1191a
-
-> Section 732(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191a(a)) is amended by striking “section 711” and inserting “sections 711 and 726”.
+> by striking “equal to the” and inserting “equal to so much of the”,
 
 | | |
 |---|---|
-| Removed | `section 711` |
-| Inserted | `sections 711 and 726` |
+| Removed | `equal to the` |
+| Inserted | `equal to so much of the` |
 
-### 26 U.S.C. § 275
+### 26 U.S.C. § 3111
 
-> The heading of subchapter E of chapter 32 of the Internal Revenue Code of 1986 is amended by striking “Medical devices” and inserting “Other medical products”.
+> by striking “paragraph (1)” and inserting “paragraph (1)(A)”, and
 
 | | |
 |---|---|
-| Removed | `Medical devices` |
-| Inserted | `Other medical products` |
+| Removed | `paragraph (1)` |
+| Inserted | `paragraph (1)(A)` |
+
+### 26 U.S.C. § 3111
+
+> Paragraph (3) of section 3111(f) is amended by striking “the credit” and inserting “any credit”.
+
+| | |
+|---|---|
+| Removed | `the credit` |
+| Inserted | `any credit` |
+
+### 26 U.S.C. § 3111
+
+> by striking “credit” and inserting “credits”, and
+
+| | |
+|---|---|
+| Removed | `credit` |
+| Inserted | `credits` |
+
+### 26 U.S.C. § 3111
+
+> by striking “subsection (a)” and inserting “subsection (a) or (b)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)` |
+| Inserted | `subsection (a) or (b)` |
+
+### 26 U.S.C. § 41
+
+> Clause (ii) of section 41(h)(5)(B) is amended by striking “the $250,000 amount” and inserting “each of the $250,000 amounts”.
+
+| | |
+|---|---|
+| Removed | `the $250,000 amount` |
+| Inserted | `each of the $250,000 amounts` |
+
+### 26 U.S.C. § 5702
+
+> Section 5702(c) is amended by striking “and roll-your-own tobacco” and inserting “roll-your-own tobacco, and taxable nicotine”.
+
+| | |
+|---|---|
+| Removed | `and roll-your-own tobacco` |
+| Inserted | `roll-your-own tobacco, and taxable nicotine` |
+
+### 26 U.S.C. § 45S
+
+> Section 45S(i) is amended by striking “December 31, 2025” and inserting “December 31, 2023”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2025` |
+| Inserted | `December 31, 2023` |
+
+### 42 U.S.C. § 1395w-111
+
+> in paragraph (2), by striking “or institute a price structure for the reimbursement of covered part D drugs” and inserting “for covered part D drugs; and”; and
+
+| | |
+|---|---|
+| Removed | `or institute a price structure for the reimbursement of covered part D drugs` |
+| Inserted | `for covered part D drugs; and` |
+
+### 42 U.S.C. § 1396r-8
+
+> in clause (i)(VI), by striking “any prices charged” and inserting “subject to clause (ii)(V), any prices charged”; and
+
+| | |
+|---|---|
+| Removed | `any prices charged` |
+| Inserted | `subject to clause (ii)(V), any prices charged` |
 
 ### 42 U.S.C. § 1395l
 
-> in subparagraph (S), by striking “with respect to” and inserting “subject to subparagraph (DD), with respect to”;
+> in subparagraph (S), by striking “with respect to” and inserting “subject to subparagraph (EE), with respect to”;
 
 | | |
 |---|---|
 | Removed | `with respect to` |
-| Inserted | `subject to subparagraph (DD), with respect to` |
+| Inserted | `subject to subparagraph (EE), with respect to` |
 
 ### 42 U.S.C. § 1395l
 
-> by striking “and (DD)” and inserting “(EE)”; and
+> by striking “and (DD)” and inserting “(DD)”; and
 
 | | |
 |---|---|
 | Removed | `and (DD)` |
-| Inserted | `(EE)` |
+| Inserted | `(DD)` |
 
 ### 42 U.S.C. § 1396r-8
 
-> Section 1927(b)(3)(D)(i) of the Social Security Act (42 U.S.C. 1396r–8(b)(3)(D)(i)) is amended by striking “or to carry out section 1847B” and inserting “to carry out section 1847B or section 1834(z)”.
+> Section 1847A(c)(3) of the Social Security Act (42 U.S.C. 1395w–3a(c)(3)), as amended by section 139101(c)(1), is further amended by striking “subsection (h) or section 1927” and inserting “subsection (h), section 1927, or section 1860D–14B”.
+
+| | |
+|---|---|
+| Removed | `subsection (h) or section 1927` |
+| Inserted | `subsection (h), section 1927, or section 1860D–14B` |
+
+### 42 U.S.C. § 1396r-8
+
+> Section 1927(c)(1)(C)(ii)(I) of the Social Security Act (42 U.S.C. 1396r–8(c)(1)(C)(ii)(I)), as amended by section 139101(c)(2), is further amended by striking “or section 1847A(h)” and inserting “, section 1847A(h), or section 1860D–14B”.
+
+| | |
+|---|---|
+| Removed | `or section 1847A(h)` |
+| Inserted | `, section 1847A(h), or section 1860D–14B` |
+
+### 42 U.S.C. § 1396r-8
+
+> Section 1927(b)(3)(D)(i) of the Social Security Act (42 U.S.C. 1396r–8(b)(3)(D)(i)), as amended by section 139101(c)(3), is further amended by striking “or to carry out section 1847B” and inserting “or to carry out section 1847B or section 1860D–14B”.
 
 | | |
 |---|---|
 | Removed | `or to carry out section 1847B` |
-| Inserted | `to carry out section 1847B or section 1834(z)` |
-
-### 42 U.S.C. § 1396r-8
-
-> Section 1847A(c)(3) of the Social Security Act (42 U.S.C. 1395w–3a(c)(3)), as amended by section 139101(c)(1), is further amended by striking “section 1927 or section 1834(z)” and inserting “section 1927, section 1834(z), or section 1860D–14B”.
-
-| | |
-|---|---|
-| Removed | `section 1927 or section 1834(z)` |
-| Inserted | `section 1927, section 1834(z), or section 1860D–14B` |
-
-### 42 U.S.C. § 1396r-8
-
-> Section 1927(c)(1)(C)(ii)(I) of the Social Security Act (42 U.S.C. 1396r–8(c)(1)(C)(ii)(I)), as amended by section 139101(c)(2), is further amended by striking “or section 1834(z)” and inserting “, section 1834(z), or section 1860D–14B”.
-
-| | |
-|---|---|
-| Removed | `or section 1834(z)` |
-| Inserted | `, section 1834(z), or section 1860D–14B` |
-
-### 42 U.S.C. § 1396r-8
-
-> Section 1927(b)(3)(D)(i) of the Social Security Act (42 U.S.C. 1396r–8(b)(3)(D)(i)), as amended by section 139101(c)(3), is further amended by striking “or section 1834(z)” and inserting “, section 1834(z), or section 1860D–14B”.
-
-| | |
-|---|---|
-| Removed | `or section 1834(z)` |
-| Inserted | `, section 1834(z), or section 1860D–14B` |
+| Inserted | `or to carry out section 1847B or section 1860D–14B` |
 
 ### 42 U.S.C. § 1395w-102
 
@@ -3815,12 +3401,12 @@ to guess them.
 
 ### 42 U.S.C. § 1395w-102
 
-> in subclause (I)(bb), by striking “a year after 2018” and inserting “each of years 2018 through 2023”; and
+> in subclause (I)(bb), by striking “a year after 2018” and inserting “each of years 2019 through 2023”; and
 
 | | |
 |---|---|
 | Removed | `a year after 2018` |
-| Inserted | `each of years 2018 through 2023` |
+| Inserted | `each of years 2019 through 2023` |
 
 ### 42 U.S.C. § 1395w-102
 
@@ -3842,7 +3428,7 @@ to guess them.
 
 ### 42 U.S.C. § 1395w-102
 
-> in clause (ii), by striking “clause (i)(I)” and inserting “clause (i)(I)(aa)”;
+> by striking “clause (i)(I)” and inserting “clause (i)(I)(aa)”; and
 
 | | |
 |---|---|
@@ -3884,6 +3470,24 @@ to guess them.
 |---|---|
 | Removed | `In applying` |
 | Inserted | `For each of years 2011 through 2023, in applying` |
+
+### 42 U.S.C. § 1395w-115
+
+> in the first sentence, by striking “For purposes” and inserting “Subject to paragraph (2)(B), for purposes”; and
+
+| | |
+|---|---|
+| Removed | `For purposes` |
+| Inserted | `Subject to paragraph (2)(B), for purposes` |
+
+### 42 U.S.C. § 1395w-102
+
+> in the subparagraph header, by striking “25 percent coinsurance” and inserting “Coinsurance”;
+
+| | |
+|---|---|
+| Removed | `25 percent coinsurance` |
+| Inserted | `Coinsurance` |
 
 ### 42 U.S.C. § 1395-114a
 
@@ -3977,12 +3581,183 @@ to guess them.
 
 ### 42 U.S.C. § 1395w-102
 
-> in subparagraph (A), by striking “Subject to subparagraphs (C) and (D)” and inserting “Subject to subparagraphs (C), (D), and (E)”; and
+> in subparagraph (A), by striking “and (D)” and inserting “, (D), and (E)”; and
 
 | | |
 |---|---|
-| Removed | `Subject to subparagraphs (C) and (D)` |
-| Inserted | `Subject to subparagraphs (C), (D), and (E)` |
+| Removed | `and (D)` |
+| Inserted | `, (D), and (E)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in subparagraph (C), by striking “in subparagraph (E)” and inserting “in subparagraph (E) and subject to subparagraph (F)”; and
+
+| | |
+|---|---|
+| Removed | `in subparagraph (E)` |
+| Inserted | `in subparagraph (E) and subject to subparagraph (F)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (1)(A), by striking “The coverage” and inserting “Subject to paragraph (8), the coverage”;
+
+| | |
+|---|---|
+| Removed | `The coverage` |
+| Inserted | `Subject to paragraph (8), the coverage` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (2)(A), by striking “and (D)” and inserting “and (D) and paragraph (8)”;
+
+| | |
+|---|---|
+| Removed | `and (D)` |
+| Inserted | `and (D) and paragraph (8)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (3)(A), by striking “and (4)” and inserting “(4), and (8)”;
+
+| | |
+|---|---|
+| Removed | `and (4)` |
+| Inserted | `(4), and (8)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (4)(A)(i), by striking “The coverage” and inserting “Subject to paragraph (8), the coverage”; and
+
+| | |
+|---|---|
+| Removed | `The coverage` |
+| Inserted | `Subject to paragraph (8), the coverage` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (1)(A), by striking “paragraph (8)” and inserting “paragraphs (8) and (9)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (8)` |
+| Inserted | `paragraphs (8) and (9)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (2)(A), by striking “paragraph (8)” and inserting “paragraphs (8) and (9)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (8)` |
+| Inserted | `paragraphs (8) and (9)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (3)(A), by striking “and (8)” and inserting “(8), and (9)”;
+
+| | |
+|---|---|
+| Removed | `and (8)` |
+| Inserted | `(8), and (9)` |
+
+### 42 U.S.C. § 1395w-102
+
+> in paragraph (4)(A)(i), by striking “paragraph (8)” and inserting “paragraphs (8) and (9)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (8)` |
+| Inserted | `paragraphs (8) and (9)` |
+
+### 42 U.S.C. § 1395w-114
+
+> in paragraph (1)(D), in each of clauses (ii) and (iii), by striking “In the case” and inserting “Subject to paragraph (6), in the case”;
+
+| | |
+|---|---|
+| Removed | `In the case` |
+| Inserted | `Subject to paragraph (6), in the case` |
+
+### 42 U.S.C. § 1395w-114
+
+> in subparagraph (B), by striking “A reduction” and inserting “Subject to paragraph (6), a reduction”
+
+| | |
+|---|---|
+| Removed | `A reduction` |
+| Inserted | `Subject to paragraph (6), a reduction` |
+
+### 42 U.S.C. § 1395w-114
+
+> in subparagraph (D), by striking “The substitution” and inserting “Subject to paragraph (6), the substitution”; and
+
+| | |
+|---|---|
+| Removed | `The substitution` |
+| Inserted | `Subject to paragraph (6), the substitution` |
+
+### 42 U.S.C. § 1395w-114
+
+> in subparagraph (E), by striking “subsection (c)” and inserting “paragraph (6) and subsection (c)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (c)` |
+| Inserted | `paragraph (6) and subsection (c)` |
+
+### 42 U.S.C. § 1396o
+
+> in subparagraph (I), by striking “; and” and inserting “, or”; and
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `, or` |
+
+### 42 U.S.C. § 1396o
+
+> in subparagraph (I), by striking “; and” and inserting “, or”; and
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `, or` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “and (5)” and inserting “(5)”;
+
+| | |
+|---|---|
+| Removed | `and (5)` |
+| Inserted | `(5)` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines” and inserting “services described in subsection (a)(13)(A), and prohibits cost-sharing for such services”;
+
+| | |
+|---|---|
+| Removed | `services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines` |
+| Inserted | `services described in subsection (a)(13)(A), and prohibits cost-sharing for such services` |
+
+### 42 U.S.C. § 1396d
+
+> by striking “medical assistance for such services and vaccines” and inserting “medical assistance for such services”; and
+
+| | |
+|---|---|
+| Removed | `medical assistance for such services and vaccines` |
+| Inserted | `medical assistance for such services` |
+
+### 42 U.S.C. § 1382c
+
+> Section 1614(e) of such Act (42 U.S.C. 1382c(e)) is amended by striking “and the District of Columbia” and inserting “, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, and American Samoa”.
+
+| | |
+|---|---|
+| Removed | `and the District of Columbia` |
+| Inserted | `, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, and American Samoa` |
 
 ## Stated, not applied
 
@@ -3993,62 +3768,59 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1022a` | insert | in subsection (c)(1), by inserting “a Grow Your Own program under subsection (g),” after “subsection (e),”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1022a` | redesignate | by redesignating subsections (g), (h), (i), (j), and (k), as subsections (h), (i), (j), (k), and (l), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1022a` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1133` | add-at-end | Title VII of the Higher Education Act of 1965 (20 U.S.C. 1133 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1133` | add-at-end | Part F of title VII of the Higher Education Act of 1965 (20 U.S.C. 1133 et seq.), as added by section 20021, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1133` | add-at-end | Part F of title VII of the Higher Education Act of 1965 (20 U.S.C. 1133 et seq.), as added and amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1133` | add-at-end | Part F of title VII of the Higher Education Act of 1965 (20 U.S.C. 1133 et seq.), as added and amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a` | insert | in subparagraph (A)(iii), by inserting “and such sums as may be necessary for fiscal year 2022 to carry out the $500 increase provided under subparagraph (C)(iii)” before “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1070a` | insert | in subparagraph (C)(iii), by inserting before the period at the end the following: “, except that, for award year 2022–2023, such amount shall be increased by $500”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a` | strike | in clause (i), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1070a` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a` | replace | by striking “appropriated) such” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1070a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1091` | insert | Section 484(a)(5) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(5)) is amended by inserting “, or, with respect to any grant, loan, or work assistance received under this title for award years 2022–2023 through 2029–2030, be sub… | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1087e` | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087e` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1051` | redesignate | by redesignating part G as part H; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 283k` | insert | by inserting after section 371 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1981` | amend | Section 1005 of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1981` | amend | A payment determined under subparagraph (A) shall be reduced by the amount equal to the sum obtained by adding— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7601` | amend | Section 1006 of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (b)(6)(C), by striking “subsection (f) or (g)” and inserting “subsection (f) or (h)”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(1), by inserting “a Grow Your Own program under subsection (g),” after “subsection (e),”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (g), (h), (i), (j), and (k), as subsections (h), (i), (j), (k), and (l), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
+| — | insert | The Native American Programs Act of 1974 is amended by inserting after section 803C the following: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A)(iii), by inserting “and such sums as may be necessary for fiscal year 2022 to carry out the $550 increase for enrollment at institutions of higher education defined in section 101 or 102(a)(1)(B) provided under subpar… | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (C)(iii), by inserting before the period at the end the following: “, except that, for award year 2022–2023, such amount shall be equal to the amount determined under clause (ii) for award year 2017–2018, increased by $55… | the bill names no machine-readable US Code section |
+| — | strike | in clause (i), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (ii) as clause (iii); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (i) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “appropriated) such” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “(5)(A)(ii)” and inserting “(5)(A)(iii)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 484(a)(5) of the Higher Education Act of 1965 is amended by inserting “, or, with respect to any grant, loan, or work assistance received under this title for award years 2022–2023 through 2029–2030, be subject to a grant of defe… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 473 of the Higher Education Act of 1965, as amended by section 702(b) of the FAFSA Simplification Act (title VII of division FF of Public Law 116–260), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VII of the Higher Education Act of 1965 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating part G as part H; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 371 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title VII of the Higher Education Act of 1965, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `29 U.S.C. § 1132` | replace | by striking “for any failure” and all that follows through “in connection with the plan.” and inserting | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 162` | replace | by striking “Sec. 12. Any person” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 162` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 151` | insert | The National Labor Relations Act (29 U.S.C. 151 et seq.) is amended by inserting after section 12 (29 U.S.C. 162) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1759a` | amend | Clause (vii) of section 11(a)(1)(F) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)(F)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1759a` | amend | Clause (viii) of section 11(a)(1)(F) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)(F)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1759a` | add-at-end | Section 11(a)(1)(F) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)(F)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | strike | by striking subparagraphs (B), (C), (D), (E), (G), and (H); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1773` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9902` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1758` | insert | in subsection (d)(2)(G), by inserting “or child eligible for reduced price meals” after “eligible child”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1761` | insert | The Richard B. Russell National School Lunch Act is amended by inserting after section 13 (42 U.S.C. 1761) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18204` | replace | Section 10214 of the Patient Protection and Affordable Care Act (42 U.S.C. 18204) is amended by striking the period and inserting “, and $25,000,000 for each of fiscal years 2022 through 2024, to remain available until expended, to carry… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 7401` | add-at-end | Part A of title I of the Clean Air Act (42 U.S.C. 7401 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7401` | add-at-end | Part A of title I of the Clean Air Act (42 U.S.C. 7401 et seq.), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7401` | add-at-end | Part A of title I of the Clean Air Act (42 U.S.C. 7401 et seq.), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7401` | add-at-end | Part A of title I of the Clean Air Act (42 U.S.C. 7401 et seq.), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7401` | add-at-end | Part A of title I of the Clean Air Act (42 U.S.C. 7401 et seq.), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 824w` | amend | Part II of the Federal Power Act is amended by adding after section 223 (16 U.S.C. 824w) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18204` | add-at-end | Section 10214 of the Patient Protection and Affordable Care Act (42 U.S.C. 18204) is amended by adding at the end the following new sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185` | add-at-end | Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1001` | insert | The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after the item relating to section 725 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185` | add-at-end | in subpart B of part 7 (29 U.S.C. 1185 et seq.), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1132` | insert | in section 502(b)(3) (29 U.S.C. 1132(b)(3)), by inserting “(other than section 727)” after “part 7”. | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1001` | insert | The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after the item relating to section 726 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7431` | insert | The Clean Air Act is amended by inserting after section 131 of such Act (42 U.S.C. 7431) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Clean Air Act is amended by inserting after section 132 of such Act, as added by section 30101 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Clean Air Act is amended by inserting after section 133 of such Act, as added by section 30102 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Clean Air Act is amended by inserting after section 134 of such Act, as added by section 30103 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Clean Air Act is amended by inserting after section 135 of such Act, as added by section 30108 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Clean Air Act is amended by inserting after section 136 of such Act, as added by section 30114 of this Act, the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 6979b` | insert | The Solid Waste Disposal Act is amended by inserting after section 7010 (42 U.S.C. 6979b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Clean Air Act is amended by inserting after section 137, as added by subtitle A of this title, the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 15821` | amend | Section 124 of the Energy Policy Act of 2005 (42 U.S.C. 15821) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17232` | replace | The table of contents for the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 594) is amended by striking the item relating to section 124 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17232` | strike | Section 3201(c)(2)(A)(i) of the Energy Act of 2020 (42 U.S.C. 17232(c)(2)(A)(i)) is amended by striking “(a)” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 6325` | amend | Section 365(f) of the Energy Policy and Conservation Act (42 U.S.C. 6325(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6326` | amend | The Energy Policy and Conservation Act is amended by adding after section 366 (42 U.S.C. 6326) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6326` | add-at-end | The table of contents for part D of title III of the Energy Policy and Conservation Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6322` | replace | in paragraph (16), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 6322` | redesignate | by redesignating paragraph (17) as paragraph (18); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6322` | insert | by inserting after paragraph (16) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17013` | strike | Section 136(d)(1) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17013(d)(1)) is amended by striking “a total of not more than $25,000,000,000 in”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16511` | add-at-end | Title XVII of the Energy Policy Act of 2005 (42 U.S.C. 16511 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18071` | insert | in paragraph (2), by inserting “(or, with respect to plan years 2023 and 2024, whose household income does not exceed 400 percent of the poverty line for a family of the size involved)” before the period; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18071` | add-at-end | in the matter following paragraph (2), by adding at the end the following new sentence: “In the case of an individual with a household income that does not exceed 138 percent of the poverty line for a family of the size involved for any … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18071` | insert | in paragraph (1)(A), in the matter preceding clause (i), by inserting “, with respect to eligible insureds (other than, with respect to plan years 2023 and 2024, specified enrollees (as defined in paragraph (6)(C))),” after “first be ach… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18071` | insert | in paragraph (2), in the matter preceding subparagraph (A), by inserting “with respect to eligible insureds (other than, with respect to plan years 2023 and 2024, specified enrollees)” after “under the plan”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16516` | insert | Title XVII of the Energy Policy Act of 2005 is amended by inserting after section 1705 (42 U.S.C. 16516) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16511` | replace | Section 1701(4)(B) of the Energy Policy Act of 2005 (42 U.S.C. 16511(4)(B)) is amended by striking the period at the end and inserting “and, for purposes of minimizing financing costs, includes a guarantee by the Secretary of 100 percent… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 18071` | insert | in paragraph (2), by inserting “(or, with respect to plan years 2023, 2024, and 2025, whose household income does not exceed 400 percent of the poverty line for a family of the size involved)” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 18071` | add-at-end | in the matter following paragraph (2), by adding at the end the following new sentence: “In the case of an individual who is determined at any point to have a household income for 2022 that does not exceed 138 percent of the poverty line… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18071` | insert | in paragraph (1)(A), in the matter preceding clause (i), by inserting “, with respect to eligible insureds (other than, with respect to plan years 2023, 2024, and 2025, specified enrollees (as defined in paragraph (6)(C))),” after “first… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 18071` | insert | in paragraph (2), in the matter preceding subparagraph (A), by inserting “with respect to eligible insureds (other than, with respect to plan years 2023, 2024, and 2025, specified enrollees)” after “under the plan”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 18071` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | strike | in subparagraph (C), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -4061,248 +3833,208 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 18041` | add-at-end | Section 1321(c) of the Patient Protection and Affordable Care Act (42 U.S.C. 18041(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | replace | by striking “Funding.—Grants under” and inserting | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 18031` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4980H` | redesignate | Section 36B is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4980H` | amend | Section 4980H(c)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18061` | insert | Subtitle D of title I of the Patient Protection and Affordable Care Act is amended by inserting after part 5 (42 U.S.C. 18061 et seq.) the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18063` | insert | Subtitle D of title I of the Patient Protection and Affordable Care Act is amended by inserting after section 1343 (42 U.S.C. 18063) the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18051` | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18051` | add-at-end | in subsection (d)(3)(A)(ii), by adding at the end the following new sentence: “In making such determination, the Secretary shall calculate the value of such premium tax credits that would have been provided to such individuals enrolled t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396` | add-at-end | Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | insert | by inserting “including as such subsection is applied pursuant to subsections (a)(2)(C) and (d) of section 1948 with respect to the Federal Medicaid program,” before “and must meet”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-93` | add-at-end | Section 2793(e) of the Public Health Service Act (42 U.S.C. 300gg–93(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-111` | add-at-end | Part D of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–111 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18022` | add-at-end | Section 1302(d)(2) of the Patient Protection and Affordable Care Act (42 U.S.C. 18022(d)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18022` | add-at-end | Section 1302(e) of the Patient Protection and Affordable Care Act (42 U.S.C. 18022(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-111` | add-at-end | in part D (42 U.S.C. 300gg–111 et seq.), by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-22` | insert | in paragraph (1), by inserting “(other than subsections (a) and (b) of section 2799A–12)” after “part D”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-22` | insert | in paragraph (2), by inserting “(other than subsections (a) and (b) of section 2799A–12)” after “part D”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-22` | insert | in paragraph (1), by inserting “(other than subsections (a) and (b) of section 2799A–12)” after “part D”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-22` | insert | in paragraph (2)(A), by inserting “(other than subsections (a) and (b) of section 2799A–12)” after “part D”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-22` | insert | in paragraph (2)(C)(ii), by inserting “(other than subsections (a) and (b) of section 2799A–12)” after “part D”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 18052` | add-at-end | Section 1332 of the Patient Protection and Affordable Care Act (42 U.S.C. 18052) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | add-at-end | Section 1903 of the Social Security Act (42 U.S.C. 1396b) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | insert | in paragraph (6)(A)(vi), by inserting “(except paragraph (10))” before “, any other provision of law”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | insert | in paragraph (7)(A)(i), by inserting “without regard to paragraph (10),” before “the Secretary”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | amend | Section 1923(f)(7)(A)(i)(II) of the Social Security Act (42 U.S.C.1396r–4(f)(7)(A)(i)(II)) is amended by adding at period at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | strike | in subparagraph (D), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1301` | replace | by striking “Beginning with the annual State report on fiscal year 2024” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1301` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1301` | replace | by striking “Beginning no later than January 1, 2013” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1301` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1301` | add-at-end | in paragraph (3), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1301` | add-at-end | in paragraph (5), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | insert | by inserting after subparagraph (F), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | add-at-end | Section 1108(g)(4) of the Social Security Act is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | replace | by striking “Beginning with the annual State report on fiscal year 2024” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | replace | by striking “Beginning no later than January 1, 2013” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | insert | by inserting “or support services” before “that is capable of”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | insert | by inserting “and home and community-based” before “care system”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | insert | in subsection (c)(1), in the matter preceding subparagraph (A), by inserting “, subject to subsection (a)(4)(B)(ii),” before “annually report”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | add-at-end | in paragraph (3), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | add-at-end | in paragraph (5), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-5` | replace | Section 1924(h)(1)(A) of the Social Security Act (42 U.S.C. 1396r–5(h)(1)(A)) is amended by striking “(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI)” and inserting the following: “is eligible for medical assi… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396a` | insert | in subparagraph (I), by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396a` | amend | by amending subparagraph (J) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | strike | by striking subparagraph (K); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | Subsection (e)(2) of section 6071 of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended by adding at the end the following new sentence: “Any portion of a State grant award for a fiscal year under this section that is un… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395yy` | replace | by striking “Funding.—For purposes” and inserting | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395yy` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395yy` | strike | in the header, by striking “for failure to report”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395yy` | replace | by striking “For fiscal years beginning with fiscal year 2018, in the case of a skilled nursing facility that does not submit” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395yy` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395yy` | add-at-end | Section 1888(f) of the Social Security Act (42 U.S.C. 1395yy(f)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395i-3` | add-at-end | Section 1819 of the Social Security Act (42 U.S.C. 1395i–3) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395i-3` | insert | in paragraph (4)(A), by inserting “and any regulations promulgated under paragraph (5)(C)” after “section 1124”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395i-3` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396` | insert | in clause (ii), by inserting “and including an individual to whom section 1902(e)(5)(B) applies, in accordance with such section, through the end of the month in which the 12-month period (beginning on the last day of pregnancy of the in… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396a` | insert | in paragraph (12), by inserting “before the date of the enactment of paragraph (17)” after “subsection (a)(10)(A)”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | replace | in subparagraph (A)(ii), by striking the period and inserting “, and, in the case of such an individual who is or becomes pregnant, such individual (regardless of age) during pregnancy and during the applicable period (as described in su… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | in the subparagraph (D) added by subclause (III), by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | in section 1905(y), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | strike | Section 9812(b) of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended by striking “during the 5-year period”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1397gg` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397ll` | insert | in paragraph (1), by inserting “and includes, through application of section 1902(e)(5)(B) pursuant to section 2107(e)(1)(J)(ii), continuous coverage for pregnant and postpartum individuals, including 12 months postpartum” before the per… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397gg` | strike | Section 9822(b) of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended by striking “, during the 5-year period”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396a` | insert | Title XIX of the Social Security Act (42 U.S.C. 1396a) is amended by inserting after section 1945A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1308` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1308` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1308` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1308` | strike | in clause (iii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1308` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1308` | replace | in clause (iii), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | by striking the flush matter following subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396d` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by inserting “paragraph (2) and” after “subject to”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396d` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | insert | in paragraph (12), by inserting “before the date that is one year after the date of the enactment of paragraph (17)” after “subsection (a)(10)(A)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396a` | add-at-end | by adding at the end following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | The subdivision (A) following paragraph (31) of section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by inserting “and, beginning on the first day of the first fiscal year quarter that begins one year after the date… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397gg` | redesignate | by redesignating subparagraphs (K) through (T) as subparagraphs (L) through (U), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | insert | by inserting after subparagraph (J) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1320b-5` | replace | by striking “In general.—Subject to” and inserting | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1320b-5` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | insert | The subdivision (A) following paragraph (31) of section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by inserting “and, beginning on the first day of the first fiscal year quarter that begins two years after the dat… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | strike | in paragraph (74), by striking at the end “and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | insert | in subparagraph (A), by inserting “, except, beginning on the first day of the first fiscal year quarter that begins two years after the date of the enactment of the Act titled An Act to provide for reconciliation pursuant to title II of… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397jj` | strike | in subparagraph (A), by striking at the end “or”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397jj` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397jj` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | strike | Section 1902(e)(13) of the Social Security Act (42 U.S.C. 1396a(e)(13)) is amended by striking subparagraph (I). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | strike | in the paragraph heading, by striking “through September 30, 2027”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396a` | add-at-end | in subsection (c), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | insert | in paragraph (5)(C)(iii)(II), by inserting “or paragraph (9)” after “paragraph (8)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | insert | in subparagraph (A), by inserting “through the year in which the last demonstration under this section ends” after “annually thereafter”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new sentence: “Such recommendations shall be based on data collected from States selected to conduct demonstration programs under paragraph (1) and, to the extent available, data collected from States s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | amend | in subsection (e), by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396a` | replace | in subparagraph (B), by striking the period and inserting “, and $40,000,000 for fiscal year 2022; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396w-6` | strike | in subsection (a), by striking “during the 5-year period”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396r-8` | replace | by striking “and” after the semicolon at the end of paragraph (1)(A)(i) and all that precedes it through “(1)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end of paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-8` | insert | in paragraph (4), by inserting “, and $7,000,000 for fiscal year 2023 and each fiscal year thereafter,” after “2010”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396b` | strike | in subparagraph (D), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396b` | insert | by inserting after subparagraph (E), the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | redesignate | by redesignating the second subsection (d) added by section 11 of division X of Public Law 116–260 as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1315` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397dd` | amend | Section 2104(a)(28) of the Social Security Act (42 U.S.C. 1397dd(a)(28)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397dd` | strike | in subparagraph (A), by striking “and ending with fiscal year 2027,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1397dd` | strike | by striking paragraph (11). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397dd` | repeal | Section 50101(b)(2) of the Bipartisan Budget Act of 2018 (Public Law 115–123) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ee` | strike | in subparagraph (C), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397ee` | replace | in subparagraph (D), by striking the period at the end and insert a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397ee` | replace | in subparagraph (D), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ee` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ee` | strike | in the paragraph heading, by striking “through September 30, 2027”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1397ee` | replace | in clause (i), by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ee` | strike | by striking clauses (ii) and (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397mm` | insert | by inserting after “through 2027” the following: “, $60,000,000 for fiscal years 2028, 2029, and 2020, for each 3 fiscal years after fiscal year 2030, the amount appropriated under this subsection for the previous fiscal year, increased … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397mm` | insert | by inserting after “through 2027” the following: “, $60,000,000 for fiscal years 2028, 2029, and 2030, and for each 3 fiscal years after fiscal year 2030, the amount appropriated under this subsection for the previous fiscal year, increa… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | add-at-end | in subsection (e)(1) by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397gg` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-8` | insert | by inserting “and including as such subsection (b) is applied pursuant to subsections (e)(1)(V) and (h) of section 2107 with respect to child health assistance and pregnancy-related assistance under a State child health plan under title … | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 256b` | insert | in clause (i), by inserting before the period the following: “and shall not request payment under title XXI of such Act for child health assistance or pregnancy-related assistance (as defined in section 2112(d)(1) of such Act) under a St… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256b` | insert | in clause (ii), by inserting “, including as applied pursuant to subsections (e)(1)(V) and (h) of section 2107 of such Act,” after “the requirements of section 1927(a)(5)(C) of the Social Security Act”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | strike | in subclause (V), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396r-8` | replace | in subclause (VI), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397jj` | strike | in subclause (II), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1397jj` | insert | by inserting after subclause (III) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397dd` | strike | in subparagraph (B)(ii), by striking “or District”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1397dd` | strike | in the matter following subparagraph (B), by striking each place it occurs “or District”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397gg` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397ll` | insert | in paragraph (1), by inserting “and includes, through application of section 1902(e)(5)(B) pursuant to section 2107(e)(1)(J)(ii), continuous coverage for pregnant and postpartum individuals, including 12 months postpartum of assistance” … | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1397gg` | redesignate | by redesignating subparagraphs (K) through (T) as subparagraphs (L) through (U), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1397gg` | insert | by inserting after subparagraph (J) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (GG), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (HH), by striking the period at the end and adding “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | Section 1861 of the Social Security Act (42 U.S.C. 1395x) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | insert | in subparagraph (N), by inserting “and dental and oral health services (as defined in section 1861(lll))” after “section 1861(hhh)(1))”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397dd` | strike | in the matter following subparagraph (B), by striking each place it occurs “or District” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397dd` | strike | Section 2104(m)(7)(A) of the Social Security Act (42 U.S.C. 1397dd(m)(7)(A)) is amended by striking “and ending with fiscal year 2027,”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395x` | insert | by inserting “(and, beginning January 1, 2023, such aural rehabilitation and treatment services)” after “assessment services”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | insert | by inserting “, and, beginning on January 1, 2023, such hearing assessment services furnished by a qualified hearing aid professional,” after “by a qualified audiologist”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | add-at-end | in paragraph (4), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | strike | by striking “and” before “(EE)”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “and (FF) with respect to dental and oral health services (as defined in section 1861(lll)), the amount paid shall be the payment amount specified under section 1834(z)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | insert | Section 1848(j)(3) of the Social Security Act (42 U.S.C. 1395w–4(j)(3)) is amended by inserting “(2)(II),” before “(3)”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-4` | strike | in subclause (II), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-4` | replace | in subclause (III), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395u` | add-at-end | Section 1842(b)(18)(C) of the Social Security Act (42 U.S.C. 1395u(b)(18)(C)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | strike | by striking “(other than dental)”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | insert | by inserting “and excluding dental, except for a full or partial set of dentures (as described in section 1834(h)(6)) furnished on or after January 1, 2028” after “colostomy care”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in the subparagraph heading, by inserting “, dentures” after “orthotics”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “, of dentures described in paragraph (2)(D) of such section,” after “2011,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “, such dentures” after “orthotics”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “and (FF) with respect to hearing assessment services (as described in paragraph (3) of section 1861(ll)) furnished by a qualified hearing aid professional (as defined in paragr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)) is amended by inserting “, and including hearing aids (as described in section 1834(h)(7)) furnished on or after January 1, 2023, to individuals diagnosed with moderat… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | insert | in the header, by inserting “and hearing aids” after “orthotics”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395m` | insert | by inserting “, or of hearing aids described in paragraph (2)(D) of such section,” after “2011,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “or such hearing aids” after “such orthotics”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | strike | in subparagraph (O), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395y` | replace | in subparagraph (P), by striking the semicolon at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | in paragraph (12), by inserting before the semicolon at the end the following: “and except that payment may be made under part B for dental and oral health services that are covered under section 1861(s)(2)(II) and for dentures under sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395r` | add-at-end | Paragraphs (1) and (4) of section 1839(a) of the Social Security Act (42 U.S.C. 1395r(a)) are amended by adding at the end of each such paragraphs the following: “In applying this paragraph there shall not be taken into account benefits … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w` | replace | in paragraph (4), by striking the period at the end and inserting “; plus”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | insert | Section 1861(ll)(3) of the Social Security Act (42 U.S.C. 1395x(ll)(3)) is amended by inserting “(and, beginning October 1, 2023, such aural rehabilitation and treatment services)” after “assessment services”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | insert | Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)) is amended by inserting “, and including hearing aids (as described in section 1834(h)(7)) furnished on or after October 1, 2023, to individuals diagnosed with profoun… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)), as amended by section 30901(e)(2)(A), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in the header, by inserting “, hearing aids” after “dentures”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “, of hearing aids described in paragraph (2)(E) of such section,” after “paragraph (2)(D) of such section”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “, such hearing aids” after “such dentures”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)), as amended by section 30901(e)(2)(B)(ii), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)), as amended by section 30901(e)(2)(B)(iii), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395u` | add-at-end | Section 1842(b)(18)(C) of the Social Security Act (42 U.S.C. 1395u(b)(18)(C)), as amended by section 30901(d)(4), is further amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395u` | add-at-end | Section 1842(b)(18)(C) of the Social Security Act (42 U.S.C. 1395u(b)(18)(C)), is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395y` | insert | Section 1862(a)(7) of the Social Security Act (42 U.S.C. 1395y(a)(7)) is amended by inserting “(except such hearing aids or examinations therefor as described in and otherwise allowed under section 1861(s)(8))” after “hearing aids or exa… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (HH), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (II), by striking the period at the end and adding “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | Section 1861 of the Social Security Act (42 U.S.C. 1395x), as amended by section 30901(b), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m), as amended by section 30901(c)(2), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | insert | Section 1848(j)(3) of the Social Security Act (42 U.S.C. 1395w–4(j)(3)), as amended by section 30901(d)(1), is further amended by inserting “(2)(JJ),” before “(3)”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395u` | insert | Section 1842(b)(11)(A) of the Social Security Act (42 U.S.C. 1395u(b)(11)(A)) is amended by inserting “furnished prior to October 1, 2022,” after “relating to them,”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)), as amended by section 30901(e)(2)(A) and section 30902(b)(2), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in the header by inserting “, eyeglasses, and contact lenses” after “hearing aids”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “and of eyeglasses and contact lenses described in paragraph (2)(F) of such section,” after “paragraph (2)(E) of such section,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “, or such eyeglasses and contact lenses” after “such hearing aids”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)), as amended by section 30901(e)(2)(B)(ii) and section 30902(b)(3)(B)(i), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)), as amended by section 30901(e)(2)(B)(iii) and section 30902(b)(3)(B)(ii), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | strike | in subparagraph (P), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395y` | replace | in subparagraph (Q), by striking the semicolon at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | by inserting “(other than such an examination that is a vision service that is covered under section 1861(s)(2)(JJ))” after “eye examinations”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | insert | by inserting “(other than such a procedure that is a vision service that is covered under section 1861(s)(2)(JJ))” after “refractive state of the eyes”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395r` | insert | The last sentence of section 1839(a)(1) of the Social Security Act (42 U.S.C. 1395r(a)(1)), as added by section 30901(g)(1) and amended by section 30902(d)(1), is further amended by inserting “, and 30903 (other than subsection (h))” aft… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w` | insert | Paragraph (4) of section 1844(a) of such Act (42 U.S.C. 1395w(a)), as added by section 30901(g)(2) and amended by section 30902(d)(2), is further amended by inserting “, and 30903 (other than subsection (h))” after “30902 (other than sub… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300mm` | add-at-end | Title XXXIII of the Public Health Service Act (42 U.S.C. 300mm et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395i-5` | strike | in clause (i), by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395i-5` | replace | in clause (ii), by striking the period and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395i-5` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | Section 1861(aa)(1)(A) of the Social Security Act (42 U.S.C. 1395x(aa)(1)(A)) is amended by inserting “(including audiology services (as defined in subsection (ll)(3)))” after “physicians’ services”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | insert | Section 1861(aa)(1)(B) of the Social Security Act (42 U.S.C. 1395x(aa)(1)(B)) is amended by inserting “or by a qualified audiologist or a qualified hearing aid professional (as such terms are defined in subsection (ll)),” after “(as defi… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395l` | insert | in subsection (a)(3)(A), by inserting “(which shall, in the case of audiology services (as defined in section 1861(ll)(3)), in lieu of any limits on reasonable charges otherwise applicable, be based on the rates payable for such services… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834(o) of the Social Security Act (42 U.S.C. 1395m(o)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300mm-21` | add-at-end | Title XXXIII of the Public Health Service Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300mm-41` | insert | in subsection (a), by inserting “and the World Trade Center Health Program Supplemental Fund” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300mm-41` | insert | in paragraph (1)(B), by inserting “(excluding any expenditures from amounts in the World Trade Center Health Program Supplemental Fund under section 3352)” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300mm-41` | insert | in paragraph (2), in the flush text following subparagraph (C), by inserting “(excluding any expenditures from amounts in the World Trade Center Health Program Supplemental Fund under section 3352)” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300mm-61` | insert | in paragraph (2), by inserting “or as available from the World Trade Center Health Program Supplemental Fund under section 3352” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300mm-61` | insert | in paragraph (3), by inserting “or as available from the World Trade Center Health Program Supplemental Fund under section 3352” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300mm-51` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300mm-51` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300mm-61` | insert | Section 3351(c)(5) of such Act (42 U.S.C. 300mm–61(c)(5)) is amended in the matter preceding subparagraph (A), by inserting “(other than subsection (c) of such section)” after “section 3341”. | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 309` | insert | Section 309(j)(11) of the Communications Act of 1934 (47 U.S.C. 309(j)(11)) is amended by inserting after “2025” the following: “, and with respect to the electromagnetic spectrum identified under section 31201(b)(2)(A) of the Act to pro… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5701` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1255` | insert | Chapter 5 of title II of the Immigration and Nationality Act (8 U.S.C. 1255 et seq.) is amended by inserting after section 245A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | insert | The table of contents for the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended by inserting after the item relating to 245A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 45` | insert | by inserting “this Act’s prohibition of unfair or deceptive acts or practices or” after “violates” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 45` | insert | by inserting “a violation of this Act or” after “unfair or deceptive and”. | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 5708` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1151` | amend | Section 201(c)(1)(B)(ii) of the Immigration and Nationality Act (8 U.S.C. 1151(c)(1)(B)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1151` | add-at-end | Section 201 of the Immigration and Nationality Act (8 U.S.C. 1151) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1255` | add-at-end | Section 245 of the Immigration and Nationality Act (8 U.S.C. 1255) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | add-at-end | in subparagraph (A)(i), by adding at the end the following: “A petition for classification by reason of a relationship described in paragraph (1), (3), or (4) of section 203(a) shall be accompanied by a supplemental fee in the amount of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | add-at-end | in subparagraph (B)(i)(I), by adding at the end the following: “Such petition shall be accompanied by a supplemental fee in the amount of $100.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | add-at-end | in subparagraph (E), by adding at the end the following: “Such petition shall be accompanied by a supplemental fee in the amount of $800.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | add-at-end | in subparagraph (F), by adding at the end the following: “Such petition shall be accompanied by a supplemental fee in the amount of $800.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1154` | add-at-end | in subparagraph (H), by adding at the end the following: “Such petition shall be accompanied by a supplemental fee in the amount of $15,000.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 539p` | repeal | Section 3003 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (16 U.S.C. 539p) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 407` | add-at-end | In subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 5304` | amend | In subsection (c), by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 407` | strike | By striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | replace | by striking “The term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1331` | insert | by inserting after “control” the following: “or lying within the exclusive economic zone of the United States and the outer Continental Shelf adjacent to any territory of the United States”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | strike | in subsection (p), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1331` | replace | in subsection (q), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1344` | add-at-end | Section 18 of the Outer Continental Shelf Lands Act (43 U.S.C. 1344) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | add-at-end | The Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1337` | repeal | Section 20001 of Public Law 115–97 is repealed and any leases issued pursuant to section 20001 of Public Law 115–97 are hereby cancelled and all payments related to the leases shall be returned to the lessee(s) within 30 days of enactmen… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1337` | add-at-end | Section 8 of the Outer Continental Shelf Lands Act (43 U.S.C. 1337) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1337` | strike | Section 8 of the Outer Continental Shelf Lands Act (43 U.S.C. 1337) is amended by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 201` | strike | in paragraph (1), by striking the second and third sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 201` | strike | by striking paragraphs (4) and (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 207` | insert | Section 7(a) of the Mineral Leasing Act (30 U.S.C. 207) is amended in the third sentence by inserting “at a rental rate of not less than $100 per acre (as reviewed and, if appropriate, adjusted by the Secretary every 4 years)” before the… | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 226` | add-at-end | Section 17 of the Mineral Leasing Act (30 U.S.C. 226), as amended by this subtitle is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | strike | in section 17(b) (30 U.S.C. 226(b)), by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | amend | by amending section 17(c) (30 U.S.C. 226(c)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | strike | by striking “Provided, however” and all that follows through “ten years.”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 188` | strike | in section 31(d)(1) (30 U.S.C. 188(d)(1)) by striking “or (c)”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 188` | replace | in paragraph (2) by striking “, or the inclusion” and all that follows and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 188` | strike | in paragraph (3) by striking “(A)” and by striking subparagraph (B); | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 188` | strike | by striking section 31(f) (30 U.S.C. 188(f)); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 188` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | insert | by inserting “Each such bond, surety, or other financial arrangement shall be considered inadequate if such bond, surety, or other financial arrangement is for less than $150,000 in the case of an arrangement for an individual surface-di… | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 226` | redesignate | by redesignating existing subsection (g) as paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1718` | add-at-end | Section 108 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1718) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1348` | add-at-end | Section 22 of the Outer Continental Shelf Lands Act (43 U.S.C. 1348) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 223` | add-at-end | in section 14 (30 U.S.C. 223), by adding at the end the following: “Royalties shall be assessed with respect to oil and gas, other than gas vented or flared for not longer than 48 hours in an acute emergency situation that poses a danger… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 251` | strike | in section 22 (30 U.S.C. 251), by striking “sold or removed”; and | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 188` | strike | in section 31 (30 U.S.C. 188), by striking “removed or sold” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1335` | strike | in section 6(a)(8) (43 U.S.C. 1335(a)(8)), by striking “saved, removed, or sold” each place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1337` | strike | in paragraph (1), by striking “saved, removed, or sold” each place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1337` | strike | Section 8(a)(1)(H) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(a)(1)(H)) is amended by striking “, and with suspension of royalties for a period, volume, or value of production determined by the Secretary, which suspensions … | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1337` | strike | Section 8(a)(1)(H) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(a)(1)(H)) is amended by striking “, and with suspension of royalties for a period, volume, or value of production determined by the Secretary, which suspensions … | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1337` | strike | by striking subparagraphs (A) and (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1337` | redesignate | by redesignating subparagraph (C) as subparagraph (A). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15904` | repeal | Section 344 of the Energy Policy Act of 2005 (42 U.S.C. 15904) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15905` | repeal | Section 345 of the Energy Policy Act of 2005 (42 U.S.C. 15905) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6506a` | strike | in subsection (i), by striking paragraphs (2) through (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6506a` | strike | by striking subsection (k). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 20001 of Public Law 115–97 is repealed and any leases issued pursuant to section 20001 of Public Law 115–97 are hereby cancelled and all payments related to the leases shall be returned to the lessee(s) within 30 days of enactmen… | the bill names no machine-readable US Code section |
 | `30 U.S.C. § 209` | repeal | Section 39 of the Mineral Leasing Act (30 U.S.C. 209) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 188` | strike | Section 31(h) of the Mineral Leasing Act (30 U.S.C. 188(h)) is amended by striking “and the provisions of section 39 of this Act”. | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1719` | redesignate | by redesignating existing subsections (e) through (l) as (f) through (m), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1719` | add-at-end | by adding at the end: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1350` | amend | Section 24(b) of the Outer Continental Shelf Lands Act (43 U.S.C. 1350(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1702` | strike | in paragraph (20)(A), by striking “: Provided, That” and all that follows through “subject of the judicial proceeding”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1702` | strike | in paragraph (20)(B), by striking “(with written notice to the lessee who designated the designee)”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1702` | strike | in paragraph (23)(A), by striking “(with written notice to the lessee who designated the designee)”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1702` | amend | by amending paragraph (24) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1702` | strike | by striking “(subject to the provisions of section 102(a) of this Act)”; and | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1702` | replace | in clause (ii), by striking subclause (IV) and all that follows through the end of the subparagraph and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1702` | insert | in paragraph (29), by inserting “or permit” after “lease”. | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 1711` | add-at-end | Section 101 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1711) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1712` | amend | Section 102(a) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1712(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1721a` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1721a` | strike | in subparagraph (C), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1721a` | replace | in subparagraph (D), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 1721a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1724` | amend | Section 115(b)(1) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1724(b)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1724` | add-at-end | Section 115(c) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1724(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1736` | strike | Section 206 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1736) is amended by striking “Any payments under this section shall be reduced by an amount equal to any payments provided or due to such State or Indian Tr… | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1721a` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1721a` | strike | in subparagraph (C), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1721a` | replace | in subparagraph (D), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 1721a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1724` | strike | by striking “(with notice to the lessee who designated the designee)”; and | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1724` | add-at-end | by adding at the end “A tolling agreement executed by a designee shall bind both the owner of legal record title in a lease and the owner of operating rights in a lease, and any designee. The owner of the legal record title and the owner… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1724` | strike | Section 115(d)(2)(A) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1724(d)(2)(A)) is amended by striking “(with notice to the lessee who designated the designee, which notice shall not constitute a subpoena to the … | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 1713` | amend | Section 103(a) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1713(a)) is amended to read: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 1721` | amend | Section 111(i) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1721(i)) is amended to read: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657b` | add-at-end | Section 32 of the Small Business Act (15 U.S.C. 657b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 694b` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 694c` | strike | in subsection (a), in the third sentence, by striking “, excluding administrative expenses,”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 694c` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 694c` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | add-at-end | Section 7(j)(10) of the Small Business Act (15 U.S.C. 636(j)(10)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | add-at-end | Section 7(j)(10) of the Small Business Act (15 U.S.C. 636(j)(10)), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | redesignate | by redesignating section 49 (15 U.S.C. 631 note) as section 55; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | insert | by inserting after section 48 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 49, as added by section 10104, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 50, as added by section 10201 of this title, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694c` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694c` | strike | in section 412(a) (15 U.S.C. 694c(a)), in the third sentence, by striking “, excluding administrative expenses,”. | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 631` | redesignate | by redesignating section 49 (15 U.S.C. 631 note) as section 54; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45D` | insert | by inserting after section 48 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Small Business Act is amended by inserting after section 49, as added by section 100201 of this title, the following: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 653` | add-at-end | Section 26 of the Small Business Act (15 U.S.C. 653) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7 of the Small Business Act (15 U.S.C. 636) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 51, as added by section 10202 of this title, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Small Business Act is amended by inserting after section 50, as added by section 100202 of this title, the following: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 662` | strike | in subclause (II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 662` | amend | in subclause (III), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 662` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 662` | amend | in subparagraph (A), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 662` | replace | by striking subparagraphs (B) and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 682` | strike | in subparagraph (A), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 682` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 682` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 661` | add-at-end | The Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 662` | strike | in paragraph (13)(C), by striking “in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or licensee”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 684` | add-at-end | in section 304 (15 U.S.C. 684), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45D` | add-at-end | by adding at the end of the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 681` | add-at-end | Section 301(c) of the Small Business Investment Act of 1958 (15 U.S.C. 681(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | replace | in paragraph (1)(A)(i), in the third sentence, by striking “; and” and all that follows through the period at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 636` | replace | in paragraph (4)(A), by striking the comma after “prescribed by the Administration” and all that follows through the period at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | in paragraph (26), by inserting “(except for those collected under paragraph (39))” after “profits”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | add-at-end | Section 7(a) of the Small Business Act (15 U.S.C. 636(a)), as amended by section 10502, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 697` | add-at-end | Section 503 of the Small Business Investment Act of 1958 (15 U.S.C. 697) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 695` | amend | Section 501(e)(4) of the Small Business Investment Act of 1958 (15 U.S.C. 695(e)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 52, as added by section 10301 of this title, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 631` | insert | The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 53, as added by subsection (a), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45K` | insert | Section 47112(a) of title 49, United States Code, is amended by inserting “or labor for a project funded under section 110011 of the Act entitled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14” after “this s… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 801` | amend | The term “Tribal prime-age population” shall be equal to the sum obtained by adding— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | add-at-end | Section 7(a) of the Small Business Act (15 U.S.C. 636(a)), as amended by section 100502, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Small Business Act is amended by inserting after section 51, as added by section 100301 of this title, the following: | the bill names no machine-readable US Code section |
+| — | insert | The Small Business Act is amended by inserting after section 52, as added by subsection (a), the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (2) of section 8162(a) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 8169 of such title is amended by striking “December 31, 2023” and inserting “September 30, 2026”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “No funds” and inserting “(A) No funds”; | the bill names no machine-readable US Code section |
@@ -4312,39 +4044,14 @@ complete account of the bill's effect, which it is not.
 | — | amend | Subparagraph (B) of paragraph (3) of such subsection is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | repeal | Effective upon the date of execution of the final lease award for leases described in subsection (d), subsections (a) through (e) of this section and the amendments made by those subsections are repealed and any provision of law amended … | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 301` | add-at-end | The Social Security Act (42 U.S.C. 301 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 2612` | add-at-end | as if paragraph (1) were amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 653` | redesignate | by redesignating paragraphs (5) through (11) as paragraphs (6) through (12), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 653` | amend | by adding after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | add-at-end | Section 414 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4975` | add-at-end | Section 4975(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 72` | add-at-end | Section 72(t) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | add-at-end | Chapter 43 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | add-at-end | The table of sections for chapter 43 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | add-at-end | Section 401(k) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | insert | Section 414(v)(2)(B)(i) is amended by inserting “, 401(k)(16),” after “401(k)(11)”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 414` | add-at-end | Section 414(v)(2)(B) is amended by adding at the end thereof the following clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 414` | insert | by inserting before the period at the end the following “($100 in the case of an increase in the amount described in subparagraph (B)(iii) which is not a multiple of $100)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45E` | insert | Section 45E(a) is amended by inserting before the period at the end the following: “(100 percent of such costs in the case of an eligible employer with 25 or fewer employees, as determined by substituting 25 for 100 in section 408(p)(2)(… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45E` | insert | Section 45E(d)(2) is amended by inserting “(other than a deferral-only arrangement (as defined in section 401(k)(16)(B))” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 45E` | add-at-end | Section 45E is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | replace | Section 38(b) of is amended by striking “plus” at the end of paragraph (32), by striking the period at the end of paragraph (33) and inserting “, plus”, and by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 6433` | add-at-end | Subchapter B of chapter 65 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 25B` | replace | Section 25B is amended by striking subsections (a) through (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 25B` | add-at-end | The table of sections for subchapter B of chapter 65 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 219` | replace | by striking “is made not later than” and inserting | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 219` | replace | by striking the period at the end and inserting “, or”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 219` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | insert | Part A of title IV of the Social Security Act (42 U.S.C. 601–619) is amended by inserting after section 418 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | insert | Part A of title IV of the Social Security Act (42 U.S.C. 601–619) is further amended by inserting after section 418A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | insert | Part A of title IV of the Social Security Act (42 U.S.C. 601–619) is further amended by inserting after section 418B the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | insert | Part A of title IV of the Social Security Act (42 U.S.C. 601–619) is further amended by inserting after section 418C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 601` | insert | Part A of title IV of the Social Security Act (42 U.S.C. 601–619) is further amended by inserting after section 418D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 619` | add-at-end | Section 419 of the Social Security Act (42 U.S.C. 619) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 611` | add-at-end | Section 411 of such Act (42 U.S.C. 611) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1308` | insert | Section 1108(a) of such Act (42 U.S.C. 1308(a)) is amended by inserting “418A, 418B, 418C, 418D, 418E,” before “or”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | add-at-end | The Social Security Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 653` | add-at-end | Section 453(j) of the Social Security Act (42 U.S.C. 653(j)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | Section 6103(l) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 139I the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139I the following new item: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395i-3` | replace | Section 1819(b)(4)(C)(i) of the Social Security Act (42 U.S.C. 1395i–3(b)(4)(C)(i)) is amended by striking “registered professional nurse” and all that follows through the period at the end and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396r` | replace | Section 1919(b)(4)(C)(i)(II) of the Social Security Act (42 U.S.C. 1396r(b)(4)(C)(i)(II)) is amended by striking “registered professional nurse” and all that follows through the period at the end and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395cc-5` | add-at-end | Section 1866E of the Social Security Act (42 U.S.C. 1395cc–5) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Section 406 of the Trade Adjustment Assistance Reauthorization Act of 2015 (Public Law 114–27; 129 Stat. 379) is repealed. | the bill names no machine-readable US Code section |
 | `19 U.S.C. § 2271` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2272` | insert | in clause (i), by inserting “, failed to increase, or will decrease absolutely due to a scheduled or imminently anticipated, long-term decrease in or reallocation of the production capacity of the firm” after “absolutely”; and | the bill quotes the text inserted but describes where it goes |
@@ -4364,13 +4071,11 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2291` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2293` | replace | by striking “, and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2293` | strike | by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2291` | redesignate | by redesignating subparagraphs (A), (B), and (C) as subparagraphs (C), (D), and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 401` | redesignate | by inserting before subparagraph (C) (as redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2293` | insert | in paragraph (2), by inserting after “104-week period” the following: “(or, in the case of an adversely affected worker who requires a program of prerequisite education or remedial education (as described in section 236(a)(5)(D)) in orde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2293` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2293` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2291` | insert | Part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2291 et seq.) is amended by inserting after section 233 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2291` | insert | The table of contents for the Trade Act of 1974 is amended by inserting after the item relating to section 233 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2291-2294` | insert | Part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2291-2294) is amended by inserting after section 233 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2291-2294` | insert | The table of contents for the Trade Act of 1974 is amended by inserting after the item relating to section 233 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2295` | insert | by inserting after “regional areas” the following: “(including information about registered apprenticeship programs, on-the-job training opportunities, and other work-based learning opportunities)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2295` | insert | by inserting after “suitable training” the following: “, information regarding the track record of a training provider’s ability to successfully place participants into suitable employment”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2295` | redesignate | by redesignating paragraph (8) as paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4383,8 +4088,8 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2296` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2297` | add-at-end | by adding at the end the following; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2298` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2295` | add-at-end | Part II of subchapter B of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2295 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2295` | amend | The table of contents for the Trade Act of 1974 is amended by adding after the item relating to section 238 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2295-2298` | add-at-end | Part II of subchapter B of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2295-2298) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2295-2298` | amend | The table of contents for the Trade Act of 1974 is amended by adding after the item relating to section 238 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2311` | replace | by striking “(f) Any agreement” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2311` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2311` | redesignate | by redesignating— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4401,6 +4106,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2272` | redesignate | in subsection (d) (as redesignated), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2319` | insert | by inserting “, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands,” after “District of Columbia”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2319` | add-at-end | Section 247 of the Trade Act of 1974 (19 U.S.C. 2319), as amended by section 133113(a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2320` | add-at-end | Section 248 of the Trade Act of 1974 (19 U.S.C. 2320) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2321` | add-at-end | in subsection (a), by adding at the end the following: “The authority under the preceding sentence includes the authority of States to require, by subpoena, a firm to provide information on workers employed by, or totally or partially se… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2341` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4410,18 +4116,24 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2342` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2343` | add-at-end | Section 253(a)(3) of the Trade Act of 1974 (19 U.S.C. 2343(a)(3)) is amended by adding at the end before the period the following: “, including assistance to provide skills training programs to employees of the firm”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2351` | add-at-end | Section 259 of the Trade Act of 1974 (19 U.S.C. 2351) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2341` | add-at-end | Chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2341` | insert | The table of contents for the Trade Act of 1974 is amended by inserting after the item relating to section 262 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2371` | insert | by inserting after the chapter heading the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2371` | redesignate | by redesignating sections 271 and 272 as sections 279 and 279A, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2371` | insert | by inserting before subchapter B (as designated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2371` | replace | The table of contents for the Trade Act of 1974 is amended by striking the items relating to chapter 4 of title II and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 133301` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 133301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 133301` | add-at-end | In subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 133301` | strike | in subclause (I), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 133301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 133301` | redesignate | By redesignating subsection (e) as subsection (h) and inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2341-2355` | add-at-end | Chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341-2355) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2341-2355` | insert | The table of contents for the Trade Act of 1974 is amended by inserting after the item relating to section 262 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2371-2372` | insert | by inserting after the chapter heading the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2371-2372` | redesignate | by redesignating sections 271 and 272 as sections 279 and 279A, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2371-2372` | insert | by inserting before subchapter B (as designated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2371-2372` | replace | The table of contents for the Trade Act of 1974 is amended by striking the items relating to chapter 4 of title II and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (1), by striking “eligible institutions” and inserting “eligible entities”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “eligible institution” and inserting “eligible entity”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$1,000,000” and inserting “$2,500,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “(B)” and inserting “(B)(i) in the case of an eligible institution,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | In subsection (b), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “eligible institution” each place it appears and inserting “eligible entity”; and | the bill names no machine-readable US Code section |
+| — | strike | in subclause (I), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | In subsection (d), by striking “eligible institution” each place it appears and inserting “eligible entity”. | the bill names no machine-readable US Code section |
+| — | redesignate | By redesignating subsection (e) as subsection (h) and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | `19 U.S.C. § 2401` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2401` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2401` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4438,7 +4150,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2296` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2296` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2317` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2345` | add-at-end | Section 255(a) of the Trade Act of 1974 (19 U.S.C. 2345(a)) is amended in the first sentence by adding at the end before the period the following: “and $50,000,000 for each of the fiscal years 2022 through 2028”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2345` | add-at-end | Section 255(a) of the Trade Act of 1974 (19 U.S.C. 2345(a)) is amended in the first sentence by adding at the end before the period the following: “and $50,000,000 for each of the fiscal years 2022 through 2025”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2401g` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2271` | strike | Section 151 of the Trade Act of 2002 (19 U.S.C. note prec. 2271) is amended by striking subsections (a), (b), and (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2271` | repeal | Section 1891 of the Trade and Globalization Adjustment Assistance Act of 2009 (19 U.S.C. 2271 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4446,7 +4158,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2271` | strike | in section 231(a) (19 U.S.C. 2271 note), by striking paragraphs (1)(B) and (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2319` | strike | in section 402 (19 U.S.C. note prec. 2271), by striking subsections (b) and (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2319` | strike | in section 405(a)(1) (19 U.S.C. 2319(a)(1)), by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | add-at-end | Effective October 1, 2021, title XX of the Social Security Act (42 U.S.C. 1397-1397n–13) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1602` | add-at-end | Effective October 1, 2021, title XX of the Social Security Act (42 U.S.C. 1397–1397n–13) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397m` | amend | Section 2041 of the Social Security Act (42 U.S.C. 1397m) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397m-1` | insert | by inserting “and adults who are under a disability (as defined in section 216(i)(1))” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397m-1` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4466,123 +4178,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1397m-2` | replace | in subsection (a), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397m-2` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3032` | add-at-end | Part II of subtitle B of title XX of the Social Security Act (42 U.S.C. 1397m-1397m–5) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395yy` | replace | by striking “Funding.—For purposes” and inserting | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395yy` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395yy` | strike | in the header, by striking “for failure to report”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395yy` | replace | by striking “For fiscal years” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395yy` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395yy` | add-at-end | Section 1888(f) of the Social Security Act (42 U.S.C. 1395yy(f)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395i-3` | add-at-end | Section 1819 of the Social Security Act (42 U.S.C. 1395i–3) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395i-3` | insert | in paragraph (4)(A), by inserting “and any regulations promulgated under paragraph (5)(C)” after “section 1124”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395i-3` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (GG), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (HH), by striking the period at the end and adding “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | Section 1861 of the Social Security Act (42 U.S.C. 1395x) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | insert | in subparagraph (N), by inserting “and dental and oral health services (as defined in section 1861(lll))” after “section 1861(hhh)(1))”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | strike | by striking “and” before “(DD)”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “and (EE) with respect to dental and oral health services (as defined in section 1861(lll)), the amount paid shall be the payment amount specified under section 1834(z)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | insert | Section 1848(j)(3) of the Social Security Act (42 U.S.C. 1395w–4(j)(3)) is amended by inserting “(2)(II),” before “(3)”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-4` | strike | in subclause (II), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-4` | replace | in subclause (III), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395u` | add-at-end | Section 1842(b)(18)(C) of the Social Security Act (42 U.S.C. 1395u(b)(18)(C)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | strike | by striking “(other than dental)”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | insert | by inserting “and excluding dental, except for a full or partial set of dentures (as described in section 1834(h)(6)) furnished on or after January 1, 2028” after “colostomy care”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in the subparagraph heading, by inserting “, dentures” after “orthotics”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “, of dentures described in paragraph (2)(D) of such section,” after “2011,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “, such dentures” after “orthotics”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | strike | in subparagraph (O), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395y` | replace | in subparagraph (P), by striking the semicolon at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | in paragraph (12), by inserting before the semicolon at the end the following: “and except that payment may be made under part B for dental and oral health services that are covered under section 1861(s)(2)(II) and for dentures under sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395r` | add-at-end | Paragraphs (1) and (4) of section 1839(a) of the Social Security Act (42 U.S.C. 1395r(a)) are amended by adding at the end of each such paragraphs the following: “In applying this paragraph there shall not be taken into account benefits … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w` | replace | in paragraph (4), by striking the period at the end and inserting “; plus”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | insert | Section 1861(ll)(3) of the Social Security Act (42 U.S.C. 1395x(ll)(3)) is amended by inserting “(and, beginning October 1, 2023, such aural rehabilitation and treatment services)” after “assessment services”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | insert | Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)) is amended by inserting “, and including hearing aids (as described in section 1834(h)(7)) furnished on or after October 1, 2023, to individuals diagnosed with profoun… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)), as amended by section 134401(e)(2)(A), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in the header, by inserting “, hearing aids” after “dentures”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “, of hearing aids described in paragraph (2)(E) of such section,” after “paragraph (2)(D) of such section”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “, such hearing aids” after “such dentures”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)), as amended by section 134401(e)(2)(B)(ii), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)), as amended by section 134401(e)(2)(B)(iii), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395u` | add-at-end | Section 1842(b)(18)(C) of the Social Security Act (42 U.S.C. 1395u(b)(18)(C)), as amended by section 134401(d)(4), is further amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | Section 1862(a)(7) of the Social Security Act (42 U.S.C. 1395y(a)(7)) is amended by inserting “(except such hearing aids or examinations therefor as described in and otherwise allowed under section 1861(s)(8))” after “hearing aids or exa… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (HH), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | strike | in subparagraph (II), by striking the period at the end and adding “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | add-at-end | Section 1861 of the Social Security Act (42 U.S.C. 1395x), as amended by section 134401(b), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m), as amended by section 134401(c)(2), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | insert | Section 1848(j)(3) of the Social Security Act (42 U.S.C. 1395w–4(j)(3)), as amended by section 134401(d)(1), is further amended by inserting “(2)(JJ),” before “(3)”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395u` | insert | Section 1842(b)(11)(A) of the Social Security Act (42 U.S.C. 1395u(b)(11)(A)) is amended by inserting “furnished prior to October 1, 2022,” after “relating to them,”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)), as amended by section 134401(e)(2)(A) and section 134402(b)(2), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in the header by inserting “, eyeglasses, and contact lenses” after “hearing aids”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “and of eyeglasses and contact lenses described in paragraph (2)(F) of such section,” after “paragraph (2)(E) of such section,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “, or such eyeglasses and contact lenses” after “such hearing aids”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)), as amended by section 134401(e)(2)(B)(ii) and section 134402(b)(3)(B)(i), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)), as amended by section 134401(e)(2)(B)(iii) and section 134402(b)(3)(B)(ii), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | strike | in subparagraph (P), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395y` | replace | in subparagraph (Q), by striking the semicolon at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395y` | insert | by inserting “(other than such an examination that is a vision service that is covered under section 1861(s)(2)(JJ))” after “eye examinations”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395y` | insert | by inserting “(other than such a procedure that is a vision service that is covered under section 1861(s)(2)(JJ))” after “refractive state of the eyes”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395r` | insert | The last sentence of section 1839(a)(1) of the Social Security Act (42 U.S.C. 1395r(a)(1)), as added by section 134401(g)(1) and amended by section 134402(d)(1), is further amended by inserting “, and 134403 (other than subsection (h))” … | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w` | insert | Paragraph (4) of section 1844(a) of such Act (42 U.S.C. 1395w(a)), as added by section 134401(g)(2) and amended by section 134402(d)(2), is further amended by inserting “, and 134403 (other than subsection (h))” after “134402 (other than… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6431A` | insert | Subchapter B of chapter 65 is amended by inserting before section 6432 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6431A` | insert | The table of sections for subchapter B of chapter 65 is amended by inserting before the item relating to section 6432 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 149` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (5) and (7), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 149` | insert | by inserting after paragraph (1) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 149` | redesignate | by inserting after paragraph (5) (as so redesignated) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 148` | redesignate | Section 148(f)(4)(C) is amended by redesignating clauses (xiv) through (xvi) as clauses (xv) to (xvii), respectively, and by inserting after clause (xiii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 265` | redesignate | by redesignating clauses (iv), (v), and (vi) of subparagraph (G) as clauses (ii), (iii), and (iv), respectively, and moving such clauses to the end of subparagraph (H) (as added by paragraph (2)), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 265` | replace | by striking so much of subparagraph (G) as precedes such clauses and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 265` | add-at-end | Section 265(b)(3), as amended by subsection (b), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 144` | amend | Subparagraph (C) of section 144(a)(12) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 144` | add-at-end | Section 144(a)(4) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 147` | redesignate | Section 147(c)(2) is amended by striking subparagraph (F) and by redesignating subparagraphs (G) and (H) as subparagraphs (F) and (G), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 144` | add-at-end | Section 144(a)(11) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 142` | strike | in paragraph (14), by striking “or” at the end, | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 142` | replace | in paragraph (15), by striking the period at the end and inserting “, or”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 142` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 142` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 142` | add-at-end | Section 142(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 905` | insert | Subchapter B of chapter 65, as amended by the preceding provisions of this Act, is amended by inserting before section 6432 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 905` | insert | Section 255(h) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(h)) is amended by inserting: “Payments made under section 6431B(b) of the Internal Revenue Code of 1986” after the item related to Payments for… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 905` | insert | The table of sections for subchapter B of chapter 65, as amended by the preceding provisions of this Act, is amended by inserting before the item relating to section 6432 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | replace | Section 45D(f)(1) is amended by striking “and” at the end of subparagraph (G) and by striking subparagraph (H) and inserting the following new subparagraphs: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 38` | redesignate | by redesignating clauses (v) through (xii) as clauses (vi) through (xiii), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | insert | by inserting after clause (iv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | add-at-end | Section 45D(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | strike | Section 45D(f)(3) is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 47` | add-at-end | Section 47(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 47` | add-at-end | Section 47 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 47` | insert | Section 47(c)(1)(B)(i)(I) is amended by inserting “50 percent of” before “the adjusted basis”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 50` | add-at-end | Section 50(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 50` | add-at-end | Section 50(d) is amended by adding at the end the following: “In the case of the rehabilitation credit, paragraph (5)(B) of the section 48(d) referred to in paragraph (5) of this subsection shall not apply.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 47` | add-at-end | Section 47(c)(2)(B)(v) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | add-at-end | Section 47(c)(2)(B)(v), as amended by the preceding provisions of this Act, is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 139` | redesignate | Section 139 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 165` | strike | Section 165(h) is amended by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1016` | insert | Subpart B of part IV of subchapter A of chapter 1 is amended by inserting after section 27 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1016` | redesignate | Section 1016(a) is amended by redesignating paragraphs (35) through (38) as paragraphs (36) through (39), respectively, and by inserting after paragraph (34) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1016` | insert | The table of sections for subpart B of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 27 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | amend | Section 42(h)(3)(I) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | add-at-end | Section 42(h)(4)(B) is amended by adding at the end the following: “The preceding sentence shall be applied by substituting 25 percent for 50 percent in the case of any building which is financed by any obligation issued in calendar year… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | amend | Section 42(h)(4)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (7), (8), and (9), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | add-at-end | Paragraph (5) of section 42(d) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | insert | Subclause (I) of section 42(d)(5)(B)(iii) is amended by inserting before the period the following: “, and any rural area”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | redesignate | Clause (iii) of section 42(d)(5)(B) is amended by redesignating subclause (II) as subclause (III) and by inserting after subclause (I) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 135503` | redesignate | Subclause (II) of section 42(h)(7)(E)(i), as redesignated by section 135503, is amended by inserting “in the case of a building described in clause (iii),” before “on the last day”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 135503` | redesignate | Subparagraph (E) of section 42(h)(7), as so redesignated, is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 135503` | redesignate | Paragraph (7) of section 42(h), as redesignated by section 135503, is amended by striking subparagraph (G) and by redesignating subparagraphs (H), (I), (J), and (K) as subparagraphs (G), (H), (I), and (J), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 135403` | redesignate | Subclause (II) of section 42(h)(7)(E)(i), as redesignated by section 135403, is amended by inserting “in the case of a building described in clause (iii),” before “on the last day”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 135403` | redesignate | Subparagraph (E) of section 42(h)(7), as so redesignated, is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 135403` | redesignate | Paragraph (7) of section 42(h), as redesignated by section 135403, is amended by striking subparagraph (G) and by redesignating subparagraphs (H), (I), (J), and (K) as subparagraphs (G), (H), (I), and (J), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | add-at-end | Subparagraph (A) of section 42(i)(7) is amended by adding at the end the following: “Except as provided by the Secretary, the rules of this paragraph shall apply to S corporations and other pass-through entities in the same manner as suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | add-at-end | Subparagraph (B) of section 42(i)(7) is amended by adding at the end the following: “In the case of a purchase of all of the partnership interests, the minimum purchase price under this subparagraph shall be an amount not less than the s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | add-at-end | Paragraph (7) of section 42(i) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | add-at-end | Subparagraph (A) of section 42(i)(7), as amended by subsection (a) and paragraph (1)(A), is amended by adding at the end the following: “For purposes of determining whether an option, including a right of first refusal, to purchase prope… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | replace | Subparagraph (B) of section 42(i)(7), as amended by subsection (b), is amended by striking “the sum of” and all that follows through “application of clause (ii).” and inserting the following: “the principal amount of outstanding indebted… | the bill quotes the text struck but describes what replaces it |
 | — | insert | Subpart D of part IV of subchapter A of chapter 1 is amended by inserting after section 42 the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 38(b), as amended by the preceding provisions of this Act, is amended by striking “plus” at the end of paragraph (34), by striking the period at the end of paragraph (35) and inserting “, plus”, and by adding at the end the follo… | the bill names no machine-readable US Code section |
 | — | insert | Section 38(c)(4)(B), as amended by the preceding provisions of this Act, is amended by redesginating clauses (iv) through (xiii) as clauses (v) through (xiv), respectively, and by inserting after clause (iii) the following new clause: | the bill names no machine-readable US Code section |
@@ -4590,29 +4198,27 @@ complete account of the bill's effect, which it is not.
 | — | insert | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 42 the following new item: | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 7871` | amend | Section 7871(c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45` | amend | Subparagraph (B) of section 45(c)(9) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | add-at-end | Section 45D(f), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45D` | add-at-end | Section 45D(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45D` | amend | Section 45D(e)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45D` | amend | Section 45D(f)(3), as amended by the preceding provisions of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 4103` | insert | Subclause (I) of section 42(d)(5)(B)(iii), as amended by the preceding provisions of this Act, is amended by inserting “, any Indian area” after “median gross income”. | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 4103` | redesignate | Clause (iii) of section 42(d)(5)(B), as amended by the preceding provisions of this Act is amended by redesignating subclause (III) as subclause (V) and by inserting after subclause (II) the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45D` | insert | is amended by inserting “under paragraph (1)” after “new markets tax credit limitation”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 42` | insert | Subclause (I) of section 42(d)(5)(B)(iii) is amended by inserting “, or any Indian area” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 42` | redesignate | Clause (iii) of section 42(d)(5)(B) is amended by redesignating subclause (II) as subclause (IV) and by inserting after subclause (I) the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | The table of sections for subpart B of part IV of subchapter A of chapter 1 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 45D(f), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 45D(f)(4), as added and amended by the preceding provisions of this Act, is amended by striking “paragraphs (1)(H) and (5)(A)” and inserting “paragraphs (1)(H), (5)(A), (6)(A)(i), and (6)(A)(ii)”. | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 45` | insert | Section 45(b)(5)(D) is amended by inserting “placed in service before January 1, 2022” after “In the case of any facility”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 48` | insert | Section 48(a)(5)(E)(iv) is amended by inserting “placed in service before January 1, 2022” after “In the case of any facility”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 139` | redesignate | Section 139 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45` | insert | Section 45(b)(5) is amended by inserting “placed in service before January 1, 2022” after “In the case of any facility”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 48` | insert | Section 48(a)(5)(E) is amended by inserting “placed in service before January 1, 2022” after “In the case of any facility”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48` | replace | Section 48(a)(5)(F)(i) is amended by striking “offshore wind facility—” and all that follows and inserting the following: “offshore wind facility, subparagraph (E) shall not apply.”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 45` | add-at-end | Section 45(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45` | add-at-end | Section 45(b) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 48` | replace | Section 48(a) is amended by striking paragraphs (6) and (7) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 48` | insert | The heading of section 48(a)(6) is amended by inserting “and geothermal” after “solar energy”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 45` | amend | Section 45(b)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | replace | Section 48(a) is amended by striking paragraphs (6) and (7) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | add-at-end | Section 48(a)(3)(A) is amended by striking “or” at the end of clause (vii), and by adding at the end the following new clauses: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 48` | add-at-end | Section 48(a)(2)(A)(i) is amended by striking “and” at the end of subclauses (IV) and (V) and adding at the end the following new subclauses: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 48` | insert | Section 48(a)(7) is amended by inserting “energy storage technology, qualified biogas property, microgrid contollers,” after “waste energy recovery property,”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48` | add-at-end | Section 48(c) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45` | add-at-end | Section 45(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | add-at-end | Section 48(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | insert | by inserting “or electromechanical” after “electrochemical”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 48` | insert | by inserting “(1 kilowatts in the case of a fuel cell power plant with a linear generator assembly)” after “0.5 kilowatt”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 48` | insert | by inserting “(1 kilowatt in the case of a fuel cell power plant with a linear generator assembly)” after “0.5 kilowatt”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48` | insert | by inserting “, or linear generator assembly,” after “a fuel cell stack assembly”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48` | insert | by inserting “or electromechanical” after “electrochemical”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48` | redesignate | Section 48(c)(1) is amended by redesignating subparagraph (D) as subparagraph (E) and by inserting after subparagraph (C) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4620,57 +4226,68 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 50` | strike | by striking “and” at the end of subparagraph (A), | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 50` | replace | by striking the period at the end of subparagraph (B) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 50` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | add-at-end | Section 48(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | add-at-end | Section 48(a) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | amend | Section 48(a)(4) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7701` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | add-at-end | Section 48(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | add-at-end | Section 48 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Subchapter B of chapter 65 is amended by inserting after section 6416 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for subchapter B of chapter 65 is amended by inserting after the item relating to section 6416 the following new item: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1602` | insert | Subchapter B of chapter 65 is amended by inserting after section 6416 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 50` | add-at-end | Section 50(d) is amended by adding at the end the following: “In the case of a real estate investment trust making an election under section 6417, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this sub… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1602` | insert | The table of sections for subchapter B of chapter 65 is amended by inserting after the item relating to section 6416 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 46` | insert | Subpart E of part IV of subchapter A of chapter 1 is amended by inserting after section 48C the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 46` | add-at-end | Section 6417(b), as added by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | add-at-end | Section 6417(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | redesignate | Section 48D, as added by subsection (a), is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 46` | strike | by striking “and” at the end of paragraph (5), | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 46` | replace | by striking the period at the end of paragraph (6) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 46` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 49` | strike | by striking “and” at the end of clause (iv), | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 49` | replace | by striking the period at the end of clause (v) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 49` | strike | by striking “and” at the end of clause (vii), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 49` | replace | by striking the period at the end of clause (viii) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 49` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 46` | insert | The table of sections for subpart E of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 48C the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7545` | insert | Subpart E of part IV of subchapter A of chapter 1 is amended by inserting after section 48C the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7545` | add-at-end | Section 6417(b), as added and amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 49` | add-at-end | Section 49(a)(1)(C) is amended by striking “and” at the end of clause (v), by striking the period at the end of clause (vi) and inserting a comma, and by adding at the end the following new clause: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 46` | insert | The table of sections for subpart E of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 48D the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | amend | Section 45Q(d)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | redesignate | Section 45Q(b)(1) is amended by redesignating subparagraph (B) as subparagraph (C) and by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | amend | Section 45Q(d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | replace | Section 45Q(b)(1) is amended by striking subparagraph (B) and by inserting after subparagraph (A) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | insert | Section 45Q(b)(2) is amended by inserting “Subject to paragraph (3)” before “in the case”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 45Q` | redesignate | Section 45Q is amended by redesignating subsection (h) as subsection (i) and inserting after subsection (g) following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45Q` | amend | by amending clause (i) of subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | redesignate | Section 45Q(b) is amended by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | add-at-end | Section 45Q(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45Q` | insert | Section 45Q(g) is amended by inserting “the earlier of January 1, 2023 and” before “the end of the calendar year”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 45Q` | add-at-end | Section 45Q(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7704` | replace | by striking “income and gains derived from the exploration” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 7704` | insert | by inserting “or” before “industrial source”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7704` | replace | by striking “, or the transportation or storage” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | strike | in paragraph (36), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 38` | replace | in paragraph (37), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 38` | strike | in paragraph (32), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 38` | replace | in paragraph (33), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 38` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | add-at-end | Section 6417(b), as added by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | insert | Subpart D of part IV of subchapter A of chapter 1 is amended by inserting after section 40A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | Section 6417(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | insert | Subpart D of part IV of subchapter A of chapter 1 is amended by inserting after section 40A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 40A` | insert | Section 40A(d)(1) is amended by inserting “or 40B” after “determined under section 40”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 40A` | strike | Section 40A(f) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6426` | add-at-end | Section 6426 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6427` | add-at-end | Section 6427(e)(6) is amended by striking the “and” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6427` | replace | Section 6427(e) is amended in the heading by striking “or alternative fuel” and inserting, “alternative fuel, or sustainable aviation fuel”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 6427` | insert | Section 6427(e)(1) is amended by inserting “or the sustainable aviation fuel mixture credit” after “alternative fuel mixture credit”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 4101` | insert | Section 4101(a)(1) is amended by inserting “every person producing sustainable aviation fuel (as defined in section 40B or section 6426(k)(3)),” before “and every person producing second generation biofuel”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 7545` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7545` | add-at-end | Section 6417(b), as added by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | strike | in paragraph (38), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 38` | replace | in paragraph (39), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 7545` | add-at-end | Section 6417(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 6417(c)(3), as amended by the preceding provisions of this Act, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 45X(d), as added by this section, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | strike | in paragraph (34), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 38` | replace | in paragraph (35), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 38` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45` | add-at-end | Section 45(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | add-at-end | Section 48(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6426` | redesignate | Section 6426(d)(2) is amended by striking subparagraph (D) and by redesignating subparagraphs (E), (F), and (G) as subparagraphs (D), (E), and (F), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25C` | amend | Section 25C(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25C` | amend | Section 25C(b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25C` | replace | Section 25C(c)(2) is amended by striking “meets—” and all that follows through the period at the end and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 25C` | replace | Section 25C(c)(3) is amended by adding “and” at the end of subparagraph (B), by striking “, and” at the end of subparagraph (C) and inserting a period, and by striking subparagraph (D). | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 25C` | amend | Section 25C(d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 25C` | redesignate | Section 25C, as amended by subsections (a), is amended by redesignating subsections (e), (f), and (g), as subsections (f), (g), and (h), respectively, and by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25C` | redesignate | Section 25C, as amended by subsection (a), is amended by redesignating subsections (e), (f), and (g), as subsections (f), (g), and (h), respectively, and by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6213` | strike | in subparagraph (P), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6213` | replace | in subparagraph (Q), by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4682,7 +4299,17 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 25D` | redesignate | by redesignating paragraph (3) as paragraph (5) and by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 25D` | replace | Section 25D(a) is amended by striking “and” at the end of paragraph (5) and by inserting after paragraph (6) the following new paragraph: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 25D` | add-at-end | Section 25D(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25D` | redesignate | Section 25D is amended by redesignating subsection (h) as subsection (k) and by inserting after subsection (g) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25D` | replace | in subsection (a), by adding “and” at the end of paragraph (4), by striking the comma at the end of paragraph (5) and inserting a period, and by striking paragraph (6), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25D` | strike | in subsection (d), by striking paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25D` | strike | Section 25D is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25D` | strike | in subparagraph (T), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 25D` | replace | in subparagraph (U), by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 25D` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 179D` | amend | Section 179D(c)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 179D` | add-at-end | Section 179D is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 312` | replace | by striking “for purposes of computing the earnings and profits of a corporation” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 312` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45L` | amend | Section 45L(a)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45L` | amend | Section 45L(c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45L` | redesignate | Section 45L is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4695,8 +4322,11 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 136` | strike | by striking “provided by public utilities”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 136` | insert | by inserting “and water” after “energy”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 136` | strike | by striking “provided by public utilities”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1016` | insert | Subpart B of part IV of subchapter A of chapter 1 is amended by inserting after section 27 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1016` | redesignate | Section 1016(a) is amended by redesignating paragraphs (35) through (38) as paragraphs (36) through (39), respectively, and by inserting after paragraph (34) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1016` | insert | The table of sections for subpart B of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 27 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7521` | insert | Subpart C of part IV of subchapter A of chapter 1 is amended by inserting after section 36B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36C` | add-at-end | Subsection (f) of section 36C is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36C` | redesignate | Section 36C, as added by subsection (a), is amended by redesignating subsection (k) as subsection (l) and by inserting after subsection (j) following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7521` | strike | Subpart B of part IV of subchapter A of chapter 1 is amended by striking section 30D (and by striking the item relating to such section in the table of sections of such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6211` | insert | Section 6211(b)(4)(A) is amended by inserting “36C,” after “36B,”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 1016` | strike | in subparagraph (R), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
@@ -4712,30 +4342,32 @@ complete account of the bill's effect, which it is not.
 | — | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, as amended by the preceding provisions of this Act, is amended by inserting “36D,” after “36C,”. | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after the item relating to section 36C the following new item: | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | Section 6417(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | replace | Section 38(b) is amended by striking paragraph (30) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | strike | in subparagraph (T), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 38` | replace | in subparagraph (U), by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 38` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 30B` | amend | Section 30B(g) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 30C` | replace | by striking “equal to 30 percent” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 30C` | replace | by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 30C` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 30C` | replace | by striking “For purposes of this section, the term” and inserting | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 30C` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 30C` | amend | Section 30C(c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 30C` | redesignate | Section 30C is amended by redesignating subsections (f) and (g) as subsections (g) and (h), respectively, and by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 30C` | redesignate | Section 30C, as amended by this section, is further amended by redesignating subsections (g) and (h) as subsections (h) and (i) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 132` | strike | Section 132(f) is amended by striking paragraph (8). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 132` | amend | Section 132(f)(5)(F) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 132` | amend | Section 132(f)(2)(C) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 132` | strike | Section 132(f)(4) is amended by striking “(other than a qualified bicycle commuting reimbursement)”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 38` | insert | Subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after section 36D the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | insert | Section 6211(b)(4)(A) of such Code is amended by inserting “36E by reason of subsection (c)(2) thereof,” before “32,”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 38` | strike | in subparagraph (U), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 38` | replace | in subparagraph (V), by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 38` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 274` | strike | Section 274(l) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1602` | insert | Subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after section 36D the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1016` | insert | Section 6211(b)(4)(A) of such Code is amended by inserting “36E by reason of subsection (c)(2) thereof,” before “32,”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1016` | strike | in subparagraph (U), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1016` | replace | in subparagraph (V), by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1016` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6501` | insert | Section 6501(m) is amended by inserting “36E(f)(4),” after “35(g)(11),”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 38` | insert | Section 1324(b)(2) of title 31, United States Code, is amended by inserting “36E,” after “36B,”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 38` | add-at-end | The table of sections for subpart B of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1016` | insert | Section 1324(b)(2) of title 31, United States Code, is amended by inserting “36E,” after “36D,”. | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 1602` | add-at-end | The table of sections for subpart B of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48C` | redesignate | Section 48C is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48C` | insert | Section 48C(c)(1)(A)(i)(I) is amended by inserting “water,” after “sun,”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48C` | amend | Section 48C(c)(1)(A)(i)(III) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4744,97 +4376,97 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 280C` | add-at-end | Subpart D of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 280C` | add-at-end | Section 280C is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 280C` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after section 36E the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Section 6211(b)(4)(A), as amended by the preceding provisions of this Act, is amended by inserting “36F,” after “36D,”. | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, as amended by the preceding provisions of this Act, is amended by inserting “36F,” after “36D,”. | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after the item relating to section 36E the following new item: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 46` | insert | Subpart E of part IV of subchapter A of chapter 1 is amended by inserting after section 48D the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | add-at-end | Section 6417(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | strike | by striking “and” at the end of paragraph (6), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 46` | replace | by striking the period at the end of paragraph (7) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 46` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 49` | strike | by striking “and” at the end of clause (vi), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 49` | replace | by striking the period at the end of clause (vii) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 49` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | insert | The table of sections for subpart E of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 48D the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | Section 6417(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | strike | in paragraph (37), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 38` | replace | in paragraph (38), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 38` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after section 36F the following new section: | the bill names no machine-readable US Code section |
+| — | insert | Section 6211(b)(4)(A), as amended by the preceding provisions of this Act, is amended by inserting “36G,” after “36F,”. | the bill names no machine-readable US Code section |
+| — | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, as amended by the preceding provisions of this Act, is amended by inserting “36G,” after “36F,”. | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for subpart C of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by inserting after the item relating to section 36F the following new item: | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 4611` | amend | Section 4611(e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4611` | add-at-end | Section 4611(c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 6417(b), as amended by preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 6417(c)(3), as amended by the preceding provisions of this Act, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | strike | in paragraph (38), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 38` | replace | in paragraph (39), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 38` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | insert | Subpart E of part IV of subchapter A of chapter 1 is amended by inserting after section 48E the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | add-at-end | Section 6417(b), as amended by preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 46` | strike | by striking “and” at the end of paragraph (5), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 46` | replace | by striking the period at the end of paragraph (6) and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 46` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 49` | strike | by striking “and” at the end of clause (iv), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 49` | replace | by striking the period at the end of clause (v) and inserting a comma, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 49` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 50` | insert | Section 50(c)(3) is amended by inserting “or clean electricity investment credit” after “In the case of any energy credit”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 46` | insert | The table of sections for subpart E of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 48E the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3501` | add-at-end | Section 48F, as added by this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 168` | strike | in clause (vi)(III), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 168` | replace | in clause (vii), by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 168` | insert | by inserting after clause (vii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 6417(b), as amended by preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 101` | strike | in paragraph (39), by striking “plus” at the end, | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 101` | replace | in paragraph (40), by striking the period at the end and inserting “, plus”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 101` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 101` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1, as amended by section 101, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4101` | insert | Section 4101(a)(1) is amended by inserting “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45CC),” after “section 6426(b)(4)(A)),”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 24` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | add-at-end | Section 24(j) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | add-at-end | Section 24(j) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7527A` | insert | in subparagraph (A), by inserting “or based on any other information known to the Secretary” after “reference taxable year”, | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7527A` | insert | in subparagraph (C), by inserting “unless determined by the Secretary based on any information known to the Secretary,” before “the only children”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7527A` | insert | in subparagraph (D), by inserting “unless determined by the Secretary based on any information known to the Secretary,” before “the ages of”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | add-at-end | Section 6103(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | insert | by inserting “and 2022” after “2021” in the heading thereof. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 24` | insert | in subclause (I), by inserting “or 2022” after “2021”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 24` | insert | The heading of section 24(k)(2)(A) is amended by inserting “and 2022” after “2021”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7527A` | strike | in subsection (b)(1), by striking “50 percent of”, | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 7527A` | insert | in clauses (i) and (ii) of subsection (e)(4)(C), by inserting “or 2022” after “in 2021”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 24` | strike | Section 24(h) is amended by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7527A` | amend | Section 7527A(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7527A` | amend | by amending subparagraph (A)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7527A` | add-at-end | Section 7527A(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7527A` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | add-at-end | Section 24(i) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | add-at-end | Section 24(i), as amended by subsection (c), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | amend | Section 24(j)(2)(B)(iv), as amended by the preceding provisions of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | insert | Subpart A of part IV of subchapter A of chapter 1 is amended by inserting after section 24 the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | insert | Chapter 77 is amended by inserting after section 7527A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | strike | Section 24(h) is amended by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | strike | Section 24(h)(4) is amended by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | add-at-end | Section 24 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 152` | amend | Section 152(f)(6)(B)(ii) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3402` | insert | Section 3402(f)(1)(C) is amended by inserting “or section 24A (determined after application of subsection (g) thereof)” after “section 24 (determined after application of subsection (j) thereof)”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6211` | insert | Section 6211(b)(4)(A) is amended by inserting “24A by reason of subsection (d) thereof,” after “24 by reason of subsections (d) and (i)(1) thereof,”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6213` | insert | Section 6213(g)(2)(I) is amended by inserting “or section 24A(e) (relating to monthly child tax credit)” after “section 24(e) (relating to child tax credit)”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6213` | insert | Section 6213(g)(2)(L) is amended by inserting “24A,” after “24,”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6213` | insert | by inserting “or 24A(f)(2)” after “section 24(g)(2)”, | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6213` | insert | by inserting “or 24A” after “under section 24”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6695` | insert | Section 6695(g)(2) is amended by inserting “24A,” after “24,”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 26` | insert | by inserting “24A,” after “24,”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 26` | insert | by inserting “7527B,” after “7527A,”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 26` | insert | The table of sections for subpart A of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 24 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 26` | insert | The table of sections for chapter 77 is amended by inserting after the item relating to section 7527A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | add-at-end | Section 24, as amended by the preceding provisions of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | insert | by inserting “and before January 1, 2026,” after “December 31, 2022,”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 24` | insert | by inserting “and before 2026” after “after 2022”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 24` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | strike | in subclause (I), by striking “and” at the end, | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 24` | insert | by inserting “and before January 1, 2026,” after “after December 31, 2022,”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 24` | replace | by striking the period at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 24` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 21` | amend | Section 21(g) is amended to read as follows; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 21` | add-at-end | Section 21(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 21` | add-at-end | Section 21(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 21` | strike | by striking “with respect to taxable years beginning in or with 2021”, | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 21` | strike | by striking “with respect to taxable years beginning in or with 2021”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 129` | add-at-end | Section 129(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 129` | strike | Section 129(a)(2) is amended by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5304` | add-at-end | Subchapter D of chapter 21 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5304` | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting “3135,” after “3134,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5304` | add-at-end | The table of sections for subchapter D of chapter 21 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Subpart A of part IV of subchapter A of chapter 1 is amended by inserting after section 25D the following new section: | the bill names no machine-readable US Code section |
-| — | replace | Section 6213(g)(2), as amended by the preceding provisions of this Act, is amended by striking “and” at the end of subparagraph (T), by striking the period at the end of subparagraph (U) and inserting “, and”, and by inserting after subp… | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for subpart A of part IV of subchapter A of chapter 1 is amended by inserting after the item relating to section 25D the following new item: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 32` | add-at-end | Section 32(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 32` | strike | Section 32(c)(1)(A)(ii)(II) is amended by striking “but not attained age 65”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 32` | insert | in subparagraph (B)(i), by inserting “(other than the $9,820 and $11,610 amounts)” after “subsection (b)(2)(A)”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 32` | insert | in subparagraph (B)(iii), by inserting “the $9,820 and $11,610 amounts in subsection (b)(2)(A) and” before “the $10,000 amount in subsection (i)(1)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 24` | amend | Section 24(k)(2)(B), as amended by the preceding provisions of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | amend | Section 24(k)(3)(C)(ii)(II), as amended by the preceding provisions of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 32` | amend | Section 32(n)(4)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 32` | add-at-end | Section 32, as amended by subsection (f), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 32` | strike | Section 32 is amended by striking subsection (n). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36B` | amend | Section 36B(b)(3)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36B` | strike | Section 36B(c)(1)(A) is amended by striking “but does not exceed 400 percent”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 36B` | strike | Section 36B(c)(1) is amended by striking subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36B` | strike | by striking clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36B` | strike | by striking subparagraph (F). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | replace | by striking all that precedes the table contained therein and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | insert | Section 36B(c)(2)(C)(i)(II) is amended by inserting “(8.5 percent in the case of any taxable year beginning after December 31, 2021, and before January 1, 2026)” after “9.5 percent”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 36B` | insert | Section 36B(c)(4)(C)(ii) is amended by inserting “(8.5 percent in the case of any taxable year beginning after December 31, 2021, and before January 1, 2026)” after “9.5 percent”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 36B` | add-at-end | Section 36B(c)(2)(C)(iv) is amended by adding at the end the following: “The preceding sentence shall not apply in the case of any plan year beginning after December 31, 2021, and before January 1, 2027.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | add-at-end | Section 36B(c)(4)(F) is amended by adding at the end the following: “The preceding sentence shall not apply in the case of any plan year beginning after December 31, 2021, and before January 1, 2027.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | add-at-end | Section 36B(d)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 36B` | redesignate | Section 36B is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4980H` | amend | Section 4980H(c)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18071` | insert | in paragraph (2), by inserting “(or, with respect to plan years 2023 and 2024, whose household income does not exceed 400 percent of the poverty line for a family of the size involved)” before the period; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18071` | add-at-end | in the matter following paragraph (2), by adding at the end the following new sentence: “In the case of an individual with a household income of less than 138 percent of the poverty line for a family of the size involved for any month oc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18071` | insert | in paragraph (1)(A), in the matter preceding clause (i), by inserting “, with respect to eligible insureds (other than, with respect to plan years 2023 and 2024, specified enrollees (as defined in paragraph (6)(C))),” after “first be ach… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18071` | insert | in paragraph (2), in the matter preceding subparagraph (A), by inserting “with respect to eligible insureds (other than, with respect to plan years 2023 and 2024, specified enrollees)” after “under the plan”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18071` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18031` | strike | in subparagraph (C), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18031` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18031` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5000A` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18021` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 18021` | replace | in subparagraph (C)(iv), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 18021` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18021` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18041` | add-at-end | Section 1321(c) of the Patient Protection and Affordable Care Act (42 U.S.C. 18041(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18031` | replace | by striking “Funding.—Grants under” and inserting | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 18031` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18061` | insert | Subtitle D of title I of the Patient Protection and Affordable Care Act is amended by inserting after part 5 (42 U.S.C. 18061 et seq.) the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18051` | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18051` | add-at-end | in subsection (d)(3)(A)(ii), by adding at the end the following new sentence: “In making such determination, the Secretary shall calculate the value of such premium tax credits that would have been provided to such individuals enrolled t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36B` | insert | Section 36B(g) by inserting “through 2025” after “2021” in the heading thereof. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 36B` | insert | Section 36B(g) by inserting “through 2022” after “2021” in the heading thereof. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 35` | replace | Subparagraph (B) of section 35(b)(1) of the Internal Revenue Code of 1986 is amended by striking “, and before January 1, 2022” and inserting a period. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 36B` | add-at-end | Paragraph (2) of section 36B(d) of the Internal Revenue Code of 1986, as amended by this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | insert | Clause (ii) of section 36B(d)(2)(A) of the Internal Revenue Code of 1986 is amended by inserting “, except as provided in subparagraph (D),” after “individuals”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 18081` | add-at-end | Paragraph (3) of section 1411(b) of the Patient Protection and Affordable Care Act (42 U.S.C. 18081) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | Subchapter B of chapter 100 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | The table of sections for subchapter B of chapter 100 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subchapter B of chapter 100 of the Internal Revenue Code of 1986, as amended by the preceding provisions of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for subchapter B of chapter 100 of the Internal Revenue Code of 1986, as amended by the preceding provisions of this Act, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1395` | add-at-end | Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ccc` | insert | by inserting “or the Rural and Underserved Pathway to Practice Training Program for Post- Baccalaureate and Medical Students under section 1899C” before “, owes a past-due obligation”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395ccc` | strike | in paragraph (1), by striking at the end “or”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4847,19 +4479,41 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 36G` | insert | The table of sections for subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986, and amended by the preceding provisions of this Act, is amended by inserting after the item relating to section 36F the fol… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | insert | in subsection (d)(5)(B)(v), by inserting “(h)(4)(H)(vii),” after “The provisions of subsections (h)(4)(H)(vi),”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395ww` | add-at-end | in subsection (h)(4)(H), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1, as amended by the preceding provisions of this Act, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4968` | add-at-end | Section 4968 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4968` | add-at-end | Section 4968(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4968` | insert | Section 4968(b)(1)(A) is amended by inserting “below the graduate level” after “500 tuition-paying students”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 117` | replace | Section 117(b)(1) is amended by striking “received by an individual” and all that follows and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 117` | replace | Section 117(b)(1) is amended by striking “means any amount” and all that follows and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 25A` | insert | in subparagraph (A), by inserting “described in section 117(b)(1)(A)” after “a qualified scholarship”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 25A` | insert | in subparagraph (C), by inserting “or Federal Pell Grant under section 401 of the Higher Education Act of 1965” after “within the meaning of section 102(a)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 25A` | insert | in subparagraph (C), by inserting “or amount described in section 117(b)(1)(B)” after “within the meaning of section 102(a)”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 25A` | strike | Section 25A(b)(2) is amended by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 11` | amend | Section 11(b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1561` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 164` | insert | in subparagraph (A), by inserting “or section 216(a)(1)” after “subsection (a)(1)”, | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 164` | insert | by inserting “(and any tax described in any such paragraph taken into account under section 216(a)(1))” after “paragraph (5) of this subsection”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 164` | replace | by striking “shall not exceed $10,000 ($5,000 in the case of a married individual filing a separate return).” and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 164` | replace | by striking the last sentence and inserting the following: “In the case of taxes paid during a taxable year beginning before January 1, 2031, the Secretary shall prescribe regulations or other guidance which treat all or a portion of suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55` | amend | Paragraph (2) of section 55(b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 59` | add-at-end | Section 59 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55` | insert | Section 55(a)(2) is amended by inserting “plus, in the case of an applicable corporation (as defined in subsection (b)(2)), the tax imposed by section 59A” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 55` | replace | by striking so much as precedes subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 12` | add-at-end | Section 12 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 882` | insert | Section 882(a)(1) is amended by inserting “, 55,” after “section 11”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6425` | amend | Section 6425(c)(1)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6655` | insert | Section 6655(e)(2) is amended by inserting “, adjusted financial statement income (as defined in section 56A),” before “and modified taxable income” each place it appears in subparagraphs (A)(i) and (B)(i). | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6655` | redesignate | Section 6655(g)(1)(A) is amended by redesignating clauses (ii) and (iii) as clauses (iii) and (iv), respectively, and by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1620` | insert | Part VI of subchapter A of chapter 1 is amended by inserting after section 56 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1620` | insert | The table of sections for part VI of subchapter A of chapter 1 is amended by inserting after the item relating to section 56 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 59` | add-at-end | Section 59, as amended by this section, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | amend | Section 38(c)(6)(E) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 53` | amend | Section 53(e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 53` | strike | in paragraph (2), by striking “, except that in the case” and all that follows through “treated as zero”, and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 53` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 275` | insert | Subtitle D is amended by inserting after chapter 36 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 275` | insert | Paragraph (6) of section 275(a) is amended by inserting “37,” before “41”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 275` | insert | The table of chapters for subtitle D is amended by inserting after the item relating to chapter 36 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 163` | redesignate | Section 163 is amended by redesignating subsection (n) as subsection (p) and by inserting after subsection (m) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 163` | amend | Section 163(j)(4) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 163` | insert | Section 163(j)(3) is amended by inserting “except to the extent provided in paragraph (4)(B)” after “to such taxpayer for such taxable year”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 163` | insert | Section 163 is amended by inserting after subsection (n), as added by subsection (a), the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 163` | amend | Section 163(j)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 381` | amend | Section 381(c)(20) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4870,33 +4524,39 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 250` | strike | by striking “over” at the end of subclause (VI), and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 250` | add-at-end | by adding at the end the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 250` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 250` | insert | Section 250(b)(5)(E) is amended by inserting “(other than paragraph (3)(A)(i)(VIII))” after “For purposes of this subsection”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 898` | redesignate | Section 898(c) is amended by striking paragraph (2) and redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 901` | redesignate | Section 901 is amended by redesignating subsection (n) as subsection (o) and by inserting after subsection (m) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | insert | Section 904 is amended by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 904` | insert | Section 904(f)(5)(E)(i) is amended by inserting “applied separately with respect to each country (within the meaning of subsection (e)) as provided in subsection (e)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 904` | add-at-end | Section 904(f)(5) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 904` | amend | Section 904(f)(5)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 904` | amend | Section 904(f)(5)(E)(i) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 904` | amend | Section 904(f)(5)(E)(iii) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | redesignate | Section 904(d)(1) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraph (B) and (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 205` | replace | by striking subclause (VI) of clause (i) and inserting the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 205` | add-at-end | by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 250` | replace | by striking subclause (VI) of clause (i) and inserting the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 250` | add-at-end | by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | strike | Section 904(d)(2)(A)(ii) is amended by striking “, foreign branch income,”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 904` | amend | Section 904(d)(2)(H) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | strike | Section 904(d)(2) is amended by striking subparagraph (J). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | strike | by striking “in the first preceding taxable year, and”, | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 904` | strike | by striking “preceding or” each place it appears, and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 904` | strike | by striking “Carryback and” in the heading thereof. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 907` | strike | Section 907(f)(1) is amended by striking “in the first preceding taxable year and”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 904` | strike | Section 904(c) is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 907` | strike | by striking “in the first preceding taxable year and”, and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 904` | replace | by striking “Any amount by which all taxes” and all that precedes it and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 904` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | strike | Section 904(b) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | add-at-end | Section 904(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | add-at-end | Section 904(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 905` | replace | Section 905(c)(1) is amended by striking “or” at the end of subparagraph (B) and by inserting after subparagraph (C) the following new subparagraphs: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 901` | replace | Section 901(a) is amended by striking the second sentence and inserting the following: “The choice to claim a credit for such amounts may be made at any time before the expiration of the period prescribed by section 6511(d)(3)(A), and th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6511` | insert | by inserting “change in the liability for” before “any taxes paid or accrued”, | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6511` | insert | by inserting “change in the liability for” before “foreign taxes” in the heading thereof. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 905` | replace | in paragraph (1), by striking “or” at the end of subparagraph (B) and by inserting after subparagraph (C) the following new subparagraphs: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 905` | strike | by striking “accrued” in the heading thereof. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 901` | replace | Section 901(a) is amended by striking the second sentence and inserting the following: “ Such choice for any taxable year may be made or changed at any time before the expiration of the applicable period prescribed by section 6511 for ma… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6511` | insert | by inserting “a change in the liability for” before “any taxes paid or accrued”, | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6511` | insert | by inserting “change in the liability for” before “foreign taxes” in the heading thereof, and | the bill quotes the text inserted but describes where it goes |
 | — | insert | Paragraphs (1)(A) and (2)(A) of section 907(c) are each amended by inserting “(or oil shale or tar sands)” after “oil or gas wells”. | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 951A` | add-at-end | Section 951A is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 951A` | add-at-end | Section 951A, as amended by subsection (a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 951A` | strike | Section 951A(d) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 951A` | add-at-end | Section 951A(h), as added by paragraph (1), is amended by striking “and” at the end of paragraph (2), by striking the period at the end of paragraph (3) and inserting a comma, and by adding at the end the following new paragraphs: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 951A` | strike | by striking paragraph (4), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 951A` | redesignate | by redesignating the second paragraph (3) (relating to partnership property) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 951A` | add-at-end | Section 951A(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 951A` | insert | Section 951A(g)(1)(B)(ii), as added by subsection (a), is amended by inserting “any increase determined under subsection (c)(3)(A),” after “interest expense described in subsection (b)(2)(B),”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 382` | add-at-end | Section 382(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4905,36 +4565,41 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 960` | amend | Section 960(d)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | redesignate | Section 904(d)(2) is amended by redesignating subparagraph (K) as subparagraph (L) and by inserting after subparagraph (J) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 904` | replace | Section 904(d)(3)(G) is amended by striking the second sentence and inserting the following: “Any amount included in gross income under section 78 shall not be treated as a dividend.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 960` | add-at-end | Section 960(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 245A` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 957` | insert | Subpart F of part III of subchapter N of chapter 1 is amended by inserting after section 951A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 957` | amend | Section 957(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 958` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 957` | insert | The table of sections for subpart F of part III of subchapter N of chapter 1 is amended by inserting after the item relating to section 951A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 245A` | strike | Section 245A(b)(1) is amended by striking “with respect to such corporation”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 245A` | strike | by striking “if the dividend is a hybrid dividend”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 245A` | amend | Section 245A(g) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 246` | amend | Section 246(b)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 904` | strike | in clause (i)(I), by striking “(as defined in section 245A(b))”, and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 904` | redesignate | by redesignating clause (ii) as clause (iii) and by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 954` | amend | Section 954(d)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 951` | insert | by inserting “if such shareholder owns (within the meaning of section 958(a)) stock of such foreign corporation as of the close of the last relevant day of such foreign corporation’s taxable year,” before “the amount” in subparagraph (B). | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 951` | replace | Section 951(a) is amended by striking paragraph (2) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 951A` | amend | Section 951A(e)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 78` | strike | Section 78 is amended by striking “, (b),”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 951` | amend | Section 951(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 951A` | amend | Section 951A(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 951A` | amend | Section 951A(e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 953` | amend | in subclause (I), by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 953` | strike | by striking subclause (III). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 78` | strike | Section 78 is amended by striking “, (b),”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 959` | add-at-end | Section 959 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 961` | insert | Section 961(b)(1) is amended by inserting after the first sentence the following: “The Secretary shall prescribe such other reductions to basis as are necessary or appropriate to carry out the purposes of this section.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 961` | replace | by striking “then adjustments similar to” and all that follows in such subsection and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 59A` | amend | Section 59A(b)(1)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | amend | Section 59A(b)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | amend | Section 59A(b)(3)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 59A` | add-at-end | Section 59A(b)(3) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | strike | Section 59A(b) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | amend | Section 59A(c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 59A` | amend | Section 59A(d)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | redesignate | Section 59A(d) is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | redesignate | Section 59A is amended by redesignating subsection (i) as subsection (j) and by inserting after subsection (h) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 59A` | strike | Section 59A(d), as amended by paragraph (2), is amended by striking paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 59A` | insert | Section 59A(e)(1)(C) is amended by inserting “in the case of any taxable year beginning before January 1, 2024,” before “the base erosion percentage”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 59A` | add-at-end | Section 59A(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45C` | amend | Section 45C(b)(2)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45C` | amend | Section 45C(b)(2)(A)(ii)(II) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45C` | insert | Section 45C(b)(2)(A)(i) is amended by inserting “or, if the drug is a biological product, section 351(a)(3) of the Public Health Service Act” before the comma at the end. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 165` | insert | Section 165(g)(2)(C) is amended by inserting “, by a partnership,” after “by a corporation”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 165` | add-at-end | Section 165(g) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 165` | redesignate | Section 165 is amended by redesignating subsection (m) as subsection (n) and by inserting after subsection (l) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 267` | add-at-end | Section 267 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 331` | replace | by striking “Cross reference” and all that follows through “For general rule” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -4945,51 +4610,45 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 361` | insert | in paragraph (3), by inserting “, and except as provided in subsection (d)” after “this subsection”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 361` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 871` | amend | Section 871(h)(3)(B)(i) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 871` | add-at-end | Section 871(m) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 871` | add-at-end | Section 871(m) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1441` | redesignate | Section 1441 is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 312` | add-at-end | Section 312(n) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 952` | strike | Section 952(c) is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1059` | redesignate | Section 1059 is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1061` | replace | Section 1061 is amended by striking subsections (a) and (b) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1061` | amend | Section 1061(d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1061` | replace | Section 1061(e) is amended by striking the period at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1202` | add-at-end | Section 1202(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1259` | insert | Section 1259(b)(1) is amended by inserting “digital asset,” after “debt instrument,”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1259` | add-at-end | Section 1259(c)(2) is amended by adding at the end the following: “A similar rule shall apply in the case of a contract for sale of any digital asset.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1259` | add-at-end | Section 1259(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1259` | insert | Section 1259(c)(1)(D) is amended by inserting “or enters into a contract to acquire” after “acquires”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 52` | add-at-end | Section 52(b) is amended by adding at the end the following new sentence: “For purposes of this subsection, the term trade or business includes any activity treated as a trade or business under paragraph (5) or (6) of section 469(c).” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1091` | amend | Section 1091(d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1091` | add-at-end | Section 1091 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1091` | add-at-end | Section 1091, as amended by the preceding provisions of this section, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1091` | strike | by striking the last sentence of subsection (a), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1091` | strike | by striking “shares of” each place it appears in subsections (a), (b), and (c). | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 1091` | add-at-end | Section 1091, as amended by the preceding provisions of this section, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | replace | The table contained in section 1(j)(2)(A) is amended by striking the last two rows and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | replace | The table contained in section 1(j)(2)(B) is amended by striking the last two rows and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | replace | The table contained in section 1(j)(2)(C) is amended by striking the last two rows and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | replace | The table contained in section 1(j)(2)(D) is amended by striking the last two rows and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | replace | The table contained in section 1(j)(2)(E) is amended by striking the last row and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | amend | Section 1(j)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | amend | Section 1(i)(3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | replace | by striking subparagraphs (A) and (B) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 55` | redesignate | Section 55(b)(3) is amended by striking subparagraph (D) and redesignating subparagraph (E) as subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1` | amend | Section 53511(f)(2) of title 46, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 52` | replace | Section 52 is amended by striking subsections (a) and (b) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1563` | amend | Section 1563(b)(2)(C) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1091` | amend | Section 1091 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6045` | replace | The table of sections for part VII of subchapter O of chapter 1 is amended by striking the item relation to section 1091 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (b)(3), by striking “2021” and inserting “2025”, and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “2021” and inserting “2025”. | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 1411` | add-at-end | Section 1411 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1411` | insert | Section 1411(c)(6) is amended by inserting “or wages received with respect to employment on which a tax is imposed under section 3101(b)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1411` | amend | Section 1411(c)(6) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1411` | insert | Section 1411(c)(1)(B) is amended by inserting “(other than section 172)” after “this subtitle”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 1411` | add-at-end | Section 1411(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 461` | amend | Section 461(l)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 461` | strike | Section 461 is amended by striking subsection (j). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 461` | amend | Section 461(l)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Part I of subchapter A of chapter 1 is amended by inserting after section 1 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for part I of subchapter A of chapter 1 is amended by inserting after the item relating to section 1 the following new item: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 2010` | strike | Section 2010(c)(3) of the Internal Revenue Code of 1986 is amended by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 267` | add-at-end | Subtitle B of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 267` | add-at-end | Section 2511 of such Code is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 267` | add-at-end | The table of chapters for subtitle B of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 267` | redesignate | Part IV of subchapter O of chapter 1 of such Code is amended by redesignating section 1062 as section 1063 and inserting after section 1061 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 267` | replace | The table of sections for part IV of subchapter O of chapter 1 of such Code is amended by striking the item relating to section 1062 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 2031` | redesignate | Section 2031 of the Internal Revenue Code of 1986 is amended by redesignating subsection (d) as subsection (f) and by inserting after subsection (c) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 461` | add-at-end | Section 461(l) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 453A` | insert | Part I of subchapter A of chapter 1 is amended by inserting after section 1 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 453A` | redesignate | Section 453A(c) is amended by redesignating paragraph (6) as paragraph (7) and by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 876` | replace | Section 876(a) is amended by striking section 1 and inserting “sections 1 and 1A”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 877` | insert | Section 877(b) is amended by inserting “and section 1A” after “section 1 or 55”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 904` | insert | Section 904(b)(3)(E)(i)(I) is amended by inserting “increased by the sum of the rates set forth in paragraphs (1) and (2) of section 1A(a)” after “(whichever applies)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 904` | add-at-end | Section 904(d)(2)(F) is amended by adding at the end the following: “For purposes of the first sentence of this subparagraph, the highest rate of tax specified in section 1 shall be treated as being equal to the sum of such rate and the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 962` | insert | Section 962(a)(1) is amended by inserting “, 1A,” after “sections 1”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1291` | add-at-end | Section 1291(c)(2) is amended by adding at the end the following: “For purposes of the preceding sentence, the highest rate of tax in effect under section 1 shall be treated as being equal to the sum of such rate and the rates in effect … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1398` | insert | Section 1398(c)(2) is amended by inserting “and tax shall be imposed under section 1A by treating the estate as a married individual filing a separate return” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1446` | add-at-end | Section 1446(b)(2) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6015` | insert | Section 6015(d)(2)(B) is amended by inserting “, 1A,” after “section 1”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6225` | add-at-end | Section 6225(b)(1) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6225` | replace | by striking “or” at the end of clause (i), by adding “or” at the end of clause (ii), and by inserting after clause (ii) the following new clause: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 7519` | insert | Section 7519(b) is amended by inserting “and increased by the sum of the rates in effect under paragraphs (1) and (2) of section 1A(a)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 453A` | insert | The table of sections for part I of subchapter A of chapter 1 is amended by inserting after the item relating to section 1 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 408` | add-at-end | Subpart A of part I of subchapter D of chapter 1 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 408` | amend | The table of contents for subpart A of part I of subchapter D of chapter 1 is amended by adding after the item relating to section 409A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 408` | add-at-end | Section 408(r) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -5009,41 +4668,26 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 402A` | add-at-end | Section 408A(e), as amended by subsection (a), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 402A` | add-at-end | Paragraph (3) of section 408A(d), as amended by subsection (a), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 402A` | add-at-end | Paragraph (4) of section 402A(c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 408` | add-at-end | Subsection (a) of section 408 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 408` | replace | by striking “” each place it appears in subparagraph (A) and inserting “maintained”, | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 408` | redesignate | by redesignating subparagraph (B) as subparagraph (C), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 408` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402A` | insert | by inserting before the period at the end the following: “, and without regard to the inclusion in gross income of any converted or contributed amount described in section 408A(e)(3), 408A(d)(3)(G), or 402A(c)(4)(F).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6501` | add-at-end | Subsection (c) of section 6501 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 408` | add-at-end | Subsection (a) of section 408, as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4975` | strike | by striking “or” at the end of subparagraph (H), | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 4975` | replace | by striking the period at the end of subparagraph (I) and inserting “; or”, | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 4975` | insert | by inserting after subparagraph (I) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4975` | add-at-end | by adding at the end the following: “For purposes of subparagraphs (G) and (I), any asset or interest held by a plan described in subparagraph (B) or (C) of paragraph (1) shall be treated as owned by the individual described in subparagr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4975` | amend | Subparagraph (A) of section 408(e)(2), as amended by the preceding provisions of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4975` | strike | Subparagraph (B) of section 408(e)(2), as added by this Act, is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | amend | Subparagraph (A) of section 408(e)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 3406` | add-at-end | Section 3406(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6050W` | insert | Section 6050W(e) is amended by inserting “equal or” before “exceed $600”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 3406` | insert | In the case of payments made during calendar year 2022, section 3406(b)(8)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by inserting “and the aggregate number of third party network transactions set… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 170` | add-at-end | Section 170(h) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6662` | insert | Section 6662(b) is amended by inserting after paragraph (9) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6664` | insert | Section 6664(c)(2) is amended by inserting “or to any disallowance of a deduction described in section 6662(b)(10)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6751` | strike | Section 6751, as amended by the preceding provision of this Act, is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6751` | strike | Section 6751 is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6751` | insert | Section 6751, as amended by subsection (a) of this section, is amended by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 162` | add-at-end | Section 162(m) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 162` | insert | by inserting “(including performance-based compensation, commissions, post-termination compensation, and beneficiary payments)” after “remuneration for services”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 162` | insert | by inserting “and whether or not such remuneration is paid directly by the publicly held corporation” after “whether or not during the taxable year”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 4975` | add-at-end | Section 4975(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4975` | add-at-end | Section 4975(c)(3) is amended by adding at the end the following: “The preceding sentence shall not apply in the case of a prohibited transaction described in paragraph (1)(G).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5701` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5702` | insert | in paragraphs (2) and (3), by inserting “and that is not a discrete single-use unit” before the period at the end of each such paragraph, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 5702` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5702` | insert | Section 5702(o) is amended by inserting “, and includes processed tobacco that is removed for delivery or delivered to a person other than a person with a permit provided under section 5713, but does not include removals of processed tob… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 5701` | redesignate | Section 5701 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5702` | add-at-end | Section 5702 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5702` | add-at-end | Section 5702, as amended by paragraph (2), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5702` | strike | Section 5702 is amended by striking subsection (l). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5706` | add-at-end | Section 5706 is amended by adding at the end the following: “Exemption from tax under section 5704 is drawback, and no further drawback shall be allowed based on merchandise that has not been subject to tax.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6103` | add-at-end | Section 6103(l) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | insert | Section 408(a) is amended by inserting after paragraph (6) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4975` | redesignate | by redesignating subparagraph (B) as subparagraph (C), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4975` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 181` | add-at-end | Section 181(a)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 181` | redesignate | Section 181 is amended by redesignating subsections (f) and (g) as subsections (g) and (h), respectively, and by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | replace | by striking “or” at the end of subclause (IV), by adding “or” at the end of subclause (V), and by inserting after subclause (V) the following: | the bill quotes the text struck but describes what replaces it |
@@ -5051,63 +4695,59 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 181` | replace | The table of sections for part VI of subchapter B of chapter 1 is amended by striking the item relating to section 181 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6206` | add-at-end | Subchapter B of chapter 65 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6206` | add-at-end | The table of sections for subchapter B of chapter 65 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45B` | amend | Section 45B(b)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45B` | add-at-end | Section 45B is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45B` | strike | by striking “as in effect on January 1, 2007, and”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 45B` | insert | by inserting “, and in the case of food or beverage establishments, as in effect on January 1, 2007” after “without regard to section 3(m) of such Act”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 51` | add-at-end | Section 51 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 51` | insert | Subsection (a) shall be applied by inserting “or qualified second-year wages” after “wages”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 62` | add-at-end | Section 62(a)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7652` | redesignate | Section 7652 is amended by striking subsection (f) and by redesignating subsections (g) and (h) as subsections (f) and (g), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7652` | add-at-end | Section 7652(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7652` | insert | Section 7652(h), as amended by subsections (a) and (c), is amended by inserting “(a)(4),” after “(a)(3),”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 7652` | insert | Section 7652, as amended by subsection (a), is amended by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7652` | strike | Section 7652(e) is amended by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7652` | strike | Section 7652 is amended by striking subsection (i). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in subsection (b)(3), by striking “2021” and inserting “2025”, and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), by striking “2021” and inserting “2025”. | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 1297` | add-at-end | Section 1297(f)(3) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1297` | add-at-end | Section 1297(f)(4) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Subpart C of part IV of subchapter A of chapter 1 is amended by inserting after section 36G the following new section: | the bill names no machine-readable US Code section |
-| — | insert | Section 6211(b)(4)(A), as amended by the preceding provisions of this Act, is amended by inserting “, 36H” after “36G”. | the bill names no machine-readable US Code section |
-| — | insert | Section 1324(b)(2) of title 31, United States Code, is amended by inserting “, 36H” after “, 36G”. | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for subpart C of part IV of subchapter A is amended by inserting after the item relating to section 36G the following new item: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1301` | add-at-end | Title XI of the Social Security Act (42 U.S.C. 1301 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-111` | insert | Section 1847A(b)(1)(B) of the Social Security Act (42 U.S.C. 1395w–3a(b)(1)(B)) is amended by inserting “or in the case of such a drug or biological that is a selected drug (as defined in section 1192(c)), with respect to a price applica… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-111` | insert | Section 1860D–11(i) of the Social Security Act (42 U.S.C. 1395w–111(i)) is amended by inserting “, except as provided under part E of title XI” after “the Secretary”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 62` | add-at-end | Section 62(a)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45F` | add-at-end | Section 45F is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 397` | add-at-end | Subchapter D of chapter 21 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 397` | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting “3135,” after “3134,”. | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 397` | add-at-end | The table of sections for subchapter D of chapter 21 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 62(a)(2), as amended by the preceding provision of this Act, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 162` | redesignate | Section 162 is amended by redesignating subsection (s) as subsection (t) and by inserting after subsection (r) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 41` | replace | by striking “Amount.—The amount” and inserting “Amount.— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 41` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3111` | replace | by striking “for a taxable year, there shall be allowed” and inserting “for a taxable year— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 3111` | replace | by striking the period at the end and inserting “as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 3111` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3111` | insert | by inserting “, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter,” after “calendar quarter”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 5701` | redesignate | Section 5701 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 5702` | add-at-end | Section 5702 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 5702` | add-at-end | Section 5702, as amended by subsection (b), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1320e-3` | amend | Title XI of the Social Security Act is amended by adding after section 1184 (42 U.S.C. 1320e–3) the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-22` | insert | Section 1847A(b)(1)(B) of the Social Security Act (42 U.S.C. 1395w–3a(b)(1)(B)) is amended by inserting “or in the case of such a drug or biological that is a selected drug (as referred to in section 1192(c)), with respect to a price app… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-22` | redesignate | by redesignating subclause (VII) as subclause (VIII); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-22` | insert | by inserting after subclause (VI) the following subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-111` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-111` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | insert | in subparagraph (B), by inserting “, subject to subparagraph (D),” after “negotiated prices”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(b)(3) of the Social Security Act (42 U.S.C. 1395w–104(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(f)(3) of the Social Security Act (42 U.S.C. 1395w–27(f)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300gg-111` | add-at-end | Part D of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–111 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1181` | add-at-end | Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1181` | add-at-end | The table of sections for subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9831` | add-at-end | Subchapter B of chapter 100 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9831` | insert | Section 9831(a)(2) of the Internal Revenue Code of 1986 is amended by inserting “other than with respect to section 9826,” before “any group health plan”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 9831` | add-at-end | The table of sections for subchapter B of chapter 100 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | strike | in subclause (III), by striking at the end “; and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | replace | in subclause (IV), by striking at the end the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | add-at-end | in subsection (k)(1)(B), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-111` | add-at-end | Section 8902 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-111` | insert | in subsection (a)(2), by inserting “, subject to subsection (j),” after “may not exceed”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-111` | insert | in subsection (d), in the matter preceding paragraph (1), by inserting “, subject to subsection (j)” after “for the procurement of the drug”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-111` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 275` | add-at-end | Subchapter E of chapter 32 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 275` | amend | Section 275 of the Internal Revenue Code of 1986 is amended by adding “or by section 4192” before the period at the end of subsection (a)(6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4221` | insert | Section 4221(a) of the Internal Revenue Code of 1986 is amended by inserting “or 4192” after “section 4191”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 4221` | insert | Section 6416(b)(2) of such Code is amended by inserting “or 4192” after “section 4191”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 275` | replace | The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 275` | add-at-end | The table of sections for subchapter E of chapter 32 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 275` | add-at-end | Chapter 32 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 275` | insert | Section 275(a)(6) of the Internal Revenue Code of 1986 is amended by inserting “or by section 4192” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 4221` | add-at-end | Section 4221(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following: “In the case of the tax imposed by section 4192, paragraphs (3), (4), (5), and (6) shall not apply.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4221` | add-at-end | Section 6416(b)(2) of such Code is amended by adding at the end the following: “In the case of the tax imposed by section 4192, subparagraphs (B), (C), (D), and (E) shall not apply.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 275` | add-at-end | The table of subchapters for chapter 32 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | redesignate | by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | strike | in paragraph (4), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | replace | in paragraph (5), by striking at the end the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | in subparagraph (G), by inserting “, subject to subsection (i)(9),” after “the amounts paid”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “, and (EE) with respect to a part B rebatable drug (as defined in paragraph (2) of section 1834(z)) for which the payment amount for a calendar quarter under paragraph (3)(A)(i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | add-at-end | by adding at the end of the flush left matter following paragraph (9), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “, and (EE) with respect to a part B rebatable drug (as defined in paragraph (2) of section 1847A(h)) for which the payment amount for a calendar quarter under paragraph (3)(A)(… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | add-at-end | in subsection (i), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | add-at-end | in subsection (t)(8), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | insert | Section 1847A(c)(3) of the Social Security Act (42 U.S.C. 1395w–3a(c)(3)) is amended by inserting “or section 1834(z)” after “section 1927”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396r-8` | insert | Section 1927(c)(1)(C)(ii)(I) of the Social Security Act (42 U.S.C. 1396r–8(c)(1)(C)(ii)(I)) is amended by inserting “or section 1834(z)” after “this section”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | insert | Section 1847A(c)(3) of the Social Security Act (42 U.S.C. 1395w–3a(c)(3)) is amended by inserting “subsection (h) or” before “section 1927”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | insert | Section 1927(c)(1)(C)(ii)(I) of the Social Security Act (42 U.S.C. 1396r–8(c)(1)(C)(ii)(I)) is amended by inserting “or section 1847A(h)” after “this section”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | insert | Section 1927(b)(3)(D)(i) of the Social Security Act (42 U.S.C. 1396r–8(b)(3)(D)(i)) is amended by inserting “and the rebate” after “the payment amount”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | strike | in subclause (IV), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396r-8` | replace | in subclause (V), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-114a` | insert | Part D of title XVIII of the Social Security Act is amended by inserting after section 1860D–14A (42 U.S.C. 1395w–114a) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-8` | add-at-end | Section 1927(k)(1)(B)(i) of the Social Security Act (42 U.S.C. 1396r–8(k)(1)(B)(i)), as previously amended, is further amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | insert | in subparagraph (A), in the matter preceding clause (i), by inserting “for a year preceding 2024 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-102` | insert | in clause (i), in the matter preceding subclause (I), by inserting “for a year preceding 2024, ” after “paragraph (4),”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-102` | insert | in the matter preceding subclause (I), by inserting “for a year preceding 2024, ” after “paragraph (4),”; and | the bill quotes the text inserted but describes where it goes |
@@ -5116,11 +4756,25 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-102` | redesignate | in the matter preceding item (aa), as redesignated by subclause (I), by striking “is equal to the greater of—” and inserting “is equal to— | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-102` | redesignate | by striking the period at the end of item (bb), as redesignated by subclause (I), and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new sentence: “The Secretary shall continue to calculate the dollar amounts specified in clause (i)(I)(aa), including with the adjustment under this clause, after 2023 for purposes of section 1860D–14(a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | strike | in subclause (V), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-102` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-115` | insert | Section 1860D–15(b)(1) of the Social Security Act (42 U.S.C. 1395w–115(b)(1)) is amended by inserting after “80 percent” the following: “(or, with respect to a coverage year after 2023, 20 percent)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-101` | insert | Part D of title XVIII of the Social Security Act (42 U.S.C. 1395w–101 et seq.), as amended by section 139102, is further amended by inserting after section 1860D–14B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-115` | replace | by striking “equal to 80 percent” and inserting “equal to— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-115` | replace | in subparagraph (A), as added by subparagraph (A), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-115` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-115` | replace | by striking “COSTS.—For purposes” and inserting | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-115` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-115` | insert | in the second sentence, by inserting “(or, with respect to 2024 and subsequent years, in the case of an applicable drug, as defined in section 1860D-14C(g)(2), by a manufacturer)” after “by the individual or under the plan”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-102` | insert | in clause (i), by inserting “(or, for 2024 and each subsequent year, 23 percent)” after “25 percent”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-102` | insert | in clause (ii), by inserting “(or, for 2024 and each subsequent year, 23 percent)” after “25 percent”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-114` | insert | Section 1860D–14(a)(2)(D) of the Social Security Act (42 U.S.C. 1395w–114(a)(2)(D)) is amended by inserting “(or, for 2024 and each subsequent year, instead of coinsurance of 23 percent)” after “instead of coinsurance of 25 percent”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-113` | insert | Section 1860D–13(a)(3)(A) of the Social Security Act (42 U.S.C. 1395w–113(a)(3)(A)) is amended by inserting “(or, for 2024 and each subsequent year, 23.5 percent)” after “25.5 percent”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-111` | insert | Section 1860D–11(g)(6) of the Social Security Act (42 U.S.C. 1395w–111(g)(6)) is amended by inserting “(or, for 2024 and each subsequent year, 23.5 percent)” after “25.5 percent”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-113` | insert | in subclause (I), by inserting “(or, for 2024 and each subsequent year, 23.5 percent)” after “25.5 percent”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-113` | insert | in subclause (II), by inserting “(or, for 2024 and each subsequent year, 23.5 percent)” after “25.5 percent”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-115` | insert | Section 1860D–15(a) of the Social Security Act (42 U.S.C. 1395w–115(a)) is amended by inserting “(or, for 2024 and each subsequent year, 76.5 percent)” after “74.5 percent”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-153` | insert | Part D of title XVIII of the Social Security Act (42 U.S.C. 1395w–101 through 42 U.S.C. 1395w–153), as amended by section 139102, is further amended by inserting after section 1860D–14B the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395-114a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-111` | replace | by striking “assumptions regarding the reinsurance” and inserting “assumptions regarding— | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-111` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -5141,3 +4795,39 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1396r-8` | insert | in subsection (c)(1)(C)(i)(VI), by inserting before the period at the end the following: “or under the manufacturer discount program under section 1860D–14C”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | insert | in subsection (k)(1)(B)(i)(V), by inserting before the period at the end the following: “or under section 1860D–14C”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | Section 1860D–2(c) of the Social Security Act (42 U.S.C. 1395w–102(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | in subsection (c), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-114` | add-at-end | in subparagraph (D)(iii), by adding at the end the following new sentence: “For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to an insulin product (as defined in section 1860D–2(b… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-114` | insert | in subparagraph (E), by inserting the following before the period at the end “or under section 1860D–2(b)(8) in the case of an insulin product (as defined in subparagraph (B) of such section)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-114` | add-at-end | in subparagraph (D), by adding at the end the following new sentence: “For plan year 2023 and subsequent plan years, the amount of the coinsurance applicable under the preceding sentence to an insulin product (as defined in section 1860D… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-114` | add-at-end | in subparagraph (E), by adding at the end the following new sentence: “For plan year 2023, the amount of the copayment or coinsurance applicable under the preceding sentence to an insulin product (as defined in section 1860D–2(b)(8)(B)) … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | in subsection (c), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-114` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | in each of subparagraphs (A) and (B), by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and moving such subclauses 2 ems to the right; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii) and moving such clauses 2 ems to the right; | the bill names no machine-readable US Code section |
+| — | replace | by striking “unavailable.—In the case” and inserting “unavailable.— | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the margin of each such redesignated clause 2 ems to the right; | the bill names no machine-readable US Code section |
+| — | replace | by striking “product.—The amount” and inserting the following: “product.— | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1396a` | insert | Section 1902(a)(10)(A) of the Social Security Act (42 U.S.C. 1396a(a)(10)(A)) is amended in the matter preceding clause (i) by inserting “(13)(B),” after “(5),”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | insert | Section 1902(a)(10)(C)(iv) of such Act (42 U.S.C. 1396a(a)(10)(C)(iv)) is amended by inserting “, (13)(B),” after “(5)”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396o` | insert | in subparagraph (G), by inserting a comma after “State plan”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396o` | replace | in subparagraph (H), by striking “; or” and inserting a comma; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396o` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396o` | insert | in subparagraph (G), by inserting a comma after “State plan”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396o` | replace | in subparagraph (H), by striking “; or” and inserting a comma; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396o` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396o-1` | add-at-end | Section 1916A(b)(3)(B) of the Social Security Act (42 U.S.C. 1396o–1(b)(3)(B)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | insert | by inserting “, and (6) during the first 8 fiscal quarters beginning on or after the effective date of this clause, in the case of a State which, as of the date of enactment of the Act titled An Act to provide for reconciliation pursuant… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1397cc` | add-at-end | Section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397cc` | insert | Section 2103(e)(2) of such Act (42 U.S.C. 1397cc(e)(2)) is amended by inserting “vaccines described in subsection (c)(12) (and the administration of such vaccines),” after “in vitro diagnostic products described in subsection (c)(10) (an… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1301` | strike | Section 303 of the Social Security Amendments of 1972 (86 Stat. 1484) is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1301` | replace | Section 1101(a)(1) of the Social Security Act (42 U.S.C. 1301(a)(1)) is amended by striking the 5th sentence and inserting the following: “Such term when used in title XVI includes Puerto Rico, the United States Virgin Islands, Guam, and… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1308` | strike | Section 1108(a)(1) of such Act (42 U.S.C. 1308(a)(1)) is amended by striking “under titles I, X, XIV, and XVI”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1382c` | insert | in clause (i)(I), by inserting “or national of the United States,” after “citizen”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1382c` | amend | in clause (i)(II), by adding “; or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1382c` | insert | in clause (ii), by inserting “or national” after “citizen”. | the bill quotes the text inserted but describes where it goes |
