@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5574
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5574
@@ -20,9 +20,10 @@ TRANSLATE ACT
 
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ TRANSLATE ACT
 - 2021-11-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 49 (Roll no. 381). (text: 11/16/2021 CR H6296)
 - 2021-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 49 (Roll no. 381).(text: 11/16/2021 CR H6296)
+- 2021-11-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
