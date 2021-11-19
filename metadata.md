@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3730
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3730
@@ -36,9 +36,10 @@ To amend title 38, United States Code, to establish in the Department of Veteran
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ To amend title 38, United States Code, to establish in the Department of Veteran
 - 2021-11-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 4 (Roll no. 380). (text: 11/16/2021 CR H6291-6292)
 - 2021-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 4 (Roll no. 380).(text: 11/16/2021 CR H6291-6292)
+- 2021-11-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
