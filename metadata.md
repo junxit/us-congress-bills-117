@@ -1,7 +1,7 @@
 ---
 measure: H.R. 729
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 729
@@ -16,7 +16,7 @@ Strength in Diversity Act of 2021
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (56)
+## Cosponsors (140)
 
 - Rep. Jones, Mondaire [D-NY-17] (J000306)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
@@ -74,6 +74,90 @@ Strength in Diversity Act of 2021
 - Rep. Newman, Marie [D-IL-3] (N000192)
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 
 ## Committees (1)
 
@@ -84,3 +168,8 @@ Strength in Diversity Act of 2021
 - 2021-02-02 — Introduced in House
 - 2021-02-02 — Introduced in House
 - 2021-02-02 — Referred to the House Committee on Education and Labor.
+- 2021-07-15 — Committee Consideration and Mark-up Session Held.
+- 2021-07-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 19.
+- 2021-11-23 — Placed on the Union Calendar, Calendar No. 127.
+- 2021-11-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-176.
+- 2021-11-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-176.
