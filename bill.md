@@ -19,7 +19,7 @@ This Act may be cited as the “Maternal Vaccination Act”.
   - **(1)** in subsection (a), by inserting “and among pregnant and postpartum individuals,” after “low rates of vaccination,”;
   - **(2)** in subsection (c)(3), by striking “prenatal and pediatric” and inserting “prenatal, obstetric, and pediatric”;
   - **(3)** in subsection (d)(4)(B), by inserting “pregnant and postpartum individuals and” after “including”; and
-  - **(4)** in subsection (g), by striking “$15,000,000 for each of fiscal years 2021 through 2025” and inserting “$17,000,000 for each of fiscal years 2022 through 2026”.
+  - **(4)** in subsection (g), by striking the dollar amount and inserting “$17,000,000”.
 - **(b)** *Additional activities* Section 317(k)(1)(E) of the Public Health Service Act (42 U.S.C. 247b(k)(1)(E)) is amended—
   - **(1)** in clause (v), by striking “and” at the end; and
   - **(2)** by adding at the end the following clause:
