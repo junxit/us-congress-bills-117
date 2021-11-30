@@ -17,20 +17,20 @@ This Act may be cited as the “Immunization Infrastructure Modernization Act of
 
 Subtitle C of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh–31 et seq.) is amended by adding at the end the following:
 
-> ## § 2823. Immunization information system data modernization and expansion
+> ## § 2824. Immunization information system data modernization and expansion
 >
 > - **(a)** *Expanding CDC and public health department capabilities*
 >   - **(1)** *In general* The Secretary shall—
 >     - **(A)** conduct activities (including with respect to interoperability, population reporting, and bidirectional reporting) to expand, enhance, and improve immunization information systems that are administered by health departments or other agencies of State, local, Tribal, and territorial governments and used by health care providers; and
 >     - **(B)** award grants or cooperative agreements to the health departments, or such other governmental entities as administer immunization information systems, of State, local, Tribal, and territorial governments, for the expansion, enhancement, and improvement of immunization information systems to assist public health departments in—
 >       - **(i)** assessing current data infrastructure capabilities and gaps among health care providers to improve and increase consistency in patient matching, data collection, reporting, bidirectional exchange, and analysis of immunization-related information;
->       - **(ii)** providing for the efficient enrollment and training of health care providers, including at pharmacies and other settings where immunizations are being provided, such as long-term care facilities, specialty health care providers, community health centers, Federally qualified health centers, rural health centers, organizations serving adults 65 and older, and organizations serving homeless and incarcerated populations;
+>       - **(ii)** providing for technical assistance and the efficient enrollment and training of health care providers, including at pharmacies and other settings where immunizations are being provided, such as long-term care facilities, specialty health care providers, community health centers, Federally qualified health centers, rural health centers, organizations serving adults 65 and older, and organizations serving homeless and incarcerated populations;
 >       - **(iii)** improving secure data collection, transmission, bidirectional exchange, maintenance, and analysis of immunization information;
 >       - **(iv)** improving the secure bidirectional exchange of immunization record data among Federal, State, local, Tribal, and territorial governmental entities and non-governmental entities, including by—
 >         - **(I)** improving such exchange among public health officials in multiple jurisdictions within a State, as appropriate; and
 >         - **(II)** by simplifying and supporting electronic reporting by any health care provider;
 >       - **(v)** supporting the standardization of immunization information systems to accelerate interoperability with health information technology, including with health information technology certified under section 3001(c)(5) or with health information networks;
->       - **(vi)** supporting adoption of the immunization information system functional standards of the Centers for Disease Control and Prevention and the maintenance of security standards to protect individually identifiable health information as defined in section 160.103 of title 45, Code of Federal Regulations (or any successor regulations);
+>       - **(vi)** supporting adoption of the immunization information system functional standards of the Centers for Disease Control and Prevention and the maintenance of security standards to protect individually identifiable health information;
 >       - **(vii)** supporting and training immunization information system, data science, and informatics personnel;
 >       - **(viii)** supporting real-time immunization record data exchange and reporting, to support rapid identification of immunization coverage gaps;
 >       - **(ix)** improving completeness of data by facilitating the capability of immunization information systems to exchange data, directly or indirectly, with immunization information systems in other jurisdictions;
@@ -38,8 +38,9 @@ Subtitle C of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh–3
 >       - **(xi)** supporting the development and implementation of policies that facilitate complete population-level capture, consolidation, and access to accurate immunization information;
 >       - **(xii)** supporting the procurement and implementation of updated software, hardware, and cloud storage to adequately manage information volume and capabilities;
 >       - **(xiii)** supporting expansion of capabilities within immunization information systems for outbreak response;
->       - **(xiv)** supporting activities within the applicable jurisdiction related to the management, distribution, and storage of vaccine doses and ancillary supplies; and
->       - **(xv)** developing information related to the use and importance of immunization record data and disseminating such information to health care providers and other persons authorized under State law to access such information, including payors and health care facilities.
+>       - **(xiv)** supporting activities within the applicable jurisdiction related to the management, distribution, and storage of vaccine doses and ancillary supplies;
+>       - **(xv)** developing information related to the use and importance of immunization record data and disseminating such information to health care providers and other persons authorized under State law to access such information, including payors and health care facilities; or
+>       - **(xvi)** supporting activities to improve the scheduling and administration of vaccinations.
 >   - **(2)** *Data standards* In carrying out paragraph (1), the Secretary shall—
 >     - **(A)** designate data and technology standards that must be followed by governmental entities with respect to use of immunization information systems as a condition of receiving an award under this section, with priority given to standards developed by—
 >       - **(i)** consensus-based organizations with input from the public; and
@@ -58,7 +59,7 @@ Subtitle C of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh–3
 > - **(d)** *Consultation; technical assistance*
 >   - **(1)** *Consultation* In developing the strategy and implementation plan under subsection (c), the Secretary shall consult with—
 >     - **(A)** health departments, or such other governmental entities as administer immunization information systems, of State, local, Tribal, and territorial governments;
->     - **(B)** professional medical, associations, public health associations, and associations representing pharmacists and pharmacies;
+>     - **(B)** professional medical associations, public health associations, and associations representing pharmacists and pharmacies;
 >     - **(C)** community health centers, long-term care facilities, and other appropriate entities that provide immunizations;
 >     - **(D)** health information technology experts; and
 >     - **(E)** other public or private entities, as appropriate.
