@@ -15,29 +15,12 @@ This Act may be cited as the “Maternal Vaccination Act”.
 
 ## § 2. Maternal vaccination awareness and equity campaign
 
-- **(a)** *In general* The Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, shall carry out a national campaign to—
-  - **(1)** increase awareness of the importance of maternal vaccinations for the health of pregnant and postpartum individuals and their children; and
-  - **(2)** increase maternal vaccination rates, with a focus on communities with historically high rates of unvaccinated individuals.
-- **(b)** *Consultation* In carrying out the campaign under this Act, the Secretary shall consult with relevant community-based organizations, health care professional associations and public health associations, State public health departments and local public health departments, Tribal-serving organizations, nonprofit organizations, and nationally recognized private entities.
-- **(c)** *Activities* The campaign under this section shall—
-  - **(1)** focus on increasing maternal vaccination rates in communities with historically high rates of unvaccinated individuals, including for pregnant and postpartum individuals from racial and ethnic minority groups;
-  - **(2)** include efforts to engage with pregnant and postpartum individuals in communities with historically high rates of unvaccinated individuals to seek input on the development and effectiveness of the campaign;
-  - **(3)** provide evidence-based, culturally congruent resources and communications efforts; and
-  - **(4)** be carried out in partnership with trusted individuals and entities in communities with historically high rates of unvaccinated individuals, including community-based organizations, community health centers, perinatal health workers, and maternity care providers.
-- **(d)** *Collaboration* The Secretary shall ensure that the information and resources developed for the campaign under this section are made publicly available and shared with relevant Federal, State, and local entities.
-- **(e)** *Evaluation* Not later than the end of fiscal year 2025, the Secretary shall—
-  - **(1)** establish quantitative and qualitative metrics to evaluate the campaign under this section; and
-  - **(2)** submit a report detailing the campaign’s impact to the Congress.
-- **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $2,000,000 for each of fiscal years 2022 through 2026.
-
-## § 3. Definitions
-
-In this Act:
-
-- **(1)** *Culturally congruent* The term culturally congruent, with respect to care or maternity care, means care that is in agreement with the preferred cultural values, beliefs, worldview, language, and practices of the health care consumer and other stakeholders.
-- **(2)** *Maternity care provider* The term maternity care provider means a health care provider who—
-  - **(A)** is a physician, physician assistant, midwife who meets at a minimum the international definition of the midwife and global standards for midwifery education as established by the International Confederation of Midwives, nurse practitioner, or clinical nurse specialist; and
-  - **(B)** has a focus on maternal or perinatal health.
-- **(3)** *Perinatal health worker* The term perinatal health worker means a doula, community health worker, peer supporter, breastfeeding and lactation educator or counselor, nutritionist or dietitian, childbirth educator, social worker, home visitor, language interpreter, or navigator.
-- **(4)** *Postpartum and postpartum period* The terms postpartum and postpartum period refer to the 1-year period beginning on the last day of the pregnancy of an individual.
-- **(5)** *Racial and ethnic minority group* The term racial and ethnic minority group has the meaning given such term in section 1707(g)(1) of the Public Health Service Act (42 U.S.C. 300u–6(g)(1)).
+- **(a)** *Campaign* Section 313 of the Public Health Service Act (42 U.S.C. 245) is amended—
+  - **(1)** in subsection (a), by inserting “and among pregnant and postpartum individuals,” after “low rates of vaccination,”;
+  - **(2)** in subsection (c)(3), by striking “prenatal and pediatric” and inserting “prenatal, obstetric, and pediatric”;
+  - **(3)** in subsection (d)(4)(B), by inserting “pregnant and postpartum individuals and” after “including”; and
+  - **(4)** in subsection (g), by striking “$15,000,000 for each of fiscal years 2021 through 2025” and inserting “$17,000,000 for each of fiscal years 2022 through 2026”.
+- **(b)** *Additional activities* Section 317(k)(1)(E) of the Public Health Service Act (42 U.S.C. 247b(k)(1)(E)) is amended—
+  - **(1)** in clause (v), by striking “and” at the end; and
+  - **(2)** by adding at the end the following clause:
+    > - **(vii)** increase vaccination rates of pregnant and postpartum individuals, including individuals from racial and ethnic minority groups, and their children; and
