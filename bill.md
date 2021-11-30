@@ -138,7 +138,7 @@ The table of contents for this Act is as follows:
     - **(A)** in the matter before paragraph (1), by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”; and
     - **(B)** in paragraph (10), by striking “Section 7 of the Federal Advisory Committee Act,” and inserting “section 1006 of title 5, United States Code,”.
   - **(55)** Section 1205(f) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (Public Law 101–73, 12 U.S.C. 1818 note) is amended—
-    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting â€œChapter 10 of Title 5, United States Code,â€; and
+    - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code,”; and
     - **(B)** in text, by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
   - **(56)** Section 5.12 of the Farm Credit Act of 1971 (12 U.S.C. 2246) is amended by striking “the Federal Advisory Committee Act” and inserting “chapter 10 of title 5, United States Code,”.
   - **(57)** Section 104(d) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703(d)) is amended—
@@ -163,7 +163,7 @@ The table of contents for this Act is as follows:
     - **(A)** in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code”; and
     - **(B)** in text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
   - **(65)** Section 25(m)(4) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(m)(4)) is amended—
-    - **(A)** in the paragraph heading, by striking “FACA applicability” and inserting â€œApplicability of chapter 10 of title 5, united states code,â€;
+    - **(A)** in the paragraph heading, by striking “FACA applicability” and inserting “Applicability of chapter 10 of title 5, United States Code,”;
     - **(B)** in subparagraph (A), by striking “the Federal Advisory Committee Act (5 U.S.C. App.).” and inserting “chapter 10 of title 5, United States Code.”; and
     - **(C)** in subparagraph (B), by striking “Section 14 of the Federal Advisory Committee Act” and inserting “Section 1013 of title 5, United States Code,”.
   - **(66)** Section 7(b) of the Small Business Computer Security and Education Act of 1984 (Public Law 98–362, 15 U.S.C. 633 note) is amended by striking “the Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”.

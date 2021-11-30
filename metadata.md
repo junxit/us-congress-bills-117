@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5961
@@ -25,3 +25,8 @@ To make revisions in title 5, United States Code, as necessary to keep the title
 - 2021-11-12 — Introduced in House
 - 2021-11-12 — Introduced in House
 - 2021-11-12 — Referred to the House Committee on the Judiciary.
+- 2021-11-17 — Committee Consideration and Mark-up Session Held.
+- 2021-11-17 — Ordered to be Reported by Voice Vote.
+- 2021-11-30 — Placed on the House Calendar, Calendar No. 52.
+- 2021-11-30 — Reported by the Committee on Judiciary. H. Rept. 117-193.
+- 2021-11-30 — Reported by the Committee on Judiciary. H. Rept. 117-193.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-722 amendatory instructions. 709 executed, 13 stated and not applied.
+722 amendatory instructions. 711 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -746,6 +746,15 @@ to guess them.
 
 ### 12 U.S.C. § 1818
 
+> in the subsection heading, by striking “Federal Advisory Committee Act” and inserting “Chapter 10 of Title 5, United States Code,”; and
+
+| | |
+|---|---|
+| Removed | `Federal Advisory Committee Act` |
+| Inserted | `Chapter 10 of Title 5, United States Code,` |
+
+### 12 U.S.C. § 1818
+
 > in text, by striking “The Federal Advisory Committee Act” and inserting “Chapter 10 of title 5, United States Code,”.
 
 | | |
@@ -896,6 +905,15 @@ to guess them.
 |---|---|
 | Removed | `The Federal Advisory Committee Act (5 U.S.C. App.)` |
 | Inserted | `Chapter 10 of title 5, United States Code,` |
+
+### 15 U.S.C. § 278k
+
+> in the paragraph heading, by striking “FACA applicability” and inserting “Applicability of chapter 10 of title 5, United States Code,”;
+
+| | |
+|---|---|
+| Removed | `FACA applicability` |
+| Inserted | `Applicability of chapter 10 of title 5, United States Code,` |
 
 ### 15 U.S.C. § 278k
 
@@ -6419,8 +6437,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1752a` | strike | Effective at the beginning of the first fiscal year after a fiscal year for which Amtrak receives no Federal subsidy, subparagraph (A) is amended by striking “Amtrak,”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 152` | insert | Title 5, United States Code, is amended by inserting after part III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5318` | repeal | This subchapter shall cease to be effective if the provisions of section 703 of the Ethics Reform Act of 1989 (Public Law 101–194, 5 U.S.C. 5318 note) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1818` | replace | in the subsection heading, by striking “Federal Advisory Committee Act” and inserting â€œChapter 10 of Title 5, United States Code,â€; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 278k` | replace | in the paragraph heading, by striking “FACA applicability” and inserting â€œApplicability of chapter 10 of title 5, united states code,â€; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 360c` | replace | in paragraph (8), by striking the “Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”. | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1534` | insert | The table of contents of title 5, United States Code, is amended by inserting after the item relating to part III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1534` | insert | by inserting after the item relating to chapter 3 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
