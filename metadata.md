@@ -1,7 +1,7 @@
 ---
 measure: H.R. 951
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 951
@@ -16,7 +16,7 @@ Maternal Vaccination Act
 
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Cosponsors (44)
+## Cosponsors (52)
 
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
@@ -62,6 +62,14 @@ Maternal Vaccination Act
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
 
 ## Committees (1)
 
@@ -72,3 +80,17 @@ Maternal Vaccination Act
 - 2021-02-08 — Introduced in House
 - 2021-02-08 — Introduced in House
 - 2021-02-08 — Referred to the House Committee on Energy and Commerce.
+- 2021-02-09 — Referred to the Subcommittee on Health.
+- 2021-07-15 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2021-07-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2021-07-21 — Committee Consideration and Mark-up Session Held.
+- 2021-07-21 — Ordered to be Reported by Voice Vote.
+- 2021-11-30 — Considered under suspension of the rules. (consideration: CR H6681-6682)
+- 2021-11-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 951.
+- 2021-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-11-30 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2021-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6681)
+- 2021-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6681)
+- 2021-11-30 — Placed on the Union Calendar, Calendar No. 129.
+- 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-179.
+- 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-179.
