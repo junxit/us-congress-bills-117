@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2355
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 21 U.S.C. § 829
+
+> Section 3212(a) of the SUPPORT for Patients and Communities Act (21 U.S.C. 829 note) is amended by striking “Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate” and inserting “The Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate not later than 1 year after the date of enactment of this Act, and update periodically thereafter”.
+
+| | |
+|---|---|
+| Removed | `Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate` |
+| Inserted | `The Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate not later than 1 year after the date of enactment of this Act, and update periodically thereafter` |
 
 ## Stated, not applied
 
@@ -31,10 +42,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 3212(a) of the SUPPORT for Patients and Communities Act (Public Law 115–271) is amended by striking “Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with … | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; and | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting before paragraph (2), as so redesignated, the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3212 of the SUPPORT for Patients and Communities Act (Public Law 115–271) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 829` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 829` | redesignate | by inserting before paragraph (2), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 829` | add-at-end | Section 3212 of the SUPPORT for Patients and Communities Act (21 U.S.C. 829 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-1` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-1` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280b-1` | redesignate | Subsection (d) of section 392A of the Public Health Service Act (42 U.S.C. 280b–1), as redesignated by subsection (a)(1), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
