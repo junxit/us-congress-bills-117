@@ -27,7 +27,7 @@ This Act may be cited as the “Future Uses of Technology Upholding Reliable and
     - **(A)** the status of industry-led standards-setting bodies in setting standards for such technology;
     - **(B)** possible uses of such technology identified by industry-led standards-setting bodies that are setting standards for such technology;
     - **(C)** any limitations of such technology (including any supply chain or cybersecurity limitations) identified by industry-led standards-setting bodies that are setting standards for such technology; and
-    - **(D)** how to best work with entities across the Federal Government, State governments, local governments, and Tribal Governments to leverage such technology, including with regard to siting and deployment.
+    - **(D)** how to best work with entities across the Federal Government, State governments, local governments, and Tribal Governments to leverage such technology, including with regard to siting, deployment, and adoption.
   - **(2)** *Draft report; public comment* The Task Force shall—
     - **(A)** not later than 180 days after the date on which the Task Force is established under subsection (a), publish in the Federal Register and on the website of the Commission a draft of the report required by paragraph (1); and
     - **(B)** accept public comments on such draft and take such comments into consideration in preparing the final version of such report.
