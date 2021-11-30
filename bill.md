@@ -15,8 +15,8 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
 
 ## § 2. Report on cybersecurity of mobile service networks
 
-- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Assistant Secretary, in consultation with the Department of Homeland Security, shall submit to Congress a report examining the cybersecurity of mobile service networks and the vulnerability of such networks and mobile devices to cyberattacks and surveillance conducted by adversaries.
-- **(b)** *Matters To be included* The report required by subsection (a) shall include the following:
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Assistant Secretary, in consultation with the Department of Homeland Security, shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report examining the cybersecurity of mobile service networks and the vulnerability of such networks and mobile devices to cyberattacks and surveillance conducted by adversaries.
+- **(b)** *Matters to be included* The report required by subsection (a) shall include the following:
   - **(1)** An assessment of the degree to which providers of mobile service have addressed, are addressing, or have not addressed cybersecurity vulnerabilities (including vulnerabilities the exploitation of which could lead to surveillance conducted by adversaries) identified by academic and independent researchers, multistakeholder standards and technical organizations, industry experts, and Federal agencies, including in relevant reports of—
     - **(A)** the National Telecommunications and Information Administration;
     - **(B)** the National Institute of Standards and Technology; and
@@ -24,7 +24,7 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
       - **(i)** the Cybersecurity and Infrastructure Security Agency; and
       - **(ii)** the Science and Technology Directorate.
   - **(2)** A discussion of—
-    - **(A)** the degree to which customers (including consumers, companies, and government agencies) consider cybersecurity as a factor when considering the purchase of mobile service; and
+    - **(A)** the degree to which customers (including consumers, companies, and government agencies) consider cybersecurity as a factor when considering the purchase of mobile service and mobile devices; and
     - **(B)** the commercial availability of tools, frameworks, best practices, and other resources for enabling such customers to evaluate risk and price tradeoffs.
   - **(3)** A discussion of the degree to which providers of mobile service have implemented cybersecurity best practices and risk assessment frameworks.
   - **(4)** An estimate and discussion of the prevalence and efficacy of encryption and authentication algorithms and techniques used in each of the following:
@@ -36,7 +36,7 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
   - **(6)** The prevalence, usage, and availability of technologies that authenticate legitimate mobile service and mobile communications equipment or services to which mobile phones and other mobile devices are connected.
   - **(7)** The prevalence, costs, commercial availability, and usage by adversaries in the United States of cell site simulators (often known as international mobile subscriber identity-catchers) and other mobile service surveillance and interception technologies.
 - **(c)** *Consultation* In preparing the report required by subsection (a), the Assistant Secretary shall, to the degree practicable, consult with—
-  - **(1)** the Commission;
+  - **(1)** the Federal Communications Commission;
   - **(2)** the National Institute of Standards and Technology;
   - **(3)** the intelligence community;
   - **(4)** the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security;
@@ -44,7 +44,7 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
   - **(6)** academic and independent researchers with expertise in privacy, encryption, cybersecurity, and network threats;
   - **(7)** participants in multistakeholder standards and technical organizations (including the 3rd Generation Partnership Project and the Internet Engineering Task Force);
   - **(8)** international stakeholders, in coordination with the Department of State as appropriate;
-  - **(9)** providers of mobile service;
+  - **(9)** providers of mobile service, including small providers (or the representatives of such providers) and rural providers (or the representatives of such providers);
   - **(10)** manufacturers, operators, and providers of mobile communications equipment or services and mobile phones and other mobile devices;
   - **(11)** developers of mobile operating systems and communications software and applications; and
   - **(12)** other experts that the Assistant Secretary considers appropriate.
@@ -55,8 +55,10 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
     - **(A)** exploited in non-laboratory settings; or
     - **(B)** feasibly and practicably exploitable in real-world conditions; and
   - **(4)** consider in the report required by subsection (a) vulnerabilities that have been effectively mitigated by manufacturers of mobile phones and other mobile devices.
-- **(e)** *Form of report* The report required by subsection (a) shall be produced in unclassified form but may contain a classified annex.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $500,000 for fiscal year 2021. Such amount is authorized to remain available through fiscal year 2022.
+- **(e)** *Form of report*
+  - **(1)** *Classified information* The report required by subsection (a) shall be produced in unclassified form but may contain a classified annex.
+  - **(2)** *Potentially exploitable unclassified information* The Assistant Secretary shall redact potentially exploitable unclassified information from the report required by subsection (a) but shall provide an unredacted form of the report to the committees described in such subsection.
+- **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $500,000 for fiscal year 2022. Such amount is authorized to remain available through fiscal year 2023.
 - **(g)** *Definitions* In this section:
   - **(1)** *Adversary* The term “adversary” includes—
     - **(A)** any unauthorized hacker or other intruder into a mobile service network; and
