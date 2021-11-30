@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 437
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 437
@@ -16,7 +16,7 @@ A resolution expressing support for the designation of November 8, 2021, as "Nat
 
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
 
-## Cosponsors (18)
+## Cosponsors (19)
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
@@ -36,6 +36,7 @@ A resolution expressing support for the designation of November 8, 2021, as "Nat
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
 
 ## Committees (1)
 
@@ -45,3 +46,7 @@ A resolution expressing support for the designation of November 8, 2021, as "Nat
 
 - 2021-11-03 — Introduced in Senate
 - 2021-11-03 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-11-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 11/03/2021 S7723)
+- 2021-11-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 11/03/2021 S7723)
+- 2021-11-30 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S8826)
+- 2021-11-30 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S8826)
