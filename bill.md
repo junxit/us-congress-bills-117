@@ -11,107 +11,54 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Promoting Resources to Expand Vaccination, Education and New Treatments for HPV Cancers Act of 2021” or the “PREVENT HPV Cancers Act of 2021”.
+This Act may be cited as the “Promoting Resources to Expand Vaccination, Education, and New Treatments for HPV Cancers Act of 2021” or the “PREVENT HPV Cancers Act of 2021”.
 
-## § 2. Findings
+## § 2. Preventing HPV and HPV-associated cancers; reauthorizing Johanna’s law
 
-Congress finds the following:
+Section 317P of the Public Health Service Act (42 U.S.C. 247b–17) is amended—
 
-- **(1)** The human papillomavirus (referred to in this Act as “HPV”) causes six different types of cancer (anal, cervical, oropharynx, penile, vaginal, and vulvar).
-- **(2)** Almost 35,000 cases of cancer are caused by HPV each year impacting both women and men.
-- **(3)** About 90 percent of cervical and anal cancers are thought to be caused by HPV.
-- **(4)** Black and Hispanic women are more likely to get HPV-associated cervical cancer than women of other races and ethnicities.
-- **(5)** Approximately 60 to 70 percent of oropharynx cancer is tied to HPV.
-- **(6)** Most HPV infections that can lead to cancer can be prevented by vaccines.
-- **(7)** HPV vaccines can also help prevent recurrent respiratory papillomatosis, anal and genital warts.
-- **(8)** Vaccination for HPV is approved for men and women.
-- **(9)** The vaccines are most effective if administered when an individual is between the ages of 9 and 12.
-- **(10)** Only about half of adolescents have completed the HPV vaccine series.
-- **(11)** Certain populations, like adolescents in rural areas and males are less likely to receive the HPV vaccine.
-- **(12)** Health providers’ recommendation of the vaccine is critical to getting adolescents vaccinated
+- **(1)** in subsection (c)(1)—
+  - **(A)** in subparagraph (B), by striking “cervical”;
+  - **(B)** in subparagraph (C), by striking “and” at the end;
+  - **(C)** in subparagraph (D) by striking “other” and all that follows through “cancer.” and inserting “recommended diagnostics for early intervention for, and prevention of, HPV-associated cancers; and”; and
+  - **(D)** by adding at the end the following:
+    > - **(E)** the importance of recommended vaccines for prevention of HPV and HPV-associated cancers, including for males;
 
-## § 3. HPV vaccine public awareness campaign
-
-Section 317 of the Public Health Service Act (42 U.S.C. 247b) is amended by adding at the end the following new subsection:
-
-> - **(o)** *HPV vaccine public awareness campaign*
->   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out a national campaign to—
->     - **(A)** increase awareness of the importance of HPV vaccination;
->     - **(B)** combat misinformation about HPV vaccination; and
->     - **(C)** increase HPV vaccination rates and completion of the vaccine series, especially among males.
->   - **(2)** *Consultation* In carrying out the national campaign required by paragraph (1), the Secretary shall consult with the National Academy of Medicine, including health care providers and public health associations, nonprofit organizations (including those that represent communities most impacted by HPV-associated cancers and communities with low vaccination rates), State and local public health departments, elementary and secondary education organizations (including student and parent organizations), and institutions of higher education, to solicit advice on evidence-based information for policy development and program development, implementation, and evaluation.
->   - **(3)** *Requirements* The national campaign required by paragraph (1) shall—
->     - **(A)** include the use of evidence-based media and public engagement;
->     - **(B)** be carried out through competitive grants or cooperative agreements awarded to one or more private, nonprofit entities with a history developing and implementing similar campaigns;
->     - **(C)** include the development of culturally and linguistically competent resources that shall be tailored for—
->       - **(i)** communities with high rates of—
->         - **(I)** unvaccinated individuals, including males;
->         - **(II)** individuals with unique health care needs (such as lesbian, gay, bisexual, transgender, and queer individuals);
->         - **(III)** individuals with high rates of cervical cancer and other HPV-associated cancers (such as Black and Hispanic women); and
->         - **(IV)** populations impacted by the increase in oropharynx cancers;
->       - **(ii)** rural communities; and
->       - **(iii)** such other communities as the Secretary determines appropriate;
->     - **(D)** include the dissemination of HPV vaccination information and communication resources to health care providers and health care facilities (including primary care providers, community health centers, dentists, obstetricians, and gynecologists), and such providers and such facilities for pediatric care, State and local public health departments, elementary and secondary schools, and colleges and universities;
->     - **(E)** be complementary to, and coordinated with, any other Federal efforts with respect to HPV vaccination;
->     - **(F)** include message testing to identify culturally competent and effective messages for behavioral change; and
->     - **(G)** include the award of grants or cooperative agreements to State, local, and Tribal public health departments—
->       - **(i)** to engage with communities specified in subparagraph (C), local education agencies, health care providers, community organizations, or other groups the Secretary determines are appropriate to develop and deliver effective strategies to increase HPV vaccination rates; and
->       - **(ii)** to disseminate culturally and linguistically competent resources on the National Breast and Cervical Cancer Early Detection Program and where an individual can access the screenings locally.
->   - **(4)** *Options for dissemination of information* The national campaign required by paragraph (1) may—
->     - **(A)** include the use of—
->       - **(i)** social media, television, radio, print, the internet, and other media;
->       - **(ii)** in-person or virtual public communications; and
->       - **(iii)** recognized, trusted figures;
->     - **(B)** be targeted to specific groups and communities specified in paragraph (3)(C); and
->     - **(C)** include the dissemination of information highlighting each of the following:
->       - **(i)** Recommended age range to get the HPV vaccine.
->       - **(ii)** The benefits of getting vaccinated against HPV, including the potential to not acquire HPV-associated cancers.
->       - **(iii)** HPV vaccine safety and the systems in place to monitor such safety.
->   - **(5)** *Authorization of appropriations* There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2021 through 2025.
-
-## § 4. State immunization information system enhancement
-
-Section 317(k) of the Public Health Service Act (42 U.S.C. 247b(k)) is amended—
-
-- **(1)** in paragraph (1)—
-  - **(A)** in subparagraph (C), by striking “and” at the end;
-  - **(B)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
-  - **(C)** by adding at the end the following:
-    > - **(E)** State immunization information systems.
-
-- **(2)** in paragraph (2)—
-  - **(A)** in subparagraph (C), by striking “and” at the end;
-  - **(B)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
-  - **(C)** by adding at the end the following:
-    > - **(E)** State immunization information systems.
-
-- **(3)** by adding at the end the following:
-  > - **(5)** In addition to any funds made available under subsection (j) to carry out this subsection, there are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2021 through 2025.
-
-## § 5. Expanding Research and Education with Respect to HPV-Associated Cancers
-
-Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is amended by adding at the end the following new section:
-
-> ## § 409K. HPV-associated cancers
->
-> - **(a)** *In general* The Secretary, acting through the Director of the National Cancer Institute, shall expand, intensify, and coordinate programs to conduct and support research with respect to HPV-associated cancers.
-> - **(b)** *Coordination with other institutes* The Secretary, acting through the Director of the National Cancer Institute, shall coordinate activities carried out by the Director pursuant to subsection (a) with similar activities carried out by other national research institutes and agencies of the National Institutes of Health to the extent that those Institutes and agencies have responsibilities that are related to HPV-associated cancers.
-> - **(c)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2025.
-> - **(d)** *HPV-Associated cancer* In this section, the term “HPV-associated cancer” means cancer associated with the human papillomavirus.
-
-## § 6. Breast and Cervical Cancer Early Detection Program
-
-- **(a)** *In general* Section 1510(a) of the Public Health Service Act (42 U.S.C. 300n–5(a)) is amended by striking “and $275,000,000 for fiscal year 2012” and inserting “$275,000,000 for fiscal year 2012, and $300,000,000 for each fiscal years 2021 through 2025”.
-- **(b)** *Coordinating committee* Section 1501(d) of the Public Health Service Act (42 U.S.C. 300k(d)) is amended—
-  - **(1)** in the subsection heading, by striking “2020” and inserting “2030”; and
-  - **(2)** by striking “2020” and inserting “2025”.
-
-## § 7. Report to Congress
-
-Not later than 2025, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report—
-
-- **(1)** that contains a qualitative assessment of the campaign under subsection (o) of section 317 of the Public Health Service Act (42 U.S.C. 247b) and the activities conducted under such campaign; and
-- **(2)** on, with respect to the impact on cancer associated with human papillomavirus—
-  - **(A)** the activities conducted under subsection (o) of section 317 of the Public Health Service Act (42 U.S.C. 247b), as added by section 3;
-  - **(B)** research conducted under subsection (k) of such section, pursuant to the amendments made by section 4; and
-  - **(C)** section 409K of the Public Health Service Act, as added by section 5.
+- **(2)** by amending subsection (d) to read as follows:
+  > - **(d)** *Johanna's Law*
+  >   - **(1)** *National public awareness campaign*
+  >     - **(A)** *In general* The Secretary shall carry out a national campaign to increase the awareness and knowledge of health care providers and individuals with respect to gynecologic cancers, HPV, and HPV-associated cancers, and the importance of HPV vaccines in preventing HPV and HPV-associated cancers.
+  >     - **(B)** *Written materials* Activities under the national campaign under subparagraph (A) shall include—
+  >       - **(i)** maintaining a supply of written materials that provide information to the public on gynecologic cancers, HPV, and HPV-associated cancers; and
+  >       - **(ii)** distributing the materials to members of the public upon request.
+  >     - **(C)** *Public service announcements* Activities under the national campaign under subparagraph (A) shall, in accordance with applicable law and regulations, include publishing materials in digital or print form, public engagement, and developing and placing public service announcements intended to encourage individuals to discuss with their physicians—
+  >       - **(i)** their risk of gynecologic cancers and HPV-associated cancers; and
+  >       - **(ii)** the importance of HPV vaccines in preventing HPV and HPV-associated cancers.
+  >     - **(D)** *Targeted populations* Activities under the national campaign under subparagraph (A) shall include culturally and linguistically competent public service announcements and other forms of communication and public engagement under subparagraph (C) targeted to—
+  >       - **(i)** specific higher-risk populations of individuals based on race, ethnicity, level of acculturation, and family history, including African-American and Ashkenazi Jewish individuals;
+  >       - **(ii)** communities with high rates of unvaccinated individuals, including males;
+  >       - **(iii)** rural communities;
+  >       - **(iv)** populations affected by increasing rates of oropharynx cancers;
+  >       - **(v)** health care providers specializing in assisting survivors of sexual assault; and
+  >       - **(vi)** such other communities as the Secretary determines appropriate.
+  >   - **(2)** *Consultation* In carrying out the national campaign under this section, the Secretary shall consult with—
+  >     - **(A)** health care providers;
+  >     - **(B)** nonprofit organizations (including gynecologic cancer organizations and organizations that represent communities and individuals most affected by HPV-associated cancers and low vaccination rates);
+  >     - **(C)** State and local public health departments; and
+  >     - **(D)** elementary and secondary education organizations and institutions of higher education.
+  >   - **(3)** *Demonstration projects regarding outreach and education strategies*
+  >     - **(A)** *In general*
+  >       - **(i)** *Program* The Secretary may carry out a program to award grants or contracts to public or nonprofit private entities for the purpose of carrying out demonstration projects to test, compare, and evaluate different evidence-based outreach and education strategies to increase the awareness and knowledge of women, their families, physicians, nurses, and other key health professionals with respect to gynecologic cancers, including with respect to early warning signs, risk factors, prevention, screening, and treatment options.
+  >       - **(ii)** *Science-based resources* In making awards under clause (i), the Secretary shall encourage awardees to use science-based resources such as the Inside Knowledge About Gynecologic Cancer education campaign of the Centers for Disease Control and Prevention.
+  >     - **(B)** *Preferences in awarding grants or contracts* In making awards under subparagraph (A), the Secretary shall give preference to—
+  >       - **(i)** applicants with demonstrated expertise in gynecologic cancer education or treatment or in working with groups of women who are at increased risk of gynecologic cancers; and
+  >       - **(ii)** applicants that, in the demonstration project funded by the grant or contract, will establish linkages between physicians, nurses, other key health professionals, health profession students, hospitals, payers, and State health departments.
+  >     - **(C)** *Application* To seek a grant or contract under subparagraph (A), an entity shall submit an application to the Secretary in such form, in such manner, and containing such agreements, assurances, and information as the Secretary determines to be necessary to carry out this paragraph.
+  >     - **(D)** *Certain requirements* In making awards under subparagraph (A), the Secretary shall—
+  >       - **(i)** make awards, as practicable, to not fewer than five applicants; and
+  >       - **(ii)** ensure that information provided through demonstration projects under this paragraph is consistent with the best available medical information.
+  >     - **(E)** *Report to congress* Not later than 24 months after the date of the enactment of the PREVENT HPV Cancers Act of 2021, and annually thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that—
+  >       - **(i)** summarizes the activities of demonstration projects under subparagraph (A);
+  >       - **(ii)** evaluates the extent to which the projects were effective in increasing awareness and knowledge of risk factors and early warning signs in the populations to which the projects were directed; and
+  >       - **(iii)** identifies barriers to early detection and appropriate treatment of such cancers.
+  >   - **(4)** *Authorization of appropriations* For the purpose of carrying out this subsection, there is authorized to be appropriated $25,000,000 for the period of fiscal years 2022 through 2026.
