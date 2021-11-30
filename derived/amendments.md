@@ -1,7 +1,7 @@
 ---
 measure: H.R. 951
 congress: 117
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,15 +33,6 @@ to guess them.
 | Removed | `prenatal and pediatric` |
 | Inserted | `prenatal, obstetric, and pediatric` |
 
-### 42 U.S.C. § 245
-
-> in subsection (g), by striking “$15,000,000 for each of fiscal years 2021 through 2025” and inserting “$17,000,000 for each of fiscal years 2022 through 2026”.
-
-| | |
-|---|---|
-| Removed | `$15,000,000 for each of fiscal years 2021 through 2025` |
-| Inserted | `$17,000,000 for each of fiscal years 2022 through 2026` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -53,5 +44,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 245` | insert | in subsection (a), by inserting “and among pregnant and postpartum individuals,” after “low rates of vaccination,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 245` | insert | in subsection (d)(4)(B), by inserting “pregnant and postpartum individuals and” after “including”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 245` | replace | in subsection (g), by striking the dollar amount and inserting “$17,000,000”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 247b` | strike | in clause (v), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 247b` | add-at-end | by adding at the end the following clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
