@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4026
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4026
@@ -20,9 +20,10 @@ Social Determinants of Health Data Analysis Act of 2021
 
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Social Determinants of Health Data Analysis Act of 2021
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 134.
 - 2021-11-30 — Reported by the Committee on Energy and Commerce. H. Rept. 117-184.
 - 2021-11-30 — Reported by the Committee on Energy and Commerce. H. Rept. 117-184.
+- 2021-12-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
