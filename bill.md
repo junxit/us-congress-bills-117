@@ -11,18 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Courthouse Ethics and Transparency Act of 2021”.
+This Act may be cited as the “Courthouse Ethics and Transparency Act”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** recent reports indicate certain Federal judges have failed to recuse themselves from cases and controversies in which the financial interests of the Federal judges are implicated;
-- **(2)** Federal law and the judicial recusal rules applicable to Federal judges require that Federal judges disqualify themselves in any proceeding in which the impartiality of the Federal judges might be reasonably questioned, including instances in which a Federal judge has any financial interest in the subject matter in controversy or in a party to the proceeding;
-- **(3)** litigants and the public have an interest in fair and impartial judicial proceedings, the results and conduct of which avoid any appearance of impropriety; and
-- **(4)** in 2012, the STOCK Act (Public Law 112–105; 126 Stat. 291) was enacted, which provides that Members of Congress and Federal officials have a duty of trust and confidentiality to not use information obtained from their official duties for private gain, including the purchase and sale of stocks, bonds, commodities, futures, and other securities.
-
-## § 3. Periodic transaction reports and online publication of financial disclosure reports of Federal judicial officers
+## § 2. Periodic transaction reports and online publication of financial disclosure reports of Federal judicial officers
 
 - **(a)** *Periodic transaction reporting requirement for Federal judicial officers*
   - **(1)** *In general* Section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following:
@@ -33,7 +24,7 @@ Congress finds that—
   - **(1)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
   - **(2)** by inserting after subsection (b) the following:
     > - **(c)** *Online publication of financial disclosure reports of judicial officers*
-    >   - **(1)** *Establishment of database* Not later than 180 days after the date of enactment of the Courthouse Ethics and Transparency Act of 2021, the Administrative Office of the United States Courts shall establish a searchable internet database to enable public access to any report required to be filed by a judicial officer under this title.
+    >   - **(1)** *Establishment of database* Not later than 180 days after the date of enactment of the Courthouse Ethics and Transparency Act, the Administrative Office of the United States Courts shall establish a searchable internet database to enable public access to any report required to be filed by a judicial officer under this title.
     >   - **(2)** *Availability* Not later than 90 days after the date on which a report is required to be filed under this title by a judicial officer, the Administrative Office of the United States Courts shall make the report available on the database established under paragraph (1) in a full-text searchable, sortable, and downloadable format for access by the public.
     >   - **(3)** *Redaction* Any report made available on the database established under paragraph (1) shall not contain any information that is redacted in accordance with subsection (b)(3).
 
