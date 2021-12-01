@@ -85,4 +85,4 @@ Nothing in this Act alters, modifies, diminishes, or extinguishes the treaty rig
 
 ## § 9. Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary for grants to implement this Act, $14,000,000 for the first fiscal year beginning after the date of the enactment of this Act and for each fiscal year thereafter.
+There is authorized to be appropriated to the Secretary to carry out this Act, $14,000,000 for the first fiscal year beginning after the date of the enactment of this Act and for each fiscal year thereafter.
