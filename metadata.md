@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1550
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1550
@@ -35,9 +35,10 @@ PREVENT HPV Cancers Act of 2021
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ PREVENT HPV Cancers Act of 2021
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 132.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-182.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-182.
+- 2021-12-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
