@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4660
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4660
@@ -46,3 +46,12 @@ To designate the Federal Building and United States Courthouse located at 1125 C
 - 2021-12-01 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2021-12-01 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2021-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
+- 2021-12-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9085)
+- 2021-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9085)
+- 2021-12-10 — Message on Senate action sent to the House.
+- 2021-12-15 — Presented to President.
+- 2021-12-15 — Presented to President.
+- 2021-12-21 — Became Public Law No: 117-75.
+- 2021-12-21 — Became Public Law No: 117-75.
+- 2021-12-21 — Signed by President.
+- 2021-12-21 — Signed by President.
