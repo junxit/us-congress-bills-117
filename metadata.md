@@ -1,7 +1,7 @@
 ---
 measure: S. 2629
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2629
@@ -16,11 +16,12 @@ Better Cybercrime Metrics Act
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Better Cybercrime Metrics Act
 
 - 2021-08-05 — Introduced in Senate
 - 2021-08-05 — Read twice and referred to the Committee on the Judiciary.
+- 2021-11-18 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2021-12-01 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2021-12-01 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2021-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.
