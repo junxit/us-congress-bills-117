@@ -1,7 +1,7 @@
 ---
 measure: H.R. 951
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 951
@@ -71,9 +71,10 @@ Maternal Vaccination Act
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ Maternal Vaccination Act
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 129.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-179.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-179.
+- 2021-12-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
