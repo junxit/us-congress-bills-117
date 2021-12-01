@@ -25,16 +25,16 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
       - **(ii)** the Science and Technology Directorate.
   - **(2)** A discussion of—
     - **(A)** the degree to which customers (including consumers, companies, and government agencies) consider cybersecurity as a factor when considering the purchase of mobile service and mobile devices; and
-    - **(B)** the commercial availability of tools, frameworks, best practices, and other resources for enabling such customers to evaluate risk and price tradeoffs.
+    - **(B)** the commercial availability of tools, frameworks, best practices, and other resources for enabling such customers to evaluate cybersecurity risk and price tradeoffs.
   - **(3)** A discussion of the degree to which providers of mobile service have implemented cybersecurity best practices and risk assessment frameworks.
   - **(4)** An estimate and discussion of the prevalence and efficacy of encryption and authentication algorithms and techniques used in each of the following:
     - **(A)** Mobile service.
     - **(B)** Mobile communications equipment or services.
     - **(C)** Commonly used mobile phones and other mobile devices.
     - **(D)** Commonly used mobile operating systems and communications software and applications.
-  - **(5)** Barriers for providers of mobile service to adopt more efficacious encryption and authentication algorithms and techniques and to prohibit the use of older encryption and authentication algorithms and techniques with established vulnerabilities in mobile service, mobile communications equipment or services, and mobile phones and other mobile devices.
-  - **(6)** The prevalence, usage, and availability of technologies that authenticate legitimate mobile service and mobile communications equipment or services to which mobile phones and other mobile devices are connected.
-  - **(7)** The prevalence, costs, commercial availability, and usage by adversaries in the United States of cell site simulators (often known as international mobile subscriber identity-catchers) and other mobile service surveillance and interception technologies.
+  - **(5)** A discussion of the barriers for providers of mobile service to adopt more efficacious encryption and authentication algorithms and techniques and to prohibit the use of older encryption and authentication algorithms and techniques with established vulnerabilities in mobile service, mobile communications equipment or services, and mobile phones and other mobile devices.
+  - **(6)** An estimate and discussion of the prevalence, usage, and availability of technologies that authenticate legitimate mobile service and mobile communications equipment or services to which mobile phones and other mobile devices are connected.
+  - **(7)** An estimate and discussion of the prevalence, costs, commercial availability, and usage by adversaries in the United States of cell site simulators (often known as international mobile subscriber identity-catchers) and other mobile service surveillance and interception technologies.
 - **(c)** *Consultation* In preparing the report required by subsection (a), the Assistant Secretary shall, to the degree practicable, consult with—
   - **(1)** the Federal Communications Commission;
   - **(2)** the National Institute of Standards and Technology;
