@@ -1,7 +1,7 @@
 ---
 measure: H.R. 550
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 550
@@ -33,9 +33,10 @@ Immunization Infrastructure Modernization Act of 2021
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Immunization Infrastructure Modernization Act of 2021
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 128.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-178.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-178.
+- 2021-12-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

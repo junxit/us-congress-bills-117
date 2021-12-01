@@ -2,7 +2,7 @@
 legis-num: H.R. 550
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 550
@@ -59,7 +59,7 @@ Subtitle C of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh–3
 > - **(d)** *Consultation; technical assistance*
 >   - **(1)** *Consultation* In developing the strategy and implementation plan under subsection (c), the Secretary shall consult with—
 >     - **(A)** health departments, or such other governmental entities as administer immunization information systems, of State, local, Tribal, and territorial governments;
->     - **(B)** professional medical, associations, public health associations, and associations representing pharmacists and pharmacies;
+>     - **(B)** professional medical associations, public health associations, and associations representing pharmacists and pharmacies;
 >     - **(C)** community health centers, long-term care facilities, and other appropriate entities that provide immunizations;
 >     - **(D)** health information technology experts; and
 >     - **(E)** other public or private entities, as appropriate.
