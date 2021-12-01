@@ -1,7 +1,7 @@
 ---
 measure: S. 2938
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2938
@@ -28,3 +28,8 @@ Bipartisan Safer Communities Act
 
 - 2021-10-05 — Introduced in Senate
 - 2021-10-05 — Read twice and referred to the Committee on Environment and Public Works.
+- 2021-12-01 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 117-133.
+- 2021-12-01 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2021-12-01 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-12-01 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.
