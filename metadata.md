@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4045
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4045
@@ -30,6 +30,10 @@ FUTURE Networks Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2021-12-01 — [House 117-1-390](votes/house-117-1-0390.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–27)
+
 ## Actions
 
 - 2021-06-22 — Introduced in House
@@ -47,3 +51,7 @@ FUTURE Networks Act
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 135.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-185.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-185.
+- 2021-12-01 — Considered as unfinished business. (consideration: CR H6834)
+- 2021-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 27 (Roll no. 390). (text: 11/30/2021 CR H6689)
+- 2021-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 27 (Roll no. 390).(text: 11/30/2021 CR H6689)
