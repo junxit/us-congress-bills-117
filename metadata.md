@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 390
@@ -53,3 +53,7 @@ To redesignate the Federal building located at 167 North Main Street in Memphis,
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 2, 1 Present (Roll no. 364). (text: 11/3/2021 CR H6145)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 2, 1 Present (Roll no. 364).(text: 11/3/2021 CR H6145)
 - 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2021-12-01 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2021-12-01 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-12-01 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2021-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.
