@@ -1,0 +1,38 @@
+---
+legis-num: H.R. 6130
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6130
+
+> To modify the boundary of the Wilson’s Creek National Battlefield in the State of Missouri, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Wilson's Creek National Battlefield Boundary Revision Act of 2021”.
+
+## § 2. Wilson's Creek National Battlefield boundary modification
+
+Section 1(b) Public Law 86–434 (16 U.S.C. 430kk(b)) is amended—
+
+- **(1)** in paragraph (1)—
+  - **(A)** in the second sentence, by striking “The map” and inserting the following:
+    > - **(C)** *Availability of maps* The maps described in subparagraphs (A) and (B)
+
+  - **(B)** by striking “(1) The boundaries” and inserting the following:
+    > - **(1)** *Additional land*
+    >   - **(A)** *In general* The boundaries
+
+  - **(C)** by inserting after subparagraph (A) (as so designated) the following:
+    > - **(B)** *Newtonia Battlefield addition* The boundary of the Wilson's Creek National Battlefield is revised to include the approximately 624 acres of land identified as “Proposed Addition” on the map entitled “Wilson's Creek National Battlefield Proposed Boundary Modification”, numbered 410/177,379, and dated September 2021.
+
+  - **(D)** by adding at the end the following:
+    > - **(D)** *Errors* The Secretary of the Interior may correct any clerical or typographical error in a map described in subparagraph (A) or (B).
+
+- **(2)** in paragraph (2)—
+  - **(A)** by striking “(2) The Secretary is authorized to acquire the lands referred to in paragraph (1)” and inserting the following:
+    > - **(2)** *Method of acquisition* The Secretary of the Interior may acquire the land described in subparagraphs (A) and (B) of paragraph (1)
+
+  - **(B)** in the second sentence, by striking “park” and inserting “Wilson's Creek National Battlefield”.
