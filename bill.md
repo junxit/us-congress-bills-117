@@ -139,13 +139,13 @@ Section 1170 of title 18, United States Code, is amended—
       - **(v)** *Technical assistance* If an Indian Tribe or Native Hawaiian organization lacks sufficient resources to access the database or respond to agency communications in a timely manner, the Secretary, in consultation with Indian Tribes and Native Hawaiian organizations, shall provide technical assistance to facilitate that access or response, as applicable.
     - **(D)** *Issuance of export certification*
       - **(i)** On receipt of an export certification application for an Item Requiring Export Certification that meets the requirements of subparagraphs (A) and (B), if the Secretary, in consultation with Indian Tribes and Native Hawaiian organizations with a cultural affiliation with the Item Requiring Export Certification, determines that the Item Requiring Export Certification is eligible for an export certification under paragraph (2), the Secretary may issue an export certification for the Item Requiring Export Certification.
-      - **(ii)** On receipt of an export certification application for an Item Requiring Export Certification that meets the requirements of sub-paragraphs (A) and (B)—
-        - **(I)** The Secretary shall have 1 business day to notify the relevant Indian Tribes and Native Hawaiian Organizations of an application for export of an Item Requiring Export Certification;
+      - **(ii)** On receipt of an export certification application for an Item Requiring Export Certification that meets the requirements of subparagraphs (A) and (B)—
+        - **(I)** the Secretary shall have 1 business day to notify the relevant Indian Tribes and Native Hawaiian Organizations of an application for export of an Item Requiring Export Certification;
         - **(II)** Indian Tribes and Native Hawaiian organizations shall have 9 business days to review the export certification application;
-        - **(III)** If an Indian Tribe or Native Hawaiian organization notifies the Secretary that the Item Requiring Export Certification may not be eligible for an export certification under paragraph (2), the Secretary shall have 7 business days to review the application;
-        - **(IV)** If no Indian Tribe or Native Hawaiian organization so notifies the Secretary, the Secretary shall have 1 business day to review the application;
-        - **(V)** With notice to the exporter, the Secretary may extend the review of an application for up to 30 business days if credible evidence is provided that the Item Requiring Export Certification may not be eligible for an export certification under paragraph (2); and
-        - **(VI)** The Secretary shall make a determination to approve or deny the export certification application within the time allotted.
+        - **(III)** if an Indian Tribe or Native Hawaiian organization notifies the Secretary that the Item Requiring Export Certification may not be eligible for an export certification under paragraph (2), the Secretary shall have 7 business days to review the application;
+        - **(IV)** if no Indian Tribe or Native Hawaiian organization so notifies the Secretary, the Secretary shall have 1 business day to review the application;
+        - **(V)** with notice to the exporter, the Secretary may extend the review of an application for up to 30 business days if credible evidence is provided that the Item Requiring Export Certification may not be eligible for an export certification under paragraph (2); and
+        - **(VI)** the Secretary shall make a determination to approve or deny the export certification application within the time allotted.
     - **(E)** *Revocation of export certification*
       - **(i)** *In general* If credible evidence is provided that indicates that an item that received an export certification under subparagraph (D) is not eligible for an export certification under paragraph (2), the Secretary may immediately revoke the export certification.
       - **(ii)** *Determination* In determining whether a revocation is warranted under clause (i), the Secretary shall consult with Indian Tribes and Native Hawaiian organizations with a cultural affiliation with the affected Item Requiring Export Certification.
@@ -169,12 +169,9 @@ Section 1170 of title 18, United States Code, is amended—
         - **(I)** assessed a civil penalty in accordance with such regulations as the Secretary promulgates pursuant to section 10; and
         - **(II)** subject to any other applicable penalties under this Act.
     - **(B)** *Items Prohibited from Exportation* Whoever exports an Item Prohibited from Exportation without first securing an export certification shall be liable for a civil money penalty, the amount of which shall equal the total cost of storing and repatriating the Item Prohibited from Exportation.
-    - **(C)** *Use of fines collected* Any amounts collected by the Secretary as a civil penalty under subparagraph (A)(ii)(I) or (B)—
-      - **(i)** may be used by the Secretary—
-        - **(I)** for fines collected under subparagraph (A)(ii)(I), to process export certification applications under this subsection; and
-        - **(II)** for fines collected under subparagraph (B), to store and repatriate the Item Prohibited from Exportation;
-      - **(ii)** shall supplement (and not supplant) any appropriations to the Secretary to carry out this subsection; and
-      - **(iii)** shall not be covered into the Treasury as miscellaneous receipts.
+    - **(C)** *Use of fines collected* Any amounts collected by the Secretary as a civil penalty under subparagraph (A)(ii)(I) or (B) shall be credited to the currently applicable appropriation, account, or fund of the Department of the Interior as discretionary offsetting collections and shall be available only to the extent and in the amounts provided in advance in appropriations Acts—
+      - **(i)** to process export certification applications under this subsection; and
+      - **(ii)** to store and repatriate the Item Prohibited from Exportation.
     - **(D)** *Voluntary return*
       - **(i)** *In general* Any person who attempts to export or otherwise transport from the United States an Item Requiring Export Certification without first obtaining an export certification, but voluntarily returns the Item Requiring Export Certification, or directs the Item Requiring Export Certification to be returned, to the appropriate Indian Tribe or Native Hawaiian organization in accordance with section 6 prior to the commencement of an active Federal investigation shall not be prosecuted for a violation of subparagraph (A) with respect to the Item Requiring Export Certification.
       - **(ii)** *Actions not commencing a Federal investigation* For purposes of clause (i), the following actions shall not be considered to be actions that commence an active Federal investigation:
@@ -183,10 +180,8 @@ Section 1170 of title 18, United States Code, is amended—
         - **(III)** The delivery to the Secretary of the Item Requiring Export Certification by the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection, under paragraph (4)(A)(ii).
         - **(IV)** The seizure by the Secretary of the Item Requiring Export Certification under paragraph (4)(A)(ii).
   - **(6)** *Fees*
-    - **(A)** *In general* The Secretary may collect reasonable fees to process export certification applications under this subsection.
-    - **(B)** *Availability of amounts collected* Any amounts collected by the Secretary under subparagraph (A)—
-      - **(i)** shall supplement (and not supplant) any appropriations to the Secretary for the activities described in subparagraph (A); and
-      - **(ii)** shall not be covered into the Treasury as miscellaneous receipts.
+    - **(A)** *In general* The Secretary may assess reasonable fees to process export certification applications under this subsection, subject to subparagraph (B).
+    - **(B)** *Availability of amounts collected* Fees authorized under subparagraph (A) shall be collected and available only to the extent and in the amounts provided in advance in appropriations Acts.
   - **(7)** *Administrative appeal* If the Secretary denies an export certification or an Item Requiring Export Certification is detained under this subsection, the exporter, on request, shall be given a hearing on the record in accordance with such rules and regulations as the Secretary promulgates pursuant to section 10.
   - **(8)** *Training*
     - **(A)** *In general* The Secretary, the Secretary of State, the Attorney General, and the heads of all other relevant Federal agencies shall require all appropriate personnel to participate in training regarding applicable laws and consultations to facilitate positive government-to-government interactions with Indian Tribes and Native Hawaiian Organizations.
@@ -268,3 +263,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary, in
 ## § 11. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this Act $3,000,000 for each of fiscal years 2022 through 2027.
+
+## § 12. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
