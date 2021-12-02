@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5720
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5720
@@ -48,3 +48,4 @@ Courthouse Ethics and Transparency Act
 - 2021-12-01 — Placed on the Union Calendar, Calendar No. 143.
 - 2021-12-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-199.
 - 2021-12-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-199.
+- 2021-12-02 — Received in the Senate.
