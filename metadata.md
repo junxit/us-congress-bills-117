@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4055
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4055
@@ -30,9 +30,10 @@ American Cybersecurity Literacy Act
 - Rep. Rice, Tom [R-SC-7] (R000597)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ American Cybersecurity Literacy Act
 - 2021-12-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 17 (Roll no. 391). (text: 11/30/2021 CR H6690)
 - 2021-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 17 (Roll no. 391).(text: 11/30/2021 CR H6690)
+- 2021-12-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
