@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2685
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2685
@@ -22,9 +22,10 @@ Understanding Cybersecurity of Mobile Networks Act
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Understanding Cybersecurity of Mobile Networks Act
 - 2021-12-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 19 (Roll no. 389). (text: 11/30/2021 CR H6687-6688)
 - 2021-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 19 (Roll no. 389).(text: 11/30/2021 CR H6687-6688)
+- 2021-12-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
