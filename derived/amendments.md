@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 829
 congress: 117
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 774, agreed to November 5, 2021), is amended by striking “December 3, 2021” each place it appears and inserting (in each instance) “January 21, 2… | the bill names no machine-readable US Code section |
+| — | replace | House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 774, agreed to November 5, 2021), is amended by striking “December 3, 2021” each place it appears and inserting (in each instance) "January 21, 2… | the bill names no machine-readable US Code section |

@@ -2,7 +2,7 @@
 legis-num: H. RES. 829
 congress: 117th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 829
@@ -17,7 +17,7 @@ Notwithstanding clause 8 of rule XX, further proceedings on a vote by the yeas a
 
 ## § 3.
 
-House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 774, agreed to November 5, 2021), is amended by striking “December 3, 2021” each place it appears and inserting (in each instance) “January 21, 2022”.
+House Resolution 188, agreed to March 8, 2021 (as most recently amended by House Resolution 774, agreed to November 5, 2021), is amended by striking “December 3, 2021” each place it appears and inserting (in each instance) "January 21, 2022”.
 
 ## § 4.
 
