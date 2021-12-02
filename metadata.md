@@ -1,7 +1,7 @@
 ---
 measure: S. 1402
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1402
@@ -28,3 +28,8 @@ Durbin Feeling Native American Languages Act of 2022
 
 - 2021-04-28 — Introduced in Senate
 - 2021-04-28 — Read twice and referred to the Committee on Indian Affairs.
+- 2021-05-26 — Committee on Indian Affairs. Hearings held.
+- 2021-08-04 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2021-12-02 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-45.
+- 2021-12-02 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-45.
+- 2021-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.
