@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6119
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6119
@@ -60,3 +60,10 @@ Further Extending Government Funding Act
 - 2021-12-02 — Senate amendment submitted
 - 2021-12-02 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-12-02 — The previous question was ordered pursuant to the rule.
+- 2021-12-03 — Became Public Law No: 117-70.
+- 2021-12-03 — Became Public Law No: 117-70.
+- 2021-12-03 — Message on Senate action sent to the House.
+- 2021-12-03 — Presented to President.
+- 2021-12-03 — Presented to President.
+- 2021-12-03 — Signed by President.
+- 2021-12-03 — Signed by President.
