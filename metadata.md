@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4045
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4045
@@ -26,9 +26,10 @@ FUTURE Networks Act
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ FUTURE Networks Act
 - 2021-12-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 27 (Roll no. 390). (text: 11/30/2021 CR H6689)
 - 2021-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 27 (Roll no. 390).(text: 11/30/2021 CR H6689)
+- 2021-12-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
