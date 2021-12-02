@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4352
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4352
@@ -28,9 +28,10 @@ To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of
 - 2021-12-01 — Ms. Leger Fernandez moved to suspend the rules and pass the bill.
 - 2021-12-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 302 - 127 (Roll no. 393). (text: CR H6732)
 - 2021-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 302 - 127 (Roll no. 393).(text: CR H6732)
+- 2021-12-02 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
