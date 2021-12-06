@@ -1,7 +1,7 @@
 ---
 measure: S. 1097
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1097
@@ -29,3 +29,7 @@ Federal Rotational Cyber Workforce Program Act of 2021
 
 - 2021-04-13 — Introduced in Senate
 - 2021-04-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-05-12 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2021-12-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-47.
+- 2021-12-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-47.
+- 2021-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 177.
