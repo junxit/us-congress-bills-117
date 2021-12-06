@@ -1,0 +1,35 @@
+---
+legis-num: S. 3315
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3315
+
+> To amend the Endangered Species Act of 1973 to require disclosure to States of the basis of determinations under that Act, to ensure use of information provided by State, Tribal, and local governments in decision making under that Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “State, Tribal, and Local Species Transparency and Recovery Act”.
+
+## § 2. Requiring decisional transparency with affected States
+
+Section 6(a) of the Endangered Species Act of 1973 (16 U.S.C. 1535(a)) is amended—
+
+- **(1)** in the first sentence, by striking “In carrying out” and inserting the following:
+  > - **(1)** In carrying out
+
+- **(2)** in paragraph (1) (as so designated), in the second sentence, by striking “Such cooperation shall include” and inserting the following:
+  > - **(2)** Cooperation under paragraph (1) shall include—
+  >   - **(A)** before making a determination under section 4(a), providing to States affected by that determination all data that is the basis of the determination; and
+  >   - **(B)**
+
+## § 3. Ensuring use of State, Tribal, and local information
+
+- **(a)** *In general* Section 3 of the Endangered Species Act of 1973 (16 U.S.C. 1532) is amended—
+  - **(1)** by redesignating paragraphs (2) through (21) as paragraphs (3) through (22), respectively; and
+  - **(2)** by inserting after paragraph (1) the following:
+    > - **(2)** The term “best scientific and commercial data available” includes all of the best available scientific and commercial data submitted by a State, Tribal, or local government.
+
+- **(b)** *Conforming amendment* Section 7(n) of the Endangered Species Act of 1973 (16 U.S.C. 1536(n)) is amended, in the first sentence, by striking “, as defined by section 3(13) of this Act,”.
