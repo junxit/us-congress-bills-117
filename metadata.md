@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5608
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5608
@@ -16,9 +16,46 @@ Chronic Wasting Disease Research and Management Act
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Cosponsors (1)
+## Cosponsors (38)
 
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Keller, Fred [R-PA-12] (K000395)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
 
 ## Committees (1)
 
@@ -29,3 +66,8 @@ Chronic Wasting Disease Research and Management Act
 - 2021-10-19 — Introduced in House
 - 2021-10-19 — Introduced in House
 - 2021-10-19 — Referred to the House Committee on Agriculture.
+- 2021-10-21 — Committee Consideration and Mark-up Session Held.
+- 2021-10-21 — Ordered to be Reported by Voice Vote.
+- 2021-12-07 — Placed on the Union Calendar, Calendar No. 144.
+- 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-202.
+- 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-202.
