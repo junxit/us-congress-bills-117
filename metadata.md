@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5609
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5609
@@ -16,7 +16,7 @@ Cattle Contract Library Act of 2021
 
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 
-## Cosponsors (17)
+## Cosponsors (30)
 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Mann, Tracey [R-KS-1] (M000871)
@@ -35,6 +35,19 @@ Cattle Contract Library Act of 2021
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Harshbarger, Diana [R-TN-1] (H001086)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Cheney, Liz [R-WY-At Large] (C001109)
 
 ## Committees (1)
 
@@ -45,3 +58,8 @@ Cattle Contract Library Act of 2021
 - 2021-10-19 — Introduced in House
 - 2021-10-19 — Introduced in House
 - 2021-10-19 — Referred to the House Committee on Agriculture.
+- 2021-10-21 — Committee Consideration and Mark-up Session Held.
+- 2021-10-21 — Ordered to be Reported by Voice Vote.
+- 2021-12-07 — Placed on the Union Calendar, Calendar No. 145.
+- 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-203.
+- 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-203.
