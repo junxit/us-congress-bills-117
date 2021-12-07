@@ -2,62 +2,112 @@
 legis-num: S. 610
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 610
 
-> To address behavioral health and well-being among health care professionals.
+That the bill from the Senate (S. 610) entitled “An Act to address behavioral health and well-being among health care professionals.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Dr. Lorna Breen Health Care Provider Protection Act”.
+This Act may be cited as the “Protecting Medicare and American Farmers from Sequester Cuts Act”.
 
-## § 2. Dissemination of best practices
+## § 2. Adjustments to Medicare sequestration reductions
 
-The Secretary of Health and Human Services (referred to in this Act as the “Secretary”) shall identify and disseminate evidence-based or evidence-informed best practices for preventing suicide and improving mental health and resiliency among health care professionals, and for training health care professionals in appropriate strategies to promote their mental health. Such best practices shall include recommendations related to preventing suicide and improving mental health and resiliency among health care professionals.
+- **(a)** *Extension of temporary suspension through March 2022*
+  - **(1)** *In general* Section 3709(a) of division A of the CARES Act (2 U.S.C. 901a note) is amended—
+    - **(A)** in the subsection header by inserting “and adjustment” after “suspension”; and
+    - **(B)** by striking “December 31, 2021” and inserting “March 31, 2022”.
+  - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect as if enacted as part of the CARES Act (Public Law 116–136).
+- **(b)** *Adjustments to Medicare program sequestration reduction with respect to fiscal years 2022 and 2030* Section 251A(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a(6)) is amended—
+  - **(1)** by redesignating subparagraph (C) as subparagraph (E); and
+  - **(2)** by inserting after subparagraph (B) the following new subparagraphs:
+    > - **(C)** Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 256(d), the sequestration order of the President under such subparagraph for fiscal year 2022 shall be applied to such payments so that with respect to the period beginning on April 1, 2022, and ending on June 30, 2022, the payment reduction shall be 1.0 percent.
+    > - **(D)** Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 256(d), the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
+    >   - **(i)** with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.25 percent; and
+    >   - **(ii)** with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 3 percent.
 
-## § 3. Education and awareness initiative encouraging use of mental health and substance use disorder services by health care professionals
+## § 3. Extension of support for physicians and other professionals in adjusting to Medicare payment changes
 
-- **(a)** *In general* The Secretary, in consultation with relevant stakeholders, including medical professional associations, shall establish a national evidence-based or evidence-informed education and awareness initiative to encourage health care professionals to seek support and care for their mental health or substance use concerns, to help such professionals identify risk factors associated with suicide and mental health conditions, and to help such professionals learn how best to respond to such risks, with the goal of preventing suicide, mental health conditions, and substance use disorders, and to address stigma associated with seeking mental health and substance use disorder services.
-- **(b)** *Reporting* Not later than 2 years after the date of enactment of this Act, the Secretary shall provide to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives an update on the activities and outcomes of the initiative under subsection (a), including a description of quantitative and qualitative metrics used to evaluate such activities and outcomes.
-- **(c)** *Authorization of appropriations* To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2022 through 2024.
+- **(a)** *In general* Section 1848 of the Social Security Act (42 U.S.C. 1395w–4) is amended—
+  - **(1)** in subsection (c)(2)(B)(iv)(V), by striking “2021” and inserting “2021 or 2022”; and
+  - **(2)** in subsection (t)—
+    - **(A)** in the subsection header, by striking “2021” and inserting “2021 and 2022”;
+    - **(B)** in paragraph (1)—
+      - **(i)** by striking “during 2021” and inserting “during 2021 and 2022”; and
+      - **(ii)** by striking “for such services furnished on or after January 1, 2021, and before January 1, 2022, by 3.75 percent.” and inserting
+        > for—
+        > - **(A)** such services furnished on or after January 1, 2021, and before January 1, 2022, by 3.75 percent; and
+        > - **(B)** such services furnished on or after January 1, 2022, and before January 1, 2023, by 3.0 percent.
 
-## § 4. Grants to promote mental health among the health professional workforce
+    - **(C)** in paragraph (2)(C)—
+      - **(i)** in the subparagraph header, by striking “2021” and inserting “2021 and 2022”;
+      - **(ii)** by inserting “for services furnished in 2021 or 2022” after “under this subsection”; and
+      - **(iii)** by inserting “or 2022, respectively” before the period at the end.
+- **(b)** *Report* Section 101(c) of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260) is amended—
+  - **(1)** in the first sentence—
+    - **(A)** by striking “April 1, 2022” and inserting “each of April 1, 2022, and April 1, 2023”; and
+    - **(B)** by striking “, as added by subsection (a)” and inserting “furnished during 2021 or 2022, respectively”; and
+  - **(2)** in the second sentence—
+    - **(A)** by striking “Such report” and inserting “Each such report”; and
+    - **(B)** by inserting “with respect to 2021 or 2022, as applicable” after “under such section”.
 
-Subpart I of part E of title VII of the Public Health Service Act (42 U.S.C.. 294n et seq.) is amended by adding at the end the following:
+## § 4. Preserving patient access to critical clinical lab services
 
-> ## § 764. Grants to promote mental health among the health professional workforce
->
-> - **(a)** *In general* The Secretary shall award grants related to improving mental health and resiliency among health care professionals.
-> - **(b)** *Grants to promote mental health among health care professionals*
->   - **(1)** *In general* The Secretary shall award grants to health care entities, including entities that provide health care services, such as hospitals, community health centers, and rural health clinics, or to medical professional associations, to establish or enhance evidence-based or evidence-informed programs dedicated to improving mental health and resiliency for health care professionals.
->   - **(2)** *Use of funds* An eligible entity receiving a grant under this subsection shall use amounts under the grant to implement a new program or enhance an existing program to promote mental health among health care professionals, which may include—
->     - **(A)** improving awareness among health care professionals about risk factors for, and signs of, suicide and mental health or substance use disorders, in accordance with evidence-based or evidence-informed practices;
->     - **(B)** establishing new, or enhancing existing, evidence-based or evidence-informed programs for preventing suicide and improving mental health and resiliency among health care professionals;
->     - **(C)** establishing new, or enhancing existing, peer-support programs among health care professionals; or
->     - **(D)** providing mental health care, follow-up services and care, or referral for such services and care, as appropriate.
->   - **(3)** *Priority* In awarding grants under this subsection, the Secretary shall give priority to eligible entities in health professional shortage areas or rural areas.
-> - **(c)** *Training grants* The Secretary may establish a program to award grants to health professions schools, academic health centers, State or local governments, Indian Tribes or Tribal organizations, or other appropriate public or private nonprofit entities (or consortia of entities, including entities promoting multidisciplinary approaches) to support the training of health care students, residents, or health care professionals in evidence-based or evidence-informed strategies to address mental and substance use disorders and improve mental health and resiliency among health care professionals.
-> - **(d)** *Grant terms* A grant awarded under subsection (b) or (c) shall be for a period of 3 years.
-> - **(e)** *Application submission* An entity seeking a grant under subsection (b) or (c) shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
-> - **(f)** *Reporting* An entity awarded a grant under subsection (b) or (c) shall periodically submit to the Secretary a report evaluating the activities supported by the grant.
-> - **(g)** *Authorization of appropriations* To carry out this section and section 5 of the Dr. Lorna Breen Health Care Provider Protection Act, there are authorized to be appropriated $35,000,000 for each of fiscal years 2022 through 2024.
+- **(a)** *Revised phase-in of reductions from private payor rate implementation* Section 1834A(b)(3) of the Social Security Act (42 U.S.C. 1395m–1(b)(3)) is amended—
+  - **(1)** in subparagraph (A), by striking “through 2024” and inserting “through 2025”; and
+  - **(2)** in subparagraph (B)—
+    - **(A)** in clause (ii), by striking “for 2021” and inserting “for each of 2021 and 2022”; and
+    - **(B)** in clause (iii), by striking “2022 through 2024” and inserting “2023 through 2025”.
+- **(b)** *Revised Reporting Period for Reporting of Private Sector Payment Rates for Establishment of Medicare Payment Rates* Section 1834A(a)(1)(B) of the Social Security Act (42 U.S.C. 1395m–1(a)(1)(B)) is amended—
+  - **(1)** in clause (i), by striking “December 31, 2021” and inserting “December 31, 2022”; and
+  - **(2)** in clause (ii)—
+    - **(A)** by striking “January 1, 2022” and inserting “January 1, 2023”; and
+    - **(B)** by striking “March 31, 2022” and inserting “March 31, 2023”.
 
-## § 5. Review with respect to health care professional mental health and resiliency
+## § 5. Delay to the implementation of the radiation oncology model under the Medicare program
 
-- **(a)** *In general* The Secretary, in consultation with relevant stakeholders, shall conduct a review and, not later than 3 years after the date of enactment of this Act, submit a report to Congress related to improving health care professional mental health and resiliency and the outcomes of programs authorized under this Act.
-- **(b)** *Considerations* The review under subsection (a) shall take into account—
-  - **(1)** the prevalence and severity of mental health conditions among health professionals, and factors that contribute to those mental health conditions;
-  - **(2)** barriers to seeking and accessing mental health care for health care professionals, which may include consideration of stigma and licensing concerns, and actions taken by State licensing boards, schools for health professionals, health care professional training associations, hospital associations, or other organizations, as appropriate, to address such barriers;
-  - **(3)** the impact of the COVID–19 public health emergency on the mental health of health care professionals and lessons learned for future public health emergencies;
-  - **(4)** factors that promote mental health and resiliency among health care professionals, including programs or strategies to strengthen mental health and resiliency among health care professionals; and
-  - **(5)** the efficacy of health professional training programs that promote resiliency and improve mental health.
-- **(c)** *Recommendations* The review under subsection (a), as appropriate, shall identify best practices related to, and make recommendations to address—
-  - **(1)** improving mental health and resiliency among health care professionals;
-  - **(2)** removing barriers to mental health care for health care professionals; and
-  - **(3)** strategies to promote resiliency among health care professionals in health care settings.
+Section 133 of Division CC of the Consolidated Appropriations Act, 2021 (Public Law 116–260) is amended by striking “January 1, 2022” and inserting “January 1, 2023”.
 
-## § 6. GAO report
+## § 6. Medicare Improvement Fund
 
-Not later than 4 years after the date of enactment of this Act, the Comptroller General of the United States shall report to Congress on the extent to which Federal substance use disorder and mental health grant programs address the prevalence and severity of mental health conditions and substance use disorders among health professionals. Such report shall include an analysis of available evidence and data related to such conditions and programs, and shall assess whether there are duplicative goals and objectives among such grant programs.
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “fiscal year 2021” and all that follows through the period at the end and inserting “fiscal year 2021, $101,000,000.”.
+
+## § 7. PAYGO annual report
+
+For the purposes of the annual report issued pursuant to section 5 of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 934) after adjournment of the first session of the 117th Congress, and for determining whether a sequestration order is necessary under such section, the debit for the budget year on the 5-year scorecard, if any, and the 10-year scorecard, if any, shall be deducted from such scorecard in 2022 and added to such scorecard in 2023.
+
+## § 8. Expedited procedures for considering an increase in the debt limit
+
+- **(a)** *Definition* In this section, the term joint resolution means a joint resolution—
+  - **(1)** that is introduced by the Majority Leader of the Senate, or a designee, during the period beginning on the date of enactment of this Act and ending on December 31, 2021;
+  - **(2)** which does not have a preamble;
+  - **(3)** the title of which is as follows: “Joint resolution relating to increasing the debt limit.”; and
+  - **(4)** the matter after the resolving clause of which is as follows: “That the limitation under section 3101(b) of title 31, United States Code, as most recently increased by Public Law 117–50 (31 U.S.C. 3101 note), is increased by $_________.”, the blank space being appropriately filled in with the dollar amount of the increase.
+- **(b)** *Expedited consideration in Senate*
+  - **(1)** *Placement on calendar* Upon introduction in the Senate, the joint resolution shall be placed immediately on the calendar.
+  - **(2)** *Proceeding to consideration*
+    - **(A)** *In general* Notwithstanding rule XXII of the Standing Rules of the Senate, it is in order, not later than January 15, 2022 (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution.
+    - **(B)** *Procedure* For a motion to proceed to the consideration of the joint resolution—
+      - **(i)** all points of order against the motion are waived;
+      - **(ii)** the motion is not debatable;
+      - **(iii)** the motion is not subject to a motion to postpone;
+      - **(iv)** a motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order; and
+      - **(v)** if the motion is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+  - **(3)** *Floor consideration*
+    - **(A)** *In general* If the Senate proceeds to consideration of the joint resolution—
+      - **(i)** all points of order against the joint resolution (and against consideration of the joint resolution) are waived;
+      - **(ii)** debate on the joint resolution, and all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the Chairman and Ranking Member of the Committee on Finance;
+      - **(iii)** an amendment to the joint resolution is not in order;
+      - **(iv)** a motion to postpone or a motion to commit the joint resolution is not in order; and
+      - **(v)** a motion to proceed to the consideration of other business is not in order.
+    - **(B)** *Vote on passage* The vote on passage shall occur immediately following the conclusion of the debate on the joint resolution and a single quorum call if requested in accordance with the rules of the Senate.
+    - **(C)** *Rulings of the chair on procedure* Appeals from the decisions of the Chair relating to the application of this paragraph or the rules of the Senate, as the case may be, to the procedure relating to the joint resolution shall be decided without debate.
+    - **(D)** *Single measure authorized* It shall not be in order to consider more than 1 joint resolution under the procedures under this paragraph.
+    - **(E)** *Sunset* It shall not be in order to consider a joint resolution under the procedures under this paragraph after January 16, 2022.
+  - **(4)** *Rules of the Senate* This subsection is enacted by Congress—
+    - **(A)** as an exercise of the rulemaking power of the Senate, and as such is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of a joint resolution, and supersede other rules only to the extent that they are inconsistent with such rules; and
+    - **(B)** with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.

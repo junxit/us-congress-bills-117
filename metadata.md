@@ -1,7 +1,7 @@
 ---
 measure: S. 610
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 610
@@ -70,3 +70,42 @@ Protecting Medicare and American Farmers from Sequester Cuts Act
 - 2021-08-06 — Senate amendment agreed to: Amendment SA 2622 agreed to in Senate by Unanimous Consent.
 - 2021-08-06 — Senate amendment proposed (on the floor): Amendment SA 2622 proposed by Senator Schatz for Senator Murray.(consideration: CR S5986; text: CR S5986)
 - 2021-08-06 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2021-08-09 — Message on Senate action sent to the House.
+- 2021-08-10 — Held at the desk.
+- 2021-08-10 — Received in the House.
+- 2021-12-07 — Amendment SA 4871 proposed by Senator Schumer. (consideration: CR S8956; text: CR S8956) To add an effective date.
+- 2021-12-07 — Amendment SA 4872 proposed by Senator Schumer to Amendment SA 4871. (consideration: CR S8956; text: CR S8956) To modify the effective date.
+- 2021-12-07 — Amendment SA 4873 proposed by Senator Schumer. (consideration: CR S8956; text: CR S8956) To add an effective date.
+- 2021-12-07 — Amendment SA 4874 proposed by Senator Schumer to Amendment SA 4873 (the instructions of the motion to refer). (consideration: CR S8956; text: CR S8956) To modify the effective date.
+- 2021-12-07 — Amendment SA 4875 proposed by Senator Schumer to Amendment SA 4874. (consideration: CR S8956; text: CR S8956) To modify the effective date.
+- 2021-12-07 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-12-07 — Cloture motion on the motion to concur in the House amendment to S. 610 presented in Senate.
+- 2021-12-07 — Considered as unfinished business. (consideration: CR H7222-7223)
+- 2021-12-07 — Considered under the provisions of rule H. Res. 838. (consideration: CR H6920-6927, H6927-6933)
+- 2021-12-07 — DEBATE - The House proceeded with one hour of debate on S. 610.
+- 2021-12-07 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-12-07 — House amendment offered
+- 2021-12-07 — Measure laid before Senate by unanimous consent.
+- 2021-12-07 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2021-12-07 — Motion by Senator Schumer to concur in the House amendment to S. 610 made in Senate. (CR S8956)
+- 2021-12-07 — Motion by Senator Schumer to concur in the House amendment to S. 610 with an amendment (SA 4871) made in Senate. (CR S8956)
+- 2021-12-07 — Motion by Senator Schumer to refer to Senate Committee on Finance the House message to accompany S. 610 with instructions to report back forthwith with the following amendment (SA 4873) made in Senate. (CR S8956)
+- 2021-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-07 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2021-12-07 — On passage Passed by the Yeas and Nays: 222 - 212 (Roll no. 404). (text: CR H6929-6930)
+- 2021-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 610, the Chair put the question on passage of S. 610 and by voice vote, announced that the ayes had prevailed. Mr. Brady demanded the yeas and nays and the Chair postponed further proceedings on on S. 610 until a time to be announced.
+- 2021-12-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 212 (Roll no. 404).(text: CR H6929-6930)
+- 2021-12-07 — Rule H. Res. 838 passed House.
+- 2021-12-07 — Rule provides for consideration of H.R. 5314, S. 1605 and S. 610 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order. Rule makes in order for the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multiple measures that were the object of motions to suspend the rules on certain legislative days.
+- 2021-12-07 — Rules Committee Resolution H. Res. 838 Reported to House. Rule provides for consideration of H.R. 5314, S. 1605 and S. 610 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order. Rule makes in order for the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multiple measures that were the object of motions to suspend the rules on certain legislative days.
+- 2021-12-07 — Senate amendment proposed (on the floor): Amendment SA 4871 proposed by Senator Schumer.
+- 2021-12-07 — Senate amendment proposed (on the floor): Amendment SA 4872 proposed by Senator Schumer to Amendment SA 4871.
+- 2021-12-07 — Senate amendment proposed (on the floor): Amendment SA 4873 proposed by Senator Schumer.
+- 2021-12-07 — Senate amendment proposed (on the floor): Amendment SA 4874 proposed by Senator Schumer to Amendment SA 4873 (the instructions of the motion to refer).
+- 2021-12-07 — Senate amendment proposed (on the floor): Amendment SA 4875 proposed by Senator Schumer to Amendment SA 4874.
+- 2021-12-07 — Senate amendment submitted
+- 2021-12-07 — Senate amendment submitted
+- 2021-12-07 — Senate amendment submitted
+- 2021-12-07 — Senate amendment submitted
+- 2021-12-07 — Senate amendment submitted
+- 2021-12-07 — The previous question was ordered pursuant to the rule.
