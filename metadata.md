@@ -1,7 +1,7 @@
 ---
 measure: S. 610
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 610
@@ -16,7 +16,7 @@ Protecting Medicare and American Farmers from Sequester Cuts Act
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (30)
+## Cosponsors (52)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Reed, Jack [D-RI] (R000122)
@@ -47,6 +47,28 @@ Protecting Medicare and American Farmers from Sequester Cuts Act
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (1)
@@ -109,3 +131,30 @@ Protecting Medicare and American Farmers from Sequester Cuts Act
 - 2021-12-07 — Senate amendment submitted
 - 2021-12-07 — Senate amendment submitted
 - 2021-12-07 — The previous question was ordered pursuant to the rule.
+- 2021-12-08 — Senate amendment submitted
+- 2021-12-08 — Senate amendment submitted
+- 2021-12-08 — Senate amendment submitted
+- 2021-12-09 — Cloture on the motion to concur in the House amendment to S. 610 invoked in Senate by Yea-Nay Vote. 64 - 36. Record Vote Number: 490. (CR S9057)
+- 2021-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S9053)
+- 2021-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S9053)
+- 2021-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S9053)
+- 2021-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S9053)
+- 2021-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S9053)
+- 2021-12-09 — Considered by Senate (Message from the House considered). (consideration: CR S9053)
+- 2021-12-09 — Motion by Senator Schumer to concur in the House amendment to S. 610 with an amendment (SA 4871) withdrawn in Senate by Unanimous Consent.
+- 2021-12-09 — Motion by Senator Schumer to refer to Senate Committee on Finance the House message to accompany S. 610 with instructions to report back forthwith with the following amendment (SA 4873) fell when cloture invoked on the motion to concur in the House amendment to S. 610 in Senate.
+- 2021-12-09 — Proposed amendment SA 4871 withdrawn in Senate.
+- 2021-12-09 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 610 by Yea-Nay Vote. 59 - 35. Record Vote Number: 491.(consideration: CR S9081)
+- 2021-12-09 — SA 4872 fell when SA 4871 withdrawn.
+- 2021-12-09 — SA 4873 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to S. 610.
+- 2021-12-09 — SA 4874 fell when SA 4873 fell.
+- 2021-12-09 — SA 4875 fell when SA 4874 fell.
+- 2021-12-09 — Senate agreed to the House amendment to S. 610 by Yea-Nay Vote. 59 - 35. Record Vote Number: 491. (consideration: CR S9081)
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-10 — Became Public Law No: 117-71.
+- 2021-12-10 — Became Public Law No: 117-71.
+- 2021-12-10 — Message on Senate action sent to the House.
+- 2021-12-10 — Presented to President.
+- 2021-12-10 — Presented to President.
+- 2021-12-10 — Signed by President.
+- 2021-12-10 — Signed by President.
