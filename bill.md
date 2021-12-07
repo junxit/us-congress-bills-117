@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 6156
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6156
+
+> To express the sense of Congress on interoperability with Taiwan.
+
+## § 1. Sense of Congress on interoperability with Taiwan
+
+It is the sense of Congress that, consistent with the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.) and the Six Assurances, the United States should seek to support the goals of—
+
+- **(1)** improving asymmetric defense capabilities of Taiwan;
+- **(2)** bolstering deterrence to preserve peace, security, and stability across the Taiwan Strait; and
+- **(3)** deepening interoperability with Taiwan in defense capabilities, including in—
+  - **(A)** maritime and air domain awareness; and
+  - **(B)** integrated air and missile defense systems.
