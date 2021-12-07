@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2930
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2930
@@ -78,3 +78,12 @@ Safeguard Tribal Objects of Patrimony Act of 2021
 - 2021-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 57 (Roll no. 401). (text: 12/01/2021 CR H6727-6730)
 - 2021-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 57 (Roll no. 401).(text: 12/01/2021 CR H6727-6730)
 - 2021-12-07 — Received in the Senate, read twice.
+- 2022-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6847-6848)
+- 2022-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-11-30 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-21 — Became Public Law No: 117-258.
+- 2022-12-21 — Became Public Law No: 117-258.
+- 2022-12-21 — Signed by President.
+- 2022-12-21 — Signed by President.
