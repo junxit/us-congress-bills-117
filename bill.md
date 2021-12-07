@@ -2,7 +2,7 @@
 legis-num: H. RES. 838
 congress: 117th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 838
@@ -25,7 +25,7 @@ All points of order against the further amendments printed in part B of the repo
 
 ## § 5.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (S. 1605) to designate the National Pulse Memorial located at 1912 South Orange Avenue in Orlando, Florida, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–21 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services or their respective designees; and (2) one motion to commit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (S. 1605) to designate the National Pulse Memorial located at 1912 South Orange Avenue in Orlando, Florida, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-21 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services or their respective designees; and (2) one motion to commit.
 
 ## § 6.
 
@@ -33,7 +33,7 @@ The chair of the Committee on Armed Services may insert in the Congressional Rec
 
 ## § 7.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (S. 610) to address behavioral health and well-being among health care professionals. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–22 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means or their respective designees; and (2) one motion to commit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (S. 610) to address behavioral health and well-being among health care professionals. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-22 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means or their respective designees; and (2) one motion to commit.
 
 ## § 8.
 
