@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6161
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6161
+
+> To amend the Internal Revenue Code of 1986 to temporarily reinstate the employee retention credit for employers subject to closure due to COVID-19.
+
+## § 1. Short title
+
+This Act may be cited as the “Employee Retention Tax Credit Reinstatement Act”.
+
+## § 2. Temporary reinstatement of employee retention credit for employers subject to closure due to COVID-19
+
+- **(a)** *In general* Section 3134 of the Internal Revenue Code of 1986 (as amended by section 80604 of the Infrastructure Investment and Jobs Act) is amended—
+  - **(1)** in subsection (c)(5), by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph:
+    > - **(C)** which, with respect to such calendar quarter, is not described in subclause (I) or (II) of paragraph (2)(A)(ii).
+
+  - **(2)** in subsection (n), by striking “October 1, 2021 (or, in the case of wages paid an eligible employer which is a recovery startup business, January 1, 2022)” and inserting “January 1, 2022”.
+- **(b)** *Effective date* The amendments made by this section shall apply to calendar quarters beginning after September 30, 2021.
