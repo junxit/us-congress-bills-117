@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4616
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4616
@@ -29,3 +29,13 @@ Adjustable Interest Rate (LIBOR) Act of 2021
 - 2021-07-22 — Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-07-22 — Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-07-22 — Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-29 — Committee Consideration and Mark-up Session Held.
+- 2021-07-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2021-12-07 — Committee on Education and Labor discharged.
+- 2021-12-07 — Committee on Education and Labor discharged.
+- 2021-12-07 — Committee on Ways and Means discharged.
+- 2021-12-07 — Committee on Ways and Means discharged.
+- 2021-12-07 — Placed on the Union Calendar, Calendar No. 147.
+- 2021-12-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-206, Part I.
+- 2021-12-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-206, Part I.
