@@ -1,7 +1,7 @@
 ---
 measure: S. 610
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

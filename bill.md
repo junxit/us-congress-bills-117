@@ -1,15 +1,13 @@
 ---
 legis-num: S. 610
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 1st Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 610
 
-That the bill from the Senate (S. 610) entitled “An Act to address behavioral health and well-being among health care professionals.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To address behavioral health and well-being among health care professionals.
 
 ## § 1. Short title
 
