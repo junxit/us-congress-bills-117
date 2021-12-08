@@ -1,7 +1,7 @@
 ---
 measure: S. 2293
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2293
@@ -34,3 +34,20 @@ CREW Act
 - 2021-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.
 - 2021-12-08 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9040; text: CR S9040)
 - 2021-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9040; text: CR S9040)
+- 2021-12-09 — Held at the desk.
+- 2021-12-09 — Message on Senate action sent to the House.
+- 2021-12-09 — Received in the House.
+- 2022-09-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-13 — Considered under suspension of the rules. (consideration: CR H7757-7758)
+- 2022-09-13 — DEBATE - The House proceeded with forty minutes of debate on S. 2293.
+- 2022-09-13 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2022-09-14 — Considered as unfinished business. (consideration: CR H7824)
+- 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 38 (Roll no. 429). (text: 9/13/2022 CR H7757)
+- 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 38 (Roll no. 429).
+- 2022-09-28 — Presented to President.
+- 2022-09-28 — Presented to President.
+- 2022-09-29 — Became Public Law No: 117-178.
+- 2022-09-29 — Became Public Law No: 117-178.
+- 2022-09-29 — Signed by President.
+- 2022-09-29 — Signed by President.
