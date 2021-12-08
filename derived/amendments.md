@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5119
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 801` | insert | Section 601(d)(3) of the Social Security Act (42 U.S.C. 801(d)(3)) is amended by inserting “(or, in the case of a Tribal Government, December 30, 2022)” after “December 30, 2021”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 801` | insert | Section 601(d)(3) of the Social Security Act (42 U.S.C. 801(d)(3)) is amended by inserting “(or, in the case of costs incurred by a Tribal government, during the period that begins on March 1, 2020, and ends on December 31, 2022)” after … | the bill quotes the text inserted but describes where it goes |
