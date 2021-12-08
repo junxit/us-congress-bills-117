@@ -1,7 +1,7 @@
 ---
 measure: S. 1605
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,672 amendatory instructions. 281 executed, 1,391 stated and not applied.
+1,672 amendatory instructions. 422 executed, 1,250 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1014,7 +1014,7 @@ to guess them.
 | Removed | `as described in section 2215; and` |
 | Inserted | `as described in section 2217;` |
 
-### 10 U.S.C. § 9016
+### 26 U.S.C. § 9016
 
 > in subsection (a), by striking “Space Force Acquisition Council” and inserting “Space Acquisition Council”; and
 
@@ -1023,7 +1023,7 @@ to guess them.
 | Removed | `Space Force Acquisition Council` |
 | Inserted | `Space Acquisition Council` |
 
-### 10 U.S.C. § 9016
+### 26 U.S.C. § 9016
 
 > in subsection (c), by striking “of the Air Force for space systems and programs” and inserting “space systems and programs of the armed forces”.
 
@@ -1032,7 +1032,7 @@ to guess them.
 | Removed | `of the Air Force for space systems and programs` |
 | Inserted | `space systems and programs of the armed forces` |
 
-### 10 U.S.C. § 9016
+### 26 U.S.C. § 9016
 
 > Section 9016(b)(6)(B)(ii) of title 10, United States Code, is amended by striking “Space Force Acquisition Council” and inserting “Space Acquisition Council”.
 
@@ -1041,7 +1041,7 @@ to guess them.
 | Removed | `Space Force Acquisition Council` |
 | Inserted | `Space Acquisition Council` |
 
-### 10 U.S.C. § 9016
+### 26 U.S.C. § 9016
 
 > by striking “The Council” and inserting “(1) The Council”; and
 
@@ -1085,6 +1085,1257 @@ to guess them.
 |---|---|
 | Removed | `co-chairman` |
 | Inserted | `co-chair` |
+
+### 26 U.S.C. § 1807
+
+> in subsection (b)(1), by striking “new sections” and inserting “new section”;
+
+| | |
+|---|---|
+| Removed | `new sections` |
+| Inserted | `new section` |
+
+### 26 U.S.C. § 1807
+
+> by striking “Sections” in the quoted matter before the period at the end of paragraph (3) and inserting “For purposes of”.
+
+| | |
+|---|---|
+| Removed | `Sections` |
+| Inserted | `For purposes of` |
+
+### 26 U.S.C. § 1811
+
+> in subsection (d)(4)(D), by striking “this” in the matter to be stricken by clause (ii) and inserting “This”;
+
+| | |
+|---|---|
+| Removed | `this` |
+| Inserted | `This` |
+
+### 26 U.S.C. § 1811
+
+> in subsection (d)(5)(A), by striking “inserting” and all that follows through “; and” and inserting “inserting Offer requests to potential sources.— before The head of an agency; and”;
+
+| | |
+|---|---|
+| Removed | `inserting” and all that follows through “; and` |
+| Inserted | `inserting Offer requests to potential sources.— before The head of an agency; and` |
+
+### 26 U.S.C. § 1811
+
+> in subparagraphs (C)(ii) and (E)(ii) of subsection (e)(3), by striking “and (ii)” each place it appears and inserting “and (iii)”.
+
+| | |
+|---|---|
+| Removed | `and (ii)` |
+| Inserted | `and (iii)` |
+
+### 26 U.S.C. § 1816
+
+> by striking “the second sentence” and inserting “the second and third sentences”; and
+
+| | |
+|---|---|
+| Removed | `the second sentence` |
+| Inserted | `the second and third sentences` |
+
+### 26 U.S.C. § 1816
+
+> by striking “subsection (d)” and inserting “subsections (d) and (e), respectively”; and
+
+| | |
+|---|---|
+| Removed | `subsection (d)` |
+| Inserted | `subsections (d) and (e), respectively` |
+
+### 26 U.S.C. § 1816
+
+> in subsection (e), as so designated, by striking “This subparagraph does not” and inserting “Exception for perishable subsistence items.—Subsections (c) and (d) do not”.
+
+| | |
+|---|---|
+| Removed | `This subparagraph does not` |
+| Inserted | `Exception for perishable subsistence items.—Subsections (c) and (d) do not` |
+
+### 26 U.S.C. § 1821
+
+> Section 1821 is amended in subsection (b)(5) by striking “subsection (b)(2)(B)(i)” and inserting “subsection (c)(2)(B)(i)”.
+
+| | |
+|---|---|
+| Removed | `subsection (b)(2)(B)(i)` |
+| Inserted | `subsection (c)(2)(B)(i)` |
+
+### 26 U.S.C. § 1831
+
+> in subsection (b), by striking “redesignated as subsection (a), and” and inserting “amended by striking the subsection designation and subsection heading, and further”;
+
+| | |
+|---|---|
+| Removed | `redesignated as subsection (a), and` |
+| Inserted | `amended by striking the subsection designation and subsection heading, and further` |
+
+### 26 U.S.C. § 1831
+
+> in subsection (c)(2)(A), in the matter to be stricken, by striking “the” and inserting “The”;
+
+| | |
+|---|---|
+| Removed | `the` |
+| Inserted | `The` |
+
+### 26 U.S.C. § 1831
+
+> in the matter preceding clause (i), by striking “as so redesignated” and all that follows through “by inserting” and inserting “as so redesignated, by inserting”;
+
+| | |
+|---|---|
+| Removed | `as so redesignated” and all that follows through “by inserting` |
+| Inserted | `as so redesignated, by inserting` |
+
+### 26 U.S.C. § 1831
+
+> in the matter preceding clause (i), by striking “as so redesignated” and all that follows through “by inserting” and inserting “as so redesignated, by inserting”; and
+
+| | |
+|---|---|
+| Removed | `as so redesignated” and all that follows through “by inserting` |
+| Inserted | `as so redesignated, by inserting` |
+
+### 26 U.S.C. § 1831
+
+> in the matter preceding clause (i), by striking “as so redesignated” and all that follows through “by inserting” and inserting “as so redesignated, by inserting”; and
+
+| | |
+|---|---|
+| Removed | `as so redesignated” and all that follows through “by inserting` |
+| Inserted | `as so redesignated, by inserting` |
+
+### 26 U.S.C. § 1831
+
+> in subsection (h), by striking “such section 3706” in paragraphs (2) and (3) and inserting “such section 3707”; and
+
+| | |
+|---|---|
+| Removed | `such section 3706` |
+| Inserted | `such section 3707` |
+
+### 26 U.S.C. § 1831
+
+> in paragraph (3), in the matter to be inserted, by striking “3701–3708” and inserting “3701 through 3708”; and
+
+| | |
+|---|---|
+| Removed | `3701–3708` |
+| Inserted | `3701 through 3708` |
+
+### 26 U.S.C. § 1806
+
+> in subparagraph (B) (as so redesignated), by striking “paragraph (1)” and inserting “subsection (b)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (1)` |
+| Inserted | `subsection (b)` |
+
+### 26 U.S.C. § 1833
+
+> in subsection (n), in the section heading for section 3791, by striking “department of defense” and inserting “Department of Defense”; and
+
+| | |
+|---|---|
+| Removed | `department of defense` |
+| Inserted | `Department of Defense` |
+
+### 26 U.S.C. § 1833
+
+> in subsection (o)(2), by striking “Section” and “as section” and inserting “Sections” and “as sections”, respectively.
+
+| | |
+|---|---|
+| Removed | `Section” and “as section` |
+| Inserted | `Sections` |
+
+### 26 U.S.C. § 1834
+
+> Section 1834(h)(2) is amended by striking “section 3801(1)” in the matter to be inserted and inserting “section 3801(a)”.
+
+| | |
+|---|---|
+| Removed | `section 3801(1)` |
+| Inserted | `section 3801(a)` |
+
+### 26 U.S.C. § 1845
+
+> Section 1845(c)(2) is amended by striking “section” in the matter to be stricken and inserting “sections”.
+
+| | |
+|---|---|
+| Removed | `section` |
+| Inserted | `sections` |
+
+### 26 U.S.C. § 1846
+
+> in subsection (i)(3), by striking “Section 1706(c)(1)” and inserting “Section 1706(a)”; and
+
+| | |
+|---|---|
+| Removed | `Section 1706(c)(1)` |
+| Inserted | `Section 1706(a)` |
+
+### 26 U.S.C. § 1846
+
+> Section 1706(a) of title 10, United States Code, is further amended by striking “section 2430(a)(1)(B)” and inserting “section 4201(a)(2)”.
+
+| | |
+|---|---|
+| Removed | `section 2430(a)(1)(B)` |
+| Inserted | `section 4201(a)(2)` |
+
+### 26 U.S.C. § 1856
+
+> in subsection (h), by striking “subsection (d)” and inserting “subsection (g)”.
+
+| | |
+|---|---|
+| Removed | `subsection (d)` |
+| Inserted | `subsection (g)` |
+
+### 26 U.S.C. § 1862
+
+> Section 1862(c)(2) is amended by striking “section 4657” and inserting “section 4658”.
+
+| | |
+|---|---|
+| Removed | `section 4657` |
+| Inserted | `section 4658` |
+
+### 26 U.S.C. § 1866
+
+> in subsection (d), by striking “4817” in the matter to be inserted by paragraph (4)(A)(ii) and inserting “4818”.
+
+| | |
+|---|---|
+| Removed | `4817` |
+| Inserted | `4818` |
+
+### 26 U.S.C. § 1867
+
+> in paragraph (3), by striking “Section 4814” and inserting “Section 4814(a)”;
+
+| | |
+|---|---|
+| Removed | `Section 4814` |
+| Inserted | `Section 4814(a)` |
+
+### 26 U.S.C. § 4818
+
+> by striking “of this chapter” and inserting “of chapters 381 through 385 and chapter 389”; and
+
+| | |
+|---|---|
+| Removed | `of this chapter` |
+| Inserted | `of chapters 381 through 385 and chapter 389` |
+
+### 26 U.S.C. § 4818
+
+> by striking “under this chapter” and inserting “under such chapters”.
+
+| | |
+|---|---|
+| Removed | `under this chapter` |
+| Inserted | `under such chapters` |
+
+### 26 U.S.C. § 4817
+
+> Section 4817(d)(1) is amended by striking “this chapter” and inserting “chapters 381 through 385 and chapter 389”.
+
+| | |
+|---|---|
+| Removed | `this chapter` |
+| Inserted | `chapters 381 through 385 and chapter 389` |
+
+### 26 U.S.C. § 1870
+
+> in each of paragraphs (4) and (5) of subsection (d), by striking “section 2500(1)” and inserting “section 4801(1)”;
+
+| | |
+|---|---|
+| Removed | `section 2500(1)` |
+| Inserted | `section 4801(1)` |
+
+### 26 U.S.C. § 1870
+
+> in subparagraph (D) (as so redeisgnated), by striking “of the first subsection (k) (relating to Limitation on certain procurements application process),” and inserting “of subsection (j),”.
+
+| | |
+|---|---|
+| Removed | `of the first subsection (k) (relating to Limitation on certain procurements application process),` |
+| Inserted | `of subsection (j),` |
+
+### 26 U.S.C. § 1872
+
+> Section 1872(a) is amended in each of paragraphs (5) through (11) by striking “chapter 385 of such title, as amended” and inserting “chapter 388 of such title, as added”.
+
+| | |
+|---|---|
+| Removed | `chapter 385 of such title, as amended` |
+| Inserted | `chapter 388 of such title, as added` |
+
+### 26 U.S.C. § 3223
+
+> Section 3221 of title 10, United States Code, as added by subsection (a) and amended by subsection (b) of section 1812 of such Act, is amended in subsection (c) by striking “under this section” and inserting “under this chapter”.
+
+| | |
+|---|---|
+| Removed | `under this section` |
+| Inserted | `under this chapter` |
+
+### 26 U.S.C. § 3223
+
+> Section 3223 of such title, as added by subsection (a) and amended by subsection (d) of section 1812 of such Act, is amended by striking “under this section” in paragraph (2) and inserting “under this chapter”.
+
+| | |
+|---|---|
+| Removed | `under this section` |
+| Inserted | `under this chapter` |
+
+### 26 U.S.C. § 3702
+
+> in subsection (a)(3) by striking “under this section” in the matter preceding subparagraph (A) and inserting “under this chapter”; and
+
+| | |
+|---|---|
+| Removed | `under this section` |
+| Inserted | `under this chapter` |
+
+### 26 U.S.C. § 3702
+
+> in subsection (d), by striking “this section” and inserting “this chapter”.
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this chapter` |
+
+### 26 U.S.C. § 3137
+
+> Section 3131 of title 10, United States Code, as transferred and redesignated by section 1809(b) of such Act, is amended in subsection (b)(1) by striking “section 2353” and inserting “section 4141”.
+
+| | |
+|---|---|
+| Removed | `section 2353` |
+| Inserted | `section 4141` |
+
+### 26 U.S.C. § 3137
+
+> Section 3137 of such title, as transferred and redesignated by section 1809(h)(1) of such Act, is amended in subsection (b)(2) by striking “section 2330a” and inserting “section 4505”.
+
+| | |
+|---|---|
+| Removed | `section 2330a` |
+| Inserted | `section 4505` |
+
+### 26 U.S.C. § 3203
+
+> Section 3203 of such title, as added by paragraph (1) and amended by paragraph (2) of section 1811(d)(2) of such Act, is amended in subsection (c) by striking “paragraphs (1) and (2)” and inserting “subsections (a)(1) and (b)”.
+
+| | |
+|---|---|
+| Removed | `paragraphs (1) and (2)` |
+| Inserted | `subsections (a)(1) and (b)` |
+
+### 26 U.S.C. § 3206
+
+> Section 3206 of such title, as added by paragraph (1) and amended by paragraphs (2) and (3) of section 1811(e)(2) of such Act, is amended in subsection (a)(3) by striking “subparagraphs (A) and (B)” in the matter preceding subparagraph (A) and inserting “paragraphs (1) and (2)”.
+
+| | |
+|---|---|
+| Removed | `subparagraphs (A) and (B)` |
+| Inserted | `paragraphs (1) and (2)` |
+
+### 26 U.S.C. § 3221
+
+> Section 3221 of such title, as added by subsection (a) and amended by subsection (b) of section 1812 of such Act, is amended in subsection (b)(2) by striking “chapter 144” before “of this title” and inserting “chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328”.
+
+| | |
+|---|---|
+| Removed | `chapter 144” before “of this title` |
+| Inserted | `chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328` |
+
+### 26 U.S.C. § 3862
+
+> Section 3862 of such title, as transferred and redesignated by section 1836(b) of such Act, is amended in subsection (b) by striking “section 2303(a)” and inserting “section 3063”.
+
+| | |
+|---|---|
+| Removed | `section 2303(a)` |
+| Inserted | `section 3063` |
+
+### 26 U.S.C. § 4008
+
+> Section 4008 of such title, as transferred and redesignated by section 1841(c) of such Act, is amended by striking “section 2303(a)” in subsections (a) and (d) and inserting “section 3063”.
+
+| | |
+|---|---|
+| Removed | `section 2303(a)` |
+| Inserted | `section 3063` |
+
+### 26 U.S.C. § 4061
+
+> Section 4061 of such title, as transferred and redesignated by section 1842(b) of such Act, is amended in subsection (b)(5) by striking “section 2302e” and inserting “section 4004”.
+
+| | |
+|---|---|
+| Removed | `section 2302e` |
+| Inserted | `section 4004` |
+
+### 26 U.S.C. § 4062
+
+> in clause (i), by striking “section 2433(d)” and inserting “section 4374”; and
+
+| | |
+|---|---|
+| Removed | `section 2433(d)` |
+| Inserted | `section 4374` |
+
+### 26 U.S.C. § 4062
+
+> in clause (ii), by striking “section 2433(e)(2)(A)” and inserting “section 4375(b)”;
+
+| | |
+|---|---|
+| Removed | `section 2433(e)(2)(A)` |
+| Inserted | `section 4375(b)` |
+
+### 26 U.S.C. § 4062
+
+> in subsection (j), by striking “chapter 137” and inserting “sections 3201 through 3205”; and
+
+| | |
+|---|---|
+| Removed | `chapter 137` |
+| Inserted | `sections 3201 through 3205` |
+
+### 26 U.S.C. § 4203
+
+> in subparagraph (B), by striking “under” and all that follows through “this title” and inserting “under section 4203(a)(1) of this title”.
+
+| | |
+|---|---|
+| Removed | `under” and all that follows through “this title` |
+| Inserted | `under section 4203(a)(1) of this title` |
+
+### 26 U.S.C. § 4324
+
+> in paragraph (5), by striking “section 2430” in subparagraph (A) and “section 2430(a)(1)(B)” in subparagraph (B) and inserting “section 4201” and “section 4201(a)(2) of this title”, respectively;
+
+| | |
+|---|---|
+| Removed | `section 2430” in subparagraph (A) and “section 2430(a)(1)(B)` |
+| Inserted | `section 4201` |
+
+### 26 U.S.C. § 4324
+
+> in paragraph (6), by striking “section 2366(e)(7)” and inserting “section 4172(e)(7)”; and
+
+| | |
+|---|---|
+| Removed | `section 2366(e)(7)` |
+| Inserted | `section 4172(e)(7)` |
+
+### 26 U.S.C. § 4324
+
+> in paragraph (7), by striking “section 2431a(e)(5)” and inserting “section 4211(e)(3)”.
+
+| | |
+|---|---|
+| Removed | `section 2431a(e)(5)` |
+| Inserted | `section 4211(e)(3)` |
+
+### 26 U.S.C. § 4375
+
+> by striking “subsection (b)(1)” and inserting “section 4376”.
+
+| | |
+|---|---|
+| Removed | `subsection (b)(1)` |
+| Inserted | `section 4376` |
+
+### 26 U.S.C. § 4505
+
+> Section 4505 of such title, as transferred and redesignated by section 1856(g) of such Act, is amended by striking “section 2383(b)(3)” in subsection (h)(2) and inserting “section 4508(b)(3)”.
+
+| | |
+|---|---|
+| Removed | `section 2383(b)(3)` |
+| Inserted | `section 4508(b)(3)` |
+
+### 26 U.S.C. § 4660
+
+> Section 4660 of such title, as transferred and redesignated by section 1862(b) of such Act, is amended by striking “section 2324” in subsection (c)(2) and inserting “subchapter I of chapter 273”.
+
+| | |
+|---|---|
+| Removed | `section 2324` |
+| Inserted | `subchapter I of chapter 273` |
+
+### 26 U.S.C. § 4814
+
+> Section 4814 of such title, as transferred and redesignated by section 1867(b) of such Act, is amended by striking “subchapter V of chapter 148” in paragraph (5) of subsection (a), as added by section 842(a)(2) of such Act, and inserting “chapter 385”.
+
+| | |
+|---|---|
+| Removed | `subchapter V of chapter 148` |
+| Inserted | `chapter 385` |
+
+### 26 U.S.C. § 4819
+
+> in subparagraph (C)(xi), by striking “section 2339a” and inserting “section 3252”; and
+
+| | |
+|---|---|
+| Removed | `section 2339a` |
+| Inserted | `section 3252` |
+
+### 26 U.S.C. § 2500
+
+> in clause (ii), by striking “section 2533a” and inserting “section 4862”; and
+
+| | |
+|---|---|
+| Removed | `section 2533a` |
+| Inserted | `section 4862` |
+
+### 26 U.S.C. § 2500
+
+> in clause (v), by striking “section 2521” and inserting “sections 4841 and 4842”.
+
+| | |
+|---|---|
+| Removed | `section 2521` |
+| Inserted | `sections 4841 and 4842` |
+
+### 26 U.S.C. § 4862
+
+> Section 4862 of such title, as transferred and redesignated by section 1870(c)(2) of such Act, is amended by striking “section 2304(c)(2)” in subsection (d)(4) and inserting “section 3204(a)(2)”.
+
+| | |
+|---|---|
+| Removed | `section 2304(c)(2)` |
+| Inserted | `section 3204(a)(2)` |
+
+### 26 U.S.C. § 4863
+
+> in subsection (c)(2), by striking “section 2304(c)(2)” and inserting “section 3204(a)(2)”; and
+
+| | |
+|---|---|
+| Removed | `section 2304(c)(2)` |
+| Inserted | `section 3204(a)(2)` |
+
+### 26 U.S.C. § 4863
+
+> in subsection (f), by striking “section 2304(g)” and inserting “section 3205”.
+
+| | |
+|---|---|
+| Removed | `section 2304(g)` |
+| Inserted | `section 3205` |
+
+### 26 U.S.C. § 4981
+
+> Section 4981 of such title, as transferred by subsection (b) and redesignated by subsection (c) of section 1873 of such Act, is amended by striking “section 2501(a)” in subsection (a) and inserting “section 4811(a)”.
+
+| | |
+|---|---|
+| Removed | `section 2501(a)` |
+| Inserted | `section 4811(a)` |
+
+### 26 U.S.C. § 1806
+
+> Section 2339c of title 10, United States Code, as added by section 803 of the FY2021 NDAA, is transferred to chapter 873 of such title, inserted after section 8754, and redesignated as section 8755, and amended in subsection (d)(3) by striking “section 2430” and inserting “section 4201”.
+
+| | |
+|---|---|
+| Removed | `section 2430` |
+| Inserted | `section 4201` |
+
+### 26 U.S.C. § 1806
+
+> Section 2533d of title 10, United States Code, as added by section 841(a) of the FY2021 NDAA, is transferred to chapter 385 of such title, inserted after section 4872 of subchapter III of such chapter, redesignated as section 4873, and amended in subsection (a)(2) by striking “section 2338” and inserting “section 3573”.
+
+| | |
+|---|---|
+| Removed | `section 2338` |
+| Inserted | `section 3573` |
+
+### 26 U.S.C. § 1806
+
+> Section 1807(b) of the FY2021 NDAA is amended in the matter to be inserted by paragraph (1), by striking “shall prescribe” and inserting “is required by section 2202 of this title to prescribe”.
+
+| | |
+|---|---|
+| Removed | `shall prescribe` |
+| Inserted | `is required by section 2202 of this title to prescribe` |
+
+### 26 U.S.C. § 1806
+
+> by striking “inserted after section 4951, redesignated as section 4952” and inserting “inserted after section 4953, redesignated as section 4954”;
+
+| | |
+|---|---|
+| Removed | `inserted after section 4951, redesignated as section 4952` |
+| Inserted | `inserted after section 4953, redesignated as section 4954` |
+
+### 26 U.S.C. § 1806
+
+> in the matter to be inserted by subparagraph (B)(ii), by striking “section 4957(b)” and inserting “section 4959(b)”;
+
+| | |
+|---|---|
+| Removed | `section 4957(b)` |
+| Inserted | `section 4959(b)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4952” and inserting “section 4954”;
+
+| | |
+|---|---|
+| Removed | `section 4952` |
+| Inserted | `section 4954` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4953” and inserting “section 4955”;
+
+| | |
+|---|---|
+| Removed | `section 4953` |
+| Inserted | `section 4955` |
+
+### 26 U.S.C. § 1806
+
+> in the matter to be inserted by subparagraph (B), by striking “section 4951(b)(1)(D)” and inserting “section 4951(1)(D)”; and
+
+| | |
+|---|---|
+| Removed | `section 4951(b)(1)(D)` |
+| Inserted | `section 4951(1)(D)` |
+
+### 26 U.S.C. § 1806
+
+> in the matter to be inserted by subparagraph (C), by striking “section 4957(b)” and inserting “section 4959(b)”;
+
+| | |
+|---|---|
+| Removed | `section 4957(b)` |
+| Inserted | `section 4959(b)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4953” and inserting “section 4955”;
+
+| | |
+|---|---|
+| Removed | `section 4953` |
+| Inserted | `section 4955` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4954” and inserting “section 4956”;
+
+| | |
+|---|---|
+| Removed | `section 4954` |
+| Inserted | `section 4956` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4954” and inserting “section 4956”;
+
+| | |
+|---|---|
+| Removed | `section 4954` |
+| Inserted | `section 4956` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4955” and inserting “section 4957”;
+
+| | |
+|---|---|
+| Removed | `section 4955` |
+| Inserted | `section 4957` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4955” and inserting “section 4957”;
+
+| | |
+|---|---|
+| Removed | `section 4955` |
+| Inserted | `section 4957` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4956” and inserting “section 4958”;
+
+| | |
+|---|---|
+| Removed | `section 4956` |
+| Inserted | `section 4958` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4956” and inserting “section 4958”;
+
+| | |
+|---|---|
+| Removed | `section 4956` |
+| Inserted | `section 4958` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4957” and inserting “section 4959”;
+
+| | |
+|---|---|
+| Removed | `section 4957` |
+| Inserted | `section 4959` |
+
+### 26 U.S.C. § 1806
+
+> by striking “inserted after section 4957, as added by paragraph (10),” and inserting “added at the end of such chapter”; and
+
+| | |
+|---|---|
+| Removed | `inserted after section 4957, as added by paragraph (10),` |
+| Inserted | `added at the end of such chapter` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4959” and inserting “section 4961”.
+
+| | |
+|---|---|
+| Removed | `section 4959` |
+| Inserted | `section 4961` |
+
+### 26 U.S.C. § 1806
+
+> by striking “this paragraph” in the second sentence and inserting “this subsection”.
+
+| | |
+|---|---|
+| Removed | `this paragraph` |
+| Inserted | `this subsection` |
+
+### 26 U.S.C. § 1806
+
+> Section 8702(c) is amended by striking “section 2307(g)(2)” and inserting “section 3808(b)”.
+
+| | |
+|---|---|
+| Removed | `section 2307(g)(2)` |
+| Inserted | `section 3808(b)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 2431” in subparagraph (A) and inserting “section 4205”;
+
+| | |
+|---|---|
+| Removed | `section 2431` |
+| Inserted | `section 4205` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 2433(a)(2)” in subparagraph (B)(i) and inserting “section 4371(a)(4)”;
+
+| | |
+|---|---|
+| Removed | `section 2433(a)(2)` |
+| Inserted | `section 4371(a)(4)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 2435(d)(1)” in subparagraph (B)(ii) and inserting “section 4214(d)(1)”;
+
+| | |
+|---|---|
+| Removed | `section 2435(d)(1)` |
+| Inserted | `section 4214(d)(1)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 2435(d)(2)” in subparagraph (B)(iii) and inserting “section 4214(d)(2)”;
+
+| | |
+|---|---|
+| Removed | `section 2435(d)(2)` |
+| Inserted | `section 4214(d)(2)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 2432(e)(4)” in subparagraph (B)(iv) and inserting “section 4355(4)”; and
+
+| | |
+|---|---|
+| Removed | `section 2432(e)(4)` |
+| Inserted | `section 4355(4)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 2446a” in subparagraph (G) and inserting “section 4401”.
+
+| | |
+|---|---|
+| Removed | `section 2446a` |
+| Inserted | `section 4401` |
+
+### 26 U.S.C. § 1806
+
+> Subsection (h)(2)(A) of such section, as so transferred and redesignated, is amended by striking “section 2431” and inserting “section 4205”.
+
+| | |
+|---|---|
+| Removed | `section 2431` |
+| Inserted | `section 4205` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (b)(2)(D), by striking “section 4353(a)” in the matter to be inserted and inserting “section 4351(c)(1)”; and
+
+| | |
+|---|---|
+| Removed | `section 4353(a)` |
+| Inserted | `section 4351(c)(1)` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (f)(2)(C), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”;
+
+| | |
+|---|---|
+| Removed | `sections 4351 through 4358` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (f)(5)(C), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; and
+
+| | |
+|---|---|
+| Removed | `sections 4351 through 4358` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (g)(1), by striking “section 4351” in the matter to be inserted and inserting “section 4351(a)”;
+
+| | |
+|---|---|
+| Removed | `section 4351` |
+| Inserted | `section 4351(a)` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (b)(4)(B)(iii), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”;
+
+| | |
+|---|---|
+| Removed | `sections 4351 through 4358` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (c)(1)(A)(i), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”;
+
+| | |
+|---|---|
+| Removed | `sections 4351 through 4358` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (d)(2)(C)(ii), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; and
+
+| | |
+|---|---|
+| Removed | `sections 4351 through 4358` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (e)(1)(A), by striking “section 4351(2)” in the matter to be inserted and inserting “section 4351(a)(2)”;
+
+| | |
+|---|---|
+| Removed | `section 4351(2)` |
+| Inserted | `section 4351(a)(2)` |
+
+### 26 U.S.C. § 1806
+
+> in section 1849(f) (as so redesignated), by striking “chapter 324” in the matter to be inserted and inserting “section 4351”; and
+
+| | |
+|---|---|
+| Removed | `chapter 324` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (b)(3)(A)(ii), by striking “section 4351” in the matter to be inserted and inserting “section 4351(a)”;
+
+| | |
+|---|---|
+| Removed | `section 4351` |
+| Inserted | `section 4351(a)` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (c)(2), by striking “section 4358” in the matter to be inserted and inserting “section 4351(h)”;
+
+| | |
+|---|---|
+| Removed | `section 4358` |
+| Inserted | `section 4351(h)` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (e)(4)(A), by striking “section 4352(c)” in the matter to be inserted and inserting “section 4351(b)(3)”;
+
+| | |
+|---|---|
+| Removed | `section 4352(c)` |
+| Inserted | `section 4351(b)(3)` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (h)(2)(C)(ii), by striking “and inserting” and all that follows through “respectively” and inserting “and inserting section 4351(e) and section 4351(f), respectively”;
+
+| | |
+|---|---|
+| Removed | `and inserting” and all that follows through “respectively` |
+| Inserted | `and inserting section 4351(e) and section 4351(f), respectively` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (j)(3)(B)(ii), by striking “section 4356(a)” in the matter to be inserted and inserting “section 4351(f)”;
+
+| | |
+|---|---|
+| Removed | `section 4356(a)` |
+| Inserted | `section 4351(f)` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (k)(4)(D), by striking “section 4352” in the matter to be inserted and inserting “section 4351”; and
+
+| | |
+|---|---|
+| Removed | `section 4352` |
+| Inserted | `section 4351` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (k)(6)(D)(i)(II), by striking “section 4356” in the matter to be inserted and inserting “section 4351(f)”.
+
+| | |
+|---|---|
+| Removed | `section 4356` |
+| Inserted | `section 4351(f)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “as section 4843” and inserting “as sections 4843, 4844, and 4845, respectively”; and
+
+| | |
+|---|---|
+| Removed | `as section 4843` |
+| Inserted | `as sections 4843, 4844, and 4845, respectively` |
+
+### 26 U.S.C. § 1806
+
+> Section 4844, as transferred and redesignated by paragraph (1), is amended in subsection (a)(6), by striking “section 2196” and inserting “section 4843”.
+
+| | |
+|---|---|
+| Removed | `section 2196` |
+| Inserted | `section 4843` |
+
+### 26 U.S.C. § 1806
+
+> Sections 7033(d)(5), 8033(d)(5), 8043(e)(5), and 9033(d)(5) of such title are amended by striking “and 2547” and inserting “and 3104”.
+
+| | |
+|---|---|
+| Removed | `and 2547` |
+| Inserted | `and 3104` |
+
+### 26 U.S.C. § 1806
+
+> by striking “paragraph (3)” in the matter to be inserted and inserting “section 4820 of this title”.
+
+| | |
+|---|---|
+| Removed | `paragraph (3)` |
+| Inserted | `section 4820 of this title` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (a), by striking “section 2501” and inserting “section 4811”; and
+
+| | |
+|---|---|
+| Removed | `section 2501` |
+| Inserted | `section 4811` |
+
+### 26 U.S.C. § 1806
+
+> in subsection (b), by striking “chapter 148” and inserting “subchapters 381 through 385 and subchapter 389”.
+
+| | |
+|---|---|
+| Removed | `chapter 148` |
+| Inserted | `subchapters 381 through 385 and subchapter 389` |
+
+### 26 U.S.C. § 1806
+
+> in the paragraph heading, by striking “sections 2533c and 2536” and inserting “sections 2327, 2533c, and 2536”;
+
+| | |
+|---|---|
+| Removed | `sections 2533c and 2536` |
+| Inserted | `sections 2327, 2533c, and 2536` |
+
+### 26 U.S.C. § 1806
+
+> by striking “sections 2533c and 2536 of title 10” and inserting “sections 2327, 2533c, and 2536 of title 10”; and
+
+| | |
+|---|---|
+| Removed | `sections 2533c and 2536 of title 10` |
+| Inserted | `sections 2327, 2533c, and 2536 of title 10` |
+
+### 26 U.S.C. § 1806
+
+> by striking “sections 4871 and 4872” and inserting “sections 4871, 4872, and 4874”;
+
+| | |
+|---|---|
+| Removed | `sections 4871 and 4872` |
+| Inserted | `sections 4871, 4872, and 4874` |
+
+### 26 U.S.C. § 1806
+
+> in subparagraph (A), by striking “Section 4871” and inserting “Section 4872”; and
+
+| | |
+|---|---|
+| Removed | `Section 4871` |
+| Inserted | `Section 4872` |
+
+### 26 U.S.C. § 1806
+
+> in the matter inserted by subparagraph (B), by striking “4871” and inserting “4872”; and
+
+| | |
+|---|---|
+| Removed | `4871` |
+| Inserted | `4872` |
+
+### 26 U.S.C. § 1806
+
+> in the matter inserted by paragraph (4), by striking “section 4872(c)(1)” and inserting “section 4874(c)(1)”.
+
+| | |
+|---|---|
+| Removed | `section 4872(c)(1)` |
+| Inserted | `section 4874(c)(1)` |
+
+### 26 U.S.C. § 1806
+
+> by striking “and 2373” and inserting “, 2373, 2374, 2374a, and 2371a”;
+
+| | |
+|---|---|
+| Removed | `and 2373` |
+| Inserted | `, 2373, 2374, 2374a, and 2371a` |
+
+### 26 U.S.C. § 1806
+
+> Subsection (b)(2)(A)(i) is amended by striking “by striking” and all that follows through the semicolon at the end and inserting “by striking section 2371 or 2371b and inserting section 4021 or 4022;”.
+
+| | |
+|---|---|
+| Removed | `by striking` |
+| Inserted | `by striking section 2371 or 2371b and inserting section 4021 or 4022;` |
+
+### 26 U.S.C. § 1806
+
+> Subsection (d)(1) is amended by striking “section 4009” and inserting “section 4007”.
+
+| | |
+|---|---|
+| Removed | `section 4009` |
+| Inserted | `section 4007` |
+
+### 26 U.S.C. § 1806
+
+> in subparagraph (A)(ii), by striking “sections 4004” in the matter to be inserted and inserting “section 4023”;
+
+| | |
+|---|---|
+| Removed | `sections 4004` |
+| Inserted | `section 4023` |
+
+### 26 U.S.C. § 1806
+
+> in subparagraph (A)(iii), by striking “sections 4002 and 4143” in the matter to be inserted and inserting “sections 4021 and 4026”;
+
+| | |
+|---|---|
+| Removed | `sections 4002 and 4143` |
+| Inserted | `sections 4021 and 4026` |
+
+### 26 U.S.C. § 1806
+
+> in subparagraph (B), by striking “Section 4002” and inserting “Section 4021”;
+
+| | |
+|---|---|
+| Removed | `Section 4002` |
+| Inserted | `Section 4021` |
+
+### 26 U.S.C. § 1806
+
+> by striking “Section 4003” and inserting “Section 4022”; and
+
+| | |
+|---|---|
+| Removed | `Section 4003` |
+| Inserted | `Section 4022` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4002” in the matter to be inserted and inserting “section 4021”; and
+
+| | |
+|---|---|
+| Removed | `section 4002` |
+| Inserted | `section 4021` |
+
+### 26 U.S.C. § 1806
+
+> Section 4004 of such title, as so transferred and redesignated, is amended by striking “section 2302(2)(B)” in subsection (a) and inserting “section 3012(2)”.
+
+| | |
+|---|---|
+| Removed | `section 2302(2)(B)` |
+| Inserted | `section 3012(2)` |
+
+### 26 U.S.C. § 1806
+
+> Subsection (e)(2) is amended by striking “section 4003” in the matter to be inserted and inserting “section 4022”.
+
+| | |
+|---|---|
+| Removed | `section 4003` |
+| Inserted | `section 4022` |
+
+### 26 U.S.C. § 1806
+
+> by striking “2361a” and all that follows through “2365” and inserting “2365, and 2357”;
+
+| | |
+|---|---|
+| Removed | `2361a” and all that follows through “2365` |
+| Inserted | `2365, and 2357` |
+
+### 26 U.S.C. § 1806
+
+> by striking “after the table of sections” and inserting “after the heading for subchapter I”; and
+
+| | |
+|---|---|
+| Removed | `after the table of sections` |
+| Inserted | `after the heading for subchapter I` |
+
+### 26 U.S.C. § 1806
+
+> by striking “4063” and all that follows through “4066” and inserting “4066, and 4067”.
+
+| | |
+|---|---|
+| Removed | `4063” and all that follows through “4066` |
+| Inserted | `4066, and 4067` |
+
+### 26 U.S.C. § 1806
+
+> Subsection (c)(1) is amended by striking “section 4065” in the matter to be inserted and inserting “section 4025”.
+
+| | |
+|---|---|
+| Removed | `section 4065` |
+| Inserted | `section 4025` |
+
+### 26 U.S.C. § 1806
+
+> Subsection (c) of such section 1843 is amended by striking “section 4103(a)” in the matter to be inserted and inserting “section 4123(a)”.
+
+| | |
+|---|---|
+| Removed | `section 4103(a)` |
+| Inserted | `section 4123(a)` |
+
+### 26 U.S.C. § 1806
+
+> Section 4124 of such title, as transferred and redesignated by subsection (b)(1), is amended in subsection (b)(3)(B)(ii), by striking “2358, 2371, 2511, 2539b, and 2563” and inserting “2563, 4001, 4021, 4831, and 4062”.
+
+| | |
+|---|---|
+| Removed | `2358, 2371, 2511, 2539b, and 2563` |
+| Inserted | `2563, 4001, 4021, 4831, and 4062` |
+
+### 26 U.S.C. § 1806
+
+> by striking “chapter 305, as added by the preceding section” and inserting “chapter 303, as added by section 1842”; and
+
+| | |
+|---|---|
+| Removed | `chapter 305, as added by the preceding section` |
+| Inserted | `chapter 303, as added by section 1842` |
+
+### 26 U.S.C. § 1806
+
+> by striking “chapter 307, as added by the preceding section” and inserting “chapter 305, as added by section 1844”; and
+
+| | |
+|---|---|
+| Removed | `chapter 307, as added by the preceding section` |
+| Inserted | `chapter 305, as added by section 1844` |
+
+### 26 U.S.C. § 1806
+
+> by striking “and 196” and inserting “196, 2353, and 2681”; and
+
+| | |
+|---|---|
+| Removed | `and 196` |
+| Inserted | `196, 2353, and 2681` |
+
+### 26 U.S.C. § 1806
+
+> by striking “section 4171, 4172, and 4173” and inserting “sections 4171, 4172, 4173, 4174, and 4175”.
+
+| | |
+|---|---|
+| Removed | `section 4171, 4172, and 4173` |
+| Inserted | `sections 4171, 4172, 4173, 4174, and 4175` |
 
 ### 10 U.S.C. § 2302
 
@@ -2102,6 +3353,24 @@ to guess them.
 |---|---|
 | Removed | `Chairman` |
 | Inserted | `Chairperson` |
+
+### 26 U.S.C. § 55501
+
+> Chapter 504 of such title, as redesignated by paragraph (1), is amended in the chapter heading by striking “Miscellaneous” and inserting “Committees”.
+
+| | |
+|---|---|
+| Removed | `Miscellaneous` |
+| Inserted | `Committees` |
+
+### 26 U.S.C. § 55501
+
+> Section 8332(b)(1) of the Elijah E. Cummings Coast Guard Authorization Act of 2020 (division G of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283)) is amended by striking “section 55502” and inserting “section 50402”.
+
+| | |
+|---|---|
+| Removed | `section 55502` |
+| Inserted | `section 50402` |
 
 ### 22 U.S.C. § 4022
 
@@ -3169,7 +4438,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (6) the following new paragraph (7): | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “primarily” and inserting “solely”; and | the bill names no machine-readable US Code section |
 | — | strike | in the second sentence, by striking “solely”. | the bill names no machine-readable US Code section |
-| — | amend | Section 1108(b)(1)(A) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 2464` | amend | Section 1108(b)(1)(A) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 1595(c) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking the subsection heading and inserting “Consideration of employee performance in reductions”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “be made primarily on the basis of” and inserting “, among other factors as determined by the Secretary, account for employee”. | the bill names no machine-readable US Code section |
@@ -3188,7 +4457,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the nuclear aircraft carrier that is forward deployed in Japan” and inserting “naval vessels”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “of 1938” after “Fair Labor Standards Act”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the overtime” and all that follows through the period at the end and inserting “the employee shall be coded and paid overtime as if the employee’s exemption status under that Act is the same as it is at the employee’s perman… | the bill names no machine-readable US Code section |
-| — | strike | Section 5519 of title 5, United States Code, is amended by striking “or (c)”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6323` | strike | Section 5519 of title 5, United States Code, is amended by striking “or (c)”. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Section 5542 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -3196,10 +4465,10 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1580` | redesignate | by redesignating subsection (f) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1580` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Paragraph (2) of section 1603(a) of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006 (Public Law 109–234; 120 Stat. 443), as added by section 1102 of the Duncan Hunter Nati… | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter IV of chapter 16 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of subchapter IV of chapter 16 of title 10, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 301` | add-at-end | Subchapter IV of chapter 16 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 301` | add-at-end | The table of sections at the beginning of subchapter IV of chapter 16 of title 10, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 345` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2205` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1202(a) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1639) is amended by striking “2023” and inserting “2025”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “and 2020” and inserting “, 2020, and 2022”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 2282 of title 10, United States Code (as so added)” and inserting “subsections (a)(1) and (e)(7)(B) of section 333 of title 10, United States Code”; and | the bill names no machine-readable US Code section |
@@ -3323,11 +4592,11 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3003` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2276` | insert | Chapter 135 of title 10, United States Code, is amended by inserting after section 2276 the following new section 2277: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2276` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 2276 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 9016` | strike | in the section heading, by striking “Force”; | the bill quotes the text struck but describes what replaces it |
-| `10 U.S.C. § 9016` | replace | The table of sections for chapter 903 of title 10, United States Code, is amended by striking the item relating to section 9021 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 9016` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 9016` | amend | Clause (i) of section 9016(b)(6)(B) of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | Section 9086 of title 10, United States Code, as redesignated by section 1081, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9016` | strike | in the section heading, by striking “Force”; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 9016` | replace | The table of sections for chapter 903 of title 10, United States Code, is amended by striking the item relating to section 9021 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9016` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9082` | amend | Clause (i) of section 9016(b)(6)(B) of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1081` | redesignate | Section 9086 of title 10, United States Code, as redesignated by section 1081, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C) the following new subparagraph (D): | the bill names no machine-readable US Code section |
 | — | replace | in subsection (h), by striking “National Defense Authorization Act for Fiscal Year 2016” and inserting “National Defense Authorization Act for Fiscal Year 2022”. | the bill names no machine-readable US Code section |
@@ -3367,320 +4636,181 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2431` | amend | Section 1689(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2431 note) is amended by adding after the period at the end the following new sentence: “Beginning not later than five years af… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in subsection (a), in the matter preceding paragraph (1), by inserting “or any subsequent fiscal year” after “fiscal year 2021”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
-| — | insert | Section 1801(d)(3)(B)(i) of FY2021 NDAA is amended by inserting “and provides public notice that such authorities have been revised and modified pursuant to such paragraph” after “paragraph (2)”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 1806(a) is amended in paragraph (4) by striking “Transfer” and all that follows through “and amended” and inserting the following: “Restatement of section 2545(1).—Section 3001 of such title, as added by paragraph (1), is further… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(1), by striking “new sections” and inserting “new section”; | the bill names no machine-readable US Code section |
-| — | replace | by striking the semicolon and close quotation marks at the end of clause (i) and inserting close quotation marks and a semicolon; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “by any” in the matter to be inserted by clause (ii); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “of this title” in the matter to be inserted by paragraph (2)(B); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Sections” in the quoted matter before the period at the end of paragraph (3) and inserting “For purposes of”. | the bill names no machine-readable US Code section |
-| — | strike | Section 1809(e) is amended by striking subparagraph (B) of paragraph (2) (including the amendment made by that subparagraph). | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking the comma before the close quotation marks in both the matter to be stricken and the matter to be inserted; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (D), by inserting a comma after “3901” in the matter to be inserted; | the bill names no machine-readable US Code section |
-| — | replace | by striking the dash after “mobilization” in the matter to be inserted by clause (ii) and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the dash after “center” in the matter to be inserted by clause (iv) and inserting “; or”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(4)(D), by striking “this” in the matter to be stricken by clause (ii) and inserting “This”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(5)(A), by striking “inserting” and all that follows through “; and” and inserting “inserting Offer requests to potential sources.— before The head of an agency; and”; | the bill names no machine-readable US Code section |
-| — | strike | by striking the close quotation marks after “Procedures.—”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking the comma after “(7)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraphs (C)(ii) and (E)(ii) of subsection (e)(3), by striking “and (ii)” each place it appears and inserting “and (iii)”. | the bill names no machine-readable US Code section |
-| — | insert | Section 1813 is amended in subsection (c)(1)(D) by inserting “and inserting” after the first close quotation marks. | the bill names no machine-readable US Code section |
-| — | replace | by striking “the second sentence” and inserting “the second and third sentences”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “subsection (d)” and inserting “subsections (d) and (e), respectively”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (G) and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (d), as so designated, by inserting “Notice of award.—” before “The head of”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), as so designated, by striking “This subparagraph does not” and inserting “Exception for perishable subsistence items.—Subsections (c) and (d) do not”. | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (7)(J)(ii), in the matter to be inserted, by inserting “under” before “this section” . | the bill names no machine-readable US Code section |
-| — | strike | Section 1818 is amended by striking the close quotation marks and second period at the end of subsection (b). | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), in the matter to be inserted, by striking the item relating to section 3404 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (c)(3)(A), by striking “section” in the matter to be stricken; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (d)(4)(B), by inserting “section” before “3403(b)” in the matter to be inserted. | the bill names no machine-readable US Code section |
-| — | replace | Section 1821 is amended in subsection (b)(5) by striking “subsection (b)(2)(B)(i)” and inserting “subsection (c)(2)(B)(i)”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “redesignated as subsection (a), and” and inserting “amended by striking the subsection designation and subsection heading, and further”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(2)(A), in the matter to be stricken, by striking “the” and inserting “The”; | the bill names no machine-readable US Code section |
-| — | strike | by striking clauses (ii) through (v); and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “as so redesignated” and all that follows through “by inserting” and inserting “as so redesignated, by inserting”; | the bill names no machine-readable US Code section |
-| — | strike | by striking clauses (ii) through (v); and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “as so redesignated” and all that follows through “by inserting” and inserting “as so redesignated, by inserting”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
-| — | strike | by striking clauses (ii) through (v); and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “as so redesignated” and all that follows through “by inserting” and inserting “as so redesignated, by inserting”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the semicolon at the end and inserting a period; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(4)(A), by striking the matter proposed to be inserted and inserting “Certification.—”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (C); and | the bill names no machine-readable US Code section |
-| — | amend | in subparagraph (B), by adding “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h), by striking “such section 3706” in paragraphs (2) and (3) and inserting “such section 3707”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), in the matter to be inserted, by striking “3701–3708” and inserting “3701 through 3708”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraphs (4) and (5). | the bill names no machine-readable US Code section |
-| — | strike | in clause (iv), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) (as so redesignated), by striking “paragraph (1)” and inserting “subsection (b)”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (n), in the section heading for section 3791, by striking “department of defense” and inserting “Department of Defense”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (o)(2), by striking “Section” and “as section” and inserting “Sections” and “as sections”, respectively. | the bill names no machine-readable US Code section |
-| — | replace | Section 1834(h)(2) is amended by striking “section 3801(1)” in the matter to be inserted and inserting “section 3801(a)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1845(c)(2) is amended by striking “section” in the matter to be stricken and inserting “sections”. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (f)(6)(A), in the matter to be inserted, by inserting a period after “Oversight”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (i)(3), by striking “Section 1706(c)(1)” and inserting “Section 1706(a)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 1706(a) of title 10, United States Code, is further amended by striking “section 2430(a)(1)(B)” and inserting “section 4201(a)(2)”. | the bill names no machine-readable US Code section |
-| — | replace | in the table of subchapters to be inserted by subsection (a), by striking the item relating to the second subchapter III (relating to contractors) and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (e)(3)(A), by inserting “section” before “4376(a)(1)” in the matter to be inserted. | the bill names no machine-readable US Code section |
-| — | strike | Section 1848(d) is amended by striking paragraph (2). | the bill names no machine-readable US Code section |
-| — | redesignate | Section 1850(e)(2) is amended by inserting “transferred and” before “redesignated”. | the bill names no machine-readable US Code section |
-| — | replace | in subection (f)(5)(A), in the matter to be inserted, by striking the comma at the end; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h), by striking “subsection (d)” and inserting “subsection (g)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1862(c)(2) is amended by striking “section 4657” and inserting “section 4658”. | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “; and” at the end and inserting a period; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (3) (including the amendment made by that paragraph); and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), by striking “4817” in the matter to be inserted by paragraph (4)(A)(ii) and inserting “4818”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “Section 4814” and inserting “Section 4814(a)”; | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (5) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “of this chapter” and inserting “of chapters 381 through 385 and chapter 389”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “under this chapter” and inserting “under such chapters”. | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 4817(d)(1) is amended by striking “this chapter” and inserting “chapters 381 through 385 and chapter 389”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | in each of paragraphs (4) and (5) of subsection (d), by striking “section 2500(1)” and inserting “section 4801(1)”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D) (as so redeisgnated), by striking “of the first subsection (k) (relating to Limitation on certain procurements application process),” and inserting “of subsection (j),”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1872(a) is amended in each of paragraphs (5) through (11) by striking “chapter 385 of such title, as amended” and inserting “chapter 388 of such title, as added”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3221 of title 10, United States Code, as added by subsection (a) and amended by subsection (b) of section 1812 of such Act, is amended in subsection (c) by striking “under this section” and inserting “under this chapter”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3223 of such title, as added by subsection (a) and amended by subsection (d) of section 1812 of such Act, is amended by striking “under this section” in paragraph (2) and inserting “under this chapter”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(3) by striking “under this section” in the matter preceding subparagraph (A) and inserting “under this chapter”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), by striking “this section” and inserting “this chapter”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “under the program (i) expressed as” and inserting | the bill names no machine-readable US Code section |
-| — | replace | by striking “or subprogram, and (ii) expressed as” and inserting “or subprogram; and | the bill names no machine-readable US Code section |
-| — | replace | Section 3131 of title 10, United States Code, as transferred and redesignated by section 1809(b) of such Act, is amended in subsection (b)(1) by striking “section 2353” and inserting “section 4141”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3137 of such title, as transferred and redesignated by section 1809(h)(1) of such Act, is amended in subsection (b)(2) by striking “section 2330a” and inserting “section 4505”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3203 of such title, as added by paragraph (1) and amended by paragraph (2) of section 1811(d)(2) of such Act, is amended in subsection (c) by striking “paragraphs (1) and (2)” and inserting “subsections (a)(1) and (b)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3206 of such title, as added by paragraph (1) and amended by paragraphs (2) and (3) of section 1811(e)(2) of such Act, is amended in subsection (a)(3) by striking “subparagraphs (A) and (B)” in the matter preceding subparagraph (… | the bill names no machine-readable US Code section |
-| — | replace | Section 3221 of such title, as added by subsection (a) and amended by subsection (b) of section 1812 of such Act, is amended in subsection (b)(2) by striking “chapter 144” before “of this title” and inserting “chapters 321, 324, and 325,… | the bill names no machine-readable US Code section |
-| — | replace | Section 3862 of such title, as transferred and redesignated by section 1836(b) of such Act, is amended in subsection (b) by striking “section 2303(a)” and inserting “section 3063”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4008 of such title, as transferred and redesignated by section 1841(c) of such Act, is amended by striking “section 2303(a)” in subsections (a) and (d) and inserting “section 3063”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4061 of such title, as transferred and redesignated by section 1842(b) of such Act, is amended in subsection (b)(5) by striking “section 2302e” and inserting “section 4004”. | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “section 2433(d)” and inserting “section 4374”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “section 2433(e)(2)(A)” and inserting “section 4375(b)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (j), by striking “chapter 137” and inserting “sections 3201 through 3205”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (k)(2), by striking “(as defined in section 2302(5) of this title)”. | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “within the meaning” and all that follows through “this title”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “under” and all that follows through “this title” and inserting “under section 4203(a)(1) of this title”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5), by striking “section 2430” in subparagraph (A) and “section 2430(a)(1)(B)” in subparagraph (B) and inserting “section 4201” and “section 4201(a)(2) of this title”, respectively; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (6), by striking “section 2366(e)(7)” and inserting “section 4172(e)(7)”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7), by striking “section 2431a(e)(5)” and inserting “section 4211(e)(3)”. | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “or (b)(2)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “or (b)(2)” ; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “subsection (b)(1)” and inserting “section 4376”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4505 of such title, as transferred and redesignated by section 1856(g) of such Act, is amended by striking “section 2383(b)(3)” in subsection (h)(2) and inserting “section 4508(b)(3)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4660 of such title, as transferred and redesignated by section 1862(b) of such Act, is amended by striking “section 2324” in subsection (c)(2) and inserting “subchapter I of chapter 273”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4814 of such title, as transferred and redesignated by section 1867(b) of such Act, is amended by striking “subchapter V of chapter 148” in paragraph (5) of subsection (a), as added by section 842(a)(2) of such Act, and inserting… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C)(xi), by striking “section 2339a” and inserting “section 3252”; and | the bill names no machine-readable US Code section |
-| — | strike | in clause (i), by striking “(as defined in section 2500(1) of this title)”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “section 2533a” and inserting “section 4862”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (v), by striking “section 2521” and inserting “sections 4841 and 4842”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4862 of such title, as transferred and redesignated by section 1870(c)(2) of such Act, is amended by striking “section 2304(c)(2)” in subsection (d)(4) and inserting “section 3204(a)(2)”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(2), by striking “section 2304(c)(2)” and inserting “section 3204(a)(2)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f), by striking “section 2304(g)” and inserting “section 3205”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4981 of such title, as transferred by subsection (b) and redesignated by subsection (c) of section 1873 of such Act, is amended by striking “section 2501(a)” in subsection (a) and inserting “section 4811(a)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2339c of title 10, United States Code, as added by section 803 of the FY2021 NDAA, is transferred to chapter 873 of such title, inserted after section 8754, and redesignated as section 8755, and amended in subsection (d)(3) by st… | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 2533d of title 10, United States Code, as added by section 841(a) of the FY2021 NDAA, is transferred to chapter 385 of such title, inserted after section 4872 of subchapter III of such chapter, redesignated as section 4873, and a… | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 4872 the following new item: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of such chapter, as added by section 1842(a) of the FY2021 NDAA (as amended by this section), is amended by inserting after the item relating to section 4093 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of chapter 136 is amended by striking the item relating to section 2283. | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of chapter 165 is amended by striking the item relating to section 2784. | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 203, as added by section 1807(a) of the FY2021 NDAA, is amended in the item relating to section 3064 by inserting “of” after “Applicability”. | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 223, as added by section 1813(a) of such Act, is amended by striking the item relating to section 3248 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of subchapter II of chapter 273, as added by section 1832(j) of such Act, is amended by striking the items relating to sections 3764 and 3765. | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of subchapter III of chapter 275, as added by section 1833(n) of such Act, is amended by striking the item relating to section 3792 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of subchapter I of chapter 322, as added by section 1847(a), is amended by striking the item relating to section 4212 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of subchapter II of chapter 322, as added by section 1847(a), is amended by striking the item relating to section 4232 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 323, as added by section 1848(a), is amended by striking the item relating to section 4324 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 382, as added by section 1867(a) of such Act, is amended by striking the item relating to section 4814 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | in the items for chapters 203, 205, and 207, by striking the section number at the end of each item and inserting “3061”, “3101”, and “3131”, respectively; | the bill names no machine-readable US Code section |
-| — | replace | by striking the item for chapter 247 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in the item for chapter 251, by striking the section number at the end and inserting “3571”; | the bill names no machine-readable US Code section |
-| — | replace | by striking the item for chapter 257 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the last word in the item for the heading for subpart D and inserting “Provisions”. | the bill names no machine-readable US Code section |
-| — | amend | The heading of subpart D of part V is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The heading of subchapter II of chapter 273, as added by section 1832(j) of the FY2021 NDAA, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in each of the items relating to sections 3003 and 3005 in the table of sections at the beginning of subchapter I, by striking the text after the section designation and inserting “Reserved.”; | the bill names no machine-readable US Code section |
-| — | replace | by striking section 3003 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking section 3005 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | In the table of contents for chapter 209 inserted by section 1810(a), by striking the text after the subchapter II designation and inserting “Reserved”. | the bill names no machine-readable US Code section |
-| — | amend | Section 1810(d) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 209 of title 10, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | replace | The matter inserted by section 1813(h) is amended by striking the text after the chapter designation and inserting “Reserved”. | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to section 3324 in the table of sections, by striking the text after the section designation and inserting “Reserved.”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking section 3324 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the text after the chapter designation for chapter 253 in each place and insert… | the bill names no machine-readable US Code section |
-| — | replace | in the matter inserted by subsection (a), by striking the text after the chapter designation and inserting “Reserved”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter inserted by subsection (b), by striking the text after the chapter designation and inserting “Reserved”. | the bill names no machine-readable US Code section |
-| — | replace | by striking the text after the chapter designation and inserting “Reserved”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking all after the chapter heading and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | The matter inserted by section 1835(a) is amended in the table of sections by striking the text after the section designation in each of the items relating to sections 3843, 3844, and 3846 and inserting “Reserved.”. | the bill names no machine-readable US Code section |
-| — | replace | by striking the matter inserted by paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking matter inserted by paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the text after the chapter designation for chapter 283 in each place and insert… | the bill names no machine-readable US Code section |
-| — | amend | Section 1837 is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1806` | insert | Section 1801(d)(3)(B)(i) of FY2021 NDAA is amended by inserting “and provides public notice that such authorities have been revised and modified pursuant to such paragraph” after “paragraph (2)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | redesignate | Section 1806(a) is amended in paragraph (4) by striking “Transfer” and all that follows through “and amended” and inserting the following: “Restatement of section 2545(1).—Section 3001 of such title, as added by paragraph (1), is further… | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1807` | replace | by striking the semicolon and close quotation marks at the end of clause (i) and inserting close quotation marks and a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1807` | replace | by striking “by any” in the matter to be inserted by clause (ii); and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1807` | replace | by striking “of this title” in the matter to be inserted by paragraph (2)(B); and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1809` | strike | Section 1809(e) is amended by striking subparagraph (B) of paragraph (2) (including the amendment made by that subparagraph). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1811` | replace | in subparagraph (B), by striking the comma before the close quotation marks in both the matter to be stricken and the matter to be inserted; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1811` | insert | in subparagraph (D), by inserting a comma after “3901” in the matter to be inserted; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1811` | replace | by striking the dash after “mobilization” in the matter to be inserted by clause (ii) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1811` | replace | by striking the dash after “center” in the matter to be inserted by clause (iv) and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1811` | strike | by striking the close quotation marks after “Procedures.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1811` | strike | by striking the comma after “(7)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1813` | insert | Section 1813 is amended in subsection (c)(1)(D) by inserting “and inserting” after the first close quotation marks. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1816` | replace | by striking subparagraph (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1816` | insert | in subsection (d), as so designated, by inserting “Notice of award.—” before “The head of”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1816` | insert | in paragraph (7)(J)(ii), in the matter to be inserted, by inserting “under” before “this section” . | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1818` | strike | Section 1818 is amended by striking the close quotation marks and second period at the end of subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1820` | replace | in subsection (a), in the matter to be inserted, by striking the item relating to section 3404 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1820` | strike | in subsection (c)(3)(A), by striking “section” in the matter to be stricken; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1820` | insert | in subsection (d)(4)(B), by inserting “section” before “3403(b)” in the matter to be inserted. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1831` | strike | by striking clauses (ii) through (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1831` | strike | by striking clauses (ii) through (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1831` | insert | by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1831` | strike | by striking clauses (ii) through (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1831` | replace | by striking the semicolon at the end and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1831` | replace | in subsection (c)(4)(A), by striking the matter proposed to be inserted and inserting “Certification.—”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1831` | strike | by striking subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1831` | amend | in subparagraph (B), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1831` | strike | by striking paragraphs (4) and (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | in clause (iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1846` | insert | in subsection (f)(6)(A), in the matter to be inserted, by inserting a period after “Oversight”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1846` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | replace | in the table of subchapters to be inserted by subsection (a), by striking the item relating to the second subchapter III (relating to contractors) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | insert | in subsection (e)(3)(A), by inserting “section” before “4376(a)(1)” in the matter to be inserted. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1848` | strike | Section 1848(d) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1850` | redesignate | Section 1850(e)(2) is amended by inserting “transferred and” before “redesignated”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1856` | replace | in subection (f)(5)(A), in the matter to be inserted, by striking the comma at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1866` | insert | in paragraph (1), by inserting “and” at the end; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1866` | replace | in paragraph (2), by striking “; and” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1866` | strike | by striking paragraph (3) (including the amendment made by that paragraph); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4818` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4817` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1870` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1870` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4375` | replace | by striking “under the program (i) expressed as” and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4375` | replace | by striking “or subprogram, and (ii) expressed as” and inserting “or subprogram; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 2302` | strike | in subsection (k)(2), by striking “(as defined in section 2302(5) of this title)”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4171` | strike | in subparagraph (A), by striking “within the meaning” and all that follows through “this title”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4375` | strike | in subparagraph (A), by striking “or (b)(2)”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4375` | strike | by striking “or (b)(2)” ; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 2500` | strike | in clause (i), by striking “(as defined in section 2500(1) of this title)”; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 4872 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | The table of sections at the beginning of such chapter, as added by section 1842(a) of the FY2021 NDAA (as amended by this section), is amended by inserting after the item relating to section 4093 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | strike | The table of sections at the beginning of chapter 136 is amended by striking the item relating to section 2283. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | strike | The table of sections at the beginning of chapter 165 is amended by striking the item relating to section 2784. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | insert | The table of sections at the beginning of chapter 203, as added by section 1807(a) of the FY2021 NDAA, is amended in the item relating to section 3064 by inserting “of” after “Applicability”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1847` | replace | The table of sections at the beginning of chapter 223, as added by section 1813(a) of such Act, is amended by striking the item relating to section 3248 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | strike | The table of sections at the beginning of subchapter II of chapter 273, as added by section 1832(j) of such Act, is amended by striking the items relating to sections 3764 and 3765. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | replace | The table of sections at the beginning of subchapter III of chapter 275, as added by section 1833(n) of such Act, is amended by striking the item relating to section 3792 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | replace | The table of sections at the beginning of subchapter I of chapter 322, as added by section 1847(a), is amended by striking the item relating to section 4212 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | replace | The table of sections at the beginning of subchapter II of chapter 322, as added by section 1847(a), is amended by striking the item relating to section 4232 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1848` | replace | The table of sections at the beginning of chapter 323, as added by section 1848(a), is amended by striking the item relating to section 4324 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1847` | replace | The table of sections at the beginning of chapter 382, as added by section 1867(a) of such Act, is amended by striking the item relating to section 4814 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | in the items for chapters 203, 205, and 207, by striking the section number at the end of each item and inserting “3061”, “3101”, and “3131”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking the item for chapter 247 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | in the item for chapter 251, by striking the section number at the end and inserting “3571”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking the item for chapter 257 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the last word in the item for the heading for subpart D and inserting “Provisions”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | amend | The heading of subpart D of part V is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | The heading of subchapter II of chapter 273, as added by section 1832(j) of the FY2021 NDAA, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | in each of the items relating to sections 3003 and 3005 in the table of sections at the beginning of subchapter I, by striking the text after the section designation and inserting “Reserved.”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking section 3003 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking section 3005 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1810` | replace | In the table of contents for chapter 209 inserted by section 1810(a), by striking the text after the subchapter II designation and inserting “Reserved”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1810` | amend | Section 1810(d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1810` | add-at-end | Chapter 209 of title 10, United States Code, is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1813` | replace | The matter inserted by section 1813(h) is amended by striking the text after the chapter designation and inserting “Reserved”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | in the item relating to section 3324 in the table of sections, by striking the text after the section designation and inserting “Reserved.”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking section 3324 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the text after the chapter designation for chapter 253 in each place and insert… | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | in the matter inserted by subsection (a), by striking the text after the chapter designation and inserting “Reserved”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | in the matter inserted by subsection (b), by striking the text after the chapter designation and inserting “Reserved”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking the text after the chapter designation and inserting “Reserved”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking all after the chapter heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | The matter inserted by section 1835(a) is amended in the table of sections by striking the text after the section designation in each of the items relating to sections 3843, 3844, and 3846 and inserting “Reserved.”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking the matter inserted by paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking matter inserted by paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the text after the chapter designation for chapter 283 in each place and insert… | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | amend | Section 1837 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115– 232), is amended by striking chapter 283 and inserting the follo… | the bill names no machine-readable US Code section |
-| — | replace | in the matter to be inserted by subsection (a), by striking the text following the designation of chapter 343 and inserting “Reserved”; and | the bill names no machine-readable US Code section |
-| — | insert | by amending the matter to be inserted by subsection (j) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | Section 1871 is amended by amending the matter to be inserted by subsection (a)(2)— | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the item relating to subchapter I the following new item: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the item relating to section 4901 the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 1807(b) of the FY2021 NDAA is amended in the matter to be inserted by paragraph (1), by striking “shall prescribe” and inserting “is required by section 2202 of this title to prescribe”. | the bill names no machine-readable US Code section |
-| — | replace | in the table of sections for subchapter I, by striking the items relating to sections 3501 through 3511 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the section headings for sections 3501 through 3511 and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking subsections (b) through (l); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following new section: | the bill names no machine-readable US Code section |
-| — | replace | in the table of sections, by striking the items relating to sections 3531 through 3535 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the section headings for sections 3531 through 3535 and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating such subsection (m) as subsection (c); | the bill names no machine-readable US Code section |
-| — | strike | by striking subsections (n) through (s); | the bill names no machine-readable US Code section |
-| — | redesignate | by adding after subsection (c) (as so redesignated) the following new subsection: | the bill names no machine-readable US Code section |
-| — | redesignate | Such section is further amended by redesignating subsection (t) as subsection (e). | the bill names no machine-readable US Code section |
-| — | replace | in the section heading, by striking the penultimate word in the heading and inserting “Other contracting”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the penultimate word in the chapter heading in the matter inserted by subsection (a) and inserting “Other Contracting”. | the bill names no machine-readable US Code section |
-| — | replace | The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the item relating to chapter 287 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “inserted after section 4951, redesignated as section 4952” and inserting “inserted after section 4953, redesignated as section 4954”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter to be inserted by subparagraph (B)(ii), by striking “section 4957(b)” and inserting “section 4959(b)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4952” and inserting “section 4954”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4953” and inserting “section 4955”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter to be inserted by subparagraph (B), by striking “section 4951(b)(1)(D)” and inserting “section 4951(1)(D)”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter to be inserted by subparagraph (C), by striking “section 4957(b)” and inserting “section 4959(b)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4953” and inserting “section 4955”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4954” and inserting “section 4956”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4954” and inserting “section 4956”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4955” and inserting “section 4957”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4955” and inserting “section 4957”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4956” and inserting “section 4958”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4956” and inserting “section 4958”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4957” and inserting “section 4959”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “inserted after section 4957, as added by paragraph (10),” and inserting “added at the end of such chapter”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4959” and inserting “section 4961”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1872(a)(B) of the FY2021 NDAA is amended by striking the matter to be inserted and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | in the table of sections, by adding at the following new item: | the bill names no machine-readable US Code section |
-| — | amend | by adding after the heading for section 3807 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1834 is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | by striking the subsection designation and subsection heading; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subsections (a), (b), and (c), respectively. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “Repair, maintenance, or overhaul of naval vessels: rate for progress payments.—” before “The Secretary of the Navy”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “Authority to advance funds for immediate salvage operations.—” before “The Secretary of the Navy”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “this paragraph” in the second sentence and inserting “this subsection”. | the bill names no machine-readable US Code section |
-| — | redesignate | Subsection (c) of such section 3808, as so transferred and redesignated, is amended by inserting “Security for construction and conversion of naval vessels.—” before “The Secretary of the Navy”. | the bill names no machine-readable US Code section |
-| — | replace | Section 8702(c) is amended by striking “section 2307(g)(2)” and inserting “section 3808(b)”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 1876 is repealed. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (a) section 1849 of the FY2021 NDAA is amended in the matter to be inserted by striking all after the chapter heading and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (b) of such section 1849 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The section heading for section 1849 of the FY2021 NDAA is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 1849 of the FY2021 NDAA is amended in the matter to be inserted by striking the text after the chapter designation and inserting “Selected Acquisition Reports”. | the bill names no machine-readable US Code section |
-| — | amend | Subsection (c) of such section 1849 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2431” in subparagraph (A) and inserting “section 4205”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2433(a)(2)” in subparagraph (B)(i) and inserting “section 4371(a)(4)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2435(d)(1)” in subparagraph (B)(ii) and inserting “section 4214(d)(1)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2435(d)(2)” in subparagraph (B)(iii) and inserting “section 4214(d)(2)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2432(e)(4)” in subparagraph (B)(iv) and inserting “section 4355(4)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2446a” in subparagraph (G) and inserting “section 4401”. | the bill names no machine-readable US Code section |
-| — | amend | Subsection (d) of such section 1849 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (h)(2)(A) of such section, as so transferred and redesignated, is amended by striking “section 2431” and inserting “section 4205”. | the bill names no machine-readable US Code section |
-| — | strike | by striking subsections (e) through (k); and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(2)(D), by striking “section 4353(a)” in the matter to be inserted and inserting “section 4351(c)(1)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(2)(C), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(5)(C), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g)(1), by striking “section 4351” in the matter to be inserted and inserting “section 4351(a)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(4)(B)(iii), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(1)(A)(i), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(2)(C)(ii), by striking “sections 4351 through 4358” in the matter to be inserted and inserting “section 4351”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e)(1)(A), by striking “section 4351(2)” in the matter to be inserted and inserting “section 4351(a)(2)”; | the bill names no machine-readable US Code section |
-| — | replace | in section 1849(f) (as so redesignated), by striking “chapter 324” in the matter to be inserted and inserting “section 4351”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(3)(A)(ii), by striking “section 4351” in the matter to be inserted and inserting “section 4351(a)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(2), by striking “section 4358” in the matter to be inserted and inserting “section 4351(h)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e)(4)(A), by striking “section 4352(c)” in the matter to be inserted and inserting “section 4351(b)(3)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h)(2)(C)(ii), by striking “and inserting” and all that follows through “respectively” and inserting “and inserting section 4351(e) and section 4351(f), respectively”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (j)(3)(B)(ii), by striking “section 4356(a)” in the matter to be inserted and inserting “section 4351(f)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (k)(4)(D), by striking “section 4352” in the matter to be inserted and inserting “section 4351”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (k)(6)(D)(i)(II), by striking “section 4356” in the matter to be inserted and inserting “section 4351(f)”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2522.—Section 2522 of title 10, United States Code, is” and inserting | the bill names no machine-readable US Code section |
-| — | replace | by striking “as section 4843” and inserting “as sections 4843, 4844, and 4845, respectively”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 4844, as transferred and redesignated by paragraph (1), is amended in subsection (a)(6), by striking “section 2196” and inserting “section 4843”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1869(a) of the FY2021 NDAA is amended in the matter to be inserted by striking the item relating to section 4843 and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of chapter 111 of title 10, United States Code, is amended by striking the items relating to sections 2196 and 2197. | the bill names no machine-readable US Code section |
-| — | strike | by striking “2358b,”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “4064,”. | the bill names no machine-readable US Code section |
-| — | insert | Subtitle J of title XVIII of the FY2021 NDAA is amended by inserting after section 1878 the following new section: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1806` | replace | in the matter to be inserted by subsection (a), by striking the text following the designation of chapter 343 and inserting “Reserved”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | insert | by amending the matter to be inserted by subsection (j) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | Section 1871 is amended by amending the matter to be inserted by subsection (a)(2)— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting after the item relating to subchapter I the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting after the item relating to section 4901 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | in the table of sections for subchapter I, by striking the items relating to sections 3501 through 3511 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the section headings for sections 3501 through 3511 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking subsections (b) through (l); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting after subsection (a) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | in the table of sections, by striking the items relating to sections 3531 through 3535 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the section headings for sections 3531 through 3535 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | by redesignating such subsection (m) as subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking subsections (n) through (s); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | by adding after subsection (c) (as so redesignated) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | Such section is further amended by redesignating subsection (t) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | in the section heading, by striking the penultimate word in the heading and inserting “Other contracting”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | by striking the penultimate word in the chapter heading in the matter inserted by subsection (a) and inserting “Other Contracting”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | replace | The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the item relating to chapter 287 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | Section 1872(a)(B) of the FY2021 NDAA is amended by striking the matter to be inserted and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | in the table of sections, by adding at the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | by adding after the heading for section 3807 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | add-at-end | Section 1834 is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking the subsection designation and subsection heading; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | by redesignating paragraphs (1), (2), and (3) as subsections (a), (b), and (c), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting “Repair, maintenance, or overhaul of naval vessels: rate for progress payments.—” before “The Secretary of the Navy”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting “Authority to advance funds for immediate salvage operations.—” before “The Secretary of the Navy”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | redesignate | Subsection (c) of such section 3808, as so transferred and redesignated, is amended by inserting “Security for construction and conversion of naval vessels.—” before “The Secretary of the Navy”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | repeal | Section 1876 is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | Subsection (a) section 1849 of the FY2021 NDAA is amended in the matter to be inserted by striking all after the chapter heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | Subsection (b) of such section 1849 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | The section heading for section 1849 of the FY2021 NDAA is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | Section 1849 of the FY2021 NDAA is amended in the matter to be inserted by striking the text after the chapter designation and inserting “Selected Acquisition Reports”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | amend | Subsection (c) of such section 1849 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | Subsection (d) of such section 1849 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking subsections (e) through (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking “section 2522.—Section 2522 of title 10, United States Code, is” and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | Section 1869(a) of the FY2021 NDAA is amended in the matter to be inserted by striking the item relating to section 4843 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | The table of sections at the beginning of chapter 111 of title 10, United States Code, is amended by striking the items relating to sections 2196 and 2197. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking “2358b,”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | strike | by striking “4064,”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | insert | Subtitle J of title XVIII of the FY2021 NDAA is amended by inserting after section 1878 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | The table of sections at the beginning of such subchapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | replace | in the matter to be inserted by subsection (a), by striking the item relating to section 4274 in the table of sections for subchapter IV and inserting: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (e), by striking paragraphs (4), (5), and (6)(B). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1808(d) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Sections 7033(d)(5), 8033(d)(5), 8043(e)(5), and 9033(d)(5) of such title are amended by striking “and 2547” and inserting “and 3104”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “Transfer of” and all that follow through “(B)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “paragraph (3)” in the matter to be inserted and inserting “section 4820 of this title”. | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “section 2501” and inserting “section 4811”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “chapter 148” and inserting “subchapters 381 through 385 and subchapter 389”. | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to sections 4871 and 4872 and inserting the following new items: | the bill names no machine-readable US Code section |
-| — | amend | by adding after the item relating to section 4873, as added by this section, the following new item: | the bill names no machine-readable US Code section |
-| — | replace | in the paragraph heading, by striking “sections 2533c and 2536” and inserting “sections 2327, 2533c, and 2536”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “sections 2533c and 2536 of title 10” and inserting “sections 2327, 2533c, and 2536 of title 10”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “sections 4871 and 4872” and inserting “sections 4871, 4872, and 4874”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “Section 4871” and inserting “Section 4872”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter inserted by subparagraph (B), by striking “4871” and inserting “4872”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter inserted by paragraph (4), by striking “section 4872(c)(1)” and inserting “section 4874(c)(1)”. | the bill names no machine-readable US Code section |
-| — | insert | The matter to be inserted by subsection (a)(2) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the item relating to chapter 301 the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to sections 4002, 4003, and 4004 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to sections 4008 and 4009 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to section 4015 and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “2302e, 2359,” after “2358,”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “and 2373” and inserting “, 2373, 2374, 2374a, and 2371a”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “4002, 4003, and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, 4007, 4021, 4022, 4023, 4024, 4025, and 4026” before “, respectively”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (b)(2)(A)(i) is amended by striking “by striking” and all that follows through the semicolon at the end and inserting “by striking section 2371 or 2371b and inserting section 4021 or 4022;”. | the bill names no machine-readable US Code section |
-| — | amend | Subsection (c) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting before section 4001, as transferred and redesignated by subsection (b)(1), the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting before section 4021, as transferred and redesignated by subsection (b)(1), the following: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (d)(1) is amended by striking “section 4009” and inserting “section 4007”. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(ii), by striking “sections 4004” in the matter to be inserted and inserting “section 4023”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(iii), by striking “sections 4002 and 4143” in the matter to be inserted and inserting “sections 4021 and 4026”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “Section 4002” and inserting “Section 4021”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “Section 4003” and inserting “Section 4022”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4002” in the matter to be inserted and inserting “section 4021”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 4004 of such title, as so transferred and redesignated, is amended by striking “section 2302(2)(B)” in subsection (a) and inserting “section 3012(2)”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (e)(2) is amended by striking “section 4003” in the matter to be inserted and inserting “section 4022”. | the bill names no machine-readable US Code section |
-| — | insert | The matter to be inserted by subsection (a) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “2361a” and all that follows through “2365” and inserting “2365, and 2357”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “after the table of sections” and inserting “after the heading for subchapter I”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “4063” and all that follows through “4066” and inserting “4066, and 4067”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (c)(1) is amended by striking “section 4065” in the matter to be inserted and inserting “section 4025”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1843 of the FY2021 NDAA is amended by striking the section heading and subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1806` | replace | in the matter to be inserted by subsection (a), by striking the item relating to section 4274 in the table of sections for subchapter IV and inserting: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | in subsection (e), by striking paragraphs (4), (5), and (6)(B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | add-at-end | Section 1808(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking “Transfer of” and all that follow through “(B)”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the items relating to sections 4871 and 4872 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | amend | by adding after the item relating to section 4873, as added by this section, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | The matter to be inserted by subsection (a)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting after the item relating to chapter 301 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the items relating to sections 4002, 4003, and 4004 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the items relating to sections 4008 and 4009 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the item relating to section 4015 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | by inserting “2302e, 2359,” after “2358,”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | strike | by striking “4002, 4003, and”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | insert | by inserting “, 4007, 4021, 4022, 4023, 4024, 4025, and 4026” before “, respectively”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1806` | amend | Subsection (c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | by inserting before section 4001, as transferred and redesignated by subsection (b)(1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | by inserting before section 4021, as transferred and redesignated by subsection (b)(1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | insert | The matter to be inserted by subsection (a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | Section 1843 of the FY2021 NDAA is amended by striking the section heading and subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Such subchapter III is further amended by inserting after section 4124, as transferred and redesignated by paragraph (1), the following: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (c) of such section 1843 is amended by striking “section 4103(a)” in the matter to be inserted and inserting “section 4123(a)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Such section 1843 is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Section 4124 of such title, as transferred and redesignated by subsection (b)(1), is amended in subsection (b)(3)(B)(ii), by striking “2358, 2371, 2511, 2539b, and 2563” and inserting “2563, 4001, 4021, 4831, and 4062”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “chapter 305, as added by the preceding section” and inserting “chapter 303, as added by section 1842”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the matter inserted by that subsection and inserting: | the bill names no machine-readable US Code section |
-| — | replace | Such section is further amended by striking subsections (b), (c), (d), and (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “chapter 307, as added by the preceding section” and inserting “chapter 305, as added by section 1844”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating the chapter added by that section as chapter 307. | the bill names no machine-readable US Code section |
-| — | replace | by striking “and 196” and inserting “196, 2353, and 2681”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 4171, 4172, and 4173” and inserting “sections 4171, 4172, 4173, 4174, and 4175”. | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections inserted by subsection (a) of such section is amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (c); and | the bill names no machine-readable US Code section |
-| — | replace | by striking the last item in the table of sections inserted by subsection (a). | the bill names no machine-readable US Code section |
-| — | strike | in subsection (b), by striking “2362,” and “3904,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to section 3904 in the table of sections inserted by subsection (a) and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of chapter 81 is amended by striking the item relating to section 1599h. | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of chapter 111 is amended by striking the item relating to section 2192a. | the bill names no machine-readable US Code section |
-| — | strike | The table of sections at the beginning of chapter 159 is amended by striking the item relating to section 2681. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1806` | add-at-end | Such section 1843 is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the matter inserted by that subsection and inserting: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | Such section is further amended by striking subsections (b), (c), (d), and (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | redesignate | by redesignating the chapter added by that section as chapter 307. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | add-at-end | The table of sections inserted by subsection (a) of such section is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | replace | by striking the last item in the table of sections inserted by subsection (a). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | in subsection (b), by striking “2362,” and “3904,”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1806` | replace | by striking the item relating to section 3904 in the table of sections inserted by subsection (a) and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | The table of sections at the beginning of chapter 81 is amended by striking the item relating to section 1599h. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | The table of sections at the beginning of chapter 111 is amended by striking the item relating to section 2192a. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1806` | strike | The table of sections at the beginning of chapter 159 is amended by striking the item relating to section 2681. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 423` | replace | Section 853(b) of such Act (6 U.S.C. 423(b)) is amended by striking paragraphs (1), (2), and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 425` | replace | in subsection (a)(2), by striking subparagraphs (A), (B), and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 426` | replace | Section 856(a) of such Act (6 U.S.C. 426(a)) is amended by striking paragraphs (1), (2), and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3758,12 +4888,10 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 661a` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (B). | the bill names no machine-readable US Code section |
-| — | replace | Chapter 504 of such title, as redesignated by paragraph (1), is amended in the chapter heading by striking “Miscellaneous” and inserting “Committees”. | the bill names no machine-readable US Code section |
-| — | redesignate | The section heading for section 50401 of such title, as redesignated by paragraph (3), is amended to read as follows: “United States Committee on the Marine Transportation System”. | the bill names no machine-readable US Code section |
-| — | replace | Section 8332(b)(1) of the Elijah E. Cummings Coast Guard Authorization Act of 2020 (division G of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283)) is amended by striking “secti… | the bill names no machine-readable US Code section |
-| — | redesignate | The analysis for chapter 504 of title 46, United States Code, as redesignated by subsection (a)(1), is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after the item relating to chapter 503 the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking the item relating to chapter 555. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 50401` | redesignate | The section heading for section 50401 of such title, as redesignated by paragraph (3), is amended to read as follows: “United States Committee on the Marine Transportation System”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55501` | redesignate | The analysis for chapter 504 of title 46, United States Code, as redesignated by subsection (a)(1), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55501` | insert | by inserting after the item relating to chapter 503 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 55501` | strike | by striking the item relating to chapter 555. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Part C of subtitle V of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “or subsection (d)” and inserting “or subsection (b)”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II) by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
