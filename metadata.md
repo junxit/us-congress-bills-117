@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4489
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4489
@@ -39,3 +39,11 @@ National Forest Restoration and Remediation Act
 - 2021-12-07 — Placed on the Union Calendar, Calendar No. 146.
 - 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-204.
 - 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-204.
+- 2021-12-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7531-7532)
+- 2021-12-08 — Considered under suspension of the rules. (consideration: CR H7490-7492)
+- 2021-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4489.
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill, as amended.
+- 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 42 (Roll no. 410). (text: CR H7490)
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 42 (Roll no. 410).(text: CR H7490)
