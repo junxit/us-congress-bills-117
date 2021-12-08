@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 29
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 29
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Braun, Mike [R-IN] (B001310)
 
-## Cosponsors (49)
+## Cosponsors (50)
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Hagerty, Bill [R-TN] (H000601)
@@ -67,6 +67,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
 
 ## Committees (1)
 
@@ -76,3 +77,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2021-11-17 — Introduced in Senate
 - 2021-11-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-12-08 — Measure laid before Senate by motion. (consideration: CR S9007, S9034)
+- 2021-12-08 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S9007)
+- 2021-12-08 — Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 489. (text: CR S9034)
+- 2021-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 489.(text: CR S9034)
+- 2021-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.
+- 2021-12-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2021-12-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
