@@ -21,29 +21,32 @@ Title III of the Public Health Service Act is amended by inserting after section
 >
 > - **(a)** *Stillbirth surveillance and risk factor studies*
 >   - **(1)** *In general* The Secretary may award grants to States for purposes of—
->     - **(A)** conducting surveillance and collecting data with respect to stillbirths; and
->     - **(B)** collecting and reporting data on stillbirth risk factors, including any quantifiable outcomes with respect to such risk factors.
+>     - **(A)** conducting surveillance and collecting data with respect to stillbirths;
+>     - **(B)** building State and local public health capacity to assess stillbirth data; and
+>     - **(C)** collecting and reporting data on stillbirth risk factors, including any quantifiable outcomes with respect to such risk factors.
 >   - **(2)** *Authorization of appropriations* To carry out this subsection, there is authorized to be appropriated $5,000,000 for each of fiscal years 2022 through 2026.
 > - **(b)** *Guidelines and educational awareness materials*
 >   - **(1)** *In general* The Secretary shall—
 >     - **(A)** issue guidelines to State departments of health and State and local vital statistics units on—
->       - **(i)** collecting data on stillbirth from health care providers, and with the consent of the family involved, including any such data with respect to the clinical history, postmortem examination, and placental pathology; and
+>       - **(i)** collecting data on stillbirth from health care providers, and with the consent of the family involved, including any such data with respect to the clinical history, postmortem examination, and placental pathology;
 >       - **(ii)** sharing such data with Federal agencies determined appropriate by the Director of the Centers for Disease Control and Prevention; and
+>       - **(iii)** improving processes and training related to stillbirth data collection and reporting to ensure standardization and completeness of data; and
 >     - **(B)** develop, and make publicly available, educational awareness materials on stillbirths.
->   - **(2)** *Consultation* In carrying out paragraph (1), the Secretary shall consult with—
+>   - **(2)** *Consultation* In carrying out paragraph (1), the Secretary may consult with—
 >     - **(A)** national health care professional associations;
->     - **(B)** obstetricians and gynecologists;
->     - **(C)** pediatricians;
->     - **(D)** maternal-fetal medicine specialists;
->     - **(E)** midwives;
->     - **(F)** mental health professionals;
->     - **(G)** statisticians;
->     - **(H)** individuals who have experienced a stillbirth; and
->     - **(I)** advocacy organizations representing such individuals.
+>     - **(B)** national associations representing State and local public health officials;
+>     - **(C)** organizations that assist families with burial support and bereavement services;
+>     - **(D)** nurses and nurse practitioners;
+>     - **(E)** obstetricians and gynecologists;
+>     - **(F)** pediatricians;
+>     - **(G)** maternal-fetal medicine specialists;
+>     - **(H)** midwives;
+>     - **(I)** mental health professionals;
+>     - **(J)** statisticians;
+>     - **(K)** individuals who have experienced a stillbirth; and
+>     - **(L)** advocacy organizations representing such individuals.
 >   - **(3)** *Authorization of appropriations* To carry out this subsection, there is authorized to be appropriated $1,000,000 for each of fiscal years 2022 through 2026.
-> - **(c)** *Definitions* In this section:
->   - **(1)** *Stillbirth* The term stillbirth means the death or loss of a baby before or during delivery, occurring at or after 20 weeks of pregnancy.
->   - **(2)** *Vital statistics unit* The term vital statistics unit means the entity that is responsible for maintaining vital records for a State, or a political subdivision of such State, including official records of live births, deaths, fetal deaths, marriages, divorces, and annulments.
+> - **(c)** *Vital statistics unit defined* In this section, the term vital statistics unit means the entity that is responsible for maintaining vital records for a State, or a political subdivision of such State, including official records of live births, deaths, fetal deaths, marriages, divorces, and annulments.
 
 ## § 3. Perinatal pathology fellowships
 
@@ -51,15 +54,15 @@ The Public Health Service Act is amended by inserting after section 1122 of such
 
 > ## § 1123. Improving perinatal pathology
 >
-> - **(a)** *In general* The Secretary shall establish and implement a Perinatal Pathology Fellowship Program to—
->   - **(1)** provide postgraduate training in perinatal autopsy pathology;
->   - **(2)** conduct research on, and improve data collection with respect to, fetal autopsies; and
+> - **(a)** *In general* The Secretary shall establish and implement, or incorporate into an existing training program, a Perinatal Pathology Fellowship Program or a Postdoctoral Research Fellowship on Factors Associated with Stillbirth Program to—
+>   - **(1)** provide training in perinatal autopsy pathology;
+>   - **(2)** conduct research on, and improve data collection through fetal autopsies with respect to, stillbirth; and
 >   - **(3)** address challenges in stillbirth education, research, and data collection.
 > - **(b)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2022 through 2026.
 
 ## § 4. Reports
 
-- **(a)** *Report by Surgeon General*
-  - **(1)** *In general* Not later than five years after the date of enactment of this Act, the Surgeon General of the Public Health Service shall publish on a public website of the Department of Health and Human Services a report with educational guidelines on stillbirth and stillbirth risk factors.
+- **(a)** *Educational guidelines report*
+  - **(1)** *In general* Not later than five years after the date of enactment of this Act, the Secretary of Health and Human Services shall publish on a public website of the Department of Health and Human Services a report with educational guidelines on stillbirth and stillbirth risk factors.
   - **(2)** *Contents* Such report shall include, to the extent practicable and appropriate, the guidelines issued and educational awareness materials developed under section 317L–2 of the Public Health Service Act, as added by section 2 of this Act.
-- **(b)** *Report by Secretary of Health and Human Services* Not later than five years after the date of enactment of this Act, the Secretary of Health and Human Services shall submit to the Congress a comprehensive report on the progress and effectiveness of the Perinatal Pathology Fellowship Program established under section 1123 of the Public Health Service Act, as added by section 3 of this Act.
+- **(b)** *Progress report* Not later than five years after the date of enactment of this Act, the Secretary of Health and Human Services shall submit to the Congress a comprehensive report on the progress and effectiveness of the Perinatal Pathology Fellowship Program established under section 1123 of the Public Health Service Act, as added by section 3 of this Act.
