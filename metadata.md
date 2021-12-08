@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5982
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5982
@@ -30,3 +30,11 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 - 2021-11-30 — Placed on the House Calendar, Calendar No. 51.
 - 2021-11-30 — Reported by the Committee on Judiciary. H. Rept. 117-192.
 - 2021-11-30 — Reported by the Committee on Judiciary. H. Rept. 117-192.
+- 2021-12-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-12-01 — Considered under suspension of the rules. (consideration: CR H6817-6833)
+- 2021-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5982.
+- 2021-12-01 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7550-7551)
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 435). (text: 12/01/2021 CR H6817-6832)
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 435).(text: CR 12/01/2021 H6817-6832)
