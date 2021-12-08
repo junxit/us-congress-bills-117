@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3743
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
