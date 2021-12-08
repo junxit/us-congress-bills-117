@@ -18,4 +18,8 @@ This Act may be cited as the “Allied Health Workforce Diversity Act of 2021”
 Title VII of the Public Health Service Act is amended—
 
 - **(1)** by redesignating part G (42 U.S.C. 295j et seq.) as part H; and
-- **(2)** by inserting after part F (42 U.S.C. 294n et seq.) the following new part:
+- **(2)** by inserting after part F (42 U.S.C. 295h) the following new part:
+
+## § 3. Eligibility clarification regarding students supported through mental and behavioral health education and training grants
+
+Section 756(a)(1) of the Public Health Service Act (42 U.S.C. 294e–1(a)(1)) is amended by inserting after “occupational therapy” the following: “(which may include master’s and doctoral level programs)”.
