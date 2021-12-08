@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3531
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3531
@@ -53,3 +53,7 @@ Women Who Worked on the Home Front World War II Memorial Act
 - 2021-12-01 — Placed on the Union Calendar, Calendar No. 141.
 - 2021-12-01 — Reported by the Committee on Natural Resources. H. Rept. 117-197.
 - 2021-12-01 — Reported by the Committee on Natural Resources. H. Rept. 117-197.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7545)
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 428).
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 428).
