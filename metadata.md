@@ -1,7 +1,7 @@
 ---
 measure: H.R. 897
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 897
@@ -44,3 +44,7 @@ Agua Caliente Land Exchange Fee to Trust Confirmation Act
 - 2021-12-01 — Placed on the Union Calendar, Calendar No. 138.
 - 2021-12-01 — Reported by the Committee on Natural Resources. H. Rept. 117-194.
 - 2021-12-01 — Reported by the Committee on Natural Resources. H. Rept. 117-194.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7543-7544)
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 426).
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 426).
