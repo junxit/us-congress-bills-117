@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4616
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 77ppp` | strike | by striking “and” after “of subsection (a),” in subsection (b); and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 77ppp` | insert | by inserting “, and except that the right of any holder of any indenture security to receive payment of the principal of and interest on such indenture security shall not be deemed to be impaired or affected by any change occurring by th… | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087-1` | add-at-end | Section 438(b)(2)(I) of the Higher Education Act of 1965 (20 U.S.C. 1087–1(b)(2)(I)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-1` | amend | For loans described in subclause (III) or (IV), the special allowance payment described in this subclause shall be substituted for the payment provided under clause (vii). For each calendar quarter, the formula for computing the special … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

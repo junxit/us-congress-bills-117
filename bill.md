@@ -33,15 +33,15 @@ As used in this Act, the following terms shall have the following meanings:
 - **(2)** “Benchmark Administrator” means a person that publishes a Benchmark for use by third parties.
 - **(3)** “Benchmark Replacement” shall mean a Benchmark, or an interest rate or dividend rate (which may or may not be based in whole or in part on a prior setting of LIBOR), to replace LIBOR or any interest rate or dividend rate based on LIBOR, whether on a temporary, permanent, or indefinite basis, under or in respect of a LIBOR Contract.
 - **(4)** “Benchmark Replacement Conforming Changes” shall mean any technical, administrative, or operational changes, alterations, or modifications that—
-  - **(A)** the Board establishes for the purpose of facilitating the implementation, administration, and calculation of the Board-Selected Benchmark Replacement; or
-  - **(B)** in the reasonable judgment of a Calculating Person, are otherwise necessary or appropriate to permit the implementation, administration, and calculation of the Board-Selected Benchmark Replacement under or in respect of a LIBOR Contract after giving due consideration to any Benchmark Replacement Conforming Changes under subparagraph (A).
+  - **(A)** the Board determines, in its discretion, would address one or more issues affecting the implementation, administration, and calculation of the Board-Selected Benchmark Replacement in LIBOR contracts; or
+  - **(B)** solely with respect to a LIBOR Contract that is not a Consumer Loan, in the reasonable judgment of a Calculating Person, are otherwise necessary or appropriate to permit the implementation, administration, and calculation of the Board-Selected Benchmark Replacement under or in respect of a LIBOR Contract after giving due consideration to any Benchmark Replacement Conforming Changes under subparagraph (A).
 - **(5)** “Board” means the Board of Governors of the Federal Reserve System.
 - **(6)**
   - **(A)** “Board-Selected Benchmark Replacement” shall mean a Benchmark Replacement identified by the Board that is based on SOFR.
   - **(B)** The Board shall adjust the Board-Selected Benchmark Replacement for each category of LIBOR Contract that the Board may identify to—
     - **(i)** apply to each LIBOR tenor; and
     - **(ii)** incorporate the relevant Tenor Spread Adjustment.
-      - **(C)** For Consumer Loans, the Board-Selected Benchmark Replacement shall initially reflect the spread between the Board-Selected Benchmark Replacement and LIBOR immediately before the LIBOR Replacement Date and shall incorporate the relevant Tenor Spread Adjustment over a one-year transition period.
+  - **(C)** For Consumer Loans, the Board-Selected Benchmark Replacement shall initially reflect the spread between the Board-Selected Benchmark Replacement and LIBOR immediately before the LIBOR Replacement Date and shall incorporate the relevant Tenor Spread Adjustment over a one-year transition period.
 - **(7)** “Calculating Person” shall mean, with respect to any LIBOR Contract, any person (which may be the Determining Person) responsible for calculating or determining any valuation, payment, or other measurement based on a Benchmark.
 - **(8)** “Consumer Loan” shall mean a consumer credit transaction. For purposes of this paragraph, the terms “consumer” and “credit” have the meaning given those terms, respectively, under section 103 of the Truth in Lending Act (15 U.S.C. 1602).
 - **(9)** “Determining Person” shall mean, with respect to any LIBOR Contract, any person with the authority, right, or obligation, including on a temporary basis, (as identified by the provisions of the LIBOR Contract, or as identified by the governing law of the LIBOR Contract, as appropriate) to determine a Benchmark Replacement.
@@ -80,7 +80,7 @@ As used in this Act, the following terms shall have the following meanings:
   - **(2)** any LIBOR Contract that contains Fallback Provisions that identify a Benchmark Replacement that is not based in any way on any LIBOR value (including, but not limited to, the prime rate or the Effective Federal Funds Rate), except that such LIBOR Contract shall be subject to subsection (b);
   - **(3)** any LIBOR Contract subject to subsection (c) as to which a Determining Person does not elect to use a Board-Selected Benchmark Replacement pursuant to subsection (c), except to the extent that such LIBOR Contract is subject to subsection (b) or (e);
   - **(4)** the application to a Board-Selected Benchmark Replacement of any cap, floor, modifier, or spread adjustment to which LIBOR had been subject pursuant to the terms of a LIBOR Contract; or
-  - **(5)** any provisions of Federal consumer financial law that requires creditors to notify borrowers regarding a change-in-terms.
+  - **(5)** any provisions of Federal consumer financial law that require creditors to notify borrowers regarding a change-in-terms or that govern the reevaluation of rate increases on credit card accounts under open-end (not home-secured) consumer credit plans.
 - **(h)** Except as provided in section 5(c), the provisions of this Act shall not alter or impair the rights or obligations of any person, or the authorities of any agency, under Federal consumer financial law (as defined in section 1002(14) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5481(14)).
 
 ## § 5. Continuity of contract and safe harbor
@@ -92,9 +92,12 @@ As used in this Act, the following terms shall have the following meanings:
   - **(4)** substantial performance by any person of any right or obligation relating to or based on LIBOR; and
   - **(5)** a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act and its implementing regulations.
 - **(b)** Neither of (1) the selection or use of a Board-Selected Benchmark Replacement as a Benchmark Replacement or (2) the determination, implementation, or performance of Benchmark Replacement Conforming Changes, in each case by operation of section 4, shall (A) be deemed to impair or affect the right of any person to receive a payment, or to affect the amount or timing of such payment, under any LIBOR Contract or (B) have the effect of (i) discharging or excusing performance under any LIBOR Contract for any reason, claim, or defense (including, but not limited to, any force majeure or other provision in any LIBOR Contract), (ii) giving any person the right to unilaterally terminate or suspend performance under any LIBOR Contract, (iii) constituting a breach of any LIBOR Contract, or (iv) voiding or nullifying any LIBOR Contract.
-- **(c)** No person shall be subject to any claim or cause of action in law or equity or request for equitable relief, or have liability for damages, arising solely out of the selection or use of a Board-Selected Benchmark Replacement or the determination, implementation, or performance of Benchmark Replacement Conforming Changes, in each case by operation of section 4; provided, however, that any person (including a Calculating Person) shall remain subject to any existing legal, regulatory, or contractual obligations to correct servicing or other ministerial errors under or in respect of a LIBOR Contract.
+- **(c)** No person shall be subject to any claim or cause of action in law or equity or request for equitable relief, or have liability for damages, arising out of—
+  - **(1)** the selection or use of a Board-Selected Benchmark Replacement,
+  - **(2)** the implementation of Benchmark Replacement Conforming Changes, or
+  - **(3)** with respect to a LIBOR Contract that is not a Consumer Loan, the determination of Benchmark Replacement Conforming Changes,
 - **(d)** The selection or use of a Board-Selected Benchmark Replacement or the determination, implementation, or performance of Benchmark Replacement Conforming Changes, in each case by operation of section 4, shall not be deemed to—
-  - **(1)** be an amendment or modification of any LIBOR Contract; or
+  - **(1)** be an amendment or modification of any LIBOR Contract for the purpose of the governing law of such LIBOR Contract; or
   - **(2)** prejudice, impair, or affect any person’s rights, interests, or obligations under or in respect of any LIBOR Contract.
 - **(e)** Except as provided in either subsections (a), (b), or (c) of section 4, the provisions of this Act shall not be interpreted as creating any negative inference or negative presumption regarding the validity or enforceability of—
   - **(1)** any Benchmark Replacement (including any method for calculating, determining, or implementing an adjustment to the Benchmark Replacement to account for any historical differences between LIBOR and the Benchmark Replacement) that is not a Board-Selected Benchmark Replacement; or
@@ -116,10 +119,21 @@ Section 316 of the Trust Indenture Act of 1939 (15 U.S.C. 77ppp) is amended—
 
 Not later than 180 days after the date of enactment of this Act, the Board shall issue such regulations as may be necessary or appropriate to enable it to administer and carry out the purposes of this Act.
 
-## § 9. Interbank offered rate transition rule of construction
+## § 9. Revised calculation rule to address instances where 1-month USD LIBOR ceases or is non-representative
 
-None of—
+Section 438(b)(2)(I) of the Higher Education Act of 1965 (20 U.S.C. 1087–1(b)(2)(I)) is amended by adding at the end the following:
 
-- **(1)** the selection or use of a Board-Selected Benchmark Replacement as a Benchmark Replacement,
-- **(2)** the determination, implementation, or performance of Benchmark Replacement Conforming Changes; or
-- **(3)** the application to any LIBOR Contract of, or the agreement by parties thereto to terms consistent with, section 4,
+> - **(viii)** *Revised calculation rule to address instances where 1-month USD LIBOR ceases or is non-representative*
+>   - **(I)** *Substitute reference index* The provisions of this clause apply to loans for which the special allowance payment would otherwise be calculated pursuant to clause (vii).
+>   - **(II)** *Calculation based on SOFR* For loans described in subclause (III) or (IV), the special allowance payment described in this subclause shall be substituted for the payment provided under clause (vii). For each calendar quarter, the formula for computing the special allowance that would otherwise apply under clause (vii) shall be revised by substituting “of the quotes of the 30-day Average Secured Overnight Financing Rate (SOFR) in effect for each of the days in such quarter as published by the Federal Reserve Bank of New York (or a successor administrator), adjusted daily by adding the Tenor Spread Adjustment, as that term is defined in the Adjustable Interest Rate (LIBOR) Act of 2021, for 1-month LIBOR contracts of 0.11448 percent” for “of the 1-month London Inter Bank Offered Rate (LIBOR) for United States dollars in effect for each of the days in such quarter as compiled and released by the British Bankers Association”. The special allowance calculation for loans subject to clause (vii) shall otherwise remain in effect.
+>   - **(III)** *Loans eligible for SOFR-based calculation* Except as provided in subclause (IV), the special allowance payment calculated under subclause (II) shall apply to all loans for which the holder (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) at any time after the effective date of this clause notifies the Secretary that the holder or beneficial owner affirmatively and permanently elects to waive all contractual, statutory, or other legal rights to a special allowance paid under clause (vii) or to the special allowance paid pursuant to any other formula that was previously in effect with respect to such loan, and accepts the rate described in subclause (II). Any such waiver shall apply to all loans then held, or to be held from time to time, by such holder or beneficial owner; provided that, due to the need to obtain the approval of one of the following, demonstrated to the satisfaction of the Secretary—
+>     - **(aa)** one or more third parties with a legal or beneficial interest in loans eligible for the SOFR-based calculation, or
+>     - **(bb)** a nationally recognized rating organization assigning a rating to a financing secured by loans otherwise eligible for the SOFR-based calculation,
+>   - **(IV)** *Fallback provisions*
+>     - **(aa)** In the event that a holder or beneficial owner has not elected to waive its rights to a special allowance payment under clause (vii) with respect to a portfolio with an effective date of the waiver prior to the first of—
+>       - **(AA)** the date on which the ICE Benchmark Administration (“IBA”) has permanently or indefinitely stopped providing the 1-month United States Dollar LIBOR (“1-month USD LIBOR”) to the general public,
+>       - **(BB)** the effective date of an official public statement by the IBA or its regulator that the 1-month USD LIBOR is no longer reliable or no longer representative, or
+>       - **(CC)** the LIBOR Replacement Date, as that term is defined in section 3 of the Adjustable Interest Rate (LIBOR) Act of 2021,
+>     - **(bb)** In such event—
+>       - **(AA)** the last determined rate of special allowance based on 1-month USD LIBOR will continue to apply until the end of the then current calendar quarter; and
+>       - **(BB)** the special allowance rate calculation as described in subclause (II) shall become effective as of the first day of the following calendar quarter and remain in effect for all subsequent calendar quarters.
