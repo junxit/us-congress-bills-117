@@ -2,7 +2,7 @@
 legis-num: H. RES. 317
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 317
@@ -23,8 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas this is indicative of a systematic effort to eradicate the ethnic and cultural identity and religious beliefs, and prevent the births of, Uyghurs, ethnic Kazakhs and Kyrgyz, and members of religious minority groups;
 - Whereas the birth rate in the Xinjiang region fell by 24 percent in 2019 compared to a 4.2 percent decline nationwide;
 - Whereas, on January 19, 2021, the Department of State determined the PRC Government, under the direction and control of the CCP, has committed crimes against humanity and genocide against Uyghurs and other ethnic and religious minority groups in Xinjiang;
-- Whereas, on the same day, then-Secretary of State designate Antony Blinken stated during a hearing on his nomination before the Senate Foreign Relations Committee that those atrocity determinations would be his judgment as well;
-- Whereas, on February 24, 2021, the spokesperson for the Department of State stated, “Secretary Blinken has determined that what has taken place in Xinjiang was genocide” and that “it constitutes crimes against humanity”;
+- Whereas Secretary of State Antony Blinken and Former Secretary of State Michael Pompeo have both stated that what has taken place in Xinjiang is genocide and constitutes crimes against humanity;
 - Whereas Article VIII of the Genocide Convention provides, “Any Contracting Party may call upon the competent organs of the United Nations to take such action under the Charter of the United Nations as they consider appropriate for the prevention and suppression of acts of genocide”;
 - Whereas the International Court of Justice has stated that it is the obligation of all state parties to the Genocide Convention to “employ all means reasonably available to them, so as to prevent genocide so far as possible”; and
 - Whereas the United States is a Permanent Member of the United Nations Security Council: Now, therefore, be it
