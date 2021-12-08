@@ -19,22 +19,27 @@ Section 317C of the Public Health Service Act (42 U.S.C. 247b–4) is amended—
 
 - **(1)** by striking subsection (a)(4) and inserting the following:
   > - **(4)** *Specific programs* The Secretary, acting through the Director of the Center, shall continue to carry out programs related to—
-  >   - **(A)** birth defects;
-  >   - **(B)** folic acid;
-  >   - **(C)** cerebral palsy;
-  >   - **(D)** intellectual disabilities;
-  >   - **(E)** child development;
-  >   - **(F)** newborn screening;
-  >   - **(G)** autism;
-  >   - **(H)** fragile X syndrome;
-  >   - **(I)** fetal alcohol syndrome;
-  >   - **(J)** pediatric genetic disorders;
-  >   - **(K)** disability prevention; and
-  >   - **(L)** or other relevant diseases, disorders, or conditions, as determined the Secretary.
+  >   - **(A)** early identification of developmental delay and disability;
+  >   - **(B)** birth defects;
+  >   - **(C)** folic acid;
+  >   - **(D)** cerebral palsy;
+  >   - **(E)** intellectual disabilities;
+  >   - **(F)** child development;
+  >   - **(G)** newborn screening;
+  >   - **(H)** autism;
+  >   - **(I)** fragile X syndrome;
+  >   - **(J)** fetal alcohol spectrum disorders and other conditions related to prenatal substance use;
+  >   - **(K)** pediatric genetic disorders;
+  >   - **(L)** neuromuscular diseases;
+  >   - **(M)** congenital heart defects;
+  >   - **(N)** attention-deficit/hyperactivity disorder;
+  >   - **(O)** stillbirth;
+  >   - **(P)** Tourette Syndrome; or
+  >   - **(Q)** any other relevant disease, disability, disorder, or condition, as determined the Secretary.
 
 - **(2)** in subsection (c), in the matter preceding paragraph (1), by striking “Not later than February 1” and all that follows through “2 fiscal years—” and inserting the following: “The Secretary shall submit biennially to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report that—”; and
-- **(3)** in subsection (f), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting the following: “$175,000,000 for each of fiscal years 2022 through 2026”.
+- **(3)** in subsection (f), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting “$186,010,000 for each of fiscal years 2022 through 2026”.
 
-## § 3. Folic acid education and outreach
+## § 3. Effects of folic acid in prevention of birth defects
 
-Section 317J(e) of the Public Health Service Act (42 U.S.C. 247b–11(e)) is amended by striking “such sums as may be necessary for each of the fiscal years 2001 through 2005” and inserting “$3,000,000 for each of fiscal years 2022 through 2026”.
+Section 317J of the Public Health Service Act (42 U.S.C. 247b–11) is amended by striking subsection (e) (relating to authorization of appropriations).
