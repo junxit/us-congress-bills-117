@@ -1,7 +1,7 @@
 ---
 measure: S. 1605
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1605
@@ -16,10 +16,18 @@ National Defense Authorization Act for Fiscal Year 2022
 
 - Sen. Scott, Rick [R-FL] (S001217)
 
-## Cosponsors (2)
+## Cosponsors (10)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 
 ## Committees (1)
 
@@ -71,3 +79,36 @@ National Defense Authorization Act for Fiscal Year 2022
 - 2021-12-08 — Senate amendment submitted
 - 2021-12-08 — Senate amendment submitted
 - 2021-12-08 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-09 — Senate amendment submitted
+- 2021-12-14 — Cloture on the motion to concur in the House amendment to S. 1605 invoked in Senate by Yea-Nay Vote. 86 - 13. Record Vote Number: 496. (CR S9133)
+- 2021-12-14 — Considered by Senate (Message from the House considered). (consideration: CR S9134)
+- 2021-12-14 — Considered by Senate (Message from the House considered). (consideration: CR S9134)
+- 2021-12-14 — Considered by Senate (Message from the House considered). (consideration: CR S9134)
+- 2021-12-14 — Considered by Senate (Message from the House considered). (consideration: CR S9134)
+- 2021-12-14 — Considered by Senate (Message from the House considered). (consideration: CR S9134)
+- 2021-12-14 — Considered by Senate (Message from the House considered). (consideration: CR S9134)
+- 2021-12-14 — Motion by Senator Schumer to refer to Senate Committee on Armed Services the House message to accompany S. 1605 with instructions to report back forthwith with the following amendment (SA 4882) fell when cloture invoked on the motion to concur in the House amendment to S. 1605 in Senate.
+- 2021-12-14 — SA 4882 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to S. 1605.
+- 2021-12-14 — SA 4883 fell when SA 4882 fell.
+- 2021-12-14 — SA 4884 fell when SA 4883 fell.
+- 2021-12-15 — Considered by Senate (Message from the House considered). (consideration: CR S9167)
+- 2021-12-15 — Considered by Senate (Message from the House considered). (consideration: CR S9167)
+- 2021-12-15 — Considered by Senate (Message from the House considered). (consideration: CR S9167-9175)
+- 2021-12-15 — Motion by Senator Schumer to concur in the House amendment to S. 1605 with an amendment (SA 4880) withdrawn in Senate. (CR S9175)
+- 2021-12-15 — Proposed amendment SA 4880 withdrawn in Senate. (consideration: CR S9175)
+- 2021-12-15 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1605 by Yea-Nay Vote. 88 - 11. Record Vote Number: 499.
+- 2021-12-15 — SA 4881 fell when SA 4880 withdrawn.
+- 2021-12-15 — Senate agreed to the House amendment to S. 1605 by Yea-Nay Vote. 88 - 11. Record Vote Number: 499.
+- 2021-12-16 — Message on Senate action sent to the House.
+- 2021-12-23 — Presented to President.
+- 2021-12-23 — Presented to President.
+- 2021-12-27 — Became Public Law No: 117-81.
+- 2021-12-27 — Became Public Law No: 117-81.
+- 2021-12-27 — Signed by President.
+- 2021-12-27 — Signed by President.

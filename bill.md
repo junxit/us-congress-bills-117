@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1605
-congress: 117th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 1st Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1605
 
-That the bill from the Senate (S. 1605) entitled “An Act to designate the National Pulse Memorial located at 1912 South Orange Avenue in Orlando, Florida, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To authorize appropriations for fiscal year 2022 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 
