@@ -1,7 +1,7 @@
 ---
 measure: S. 693
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 693
@@ -32,3 +32,5 @@ No CORRUPTION Act
 - 2021-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-27.
 - 2021-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-27.
 - 2021-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
+- 2021-12-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9040-9041; text: CR S9041)
+- 2021-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9040-9041; text: CR S9041)
