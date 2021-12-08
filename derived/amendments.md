@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1155
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -204,3 +204,7 @@ In this Act:
 - **(8)** *United States person* The term United States person means—
   - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
   - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity.
+
+## § 11. Determination of Budgetary Effects.
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
