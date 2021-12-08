@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5608
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5608
@@ -71,3 +71,11 @@ Chronic Wasting Disease Research and Management Act
 - 2021-12-07 — Placed on the Union Calendar, Calendar No. 144.
 - 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-202.
 - 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-202.
+- 2021-12-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7532-7533)
+- 2021-12-08 — Considered under suspension of the rules. (consideration: CR H7492-7495)
+- 2021-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5608.
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill.
+- 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 33 (Roll no. 411). (text: CR H7492-7493)
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 33 (Roll no. 411).(text: CR H7492-7493)
