@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 64
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 64
@@ -25,3 +25,4 @@ Directing the Secretary of the Senate to make a correction in the enrollment of 
 - 2021-12-07 — Mr. Smith (WA) asked unanimous consent to consider as introduced.
 - 2021-12-07 — On agreeing to the resolution Agreed to without objection. (text: CR H7223)
 - 2021-12-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7223)
+- 2021-12-08 — Received in the Senate.
