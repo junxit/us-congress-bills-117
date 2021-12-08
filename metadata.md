@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2355
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2355
@@ -48,3 +48,6 @@ Opioid Prescription Verification Act of 2021
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 130.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-180.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-180.
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 15 (Roll no. 422). (consideration: CR H7540-7541)
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 15 (Roll no. 422).(consideration: CR H7540-7541)
