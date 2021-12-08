@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5609
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5609
@@ -63,3 +63,11 @@ Cattle Contract Library Act of 2021
 - 2021-12-07 — Placed on the Union Calendar, Calendar No. 145.
 - 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-203.
 - 2021-12-07 — Reported by the Committee on Agriculture. H. Rept. 117-203.
+- 2021-12-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7530-7531)
+- 2021-12-08 — Considered under suspension of the rules. (consideration: CR H7487-7490)
+- 2021-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5609.
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill.
+- 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 13 (Roll no. 409). (text: CR H7487-7488)
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 13 (Roll no. 409).(text: CR H7487-7488)
