@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4616
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4616
@@ -39,3 +39,11 @@ Adjustable Interest Rate (LIBOR) Act of 2021
 - 2021-12-07 — Placed on the Union Calendar, Calendar No. 147.
 - 2021-12-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-206, Part I.
 - 2021-12-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-206, Part I.
+- 2021-12-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7529-7530)
+- 2021-12-08 — Considered under suspension of the rules. (consideration: CR H7479-7486)
+- 2021-12-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4616.
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
+- 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 9 (Roll no. 407). (text: CR H7479-7481)
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 9 (Roll no. 407).(text: CR H7479-7481)
