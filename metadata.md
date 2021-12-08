@@ -1,7 +1,7 @@
 ---
 measure: S. 2293
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2293
@@ -32,3 +32,5 @@ CREW Act
 - 2021-10-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-44.
 - 2021-10-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-44.
 - 2021-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.
+- 2021-12-08 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9040; text: CR S9040)
+- 2021-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9040; text: CR S9040)
