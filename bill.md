@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6187
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6187
+
+> To maintain the National Coal Council in the Department of Energy to provide advice and recommendations to the Secretary of Energy on matters related to coal and the coal industry, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Coal Council Certainty Act of 2021”.
+
+## § 2. National Coal Council
+
+- **(a)** *In general* The Secretary of Energy shall maintain the National Coal Council, in accordance with the charter for such council that is in effect on November 19, 2021.
+- **(b)** *Applicability of the Federal Advisory Committee Act*
+  - **(1)** *In general* Subject to paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.) and section 552b(c) of title 5, United States Code, shall apply to the National Coal Council.
+  - **(2)** *Termination* Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Coal Council.
