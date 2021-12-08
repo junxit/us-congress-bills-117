@@ -27,3 +27,7 @@ Congress find the following:
 ## § 3. Extension of authority to enter into leases of non-excess property of the National Aeronautics and Space Administration
 
 Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2021” and inserting “December 31, 2031”.
+
+## § 4. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
