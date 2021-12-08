@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2364
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2364
@@ -42,3 +42,7 @@ Synthetic Opioid Danger Awareness Act
 - 2021-11-30 — Placed on the Union Calendar, Calendar No. 131.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-181.
 - 2021-11-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-181.
+- 2021-12-08 — Considered as unfinished business. (consideration: CR H7541-7542)
+- 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 14 (Roll no. 423).
+- 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 14 (Roll no. 423).

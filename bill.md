@@ -37,7 +37,7 @@ Part B of title III of the Public Health Service Act is amended by inserting aft
 
 ## § 3. Training guide and outreach on synthetic opioid exposure prevention
 
-- **(a)** *Training guide* Not later than 18 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall design, publish, and make publicly available on the internet website of the Institute, a training guide and webinar for first responders and other individuals who also may be at high risk of exposure to synthetic opioids that details measures to prevent that exposure.
+- **(a)** *Training guide* Not later than 18 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall design, publish, and make publicly available on the internet website of the Department of Health and Human Services, a training guide and webinar for first responders and other individuals who also may be at high risk of exposure to synthetic opioids that details measures to prevent that exposure.
 - **(b)** *Outreach* Not later than 18 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall also conduct outreach about the availability of the training guide and webinar published under subsection (a) to—
   - **(1)** police and fire managements;
   - **(2)** sheriff deputies in city and county jails;
