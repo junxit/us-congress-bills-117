@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5290
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5290
@@ -16,9 +16,10 @@ To extend authorization for livestock mandatory reporting.
 
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ To extend authorization for livestock mandatory reporting.
 - 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill.
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 9 (Roll no. 408). (text: CR H7486)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 9 (Roll no. 408).(text: CR H7486)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
