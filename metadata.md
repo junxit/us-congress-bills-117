@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5314
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5314
@@ -16,7 +16,7 @@ Protecting Our Democracy Act
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Cosponsors (116)
+## Cosponsors (168)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
@@ -134,6 +134,58 @@ Protecting Our Democracy Act
 - Rep. Wild, Susan [D-PA-7] (W000826)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Scott, David [D-GA-13] (S001157)
 
 ## Committees (9)
 
@@ -160,3 +212,52 @@ Protecting Our Democracy Act
 - 2021-09-21 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on the Judiciary, the Budget, Transportation and Infrastructure, Rules, Foreign Affairs, Ways and Means, Intelligence (Permanent Select), and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-09-21 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on the Judiciary, the Budget, Transportation and Infrastructure, Rules, Foreign Affairs, Ways and Means, Intelligence (Permanent Select), and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-09-21 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on the Judiciary, the Budget, Transportation and Infrastructure, Rules, Foreign Affairs, Ways and Means, Intelligence (Permanent Select), and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-09-22 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2021-12-07 — Rules Committee Resolution H. Res. 838 Reported to House. Rule provides for consideration of H.R. 5314, S. 1605 and S. 610 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order. Rule makes in order for the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multiple measures that were the object of motions to suspend the rules on certain legislative days.
+- 2021-12-09 — Amendment (A004) offered by Ms. Ocasio-Cortez. (consideration: CR H7611-7613, H7615; text: CR H7612)
+- 2021-12-09 — Amendment agreed to by House: On agreeing to the Maloney, Carolyn B. amendments (A002) Agreed to by the Yeas and Nays: 218 - 211 (Roll no. 436).
+- 2021-12-09 — Amendment failed by House: On agreeing to the Maloney, Carolyn B. amendments (A003) Failed by the Yeas and Nays: 211 - 218 (Roll no. 437).
+- 2021-12-09 — Amendment failed by House: On agreeing to the Ocasio-Cortez amendment (A004) Failed by the Yeas and Nays: 196 - 233 (Roll no. 438).
+- 2021-12-09 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-12-09 — Amendments en bloc (A002) offered by Mrs. Maloney, Carolyn B. (consideration: CR H7594-7608, H7613-7614; text: CR H7594-7605)
+- 2021-12-09 — Amendments en bloc (A003) offered by Mrs. Maloney, Carolyn B. (consideration: CR H7608-7611, H7614-7615; text: CR H7608-7610)
+- 2021-12-09 — Considered under the provisions of rule H. Res. 838. (consideration: CR H7562-7617)
+- 2021-12-09 — DEBATE - Pursuant to the provisions of H. Res. 838, the House proceeded with 10 minutes of debate on the Ocasio-Cortez amendment No. 25.
+- 2021-12-09 — DEBATE - Pursuant to the provisions of H. Res. 838, the House proceeded with 20 minutes of debate on the Carolyn B. Maloney amendment en bloc No. 1.
+- 2021-12-09 — DEBATE - Pursuant to the provisions of H. Res. 838, the House proceeded with 20 minutes of debate on the Carolyn B. Maloney amendment en bloc No. 2.
+- 2021-12-09 — DEBATE - The House continued with debate on H.R. 5314.
+- 2021-12-09 — DEBATE - The House proceeded with one hour of debate on H.R. 5314.
+- 2021-12-09 — House amendment agreed to: On agreeing to the Maloney, Carolyn B. amendments (A002) Agreed to by the Yeas and Nays: 218 - 211 (Roll no. 436).
+- 2021-12-09 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-12-09 — House amendment not agreed to: On agreeing to the Maloney, Carolyn B. amendments (A003) Failed by the Yeas and Nays: 211 - 218 (Roll no. 437).
+- 2021-12-09 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A004) Failed by the Yeas and Nays: 196 - 233 (Roll no. 438).
+- 2021-12-09 — House amendment offered
+- 2021-12-09 — House amendment offered
+- 2021-12-09 — House amendment offered
+- 2021-12-09 — House amendment offered
+- 2021-12-09 — House amendment offered/reported by: Amendment (A004) offered by Ms. Ocasio-Cortez.(consideration: CR H7611-7613, H7615; text: CR H7612)
+- 2021-12-09 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mrs. Maloney, Carolyn B.(consideration: CR H7594-7608, H7613-7614; text: CR H7594-7605)
+- 2021-12-09 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mrs. Maloney, Carolyn B.(consideration: CR H7608-7611, H7614-7615; text: CR H7608-7610)
+- 2021-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-09 — Mr. Davis, Rodney moved to recommit to the Committee on Oversight and Government Reform. (text: CR H7616)
+- 2021-12-09 — On agreeing to the Maloney, Carolyn B. amendments (A002) Agreed to by the Yeas and Nays: 218 - 211 (Roll no. 436).
+- 2021-12-09 — On agreeing to the Maloney, Carolyn B. amendments (A003) Failed by the Yeas and Nays: 211 - 218 (Roll no. 437).
+- 2021-12-09 — On agreeing to the Ocasio-Cortez amendment (A004) Failed by the Yeas and Nays: 196 - 233 (Roll no. 438).
+- 2021-12-09 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-12-09 — On motion to recommit Failed by the Yeas and Nays: 212 - 217 (Roll no. 439).
+- 2021-12-09 — On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 440).
+- 2021-12-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carolyn B. Maloney en bloc No. 1, the Chair put the question on adoption of the amendments and by voice vote, announced that the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-12-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carolyn B. Maloney en bloc No. 2, the Chair put the question on adoption of the amendments and by voice vote, announced that the noes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-12-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment No. 25, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2021-12-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 440).
+- 2021-12-09 — Roll call votes on amendments in House
+- 2021-12-09 — Roll call votes on amendments in House
+- 2021-12-09 — Roll call votes on amendments in House
+- 2021-12-09 — Rule provides for consideration of H.R. 5314, S. 1605 and S. 610 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order. Rule makes in order for the Speaker may entertain motions offered by the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multiple measures that were the object of motions to suspend the rules on certain legislative days.
+- 2021-12-09 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5314.
+- 2021-12-09 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2021-12-09 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2021-12-09 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2021-12-09 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2021-12-09 — The previous question was ordered pursuant to the rule.
+- 2021-12-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to amendments which had been debated earlier and on which further proceedings had been postponed. (consideration: CR H7613)
