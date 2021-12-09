@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3531
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3531
@@ -31,9 +31,10 @@ Women Who Worked on the Home Front World War II Memorial Act
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Women Who Worked on the Home Front World War II Memorial Act
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 428).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 428).
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
