@@ -18,6 +18,7 @@ This Act may be cited as the “Protecting Our Democracy Act”.
 - **(a)** *Divisions* This Act is organized into divisions as follows:
   - **(1)** Division A—Preventing Abuses of Presidential Power.
   - **(2)** Division B—Restoring Checks and Balances, Accountability, and Transparency.
-  - **(3)** Division C—Defending Elections Against Foreign Interference.
+  - **(3)** Division C—Miscellaneous.
   - **(4)** Division D—Severability.
+  - **(5)** Division E—Protecting Election Officials.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
