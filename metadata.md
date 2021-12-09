@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1667
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1667
@@ -212,3 +212,14 @@ Dr. Lorna Breen Health Care Provider Protection Act
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-213.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-213.
 - 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-02-17 — Passed Senate without amendment by Voice Vote.
+- 2022-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-02-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2022-02-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S800)
+- 2022-02-18 — Message on Senate action sent to the House.
+- 2022-03-11 — Presented to President.
+- 2022-03-11 — Presented to President.
+- 2022-03-18 — Became Public Law No: 117-105.
+- 2022-03-18 — Became Public Law No: 117-105.
+- 2022-03-18 — Signed by President.
+- 2022-03-18 — Signed by President.
