@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5487
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5487
@@ -40,9 +40,10 @@ SHINE for Autumn Act of 2021
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ SHINE for Autumn Act of 2021
 - 2021-12-08 — Placed on the Union Calendar, Calendar No. 151.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-210.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-210.
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
