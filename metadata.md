@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 380
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 380
@@ -38,3 +38,5 @@ A resolution reiterating United States support for the people of the Republic of
 - 2021-10-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-10-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-10-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 160.
+- 2021-12-09 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S9082-9084; text: CR S9084-9085)
+- 2021-12-09 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S9082-9084; text: CR S9084-9085)
