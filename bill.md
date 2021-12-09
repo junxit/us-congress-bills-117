@@ -2,7 +2,7 @@
 legis-num: H.R. 5982
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5982
@@ -52,7 +52,7 @@ The table of contents for this Act is as follows:
     >   - **(2)** *Identification in report* The Administrator shall identify the expanded efforts and enhancements made under paragraph (1) in the annual reports required by subsection (e).
 
 - **(e)** *Revision of Chapter 301*
-  - **(1)** *Chapter heading* The chapter heading of chapter 301 of title 51, United States Code, is amended by striking “APPROPRIATIONS, BUDGETS, AND ACCOUNTING” and inserting “FUNDING”.
+  - **(1)** *Chapter heading* The chapter heading of chapter 301 of title 51, United States Code, is amended by striking “ APPROPRIATIONS, BUDGETS, AND ACCOUNTING ” and inserting “ FUNDING ”.
   - **(2)** *Chapter table of contents* The chapter table of contents of chapter 301 of title 51, United States Code, is amended to read as follows:
   - **(3)** *Redesignation of existing sections* Chapter 301 of title 51, United States Code, is amended as follows:
     - **(A)** Section 30103 (Budgets) is redesignated as section 30121, and transferred to appear after section 30104 (Baselines and cost controls).
@@ -82,7 +82,7 @@ The table of contents for this Act is as follows:
     >   - **(2)** *Corrective plans* For each program described under paragraph (1), a plan for a decrease in scope or requirements, or other measures, to be undertaken to control cost and schedule, including any cost monitoring or corrective actions undertaken pursuant to the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155), and the amendments made by that Act.
 
   - **(7)** *Revision of section 30121* Section 30121 of title 51, United States Code (as redesignated and transferred by paragraph (3)(A)), is amended—
-    - **(A)** in the section heading, by striking “Budgets” and inserting “General budget documentation requirements”; and
+    - **(A)** in the section heading, by striking “ Budgets ” and inserting “ General budget documentation requirements ”; and
     - **(B)** in subsection (b) (matter before paragraph (1)), by striking “Committee on Science and Technology” and inserting “Committee on Science, Space, and Technology”.
   - **(8)** *Enactment of sections 30122 and 30123* Chapter 301 of title 51, United States Code, is amended by adding at the end the following:
     > ## § 30122. Consideration of decadal surveys
@@ -194,7 +194,7 @@ The table of contents for this Act is as follows:
   - **(2)** *Redesignation of section 39902 as section 31502*
     - **(A)** *Redesignation and transfer* Section 39902 of title 51, United States Code, as redesignated by subsection (k)(3)(B), is redesignated as section 31502 of title 51, United States Code, and transferred to appear after section 31501 of title 51, United States Code, as inserted by paragraph (1).
     - **(B)** *Amendment of section 31502* Section 31502 of title 51, United States Code, as redesignated and transferred by subparagraph (A), is amended—
-      - **(i)** in the heading, by striking “Maintenance of facilities” and inserting “Maintenance and upgrade of center facilities”;
+      - **(i)** in the heading, by striking “ Maintenance of facilities ” and inserting “ Maintenance and upgrade of center facilities ”;
       - **(ii)** by striking “healthy Centers” and inserting “healthy centers”; and
       - **(iii)** by striking “Center facilities” and inserting “center facilities”.
     - **(C)** *Conforming amendments to chapter 399* Chapter 399 of title 51, United States Code, as redesignated and amended by subsections (k) and (l)(2)(A), is amended—
@@ -203,7 +203,7 @@ The table of contents for this Act is as follows:
         - **(II)** by redesignating the items relating to sections 39903, 39904, and 39905 as items relating to sections 39902, 39903, and 39904, respectively; and
       - **(ii)** by redesignating sections 39903, 39904, and 39905 as sections 39902, 39903, and 39904, respectively.
 - **(m)** *Revision of Section 39901* Section 39901 of title 51, United States Code (as redesignated by subsection (k)(3)), is amended—
-  - **(1)** by redesignating the existing text as subsection (a) and inserting the subsection heading “Technologies To Decrease Risk.—”; and
+  - **(1)** by redesignating the existing text as subsection (a) and inserting the subsection heading “ Technologies To Decrease Risk.— ”; and
   - **(2)** by adding at the end the following:
     > - **(b)** *International Discussion*
     >   - **(1)** *In general* The Administrator shall, in consultation with such other departments and agencies of the Federal Government as the Administrator considers appropriate, continue and strengthen discussions with the representatives of other space-faring countries, within the Inter-Agency Space Debris Coordination Committee and elsewhere, to deal with orbital debris mitigation.
@@ -271,7 +271,7 @@ The table of contents for this Act is as follows:
   - **(1)** *Table of contents* Chapter 515 of title 51, United States Code, is amended by inserting after the chapter heading the following:
   - **(2)** *Revision of section 51501* Section 51501 of title 51, United States Code, is amended—
     - **(A)** by redesignating subsections (a), (b), (c), (d), and (e) as subsections (b), (c), (d), (e), and (a), respectively, and transferring subsection (a), as redesignated, to appear at the beginning of the section;
-    - **(B)** in the heading for subsection (a), as redesignated, by striking “Definition” and inserting “Definition of Spaceport”;
+    - **(B)** in the heading for subsection (a), as redesignated, by striking “ Definition ” and inserting “ Definition of Spaceport ”;
     - **(C)** in subsection (a), as redesignated, by inserting a comma after “In this section”;
     - **(D)** in subsection (b), as redesignated, by striking “the date of enactment of this section,” and inserting “October 5, 2018,”; and
     - **(E)** in subsection (d), as redesignated—
@@ -280,9 +280,9 @@ The table of contents for this Act is as follows:
 - **(u)** *Enactment of Chapter 517* Title 51, United States Code, is amended by inserting after chapter 515 the following:
 - **(v)** *Revision of Section 60304*
   - **(1)** *Revision of section* Section 60304 of title 51, United States Code, is amended—
-    - **(A)** in the section heading, by striking “Program evaluation” and inserting “Advisory committee”;
+    - **(A)** in the section heading, by striking “ Program evaluation ” and inserting “ Advisory committee ”;
     - **(B)** in subsection (a)—
-      - **(i)** by striking the subsection designation “(a)” and the subsection heading “Advisory Committee.—”; and
+      - **(i)** by striking the subsection designation “(a)” and the subsection heading “ Advisory Committee.— ”; and
       - **(ii)** by striking “(5 App. U.S.C.),” and inserting “(5 U.S.C. App.),”; and
     - **(C)** by striking subsection (b).
   - **(2)** *Conforming amendment* The chapter table of contents of chapter 603 of title 51, United States Code, is amended by striking the item relating to section 60304 and inserting the following:

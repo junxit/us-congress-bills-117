@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5982
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -44,7 +44,7 @@ to guess them.
 
 ### 51 U.S.C. § 30103
 
-> The chapter heading of chapter 301 of title 51, United States Code, is amended by striking “APPROPRIATIONS, BUDGETS, AND ACCOUNTING” and inserting “FUNDING”.
+> The chapter heading of chapter 301 of title 51, United States Code, is amended by striking “ APPROPRIATIONS, BUDGETS, AND ACCOUNTING ” and inserting “ FUNDING ”.
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ to guess them.
 
 ### 51 U.S.C. § 30103
 
-> in the section heading, by striking “Budgets” and inserting “General budget documentation requirements”; and
+> in the section heading, by striking “ Budgets ” and inserting “ General budget documentation requirements ”; and
 
 | | |
 |---|---|
@@ -98,7 +98,7 @@ to guess them.
 
 ### 42 U.S.C. § 16611
 
-> in the heading, by striking “Maintenance of facilities” and inserting “Maintenance and upgrade of center facilities”;
+> in the heading, by striking “ Maintenance of facilities ” and inserting “ Maintenance and upgrade of center facilities ”;
 
 | | |
 |---|---|
@@ -269,7 +269,7 @@ to guess them.
 
 ### 42 U.S.C. § 16611
 
-> in the heading for subsection (a), as redesignated, by striking “Definition” and inserting “Definition of Spaceport”;
+> in the heading for subsection (a), as redesignated, by striking “ Definition ” and inserting “ Definition of Spaceport ”;
 
 | | |
 |---|---|
@@ -305,7 +305,7 @@ to guess them.
 
 ### 42 U.S.C. § 16611
 
-> in the section heading, by striking “Program evaluation” and inserting “Advisory committee”;
+> in the section heading, by striking “ Program evaluation ” and inserting “ Advisory committee ”;
 
 | | |
 |---|---|
@@ -837,7 +837,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16611` | strike | by striking the item relating to section 39902; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | redesignate | by redesignating the items relating to sections 39903, 39904, and 39905 as items relating to sections 39902, 39903, and 39904, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | redesignate | by redesignating sections 39903, 39904, and 39905 as sections 39902, 39903, and 39904, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16611` | redesignate | by redesignating the existing text as subsection (a) and inserting the subsection heading “Technologies To Decrease Risk.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16611` | redesignate | by redesignating the existing text as subsection (a) and inserting the subsection heading “ Technologies To Decrease Risk.— ”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | insert | Title 51, United States Code, is amended by inserting after section 40704 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | redesignate | Title 51, United States Code, is amended by redesignating chapter 409 as chapter 499. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -850,14 +850,14 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16611` | redesignate | by redesignating subsections (a), (b), (c), (d), and (e) as subsections (b), (c), (d), (e), and (a), respectively, and transferring subsection (a), as redesignated, to appear at the beginning of the section; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | redesignate | in subsection (a), as redesignated, by inserting a comma after “In this section”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | insert | Title 51, United States Code, is amended by inserting after chapter 515 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16611` | strike | by striking the subsection designation “(a)” and the subsection heading “Advisory Committee.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16611` | strike | by striking the subsection designation “(a)” and the subsection heading “ Advisory Committee.— ”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | replace | The chapter table of contents of chapter 603 of title 51, United States Code, is amended by striking the item relating to section 60304 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | add-at-end | The chapter table of contents of chapter 605 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | add-at-end | Chapter 605 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 501` | add-at-end | The chapter table of contents of chapter 709 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 501` | add-at-end | Chapter 709 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16611` | amend | Title 51, United States Code, is amended by adding after chapter 713 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 70501` | amend | Title 51, United States Code, is amended by adding after chapter 713 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16611` | amend | Title 51, United States Code, as amended by subsection (z), is amended by adding after chapter 715 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 40301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 50501` | replace | Section 501 of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1993 (Public Law 102–588, 51 U.S.C. 50501 note) is amended by striking “The Congress finds that—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
