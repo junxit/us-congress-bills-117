@@ -1,7 +1,7 @@
 ---
 measure: H.R. 897
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 897
@@ -50,3 +50,14 @@ Agua Caliente Land Exchange Fee to Trust Confirmation Act
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 426).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 30 (Roll no. 426).
 - 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2022-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9726)
+- 2022-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9726)
+- 2022-12-21 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2022-12-21 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2022-12-22 — Message on Senate action sent to the House.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-329.
+- 2023-01-05 — Became Public Law No: 117-329.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
