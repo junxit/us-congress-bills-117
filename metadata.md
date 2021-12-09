@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5746
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5746
@@ -39,3 +39,4 @@ Freedom to Vote: John R. Lewis Act
 - 2021-12-08 — Mr. Beyer moved to suspend the rules and pass the bill, as amended.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7470-7471)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7470-7471)
+- 2021-12-09 — Received in the Senate, read twice.
