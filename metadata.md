@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5608
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5608
@@ -57,9 +57,10 @@ Chronic Wasting Disease Research and Management Act
 - Rep. Smith, Jason [R-MO-8] (S001195)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ Chronic Wasting Disease Research and Management Act
 - 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill.
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 33 (Roll no. 411). (text: CR H7492-7493)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 33 (Roll no. 411).(text: CR H7492-7493)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
