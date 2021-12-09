@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5982
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5982
@@ -16,9 +16,10 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 435). (text: 12/01/2021 CR H6817-6832)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 435).(text: CR 12/01/2021 H6817-6832)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
