@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -6422,8 +6422,8 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1818` | replace | in the subsection heading, by striking “Federal Advisory Committee Act” and inserting â€œChapter 10 of Title 5, United States Code,â€; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278k` | replace | in the paragraph heading, by striking “FACA applicability” and inserting â€œApplicability of chapter 10 of title 5, united states code,â€; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 360c` | replace | in paragraph (8), by striking the “Federal Advisory Committee Act.” and inserting “chapter 10 of title 5, United States Code.”. | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 1534` | insert | The table of contents of title 5, United States Code, is amended by inserting after the item relating to part III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1534` | insert | by inserting after the item relating to chapter 3 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1534` | insert | by inserting after the item relating to chapter 9 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1534` | insert | Part IV of title 5, United States Code, as inserted by section 3(c), is amended by inserting after the heading of part IV the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3` | insert | The table of contents of title 5, United States Code, is amended by inserting after the item relating to part III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3` | insert | by inserting after the item relating to chapter 3 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3` | insert | by inserting after the item relating to chapter 9 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3` | insert | Part IV of title 5, United States Code, as inserted by section 3(c), is amended by inserting after the heading of part IV the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | The following provisions of law are repealed, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before the date of enactment of this Act: | the bill names no machine-readable US Code section |
