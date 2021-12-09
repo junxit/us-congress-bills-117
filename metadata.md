@@ -1,7 +1,7 @@
 ---
 measure: S. 3294
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3294
@@ -47,3 +47,7 @@ A bill to obtain and direct the placement in the Capitol or on the Capitol Groun
 
 - 2021-12-01 — Introduced in Senate
 - 2021-12-01 — Read twice and referred to the Committee on Rules and Administration.
+- 2021-12-09 — Passed Senate without amendment by Unanimous Consent. (text: CR S9085-9086)
+- 2021-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S9085-9086)
+- 2021-12-09 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S9085)
+- 2021-12-09 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S9085)
