@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4996
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4996
@@ -115,9 +115,10 @@ Ocean Shipping Reform Act of 2021
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -134,3 +135,4 @@ Ocean Shipping Reform Act of 2021
 - 2021-12-08 — Mr. Garamendi moved to suspend the rules and pass the bill, as amended.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 60 (Roll no. 406). (text: CR H7473-7475)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 60 (Roll no. 406).(text: CR H7473-7475)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
