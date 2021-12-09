@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2364
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2364
@@ -21,9 +21,10 @@ Synthetic Opioid Danger Awareness Act
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Synthetic Opioid Danger Awareness Act
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 14 (Roll no. 423).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 14 (Roll no. 423).
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
