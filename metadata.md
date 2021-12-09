@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1667
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1667
@@ -185,9 +185,10 @@ Dr. Lorna Breen Health Care Provider Protection Act
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -210,3 +211,4 @@ Dr. Lorna Breen Health Care Provider Protection Act
 - 2021-12-08 — Placed on the Union Calendar, Calendar No. 154.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-213.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-213.
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
