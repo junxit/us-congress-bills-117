@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3537
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3537
@@ -375,3 +375,4 @@ Accelerating Access to Critical Therapies for ALS Act
 - 2021-12-08 — Placed on the Union Calendar, Calendar No. 148.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-207.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-207.
+- 2021-12-09 — Received in the Senate, read twice.
