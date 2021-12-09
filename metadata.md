@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1193
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1193
@@ -226,3 +226,4 @@ Cardiovascular Advances in Research and Opportunities Legacy Act
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-212.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-212.
 - 2021-12-08 — The title of the measure was amended. Agreed to without objection.
+- 2021-12-09 — Received in the Senate.
