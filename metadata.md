@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5545
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5545
@@ -57,3 +57,12 @@ REMOTE Act
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7468-7469)
 - 2021-12-08 — The title of the measure was amended. Agreed to without objection.
 - 2021-12-09 — Received in the Senate, read twice.
+- 2021-12-15 — Passed Senate without amendment by Voice Vote. (consideration: CR S9216-9217)
+- 2021-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S9216-9217)
+- 2021-12-16 — Message on Senate action sent to the House.
+- 2021-12-20 — Presented to President.
+- 2021-12-20 — Presented to President.
+- 2021-12-21 — Became Public Law No: 117-76.
+- 2021-12-21 — Became Public Law No: 117-76.
+- 2021-12-21 — Signed by President.
+- 2021-12-21 — Signed by President.
