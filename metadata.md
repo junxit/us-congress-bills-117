@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5961
@@ -40,3 +40,14 @@ To make revisions in title 5, United States Code, as necessary to keep the title
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 434). (text: 12/01/2021 CR H6770-6816)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 434).(text: 12/01/2021 CR H6770-6816)
 - 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9612)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9612)
+- 2022-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-21 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-286.
+- 2022-12-27 — Became Public Law No: 117-286.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
