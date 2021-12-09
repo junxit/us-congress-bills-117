@@ -1,0 +1,18 @@
+---
+legis-num: S. 3362
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3362
+
+> To require the Healthy People Maternal, Infant, and Child Health Workgroup and the Maternal Health Working Group to establish a formal coordinated approach for monitoring maternal health efforts across the Department of Health and Human Services.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Coordination for Healthy Moms Act”.
+
+## § 2. Coordinated maternal health efforts
+
+The Healthy People Maternal, Infant, and Child Health Workgroup and the Maternal Health Working Group shall provide recommendations to the Secretary of Health and Human Services (referred to in this section as the “Secretary”) for establishing a formal coordinated approach for monitoring maternal health efforts across the Department of Health and Human Services, including in rural and underserved areas, and the Secretary, not later than 1 year after the date of enactment of this Act, shall establish such an approach. Such approach may include establishing a process for exchanging information and discussing relevant program efforts and outcomes across the agency, during regular standing meetings, on a routine basis.
