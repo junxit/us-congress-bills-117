@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3537
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3537
@@ -376,3 +376,12 @@ Accelerating Access to Critical Therapies for ALS Act
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-207.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-207.
 - 2021-12-09 — Received in the Senate, read twice.
+- 2021-12-16 — Passed Senate without amendment by Voice Vote. (consideration: CR S9242)
+- 2021-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S9242)
+- 2021-12-17 — Message on Senate action sent to the House.
+- 2021-12-23 — Became Public Law No: 117-79.
+- 2021-12-23 — Became Public Law No: 117-79.
+- 2021-12-23 — Presented to President.
+- 2021-12-23 — Presented to President.
+- 2021-12-23 — Signed by President.
+- 2021-12-23 — Signed by President.
