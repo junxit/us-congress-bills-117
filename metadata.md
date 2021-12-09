@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5961
@@ -16,9 +16,10 @@ To make revisions in title 5, United States Code, as necessary to keep the title
 
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To make revisions in title 5, United States Code, as necessary to keep the title
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 434). (text: 12/01/2021 CR H6770-6816)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 434).(text: 12/01/2021 CR H6770-6816)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
