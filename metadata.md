@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2074
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2074
@@ -33,9 +33,10 @@ Indian Buffalo Management Act
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 - Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Indian Buffalo Management Act
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 52 (Roll no. 427).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 52 (Roll no. 427).
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
