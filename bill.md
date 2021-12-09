@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1667
-congress: 117th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1667
@@ -27,7 +27,7 @@ Not later than 2 years after the date of the enactment of this Act, the Secretar
 
 ## § 4. Programs to promote mental health among the health professional workforce
 
-Subpart I of part E of title VII of the Public Health Service Act (42 U.S.C.. 294n et seq.) is amended by adding at the end the following:
+Subpart I of part E of title VII of the Public Health Service Act (42 U.S.C. 294n et seq.) is amended by adding at the end the following:
 
 > ## § 764. Programs to promote mental health among the health professional workforce
 >
