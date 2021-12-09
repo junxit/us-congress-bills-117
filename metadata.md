@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5551
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5551
@@ -24,9 +24,10 @@ Improving the Health of Children Act
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Improving the Health of Children Act
 - 2021-12-08 — Placed on the Union Calendar, Calendar No. 150.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-209.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-209.
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
