@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4489
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4489
@@ -23,9 +23,10 @@ National Forest Restoration and Remediation Act
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ National Forest Restoration and Remediation Act
 - 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill, as amended.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 42 (Roll no. 410). (text: CR H7490)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 42 (Roll no. 410).(text: CR H7490)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
