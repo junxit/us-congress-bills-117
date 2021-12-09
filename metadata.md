@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5609
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5609
@@ -49,9 +49,10 @@ Cattle Contract Library Act of 2021
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 - Rep. Cheney, Liz [R-WY-At Large] (C001109)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ Cattle Contract Library Act of 2021
 - 2021-12-08 — Mr. Scott, David moved to suspend the rules and pass the bill.
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 13 (Roll no. 409). (text: CR H7487-7488)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 13 (Roll no. 409).(text: CR H7487-7488)
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
