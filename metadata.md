@@ -1,7 +1,7 @@
 ---
 measure: S. 3294
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3294
@@ -51,3 +51,20 @@ A bill to obtain and direct the placement in the Capitol or on the Capitol Groun
 - 2021-12-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S9085-9086)
 - 2021-12-09 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S9085)
 - 2021-12-09 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S9085)
+- 2021-12-10 — Message on Senate action sent to the House.
+- 2021-12-13 — Held at the desk.
+- 2021-12-13 — Received in the House.
+- 2022-03-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-28 — Considered as unfinished business. (consideration: CR H3893)
+- 2022-03-28 — Considered under suspension of the rules. (consideration: CR H3887-3891)
+- 2022-03-28 — DEBATE - The House proceeded with forty minutes of debate on S. 3294.
+- 2022-03-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-28 — Ms. Scanlon moved to suspend the rules and pass the bill.
+- 2022-03-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 349 - 63 (Roll no. 84). (text: CR H3887-3888)
+- 2022-03-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 349 - 63 (Roll no. 84).(text: CR H3887-3888)
+- 2022-04-05 — Presented to President.
+- 2022-04-05 — Presented to President.
+- 2022-04-13 — Became Public Law No: 117-111.
+- 2022-04-13 — Became Public Law No: 117-111.
+- 2022-04-13 — Signed by President.
+- 2022-04-13 — Signed by President.
