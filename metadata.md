@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3743
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3743
@@ -45,3 +45,4 @@ Supporting the Foundation for the National Institutes of Health and the Reagan-U
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 52 (Roll no. 424).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 52 (Roll no. 424).
+- 2021-12-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.
