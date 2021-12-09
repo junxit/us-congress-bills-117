@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4555
 congress: 117
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
