@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5119
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5119
@@ -47,3 +47,4 @@ To amend title VI of the Social Security Act to extend the coverage of Coronavir
 - 2021-12-08 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 421). (text: CR H7527)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 421).(text: CR H7527)
+- 2021-12-09 — Received in the Senate.
