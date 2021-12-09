@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3894
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3894
@@ -21,9 +21,10 @@ CARING for Social Determinants Act of 2021
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ CARING for Social Determinants Act of 2021
 - 2021-12-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 48 (Roll no. 425).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 48 (Roll no. 425).
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Finance.
