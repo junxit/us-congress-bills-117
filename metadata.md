@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5561
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5561
@@ -21,9 +21,10 @@ Early Hearing Detection and Intervention Act of 2021
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Early Hearing Detection and Intervention Act of 2021
 - 2021-12-08 — Placed on the Union Calendar, Calendar No. 149.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-208.
 - 2021-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-208.
+- 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
