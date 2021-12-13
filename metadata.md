@@ -1,7 +1,7 @@
 ---
 measure: S. 2959
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2959
@@ -16,9 +16,11 @@ Supplemental Impact Aid Flexibility Act
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Supplemental Impact Aid Flexibility Act
 
 - 2021-10-07 — Introduced in Senate
 - 2021-10-07 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2021-12-13 — Passed Senate without amendment by Unanimous Consent. (text: CR S9125)
+- 2021-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S9125)
+- 2021-12-13 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S9125)
+- 2021-12-13 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S9125)
