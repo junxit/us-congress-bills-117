@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5665
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5665
@@ -16,7 +16,7 @@ Combating International Islamophobia Act
 
 - Rep. Omar, Ilhan [D-MN-5] (O000173)
 
-## Cosponsors (32)
+## Cosponsors (56)
 
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Carson, Andre [D-IN-7] (C001072)
@@ -50,6 +50,30 @@ Combating International Islamophobia Act
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Pressley, Ayanna [D-MA-7] (P000617)
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
 
 ## Committees (1)
 
@@ -60,3 +84,9 @@ Combating International Islamophobia Act
 - 2021-10-21 — Introduced in House
 - 2021-10-21 — Introduced in House
 - 2021-10-21 — Referred to the House Committee on Foreign Affairs.
+- 2021-12-09 — Committee Consideration and Mark-up Session Held.
+- 2021-12-10 — Committee Consideration and Mark-up Session Held.
+- 2021-12-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 16.
+- 2021-12-13 — Placed on the Union Calendar, Calendar No. 156.
+- 2021-12-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-215.
+- 2021-12-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-215.
