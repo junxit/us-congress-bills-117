@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5314
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -360,7 +360,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 1105(a) of title 31, United States Code, as amended by section 513, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `31 U.S.C. § 1555` | insert | Subchapter IV of chapter 15 of title 31, United States Code, is amended by inserting after section 1555 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1555` | insert | The table of sections for subchapter IV of chapter 15 of title 31, United States Code, is amended by inserting after the item relating to section 1555 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 721` | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 716` | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 721` | insert | The table of sections for subchapter II of chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 721 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “If” and inserting “(a) If”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or if the Comptroller General determines that an officer or employee of such entity violated section 1341(a) or 1342,” before “the head of the agency”; | the bill names no machine-readable US Code section |
@@ -392,8 +392,8 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3001` | add-at-end | The National Security Act of 1947 (50 U.S.C. 3001 et seq.) is amended by adding at the end the following new title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3003` | add-at-end | Section 3 of such Act (50 U.S.C. 3003) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3001` | amend | The table of sections at the beginning of the National Security Act of 1947 is amended by adding after the items relating to title XI the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3517` | insert | Title XII of the National Security Act of 1947, as added by section 711, is amended by inserting after section 1201 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3517` | insert | The table of sections at the beginning of the National Security Act of 1947 is amended by inserting after the item relating to section 1201, as added by section 711, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 711` | insert | Title XII of the National Security Act of 1947, as added by section 711, is amended by inserting after section 1201 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 711` | insert | The table of sections at the beginning of the National Security Act of 1947 is amended by inserting after the item relating to section 1201, as added by section 711, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3033` | add-at-end | Paragraph (3) of section 103H(k) of the National Security Act of 1947 (50 U.S.C. 3033(k)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3024` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3024` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
