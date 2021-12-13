@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1192
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1192
@@ -46,3 +46,8 @@ PRRADA
 - 2021-02-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 429 - 0 (Roll no. 37). (text: 02/23/2020 CR H560-561)
 - 2021-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 429 - 0 (Roll no. 37).(text: 02/23/2020 CR H560-561)
 - 2021-02-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-07-29 — Committee on Energy and Natural Resources. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-12-13 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-48. Additional views filed.
+- 2021-12-13 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-48. Additional views filed.
+- 2021-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
