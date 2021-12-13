@@ -1,7 +1,7 @@
 ---
 measure: S. 2502
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2502
@@ -16,11 +16,12 @@ Kenneth P. Thompson Begin Again Act
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Kenneth P. Thompson Begin Again Act
 
 - 2021-07-28 — Introduced in Senate
 - 2021-07-28 — Read twice and referred to the Committee on the Judiciary.
+- 2021-09-23 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2021-12-13 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2021-12-13 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2021-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.
