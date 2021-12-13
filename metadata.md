@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5314
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5314
@@ -261,3 +261,4 @@ Protecting Our Democracy Act
 - 2021-12-09 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-12-09 — The previous question was ordered pursuant to the rule.
 - 2021-12-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to amendments which had been debated earlier and on which further proceedings had been postponed. (consideration: CR H7613)
+- 2021-12-13 — Received in the Senate.
