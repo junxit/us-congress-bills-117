@@ -9,13 +9,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 5, United States Code, to require the Director of the Office of Personnel Management to establish and maintain a public directory of the individuals occupying Government policy and supporting positions, and for other purposes.
 
-## § 1. Short title; purposes
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “Periodically Listing Updates to Management Act” or the “PLUM Act”.
-- **(b)** *Purposes* The purposes of this Act are to—
-  - **(1)** modernize the practice of publishing the “Plum Book,” which has occurred nearly every four years since 1952, and contains data on over 9,000 Federal civil service leadership and support positions in the legislative and executive branches of the Government that may be subject to noncompetitive appointment;
-  - **(2)** enhance transparency by reporting who is serving in the Government and making policy decisions; and
-  - **(3)** improve the frequency, accuracy and accessibility of data on the individuals filling government policy and supporting positions.
+This Act may be cited as the “Periodically Listing Updates to Management Act” or the “PLUM Act”.
 
 ## § 2. Establishment of public website on Government policy and supporting positions
 
@@ -25,7 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >
     > - **(a)** *Definitions* In this section:
     >   - **(1)** *Agency* The term agency means—
-    >     - **(A)** any Executive agency, including the United States Postal Service and the Postal Regulatory Commission;
+    >     - **(A)** any Executive agency, the United States Postal Service, and the Postal Regulatory Commission;
     >     - **(B)** the Architect of the Capitol, the Government Accountability Office, the Government Publishing Office, and the Library of Congress; and
     >     - **(C)** the Executive Office of the President and any component within such Office (including any successor component), including—
     >       - **(i)** the Council of Economic Advisors;
@@ -38,7 +34,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >       - **(viii)** the Office of the United States Trade Representative;
     >       - **(ix)** the Office of Science and Technology Policy;
     >       - **(x)** the Office of National Drug Control Policy; and
-    >       - **(xi)** the White House Office.
+    >       - **(xi)** the White House Office, including the White House Office of Presidential Personnel.
     >   - **(2)** *Covered website* The term covered website means the website established and maintained by the Director under subsection (b).
     >   - **(3)** *Director* The term Director means the Director of the Office of Personnel Management.
     >   - **(4)** *Appointee* The term appointee—
@@ -57,9 +53,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(G)** any other position classified at or above level GS–14 of the General Schedule (or equivalent) that is excepted from the competitive service by law because of the confidential or policy-determining nature of the position duties.
     > - **(b)** *Establishment of website* Not later than 1 year after the date of enactment of the PLUM Act, the Director shall establish, and thereafter maintain, a public website containing the following information for the President then in office and for each subsequent President:
     >   - **(1)** Each policy and supporting position in the Federal Government, including any such position that is vacant.
-    >   - **(2)** Each individual who—
+    >   - **(2)** The name of each individual who—
     >     - **(A)** is serving in a position described in paragraph (1); or
-    >     - **(B)** previously served in a position described in paragraph (1) under the applicable President.
+    >     - **(B)** previously served in a position described in such paragraph under the applicable President.
+    >   - **(3)** Information on any Government-wide or agency-wide limitation on the total number of positions in the Senior Executive Service under section 3133 or 3132, and for the total number of positions in Schedule C of subpart C of part 213 of title 5, Code of Federal Regulations, and total number of individuals occupying such positions.
     > - **(c)** *Contents* With respect to any policy and supporting position listed on the covered website, the Director shall include—
     >   - **(1)** the agency, and agency component, (including the agency and bureau code used by the Office of Management and Budget) in which the position is located;
     >   - **(2)** the name of the position;
@@ -69,10 +66,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >   - **(6)** the level, grade, or rate of pay;
     >   - **(7)** the term or duration of the appointment (if any);
     >   - **(8)** the expiration date, in the case of a time-limited appointment;
-    >   - **(9)** a unique identifier for each appointee to enable tracking such appointee across positions; and
-    >   - **(10)** whether the position is vacant.
-    > - **(d)** *Format* The Director shall make the data on the covered website available to the public at no cost over the internet in a searchable, sortable, downloadable, and machine readable format so that the data qualifies as an open Government data asset, as defined in section 3502 of title 44.
-    > - **(e)** *Authority of Director*
+    >   - **(9)** a unique identifier for each appointee to enable tracking such appointee across positions;
+    >   - **(10)** whether the position is vacant, and in the case of a vacancy, for positions for which appointment is required to be made by the President by and with the advice and consent of the Senate, the name of the acting official, and, for other positions, the name of the official performing the duties of the vacant position.
+    > - **(d)** *Current data* For each agency, the Director shall indicate the date that the agency last updated the data.
+    > - **(e)** *Format* The Director shall make the data on the covered website available to the public at no cost over the internet in a searchable, sortable, downloadable, and machine-readable format so that the data qualifies as an open Government data asset, as defined in section 3502 of title 44.
+    > - **(f)** *Authority of Director*
     >   - **(1)** *Information required* Each agency shall provide to the Director any information that the Director determines necessary to establish and maintain the covered website, including the information uploaded pursuant to paragraph (4).
     >   - **(2)** *Requirements for agencies* Not later than 1 year after the date of enactment of the PLUM Act, the Director shall issue instructions to agencies with specific requirements for the provision or uploading of information required under paragraph (1), including—
     >     - **(A)** specific data standards that an agency shall follow to ensure that the information is complete, accurate, and reliable;
@@ -83,34 +81,43 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(B)** complete, accurate, and reliable information; or
     >     - **(C)** the information during the timeframe specified by the Director.
     >   - **(4)** *Monthly updates*
-    >     - **(A)** Not later than 90 days after the date the covered website is established, and not less than once during each 30-day period thereafter, the head of each agency shall upload to the covered website updated information (if any) on—
+    >     - **(A)** Not later than 90 days after the date the covered website is established, and not less than once during each 30 day period thereafter, the head of each agency shall upload to the covered website updated information (if any) on—
     >       - **(i)** the policy and supporting positions in the agency;
     >       - **(ii)** the appointees occupying such positions in the agency; and
     >       - **(iii)** the former appointees who served in the agency under the President then in office.
     >     - **(B)** Information provided under subparagraph (A) shall supplement, not supplant, previously provided data under such subparagraph.
     >   - **(5)** *OPM help desk* The Director shall establish a central help desk, to be operated by not more than one full-time employee, to assist any agency with implementing this section.
-    >   - **(6)** *Coordination*
-    >     - **(A)** The Director shall consult with the 18F office (or any successor office) within the General Services Administration for purposes of the development, establishment, operation, and support of the covered website.
-    >     - **(B)** The Director may designate one or more Federal agencies to participate in the development, establishment, operation, and support of the covered website. With respect to any such designation, the Director may specify the scope of the responsibilities of the Federal agency so designated.
-    > - **(f)** *Responsibility of agencies*
-    >   - **(1)** *Provision of information* Each agency shall comply with the instructions and guidance issued by the Director to carry out this Act, and, upon request of the Director, shall provide appropriate assistance to the Director to ensure the successful operation of the covered website in the manner and within the timeframe specified by the Director under subsection (e)(2).
+    >   - **(6)** *Coordination* The Director may designate one or more Federal agencies to participate in the development, establishment, operation, and support of the covered website. With respect to any such designation, the Director may specify the scope of the responsibilities of the Federal agency so designated.
+    >   - **(7)** *Data standards and timing* The Director shall make available on the covered website information regarding on data collection standards, quality assurance methods, and time frames for reporting data to the Director.
+    >   - **(8)** *Regulations* The Director may prescribe regulations necessary for the administration of this section.
+    > - **(g)** *Responsibility of agencies*
+    >   - **(1)** *Provision of information* Each agency shall comply with the instructions and guidance issued by the Director to carry out this Act, and, upon request of the Director, shall provide appropriate assistance to the Director to ensure the successful operation of the covered website in the manner and within the timeframe specified by the Director under subsection (f)(2).
     >   - **(2)** *Ensuring completeness, accuracy, and reliability* With respect to any submission of information described in paragraph (1), the head of an agency shall include an explanation of how the agency ensured the information is complete, accurate, and reliable, and a certification that such information is complete, accurate, and reliable.
-    > - **(g)** *Information verification*
-    >   - **(1)** *In general* Not less frequently than semiannually, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm that the information on the covered website is complete, accurate, reliable, and up-to-date. On the date of any such confirmation, the Director shall publish on the covered website a certification of that such confirmation has been made.
+    > - **(h)** *Information verification*
+    >   - **(1)** *In general* Not less frequently than semiannually, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm that the information on the covered website is complete, accurate, reliable, and up-to-date. On the date of any such confirmation, the Director shall publish on the covered website a certification that such confirmation has been made.
     >   - **(2)** *Authority of director* In carrying out paragraph (1), the Director may—
     >     - **(A)** request additional information from an agency; and
     >     - **(B)** use any additional information provided to the Director or the White House Office of Presidential Personnel for the purposes of verification.
     >   - **(3)** *Public comment* The Director shall establish a process under which members of the public may provide feedback regarding the accuracy of the information on the covered website.
-    > - **(h)** *Data archiving*
+    > - **(i)** *Data archiving*
     >   - **(1)** *In general* As soon as practicable after a transitional inauguration day (as defined in section 3349a), the Director, in consultation with the Archivist of the United States, shall archive the data that was compiled on the covered website for the preceding presidential administration.
     >   - **(2)** *Public availability* The Director shall make the data described in paragraph (1) publicly available over the internet—
     >     - **(A)** on, or through a link on, the covered website;
     >     - **(B)** at no cost; and
-    >     - **(C)** in a searchable, sortable, down­load­able, and machine readable format.
+    >     - **(C)** in a searchable, sortable, downloadable, and machine-readable format.
+    > - **(j)** *Reports*
+    >   - **(1)** *In general* Not less frequently than one year after the covered website is established and not less than annually thereafter, the Director, in coordination with the White House Office of Presidential Personnel, shall publish a report on the covered website that contains summary level information on the demographics of any appointee. Such report shall provide such information in a structured data format that is searchable, sortable, and downloadable, makes use of common identifiers wherever possible, and contains current and historical data regarding such information.
+    >   - **(2)** *Contents*
+    >     - **(A)** *In general* Each report published under paragraph (1) shall include self-identified data on race, ethnicity, tribal affiliation, gender, disability, sexual orientation, veteran status, and whether the appointee is over the age of 40 with respect to each type of appointee. Such a report shall allow for users of the covered website to view the type of appointee by agency or component, along with these self-identified data, alone and in combination, to the greatest level detail possible without allowing the identification of individual appointees.
+    >     - **(B)** *Option to not specify* When collecting each category of data described in subparagraph (A), each appointee shall be allowed an option to not specify with respect to any such category.
+    >     - **(C)** *Consultation* The Director shall consult with the Committee on Oversight and Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding reports published under this subsection and the information in such reports to determine whether the intent of this section is being fulfilled and if additional information or other changes are needed for such reports.
+    >   - **(3)** *Exclusion of career positions* For purposes of applying the term “appointee” in this subsection, such term does not include any individual appointed to a position described in subsection (a)(5)(F).
 
   - **(2)** *Clerical amendment* The table of sections for subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following:
 - **(b)** *Other matters*
-  - **(1)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000, to remain available until expended, for developing the website under section 3330f(b) of title 5, United States Code, as added by subsection (a)(1).
+  - **(1)** *Authorization of appropriations* There is authorized to be appropriated $7,000,000, to remain available until expended, for—
+    - **(A)** developing the website under section 3330f(b) of title 5, United States Code, as added by subsection (a)(1); and
+    - **(B)** updating any data system operated by, or under the authority of, the Office of Personnel Management that will be used to carry out such section.
   - **(2)** *GAO review and report* Not later than 1 year after the date such website is established, the Comptroller General shall conduct a review, and issue a briefing or report, on the implementation of this Act and the amendments made by this Act. The review shall include—
     - **(A)** the quality of data required to be collected and whether such data is complete, accurate, timely, and reliable;
     - **(B)** any challenges experienced by agencies in implementing this Act and the amendments made by this Act; and
