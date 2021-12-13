@@ -1,7 +1,7 @@
 ---
 measure: S. 3377
 congress: 117
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 3377
