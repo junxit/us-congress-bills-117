@@ -1,7 +1,7 @@
 ---
 measure: S. 3377
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3377
@@ -32,3 +32,17 @@ Capitol Police Emergency Assistance Act of 2021
 - 2021-12-13 — Introduced in Senate
 - 2021-12-13 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S9125-9126; text: CR S9125-9126)
 - 2021-12-13 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S9125-9126; text: CR S9125-9126)
+- 2021-12-14 — Considered by unanimous consent. (consideration: CR H7803-7804)
+- 2021-12-14 — Held at the desk.
+- 2021-12-14 — Message on Senate action sent to the House.
+- 2021-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-14 — Ms. Lofgren asked unanimous consent to take from the Speaker's table and consider.
+- 2021-12-14 — On passage Passed without objection.
+- 2021-12-14 — Passed/agreed to in House: On passage Passed without objection.
+- 2021-12-14 — Received in the House.
+- 2021-12-17 — Presented to President.
+- 2021-12-17 — Presented to President.
+- 2021-12-22 — Became Public Law No: 117-77.
+- 2021-12-22 — Became Public Law No: 117-77.
+- 2021-12-22 — Signed by President.
+- 2021-12-22 — Signed by President.
