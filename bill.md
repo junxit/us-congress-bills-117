@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 6263
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6263
+
+> To amend title 54, United States Code, and the Federal Lands Recreation Enhancement Act to prohibit medical discrimination relating to applications for commercial use authorizations and special recreation permits, and to clarify the status of the holders of commercial use authorizations and special recreation permits, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Guides and Outfitters from Coronavirus Vaccine Mandates in the Great Outdoors Act”.
+
+## § 2. National Park Service commercial use authorizations
+
+Section 101925(b) of title 54, United States Code, is amended by adding at the end the following:
+
+> - **(3)** *Prohibition of medical discrimination* The Secretary shall not deny an application for a commercial use authorization under this section for any reason relating to the coronavirus vaccination status of an applicant or an employee of an applicant.
+> - **(4)** *Status of holder of commercial use authorization* A holder of a commercial use authorization issued under this section shall not be considered to be an employee, contractor, or subcontractor of the Federal Government.
+
+## § 3. Federal land management agency permitting
+
+Section 803(h) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6802(h)) is amended—
+
+- **(1)** by striking “The Secretary may” and inserting the following:
+  > - **(1)** *In general* The Secretary may
+
+- **(2)** by adding at the end the following:
+  > - **(2)** *Prohibition of medical discrimination* The Secretary shall not deny an application for a special recreation permit under paragraph (1) for any reason relating to the coronavirus vaccination status of an applicant or an employee of an applicant.
+  > - **(3)** *Status of holder of special recreation permit* A holder of a special recreation permit issued under paragraph (1) shall not be considered to be an employee, contractor, or subcontractor of the Federal Government.
