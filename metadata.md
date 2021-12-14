@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5665
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5665
@@ -90,3 +90,21 @@ Combating International Islamophobia Act
 - 2021-12-13 — Placed on the Union Calendar, Calendar No. 156.
 - 2021-12-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-215.
 - 2021-12-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-215.
+- 2021-12-14 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2021-12-14 — Considered as unfinished business. (consideration: CR H7815-7816)
+- 2021-12-14 — Considered under the provisions of rule H. Res. 849. (consideration: CR H7794-7803)
+- 2021-12-14 — DEBATE - The House continued with further debate on H.R. 5665.
+- 2021-12-14 — DEBATE - The House continued with further debate on H.R. 5665.
+- 2021-12-14 — DEBATE - The House proceeded with one hour of debate on H.R. 5665.
+- 2021-12-14 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-12-14 — House amendment offered
+- 2021-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-14 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2021-12-14 — On passage Passed by the Yeas and Nays: 219 - 212 (Roll no. 448). (text: CR H7815-7816)
+- 2021-12-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5665, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. McCaul demaneded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2021-12-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 212 (Roll no. 448).(text: CR H7815-7816)
+- 2021-12-14 — Rule H. Res. 849 passed House. (CR H7665-7666)
+- 2021-12-14 — Rule provides for consideration of H.R. 5665 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2021-12-14 — Rules Committee Resolution H. Res. 849 Reported to House. Rule provides for consideration of H.R. 5665 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
+- 2021-12-14 — The previous question was ordered pursuant to the rule.
+- 2021-12-14 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. After review, the Chair ruled that the words were in violation of the spirit of debate.
