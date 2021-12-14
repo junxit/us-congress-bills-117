@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 33
 congress: 117
-version: Engrossed in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 33
