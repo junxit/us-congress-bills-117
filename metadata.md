@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 33
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 33
@@ -33,3 +33,12 @@ A joint resolution joint resolution relating to increasing the debt limit.
 - 2021-12-14 — Rule H. Res. 852 passed House.
 - 2021-12-14 — Rules Committee Resolution H. Res. 852 Reported to House. Providing for consideration of S.J. Res. 33. Provides for one hour of debate, the previous question shall be considered as ordered without intervening motions, and provides for a motion to commit.
 - 2021-12-14 — The previous question was ordered pursuant to the rule.
+- 2021-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-15 — On passage Passed by the Yeas and Nays: 221 - 209 (Roll no. 449). (text: CR H7819-7820)
+- 2021-12-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 209 (Roll no. 449).(text: CR H7819-7820)
+- 2021-12-15 — Presented to President.
+- 2021-12-15 — Presented to President.
+- 2021-12-16 — Became Public Law No: 117-73.
+- 2021-12-16 — Became Public Law No: 117-73.
+- 2021-12-16 — Signed by President.
+- 2021-12-16 — Signed by President.
