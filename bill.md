@@ -13,61 +13,38 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Suicide Training and Awareness Nationally Delivered for Universal Prevention Act of 2021” or the “STANDUP Act of 2021”.
 
-## § 2. Findings
-
-The Congress finds as follows:
-
-- **(1)** Since 2010, suicide has been the second-leading cause of death for young people ages 10 through 24. In 2019, 6,488 young people ages 10–24 died by suicide.
-- **(2)** Based on the 2019 Youth Risk Behavior Survey of the Centers for Disease Control and Prevention (in this section referred to as “CDC”), 8.9 percent of youth in grades 9–12 reported that they made at least one suicide attempt during the 12 months before the survey.
-- **(3)** While there is no complete count of suicide attempts in the United States, CDC data suggests that for every reported death by suicide among people ages 10 through 24, approximately 33.5 young people visit a hospital for self-harm related injuries.
-- **(4)** In 2019, suicide was the tenth-leading cause of death overall in the United States, with over 47,500 people dying by suicide, and there were more than twice as many suicides in the United States as there were homicides.
-- **(5)** Youth often display warning signs and signals before harming themselves or others. Research shows that 70 percent of those who die by suicide tell someone of their plans or give another warning sign.
-- **(6)** According to the CDC, the rates of suicide among non-Hispanic American Indians and Alaska Natives were 60 percent greater than the general population in 2019 and are the highest of any racial or ethnic group in the United States. In addition, a study of CDC data from 2001 through 2015 shows that suicide rates for Black children ages 5 through 12 were roughly 2 times higher than those of similarly aged White children.
-
-## § 3. Student suicide awareness and prevention training
+## § 2. Student suicide awareness and prevention training
 
 - **(a)** *In general* Title V of the Public Health Service Act is amended by inserting after section 520A of such Act (42 U.S.C. 290bb–32) the following:
-  > ## § 520B. Student suicide awareness and prevention training policies
+  > ## § 520B. Student suicide awareness and prevention training
   >
-  > - **(a)** *In general* As a condition on receipt of funds under section 520A, each State educational agency, local educational agency, and tribal educational agency that receives such funds, directly or through a State or Indian Tribe, for activities to be performed in schools with respect to grades 6 through 12, including the Project AWARE State Education Agency Grant Program, shall—
-  >   - **(1)** establish and implement a school-based student suicide awareness and prevention training policy;
-  >   - **(2)** consult with stakeholders (including principals, teachers, parents, local tribal officials, and other school leaders) in the development of the policy under subsection (a)(1); and
-  >   - **(3)** collect and report information in accordance with subsection (c).
-  > - **(b)** *School-Based student suicide awareness and prevention training policy* A school-based student suicide awareness and prevention training policy implemented pursuant to subsection (a)—
-  >   - **(1)** shall be evidence-based;
-  >   - **(2)** shall be culturally and linguistically appropriate;
-  >   - **(3)** shall provide evidence-based training to students in grades 6 through 12, using school-based mental health service providers, if such providers are reasonably available, regarding—
-  >     - **(A)** suicide education and awareness, including warning signs for suicide and self-harm;
-  >     - **(B)** methods that students can use to seek help for themselves and others; and
-  >     - **(C)** student resources for suicide awareness and prevention;
-  >   - **(4)** shall provide for retraining of such students every school year;
-  >   - **(5)** may last for such period as the State educational agency, local educational agency, or tribal educational agency involved determines to be appropriate;
-  >   - **(6)** may be implemented through any delivery method, including in-person trainings, digital trainings, or train-the-trainer models; and
-  >   - **(7)** may include discussion of comorbidities and risk factors for suicidal ideation or self-harm, including substance misuse, sexual, or physical abuse, mental illness, and other evidence-based comorbidities or risk factors.
-  > - **(c)** *Collection of information and reporting* Each State educational agency, local educational agency, and tribal educational agency that receives funds under section 520A shall, with respect to each school served by the agency, collect and report to the Secretary the following information:
-  >   - **(1)** The number of student trainings conducted.
+  > - **(a)** *In general* In awarding funds under section 520A, the Secretary shall give priority to applications under such section from a State educational agency, local educational agency, or Tribal educational agency, submitted directly or through a State or Indian Tribe, for funding for activities in secondary schools, where such agency has implemented, or includes in such application a plan to implement, a student suicide awareness and prevention training policy, which may include applicable youth suicide early intervention and prevention strategies implemented through section 520E—
+  >   - **(1)** establishing and implementing a school-based student suicide awareness and prevention training policy in accordance with subsection (c);
+  >   - **(2)** consulting with stakeholders (including principals, teachers, parents, local Tribal officials, and other relevant experts) and, as appropriate, utilizing information, models, and other resources made available by the Suicide Prevention Technical Assistance Center authorized under section 520C in the development of the policy under paragraph (1); and
+  >   - **(3)** collecting and reporting information in accordance with subsection (d).
+  > - **(b)** *Consideration* In giving priority to applicants as described in subsection (a), the Secretary shall, as appropriate, take into consideration the incidence and prevalence of suicide in the applicable jurisdiction and the costs of establishing and implementing, as applicable, a school-based student suicide awareness and prevention training policy.
+  > - **(c)** *School-Based student suicide awareness and prevention training policy* A school-based student suicide awareness and prevention training policy implemented pursuant to subsection (a)(1) shall—
+  >   - **(1)** be evidence-based;
+  >   - **(2)** be culturally- and linguistically-appropriate;
+  >   - **(3)** provide evidence-based training to students in grades 6 through 12, in coordination with school-based mental health resources, as applicable, regarding—
+  >     - **(A)** suicide prevention education and awareness, including associated risk factors;
+  >     - **(B)** methods that students can use to seek help; and
+  >     - **(C)** student resources for suicide awareness and prevention; and
+  >   - **(4)** provide for periodic retraining of such students.
+  > - **(d)** *Collection of information and reporting* Each State educational agency, local educational agency, and Tribal educational agency that receives priority to implement a new training policy pursuant to subsection (a)(1) shall report to the Secretary the following aggregated information, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws:
+  >   - **(1)** The number of trainings conducted, including the number of student trainings conducted, and the training delivery method used.
   >   - **(2)** The number of students trained, disaggregated by age and grade level.
   >   - **(3)** The number of help-seeking reports made by students after implementation of such policy.
-  > - **(d)** *Evidence-Based program listing* The Secretary, in consultation with the Secretary of Education, shall make publicly available the policies established by State educational agencies, local educational agencies, and tribal educational agencies pursuant to this section and the training that is available to students and teams pursuant to such policies, including identification of whether such training is available to trainees at no cost.
-  > - **(e)** *Implementation timeline* A State educational agency, local educational agency, or tribal educational agency shall establish and begin implementation of the policies required by subsection (a)(1) not later than the beginning of the third fiscal year following the date of enactment of this section for which the agency receives funds under section 520A.
-  > - **(f)** *Definitions* In this section:
-  >   - **(1)** The term evidence-based has the meaning given to such term in section 8101 of the Elementary and Secondary Education Act of 1965.
-  >   - **(2)** The term local education agency has the meaning given to such term in section 8101 of the Elementary and Secondary Education Act of 1965.
-  >   - **(3)** The term school-based mental health service provider has the meaning given to such term in section 4102(6) of the Elementary and Secondary Education Act of 1965.
-  >   - **(4)** The term State educational agency has the meaning given to such term in section 8101 of the Elementary and Secondary Education Act of 1965.
-  >   - **(5)** The term tribal educational agency has the meaning given to such term in section 6132 of the Elementary and Secondary Education Act of 1965.
-  >
-  > ## § 520B–1. Best practices for student suicide awareness and prevention training
-  >
-  > The Secretary, acting through the Assistant Secretary, in consultation with the Secretary of Education and the Bureau of Indian Education, shall—
-  >
-  > - **(1)** publish best practices for school-based student suicide awareness and prevention training, pursuant to section 520B, that are based on—
-  >   - **(A)** evidence-based practices; and
-  >   - **(B)** input from relevant Federal agencies, national organizations, Indian tribes and tribal organizations, and related stakeholders;
-  > - **(2)** publish guidance, based on the best practices under paragraph (1), to provide State educational agencies, local educational agencies, and tribal educational agencies with information on student suicide awareness and prevention best practices;
-  > - **(3)** disseminate such best practices to State educational agencies, local educational agencies, and tribal educational agencies; and
-  > - **(4)** provide technical assistance to State educational agencies, local educational agencies, and tribal educational agencies.
+  > - **(e)** *Evidence-Based program availability* The Secretary shall coordinate with the Secretary of Education and the Secretary of the Interior to—
+  >   - **(1)** make publicly available the policies established by State educational agencies, local educational agencies, and Tribal educational agencies pursuant to this section and the training that is available to students and teams pursuant to such policies, in accordance with section 543A; and
+  >   - **(2)** provide technical assistance and disseminate best practices on student suicide awareness and prevention training policies, including through the Suicide Prevention Technical Assistance Center authorized under section 520C, as applicable, to State educational agencies, local educational agencies, and Tribal agencies.
+  > - **(f)** *Implementation* Not later than September 30, 2024, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives the number of recipients of funds under section 520A who have implemented training policies described in subsection (a)(1) and a summary of the information received under subsection (d).
+  > - **(g)** *Definitions* In this section:
+  >   - **(1)** The term evidence-based has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965.
+  >   - **(2)** The term local educational agency has the meaning given to such term in section 8101 of the Elementary and Secondary Education Act of 1965.
+  >   - **(3)** The term State educational agency has the meaning given to such term in section 8101 of the Elementary and Secondary Education Act of 1965.
+  >   - **(4)** The term Tribal educational agency has the meaning given to the term tribal educational agency in section 6132 of the Elementary and Secondary Education Act of 1965.
 
-## § 4. Effective date
+## § 3. Effective date
 
-The amendments made by this Act shall only apply with respect to applications for assistance under section 520A of the Public Health Service Act (42 U.S.C. 290bb–32) that are submitted after the date of enactment of this Act.
+The amendment made by this Act shall apply only with respect to applications for assistance under section 520A of the Public Health Service Act (42 U.S.C. 290bb–32) that are submitted after the date of enactment of this Act.
