@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5665
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2651a` | add-at-end | Title 1 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2651a` | add-at-end | Title I of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151n` | redesignate | by redesignating paragraphs (9), (10), (11), and (12), as paragraphs (10), (11), (12), and (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151n` | insert | by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2304` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
