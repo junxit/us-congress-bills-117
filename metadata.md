@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5746
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5746
@@ -40,3 +40,12 @@ Freedom to Vote: John R. Lewis Act
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7470-7471)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7470-7471)
 - 2021-12-09 — Received in the Senate, read twice.
+- 2021-12-14 — Amendment SA 4893 agreed to in Senate by Unanimous Consent.
+- 2021-12-14 — Amendment SA 4893 proposed by Senator Cantwell. (consideration: CR S9155; text: CR S9155) In the nature of a substitute.
+- 2021-12-14 — Measure laid before Senate by unanimous consent. (consideration: CR S9155)
+- 2021-12-14 — Message on Senate action sent to the House.
+- 2021-12-14 — Passed Senate with an amendment by Unanimous Consent.
+- 2021-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2021-12-14 — Senate amendment agreed to: Amendment SA 4893 agreed to in Senate by Unanimous Consent.
+- 2021-12-14 — Senate amendment proposed (on the floor): Amendment SA 4893 proposed by Senator Cantwell.
+- 2021-12-14 — Senate amendment submitted

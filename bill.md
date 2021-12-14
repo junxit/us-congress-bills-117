@@ -2,12 +2,14 @@
 legis-num: H.R. 5746
 congress: 117th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5746
 
-> To amend title 51, United States Code, to extend the authority of the National Aeronautics and Space Administration to enter into leases of non-excess property of the Administration.
+That the bill from the House of Representatives (H.R. 5746) entitled “An Act to amend title 51, United States Code, to extend the authority of the National Aeronautics and Space Administration to enter into leases of non-excess property of the Administration.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -26,7 +28,7 @@ Congress find the following:
 
 ## § 3. Extension of authority to enter into leases of non-excess property of the National Aeronautics and Space Administration
 
-Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2021” and inserting “December 31, 2031”.
+Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2021” and inserting “March 31, 2022”.
 
 ## § 4. Determination of Budgetary Effects
 

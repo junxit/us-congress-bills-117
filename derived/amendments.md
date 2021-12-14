@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5746
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2021” and inserting “December 31, 2031”. | the bill names no machine-readable US Code section |
+| — | replace | Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2021” and inserting “March 31, 2022”. | the bill names no machine-readable US Code section |
