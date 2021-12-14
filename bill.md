@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6275
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6275
+
+> To prohibit the use of Federal funds to administer a COVID–19 vaccine to officers and employees of the U.S. Border Patrol, U.S. Immigration and Customs Enforcement, or certain Department of the Interior officers and employees or require that such officers and employees receive such a vaccine as a condition of employment.
+
+## § 1. No vaccine mandate for U.S. Border Patrol, U.S. Immigration and Customs Enforcement, or certain Department of the Interior officers and employees
+
+No Federal funds may be used to—
+
+- **(1)** administer a COVID–19 vaccine to—
+  - **(A)** any officer or employee of the U.S. Border Patrol or the U.S. Immigration and Customs Enforcement; or
+  - **(B)** any officer or employee of the Department of the Interior or the Drug Enforcement Agency who is engaged in activities respecting the construction or maintenance of a border barrier along the souther border of the United States; or
+- **(2)** require any such officer or employee to receive such a vaccine as a condition of employment.
