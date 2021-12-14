@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 33
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 33
@@ -16,10 +16,11 @@ A joint resolution joint resolution relating to increasing the debt limit.
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2021-12-14 — [Senate 117-1-497](votes/senate-117-1-0497.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–49)
 - 2021-12-14 — [Senate 117-1-498](votes/senate-117-1-0498.md) — On the Joint Resolution — **Joint Resolution Passed** (50–49)
+- 2021-12-15 — [House 117-1-449](votes/house-117-1-0449.md) — On Passage — **Passed** (221–209)
 
 ## Actions
 
@@ -38,3 +39,12 @@ A joint resolution joint resolution relating to increasing the debt limit.
 - 2021-12-14 — Rule H. Res. 852 passed House.
 - 2021-12-14 — Rules Committee Resolution H. Res. 852 Reported to House. Providing for consideration of S.J. Res. 33. Provides for one hour of debate, the previous question shall be considered as ordered without intervening motions, and provides for a motion to commit.
 - 2021-12-14 — The previous question was ordered pursuant to the rule.
+- 2021-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2021-12-15 — On passage Passed by the Yeas and Nays: 221 - 209 (Roll no. 449). (text: CR H7819-7820)
+- 2021-12-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 209 (Roll no. 449).(text: CR H7819-7820)
+- 2021-12-15 — Presented to President.
+- 2021-12-15 — Presented to President.
+- 2021-12-16 — Became Public Law No: 117-73.
+- 2021-12-16 — Became Public Law No: 117-73.
+- 2021-12-16 — Signed by President.
+- 2021-12-16 — Signed by President.
