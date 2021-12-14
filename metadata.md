@@ -1,7 +1,7 @@
 ---
 measure: S. 1543
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1543
@@ -50,3 +50,18 @@ STANDUP Act of 2021
 - 2021-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 127.
 - 2021-12-14 — Passed Senate with an amendment by Voice Vote. (consideration: CR S9155-9156; text: CR S9155-9156)
 - 2021-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2021-12-15 — Message on Senate action sent to the House.
+- 2021-12-16 — Held at the desk.
+- 2021-12-16 — Received in the House.
+- 2022-02-28 — Considered under suspension of the rules. (consideration: CR H1158-1159)
+- 2022-02-28 — DEBATE - The House proceeded with forty minutes of debate on S. 1543.
+- 2022-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-28 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2022-02-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1158-1159)
+- 2022-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1158-1159)
+- 2022-03-03 — Presented to President.
+- 2022-03-03 — Presented to President.
+- 2022-03-15 — Became Public Law No: 117-100.
+- 2022-03-15 — Became Public Law No: 117-100.
+- 2022-03-15 — Signed by President.
+- 2022-03-15 — Signed by President.
