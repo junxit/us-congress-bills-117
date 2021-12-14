@@ -1,0 +1,18 @@
+---
+legis-num: S. RES. 478
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 478
+
+> Amending rule XXII of the Standing Rules of the Senate to increase the voting threshold to invoke cloture on general appropriation bills during periods of high inflation.
+
+## § 1. Short title
+
+This resolution may be cited as the “Stop Inflationary Spending Resolution”.
+
+## § 2. Cloture threshold for general appropriation bills during periods of high inflation
+
+Paragraph 2 of rule XXII of the Standing Rules of the Senate is amended in the second undesignated subparagraph by inserting “, or on a general appropriation bill, or an amendment thereto, amendment between the Houses in relation thereto, conference report thereon, or motion thereon, that is considered during a period during which the increase in the Consumer Price Index for All Urban Consumers with respect to the preceding 12-month period, as determined by the Bureau of Labor Statistics, is more than 4.0 percent, in which case the necessary affirmative vote shall be two-thirds of the Senators present and voting” after “present and voting”.
