@@ -1,7 +1,7 @@
 ---
 measure: S. 1404
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1404
@@ -113,3 +113,18 @@ Ghost Army Congressional Gold Medal Act
 - 2021-12-15 — Senate amendment proposed (on the floor): Amendment SA 4895 proposed by Senator Schumer for Senator Markey.(consideration: CR S9218; text: CR S9218)
 - 2021-12-15 — Senate amendment submitted
 - 2021-12-15 — Senate amendment submitted
+- 2021-12-16 — Held at the desk.
+- 2021-12-16 — Message on Senate action sent to the House.
+- 2021-12-16 — Received in the House.
+- 2022-01-19 — Considered under suspension of the rules. (consideration: CR H232-235)
+- 2022-01-19 — DEBATE - The House proceeded with forty minutes of debate on S. 1404.
+- 2022-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-01-19 — Ms. Dean moved to suspend the rules and pass the bill.
+- 2022-01-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H232-233)
+- 2022-01-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H232-233)
+- 2022-01-31 — Presented to President.
+- 2022-01-31 — Presented to President.
+- 2022-02-01 — Became Public Law No: 117-85.
+- 2022-02-01 — Became Public Law No: 117-85.
+- 2022-02-01 — Signed by President.
+- 2022-02-01 — Signed by President.
