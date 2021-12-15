@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6256
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6256
@@ -40,3 +40,12 @@ To ensure that goods made with forced labor in the Xinjiang Uyghur Autonomous Re
 - 2021-12-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-12-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-12-15 — Received in the Senate, read twice.
+- 2021-12-16 — Message on Senate action sent to the House.
+- 2021-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9231)
+- 2021-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9231)
+- 2021-12-20 — Presented to President.
+- 2021-12-20 — Presented to President.
+- 2021-12-23 — Became Public Law No: 117-78.
+- 2021-12-23 — Became Public Law No: 117-78.
+- 2021-12-23 — Signed by President.
+- 2021-12-23 — Signed by President.
