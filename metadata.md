@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5665
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5665
@@ -75,9 +75,10 @@ Combating International Islamophobia Act
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -108,3 +109,4 @@ Combating International Islamophobia Act
 - 2021-12-14 — Rules Committee Resolution H. Res. 849 Reported to House. Rule provides for consideration of H.R. 5665 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2021-12-14 — The previous question was ordered pursuant to the rule.
 - 2021-12-14 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. After review, the Chair ruled that the words were in violation of the spirit of debate.
+- 2021-12-15 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
