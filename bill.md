@@ -32,3 +32,8 @@ This Act may be cited as the “Global War on Terrorism Memorial Location Act”
     - **(B)** Potential Site 2—JFK Hockey Fields, Prime Candidate Site 18 in The Memorials and Museums Master Plan.
     - **(C)** Potential Site 3—West Potomac Park, Candidate Site 70 in The Memorials and Museums Master Plan.
   - **(3)** *Commemorative Works Act* Except as otherwise provided in paragraphs (1) and (2), chapter 89 of title 40, United States Code (commonly known as the ‘‘Commemorative Works Act’’), shall apply to the Memorial.
+
+## § 2. National Global War on Terrorism Memorial
+
+- **(a)** *Site* Notwithstanding section 8908(c) of title 40, United States Code, the National Global War on Terrorism Memorial authorized by section 2(a) of the Global War on Terrorism War Memorial Act (40 U.S.C. 8903 note; Public Law 115–51; 131 Stat. 1003) (referred to in this section as the “Memorial”) shall be located within the Reserve (as defined in section 8902(a) of title 40, United States Code).
+- **(b)** *Applicability of Commemorative Works Act* Except as provided in subsection (a), chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”), shall apply to the Memorial.
