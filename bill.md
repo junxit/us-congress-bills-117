@@ -20,8 +20,9 @@ This Act may be cited as the “Protecting Tourism in the United States Act”.
   - **(1)** changes in employment rates in the travel and tourism industry during the pandemic period;
   - **(2)** changes in revenues of businesses in the travel and tourism industry during the pandemic period;
   - **(3)** changes in employment and sales in industries related to the travel and tourism industry, and changes in contributions of the travel and tourism industry to such related industries, during the pandemic period;
-  - **(4)** the effects attributable to the changes described in paragraphs (1) through (3) in the travel and tourism industry and such related industries on the overall economy of the United States during the pandemic period and the projected effects of such changes on the overall economy of the United States following the pandemic period; and
-  - **(5)** any additional matters the Secretary considers appropriate.
+  - **(4)** the effects attributable to the changes described in paragraphs (1) through (3) in the travel and tourism industry and such related industries on the overall economy of the United States, and an analysis of regional economies on a per capita basis during the pandemic period and the projected effects of such changes on the regional and overall economy of the United States following the pandemic period; and
+  - **(5)** reports on the economic impact of COVID-19 issued by other Federal agencies to-date; and
+  - **(5)(6)** any additional matters the Secretary considers appropriate.
 - **(c)** *Consultation and public comment* In conducting the study required by subsection (a), the Secretary shall—
   - **(1)** consult with representatives of—
     - **(A)** the small business sector;
