@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1664
@@ -67,3 +67,12 @@ To authorize the National Medal of Honor Museum Foundation to establish a commem
 - 2021-12-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-52.
 - 2021-12-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-52.
 - 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
+- 2021-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9309; text: CR S9309)
+- 2021-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-12-20 — Message on Senate action sent to the House.
+- 2021-12-23 — Presented to President.
+- 2021-12-23 — Presented to President.
+- 2021-12-27 — Became Public Law No: 117-80.
+- 2021-12-27 — Became Public Law No: 117-80.
+- 2021-12-27 — Signed by President.
+- 2021-12-27 — Signed by President.
