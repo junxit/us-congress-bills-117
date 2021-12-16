@@ -1,7 +1,7 @@
 ---
 measure: S. 2340
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (23), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (24) as paragraph (25); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph 23 the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (23), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (24) as paragraph (25); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (23) the following: | the bill names no machine-readable US Code section |
