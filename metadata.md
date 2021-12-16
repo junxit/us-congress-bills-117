@@ -1,7 +1,7 @@
 ---
 measure: S. 15
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 15
@@ -16,9 +16,11 @@ Protecting Seniors from Emergency Scams Act
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Protecting Seniors from Emergency Scams Act
 
 - 2021-01-22 — Introduced in Senate
 - 2021-01-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-04-28 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2021-12-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
