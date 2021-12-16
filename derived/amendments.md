@@ -1,7 +1,7 @@
 ---
 measure: S. 576
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,3 +44,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `33 U.S.C. § 1268` | add-at-end | Subchapter IV of chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1268` | add-at-end | The table of analysis for chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subchapter IV of chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of analysis for chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
