@@ -1,7 +1,7 @@
 ---
 measure: S. 491
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 491
@@ -28,3 +28,8 @@ York River Wild and Scenic River Act of 2021
 
 - 2021-03-01 — Introduced in Senate
 - 2021-03-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-23 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2021-12-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-50.
+- 2021-12-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-50.
+- 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
