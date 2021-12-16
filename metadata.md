@@ -1,7 +1,7 @@
 ---
 measure: S. 2932
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2932
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2021-10-05 — Introduced in Senate
 - 2021-10-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-12-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2021-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2021-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 189.
