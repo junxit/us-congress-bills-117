@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1170
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1170
@@ -94,3 +94,12 @@ To designate the facility of the United States Postal Service located at 1 Leagu
 - 2021-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2021-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.
+- 2022-05-25 — Message on Senate action sent to the House.
+- 2022-05-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2679)
+- 2022-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-06-22 — Presented to President.
+- 2022-06-22 — Presented to President.
+- 2022-06-23 — Became Public Law No: 117-152.
+- 2022-06-23 — Became Public Law No: 117-152.
+- 2022-06-23 — Signed by President.
+- 2022-06-23 — Signed by President.
