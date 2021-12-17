@@ -1,7 +1,7 @@
 ---
 measure: S. 451
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 451
@@ -16,9 +16,10 @@ Composite Standards Act of 2021
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schatz, Brian [D-HI] (S001194)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Composite Standards Act of 2021
 
 - 2021-02-25 — Introduced in Senate
 - 2021-02-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-08-04 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 208.
