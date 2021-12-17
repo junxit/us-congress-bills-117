@@ -1,7 +1,7 @@
 ---
 measure: S. 1127
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1127
@@ -28,3 +28,7 @@ LEGEND Act of 2021
 
 - 2021-04-14 — Introduced in Senate
 - 2021-04-14 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S1942-1943)
+- 2021-11-17 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.
