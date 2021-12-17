@@ -1,7 +1,7 @@
 ---
 measure: S. 316
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 316
@@ -28,3 +28,7 @@ Fly Safe and Healthy Act of 2021
 
 - 2021-02-12 — Introduced in Senate
 - 2021-02-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-05-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 207.
