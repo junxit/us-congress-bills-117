@@ -1,0 +1,27 @@
+---
+legis-num: S. 3432
+congress: 117th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3432
+
+> To require the Comptroller General of the United States to submit to Congress a report on initiatives of the Department of Defense to source locally and regionally produced foods for consumption or distribution at installations of the Department of Defense.
+
+## § 1. Short title
+
+This Act may be cited as the “Farm to Base Food Security Act”.
+
+## § 2. Report on initiatives of Department of Defense to source locally and regionally produced foods for installations of the Department
+
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report detailing—
+  - **(1)** current procurement practices of the Department of Defense regarding food for consumption or distribution on installations of the Department;
+  - **(2)** efforts by the Department of Defense to establish and strengthen “farm to base” initiatives to source locally and regionally produced foods, including seafood, for consumption or distribution at installations of the Department;
+  - **(3)** efforts by the Department to collaborate with relevant Federal agencies, including the Department of Veterans Affairs, the Department of Agriculture, and the Department of Commerce, to procure locally and regionally produced foods;
+  - **(4)** opportunities where procurement of locally and regionally produced foods would be beneficial to members of the Armed Forces, their families, military readiness by improving health outcomes, and farmers near installations of the Department;
+  - **(5)** barriers currently preventing the Department from increasing procurement of locally and regionally produced foods or preventing producers from partnering with nearby installations of the Department; and
+  - **(6)** recommendations for how the Department can improve procurement practices to increase offerings of locally and regionally produced foods.
+- **(b)** *Appropriate committees of Congress defined* In this section, the term appropriate committees of Congress means—
+  - **(1)** the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, and the Committee on Agriculture, Nutrition, and Forestry of the Senate; and
+  - **(2)** the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Agriculture of the House of Representatives.
