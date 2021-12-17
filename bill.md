@@ -17,7 +17,7 @@ This Act may be cited as the “COVID–19 Home Safety Act of 2021”.
 
 - **(a)** *COVID–19 report required* Not later than 3 months after the date of the enactment of this section and every 3 months thereafter for the duration of the COVID–19 public health emergency, the Consumer Product Safety Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available, a report on the effect of the COVID–19 public health emergency on injuries and deaths from consumer products.
 - **(b)** *Contents of report* The report shall include the following:
-  - **(1)** A list of the top consumer products, prioritizing products that have been associated with the highest risk of serious injury or death during the COVID–19 emergency. The list under this paragraph should be based on relevant data and statistics from—
+  - **(1)** A list of the top consumer products, prioritizing products that caused serious injury or death as well as products that have been associated with the highest risk of serious injury or death during the COVID–19 emergency. The list under this paragraph should be based on relevant data and statistics from—
     - **(A)** the data sources of the Commission;
     - **(B)** other appropriate agencies;
     - **(C)** media reports;
