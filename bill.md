@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1289
 
-> A bill to amend the Marine Mammal Protection Act of 1972 to reauthorize and modify the John H. Prescott Marine Mammal Rescue Assistance Grant Program, and for other purposes.
+> To amend the Marine Mammal Protection Act of 1972 to reauthorize and modify the John H. Prescott Marine Mammal Rescue Assistance Grant Program, and for other purposes.
 
 ## § 1. Short title
 
