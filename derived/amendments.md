@@ -1,7 +1,7 @@
 ---
 measure: S. 2068
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 5314 of title 5, United States Code, is amended by striking “and Under Secretary of Commerce for Travel and Tourism” and inserting “Under Secretary of Commerce for Travel and Tourism, and Under Secretary of Commerce for Minority … | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 644a` | replace | Section 7104(c) of the Federal Acquisition Streamlining Act of 1994 (15 U.S.C. 644a(c)) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 5314 of title 5, United States Code, is amended by striking “and Under Secretary of Commerce for Travel and Tourism” and inserting “Under Secretary of Commerce for Travel and Tourism, and Under Secretary of Commerce for Minority … | the bill names no machine-readable US Code section |
