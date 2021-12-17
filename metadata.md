@@ -1,7 +1,7 @@
 ---
 measure: S. 82
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 82
@@ -29,3 +29,7 @@ Ensuring Health Safety in the Skies Act of 2021
 
 - 2021-01-28 — Introduced in Senate
 - 2021-01-28 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-05-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 204.
