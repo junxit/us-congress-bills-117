@@ -1,7 +1,7 @@
 ---
 measure: S. 3309
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3309
@@ -16,9 +16,10 @@ Securing Semiconductor Supply Chains Act of 2021
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Securing Semiconductor Supply Chains Act of 2021
 
 - 2021-12-02 — Introduced in Senate
 - 2021-12-02 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2021-12-15 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.
