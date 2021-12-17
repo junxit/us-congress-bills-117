@@ -36,7 +36,7 @@ In this Act:
 - **(2)** *Council* The term Council means the Mid-Atlantic Fishery Management Council established under section 302(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)).
 - **(3)** *National standards* The term National Standards means the national standards for fishery conservation and management set out in section 301(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851(a)).
 - **(4)** *Secretary* The term Secretary means the Secretary of Commerce.
-- **(5)** *Summer flounder* The term summer flounder means the species Paralichthys dentatus.
+- **(5)** *Summer flounder* The term summer flounder means the species Paralichthys dentatus (commonly known as “Fluke”).
 
 ## § 4. Summer flounder management reform
 
