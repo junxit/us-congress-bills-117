@@ -1,7 +1,7 @@
 ---
 measure: S. 2514
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2514
@@ -32,3 +32,5 @@ A bill to rename the Provo Veterans Center in Orem, Utah, as the "Col. Gail S. H
 - 2021-12-16 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2021-12-16 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
+- 2021-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9306-9307; text: CR S9307)
+- 2021-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
