@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “COVID-19 Bankruptcy Relief Extension Consolidation Act of 2021”.
+This Act may be cited as the “COVID–19 Bankruptcy Relief Extension Consolidation Act of 2021”.
 
 ## § 2. Extensions
 
