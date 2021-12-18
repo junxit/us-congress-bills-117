@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1192
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1192
@@ -53,3 +53,15 @@ PRRADA
 - 2021-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
 - 2021-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9307-9308; text: CR S9307-9308)
 - 2021-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2021-12-20 — Message on Senate action sent to the House.
+- 2022-01-19 — DEBATE - The House proceeded with forty minutes of debate on motion to agree to the Senate amendment to H.R. 1192.
+- 2022-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-01-19 — Ms. Dean moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H230-232)
+- 2022-01-19 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H230-231)
+- 2022-01-19 — Presented to President.
+- 2022-01-19 — Presented to President.
+- 2022-01-19 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text: CR H230-231)
+- 2022-01-20 — Became Public Law No: 117-82.
+- 2022-01-20 — Became Public Law No: 117-82.
+- 2022-01-20 — Signed by President.
+- 2022-01-20 — Signed by President.
