@@ -29,17 +29,19 @@ This Act may be cited as the “Artificial Intelligence Training for the Acquisi
   - **(4)** *Director* The term Director means the Director of the Office of Management and Budget.
   - **(5)** *Executive agency* The term executive agency—
     - **(A)** has the meaning given the term in section 133 of title 41, United States Code; and
-    - **(B)** does not include the Department of Defense or a component of the Department of Defense.
+    - **(B)** does not include—
+      - **(i)** the Department of Defense or a component of the Department of Defense; or
+      - **(ii)** the National Nuclear Security Administration or a component of the National Nuclear Security Administration.
 - **(b)** *Requirement*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, and not less frequently than annually thereafter, the Director, in coordination with the Administrator of General Services and any other person determined relevant by the Director, shall develop and implement or otherwise provide an AI training program for the covered workforce.
   - **(2)** *Purpose* The purpose of the AI training program shall be to ensure that the covered workforce has knowledge of the capabilities and risks associated with AI.
   - **(3)** *Topics* The AI training program shall include information relating to—
-    - **(A)** the science underlying artificial intelligence, including how artificial intelligence works;
+    - **(A)** the science underlying AI, including how AI works;
     - **(B)** introductory concepts relating to the technological features of artificial intelligence systems;
-    - **(C)** the ways in which artificial intelligence can benefit the Federal Government;
-    - **(D)** the risks posed by artificial intelligence, including discrimination and risks to privacy;
-    - **(E)** ways to mitigate the risks described in subparagraph (D), including efforts to create and identify artificial intelligence that is reliable, safe, and trustworthy; and
-    - **(F)** future trends in artificial intelligence, including trends for homeland and national security and innovation.
+    - **(C)** the ways in which AI can benefit the Federal Government;
+    - **(D)** the risks posed by AI, including discrimination and risks to privacy;
+    - **(E)** ways to mitigate the risks described in subparagraph (D), including efforts to create and identify AI that is reliable, safe, and trustworthy; and
+    - **(F)** future trends in AI, including trends for homeland and national security and innovation.
   - **(4)** *Updates* Not less frequently than once every 2 years, the Director shall update the AI training program to—
     - **(A)** incorporate new information relating to AI; and
     - **(B)** ensure that the AI training program continues to satisfy the requirements under paragraph (3).
