@@ -1,7 +1,7 @@
 ---
 measure: S. 1760
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1760
@@ -24,3 +24,7 @@ A bill to designate the community-based outpatient clinic of the Department of V
 
 - 2021-05-20 — Introduced in Senate
 - 2021-05-20 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-12-18 — Passed Senate without amendment by Unanimous Consent. (text: CR S9306)
+- 2021-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2021-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2021-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S9306)
