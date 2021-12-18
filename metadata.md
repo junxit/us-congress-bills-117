@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1192
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1192
@@ -51,3 +51,5 @@ PRRADA
 - 2021-12-13 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-48. Additional views filed.
 - 2021-12-13 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-48. Additional views filed.
 - 2021-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
+- 2021-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9307-9308; text: CR S9307-9308)
+- 2021-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
