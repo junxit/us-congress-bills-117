@@ -24,4 +24,4 @@ Section 4(b)(1) of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note;
 
 ## § 3. Report
 
-Within 180 days after the date of enactment of this Act, the Attorney General shall submit to the relevant committees of the House of Representatives and of the Senate a report that outlines efforts to educate and conduct outreach to persons made newly eligible for benefits under the amendments made by section 2 of this Act.
+Within 60 days after the date of enactment of this Act, the Attorney General shall submit to the relevant committees of the House of Representatives and of the Senate a report that outlines efforts to educate and conduct outreach to persons made newly eligible for benefits under the amendments made by section 2 of this Act.
