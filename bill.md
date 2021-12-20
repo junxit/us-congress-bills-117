@@ -19,6 +19,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas blueberries are low in fat, and a source of fiber, vitamins, and minerals;
 - Whereas blueberries are being studied to examine the role they may play in promoting good health in areas such as cardiovascular health, brain health, exercise, insulin response, and gut health; and
 - Whereas highbush blueberries are harvested in the United States from April through September, with the harvest reaching its peak in July: Now, therefore, be it
+- Whereas blueberries are a native North American fruit, first used fresh and dried in food and medicines by Native Americans who introduced them to early colonists, which led to new uses and forms, including frozen, establishing traditions still observed today;
+- Whereas wild blueberries continue to be managed and harvested in Maine by farmers, including the Wabanaki, as a native, naturally occurring crop;
+- Whereas the pioneering work conducted in New Jersey by Elizabeth White and Dr. Frederick Coville, a Department of Agriculture botanist, in the early 1900s to domesticate wild lowbush blueberries resulted in the development of the hybrid for cultivated highbush blueberries;
+- Whereas because of these early efforts, highbush blueberries are large, sweet, juicy berries that can be commercially produced and shipped, allowing them to become an important United States agricultural industry;
+- Whereas wild blueberries—(1)are small and sweet; and(2)are not planted, but still grow and are harvested where they have naturally occurred for thousands of years;
+- Whereas highbush and wild blueberries have a total harvested area estimated at more than 110,000 acres and are produced in 48 States by nearly 16,000 farms;
+- Whereas blueberry production in the United States increased, with particular growth in the past two years, to reach a harvest of 695,600,000 pounds in 2020;
+- Whereas blueberries are low in fat, and a source of fiber, vitamins, and minerals;
+- Whereas blueberries are being studied to examine the role they may play in promoting good health in areas such as cardiovascular health, brain health, exercise, insulin response, and gut health; and
+- Whereas highbush blueberries are harvested in the United States from April through September, with the harvest reaching its peak in July: Now, therefore, be it
 
 That the House of Representatives—
 
