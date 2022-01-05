@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 26
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 26
@@ -27,3 +27,10 @@ A concurrent resolution providing for the use of the catafalque situated in the 
 - 2022-01-05 — Introduced in Senate
 - 2022-01-05 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S51; text: CR S51)
 - 2022-01-05 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S51; text: CR S51)
+- 2022-01-06 — Message on Senate action sent to the House.
+- 2022-01-10 — Considered by unanimous consent. (consideration: CR H7)
+- 2022-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-01-10 — Mr. Amodei asked unanimous consent to take from the Speaker's table and consider.
+- 2022-01-10 — On agreeing to the resolution Agreed to without objection. (text: CR H7)
+- 2022-01-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7)
+- 2022-01-10 — Received in the House.
