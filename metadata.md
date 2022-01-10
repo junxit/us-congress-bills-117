@@ -1,7 +1,7 @@
 ---
 measure: S. 450
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 450
@@ -16,7 +16,7 @@ Emmett Till and Mamie Till-Mobley Congressional Gold Medal Act of 2021
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Cosponsors (68)
+## Cosponsors (69)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -86,6 +86,7 @@ Emmett Till and Mamie Till-Mobley Congressional Gold Medal Act of 2021
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
@@ -105,3 +106,18 @@ Emmett Till and Mamie Till-Mobley Congressional Gold Medal Act of 2021
 - 2022-01-10 — Senate amendment agreed to: Amendment SA 4897 agreed to in Senate by Unanimous Consent.
 - 2022-01-10 — Senate amendment proposed (on the floor): Amendment SA 4897 proposed by Senator Schumer for Senator Burr.
 - 2022-01-10 — Senate amendment submitted
+- 2022-01-11 — Held at the desk.
+- 2022-01-11 — Message on Senate action sent to the House.
+- 2022-01-11 — Received in the House.
+- 2022-12-21 — Considered under suspension of the rules. (consideration: CR H9931-9933)
+- 2022-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 450.
+- 2022-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-21 — Ms. Waters moved to suspend the rules and pass the bill.
+- 2022-12-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9931-9932)
+- 2022-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-334.
+- 2023-01-05 — Became Public Law No: 117-334.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
