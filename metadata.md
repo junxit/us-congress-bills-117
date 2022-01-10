@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 862
 congress: 117
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Res. 862
