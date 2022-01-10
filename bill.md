@@ -2,7 +2,7 @@
 legis-num: H. RES. 864
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 864
@@ -10,3 +10,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 > Expressing the profound sorrow of the House of Representatives on the death of the Honorable Harry Mason Reid, Jr.
 
 That the House has heard with profound sorrow of the death of the Honorable Harry Mason Reid, Jr., a Senator from the State of Nevada.
+
+That the Clerk communicate these resolutions to the Senate and transmit a copy thereof to the family of the deceased.
+
+That when the House adjourns today, it adjourn as a further mark of respect to the memory of the deceased Senator.
