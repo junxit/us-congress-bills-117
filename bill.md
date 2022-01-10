@@ -1,0 +1,21 @@
+---
+legis-num: S. 3449
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3449
+
+> To require foreign establishments engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device to register with the Food and Drug Administration regardless of whether the drug or device undergoes further manufacture, preparation, propagation, compounding, or processing at a separate establishment outside the United States prior to being imported into the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Registration of Certain Foreign Establishments Act”.
+
+## § 2. Registration of certain foreign establishments
+
+- **(a)** *Registration of certain foreign establishments* Section 510(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(i)) is amended by adding at the end the following:
+  > - **(5)** The requirements of paragraphs (1) and (2) shall apply regardless of whether the drug or device undergoes further manufacture, preparation, propagation, compounding, or processing at a separate establishment outside the United States prior to being imported or offered for import into the United States.
+
+- **(b)** *Updating regulations* Not later than 2 years after the date of enactment of this Act, the Secretary of Health and Human Services shall update regulations, as appropriate, to implement the amendment made by subsection (a).
