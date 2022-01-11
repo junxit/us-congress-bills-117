@@ -1,7 +1,7 @@
 ---
 measure: S. 2201
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2201
@@ -42,3 +42,18 @@ Supply Chain Security Training Act of 2021
 - 2022-01-11 — Senate amendment proposed (on the floor): Amendment SA 4899 proposed by Senator Schumer for Senator Peters.
 - 2022-01-11 — Senate amendment submitted
 - 2022-01-11 — The committee amendments withdrawn by Unanimous Consent.
+- 2022-01-13 — Held at the desk.
+- 2022-01-13 — Message on Senate action sent to the House.
+- 2022-01-13 — Received in the House.
+- 2022-05-10 — Considered under suspension of the rules. (consideration: CR H4758-4759)
+- 2022-05-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2201.
+- 2022-05-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-10 — Mr. Connolly moved to suspend the rules and pass the bill.
+- 2022-05-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4758)
+- 2022-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-06-09 — Presented to President.
+- 2022-06-09 — Presented to President.
+- 2022-06-16 — Became Public Law No: 117-145.
+- 2022-06-16 — Became Public Law No: 117-145.
+- 2022-06-16 — Signed by President.
+- 2022-06-16 — Signed by President.
