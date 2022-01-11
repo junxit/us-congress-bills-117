@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 860
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 860
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 1836) to amend title 38, United St
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-01-11 — [House 117-2-2](votes/house-117-2-0002.md) — On Ordering the Previous Question — **Passed** (219–203)
+- 2022-01-11 — [House 117-2-3](votes/house-117-2-0003.md) — On Agreeing to the Resolution — **Passed** (219–203)
+
 ## Actions
 
 - 2022-01-10 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 1836) to amend title 38, United St
 - 2022-01-10 — Rule provides for consideration of H.R. 1836 and H.R. 4673. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
 - 2022-01-10 — The House Committee on Rules reported an original measure, H. Rept. 117-225, by Mr. Perlmutter.
 - 2022-01-10 — The House Committee on Rules reported an original measure, H. Rept. 117-225, by Mr. Perlmutter.
+- 2022-01-11 — Considered as privileged matter. (consideration: CR H23-31)
+- 2022-01-11 — DEBATE - The House proceeded with one hour of debate on H. Res. 860.
+- 2022-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-01-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 203 (Roll no. 3). (text: CR H23)
+- 2022-01-11 — On ordering the previous question Agreed to by the Yeas and Nays: 219 - 203 (Roll no. 2).
+- 2022-01-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 203 (Roll no. 3).(text: CR H23)
