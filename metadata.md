@@ -1,7 +1,7 @@
 ---
 measure: S. 2520
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2520
@@ -33,3 +33,12 @@ State and Local Government Cybersecurity Act of 2021
 - 2021-10-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-42.
 - 2021-10-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-42.
 - 2021-10-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 152.
+- 2022-01-11 — Amendment SA 4898 agreed to in Senate by Unanimous Consent.
+- 2022-01-11 — Amendment SA 4898 proposed by Senator Schumer for Senator Peters. (consideration: CR S162; text: CR S162) In the nature of a substitute.
+- 2022-01-11 — Measure laid before Senate by unanimous consent. (consideration: CR S161-162)
+- 2022-01-11 — Passed Senate with an amendment by Unanimous Consent. (text: CR S162)
+- 2022-01-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S162)
+- 2022-01-11 — Senate amendment agreed to: Amendment SA 4898 agreed to in Senate by Unanimous Consent.
+- 2022-01-11 — Senate amendment proposed (on the floor): Amendment SA 4898 proposed by Senator Schumer for Senator Peters.
+- 2022-01-11 — Senate amendment submitted
+- 2022-01-11 — The committee substitute withdrawn by Unanimous Consent.
