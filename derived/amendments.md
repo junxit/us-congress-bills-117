@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1836
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -40,5 +40,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “October 1, 2030” each place it appears and inserting “October 1, 2031”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “October 1, 2031”. | the bill names no machine-readable US Code section |
 | — | amend | The item in subparagraph (E) of the loan fee table under such section is amended to read as follows: | the bill names no machine-readable US Code section |

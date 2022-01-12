@@ -46,5 +46,15 @@ This Act may be cited as the “Guard and Reserve GI Bill Parity Act of 2021”.
 
 ## § 3. Modification of certain housing loan fees
 
-- **(a)** *Extension* The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “October 1, 2030” each place it appears and inserting “October 1, 2031”.
+- **(a)** *Extension* The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “October 1, 2031”.
 - **(b)** *IRRRL rate* The item in subparagraph (E) of the loan fee table under such section is amended to read as follows:
+
+## § 4. Provision of information to veterans during transition to civilian life
+
+- **(a)** *Requirement* In providing information to new veterans regarding benefits administered by the Secretary of Veterans Affairs, the Secretary shall ensure that the information includes the following:
+  - **(1)** A description of the medical care and services for which the veteran will be eligible under chapter 17 of title 38, United States Code, including with respect to—
+    - **(A)** community care under section 1703 of such title;
+    - **(B)** mental health care, including how to access the Veterans Crisis Line established under section 1720F(h) of such title; and
+    - **(C)** care relating to military sexual trauma (as defined in section 1166 of such title).
+  - **(2)** Any other information that the Secretary determines appropriate, including information about the services and benefits to which the veteran may be entitled.
+- **(b)** *Manner* The Secretary shall provide the information under subsection (a) in a manner that promotes the destigmatization of mental health care and encourages veterans to reach out for support.
