@@ -1,0 +1,24 @@
+---
+legis-num: S. 3485
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3485
+
+> To ensure that the right to vote shall not be impaired due to vaccination status.
+
+## § 1. Short title
+
+This Act may be cited as the “Securing Enfranchisement and the Rights of Voters regardless of Inoculation Status Act” or the “SERVIS Act”.
+
+## § 2. Right to vote shall not be impaired
+
+- **(a)** *In general* It shall be unlawful for any State or political subdivision, as such term is used in the Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.), to require or impose a requirement that a voter or voters must present a vaccine passport or otherwise present information regarding their vaccination status in order to exercise the right to vote, including to vote in person, in any election involving any candidate for Federal office.
+- **(b)** *Masking requirement* A State or political subdivision may require that a voter wear a mask in order to enter a polling location only if—
+  - **(1)** the State or political subdivision makes readily available and at no cost to the voter or any individual who accompanies the voter a mask sufficient to comply with any applicable masking requirement; and
+  - **(2)** the State or political subdivision provides reasonable accommodation from such requirement for individuals with a disability as recognized under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+- **(c)** *Definition* For purposes of this section, the term vaccination status means—
+  - **(1)** an individual’s status based on the voluntary election to receive or not to receive a COVID–19 vaccine; and
+  - **(2)** regardless of whether someone has or has not been vaccinated against COVID–19, an individual's status with respect to having or producing proof of such vaccination in the form of a vaccine passport or other medical records that would demonstrate whether an individual has been vaccinated against COVID–19.
