@@ -1,7 +1,7 @@
 ---
 measure: S. 789
 congress: 117
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 789
@@ -38,3 +38,7 @@ RESPECT Act
 - 2021-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
 - 2021-05-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S3851; text: CR S3851)
 - 2021-05-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3851; text: CR S3851)
+- 2021-05-28 — Held at the desk.
+- 2021-05-28 — Message on Senate action sent to the House.
+- 2021-05-28 — Received in the House.
+- 2022-01-12 — Referred to the House Committee on Natural Resources.
