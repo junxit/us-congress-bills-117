@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2471
@@ -46,3 +46,13 @@ Consolidated Appropriations Act, 2022
 - 2021-06-29 — Pursuant to section 8 of H. Res. 504, and the motion offered by Mr. McGovern, the following bills passed under suspension of the rules: H.R. 1500, as amended; H.R. 2471, as amended; H.R. 3261; H.R. 3283, as amended; and H.R. 3385, as amended; and the following resolutions were agreed to under suspension of the rules: H. Res. 186; and H. Res. 402, as amended. (consideration: CR H3258-3262; text: CR H3258-3260)
 - 2021-06-29 — Pursuant to the provisions of H. Res. 504, proceedings on H.R. 2471 are considered vacated.
 - 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-01-13 — Amendment SA 4902 agreed to in Senate by Unanimous Consent.
+- 2022-01-13 — Amendment SA 4902 proposed by Senator Schumer for Senator Cardin. (consideration: CR S226; text: CR S224-225) In the nature of a substitute.
+- 2022-01-13 — Measure laid before Senate by unanimous consent. (consideration: CR S226)
+- 2022-01-13 — Passed Senate with an amendment by Voice Vote.
+- 2022-01-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2022-01-13 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2022-01-13 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2022-01-13 — Senate amendment agreed to: Amendment SA 4902 agreed to in Senate by Unanimous Consent.
+- 2022-01-13 — Senate amendment proposed (on the floor): Amendment SA 4902 proposed by Senator Schumer for Senator Cardin.(consideration: CR S226; text: CR S224-225)
+- 2022-01-13 — Senate amendment submitted

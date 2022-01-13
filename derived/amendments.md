@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2151n` | repeal | The Assessing Progress in Haiti Act (22 U.S.C. 2151n; Public Law 113–162) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | repeal | The Assessing Progress in Haiti Act of 2014 (22 U.S.C. 2151 note; Public Law 113–162) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
