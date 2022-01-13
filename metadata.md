@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5746
 congress: 117
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 5746
@@ -49,3 +49,11 @@ Freedom to Vote: John R. Lewis Act
 - 2021-12-14 — Senate amendment agreed to: Amendment SA 4893 agreed to in Senate by Unanimous Consent.
 - 2021-12-14 — Senate amendment proposed (on the floor): Amendment SA 4893 proposed by Senator Cantwell.
 - 2021-12-14 — Senate amendment submitted
+- 2022-01-13 — DEBATE - The House proceeded with one hour of debate on the motion to agree to the Senate amendment with an amendment to H.R. 5746.
+- 2022-01-13 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2022-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-01-13 — Mr. Butterfield moved that the House agree with an amendment to the Senate amendment.
+- 2022-01-13 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 220 - 203 (Roll no. 9).
+- 2022-01-13 — Pursuant to the provisions of H.Res. 868, Mr. Butterfield moved to agree to the Senate amendment with an amendment to H.R. 5746.
+- 2022-01-13 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 220 - 203 (Roll no. 9).
+- 2022-01-13 — The previous question was ordered pursuant to the rule.
