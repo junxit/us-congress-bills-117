@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4599
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -40,7 +40,7 @@ This Act may be cited as the “Steel Upgrading Partnerships and Emissions Reduc
   >   - **(3)** leverage, to the extent practicable, the research infrastructure of the Department, including scientific computing user facilities, x-ray light sources, neutron scattering facilities, and nanoscale science research centers; and
   >   - **(4)** conduct research, development, and demonstration of low-emissions steel manufacturing technologies that have the potential to increase domestic production and employment in advanced and commercially available steelmaking.
   > - **(e)** *Strategic plan*
-  >   - **(1)** *In general* Not later than 180 days after the date of enactment of the Steel Upgrading Partnerships and Emissions Reduction Act, the Secretary shall develop a 5-year strategic plan identifying research, development, demonstration, and commercial application goals for the program in accordance with this section. The Secretary shall submit this plan to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+  >   - **(1)** *In general* Not later than 180 days after the date of enactment of the Steel Upgrading Partnerships and Emissions Reduction Act, the Secretary shall develop a 5-year strategic plan identifying research, development, demonstration, and commercial application goals for the program established in subsection (c). The Secretary shall submit this plan to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
   >   - **(2)** *Contents* The strategic plan submitted under paragraph (1) shall—
   >     - **(A)** identify programs at the Department related to low-emissions steel manufacturing that support the research, development, demonstration, and commercial application activities described in this section, and the demonstration projects under subsection (h);
   >     - **(B)** establish technological and programmatic goals to achieve the requirements of subsection (d); and
@@ -55,7 +55,7 @@ This Act may be cited as the “Steel Upgrading Partnerships and Emissions Reduc
   >     - **(E)** other heat generation sources;
   >   - **(2)** carbon capture technologies for advanced and commercially available steelmaking processes, which may include—
   >     - **(A)** combustion and chemical looping technologies;
-  >     - **(B)** use of slag for carbon dioxide removal;
+  >     - **(B)** use of slag to reduce carbon dioxide emissions;
   >     - **(C)** pre-combustion technologies; and
   >     - **(D)** post-combustion technologies;
   >   - **(3)** smart manufacturing technologies and principles, digital manufacturing technologies, and advanced data analytics to develop advanced technologies and practices in information, automation, monitoring, computation, sensing, modeling, and networking to—
@@ -66,7 +66,7 @@ This Act may be cited as the “Steel Upgrading Partnerships and Emissions Reduc
   >     - **(A)** designing products that enable reuse, refurbishment, remanufacturing, and recycling;
   >     - **(B)** minimizing waste from advanced and commercially available steelmaking processes, including through the reuse of waste as resources in other industrial processes for mutual benefit;
   >     - **(C)** increasing resource efficiency; and
-  >     - **(D)** increasing the energy efficiency of advanced and commercially available steel­mak­ing processes;
+  >     - **(D)** increasing the energy efficiency of advanced and commercially available steelmaking processes;
   >   - **(5)** alternative materials and technologies that produce fewer emissions during production and result in fewer emissions during use, which may include—
   >     - **(A)** innovative raw materials;
   >     - **(B)** high-performance lightweight materials;
@@ -75,22 +75,22 @@ This Act may be cited as the “Steel Upgrading Partnerships and Emissions Reduc
   >   - **(6)** high-performance computing to develop advanced materials and manufacturing processes contributing to the focus areas described in paragraphs (1) through (5), including—
   >     - **(A)** modeling, simulation, and optimization of the design of energy efficient and sustainable products; and
   >     - **(B)** the use of digital prototyping and additive manufacturing to enhance product design.
-  > - **(g)** *Testing and validation* The Secretary, in consultation with the National Institute of Standards and Technology, shall support the development of standardized testing and technical validation of advanced and commercially available steelmaking and low-emissions steel manufacturing through collaboration with one or more National Laboratories, and one or more eligible entities.
+  > - **(g)** *Testing and validation* The Secretary, in consultation with the Director of the National Institute of Standards and Technology, shall support the development of standardized testing and technical validation of advanced and commercially available steelmaking and low-emissions steel manufacturing through collaboration with one or more National Laboratories, and one or more eligible entities.
   > - **(h)** *Demonstration*
-  >   - **(1)** *Establishment* Beginning on the date of enactment of the Steel Upgrading Partnerships and Emissions Reduction Act, the Secretary, in collaboration with industry partners, institutions of higher education, and the National Laboratories, shall support an initiative for the demonstration of low-emissions steel manufacturing, as identified by the Secretary, that uses either—
+  >   - **(1)** *Establishment* Not later than 180 days after the date of enactment of the Steel Upgrading Partnerships and Emissions Reduction Act, the Secretary, in carrying out the program established in subsection (c), and in collaboration with industry partners, institutions of higher education, and the National Laboratories, shall support an initiative for the demonstration of low-emissions steel manufacturing, as identified by the Secretary, that uses either—
   >     - **(A)** a single technology; or
   >     - **(B)** a combination of multiple technologies.
-  >   - **(2)** *Selection requirements* In selecting eligible entities for the demonstration projects under this subsection, the Secretary shall, to the maximum extent practicable—
+  >   - **(2)** *Selection requirements* Under the initiative established under paragraph (1), the Secretary shall select eligible entities to carry out demonstration projects and to the maximum extent practicable—
   >     - **(A)** encourage regional diversity among eligible entities, including participation by rural States;
   >     - **(B)** encourage technological diversity among eligible entities; and
   >     - **(C)** ensure that specific projects selected—
   >       - **(i)** expand on the existing technology demonstration programs of the Department; and
   >       - **(ii)** prioritize projects that leverage matching funds from non-Federal sources.
   >   - **(3)** *Reports* The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
-  >     - **(A)** not less frequently than once every two years for the duration of the demonstration program under this subsection, a report describing the performance of the program; and
-  >     - **(B)** if the program established under this subsection is terminated, an assessment of the success of, and education provided by, the measures carried out by recipients of financial assistance under the program.
+  >     - **(A)** not less frequently than once every two years for the duration of the demonstration initiative under this subsection, a report describing the performance of the initiative; and
+  >     - **(B)** if the initiative established under this subsection is terminated, an assessment of the success of, and education provided by, the measures carried out by recipients of financial assistance under the initiative.
   > - **(i)** *Additional coordination*
-  >   - **(1)** *Manufacturing U.S.A* In carrying out this section the Secretary shall consider—
+  >   - **(1)** *Manufacturing U.S.A.* In carrying out this section the Secretary shall consider—
   >     - **(A)** leveraging the resources of relevant existing Manufacturing USA Institutes described in section 34(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278s(d));
   >     - **(B)** integrating program activities into a relevant existing Manufacturing USA Institute; or
   >     - **(C)** establishing a new institute focused on low-emissions steel manufacturing.
