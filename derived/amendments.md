@@ -1,7 +1,7 @@
 ---
 measure: S. 2520
 congress: 117
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
