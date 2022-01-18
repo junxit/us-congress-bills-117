@@ -1,7 +1,7 @@
 ---
 measure: S. 2520
 congress: 117
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 

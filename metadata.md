@@ -1,7 +1,7 @@
 ---
 measure: S. 2520
 congress: 117
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2520
@@ -21,9 +21,10 @@ State and Local Government Cybersecurity Act of 2021
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -42,3 +43,7 @@ State and Local Government Cybersecurity Act of 2021
 - 2022-01-11 — Senate amendment proposed (on the floor): Amendment SA 4898 proposed by Senator Schumer for Senator Peters.
 - 2022-01-11 — Senate amendment submitted
 - 2022-01-11 — The committee substitute withdrawn by Unanimous Consent.
+- 2022-01-13 — Held at the desk.
+- 2022-01-13 — Message on Senate action sent to the House.
+- 2022-01-13 — Received in the House.
+- 2022-01-18 — Referred to the House Committee on Homeland Security.
