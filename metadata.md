@@ -1,7 +1,7 @@
 ---
 measure: H.R. 297
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 297
@@ -39,3 +39,7 @@ To require the Secretary of Agriculture to conduct a study on the establishment 
 - 2021-05-12 — Pursuant to section 6 of H. Res. 380, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 297; H.R. 433; H.R. 478; H.R. 586; H.R. 721, as amended; H.R. 768; H.R. 810; H.R. 1205; H.R. 1260, as amended; H.R. 1324; H.R. 1448, as amended; H.R. 1475, as amended; H.R. 1480, as amended; H.R. 2862, as amended; H.R. 2955; and H.R. 2981. (consideration: CR H2235-2246; text: CR H2235)
 - 2021-05-12 — Pursuant to the provisions of H. Res. 380, proceedings on H.R. 297 are considered vacated.
 - 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-57.
+- 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-57.
+- 2022-01-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.
