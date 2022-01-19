@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2497
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2497
@@ -54,3 +54,8 @@ Amache National Historic Site Act
 - 2021-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 253).(text: 07/26/2021 CR H3862-3863)
 - 2021-07-29 — The title of the measure was amended. Agreed to without objection.
 - 2021-07-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-10-06 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-58.
+- 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-58.
+- 2022-01-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2497
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -37,7 +37,7 @@ In this Act:
   - **(1)** donation;
   - **(2)** purchase from a willing seller with donated or appropriated Funds; or
   - **(3)** exchange.
-- **(g)** *Addition to boundary* Any lands or interests in land acquired under paragraph (1) shall be included within the boundary of the National Historic Site.
+- **(g)** *Addition to boundary* Any lands or interests in land acquired under paragraph (1)subsection (f) shall be included within the boundary of the National Historic Site.
 - **(h)** *Administration*
   - **(1)** *In general* The Secretary shall administer the National Historic Site in accordance with—
     - **(A)** this Act; and
@@ -55,7 +55,14 @@ In this Act:
   - **(3)** any interstate water compact in existence on the date of the enactment; or
   - **(4)** State jurisdiction over any water law.
 - **(l)** *Operation and maintenance of water infrastructure and appurtenances*
-  - **(1)** The town of Granada, Colorado, shall maintain responsibility for the operation and maintenance of all water infrastructure, systems and appurtenances located within the boundary of the National Historic Site in existence on the date of enactment of this Act, including but not limited to wells, pumps, tanks, water lines, valves, and water treatment facilities.
-  - **(2)** The Secretary shall provide the town of Granada, Colorado, with access to those areas of the National Historic Site determined as necessary for the operation and maintenance of water infrastructure and appurtenances.
+  - **(1)** The town of Granada, Colorado, shall maintain responsibility for the operation and maintenance
+  - **(1)** *Effect* Nothing in this Act affects the authority of the town of Granada, Colorado, with respect to the operation and maintenance of all water infrastructure, systems and appurtenances located within the boundary of the National Historic Site in existence on the date of enactment of this Act, including but not limited to wells, pumps, tanks, water lines, valves, and water treatment facilities.
+  - **(2)** The Secretary shall provide the town of
+  - **(2)** *Determination* The Secretary shall provide the town of Granada, Colorado, with access to those areas of the National Historic Site determined as necessary for the operation and maintenance of water infrastructure and appurtenances.
   - **(3)** The Secretary may permit the city of Granada, Colorado, to construct or install new water infrastructure, systems and appurtenances consistent with applicable laws, limited only to those areas determined in subsection (i)(2), and in a manner that ensures the preservation, protection, and proper management of the National Historic Site.
   - **(4)** At such time that all water infrastructure, systems and appurtenances located within the boundary of the National Historic Site are no longer utilized by the city of Granada, Colorado, associated improvements and associated water rights may be acquired through donation to and made part of the National Historic Site in a condition satisfactory to the Secretary.
+  - **(3)** *New water infrastructure* The Secretary may permit the town of Granada, Colorado, to construct or install new water infrastructure, systems, or appurtenances—
+    - **(A)** consistent with applicable laws;
+    - **(B)** limited to the areas determined to be necessary under paragraph (2); and
+    - **(C)** in a manner that ensures the preservation, protection, and proper management of the National Historic Site.
+  - **(4)** *Acceptance of donated water infrastructure* The Secretary may accept, for addition to and administration as part of the National Historic Site, the donation of water infrastructure, systems, or appurtenances within the boundary of the National Historic Site, including associated water rights, if the water infrastructure, systems, or appurtenances are no longer used by the town of Granada, Colorado.
