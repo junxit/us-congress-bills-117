@@ -1,7 +1,7 @@
 ---
 measure: S. 569
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 569
@@ -28,3 +28,8 @@ Gilt Edge Mine Conveyance Act
 
 - 2021-03-03 — Introduced in Senate
 - 2021-03-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-16 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 117-55.
+- 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 117-55.
+- 2022-01-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 252.
