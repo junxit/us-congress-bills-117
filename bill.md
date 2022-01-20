@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2543
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -36,7 +36,7 @@ Section 2B of the Federal Reserve Act (12 U.S.C. 225b) is amended—
   - **(A)** in subparagraph (A), by striking “and” at the end; and
   - **(B)** by striking subparagraph (B) and inserting the following:
     > - **(B)** economic developments and prospects for the future described in the report required in subsection (b), including a discussion of disparities in employment, income, and wealth across racial and ethnic groups as well as other specific segments of the population; and
-    > - **(C)** plans, activities, and actions of the Board and the Federal Open Market Committee to minimize and eliminate racial disparities in employment, wages, wealth, and access to affordable credit pursuant to section 2C.
+    > - **(C)** plans, activities, and actions of the Board and the Federal Open Market Committee to minimize and eliminate disparities across racial and ethnic groups with respect to employment, wages, wealth, and access to affordable credit pursuant to section 2C.
 
 - **(2)** in subsection (b)—
   - **(A)** by striking “The Board” and inserting the following:
