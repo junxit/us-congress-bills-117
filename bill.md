@@ -27,7 +27,7 @@ That the Senate—
 
 - **(1)** congratulates the University of Wisconsin Badgers on winning the 2021 National Collegiate Athletic Association Division I Women’s Volleyball Championship;
 - **(2)** recognizes the achievements of the players, coaches, and staff who contributed to this championship season; and
-- **(3)** respectfully requests that the Secretary of the Senate prepare an official copy of this resolution for presentation to—
+- **(3)** respectfully requests that the Secretary of the Senate transmit an enrolled copy of this resolution to—
   - **(A)** the Chancellor of the University of Wisconsin, Rebecca Blank;
   - **(B)** the Athletic Director of the University of Wisconsin, Chris McIntosh; and
   - **(C)** the Head Coach of the University of Wisconsin volleyball team, Kelly Sheffield.
