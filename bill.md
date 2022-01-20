@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1277
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,7 +32,7 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >       - **(ii)** nominees for the board of directors of the issuer; or
 >       - **(iii)** the executive officers of the issuer.
 >   - **(3)** *Alternative submission* In any 1-year period in which an issuer required to file an annual report under subsection (a) does not file with the Commission a proxy statement or an information statement relating to the election of directors, the issuer shall disclose the information required under paragraph (2) in the first annual report of issuer that the issuer submits to the Commission after the end of that 1-year period.
->   - **(4)** *Annual report* Not later than 18 months after the date of enactment of this subsection, and annually thereafter, the Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, and publish on the website of the Commission, a report that analyzes the information disclosed under paragraphs (2) and (3) and identifies any trends with respect to such information.
+>   - **(4)** *Annual report* Not later than 18 months after the date of enactment of this subsection, and annually thereafter, the Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, and publish on the website of the Commission, a report that analyzes the information disclosed under paragraphs (2) and (3) and identifies any trends with respect to such information.
 >   - **(5)** *Best practices*
 >     - **(A)** *In general* The Director of the Office of Minority and Women Inclusion of the Commission shall, not later than 3 years after the date of enactment of this subsection, and every 3 years thereafter, publish best practices for compliance with this subsection.
 >     - **(B)** *Comments* The Director of the Office of Minority and Women Inclusion of the Commission may, pursuant to subchapter II of chapter 5 of title 5, United States Code, solicit public comments related to the best practices published under subparagraph (A).
@@ -49,9 +49,9 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
   - **(3)** the private sector.
 - **(c)** *Study and recommendations* The Advisory Group shall—
   - **(1)** carry out a study that identifies strategies that can be used to increase gender, racial, and ethnic diversity among members of boards of directors of issuers; and
-  - **(2)** not later than 270 days after the date on which the Advisory Group is established, submit to the Commission, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives a report that—
+  - **(2)** not later than 270 days after the date on which the Advisory Group is established, submit to the Commission, the Committee on Financial Services of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that—
     - **(A)** describes any findings from the study conducted under paragraph (1); and
     - **(B)** makes recommendations regarding strategies that issuers could use to increase gender, racial, and ethnic diversity among board members.
-- **(d)** *Annual report* Not later than 1 year after the date on which the Advisory Group submits the report required under subsection (c)(2), and annually thereafter, the Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that describes the status of gender, racial, and ethnic diversity among members of the boards of directors of issuers.
+- **(d)** *Annual report* Not later than 1 year after the date on which the Advisory Group submits the report required under subsection (c)(2), and annually thereafter, the Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that describes the status of gender, racial, and ethnic diversity among members of the boards of directors of issuers.
 - **(e)** *Public availability of reports* The Commission shall make all reports of the Advisory Group available to issuers and the public, including on the website of the Commission.
 - **(f)** *Inapplicability of Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Advisory Group or the activities of the Advisory Group.
