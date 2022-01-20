@@ -1,11 +1,11 @@
 ---
-legis-num: S. RES. 488
+legis-num: S. Res. 488
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
-# S. RES. 488
+# S. Res. 488
 
 > Congratulating the University of Wisconsin-Eau Claire Blugolds on winning the 2021 National Collegiate Athletic Association Division III Women’s Volleyball Championship.
 
