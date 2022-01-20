@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 487
 congress: 117
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Res. 487

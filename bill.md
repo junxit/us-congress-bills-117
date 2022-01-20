@@ -1,11 +1,11 @@
 ---
-legis-num: S. RES. 487
+legis-num: S. Res. 487
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
-# S. RES. 487
+# S. Res. 487
 
 > Congratulating the University of Wisconsin Badgers on winning the 2021 National Collegiate Athletic Association Division I Women’s Volleyball Championship.
 
