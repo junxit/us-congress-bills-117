@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 488
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 488
@@ -28,3 +28,7 @@ A resolution congratulating the University of Wisconsin-Eau Claire Blugolds on w
 
 - 2022-01-12 — Introduced in Senate
 - 2022-01-12 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2022-01-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S386; text: 01/12/2022 CR S192-193)
+- 2022-01-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S386; text: 01/12/2022 CR S192-193)
+- 2022-01-20 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-01-20 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
