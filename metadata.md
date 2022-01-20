@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4590
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4590
@@ -16,6 +16,14 @@ Promoting New and Diverse Depository Institutions Act
 
 - Rep. Auchincloss, Jake [D-MA-4] (A000148)
 
+## Cosponsors (5)
+
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +33,9 @@ Promoting New and Diverse Depository Institutions Act
 - 2021-07-21 — Introduced in House
 - 2021-07-21 — Introduced in House
 - 2021-07-21 — Referred to the House Committee on Financial Services.
+- 2021-07-28 — Committee Consideration and Mark-up Session Held.
+- 2021-07-29 — Committee Consideration and Mark-up Session Held.
+- 2021-07-29 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2022-01-20 — Placed on the Union Calendar, Calendar No. 163.
+- 2022-01-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-229.
+- 2022-01-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-229.
