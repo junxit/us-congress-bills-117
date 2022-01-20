@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 471
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 471
@@ -28,3 +28,7 @@ A resolution commemorating the 100th anniversary of the Alabama Farmers Federati
 
 - 2021-12-07 — Introduced in Senate
 - 2021-12-07 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2022-01-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S386; text: 12/07/2021 CR S8964)
+- 2022-01-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S386; text: 12/07/2021 CR S8964)
+- 2022-01-20 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2022-01-20 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
