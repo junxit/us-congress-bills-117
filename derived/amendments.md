@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5633
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Subtitle B of title VIII of the Homeland Security Act of 2002 is amended by inserting before section 812 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting before the item relating to section 812 the following new item: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by amending the item relating to section 811 to read as follows: | the bill names no machine-readable US Code section |
