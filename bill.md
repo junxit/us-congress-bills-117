@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3485
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,11 +23,10 @@ Congress finds the following:
 - **(4)** Approximately one-third of all countries have laws criminalizing consensual same-sex relations, and many have enacted policies or laws that would further target LGBTQI individuals.
 - **(5)** Every year thousands of individuals around the world are targeted for harassment, attack, arrest, and murder on the basis of their sexual orientation or gender identity.
 - **(6)** Those who commit crimes against LGBTQI individuals often do so with impunity, and are not held accountable for their crimes.
-- **(7)** Homophobic and transphobic statements by government officials in many countries in every region of the world promote negative public attitudes and can lead to violence toward LGBTQI individuals.
-- **(8)** In many instances police, prison, military, and civilian government authorities have been directly complicit in abuses aimed at LGBTQI citizens, including arbitrary arrest, torture, and sexual abuse.
-- **(9)** Celebrations of LGBTQI individuals and communities, such as film festivals, Pride events, and demonstrations are often forced underground due to inaction on the part of, or harassment by, local law enforcement and government officials, in violation of freedoms of assembly and expression.
-- **(10)** Laws criminalizing consensual same-sex relations severely hinder access to HIV/AIDS treatment, information, and preventive measures for LGBTQI individuals and families.
-- **(11)** Many countries are making positive developments in the protection of the basic human rights of LGBTQI individuals.
+- **(7)** In many instances police, prison, military, and civilian government authorities have been directly complicit in abuses aimed at LGBTQI citizens, including arbitrary arrest, torture, and sexual abuse.
+- **(8)** Celebrations of LGBTQI individuals and communities, such as film festivals, Pride events, and demonstrations are often forced underground due to inaction on the part of, or harassment by, local law enforcement and government officials, in violation of freedoms of assembly and expression.
+- **(9)** Laws criminalizing consensual same-sex relations severely hinder access to HIV/AIDS treatment, information, and preventive measures for LGBTQI individuals and families.
+- **(10)** Many countries are making positive developments in the protection of the basic human rights of LGBTQI individuals.
 
 ## § 3. Sanctions on individuals responsible for violations of human rights against LGBTQI people
 
@@ -57,7 +56,7 @@ Congress finds the following:
   - **(3)** *Removal* If the President removes from the list required by subsection (a) a foreign person that had been included in such list pursuant to a request under paragraph (2), the President shall provide to the relevant Chair or Ranking Member of one of the appropriate congressional committees any information that contributed to such decision.
   - **(4)** *Form* The President may transmit a response required by paragraph (2) or paragraph (3) in classified form if the President determines that it is necessary for the national security interests of the United States to do so.
 - **(e)** *Inadmissibility of certain individuals*
-  - **(1)** *Ineligibility for visas and admission to the United States* A foreign person on the list required by subsection (a), and each immediate family member of such person, is—
+  - **(1)** *Ineligibility for visas and admission to the united states* A foreign person on the list required by subsection (a), and each immediate family member of such person, is—
     - **(A)** inadmissible to the United States;
     - **(B)** ineligible to receive a visa or other documentation to enter the United States; and
     - **(C)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
@@ -67,13 +66,13 @@ Congress finds the following:
       - **(i)** take effect immediately; and
       - **(ii)** automatically cancel any other valid visa or entry documentation that is in the foreign person’s possession.
     - **(C)** *Regulations required* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall prescribe such regulations as are necessary to carry out this subsection.
-  - **(3)** *Sense of Congress with respect to additional sanctions* It is the sense of Congress that the President should impose additional targeted sanctions with respect to foreign persons on the list required by subsection (a) to push for accountability for flagrant denials of the right to life, liberty, or the security of the person, through the use of designations and targeted sanctions provided for such conduct under other existing authorities.
+  - **(3)** *Sense of congress with respect to additional sanctions* It is the sense of Congress that the President should impose additional targeted sanctions with respect to foreign persons on the list required by subsection (a) to push for accountability for flagrant denials of the right to life, liberty, or the security of the person, through the use of designations and targeted sanctions provided for such conduct under other existing authorities.
   - **(4)** *Waivers in the interest of national security*
     - **(A)** *In general* The President may waive the application of paragraph (1) or (2) with respect to a foreign person included in the list required by subsection (a) if the President determines and transmits to the appropriate congressional committees notice and justification, that such a waiver—
       - **(i)** is necessary to permit the United States to comply with the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, or other applicable international obligations of the United States; or
       - **(ii)** is in the national security interests of the United States.
     - **(B)** *Timing of certain waivers* A waiver pursuant to a determination under clause (ii) of subparagraph (A) shall be transmitted not later than 15 days before the granting of such waiver.
-- **(f)** *Report to Congress* Not later than one year after the date of the enactment of this Act and annually thereafter, the President, acting through the Secretary of State, shall submit to the appropriate congressional committees a report on—
+- **(f)** *Report to congress* Not later than one year after the date of the enactment of this Act and annually thereafter, the President, acting through the Secretary of State, shall submit to the appropriate congressional committees a report on—
   - **(1)** the actions taken to carry out this section, including—
     - **(A)** the number of foreign persons added to or removed from the list required by subsection (a) during the year preceding each such report, the dates on which such persons were so added or removed, and the reasons for so adding or removing such persons; and
     - **(B)** an analysis that compares increases or decreases in the number of such persons added or removed year-over-year and the reasons therefor; and
