@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5683
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5683
@@ -29,3 +29,10 @@ Department of Homeland Security Border Support Services Contracts Review Act
 - 2021-10-22 — Introduced in House
 - 2021-10-22 — Introduced in House
 - 2021-10-22 — Referred to the House Committee on Homeland Security.
+- 2021-10-25 — Referred to the Subcommittee on Oversight, Management, and Accountability.
+- 2021-10-26 — Committee Consideration and Mark-up Session Held.
+- 2021-10-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-10-26 — Subcommittee on Oversight, Management, and Accountability Discharged.
+- 2022-01-21 — Placed on the Union Calendar, Calendar No. 167.
+- 2022-01-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-232.
+- 2022-01-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-232.

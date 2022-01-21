@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5683
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,9 +18,9 @@ This Act may be cited as the “Department of Homeland Security Border Support S
 - **(a)** *Report*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Under Secretary for Management of the Department of Homeland Security, in consultation with appropriate officials of the Department, shall submit to the appropriate congressional committees a report on active contracts for covered services of the Department awarded on or before September 30, 2021.
   - **(2)** *Elements* The report required under paragraph (1) shall include the following:
-    - **(A)** The criteria used by the Department to determine whether contractor personnel were necessary to assist the Department in carrying out its mission along the borders of the United States.
+    - **(A)** The criteria used by the Department to determine whether contractor personnel were necessary to assist the Department in carrying out its mission along the United States land border with Mexico.
     - **(B)** An analysis of the purpose, quantity, and location of contractor personnel to perform covered services of the Department with respect to effectively—
-      - **(i)** addressing mission needs along such borders; and
+      - **(i)** addressing mission needs along such border; and
       - **(ii)** enhancing the capability of Department personnel to perform primary mission responsibilities, including the number of Department personnel not removed from their primary mission responsibilities by reason of the performance of covered services by contractor personnel.
     - **(C)** An assessment with respect to the benefits of contractor personnel performing covered services, including whether the performance of such services by contractor personnel is more efficient or effective than the performance of such services by Department employees.
     - **(D)** An assessment of opportunities to increase the efficiency of the Department with respect to contracting, including whether Department-wide contract vehicles for covered services would be the most cost effective option for the performance of covered services.
@@ -34,5 +34,5 @@ This Act may be cited as the “Department of Homeland Security Border Support S
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the Committee on Homeland Security of the House of Representatives; and
     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate.
-  - **(2)** The term “contract for covered services” means a contract relating to the procurement of covered services for the Department of Homeland Security.
-  - **(3)** The term “covered services” means with respect to the borders of the United States, any service related to border security provided by a contractor to be used by the Department.
+  - **(2)** The term “contract for covered services” means a contract (with a total contract value of $50,000,000 or more, inclusive of contract options) relating to the procurement of covered services for the Department of Homeland Security.
+  - **(3)** The term “covered services” means, with respect to the United States land border with Mexico, any service, including related to border security, provided by a contractor to be used by the Department.
