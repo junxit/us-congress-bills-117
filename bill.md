@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4521
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -53,7 +53,7 @@ In this Act:
     - **(B)** projects funded under joint solicitations by a collaboration of no fewer than two agencies participating in the Initiative; and
     - **(C)** interdisciplinary research centers that are organized to investigate basic research questions, carry out technology development and demonstration activities, and increase understanding of how to scale up engineering biology processes, including biomanufacturing;
   - **(2)** sustained support for databases and related tools, including—
-    - **(A)** support for the establishment, curation, and maintenance of curated genomics, epigenomics, and other relevant omics databases, including plant and microbial databases, that are available to researchers to carry out engineering biology research in a manner that does not compromise national security or the privacy or security of information within such databases;
+    - **(A)** support for the establishment, curation, and maintenance of curated genomics, epigenomics, and other relevant omics databases, including plant, animal, and microbial databases, that are available to researchers to carry out engineering biology research in a manner that does not compromise national security or the privacy or security of information within such databases;
     - **(B)** development of standards for such databases, including for curation, interoperability, and protection of privacy and security;
     - **(C)** support for the development of computational tools, including artificial intelligence tools, that can accelerate research and innovation using such databases; and
     - **(D)** an inventory and assessment of all Federal government omics databases to identify opportunities to improve the utility of such databases, as appropriate and in a manner that does not compromise national security or the privacy and security of information within such databases, and inform investment in such databases as critical infrastructure for the engineering biology research enterprise;
@@ -63,10 +63,11 @@ In this Act:
     - **(C)** incentivized development of retooled industrial sites across the country that foster a pivot to modernized engineering biology initiatives; and
     - **(D)** awards under the Small Business Innovation Research Program and the Small Business Technology Transfer Program, as described in section 9 of the Small Business Act (15 U.S.C. 638);
   - **(4)** support for education and training of undergraduate and graduate students in engineering biology, biomanufacturing, bioprocess engineering, and computational science applied to engineering biology and in the related ethical, legal, environmental, safety, security, and other societal domains;
-  - **(5)** activities to develop robust mechanisms for documenting and quantifying the outputs and economic benefits of engineering biology; and
-  - **(6)** activities to accelerate the translation and commercialization of new products, processes, and technologies by—
+  - **(5)** support for biomanufacturing testbeds, including by repurposing existing facilities such as those in paragraph 3(C), that would enable scale up of laboratory engineering biology research;
+  - **(6)** activities to develop robust mechanisms for documenting and quantifying the outputs and economic benefits of engineering biology; and
+  - **(7)** activities to accelerate the translation and commercialization of new products, processes, and technologies by—
     - **(A)** identifying precompetitive research opportunities;
-    - **(B)** facilitating public-private partnerships in engineering biology research and development;
+    - **(B)** facilitating public-private partnerships in engineering biology research and development, including to address barriers to scaling up innovations in engineering biology;
     - **(C)** connecting researchers, graduate students, and postdoctoral fellows with entrepreneurship education and training opportunities; and
     - **(D)** supporting proof of concept activities and the formation of startup companies including through programs such as the Small Business Innovation Research Program and the Small Business Technology Transfer Program.
 - **(c)** *Expanding participation* The Initiative shall include, to the maximum extent practicable, outreach to primarily undergraduate and minority-serving institutions about Initiative opportunities, and shall encourage the development of research collaborations between research-intensive universities and primarily undergraduate and minority-serving institutions.
@@ -147,7 +148,7 @@ In this Act:
 ## § 8. Agency activities
 
 - **(a)** *National Science Foundation* As part of the Initiative, the National Science Foundation shall—
-  - **(1)** support research in engineering biology through individual grants, collaborative grants, and through interdisciplinary research centers;
+  - **(1)** support research in engineering biology and biomanufacturing through individual grants, collaborative grants, and through interdisciplinary research centers;
   - **(2)** support research on the environmental, legal, ethical, and social implications of engineering biology;
   - **(3)** provide support for research instrumentation, equipment, and cyberinfrastructure for engineering biology disciplines, including support for research, development, optimization and validation of novel technologies to enable the dynamic study of molecular processes in situ;
   - **(4)** support curriculum development and research experiences for secondary, undergraduate, and graduate students in engineering biology and biomanufacturing, including through support for graduate fellowships and traineeships in engineering biology; and
