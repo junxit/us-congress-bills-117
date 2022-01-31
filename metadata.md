@@ -1,7 +1,7 @@
 ---
 measure: S. 1317
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1317
@@ -28,3 +28,8 @@ Sunset Crater Volcano National Monument Boundary Adjustment Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-23 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-01-31 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-61.
+- 2022-01-31 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-61.
+- 2022-01-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.
