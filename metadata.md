@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3076
@@ -16,11 +16,110 @@ Postal Service Reform Act of 2022
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Cosponsors (3)
+## Cosponsors (102)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Tenney, Claudia [R-NY-22] (T000478)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Garcia, Mike [R-CA-25] (G000061)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Cawthorn, Madison [R-NC-11] (C001104)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Murphy, Gregory [R-NC-3] (M001210)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
 
 ## Committees (3)
 
@@ -35,3 +134,27 @@ Postal Service Reform Act of 2022
 - 2021-05-11 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-05-11 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-05-11 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-05-12 — Referred to the Subcommittee on Health.
+- 2021-05-13 — Committee Consideration and Mark-up Session Held.
+- 2021-05-13 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2021-07-16 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Sept. 30, 2021.
+- 2021-07-16 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Sept. 30, 2021.
+- 2021-07-16 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-89, Part I.
+- 2021-07-16 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-89, Part I.
+- 2021-07-21 — Supplemental report filed by the Committee on Oversight and Reform, H. Rept. 117-89, Part II.
+- 2021-07-21 — Supplemental report filed by the Committee on Oversight and Reform, H. Rept. 117-89, Part II.
+- 2021-09-30 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Nov. 8, 2021.
+- 2021-09-30 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Nov. 8, 2021.
+- 2021-11-04 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Nov. 18, 2021.
+- 2021-11-04 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Nov. 18, 2021.
+- 2021-11-18 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Dec. 3, 2021.
+- 2021-11-18 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Dec. 3, 2021.
+- 2021-12-03 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than Jan. 21, 2022.
+- 2021-12-03 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Jan. 21, 2022.
+- 2022-01-21 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 18, 2022.
+- 2022-01-21 — House Committee on Ways and Means Granted an extension for further consideration ending not later than March 18, 2022.
+- 2022-02-01 — Committee on Energy and Commerce discharged.
+- 2022-02-01 — Committee on Energy and Commerce discharged.
+- 2022-02-01 — Committee on Ways and Means discharged.
+- 2022-02-01 — Committee on Ways and Means discharged.
+- 2022-02-01 — Placed on the Union Calendar, Calendar No. 171.
