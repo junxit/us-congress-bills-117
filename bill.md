@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 6535
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6535
+
+> To waive the cost-sharing requirements for certain STEM programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Empowering STEM Discovery Act”.
+
+## § 2. Mandatory cost-sharing
+
+- **(a)** *Waiver* The cost-sharing requirements under section 7036(c) of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act (42 U.S.C. 1862o–14(c)) for the Major Research Instrumentation Program and under section 10A(i) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1a(i)) for teaching fellowships administered within the Robert Noyce Teacher Scholarship Program are waived for a period of 5 years following the date of enactment of this Act.
+- **(b)** *Assessment* Not later than 5 years after the date of enactment of this Act, the Director shall submit to Congress an assessment, that includes feedback from the research community, of the impacts of the waivers provided under subsection (a), including—
+  - **(1)** programmatic and scientific goals;
+  - **(2)** institutional commitment and stewardship of Federal resources;
+  - **(3)** institutional strategic planning and administrative burden;
+  - **(4)** equity among grantee institutions; and
+  - **(5)** recommendations for or against extending or making permanent such waivers.
