@@ -29,7 +29,7 @@ That the Senate—
 
 - **(1)** congratulates the University of Georgia Bulldogs football team for a great season and winning the 2022 National Collegiate Athletic Association College Football Playoff National Championship game;
 - **(2)** recognizes the achievements of all players, coaches, and staff who contributed to the championship season; and
-- **(3)** respectfully requests that the Secretary of the Senate prepare an official copy of this resolution for presentation to—
+- **(3)** respectfully requests that the Secretary of the Senate transmit an enrolled copy of this resolution to—
   - **(A)** the President of the University of Georgia, Jere Morehead;
   - **(B)** the Athletic Director of the University of Georgia, Josh Brooks; and
   - **(C)** the Head Coach of the University of Georgia Bulldogs football team, Kirby Smart.
