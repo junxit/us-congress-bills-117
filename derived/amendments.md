@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 2 executed, 32 stated and not applied.
+35 amendatory instructions. 2 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,6 +69,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 450b` | strike | by striking subsections (b), (d), and (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450b` | redesignate | by redesignating— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `39 U.S.C. § 3691` | insert | Subchapter VII of chapter 36 of title 39, United States Code, is amended by inserting after section 3691 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `39 U.S.C. § 3691` | insert | The table of sections for such subchapter is amended by inserting after the item relating to section 3691 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 101(b) of title 39, United States Code, is amended by inserting before “The Postal Service” the following: “The Postal Service shall maintain an integrated network for the delivery of market-dominant and competitive products (as … | the bill names no machine-readable US Code section |
 | — | replace | Section 3626(h) of title 39, United States Code, is amended by striking “10 percent” and inserting “50 percent”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (d) of section 504 of title 39, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
