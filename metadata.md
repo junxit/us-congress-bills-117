@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 345
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 345
@@ -44,3 +44,13 @@ A resolution expressing the sense of the Senate on the political situation in Be
 - 2021-11-16 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-11-16 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2021-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
+- 2022-02-01 — Amendment SA 4921 agreed to in Senate by Unanimous Consent.
+- 2022-02-01 — Amendment SA 4921 proposed by Senator Menendez for Senator Shaheen. (consideration: CR S454; text: CR S454) To make technical amendments.
+- 2022-02-01 — Measure laid before Senate by unanimous consent. (consideration: CR S452-454)
+- 2022-02-01 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(text: CR S454-455)
+- 2022-02-01 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (text: CR S454-455)
+- 2022-02-01 — Senate amendment agreed to: Amendment SA 4921 agreed to in Senate by Unanimous Consent.
+- 2022-02-01 — Senate amendment proposed (on the floor): Amendment SA 4921 proposed by Senator Menendez for Senator Shaheen.(consideration: CR S454; text: CR S454)
+- 2022-02-01 — Senate amendment submitted
+- 2022-02-01 — The committee amendment to the preamble agreed to by Unanimous Consent.
+- 2022-02-01 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S452-453)
