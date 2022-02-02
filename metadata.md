@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3579
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3579
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 200 Eas
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 200 Eas
 - 2022-02-01 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill.
 - 2022-02-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H321)
 - 2022-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H321)
+- 2022-02-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
