@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4168
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4168
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 6223 Ma
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the facility of the United States Postal Service located at 6223 Ma
 - 2022-02-01 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill.
 - 2022-02-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H322)
 - 2022-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H322)
+- 2022-02-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
