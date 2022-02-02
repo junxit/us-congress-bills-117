@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1298
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1298
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at 1233 No
 - Rep. Bice, Stephanie I. [R-OK-5] (B000740)
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 1233 No
 - 2022-02-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H323)
 - 2022-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H323)
 - 2022-02-01 — The title of the measure was amended. Agreed to without objection.
+- 2022-02-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
