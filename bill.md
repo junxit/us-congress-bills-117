@@ -1,0 +1,21 @@
+---
+legis-num: S. 3555
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3555
+
+> To amend the Occupational Safety and Health Act of 1970 to clarify the scope of the authority for emergency temporary standards, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “OSHA ETS Clarification Act of 2022”.
+
+## § 2. OSHA emergency temporary standard
+
+Section 6(c) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(c)) is amended—
+
+- **(1)** by striking “and (B)” and inserting “(B) the exposure to the substances, agents, or new hazards arises exclusively from within the workplace to be covered by the emergency temporary standard, or is unique and specific to the workplace to be covered by the emergency temporary standard, and (C)”; and
+- **(2)** by inserting “within the workplace” after “such danger”.
