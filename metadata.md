@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1688
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1688
@@ -51,3 +51,9 @@ Native American Child Protection Act
 - 2021-05-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2222-2223)
 - 2021-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2222-2223)
 - 2021-05-13 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2021-07-21 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-71.
+- 2021-10-27 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2022-02-02 — An errata sheet on written report No. 117-63 was printed.
+- 2022-02-02 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-63.
+- 2022-02-02 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-63.
+- 2022-02-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 259.
