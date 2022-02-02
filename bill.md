@@ -2,7 +2,7 @@
 legis-num: H. RES. 900
 congress: 117th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 900
@@ -25,7 +25,7 @@ All points of order against the further amendments printed in part A of the repo
 
 ## § 5.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4445) to amend title 9 of the United States Code with respect to arbitration of disputes involving sexual assault and sexual harassment. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–29 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; (2) the further amendment printed in part B of the report of the Committee on Rules accompanying this resolution, if offered by the Member designated in the report, which shall be in order without intervention of any point of order, shall be considered as read, shall be separately debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, and shall not be subject to a demand for division of the question; and (3) one motion to recommit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 4445) to amend title 9 of the United States Code with respect to arbitration of disputes involving sexual assault and sexual harassment. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-29 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; (2) the further amendment printed in part B of the report of the Committee on Rules accompanying this resolution, if offered by the Member designated in the report, which shall be in order without intervention of any point of order, shall be considered as read, shall be separately debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, and shall not be subject to a demand for division of the question; and (3) one motion to recommit.
 
 ## § 6.
 
@@ -37,7 +37,7 @@ After debate pursuant to section 6 of this resolution, each further amendment pr
 
 ## § 8.
 
-It shall be in order at any time after debate pursuant to section 6 of this resolution for the chair of the Committee on Science, Space, and Technology or her designee to offer amendments en bloc consisting of further amendments printed in part D of the report of the Committee on Rules accompanying this resolution not earlier disposed of. Amendments en bloc offered pursuant to this section shall be considered as read, shall be debatable for 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Science, Space, and Technology or their respective designees, shall not be subject to amendment, and shall not be subject to a demand for division of the question.
+It shall be in order at any time after debate pursuant to section 6 of this resolution for the chair of the Committee on Science, Space, and Technology or her designee to offer amendments en bloc consisting of further amendments printed in part D of the report of the Committee on Rules accompanying this resolution not earlier disposed of. Amendments en bloc offered pursuant to this section shall be considered as read, shall be debatable for 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Education and Labor or their respective designees, shall not be subject to amendment, and shall not be subject to a demand for division of the question.
 
 ## § 9.
 
