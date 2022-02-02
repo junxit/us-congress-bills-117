@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3613
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3613
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 202 Tru
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 202 Tru
 - 2022-02-01 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill.
 - 2022-02-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H321-322)
 - 2022-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H321-322)
+- 2022-02-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
