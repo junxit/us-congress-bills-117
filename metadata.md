@@ -1,7 +1,7 @@
 ---
 measure: S. 2159
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2159
@@ -28,3 +28,7 @@ A bill to designate the community-based outpatient clinic of the Department of V
 
 - 2021-06-22 — Introduced in Senate
 - 2021-06-22 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-02-03 — Passed Senate without amendment by Unanimous Consent. (text: CR S528)
+- 2022-02-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S528)
+- 2022-02-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S528)
+- 2022-02-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S528)
