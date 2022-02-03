@@ -1,7 +1,7 @@
 ---
 measure: S. 2159
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2159
@@ -32,3 +32,18 @@ A bill to designate the community-based outpatient clinic of the Department of V
 - 2022-02-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S528)
 - 2022-02-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S528)
 - 2022-02-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S528)
+- 2022-02-07 — Held at the desk.
+- 2022-02-07 — Message on Senate action sent to the House.
+- 2022-02-07 — Received in the House.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8444-8446)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on S. 2159.
+- 2022-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-14 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8444)
+- 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-11-28 — Presented to President.
+- 2022-11-28 — Presented to President.
+- 2022-12-05 — Became Public Law No: 117-220.
+- 2022-12-05 — Became Public Law No: 117-220.
+- 2022-12-05 — Signed by President.
+- 2022-12-05 — Signed by President.
