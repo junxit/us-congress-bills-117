@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 500
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 500
@@ -16,7 +16,7 @@ A resolution supporting the observation of National Trafficking and Modern Slave
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
@@ -31,6 +31,9 @@ A resolution supporting the observation of National Trafficking and Modern Slave
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -40,3 +43,7 @@ A resolution supporting the observation of National Trafficking and Modern Slave
 
 - 2022-02-01 — Introduced in Senate
 - 2022-02-01 — Referred to the Committee on the Judiciary.
+- 2022-02-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 02/01/2022 CR S445-446)
+- 2022-02-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 02/01/2022 CR S445-446)
+- 2022-02-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S527)
+- 2022-02-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S527)
