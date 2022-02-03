@@ -1,7 +1,7 @@
 ---
 measure: S. 3527
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in the section heading, by striking “Requirement” and inserting “Requirements”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “Except as expressly provided by law” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection (b): | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 5 of such title is amended by striking the item relating to section 531 and inserting the following new item: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Except as expressly provided by law” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections at the beginning of chapter 5 of title 38, United States Code, is amended by striking the item relating to section 531 and inserting the following new item: | the bill names no machine-readable US Code section |
