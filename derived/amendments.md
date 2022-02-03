@@ -1,7 +1,7 @@
 ---
 measure: S. 998
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `There` |
 | Inserted | `(a) In General.—There` |
 
+### 34 U.S.C. § 10151
+
+> by striking “There” and inserting “(a) In general.—There”; and
+
+| | |
+|---|---|
+| Removed | `There` |
+| Inserted | `(a) In general.—There` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -44,3 +53,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `34 U.S.C. § 10152` | add-at-end | in section 501(a) (34 U.S.C. 10152(a)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10151` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10152` | add-at-end | in section 501(a) (34 U.S.C. 10152(a)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10151` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 159 of title 23, United States Code, is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 159. | the bill names no machine-readable US Code section |
