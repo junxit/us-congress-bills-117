@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4521
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4521
@@ -144,3 +144,151 @@ United States Innovation and Competition Act of 2021
 - 2022-01-28 — Placed on the Union Calendar, Calendar No. 170.
 - 2022-01-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-235, Part I.
 - 2022-01-28 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-235, Part I.
+- 2022-02-02 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-02-02 — Amendments en bloc (A002) offered by Ms. Johnson (TX). (consideration: CR H828-898; text: CR H828-865)
+- 2022-02-02 — Amendments en bloc (A003) offered by Ms. Bonamici. (consideration: CR H828-898; text: CR H865-895)
+- 2022-02-02 — Amendments en bloc (A004) offered by Ms. Lofgren. (consideration: CR H828-898; text: CR H895-898)
+- 2022-02-02 — Considered under the provisions of rule H. Res. 900. (consideration: CR H358-899; text: CR H358-806)
+- 2022-02-02 — DEBATE - Pursuant to the provisions of H. Res. 900, the House proceeded with 20 minutes of debate on the Bonamici en bloc No. 2.
+- 2022-02-02 — DEBATE - Pursuant to the provisions of H. Res. 900, the House proceeded with 20 minutes of debate on the Lofgren en bloc No. 3.
+- 2022-02-02 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 20 minutes of debate on the Johnson (TX) amendment en bloc No. 1.
+- 2022-02-02 — DEBATE - The House proceeded with two hours of debate on H.R. 4521.
+- 2022-02-02 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-02-02 — House amendment offered
+- 2022-02-02 — House amendment offered
+- 2022-02-02 — House amendment offered
+- 2022-02-02 — House amendment offered
+- 2022-02-02 — House amendment offered/reported by: Amendments en bloc (A002) offered by Ms. Johnson (TX).(consideration: CR H828-898; text: CR H828-865)
+- 2022-02-02 — House amendment offered/reported by: Amendments en bloc (A003) offered by Ms. Bonamici.(consideration: CR H828-898; text: CR H865-895)
+- 2022-02-02 — House amendment offered/reported by: Amendments en bloc (A004) offered by Ms. Lofgren.(consideration: CR H828-898; text: CR H895-898)
+- 2022-02-02 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-02-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment en bloc No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Clyde demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (TX) amendment en bloc No. 1, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Babin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lofgren amendment en bloc No. 3, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Clyde demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-02 — Rule H. Res. 900 passed House.
+- 2022-02-02 — Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
+- 2022-02-02 — Rules Committee Resolution H. Res. 900 Reported to House. Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
+- 2022-02-02 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 4521 are postponed.
+- 2022-02-02 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-02-02 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-02-02 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-02-03 — Amendment (A005) offered by Ms. Jayapal. (consideration: CR H925-926; text: CR H925)
+- 2022-02-03 — Amendment (A006) offered by Mr. Castro (TX). (consideration: CR H926-927; text: CR H926)
+- 2022-02-03 — Amendment (A007) offered by Mr. Crenshaw. (consideration: CR H927-928; text: CR H927)
+- 2022-02-03 — Amendment (A008) offered by Mr. Garamendi. (consideration: CR H928-932; text: CR H928-931)
+- 2022-02-03 — Amendment (A009) offered by Ms. Jayapal. (consideration: CR H932-933; text: CR H932)
+- 2022-02-03 — Amendment (A010) offered by Mrs. Bice (OK). (consideration: CR H933-934; text: CR H933)
+- 2022-02-03 — Amendment (A011) offered by Mr. Perry. (consideration: CR H934-935; text: CR H934)
+- 2022-02-03 — Amendment agreed to by House: On agreeing to the Bice (OK) amendment (A010) Agreed to by the Yeas and Nays: 279 - 153 (Roll no. 26).
+- 2022-02-03 — Amendment agreed to by House: On agreeing to the Bonamici amendments (A003) Agreed to by the Yeas and Nays: 262 - 168 (Roll no. 19).
+- 2022-02-03 — Amendment agreed to by House: On agreeing to the Castro (TX) amendment (A006) Agreed to by the Yeas and Nays: 216 - 214 (Roll no. 22).
+- 2022-02-03 — Amendment agreed to by House: On agreeing to the Crenshaw amendment (A007) Agreed to by the Yeas and Nays: 264 - 163 (Roll no. 23).
+- 2022-02-03 — Amendment agreed to by House: On agreeing to the Garamendi amendment (A008) Agreed to by the Yeas and Nays: 367 - 59 (Roll no. 24).
+- 2022-02-03 — Amendment agreed to by House: On agreeing to the Johnson (TX) amendments (A002) Agreed to by the Yeas and Nays: 221 - 211 (Roll no. 18).
+- 2022-02-03 — Amendment failed by House: On agreeing to the Jayapal amendment (A005) Failed by the Yeas and Nays: 181 - 248 (Roll no. 21).
+- 2022-02-03 — Amendment failed by House: On agreeing to the Jayapal amendment (A009) Failed by the Yeas and Nays: 175 - 255 (Roll no. 25).
+- 2022-02-03 — Amendment failed by House: On agreeing to the Lofgren amendments (A004) Failed by the Yeas and Nays: 204 - 225 (Roll no. 20).
+- 2022-02-03 — Amendment failed by House: On agreeing to the Perry amendment (A011) Failed by the Yeas and Nays: 196 - 235 (Roll no. 27).
+- 2022-02-03 — Considered as unfinished business. (consideration: CR H925-934, H934-944)
+- 2022-02-03 — Considered as unfinished business. (consideration: CR H934-944)
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Bice(OK) amendment No. 131.
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Castro(TX) amendment No. 43.
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Crenshaw amendment No. 56.
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Garamendi amendment No. 89.
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Jayapal amendment No. 124.
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Jayapal amendment No. 22.
+- 2022-02-03 — DEBATE - Pursuant to the provisions of H.Res. 900, the House proceeded with 10 minutes of debate on the Perry amendment No. 184.
+- 2022-02-03 — House amendment agreed to: On agreeing to the Bice (OK) amendment (A010) Agreed to by the Yeas and Nays: 279 - 153 (Roll no. 26).
+- 2022-02-03 — House amendment agreed to: On agreeing to the Bonamici amendments (A003) Agreed to by the Yeas and Nays: 262 - 168 (Roll no. 19).
+- 2022-02-03 — House amendment agreed to: On agreeing to the Castro (TX) amendment (A006) Agreed to by the Yeas and Nays: 216 - 214 (Roll no. 22).
+- 2022-02-03 — House amendment agreed to: On agreeing to the Crenshaw amendment (A007) Agreed to by the Yeas and Nays: 264 - 163 (Roll no. 23).
+- 2022-02-03 — House amendment agreed to: On agreeing to the Garamendi amendment (A008) Agreed to by the Yeas and Nays: 367 - 59 (Roll no. 24).
+- 2022-02-03 — House amendment agreed to: On agreeing to the Johnson (TX) amendments (A002) Agreed to by the Yeas and Nays: 221 - 211 (Roll no. 18).
+- 2022-02-03 — House amendment not agreed to: On agreeing to the Jayapal amendment (A005) Failed by the Yeas and Nays: 181 - 248 (Roll no. 21).
+- 2022-02-03 — House amendment not agreed to: On agreeing to the Jayapal amendment (A009) Failed by the Yeas and Nays: 175 - 255 (Roll no. 25).
+- 2022-02-03 — House amendment not agreed to: On agreeing to the Lofgren amendments (A004) Failed by the Yeas and Nays: 204 - 225 (Roll no. 20).
+- 2022-02-03 — House amendment not agreed to: On agreeing to the Perry amendment (A011) Failed by the Yeas and Nays: 196 - 235 (Roll no. 27).
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered
+- 2022-02-03 — House amendment offered/reported by: Amendment (A005) offered by Ms. Jayapal.(consideration: CR H925-926; text: CR H925)
+- 2022-02-03 — House amendment offered/reported by: Amendment (A006) offered by Mr. Castro (TX).(consideration: CR H926-927; text: CR H926)
+- 2022-02-03 — House amendment offered/reported by: Amendment (A007) offered by Mr. Crenshaw.(consideration: CR H927-928; text: CR H927)
+- 2022-02-03 — House amendment offered/reported by: Amendment (A008) offered by Mr. Garamendi.(consideration: CR H928-932; text: CR H928-931)
+- 2022-02-03 — House amendment offered/reported by: Amendment (A009) offered by Ms. Jayapal.(consideration: CR H932-933; text: CR H932)
+- 2022-02-03 — House amendment offered/reported by: Amendment (A010) offered by Mrs. Bice (OK).(consideration: CR H933-934; text: CR H933)
+- 2022-02-03 — House amendment offered/reported by: Amendment (A011) offered by Mr. Perry.(consideration: CR H934-935; text: CR H934)
+- 2022-02-03 — On agreeing to the Bice (OK) amendment (A010) Agreed to by the Yeas and Nays: 279 - 153 (Roll no. 26).
+- 2022-02-03 — On agreeing to the Bonamici amendments (A003) Agreed to by the Yeas and Nays: 262 - 168 (Roll no. 19).
+- 2022-02-03 — On agreeing to the Castro (TX) amendment (A006) Agreed to by the Yeas and Nays: 216 - 214 (Roll no. 22).
+- 2022-02-03 — On agreeing to the Crenshaw amendment (A007) Agreed to by the Yeas and Nays: 264 - 163 (Roll no. 23).
+- 2022-02-03 — On agreeing to the Garamendi amendment (A008) Agreed to by the Yeas and Nays: 367 - 59 (Roll no. 24).
+- 2022-02-03 — On agreeing to the Jayapal amendment (A005) Failed by the Yeas and Nays: 181 - 248 (Roll no. 21).
+- 2022-02-03 — On agreeing to the Jayapal amendment (A009) Failed by the Yeas and Nays: 175 - 255 (Roll no. 25).
+- 2022-02-03 — On agreeing to the Johnson (TX) amendments (A002) Agreed to by the Yeas and Nays: 221 - 211 (Roll no. 18).
+- 2022-02-03 — On agreeing to the Lofgren amendments (A004) Failed by the Yeas and Nays: 204 - 225 (Roll no. 20).
+- 2022-02-03 — On agreeing to the Perry amendment (A011) Failed by the Yeas and Nays: 196 - 235 (Roll no. 27).
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bice(OK) amendment No. 131, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mrs. Bice (OK) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro(TX) amendment No. 43, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mrs. Bice(OK) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crenshaw amendment No. 56, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Crenshaw demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 89, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Johnson (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment No. 124, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mrs. Bice (OK) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment No. 22, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mrs. Bice(OK) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 184, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-03 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further consideration on H.R. 4521.
+- 2022-02-03 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further consideration on H.R. 4521.
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — Roll call votes on amendments in House
+- 2022-02-03 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 4521 are postponed.
+- 2022-02-03 — The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 4521 are postponed. %kp1
+- 2022-02-03 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2022-02-03 — The previous question was ordered on the amendment (A006) pursuant to the rule.
+- 2022-02-03 — The previous question was ordered on the amendment (A007) pursuant to the rule.
+- 2022-02-03 — The previous question was ordered on the amendment (A008) pursuant to the rule.
+- 2022-02-03 — The previous question was ordered on the amendment (A009) pursuant to the rule.
+- 2022-02-03 — The previous question was ordered on the amendment (A010) pursuant to the rule.
+- 2022-02-03 — The previous question was ordered on the amendment (A011) pursuant to the rule.
+- 2022-02-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2022-02-04 — Amendment (A012) offered by Mrs. Steel. (consideration: CR H951-952, H959-960; text: CR H951)
+- 2022-02-04 — Amendment (A013) offered by Mr. Levin (MI). (consideration: CR H952-959, H960-961; text: H952-958)
+- 2022-02-04 — Amendment agreed to by House: On agreeing to the Levin (MI) amendment (A013) Agreed to by the Yeas and Nays: 238 - 193 (Roll no. 29).
+- 2022-02-04 — Amendment agreed to by House: On agreeing to the Steel amendment (A012) Agreed to by the Yeas and Nays: 265 - 166 (Roll no. 28).
+- 2022-02-04 — Considered as unfinished business. (consideration: CR H951-961)
+- 2022-02-04 — DEBATE - Pursuant to the provisions of H. Res. 900, the House proceeded with 10 minutes of debate on the Levin (MI) amendment No. 260.
+- 2022-02-04 — DEBATE - Pursuant to the provisions of H. Res. 900, the House proceeded with 10 minutes of debate on the Steel amendment No. 239.
+- 2022-02-04 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A013) Agreed to by the Yeas and Nays: 238 - 193 (Roll no. 29).
+- 2022-02-04 — House amendment agreed to: On agreeing to the Steel amendment (A012) Agreed to by the Yeas and Nays: 265 - 166 (Roll no. 28).
+- 2022-02-04 — House amendment offered
+- 2022-02-04 — House amendment offered
+- 2022-02-04 — House amendment offered/reported by: Amendment (A012) offered by Mrs. Steel.
+- 2022-02-04 — House amendment offered/reported by: Amendment (A013) offered by Mr. Levin (MI).
+- 2022-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-04 — Mr. McCaul moved to recommit to the Committee on Science. (consideration: CR H961-962; text: CR H961)
+- 2022-02-04 — On agreeing to the Levin (MI) amendment (A013) Agreed to by the Yeas and Nays: 238 - 193 (Roll no. 29).
+- 2022-02-04 — On agreeing to the Steel amendment (A012) Agreed to by the Yeas and Nays: 265 - 166 (Roll no. 28).
+- 2022-02-04 — On motion to recommit Failed by the Yeas and Nays: 211 - 221 (Roll no. 30).
+- 2022-02-04 — On passage Passed by the Yeas and Nays: 222 - 210 (Roll no. 31).
+- 2022-02-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Levin (MI) amendment No. 260, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Steel amendment No. 239, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mrs. Steel demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 210 (Roll no. 31).
+- 2022-02-04 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further consideration on H.R. 4521.
+- 2022-02-04 — Roll call votes on amendments in House
+- 2022-02-04 — Roll call votes on amendments in House
+- 2022-02-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4521.
+- 2022-02-04 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-02-04 — The previous question was ordered on the amendment (A012) pursuant to the rule.
+- 2022-02-04 — The previous question was ordered on the amendment (A013) pursuant to the rule.
+- 2022-02-04 — The previous question was ordered pursuant to the rule.
+- 2022-02-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments which had been debated earlier and on which further proceedings had been postponed.
