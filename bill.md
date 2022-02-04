@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 6607
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6607
+
+> To identify certain roads in the vicinity of Beale Air Force Base and Travis Air Force Base, California, as defense access roads for purposes of the Defense Access Road Program.
+
+## § 1. Identification of defense access roads, Beale Air Force Base and Travis Air Force Base, California
+
+- **(a)** *Certification* For purposes of the Defense Access Road Program, the roads specified in subsection (b) in the vicinity of Beale Air Force Base, California, or in the vicinity of Travis Air Force Base, California, are hereby certified to the Secretary of Defense, and by extension to the Secretary of Transportation, as important to the national defense pursuant to section 210 of title 23, United States Code.
+- **(b)** *Roads identified* The certification made by subsection (a) applies to the following roads:
+  - **(1)** For Beale Air Force Base, California:
+    - **(A)** Chuck Yeager Road.
+    - **(B)** North Beale Road.
+    - **(C)** Spenceville Road, also known as Camp Beale Highway.
+    - **(D)** South Beale Road.
+  - **(2)** For Travis Air Force Base, California:
+    - **(A)** Air Base Parkway.
+    - **(B)** Canon Road.
+    - **(C)** Gate Road, including North Gate Road.
+    - **(D)** Petersen Road.
+    - **(E)** Vanden Road.
