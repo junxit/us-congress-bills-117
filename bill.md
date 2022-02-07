@@ -1,0 +1,34 @@
+---
+legis-num: S. 3587
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3587
+
+> To modify conditions of funding for the distance learning, telemedicine, and broadband program of the Rural Utilities Service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Connect Unserved Americans Act of 2022”.
+
+## § 2. Distance learning, telemedicine, and broadband program
+
+The Infrastructure Investment and Jobs Act (Public Law 117–58) is amended in the third proviso under the heading “distance learning, telemedicine, and broadband program” under the heading “Rural Utilities Service” under the heading “rural development programs” under the heading “Department of Agriculture” in title I of division J by striking “50 percent” and inserting “80 percent”.
+
+## § 3. Coordination with Treasury Department on distribution of broadband deployment funds
+
+- **(a)** *In general* Section 904(b) of division FF of the Consolidated Appropriations Act, 2021 (47 U.S.C. 1308(b)) is amended—
+  - **(1)** in paragraph (1)(A)—
+    - **(A)** in clause (ii), by striking “and” at the end; and
+    - **(B)** by adding at the end the following:
+      > - **(iv)** the Department of the Treasury; and
+
+  - **(2)** in paragraph (2)—
+    - **(A)** in subparagraph (B), by striking “and” at the end;
+    - **(B)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(D)** the programs administered by the Department of the Treasury.
+
+- **(b)** *Deadline* Not later than 30 days after the date of enactment of this Act, the covered agencies (as defined in section 904(b) of division FF of the Consolidated Appropriations Act, 2021 (47 U.S.C. 1308(b)), as amended by subsection (a) of this section) shall implement the amendments made by subsection (a) of this section.
