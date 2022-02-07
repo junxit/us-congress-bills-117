@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4445
@@ -58,3 +58,28 @@ Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021
 - 2022-01-28 — Placed on the Union Calendar, Calendar No. 169.
 - 2022-01-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-234.
 - 2022-01-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-234.
+- 2022-02-02 — Rules Committee Resolution H. Res. 900 Reported to House. Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
+- 2022-02-07 — Amendment (A002) offered by Mr. Buck.
+- 2022-02-07 — Amendment agreed to by House: On agreeing to the Buck amendment (A002) Agreed to by the Yeas and Nays: 427 - 0 (Roll no. 32).
+- 2022-02-07 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-02-07 — Considered as unfinished business. (consideration: CR H994-995)
+- 2022-02-07 — Considered under the provisions of rule H. Res. 900. (consideration: CR H983-993)
+- 2022-02-07 — DEBATE - Pursuant to the provisions of H. Res. 900, the House proceeded with 10 minutes of debate on the Buck amendment.
+- 2022-02-07 — DEBATE - The House continued with debate on H.R. 4445.
+- 2022-02-07 — DEBATE - The House proceeded with one hour of debate on H.R. 4445.
+- 2022-02-07 — House amendment agreed to: On agreeing to the Buck amendment (A002) Agreed to by the Yeas and Nays: 427 - 0 (Roll no. 32).
+- 2022-02-07 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-02-07 — House amendment offered
+- 2022-02-07 — House amendment offered
+- 2022-02-07 — House amendment offered/reported by: Amendment (A002) offered by Mr. Buck.
+- 2022-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-07 — On agreeing to the Buck amendment (A002) Agreed to by the Yeas and Nays: 427 - 0 (Roll no. 32).
+- 2022-02-07 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-02-07 — On passage Passed by the Yeas and Nays: 335 - 97 (Roll no. 33). (text: CR: H984)
+- 2022-02-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-02-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 335 - 97 (Roll no. 33).(text: CR: H984)
+- 2022-02-07 — Pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 4445 were postponed.
+- 2022-02-07 — Roll call votes on amendments in House
+- 2022-02-07 — Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
+- 2022-02-07 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
+- 2022-02-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of agreeing to the Buck amendment, which was debated earlier an on which further proceedings had been postponed.
