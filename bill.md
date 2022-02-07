@@ -1,0 +1,14 @@
+---
+legis-num: S.J. RES. 35
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 35
+
+> Providing for congressional disapproval of the proposed foreign military sale to the Government of Egypt of certain defense articles and services.
+
+That the following proposed foreign military sale to the Government of Egypt is prohibited:
+
+- **(1)** The sale of the following defense articles and services, described in Transmittal No. 21–26, submitted to Congress pursuant to section 36(b)(1) of the Arms Export Control Act (22 U.S.C. 2776(b)(1)), and published in the Congressional Record on January 31, 2022: Twelve (12) C–1301 Super Hercules Aircraft with Four (4) each Rolls Royce AE–2100D Turboprop Engines (installed); Twelve (12) Rolls Royce AE–2100D Turboprop Engines (spares); Thirty (30) Embedded GPS/INS (EGI) with GPS Security Devices (including 6 spares); Seven (7) Multifunctional Information Distribution System—Low Volume Terminal Block Upgrade Two (MIDS-LVT BU2) (including 3 spares); AN/APX–119 Identification Friend or Foe (IFF) Transponders; AN/AAR–47 Missile Warning Systems (MWS); AN/ALE–47 Countermeasures Dispensing System (CMDS); AN/ALR–56M Radar Warning Receiver (RWR); AN/AAQ–22 (STAR SAFIRE 380); secure communications, cryptographic equipment, and GPS-aided precision navigation equipment; publications and technical documentation; software and mission critical resources; aircraft support and equipment; unclassified return and repair; integration and testing; personnel training and training equipment; United States Government and contractor engineering, technical, and logistics support services; and other related elements of logistical and program support.
