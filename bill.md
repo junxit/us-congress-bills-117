@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6619
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6619
+
+> To prohibit the Secretary of Education from providing Federal funds to a local educational agency unless in-person instruction is available to all students and parents may opt out of student mask mandates, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Unmask Our Kids Act”.
+
+## § 2. Prohibitions
+
+- **(a)** *In general* No funds shall be made available under any applicable program to a local educational agency unless—
+  - **(1)** in-person instruction is available to all students at each public elementary school and secondary school under the jurisdiction of such agency; and
+  - **(2)** a parent of a student at any such school may elect to opt out of any requirement that the student wear a face covering.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Applicable program* The term “applicable program” has the meaning given the term in section 400(c) of the General Education Provisions Act (20 U.S.C. 1221(c)).
+  - **(2)** *ESEA terms* The terms “elementary school”, “local educational agency”, “parent”, and “secondary school” have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
