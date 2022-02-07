@@ -1,7 +1,7 @@
 ---
 measure: S. 314
 congress: 117
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 314
@@ -34,3 +34,7 @@ Klamath Tribe Judgment Fund Repeal Act
 - 2021-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
 - 2021-05-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3490; text: CR S3490)
 - 2021-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3490; text: CR S3490)
+- 2021-05-27 — Message on Senate action sent to the House.
+- 2021-05-28 — Held at the desk.
+- 2021-05-28 — Received in the House.
+- 2022-02-07 — Referred to the House Committee on Natural Resources.
