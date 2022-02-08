@@ -1,0 +1,34 @@
+---
+legis-num: S. 3601
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3601
+
+> To require the Administrator of the Federal Emergency Management Agency to include breast pumps and other lactation supplies and equipment in disaster relief and emergency response.
+
+## § 1. Short title
+
+This Act may be cited as the “Delivering Essentials to Mothers Amid Natural Disasters Act of 2022” or the “DEMAND Act of 2022”.
+
+## § 2. Lactation support provider defined
+
+In this Act, the term lactation support provider—
+
+- **(1)** means an individual who is a breastfeeding and lactation educator or counselor, without regard to the type of license or certification the individual holds, if any; and
+- **(2)** includes—
+  - **(A)** a lactation consultant;
+  - **(B)** a breastfeeding counselor;
+  - **(C)** a breastfeeding peer counselor; and
+  - **(D)** a lactation educator.
+
+## § 3. Breastfeeding supplies and support services
+
+Not later than 90 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency, in consultation with the head of the Federal Interagency Breastfeeding Workgroup, shall designate the following items as items for which individuals and households may receive financial assistance under section 408(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(e)):
+
+- **(1)** Breast pumps.
+- **(2)** Other lactation supplies appropriate for use in an emergency setting.
+- **(3)** Other equipment necessary to support the safe use of breast pumps.
+- **(4)** Services of lactation support providers.
