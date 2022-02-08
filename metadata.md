@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 424
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 424
@@ -28,3 +28,7 @@ A resolution commemorating the 80th anniversary of the dedication of Sheppard Ai
 
 - 2021-10-20 — Introduced in Senate
 - 2021-10-20 — Referred to the Committee on Armed Services.
+- 2022-02-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 10/20/2021 CR S7128)
+- 2022-02-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 10/20/2021 CR S7128)
+- 2022-02-08 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S578)
+- 2022-02-08 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S578)
