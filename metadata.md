@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4445
@@ -83,3 +83,4 @@ Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021
 - 2022-02-07 — Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
 - 2022-02-07 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
 - 2022-02-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of agreeing to the Buck amendment, which was debated earlier an on which further proceedings had been postponed.
+- 2022-02-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
