@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2324
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2324
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 2800 So
 
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
@@ -43,6 +43,7 @@ To designate the facility of the United States Postal Service located at 2800 So
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Gimenez, Carlos A. [R-FL-26] (G000593)
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
 
 ## Committees (1)
 
@@ -53,3 +54,13 @@ To designate the facility of the United States Postal Service located at 2800 So
 - 2021-04-01 — Introduced in House
 - 2021-04-01 — Introduced in House
 - 2021-04-01 — Referred to the House Committee on Oversight and Reform.
+- 2021-06-29 — Committee Consideration and Mark-up Session Held.
+- 2021-06-29 — Ordered to be Reported by Unanimous Consent.
+- 2022-02-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-02-01 — Considered under suspension of the rules. (consideration: CR H318)
+- 2022-02-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2324.
+- 2022-02-01 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill.
+- 2022-02-08 — Considered as unfinished business. (consideration: CR H1058-1059)
+- 2022-02-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 428 - 1, 1 Present (Roll no. 40). (text: 02/01/2022 CR H318)
+- 2022-02-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 428 - 1, 1 Present (Roll no. 40).(text: 02/01/2022 CR H318)
