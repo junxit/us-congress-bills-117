@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 69
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 69
@@ -25,3 +25,5 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2022-02-07 — Introduced in House
 - 2022-02-07 — Introduced in House
 - 2022-02-07 — Referred to the House Committee on House Administration.
+- 2022-02-08 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 912, H. Con. Res. 69 is considered passed House.(text: CR H1032-1033)
+- 2022-02-08 — Pursuant to the provisions of H. Res. 912, H. Con. Res. 69 is considered passed House. (text: CR H1032-1033)
