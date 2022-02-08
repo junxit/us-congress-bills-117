@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
