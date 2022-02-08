@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3076
@@ -158,3 +158,25 @@ Postal Service Reform Act of 2022
 - 2022-02-01 — Committee on Ways and Means discharged.
 - 2022-02-01 — Committee on Ways and Means discharged.
 - 2022-02-01 — Placed on the Union Calendar, Calendar No. 171.
+- 2022-02-07 — Rules Committee Resolution H. Res. 912 Reported to House. Rule provides for consideration of H.R. 3076 and H.R. 6617. The resolution provides for one hour of general debate for both bills. H.R. 6617 is being considered under a closed rule and H.R. 3076 is being considered under a structured rule. The resolution provides that H. Con. Res. 69 is considered adopted and provides that for purposes of the joint session to receive the President of the United States on March 1, 2022, former Members, Delegates, and Resident Commissioners shall not be admitted to the Hall of the House or rooms leading thereto.
+- 2022-02-08 — Amendment (A002) offered by Mrs. Maloney, Carolyn B. (consideration: CR H1051; text: CR H1051)
+- 2022-02-08 — Amendment agreed to by House: On agreeing to the Maloney, Carolyn B. amendment (A002) Agreed to by voice vote.
+- 2022-02-08 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-02-08 — Considered as unfinished business. (consideration: CR H1056-1057)
+- 2022-02-08 — Considered under the provisions of rule H. Res. 912. (consideration: CR H1033-1051; text: CR H1033-1039)
+- 2022-02-08 — DEBATE - Pursuant to the provisions of H. Res. 912, the House proceeded with 10 minutes of debate on the Carolyn B. Maloney amendment.
+- 2022-02-08 — DEBATE - The House proceeded with one hour of debate on H.R. 3076.
+- 2022-02-08 — House amendment agreed to: On agreeing to the Maloney, Carolyn B. amendment (A002) Agreed to by voice vote.
+- 2022-02-08 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-02-08 — House amendment offered
+- 2022-02-08 — House amendment offered
+- 2022-02-08 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Maloney, Carolyn B.
+- 2022-02-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-08 — On agreeing to the Maloney, Carolyn B. amendment (A002) Agreed to by voice vote.
+- 2022-02-08 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-02-08 — On passage Passed by the Yeas and Nays: 342 - 92 (Roll no. 38).
+- 2022-02-08 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair announced that further proceedings on the question of passage would be postponed.
+- 2022-02-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 342 - 92 (Roll no. 38).
+- 2022-02-08 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-02-08 — Rule provides for consideration of H.R. 3076 and H.R. 6617. The resolution provides for one hour of general debate for both bills. H.R. 6617 is being considered under a closed rule and H.R. 3076 is being considered under a structured rule. The resolution provides that H. Con. Res. 69 is considered adopted and provides that for purposes of the joint session to receive the President of the United States on March 1, 2022, former Members, Delegates, and Resident Commissioners shall not be admitted to the Hall of the House or rooms leading thereto.
+- 2022-02-08 — The previous question was ordered on the amendment (A002) pursuant to the rule.
