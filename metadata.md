@@ -1,7 +1,7 @@
 ---
 measure: S. 3541
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3541
@@ -44,3 +44,6 @@ Health Care for Burn Pit Veterans Act
 
 - 2022-02-01 — Introduced in Senate
 - 2022-02-01 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-02-08 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2022-02-08 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2022-02-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.
