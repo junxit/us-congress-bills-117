@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Further Additional Continuing Appropriations Act, 2022”.
+This Act may be cited as the “Further Additional Extending Government Funding Act”.
 
 ## § 2. Table of Contents
 
