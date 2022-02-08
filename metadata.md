@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4445
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4445
@@ -84,3 +84,12 @@ Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021
 - 2022-02-07 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
 - 2022-02-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of agreeing to the Buck amendment, which was debated earlier an on which further proceedings had been postponed.
 - 2022-02-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
+- 2022-02-10 — Message on Senate action sent to the House.
+- 2022-02-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S621-628)
+- 2022-02-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-03-02 — Presented to President.
+- 2022-03-02 — Presented to President.
+- 2022-03-03 — Became Public Law No: 117-90.
+- 2022-03-03 — Became Public Law No: 117-90.
+- 2022-03-03 — Signed by President.
+- 2022-03-03 — Signed by President.
