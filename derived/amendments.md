@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 2 executed, 33 stated and not applied.
+41 amendatory instructions. 3 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,14 +26,23 @@ to guess them.
 
 ### 5 U.S.C. § 8903b
 
-> Section 8903(1) of title 5, United States Code, is amended by striking “two levels of benefits” and inserting “2 levels of benefits for enrollees under this chapter generally and 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c”.
+> Section 8903(1) of title 5, United States Code, is amended by striking “two levels of benefits” and inserting “at least 2 levels of benefits for enrollees under this chapter generally and at least 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c”.
 
 | | |
 |---|---|
 | Removed | `two levels of benefits` |
-| Inserted | `2 levels of benefits for enrollees under this chapter generally and 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c` |
+| Inserted | `at least 2 levels of benefits for enrollees under this chapter generally and at least 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c` |
 
-### 25 U.S.C. § 450b
+### 42 U.S.C. § 1395i-2
+
+> Section 1818(c) of the Social Security Act (42 U.S.C. 1395i–2(c)) is amended, in the matter preceding paragraph (1), by striking “(except subsection (f) thereof)” and inserting “(except subsections (f) and (o) thereof)”.
+
+| | |
+|---|---|
+| Removed | `(except subsection (f) thereof)` |
+| Inserted | `(except subsections (f) and (o) thereof)` |
+
+### 25 U.S.C. § 5304
 
 > The last sentence of section 411 of title 39, United States Code, is amended by striking “including reimbursability” and inserting “including reimbursability within the limitations of chapter 37”.
 
@@ -53,23 +62,21 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `5 U.S.C. § 8903b` | insert | Chapter 89 of title 5, United States Code, is amended by inserting after section 8903b the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8903b` | insert | The table of sections for chapter 89 of title 5, United States Code, is amended by inserting after the item relating to section 8903b the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 426` | add-at-end | Section 226 of the Social Security Act (42 U.S.C. 426) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395y` | add-at-end | Section 1862(b)(1)(E) of the Social Security Act (42 U.S.C. 1395y(b)(1)(E)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395p` | add-at-end | Section 1837 of the Social Security Act (42 U.S.C. 1395p) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395q` | add-at-end | Section 1838 of the Social Security Act (42 U.S.C. 1395q) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395q` | add-at-end | Section 1838 of the Social Security Act (42 U.S.C. 1395q) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395r` | replace | in paragraph (1), by striking “(as defined in paragraph (3)(A))” and by inserting “(as defined in paragraph (3)(A)(i)). The Secretary shall enter into an agreement with the United States Postal Service under which the United States Posta… | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `42 U.S.C. § 1395r` | amend | by amending paragraph (3)(A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-132` | insert | Section 1860D–22(b) of the Social Security Act (42 U.S.C. 1395w–132(b)) is amended by inserting before the period at the end the following: “, and shall be applied in a manner to facilitate the offering of prescription drug benefits unde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395r` | insert | Section 1839(b) of the Social Security Act (42 U.S.C. 1395r(b)) is amended by inserting after “subsection (i)(4) or (l) of section 1837” the following: “or pursuant to the special enrollment period under subsection (o)(1) of such section”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 8909a of title 5, United States Code, is amended by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | The heading of section 8909a of title 5, United States Code, is amended by striking “Benefit” and inserting “Benefits”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 29 of title 39, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections of such chapter is amended by adding after the item relating to section 2902 the following new item: | the bill names no machine-readable US Code section |
-| `25 U.S.C. § 450b` | amend | Part IV of title 39, United States Code, is amended by adding after chapter 36 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | amend | The table of chapters for part IV of title 39, United States Code, is amended by adding after the item relating to chapter 36 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | insert | in paragraph (2), by inserting after “subsection” the following: “, or any nonpostal products or services authorized by chapter 37”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | strike | by striking subsections (b), (d), and (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | redesignate | by redesignating— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | amend | Part IV of title 39, United States Code, is amended by adding after chapter 36 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | amend | The table of chapters for part IV of title 39, United States Code, is amended by adding after the item relating to chapter 36 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | insert | Section 404(e) of title 39, United States Code, is amended in paragraph (2), by inserting after “subsection” the following: “, or any nonpostal products or services authorized by chapter 37”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `39 U.S.C. § 3691` | insert | Subchapter VII of chapter 36 of title 39, United States Code, is amended by inserting after section 3691 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `39 U.S.C. § 3691` | insert | The table of sections for such subchapter is amended by inserting after the item relating to section 3691 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `39 U.S.C. § 3691` | insert | The table of sections for chapter 36 of title 39, United States Code, is amended by inserting after the item relating to section 3691 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 101(b) of title 39, United States Code, is amended by inserting before “The Postal Service” the following: “The Postal Service shall maintain an integrated network for the delivery of market-dominant and competitive products (as … | the bill names no machine-readable US Code section |
 | — | replace | Section 3626(h) of title 39, United States Code, is amended by striking “10 percent” and inserting “50 percent”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (d) of section 504 of title 39, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -83,4 +90,11 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (a)(2), by striking “the Postal Regulatory Commission,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(2) In carrying” and inserting “(2)(A) In carrying”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(A)(i), by inserting “pertaining to the United States Postal Service” after “subpoenas,”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(B)(i), by inserting “and the Postal Regulatory Commission” after “United States Postal Service”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(C), by inserting “or the Postal Regulatory Commission” after “Governors”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (5), (6), and (7), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(1), by striking “The Governors shall appoint” and inserting “The Governors and the members of the Postal Regulatory Commission shall appoint, by a favorable vote of a majority of the Governors in office and of a majorit… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (e)(3), by inserting “and 3 members of the Postal Regulatory Commission” after “at least 7 Governors”. | the bill names no machine-readable US Code section |
 | — | strike | Section 504 of title 39, United States Code, is amended by striking subsection (h). | the bill names no machine-readable US Code section |
