@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 69
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 69
@@ -28,3 +28,6 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2022-02-08 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 912, H. Con. Res. 69 is considered passed House.(text: CR H1032-1033)
 - 2022-02-08 — Pursuant to the provisions of H. Res. 912, H. Con. Res. 69 is considered passed House. (text: CR H1032-1033)
 - 2022-02-09 — Received in the Senate.
+- 2022-02-10 — Message on Senate action sent to the House.
+- 2022-02-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S650)
+- 2022-02-10 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S650)
