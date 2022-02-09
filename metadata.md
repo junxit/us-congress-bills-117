@@ -1,7 +1,7 @@
 ---
 measure: H.R. 735
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 735
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 502 Eas
 - Rep. Levin, Mike [D-CA-49] (L000593)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ To designate the facility of the United States Postal Service located at 502 Eas
 - 2022-02-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 4, 1 Present (Roll no. 41). (text: 02/01/2022 CR H318)
 - 2022-02-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 4, 1 Present (Roll no. 41).(text: 02/01/2022 CR H318)
 - 2022-02-08 — The title of the measure was amended. Agreed to without objection.
+- 2022-02-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
