@@ -32,28 +32,27 @@ Congress finds the following:
 
 - **(a)** *In general* Not later than 180 days after the date of the enactment of this Act and biannually thereafter, the President shall transmit to the appropriate congressional committees a list of each foreign person the President determines, based on credible information, including information obtained by other countries or by nongovernmental organizations that monitor violations of human rights—
   - **(1)** is responsible for or complicit in, with respect to persons based on actual or perceived sexual orientation, gender identity, or sex characteristics—
-    - **(A)** cruel, inhuman, or degrading treatment or punishment;
+    - **(A)** torture or cruel, inhuman, or degrading treatment or punishment;
     - **(B)** prolonged detention without charges and trial;
     - **(C)** causing the disappearance of such persons by the abduction and clandestine detention of such persons; or
-    - **(D)** other flagrant denial of the right to life, liberty, or the security of such persons;
-  - **(2)** acted as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1); or
-  - **(3)** is responsible for or complicit in inciting a foreign person to engage in an activity described in paragraph (1).
+    - **(D)** other flagrant denial of the right to life, liberty, or the security of such persons; or
+  - **(2)** acted as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1).
 - **(b)** *Form; updates; removal*
-  - **(1)** *Form* The list required by subsection (a) shall be transmitted in unclassified form and published in the Federal Register without regard to the requirements of section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States, except that the President may include a foreign person in a classified, unpublished annex to such list if the President—
+  - **(1)** *Form* The list required by subsection (a) shall be transmitted in unclassified form and published in the Federal Register, except that the President may include a foreign person in a classified, unpublished annex to such list if the President—
     - **(A)** determines that—
       - **(i)** it is vital for the national security interests of the United States to do so; and
       - **(ii)** the use of such annex, and the inclusion of such person in such annex, would not undermine the overall purpose of this section to publicly identify foreign persons engaging in the conduct described in subsection (a) in order to increase accountability for such conduct; and
     - **(B)** not later than 15 days before including such person in a classified annex, provides to the appropriate congressional committees notice of, and a justification for, including or continuing to include each foreign person in such annex despite the existence of any publicly available credible information indicating that each such foreign person engaged in an activity described in subsection (a).
   - **(2)** *Updates* The President shall transmit to the appropriate congressional committees an update of the list required by subsection (a) as new information becomes available.
   - **(3)** *Removal* A foreign person may be removed from the list required by subsection (a) if the President determines and reports to the appropriate congressional committees not later than 15 days before the removal of such person from such list that—
-    - **(A)** credible information exists that such person did not engage in the activity for which the person was included in such list;
+    - **(A)** new, credible information is discovered confirming that such person did not in fact engage in the activity for which the person was included in such list;
     - **(B)** such person has been prosecuted appropriately for the activity in which such person engaged; or
     - **(C)** such person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activities in which such person engaged, and has credibly committed to not engage in an activity described in subsection (a).
 - **(c)** *Public submission of information* The President shall issue public guidance, including through United States diplomatic and consular posts, setting forth the manner by which the names of foreign persons that may meet the criteria to be included on the list required by subsection (a) may be submitted to the Department of State for evaluation.
 - **(d)** *Requests from chair and ranking member of appropriate congressional committees*
   - **(1)** *Consideration of information* In addition to the guidance issued pursuant to subsection (c), the President shall also consider information provided by the Chair or Ranking Member of each of the appropriate congressional committees in determining whether to include a foreign person in the list required by subsection (a).
   - **(2)** *Requests* Not later than 120 days after receiving a written request from the Chair or Ranking Member of one of the appropriate congressional committees with respect to whether a foreign person meets the criteria for being included in the list required by subsection (a), the President shall transmit a response to such Chair or Ranking Member, as the case may be, with respect to the President’s determination relating to such foreign person.
-  - **(3)** *Removal* If the President removes from the list required by subsection (a) a foreign person that had been included in such list pursuant to a request under paragraph (2), the President shall provide to the relevant Chair or Ranking Member of one of the appropriate congressional committees any information that contributed to such decision.
+  - **(3)** *Removal* If the President removes from the list required by subsection (a) a foreign person that had been included in such list pursuant to a request under paragraph (2), the President shall provide to the relevant Chair or Ranking Member of the appropriate congressional committees any information that contributed to such decision.
   - **(4)** *Form* The President may transmit a response required by paragraph (2) or paragraph (3) in classified form if the President determines that it is necessary for the national security interests of the United States to do so.
 - **(e)** *Inadmissibility of certain individuals*
   - **(1)** *Ineligibility for visas and admission to the united states* A foreign person on the list required by subsection (a), and each immediate family member of such person, is—
@@ -61,31 +60,41 @@ Congress finds the following:
     - **(B)** ineligible to receive a visa or other documentation to enter the United States; and
     - **(C)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
   - **(2)** *Current visas revoked*
-    - **(A)** *In general* The issuing consular officer or the Secretary of State, (or a designee of the Secretary of State) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), revoke any visa or other entry documentation issued to a foreign person on the list required by subsection (a) and to each immediate family member of such person regardless of when the visa or other entry documentation is issued.
+    - **(A)** *In general* The Secretary of State, or the Secretary of Homeland Security (or a designee of one such Secretaries) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), revoke any visa or other entry documentation issued to a foreign person on the list required by subsection (a) and to each immediate family member of such person regardless of when the visa or other entry documentation is issued.
     - **(B)** *Effect of revocation* A revocation under subparagraph (A) shall—
       - **(i)** take effect immediately; and
       - **(ii)** automatically cancel any other valid visa or entry documentation that is in the foreign person’s possession.
-    - **(C)** *Regulations required* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall prescribe such regulations as are necessary to carry out this subsection.
   - **(3)** *Sense of congress with respect to additional sanctions* It is the sense of Congress that the President should impose additional targeted sanctions with respect to foreign persons on the list required by subsection (a) to push for accountability for flagrant denials of the right to life, liberty, or the security of the person, through the use of designations and targeted sanctions provided for such conduct under other existing authorities.
-  - **(4)** *Waivers in the interest of national security*
-    - **(A)** *In general* The President may waive the application of paragraph (1) or (2) with respect to a foreign person included in the list required by subsection (a) if the President determines and transmits to the appropriate congressional committees notice and justification, that such a waiver—
-      - **(i)** is necessary to permit the United States to comply with the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, or other applicable international obligations of the United States; or
-      - **(ii)** is in the national security interests of the United States.
-    - **(B)** *Timing of certain waivers* A waiver pursuant to a determination under clause (ii) of subparagraph (A) shall be transmitted not later than 15 days before the granting of such waiver.
+  - **(4)** *Exceptions*
+    - **(A)** *Exception with respect to national security* This section shall not apply with respect to—
+      - **(i)** activities subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.); or
+      - **(ii)** any authorized intelligence or law enforcement activities of the United States.
+    - **(B)** *Exception to comply with international obligations* Sanctions under paragraphs (1) and (2) shall not apply with respect to a person if admitting or paroling the person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States or other applicable international obligations.
+    - **(C)** *Exception for certain immediate family members*
+      - **(i)** *In general* A covered individual shall not be subject to sanctions under this section if the President certifies to the appropriate congressional committees, in accordance with clause (ii), that such individual has a reasonable fear of persecution based on—
+        - **(I)** actual or perceived sexual orientation, gender identity, or sex characteristics;
+        - **(II)** race, religion, or nationality; or
+        - **(III)** political opinion or membership in a particular social group.
+      - **(ii)** *Determination and certification* A certification under clause (i) shall be made not later than 30 days after the date of the determination required by such clause. Any proceedings relating to such determination shall not be publicly available.
+      - **(iii)** *Covered individual* For purposes of this subparagraph, the term “covered individual” means an individual who is an immediate family member of foreign person on the list required by subsection (a).
+  - **(5)** *Waiver* The President may waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees, not later than 15 days before such waiver is to take effect, that the waiver is vital to the national interest of the United States.
 - **(f)** *Report to congress* Not later than one year after the date of the enactment of this Act and annually thereafter, the President, acting through the Secretary of State, shall submit to the appropriate congressional committees a report on—
   - **(1)** the actions taken to carry out this section, including—
     - **(A)** the number of foreign persons added to or removed from the list required by subsection (a) during the year preceding each such report, the dates on which such persons were so added or removed, and the reasons for so adding or removing such persons; and
     - **(B)** an analysis that compares increases or decreases in the number of such persons added or removed year-over-year and the reasons therefor; and
   - **(2)** any efforts by the President to coordinate with the governments of other countries, as appropriate, to impose sanctions that are similar to the sanctions imposed under this section.
-- **(g)** *Definitions* In this section:
+- **(g)** *Form; publication* The report required by subsection (f) shall be submitted in unclassified form but may include a classified annex. The unclassified portion of such report shall be published on a publicly available website of the Department of State.
+- **(h)** *Report on prevention* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report describing steps the Department can take to improve coordination with foreign governments, civil society groups, and the private sector, to prevent the commission of the human rights violations described in section 3(a)(1) against persons based on actual or perceived sexual orientation, gender identity, or sex characteristics.
+- **(i)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Homeland Security, and the Committee on the Judiciary of the House of Representatives; and
     - **(B)** the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on the Judiciary of the Senate.
   - **(2)** *Immediate family member* The term “immediate family member” has the meaning given such term for purposes of section 7031(c) of division K of the Consolidated Appropriations Act, 2021.
+- **(j)** *Rule of construction* Nothing in this section may be construed to allow the imposition of sanctions with respect to, or otherwise authorize any other action against, any foreign person based solely upon religious belief.
 
 ## § 4. Discrimination related to sexual orientation, gender identity, or sex characteristics
 
-- **(a)** *Tracking violence or criminalization related to sexual orientation or gender identity* The Assistant Secretary of State for Democracy, Human Rights, and Labor shall designate a Bureau-based senior officer or officers who shall be responsible for tracking violence, criminalization, and restrictions on the enjoyment of fundamental freedoms in foreign countries based on actual or perceived sexual orientation, gender identity, or sex characteristics.
+- **(a)** *Tracking violence or criminalization related to sexual orientation or gender identity* The Assistant Secretary of State for Democracy, Human Rights, and Labor shall designate one or more Bureau-based senior officer or officers who shall be responsible for tracking violence, criminalization, and restrictions on the enjoyment of fundamental freedoms in foreign countries based on actual or perceived sexual orientation, gender identity, or sex characteristics.
 - **(b)** *Annual country reports on human rights practices* The Foreign Assistance Act of 1961 is amended—
   - **(1)** in section 116(d) (22 U.S.C. 2151n(d))—
     - **(A)** in paragraph (11)(C), by striking “and” after the semicolon at the end;
@@ -96,3 +105,7 @@ Congress finds the following:
       > - **(13)** wherever applicable, information relating to violence or discrimination that affects fundamental freedoms, including widespread or systematic violation of the freedoms of expression, association, or assembly, of individuals in foreign countries that is based on actual or perceived sexual orientation, gender identity, or sex characteristics.
 
   - **(2)** in section 502B(b) (22 U.S.C. 2304(b)), by inserting after the ninth sentence the following new sentence: “Wherever applicable, such report shall also include information relating to violence or discrimination that affects the fundamental freedoms, including widespread or systematic violation of the freedoms of expression, association, or assembly, of individuals in foreign countries that is based on actual or perceived sexual orientation, gender identity, or sex characteristics.”.
+
+## § 5. Study required
+
+Not later than 1 year after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report that comprises of sections from each regional bureau detailing past risks to LGBTQI individuals, with a summary on the differences between regions with respect to such risks.
