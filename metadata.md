@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6617
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6617
@@ -39,3 +39,4 @@ Further Additional Extending Government Funding Act
 - 2022-02-08 — Rule H. Res. 912 passed House.
 - 2022-02-08 — Rule provides for consideration of H.R. 3076 and H.R. 6617. The resolution provides for one hour of general debate for both bills. H.R. 6617 is being considered under a closed rule and H.R. 3076 is being considered under a structured rule. The resolution provides that H. Con. Res. 69 is considered adopted and provides that for purposes of the joint session to receive the President of the United States on March 1, 2022, former Members, Delegates, and Resident Commissioners shall not be admitted to the Hall of the House or rooms leading thereto.
 - 2022-02-08 — The previous question was ordered pursuant to the rule.
+- 2022-02-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 267.
