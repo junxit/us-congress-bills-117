@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3539
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3539
@@ -16,12 +16,24 @@ To designate the facility of the United States Postal Service located at 223 Wes
 
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
 - 2021-05-25 — Introduced in House
 - 2021-05-25 — Introduced in House
 - 2021-05-25 — Referred to the House Committee on Oversight and Reform.
+- 2021-07-20 — Committee Consideration and Mark-up Session Held.
+- 2021-07-20 — Ordered to be Reported by Unanimous Consent.
+- 2022-02-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-02-01 — Considered under suspension of the rules. (consideration: CR H319)
+- 2022-02-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3539.
+- 2022-02-01 — Ms. Wasserman Schultz moved to suspend the rules and pass the bill.
+- 2022-02-09 — Considered as unfinished business. (consideration: CR H1087-1088)
+- 2022-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1, 2 Present (Roll no. 44). (text: 02/01/2022 CR H319)
+- 2022-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1, 2 Present (Roll no. 44).
+- 2022-02-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
