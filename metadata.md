@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3485
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3485
@@ -93,10 +93,11 @@ Global Respect Act
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -112,3 +113,25 @@ Global Respect Act
 - 2022-01-21 — Committee on the Judiciary discharged.
 - 2022-01-21 — Committee on the Judiciary discharged.
 - 2022-01-21 — Placed on the Union Calendar, Calendar No. 166.
+- 2022-02-02 — Rules Committee Resolution H. Res. 900 Reported to House. Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
+- 2022-02-09 — Amendment agreed to by House: On agreeing to the Cicilline amendments (A002) Agreed to by the Yeas and Nays: 223 - 207 (Roll no. 42).
+- 2022-02-09 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-02-09 — Amendments en bloc (A002) offered by Mr. Cicilline. (consideration: CR H1084-1086; text: CR H1084)
+- 2022-02-09 — Considered under the provisions of rule H. Res. 900. (consideration: CR H1079-1087; text: CR H1079-1080)
+- 2022-02-09 — DEBATE - Pursuant to the provisions of H. Res. 900, the House proceeded with 20 minutes of debate on the Cicilline amendment en bloc.
+- 2022-02-09 — DEBATE - The House proceeded with one hour of debate on H.R. 3485.
+- 2022-02-09 — House amendment agreed to: On agreeing to the Cicilline amendments (A002) Agreed to by the Yeas and Nays: 223 - 207 (Roll no. 42).
+- 2022-02-09 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-02-09 — House amendment offered
+- 2022-02-09 — House amendment offered
+- 2022-02-09 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Cicilline.
+- 2022-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-09 — On agreeing to the Cicilline amendments (A002) Agreed to by the Yeas and Nays: 223 - 207 (Roll no. 42).
+- 2022-02-09 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-02-09 — On passage Passed by the Yeas and Nays: 227 - 206 (Roll no. 43).
+- 2022-02-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 227 - 206 (Roll no. 43).
+- 2022-02-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-02-09 — Roll call votes on amendments in House
+- 2022-02-09 — Rule provides for consideration of H.R. 3485, H.R. 4445 and H.R. 4521. The rule provides for one hour of general debate on H.R. 3485 and H.R. 4445. The rule provides for two hours of general debate on H.R. 4521. The resolution provides for one motion to recommit for all three bills. The resolution amends H. Res. 188 by striking February 4, 2022 and inserting April 1, 2022. Also, the resolution provides that proceedings may be postponed through March 3, 2022 on measures that were the object of motions to suspend the rules on the legislative day of February 1, 2022, and on which the yeas and nays were ordered.
+- 2022-02-09 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-02-09 — The previous question was ordered pursuant to the rule.
