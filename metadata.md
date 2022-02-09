@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2324
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2324
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 2800 So
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ To designate the facility of the United States Postal Service located at 2800 So
 - 2022-02-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-02-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 428 - 1, 1 Present (Roll no. 40). (text: 02/01/2022 CR H318)
 - 2022-02-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 428 - 1, 1 Present (Roll no. 40).(text: 02/01/2022 CR H318)
+- 2022-02-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
