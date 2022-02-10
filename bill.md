@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2158
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,3 +16,11 @@ This Act may be cited as the “Cape Cod National Seashore Advisory Commission R
 ## § 2. Cape Cod National Seashore Advisory Commission
 
 Effective September 26, 2018, section 8(a) of Public Law 87–126 (16 U.S.C. 459b–7(a)) is amended in the second sentence by striking “2018” and inserting “2029”.
+
+## § 2. Cape Cod National Seashore Advisory Commission
+
+Effective September 26, 2018, section 8 of Public Law 87–126 (16 U.S.C. 459b–7) is amended—
+
+- **(1)** in subsection (a), in the second sentence, by striking “2018” and inserting “2029”;
+- **(2)** by striking subsection (g); and
+- **(3)** by redesignating subsection (h) as subsection (g).
