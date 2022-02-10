@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 467
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,7 +16,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Arecibo Observatory’s 305-meter fixed spherical radio telescope, was the world’s largest single-dish radio telescope until the Five-Hundred-Meter Aperture Spherical Radio Telescope located in Gizhou, China, began observing in 2016;
 - Whereas the 305-meter radio telescope made unparalleled contributions to the fields of radio astronomy, planetary, and atmospheric sciences, and played a role in inspiring thousands of students in Puerto Rico, the Nation, and the world to pursue careers in STEM fields through the Arecibo Observatory Education and Public Outreach Programs;
 - Whereas the radio telescope significantly advanced the field of radio astronomy, including the first indirect detection of gravitational waves, the first detection of extrasolar planets, innumerable contributions to the field of time domain astronomy and the study of the interstellar medium, and played a key role in the search for extraterrestrial intelligence;
-- Whereas the Arecibo Observatory had the best planetary radar system in the world, used by the National Aeronautics and Space Administration for near-Earth object detection and was an essential part of the agency’s planetary defense program;
+- Whereas the Arecibo Observatory had the best planetary radar system in the world, used by the National Aeronautics and Space Administration for near-Earth object detection and was a part of the agency’s planetary defense program;
 - Whereas the planetary radar at the Arecibo Observatory has contributed fundamentally and significantly to the knowledge of the solar system;
 - Whereas the Arecibo Observatory’s Incoherent Scatter Radar and supporting facilities have provided fundamental understanding of the ionosphere and upper atmosphere, and the interface between the atmosphere and space that protects the planet from solar wind, meteors, and other potential threats; and
 - Whereas December 1, 2021, marks the 1-year anniversary of the uncontrolled collapse sustained by the radio telescope after a series of cable failures in tower 4: Now, therefore, be it
@@ -28,4 +28,4 @@ That the Senate—
 - **(3)** recognizes the rich scientific, educational, and economic benefits that the Arecibo Telescope has made to the people of Puerto Rico, the Nation, and the world;
 - **(4)** recognizes the work and contributions made by the thousands of dedicated staff who have supported the Arecibo Observatory for close to 6 decades;
 - **(5)** commends the National Science Foundation for convening a virtual workshop in June 2021, to explore ideas for future scientific and educational activities at the Arecibo Observatory; and
-- **(6)** encourages the National Science Foundation, the National Aeronautics and Space Administration, and other agencies to study means of replacing the scientific capabilities that were lost at the Arecibo Observatory, utilizing new state-of-the-art technologies at the site.
+- **(6)** encourages the National Science Foundation, in consultation with the National Aeronautics and Space Administration, and other agencies to study means of replacing the scientific capabilities that were lost at the Arecibo Observatory, utilizing new state-of-the-art technologies at the site.
