@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5658
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,15 +18,17 @@ This Act may be cited as the “DHS Roles and Responsibilities in Cyber Space Ac
 Congress finds the following:
 
 - **(1)** The Department of Homeland Security, through the Cybersecurity and Infrastructure Security Agency, is the lead Federal coordinator for securing critical infrastructure across all 16 sectors, in coordination with designated Sector Risk Management Agencies.
-- **(2)** Cyber incidents require technical resources and are very rarely sector specific.
+- **(2)** Cyber incidents require technical resources and are only sometimes sector specific.
 - **(3)** The Cybersecurity and Infrastructure Security Agency is the central agency that can quickly analyze and coordinate mitigations when a malicious cyber campaign spans multiple sectors.
 - **(4)** Section 2209 of the Homeland Security Act of 2002 authorizes the Cybersecurity and Infrastructure Security Agency as the Federal civilian interface for multi-directional and cross-sector sharing of information related to cyber threat indicators with and between the government and the private sector.
 - **(5)** Section 2209 of the Homeland Security Act of 2002 authorizes the Cybersecurity and Infrastructure Security Agency to facilitate cross-sector coordination to address cybersecurity risks and incidents, including cybersecurity risks and incidents that may be related or could have consequential impacts across multiple sectors.
 - **(6)** Presidential Policy Directive-41 directs the Department of Homeland Security, via the national cybersecurity and communications integration center, to be the lead Federal agency for asset response during a significant cyber incident.
 - **(7)** The functions of the national cybersecurity and communications integration center are carried about by the Cybersecurity and Infrastructure Security Agency’s Cybersecurity Division.
 - **(8)** Presidential Policy Directive-21 directs the Department of Homeland Security to lead the coordination of critical infrastructure protection among the Sector Risk Management Agencies.
-- **(9)** Enhancing the security and resilience of our critical infrastructure is a priority for Congress and for the Nation.
-- **(10)** The Department of Homeland Security maintains and continues to build partnerships across all infrastructure sectors to enhance control systems cybersecurity.
+- **(9)** Section 9002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 codified the duties of Sector Risk Management Agencies for critical infrastructure sectors, laying out the roles and responsibilities they have in coordinating with the Cybersecurity and Infrastructure Security Agency to secure the nation’s critical infrastructure.
+- **(10)** Enhancing the security and resilience of our critical infrastructure is a priority for Congress and for the Nation.
+- **(11)** The Department of Homeland Security maintains and continues to build partnerships across all infrastructure sectors to enhance control systems cybersecurity.
+- **(12)** Section 1731 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 directed the Secretary of Homeland Security to submit a report on the potential for better coordination of Federal cybersecurity efforts at an integrated cybersecurity center within the Cybersecurity and Infrastructure Security Agency.
 
 ## § 3. Report on cybersecurity roles and responsibilities of the Department of Homeland Security
 

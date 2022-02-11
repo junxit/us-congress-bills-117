@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5658
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5658
@@ -16,11 +16,14 @@ DHS Roles and Responsibilities in Cyber Space Act
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
 ## Committees (1)
 
@@ -31,3 +34,10 @@ DHS Roles and Responsibilities in Cyber Space Act
 - 2021-10-21 — Introduced in House
 - 2021-10-21 — Introduced in House
 - 2021-10-21 — Referred to the House Committee on Homeland Security.
+- 2021-10-22 — Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation.
+- 2021-10-26 — Committee Consideration and Mark-up Session Held.
+- 2021-10-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-10-26 — Subcommittee on Cybersecurity, Infrastructure Protection, and Innovation Discharged.
+- 2022-02-11 — Placed on the Union Calendar, Calendar No. 175.
+- 2022-02-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-245.
+- 2022-02-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-245.
