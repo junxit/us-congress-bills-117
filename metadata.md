@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2497
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2497
@@ -68,3 +68,15 @@ Amache National Historic Site Act
 - 2022-02-14 — Senate amendment proposed (on the floor): Amendment SA 4926 proposed by Senator Schumer for Senator Bennet.(consideration: CR S676; text: CR S676)
 - 2022-02-14 — Senate amendment submitted
 - 2022-02-14 — The committee amendments agreed to by Unanimous Consent.
+- 2022-02-15 — Message on Senate action sent to the House.
+- 2022-02-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-02-18 — Mr. Raskin asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H1127-1128)
+- 2022-02-18 — On motion that the House agree to the Senate amendments Agreed to without objection. (text: CR H1127-1128)
+- 2022-02-18 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.
+- 2022-02-18 — The Chair laid before the House H.R. 2497, with the Senate amendments.
+- 2022-03-11 — Presented to President.
+- 2022-03-11 — Presented to President.
+- 2022-03-18 — Became Public Law No: 117-106.
+- 2022-03-18 — Became Public Law No: 117-106.
+- 2022-03-18 — Signed by President.
+- 2022-03-18 — Signed by President.
