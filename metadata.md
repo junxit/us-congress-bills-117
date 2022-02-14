@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2497
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2497
@@ -59,3 +59,12 @@ Amache National Historic Site Act
 - 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-58.
 - 2022-01-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-58.
 - 2022-01-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
+- 2022-02-14 — Amendment SA 4926 agreed to in Senate by Unanimous Consent.
+- 2022-02-14 — Amendment SA 4926 proposed by Senator Schumer for Senator Bennet. (consideration: CR S676; text: CR S676) To provide that land may be acquired for inclusion in the Camp Amache National Historic Site only by exchange.
+- 2022-02-14 — Measure laid before Senate by unanimous consent. (consideration: CR S675-676)
+- 2022-02-14 — Passed Senate with amendments by Unanimous Consent. (text: CR S676)
+- 2022-02-14 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2022-02-14 — Senate amendment agreed to: Amendment SA 4926 agreed to in Senate by Unanimous Consent.
+- 2022-02-14 — Senate amendment proposed (on the floor): Amendment SA 4926 proposed by Senator Schumer for Senator Bennet.(consideration: CR S676; text: CR S676)
+- 2022-02-14 — Senate amendment submitted
+- 2022-02-14 — The committee amendments agreed to by Unanimous Consent.
