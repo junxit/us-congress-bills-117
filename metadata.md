@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Placed on Calendar Senate
+version: Returned to the House by Unanimous Consent
 ---
 
 # H.R. 3076
@@ -181,3 +181,11 @@ Postal Service Reform Act of 2022
 - 2022-02-08 — Rule provides for consideration of H.R. 3076 and H.R. 6617. The resolution provides for one hour of general debate for both bills. H.R. 6617 is being considered under a closed rule and H.R. 3076 is being considered under a structured rule. The resolution provides that H. Con. Res. 69 is considered adopted and provides that for purposes of the joint session to receive the President of the United States on March 1, 2022, former Members, Delegates, and Resident Commissioners shall not be admitted to the Hall of the House or rooms leading thereto.
 - 2022-02-08 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2022-02-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
+- 2022-02-10 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S621)
+- 2022-02-10 — Motion to proceed to consideration of measure made in Senate. (CR S621)
+- 2022-02-14 — Message on Senate action sent to the House.
+- 2022-02-14 — Motion to proceed to measure considered in Senate. (CR S653)
+- 2022-02-14 — Papers returned to House pursuant to H. Res. 925 (Senate message received on Feb. 15, 2022).
+- 2022-02-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-02-14 — Senate returned papers to the House by Voice Vote.
+- 2022-02-14 — Senate vitiated previous actions by Unanimous Consent. (CR S675)
