@@ -1,0 +1,24 @@
+---
+legis-num: S. 3645
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3645
+
+> To prohibit the use of Federal funds for local substance use disorder services for the purchase of sterile needles or syringes for the injection of illegal drugs, or to procure, supply, or distribute pipes, cylindrical objects, or other paraphernalia that can be used to smoke, inhale, or ingest narcotics.
+
+## § 1. Short title
+
+This Act may be cited as the “Preventing Illicit Paraphernalia for Exchange Systems Act” or the “PIPES Act”.
+
+## § 2. Prohibition on certain uses of funds
+
+Section 2706 of the American Rescue Plan Act of 2021 (Public Law 117–2) is amended by adding at the end the following:
+
+> - **(c)** *Prohibited uses of funds*
+>   - **(1)** *In general* Notwithstanding any other provision of this section, no funds appropriated in this section shall be used—
+>     - **(A)** subject to paragraph (2), to purchase sterile needles or syringes for the hypodermic injection of any illegal drug; or
+>     - **(B)** to procure, supply, or distribute pipes, cylindrical objects, or other paraphernalia that can be used to smoke, inhale, or ingest narcotics.
+>   - **(2)** *Exception* The limitation under paragraph (1)(A) does not apply to the use of funds for elements of a program other than making purchases described in such paragraph if the relevant State, local, territorial, or Tribal health department, in consultation with the Centers for Disease Control and Prevention, determines that the State, local, territorial, or Tribal jurisdiction, as applicable, is experiencing, or is at risk for, a significant increase in hepatitis infections or an HIV outbreak due to injection drug use, and such program is operating in accordance with applicable law.
