@@ -1,7 +1,7 @@
 ---
 measure: S. 2991
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2991
@@ -28,3 +28,7 @@ Countering Human Trafficking Act of 2021
 
 - 2021-10-18 — Introduced in Senate
 - 2021-10-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-02-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-73.
+- 2022-02-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-73.
+- 2022-02-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
