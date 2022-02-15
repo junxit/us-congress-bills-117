@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 438
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 438
@@ -40,3 +40,7 @@ A resolution designating October 30, 2021, as a national day of remembrance for 
 
 - 2021-11-03 — Introduced in Senate
 - 2021-11-03 — Referred to the Committee on the Judiciary.
+- 2022-02-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S722; text: 11/03/2021 CR S7723-7724)
+- 2022-02-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S722; text: 11/03/2021 CR S7723-7724)
+- 2022-02-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-02-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
