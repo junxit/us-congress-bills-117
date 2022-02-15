@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 6732
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6732
+
+> To alter requirements associated with small business loan data collection, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Lenders Exempt from New Data and Excessive Reporting Act” or the “Small LENDER Act”.
+
+## § 2. Small business loan data collection
+
+Section 704B of the Equal Credit Opportunity Act (15 U.S.C. 1691c–2) is amended—
+
+- **(1)** in subsection (g), by adding at the end the following:
+  > - **(4)** *Compliance*
+  >   - **(A)** *In general* With respect to any rules or guidance issued under this subsection on or after the date of the enactment of this paragraph, the Bureau shall provide financial institutions not less than 3 years to comply with such rule or guidance.
+  >   - **(B)** *Safe harbor* With respect to any rules or guidance issued under this subsection on or after the date of the enactment of this paragraph, upon the 3-year period described in subparagraph (A), the Bureau shall provide a 2-year safe harbor to all financial institutions during which the financial institutions are required to comply with the rule or guidance but not subject to any penalties.
+
+- **(2)** in subsection (h)—
+  - **(A)** by striking paragraph (1) and inserting the following:
+    > - **(1)** *Financial institution* The term “financial institution” means—
+    >   - **(A)** any partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity that engages in any financial activity; and
+    >   - **(B)** in each of the two preceding calendar years, originated not less than 500 credit transactions for small businesses.
+
+  - **(B)** by striking paragraph (2) and inserting the following:
+    > - **(2)** *Small business* The term “small business” means any entity with gross annual revenues of $1,000,000 or less in the most recently completed fiscal year.
