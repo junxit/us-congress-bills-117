@@ -1,0 +1,26 @@
+---
+legis-num: S. RES. 512
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 512
+
+> Supporting reopening the United States Capitol Building and Senate Office Buildings to the American people.
+
+## Preamble
+
+- Whereas the United States Capitol and Senate Office Buildings closed to public visitation on March 12, 2020, at the very outset of the pandemic;
+- Whereas, since March of 2020, the American people have learned how to safely gather and enter public places despite the existence of COVID–19 and, due to Operation Warp Speed, have had the opportunity to be vaccinated against COVID–19 for more than a year;
+- Whereas, despite the existence of COVID–19, tens of thousands of people routinely gather across the country for sporting, entertainment, worship, and other events;
+- Whereas, despite the existence of COVID–19, stores, restaurants, and other public places have been successfully welcoming the public since the pandemic began in 2020;
+- Whereas, despite the existence of COVID–19, the American people, including Members of Congress, routinely use crowded public transportation vehicles, including airplanes and trains;
+- Whereas, despite the existence of COVID–19, most Americans have long since resumed working around co-workers, customers, and others;
+- Whereas it is illogical and unacceptable that, despite the rest of the United States being open, the United States Capitol Building and Senate Office Buildings, buildings that belong to the American people, remain largely closed to public visitation; and
+- Whereas it is time to once again welcome the public participation in the legislative process and the public visitation of our historic buildings that have always been hallmarks of American democracy: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** recognizes the importance of reopening the United States Capitol Building and Senate Office Buildings to the American people to facilitate public participation in the legislative process and public visitation of these historic buildings; and
+- **(2)** supports returning to the public visitation policies for Senate Office Buildings and the portions of the United States Capitol Building and Capitol complex within Senate jurisdiction that were in place before the COVID–19 pandemic.
