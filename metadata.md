@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3076
@@ -16,7 +16,7 @@ Postal Service Reform Act of 2022
 
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Cosponsors (102)
+## Cosponsors (116)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
@@ -120,6 +120,20 @@ Postal Service Reform Act of 2022
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (3)
 
@@ -190,3 +204,80 @@ Postal Service Reform Act of 2022
 - 2022-02-14 — Senate returned papers to the House by Voice Vote.
 - 2022-02-14 — Senate vitiated previous actions by Unanimous Consent. (CR S675)
 - 2022-02-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 273.
+- 2022-02-17 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S797)
+- 2022-02-17 — Motion to proceed to consideration of measure made in Senate. (CR S797)
+- 2022-02-28 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 74 - 20. Record Vote Number: 66. (CR S826)
+- 2022-02-28 — Motion to proceed to measure considered in Senate.
+- 2022-02-28 — Senate amendment submitted
+- 2022-03-01 — Amendment SA 4955 proposed by Senator Schumer for Senator Peters. (consideration: CR S872; text: CR S872) To modify the deadline for the initial report on the operations and financial condition of the United States Postal Service.
+- 2022-03-01 — Measure laid before Senate by motion.
+- 2022-03-01 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2022-03-01 — Motion to proceed to measure considered in Senate. (consideration: CR S845-872)
+- 2022-03-01 — Senate amendment proposed (on the floor): Amendment SA 4955 proposed by Senator Schumer for Senator Peters.
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-01 — Senate amendment submitted
+- 2022-03-02 — Cloture motion on the measure presented in Senate. (CR S947)
+- 2022-03-02 — Considered by Senate. (consideration: CR S923)
+- 2022-03-02 — Considered by Senate. (consideration: CR S923-924, S947)
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-02 — Senate amendment submitted
+- 2022-03-03 — Considered by Senate. (consideration: CR S961)
+- 2022-03-03 — Considered by Senate. (consideration: CR S961-965)
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-03 — Senate amendment submitted
+- 2022-03-07 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 74 - 17. Record Vote Number: 69. (CR S1011)
+- 2022-03-07 — Considered by Senate. (consideration: CR S1001)
+- 2022-03-07 — Considered by Senate. (consideration: CR S1001-1012)
+- 2022-03-07 — Senate amendment submitted
+- 2022-03-07 — Senate amendment submitted
+- 2022-03-07 — Senate amendment submitted
+- 2022-03-07 — Senate amendment submitted
+- 2022-03-07 — Senate amendment submitted
+- 2022-03-08 — Considered by Senate. (consideration: CR S1023-1048)
+- 2022-03-08 — Considered by Senate. (consideration: CR S1046)
+- 2022-03-08 — Message on Senate action sent to the House.
+- 2022-03-08 — Motion to waive section 3101(b) of S. Con. Res. 11, 114th Congress, with respect to the measure agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 70. (CR S1046)
+- 2022-03-08 — Passed Senate without amendment by Yea-Nay Vote. 79 - 19. Record Vote Number: 71.
+- 2022-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 79 - 19. Record Vote Number: 71.
+- 2022-03-08 — Point of order that the measure violates section 3101(b) of S. Con. Res. 11, 114th Congress, raised in Senate.
+- 2022-03-08 — Proposed amendment SA 4955 withdrawn in Senate.
+- 2022-03-28 — Presented to President.
+- 2022-03-28 — Presented to President.
+- 2022-04-06 — Became Public Law No: 117-108.
+- 2022-04-06 — Became Public Law No: 117-108.
+- 2022-04-06 — Signed by President.
+- 2022-04-06 — Signed by President.
