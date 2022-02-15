@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 6731
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6731
+
+> To amend the Consolidated Natural Resources Act of 2008 to extend the authorization of financial assistance with respect to the Niagara Falls National Heritage Area.
+
+## § 1. Niagara Falls National Heritage Area
+
+Section 432 of the Consolidated Natural Resources Act of 2008 (Public Law 110–229) is amended by striking “the date that is 15 years after the date of enactment of this Act” and inserting “May 8, 2038”.
