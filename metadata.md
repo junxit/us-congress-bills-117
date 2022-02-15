@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3076
 congress: 117
-version: Returned to the House by Unanimous Consent
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3076
@@ -189,3 +189,4 @@ Postal Service Reform Act of 2022
 - 2022-02-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-02-14 — Senate returned papers to the House by Voice Vote.
 - 2022-02-14 — Senate vitiated previous actions by Unanimous Consent. (CR S675)
+- 2022-02-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 273.
