@@ -1,7 +1,7 @@
 ---
 measure: S. 3541
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3541
@@ -16,7 +16,7 @@ Health Care for Burn Pit Veterans Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (17)
+## Cosponsors (33)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
@@ -35,6 +35,22 @@ Health Care for Burn Pit Veterans Act
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -47,3 +63,5 @@ Health Care for Burn Pit Veterans Act
 - 2022-02-08 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2022-02-08 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2022-02-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.
+- 2022-02-16 — Passed Senate without amendment by Voice Vote. (consideration: CR S733-735; text: CR S734-735)
+- 2022-02-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S733-735; text: CR S734-735)
