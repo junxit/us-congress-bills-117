@@ -1,0 +1,21 @@
+---
+legis-num: S. 3655
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3655
+
+> To amend the Civil Rights Cold Case Records Collection Act of 2018 to extend the termination date of the Civil Rights Cold Case Records Review Board.
+
+## § 1. Short title
+
+This Act may be cited as the “Civil Rights Cold Case Investigations Support Act of 2022”.
+
+## § 2. Civil Rights Cold Case Records Review Board extension of tenure
+
+Section 5(n)(1) of Civil Rights Cold Case Records Collection Act of 2018 (44 U.S.C. 2107 note; Public Law 115–426) is amended—
+
+- **(1)** by striking “4 years” and inserting “7 years”; and
+- **(2)** by striking “4-year period” and inserting “7-year period”.
