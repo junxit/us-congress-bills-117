@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3462
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3462
@@ -44,3 +44,7 @@ SBA Cyber Awareness Act
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 350). (text: CR H6088-6089)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 350).(text: CR H6088-6089)
 - 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2022-02-15 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2022-02-17 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin without amendment. Without written report.
+- 2022-02-17 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin without amendment. Without written report.
+- 2022-02-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.
