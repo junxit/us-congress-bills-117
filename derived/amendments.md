@@ -1,7 +1,7 @@
 ---
 measure: S. 2123
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 2 executed, 9 stated and not applied.
+13 amendatory instructions. 2 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 6 U.S.C. § 652
 
-> in the first paragraph (12), by striking “section 2215” and inserting “section 2217”; and
+> by striking “section 2215” and inserting “section 2217”; and
 
 | | |
 |---|---|
@@ -51,12 +51,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 651` | add-at-end | Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.), as amended by section 9, is amended by adding at the end: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 651` | add-at-end | Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.), as amended by section 9, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 651` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135), as amended by section 9 of this Act, is amended by inserting after the item relating to section 2220 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665f` | redesignate | by redesignating section 2217 (6 U.S.C. 665f) as section 2220; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665e` | redesignate | by redesignating section 2216 (6 U.S.C. 665e) as section 2219; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665d` | redesignate | by redesignating the fourth section 2215 (relating to Sector Risk Management Agencies) (6 U.S.C. 665d) as section 2218; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665c` | redesignate | by redesignating the third section 2215 (relating to the Cybersecurity State Coordinator) (6 U.S.C. 665c) as section 2217; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665b` | redesignate | by redesignating the second section 2215 (relating to the Joint Cyber Planning Office) (6 U.S.C. 665b) as section 2216. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 652` | strike | in paragraph (11), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 652` | strike | by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 652` | redesignate | by redesignating the second and third paragraphs (12) as paragraphs (13) and (14), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 651` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135) is amended by striking the item relating to section 2214 and all that follows through the item relating to section 2217 and i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
