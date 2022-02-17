@@ -1,7 +1,7 @@
 ---
 measure: S. 3373
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3373
@@ -29,3 +29,7 @@ Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensiv
 
 - 2021-12-09 — Introduced in Senate
 - 2021-12-09 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-02-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S800-801)
+- 2022-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-02-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2022-02-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S800-801)
