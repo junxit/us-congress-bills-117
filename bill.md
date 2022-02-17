@@ -1,0 +1,24 @@
+---
+legis-num: S. 3693
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3693
+
+> To authorize the Secretary of the Interior to continue to implement endangered fish recovery programs for the Upper Colorado and San Juan River Basins, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Upper Colorado and San Juan River Basins Recovery Act”.
+
+## § 2. Extension of authorizations related to fish recovery programs
+
+Section 3 of Public Law 106–392 (114 Stat. 1603 et seq.) is amended—
+
+- **(1)** by striking “2023” each place it appears and inserting “2024”;
+- **(2)** in subsection (b)(1), by striking “$179,000,000” and inserting “$184,000,000”;
+- **(3)** in subsection (b)(2), by striking “$30,000,000” and inserting “$25,000,000”;
+- **(4)** in subsection (h), by striking “, at least 1 year prior to such expiration,”; and
+- **(5)** in subsection (j), by striking “2021” each place it appears and inserting “2022”.
