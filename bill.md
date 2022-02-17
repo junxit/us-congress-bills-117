@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3103
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,19 +11,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2021”.
+This Act may be cited as the “Eliminating Limits to Justice for Child Sex Abuse Victims Act of 20212022”.
 
 ## § 2. Elimination of the statute of limitations
 
 Section 2255 of title 18, United States Code, is amended by striking subsection (b) and inserting the following:
 
-> - **(b)** *Statute of limitations* There shall be no time limit for the filing of any action commenced under this section.
+> - **(b)** *Statute of limitations* There shall be no time limit for the filing of anya complaint commencing an action commenced under this section.
 
 ## § 3. Effective date; applicability
 
 This Act and the amendments made by this Act shall—
 
-- **(1)** take effect on date of enactment of this Act; and
+- **(1)** take effect on the date of enactment of this Act; and
 - **(2)** apply to—
-  - **(A)** any claim or action that, as of the date described in paragraph (1), would not have been barred under section 2255(b) of title 18, United States Code, as it read the day before the date of enactment of this Act; and
+  - **(A)** any claim or action that, as of the date described in paragraph (1), would not have been barred under section 2255(b) of title 18, United States Code, as it read on the day before the date of enactment of this Act; and
   - **(B)** any claim or action arising after the date of enactment of this Act.
