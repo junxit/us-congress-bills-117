@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3059
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,31 +11,27 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Courthouse Ethics and Transparency Act of 2021”.
+This Act may be cited as the “Courthouse Ethics and Transparency Act”.
 
-## § 2. Findings
+## § 2. Periodic transaction reports and online publication of financial disclosure reports of Federal judges
 
-Congress finds that—
-
-- **(1)** recent reports indicate certain Federal judges have failed to recuse themselves from cases and controversies in which the financial interests of the Federal judges are implicated;
-- **(2)** Federal law and the judicial recusal rules applicable to Federal judges require that Federal judges disqualify themselves in any proceeding in which the impartiality of the Federal judges might be reasonably questioned, including instances in which a Federal judge has any financial interest in the subject matter in controversy or in a party to the proceeding;
-- **(3)** litigants and the public have an interest in fair and impartial judicial proceedings, the results and conduct of which avoid any appearance of impropriety; and
-- **(4)** in 2012, the STOCK Act (Public Law 112–105; 126 Stat. 291) was enacted, which provides that Members of Congress and Federal officials have a duty of trust and confidentiality to not use information obtained from their official duties for private gain, including the purchase and sale of stocks, bonds, commodities, futures, and other securities.
-
-## § 3. Periodic transaction reports and online publication of financial disclosure reports of Federal judicial officers
-
-- **(a)** *Periodic transaction reporting requirement for Federal judicial officers*
+- **(a)** *Periodic transaction reporting requirement for Federal judges*
   - **(1)** *In general* Section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following:
     > - **(11)** Each judicial officer.
+    > - **(12)** Each bankruptcy judge appointed under section 152 of title 28, United States Code.
+    > - **(13)** Each United States magistrate judge appointed under section 631 of title 28, United States Code.
 
   - **(2)** *Effective date* The amendment made by paragraph (1) shall apply to applicable transactions occurring on or after the date that is 90 days after the date of enactment of this Act.
-- **(b)** *Online publication of financial disclosure reports of Federal judicial officers* Section 105 of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended—
+- **(b)** *Online publication of financial disclosure reports of Federal judges* Section 105 of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended—
   - **(1)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
   - **(2)** by inserting after subsection (b) the following:
-    > - **(c)** *Online publication of financial disclosure reports of judicial officers*
-    >   - **(1)** *Establishment of database* Not later than 180 days after the date of enactment of the Courthouse Ethics and Transparency Act of 2021, the Administrative Office of the United States Courts shall establish a searchable internet database to enable public access to any report required to be filed by a judicial officer under this title.
-    >   - **(2)** *Availability* Not later than 90 days after the date on which a report is required to be filed under this title by a judicial officer, the Administrative Office of the United States Courts shall make the report available on the database established under paragraph (1) in a full-text searchable, sortable, and downloadable format for access by the public.
+    > - **(c)** *Online publication of financial disclosure reports of Federal judges*
+    >   - **(1)** *Establishment of database* Subject to paragraph (4), not later than 180 days after the date of enactment of the Courthouse Ethics and Transparency Act, the Administrative Office of the United States Courts shall establish a searchable internet database to enable public access to any report required to be filed under this title by a judicial officer, bankruptcy judge, or magistrate judge.
+    >   - **(2)** *Availability* Not later than 90 days after the date on which a report is required to be filed under this title by a judicial officer, bankruptcy judge, or magistrate judge, the Administrative Office of the United States Courts shall make the report available on the database established under paragraph (1) in a full-text searchable, sortable, and downloadable format for access by the public.
     >   - **(3)** *Redaction* Any report made available on the database established under paragraph (1) shall not contain any information that is redacted in accordance with subsection (b)(3).
+    >   - **(4)** *Additional time*
+    >     - **(A)** *In general* Subject to subparagraph (B), the requirements of this subsection may be implemented after the date described in paragraph (1) if the Administrative Office of the United States Courts identifies in writing to the relevant committees of Congress the additional time needed for that implementation.
+    >     - **(B)** *Publication requirement* The Administrative Office of the United States Courts shall continue to make the reports described in paragraph (1) available to the public during the period in which the Administrative Office of the United States Courts establishes the database under this subsection.
 
 - **(c)** *Technical and conforming amendments*
   - **(1)** Section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App.) (as amended by subsection (a)(1)) is amended—
@@ -48,4 +44,4 @@ Congress finds that—
         - **(I)** in the first sentence, by striking “be,,” and inserting “be,”; and
         - **(II)** in the third sentence, by striking “may be may” and inserting “may be, may”; and
       - **(ii)** in paragraph (3)(A), by striking “described in section 109(8) or 109(10) of this Act” and inserting “who is a judicial officer or a judicial employee”.
-  - **(3)** Section 107(a)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App) is amended in the last sentence by striking “and (d)” and inserting “and (e)”.
+  - **(3)** Section 107(a)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended in the last sentence by striking “and (d)” and inserting “and (e)”.

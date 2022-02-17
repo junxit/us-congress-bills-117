@@ -1,7 +1,7 @@
 ---
 measure: S. 3059
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -40,4 +40,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the first sentence, by striking “be,,” and inserting “be,”; and | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence, by striking “may be may” and inserting “may be, may”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(A), by striking “described in section 109(8) or 109(10) of this Act” and inserting “who is a judicial officer or a judicial employee”. | the bill names no machine-readable US Code section |
-| — | replace | Section 107(a)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App) is amended in the last sentence by striking “and (d)” and inserting “and (e)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 107(a)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended in the last sentence by striking “and (d)” and inserting “and (e)”. | the bill names no machine-readable US Code section |

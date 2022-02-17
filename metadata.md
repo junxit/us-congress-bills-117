@@ -1,7 +1,7 @@
 ---
 measure: S. 3059
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3059
@@ -34,3 +34,13 @@ Courthouse Ethics and Transparency Act
 
 - 2021-10-25 — Introduced in Senate
 - 2021-10-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-02-17 — Amendment SA 4931 agreed to in Senate by Unanimous Consent.
+- 2022-02-17 — Amendment SA 4931 proposed by Senator Schumer for Senator Cornyn. (consideration: CR S801; text: CR S801) In the nature of a substitute.
+- 2022-02-17 — Measure laid before Senate by unanimous consent. (consideration: CR S801)
+- 2022-02-17 — Passed Senate without amendment by Voice Vote.
+- 2022-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-02-17 — Senate amendment agreed to: Amendment SA 4931 agreed to in Senate by Unanimous Consent.
+- 2022-02-17 — Senate amendment proposed (on the floor): Amendment SA 4931 proposed by Senator Schumer for Senator Cornyn.
+- 2022-02-17 — Senate amendment submitted
