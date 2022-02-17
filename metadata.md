@@ -1,7 +1,7 @@
 ---
 measure: S. 2123
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2123
@@ -16,9 +16,13 @@ Pray Safe Act
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ Pray Safe Act
 
 - 2021-06-17 — Introduced in Senate
 - 2021-06-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-07-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2022-02-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-81.
+- 2022-02-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-81.
+- 2022-02-17 — Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
