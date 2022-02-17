@@ -1,7 +1,7 @@
 ---
 measure: S. 3059
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3059
@@ -44,3 +44,18 @@ Courthouse Ethics and Transparency Act
 - 2022-02-17 — Senate amendment agreed to: Amendment SA 4931 agreed to in Senate by Unanimous Consent.
 - 2022-02-17 — Senate amendment proposed (on the floor): Amendment SA 4931 proposed by Senator Schumer for Senator Cornyn.
 - 2022-02-17 — Senate amendment submitted
+- 2022-02-18 — Held at the desk.
+- 2022-02-18 — Message on Senate action sent to the House.
+- 2022-02-18 — Received in the House.
+- 2022-04-27 — Considered under suspension of the rules. (consideration: CR H4521-4523)
+- 2022-04-27 — DEBATE - The House proceeded with forty minutes of debate on S. 3059.
+- 2022-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-27 — Mr. Jeffries moved to suspend the rules and pass the bill.
+- 2022-04-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4521)
+- 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-05-03 — Presented to President.
+- 2022-05-03 — Presented to President.
+- 2022-05-13 — Became Public Law No: 117-125.
+- 2022-05-13 — Became Public Law No: 117-125.
+- 2022-05-13 — Signed by President.
+- 2022-05-13 — Signed by President.
