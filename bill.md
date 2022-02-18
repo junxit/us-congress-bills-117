@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 6761
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6761
+
+> To amend the Ethics in Government Act of 1978 to require certain Tennessee Valley Authority employees to include their annual salary in annual disclosure reports, and for the other purposes.
+
+## § 1. Annual disclosure requirement
+
+Section 102(a) of the Ethics in Government Act of 1978 (5 U.S.C. App. 102(a)) is amended by adding at the end the following:
+
+> - **(9)** In the case of an individual occupying a position described under section 101(f) within the Tennessee Valley Authority, the total compensation (including annual rate of basic pay, bonuses, allowances, differentials, and benefits) for such position.
