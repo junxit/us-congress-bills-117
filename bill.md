@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 6790
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6790
+
+> To direct the Secretary of the Army to authorize the placement of certain types of private headstones in Arlington National Cemetery, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Arlington Cemetery Marker Fairness Act”.
+
+## § 2. Placement of certain private headstones in Arlington National Cemetery
+
+- **(a)** *In general* The Secretary of the Army shall authorize the placement in a covered area of Arlington National Cemetery of a private headstone if such headstone—
+  - **(1)** is placed within 20 feet of another private headstone;
+  - **(2)** is not larger than the plot on which it is placed;
+  - **(3)** meets the specifications provided in the Arlington National Cemetery Memorialization Policy, as in effect on December 31, 2016;
+  - **(4)** is not a ledger, marker of freestanding cross design, narrow shaft, mausoleum, or overground vault; and
+  - **(5)** does not exceed four feet in width and four feet in height, including both the base and the die.
+- **(b)** *Definitions* In this section:
+  - **(1)** The term “private headstone” means a headstone other than a standard white uniform military grave marker.
+  - **(2)** The term “covered area”, with respect to Arlington National Cemetery, means an area within one of the original 13 sections of the cemetery that were designated for private markers.
