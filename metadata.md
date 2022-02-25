@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5891
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5891
@@ -33,3 +33,10 @@ RISE Act
 - 2021-11-05 — Introduced in House
 - 2021-11-05 — Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-11-05 — Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-11-10 — Committee Consideration and Mark-up Session Held.
+- 2021-11-10 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-02-25 — Committee on Ways and Means discharged.
+- 2022-02-25 — Committee on Ways and Means discharged.
+- 2022-02-25 — Placed on the Union Calendar, Calendar No. 180.
+- 2022-02-25 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-250, Part I.
+- 2022-02-25 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-250, Part I.

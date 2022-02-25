@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5891
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,34 +11,33 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Retirement Improvement and Savings Enhancement Act” or the “RISE Act”.
+- **(a)** *Short title* This Act may be cited as the “Retirement Improvement and Savings Enhancement Act of 2021” or the “RISE Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Retirement Savings Lost and Found
+## § 2. Retirement savings lost and found
 
-- **(a)** *In general*
-  - **(1)** *Establishment of retirement savings lost and found* Part 5 of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1341 et seq.) is amended by adding at the end the following:
-    > ## § 522. Retirement Savings Lost and Found
-    >
-    > - **(a)** *Establishment*
-    >   - **(1)** *In general* Not later than 2 years after the date of the enactment of this section, the Secretary of Labor, in consultation with the Secretary of the Treasury, shall establish an online searchable database (to be managed by the Department of Labor in accordance with this section) to be known as the “Retirement Savings Lost and Found”. The Retirement Savings Lost and Found shall—
-    >     - **(A)** allow an individual to search for information that enables the individual to locate the administrator of any plan described in paragraph (2) with respect to which the individual is or was a participant or beneficiary, and provide contact information for the administrator of any such plan;
-    >     - **(B)** allow the Department of Labor to assist such an individual in locating any such plan of the individual; and
-    >     - **(C)** allow the Department of Labor to make any necessary changes to contact information on record for the administrator based on any changes to the plan due to merger or consolidation of the plan with any other plan, division of the plan into two or more plans, bankruptcy, termination, change in name of the plan, change in name or address of the administrator, or other causes.
-    >   - **(2)** *Plans described* A plan described in this paragraph is a plan to which the vesting standards of section 203 apply.
-    > - **(b)** *Administration* The Retirement Savings Lost and Found established under subsection (a) shall provide individuals described in subsection (a)(1) only with the ability to search for information that enables the individual to locate the administrator and contact information for the administrator of any plan with respect to which the individual is or was a participant or beneficiary, sufficient to allow the individual to locate the individual’s plan in order to recover any benefit owing to the individual under the plan.
-    > - **(c)** *Safeguarding participant privacy and security* In establishing the Retirement Savings Lost and Found under subsection (a), the Department of Labor shall take all necessary and proper precautions to ensure that individuals’ plan information maintained by the Retirement Savings Lost and Found is protected.
-    > - **(d)** *Definition of administrator* For purposes of this section and section 523, the term “administrator” has the meaning given such term in section 3(16)(A).
-    > - **(e)** *Information collection from plans* Effective with respect to plan years beginning after the second December 31 occurring after the date of the enactment of this subsection, the administrator of a plan to which the vesting standards of section 203 apply shall submit to the Department of Labor, at such time and in such form and manner as is prescribed in regulations—
-    >   - **(1)** the information described in paragraphs (1) through (4) of section 6057(b) of the Internal Revenue Code of 1986;
-    >   - **(2)** the information described in subparagraphs (A), (B), (E), and (F) of section 6057(a)(2) of the Internal Revenue Code of 1986; and
-    >   - **(3)** such other information as the Secretary of Labor may require.
-    > - **(f)** *Information collection from federal agencies* The Secretary of Labor is authorized to access and receive information collected by other Federal agencies that may be necessary to perform work related to the Retirement Savings Lost and Found. Such necessary and appropriate information, which shall be furnished to the Secretary of Labor on request, includes information covered by section 6103 of the Internal Revenue Code of 1986 and section 205(r) of the Social Security Act.
-    > - **(g)** *Program integrity audit* On an annual basis for each of the first 5 years beginning one year after the establishment of the database in subsection (a)(1) and every 5 years thereafter, the Inspector General of the Department of Labor shall conduct an audit of the administration of the Retirement Savings Lost and Found.
+- **(a)** *Establishment of retirement savings lost and found* Part 5 of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1341 et seq.) is amended by adding at the end the following:
+  > ## § 523. Retirement Savings Lost and Found
+  >
+  > - **(a)** *Establishment*
+  >   - **(1)** *In general* Not later than 2 years after the date of the enactment of this section, the Secretary of Labor, in consultation with the Secretary of the Treasury, shall establish an online searchable database (to be managed by the Department of Labor in accordance with this section) to be known as the “Retirement Savings Lost and Found”. The Retirement Savings Lost and Found shall—
+  >     - **(A)** allow an individual to search for information that enables the individual to locate the administrator of any plan described in paragraph (2) with respect to which the individual is or was a participant or beneficiary, and provide contact information for the administrator of any such plan;
+  >     - **(B)** allow the Department of Labor to assist such an individual in locating any such plan of the individual; and
+  >     - **(C)** allow the Department of Labor to make any necessary changes to contact information on record for the administrator based on any changes to the plan due to merger or consolidation of the plan with any other plan, division of the plan into two or more plans, bankruptcy, termination, change in name of the plan, change in name or address of the administrator, or other causes.
+  >   - **(2)** *Plans described* A plan described in this paragraph is a plan to which the vesting standards of section 203 apply.
+  > - **(b)** *Administration* The Retirement Savings Lost and Found established under subsection (a) shall provide individuals described in subsection (a)(1) only with the ability to search for information that enables the individual to locate the administrator and contact information for the administrator of any plan with respect to which the individual is or was a participant or beneficiary, sufficient to allow the individual to locate the individual’s plan in order to recover any benefit owing to the individual under the plan.
+  > - **(c)** *Safeguarding participant privacy and security* In establishing the Retirement Savings Lost and Found under subsection (a), the Department of Labor shall take all necessary and proper precautions to ensure that individuals’ plan information maintained by the Retirement Savings Lost and Found is protected.
+  > - **(d)** *Definition of administrator* For purposes of this section and section 523, the term “administrator” has the meaning given such term in section 3(16)(A).
+  > - **(e)** *Information collection from plans* Effective with respect to plan years beginning after the second December 31 occurring after the date of the enactment of this subsection, the administrator of a plan to which the vesting standards of section 203 apply shall submit to the Department of Labor, at such time and in such form and manner as is prescribed in regulations—
+  >   - **(1)** the information described in paragraphs (1) through (4) of section 6057(b) of the Internal Revenue Code of 1986;
+  >   - **(2)** the information described in subparagraphs (A), (B), (E), and (F) of section 6057(a)(2) of the Internal Revenue Code of 1986; and
+  >   - **(3)** such other information as the Secretary of Labor may require.
+  > - **(f)** *Information collection from federal agencies* The Secretary of Labor is authorized to access and receive information collected by other Federal agencies that may be necessary to perform work related to the Retirement Savings Lost and Found. Such necessary and appropriate information, which shall be furnished to the Secretary of Labor on request, includes information covered by section 6103 of the Internal Revenue Code of 1986 and section 205(r) of the Social Security Act.
+  > - **(g)** *Program integrity audit* On an annual basis for each of the first 5 years beginning one year after the establishment of the database in subsection (a)(1) and every 5 years thereafter, the Inspector General of the Department of Labor shall conduct an audit of the administration of the Retirement Savings Lost and Found.
 
-  - **(2)** *Conforming amendment* The table of contents for the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after the matter relating to section 521 the following:
+- **(b)** *Conforming amendment* The table of contents for the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after the matter relating to section 521 the following:
 
-## § 3. Retirement Plan Modernization Act
+## § 3. Retirement plan modernization act
 
 Section 203(e)(1) of the Employee Retirement Income Security Act of 1974 and sections 401(a)(31)(B)(ii) and 411(a)(11)(A) of the Internal Revenue Code of 1986 and are each amended by striking “$5,000” and inserting “$7,000”.
 
@@ -58,14 +57,10 @@ Section 203(e)(1) of the Employee Retirement Income Security Act of 1974 and sec
   > - **(f)** *403(b) multiple employer plans treated as one plan* In the case of annuity contracts to which this section applies and to which section 403(b) applies by reason of the plan under which such contracts are purchased meeting the requirements of paragraph (15) thereof, such plan shall be treated as a single plan for purposes of this section.
 
 - **(d)** *Amendments to Employee Retirement Income Security Act of 1974*
-  - **(1)** *Treated as pooled employer plan*
-    - **(A)** *In general* Section 3(43)(A) of the Employee Retirement Income Security Act of 1974 is amended—
-      - **(i)** in clause (ii), by striking “section 501(a) of such Code or” and inserting “section 501(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”; and
-      - **(ii)** in the flush text at the end, by striking “the plan.” and inserting “the plan, but such term shall include any program (other than a governmental plan) maintained for the benefit of the employees of more than 1 employer that consists of contracts described in section 403(b) of such Code and that meets the requirements of subparagraph (A) or (B) of section 413(e)(1) of such Code.”.
-    - **(B)** *Conforming amendments* Sections 3(43)(B)(v)(II) and 3(44)(A)(i)(I) of the Employee Retirement Income Security Act of 1974 are each amended by striking “section 401(a) of such Code or” and inserting “401(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”.
-  - **(2)** *Fiduciaries* Section 3(43)(B)(ii) of the Employee Retirement Income Security Act of 1974 is amended—
-    - **(A)** by striking “trustees meeting the requirements of section 408(a)(2) of the Internal Revenue Code of 1986” and inserting “trustees (or other fiduciaries in the case of a plan that consists of contracts described in section 403(b) of the Internal Revenue Code of 1986) meeting the requirements of section 408(a)(2) of such Code”; and
-    - **(B)** by striking “holding” and inserting “holding (or causing to be held under the terms of a plan consisting of such contracts)”.
+  - **(1)** *In general* Section 3(43)(A) of the Employee Retirement Income Security Act of 1974 is amended—
+    - **(A)** in clause (ii), by striking “section 501(a) of such Code or” and inserting “section 501(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”; and
+    - **(B)** in the flush text at the end, by striking “the plan.” and inserting “the plan, but such term shall include any program (other than a governmental plan) maintained for the benefit of the employees of more than 1 employer that consists of contracts described in section 403(b) of such Code and that meets the requirements of subparagraph (A) or (B) of section 413(e)(1) of such Code.”.
+  - **(2)** *Conforming amendments* Sections 3(43)(B)(v)(II) and 3(44)(A)(i)(I) of the Employee Retirement Income Security Act of 1974 are each amended by striking “section 401(a) of such Code or” and inserting “section 401(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”.
 - **(e)** *Regulations relating to plan termination* The Secretary of the Treasury (or the Secretary’s designee) shall prescribe such regulations as may be necessary to clarify the treatment of a plan termination by an employer in the case of plans to which section 403(b)(15) of the Internal Revenue Code of 1986 applies.
 - **(f)** *Modification of model plan language, etc*
   - **(1)** *Plan notifications* The Secretary of the Treasury (or the Secretary’s designee) shall modify the model plan language published under section 413(e)(5) of the Internal Revenue Code of 1986 to include language that notifies participating employers described in section 501(c)(3), and which are exempt from tax under section 501(a), that the plan is subject to the Employee Retirement Income Security Act of 1974 and that such employer is a plan sponsor with respect to its employees participating in the multiple employer plan and, as such, has certain fiduciary duties with respect to the plan and to its employees.
@@ -110,10 +105,10 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 - **(1)** review section 2509.95–1 of title 29, Code of Federal Regulations (relating to the fiduciary standards under the Employee Retirement Income Security Act of 1974 when selecting an annuity provider for a defined benefit pension plan) to determine whether amendments to such section are warranted; and
 - **(2)** report to Congress on the findings of such review, including an assessment of any risk to participants.
 
-## § 9. Review and report to Congress relating to reporting and disclosure requirements
+## § 9. Review and report to congress relating to reporting and disclosure requirements
 
 - **(a)** *Study* As soon as practicable after the date of enactment of this Act, the Secretary of Labor, the Secretary of the Treasury, and the Director of the Pension Benefit Guaranty Corporation shall review the reporting and disclosure requirements as applicable to each such agency head, of—
-  - **(1)** the Employee Retirement Income Security Act of 1974 applicable to pension plans (as defined in section 3(2) of such Act (29 U.S.C. 1002(2))); and
+  - **(1)** the Employee Retirement Income Security Act of 1974 applicable to pension plans (as defined in section 3(2) of such Act (29 U.S.C. 1002(2)); and
   - **(2)** the Internal Revenue Code of 1986 applicable to qualified retirement plans (as defined in section 4974(c) of such Code, without regard to paragraphs (4) and (5) of such section).
 - **(b)** *Report*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary of Labor, the Secretary of the Treasury, and the Director of the Pension Benefit Guaranty Corporation, jointly, and after consultation with a balanced group of participant and employer representatives, shall with respect to plans referenced in subsection (a) report on the effectiveness of the applicable reporting and disclosure requirements and make such recommendations as may be appropriate to the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate to consolidate, simplify, standardize, and improve such requirements so as to simplify reporting for such plans and ensure that plans can furnish and participants and beneficiaries timely receive and better understand the information they need to monitor their plans, plan for retirement, and obtain the benefits they have earned.
@@ -134,7 +129,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
     >   - **(2)** has received the summary plan description pursuant to section 104(b) and any other eligibility notices required to be furnished under this title in connection with such participant’s initial eligibility to participate in such plan;
     >   - **(3)** is not participating in such plan;
     >   - **(4)** does not have a balance in the plan; and
-    >   - **(5)** satisfies such other criteria as the Secretary of Labor may determine appropriate, as prescribed in guidance issued in consultation with the Secretary of the Treasury.
+    >   - **(5)** satisfies such other criteria as the Secretary of Labor may determine appropriate, as prescribed in guidance issued in consultation with the Secretary of Treasury.
     > - **(c)** *Annual reminder notice* For purposes of this section, the term “annual reminder notice” means a notice provided in accordance with section 2520.104b–1 of title 29, Code of Federal Regulations (or any successor regulation), which—
     >   - **(1)** is furnished in connection with the annual open season election period with respect to the plan or, if there is no such period, is furnished within a reasonable period prior to the beginning of each plan year;
     >   - **(2)** notifies the unenrolled participant of—
@@ -215,7 +210,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 
 - **(a)** *Amendment of Employee Retirement Income Security Act of 1974*
   - **(1)** *In general* Section 202 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1052) is amended by adding at the end the following new subsection:
-    > - **(c)** *Special rule for certain part-Time employees*
+    > - **(c)** *Special rule for certain part-time employees*
     >   - **(1)** *In general* A pension plan that includes either a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) or a salary reduction agreement (as described in section 403(b) of such Code) shall not require, as a condition of participation in the arrangement or agreement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
     >     - **(A)** the period permitted under subsection (a)(1) (determined without regard to subparagraph (B)(i) thereof); or
     >     - **(B)** the first 24-month period—
@@ -237,7 +232,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 
   - **(3)** *Pre-2021 service* Section 112(b) of the Setting Every Community Up for Retirement Enhancement Act of 2019 (26 U.S.C. 401 note) is amended by striking “section 401(k)(2)(D)(ii)” and inserting “paragraphs (2)(D)(ii) and (15)(B)(iii) of section 401(k)”.
 - **(b)** *Conforming amendments to Internal Revenue Code of 1986*
-  - **(1)** *In general* Section 410(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraphs:
+  - **(1)** *In general* Section 410(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
     > - **(6)** *Special rule for certain part-time employees*
     >   - **(A)** *In general* In the case of a plan that includes either a qualified cash or deferred arrangement (as defined in section 401(k)), a trust of which such plan is a part shall not constitute a qualified trust under section 401(a) if the plan requires, as a condition of participation in the plan or arrangement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
     >     - **(i)** the period permitted under paragraph (1) (determined without regard to subparagraph (B)(i) thereof), or
@@ -253,7 +248,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
     >   - **(D)** *12-month period* For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of paragraph (3)(A), except that 12-month periods beginning before January 1, 2021, shall not be taken into account.
 
   - **(2)** *Vesting* Section 410(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following:
-    > - **(6)** *Part-time employees* For purposes of determining whether an employee who is eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of paragraph (6)(A)(ii) has a nonforfeitable right to employer contributions—
+    > - **(7)** *Part-time employees* For purposes of determining whether an employee who is eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of paragraph (6)(A)(ii) has a nonforfeitable right to employer contributions—
     >   - **(A)** except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service,
     >   - **(B)** section 411(a)(6) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof, and
     >   - **(C)** 12-month periods occurring before the 24-month period described in paragraph (6)(A)(ii) shall not be treated as years of service.

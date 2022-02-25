@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5891
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 7 executed, 20 stated and not applied.
+25 amendatory instructions. 5 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 26 U.S.C. § 408
+### 26 U.S.C. § 403
 
 > in clause (ii), by striking “section 501(a) of such Code or” and inserting “section 501(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”; and
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section 501(a) of such Code or` |
 | Inserted | `section 501(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or` |
 
-### 26 U.S.C. § 408
+### 26 U.S.C. § 403
 
 > in the flush text at the end, by striking “the plan.” and inserting “the plan, but such term shall include any program (other than a governmental plan) maintained for the benefit of the employees of more than 1 employer that consists of contracts described in section 403(b) of such Code and that meets the requirements of subparagraph (A) or (B) of section 413(e)(1) of such Code.”.
 
@@ -42,32 +42,14 @@ to guess them.
 | Removed | `the plan.` |
 | Inserted | `the plan, but such term shall include any program (other than a governmental plan) maintained for the benefit of the employees of more than 1 employer that consists of contracts described in section 403(b) of such Code and that meets the requirements of subparagraph (A) or (B) of section 413(e)(1) of such Code.` |
 
-### 26 U.S.C. § 408
+### 26 U.S.C. § 403
 
-> Sections 3(43)(B)(v)(II) and 3(44)(A)(i)(I) of the Employee Retirement Income Security Act of 1974 are each amended by striking “section 401(a) of such Code or” and inserting “401(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”.
+> Sections 3(43)(B)(v)(II) and 3(44)(A)(i)(I) of the Employee Retirement Income Security Act of 1974 are each amended by striking “section 401(a) of such Code or” and inserting “section 401(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or”.
 
 | | |
 |---|---|
 | Removed | `section 401(a) of such Code or` |
-| Inserted | `401(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or` |
-
-### 26 U.S.C. § 408
-
-> by striking “trustees meeting the requirements of section 408(a)(2) of the Internal Revenue Code of 1986” and inserting “trustees (or other fiduciaries in the case of a plan that consists of contracts described in section 403(b) of the Internal Revenue Code of 1986) meeting the requirements of section 408(a)(2) of such Code”; and
-
-| | |
-|---|---|
-| Removed | `trustees meeting the requirements of section 408(a)(2) of the Internal Revenue Code of 1986` |
-| Inserted | `trustees (or other fiduciaries in the case of a plan that consists of contracts described in section 403(b) of the Internal Revenue Code of 1986) meeting the requirements of section 408(a)(2) of such Code` |
-
-### 26 U.S.C. § 408
-
-> by striking “holding” and inserting “holding (or causing to be held under the terms of a plan consisting of such contracts)”.
-
-| | |
-|---|---|
-| Removed | `holding` |
-| Inserted | `holding (or causing to be held under the terms of a plan consisting of such contracts)` |
+| Inserted | `section 401(a) of such Code, a plan that consists of contracts described in section 403(b) of such Code, or` |
 
 ### 26 U.S.C. § 4975
 
@@ -114,5 +96,5 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 414` | add-at-end | Section 402(c) of such Code is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1052` | add-at-end | Section 202 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1052) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1053` | redesignate | Section 203(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1053(a)) is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 410` | add-at-end | Section 410(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 410` | add-at-end | Section 410(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 410` | add-at-end | Section 410(a) of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
