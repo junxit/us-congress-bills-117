@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1354
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Alaska Trails Act”.
 Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
 
 > - **(31)** *Chilkoot National Historic Trail*
->   - **(A)** *In general* The Chilkoot National Historic Trail, a traditional gold rush route of approximately 16.5 miles within the Klondike Gold Rush National Historical Park, as generally depicted on the map entitled “Proposed Chilkoot National Historic Trail”, numbered KLGO–461–173787, and dated October 2020.
+>   - **(A)** *In general* The Chilkoot National Historic Trail, a traditional gold rush route of approximately 16.5 miles within the Klondike Gold Rush National Historical Parkan approximately 16.5-mile route within the Klondike Gold Rush National Historical Park that was traditionally used as a trading route by the Tlingit Indian Tribe and Tagish First Nation and as a gold rush route, as generally depicted on the map entitled “Proposed Chilkoot National Historic Trail”, numbered KLGO–461–173787, and dated October 2020.
 >   - **(B)** *Availability of map* The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 >   - **(C)** *Administration* The Chilkoot National Historic Trail shall be administered by the Secretary of the Interior.
 >   - **(D)** *Effect* The designation of the Chilkoot National Historic Trail shall not affect any authorities under Public Law 94–323 (16 U.S.C. 410bb et seq.).
@@ -34,7 +34,7 @@ Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by
 
 > - **(48)** *Alaska Long Trail*
 >   - **(A)** *In general* The Alaska Long Trail, extending approximately 500 miles from Seward, Alaska, to Fairbanks, Alaska.
->   - **(B)** *Requirement* The Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this paragraph as the “Secretary”), shall study the feasibility of designating the trail described in subparagraph (A).
+>   - **(B)** *Requirement* The Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this paragraph as the “Secretary”), shall study the feasibility of designating the trail described in subparagraph (A), including evaluating the potential impacts of the trail on rights-of-way, existing rights, or other recreational uses of the land proposed to be used for the trail.
 >   - **(C)** *Consultation* The Secretary shall conduct the study under this paragraph in consultation with—
 >     - **(i)** the Secretary of Agriculture, acting through the Chief of the Forest Service;
 >     - **(ii)** the State of Alaska;
