@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4588
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Short title* This Act may be cited as the “Regional Innovation Act of 2021”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Regional innovation capacity
+## § 2. Regional Innovation Capacity
 
 - **(a)** *In general* The Stevenson-Wydler Technology Innovation Act of 1980 (Public Law 96–480; 15 U.S.C. 3701 et seq.) is amended—
   - **(1)** by redesignating section 28 as section 29; and
@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(A)** the Committee on Commerce, Science, and Transportation, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate; and
     >     - **(B)** the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
     >   - **(2)** *Cooperative extension services* The term “cooperative extension services” has the meaning given the term in section 1404 of the Food and Agriculture Act of 1977 (7 U.S.C. 3103).
-    >   - **(3)** *Historically black colleges and universities* The term “historically Black colleges and universities” has the same meaning given to the term in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+    >   - **(3)** *Historically black colleges and universities* The term “historically Black colleges and universities” has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061);
     >   - **(4)** *Labor organization* The term “labor organization” has the meaning given the term in section 2(5) of the National Labor Relations Act (29 U.S.C. 152(5)), except that such term shall also include—
     >     - **(A)** any organization composed of labor organizations, such as a labor union federation or a State or municipal labor body; and
     >     - **(B)** any organization which would be included in the definition for such term under such section (5) but for the fact that the organization represents—
@@ -34,17 +34,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >       - **(ii)** individuals employed by persons subject to the Railway Labor Act (45 U.S.C. 151 et seq.); or
     >       - **(iii)** individuals employed as agricultural laborers.
     >   - **(5)** *Manufacturing extension center* The term “manufacturing extension center” has the meaning given the term “Center” in section 25(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(a)).
-    >   - **(6)** *Manufacturing usa institute* The term “Manufacturing USA institute” means an Manufacturing USA institute described in section 34(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278s(d)).
-    >   - **(7)** *Minority serving institution* The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institutions, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in section 371 of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
+    >   - **(6)** *Manufacturing USA institute* The term “Manufacturing USA institute” means a Manufacturing USA institute described in section 34(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278s(d)).
+    >   - **(7)** *Minority-serving institution* The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institutions, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
     >   - **(8)** *Site connectivity infrastructure* The term “site connectivity infrastructure” means localized driveways and access roads to a facility as well as hookups to the new facility for drinking water, waste water, broadband, and other basic infrastructure services already present in the area.
     >   - **(9)** *State* The term “state” has the meaning given such term in section 27(a) of the Stevenson-Wydler Act of 1980 (15 U.S.C. 3722(a)).
     >   - **(10)** *Tribal college or university* The term “Tribal College or University” has the meaning given such term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
     >   - **(11)** *Venture development organization* The term “venture development organization” has the meaning given such term in section 27(a) of the Stevenson-Wydler Act of 1980 (15 U.S.C. 3722(a)).
+    >   - **(12)** *Community development financial institution* The term “community development financial institution” has the meaning given in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702).
+    >   - **(13)** *Minority depository institution* The term “minority depository institution” means an entity that is—
+    >     - **(A)** a minority depository institution, as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note); or
+    >     - **(B)** considered to be a minority depository institution by—
+    >       - **(i)** the appropriate Federal banking agency; or
+    >       - **(ii)** the National Credit Union Administration, in the case of an insured credit union.
     > - **(b)** *Regional technology and innovation hub program*
     >   - **(1)** *In general* Subject to the availability of appropriations, the Secretary shall carry out a program—
-    >     - **(A)** to encourage new and constructive collaboration among local, State, and Federal government entities, institutions of higher education, the private sector, economic development organizations, labor organizations, nonprofit organizations, and community organizations to promote inclusive regional innovation initiatives;
+    >     - **(A)** to encourage new and constructive collaboration among local, State, and Federal government entities, institutions of higher education, the private sector, economic development organizations, labor organizations, worker cooperative membership associations, State or local employee ownership and cooperative development centers, nonprofit organizations, and community organizations to promote inclusive regional innovation initiatives;
     >     - **(B)** to support eligible consortia in the development and implementation of regional innovation strategies;
-    >     - **(C)** to designate eligible consortia as regional technology and innovation hubs and facilitate activities by consortia designated as regional technology and innovation hubs in implementing their regional innovation strategies, in order—
+    >     - **(C)** to designate eligible consortia as regional technology and innovation hubs and facilitate activities by consortia designated as regional technology and innovation hubs in implementing their regional innovation strategies—
     >       - **(i)** to enable United States leadership in technology and innovation sectors critical to national and economic security;
     >       - **(ii)** to support regional economic development and resilience, including in small cities and rural areas, and promote increased geographic diversity of innovation across the United States;
     >       - **(iii)** to promote the benefits of technology development and innovation for all Americans, including underserved communities and vulnerable communities;
@@ -57,7 +63,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(B)** Strategy implementation grants or cooperative agreements to regional technology and innovation hubs under subsection (f).
     > - **(c)** *Eligible consortia* For purposes of this section, an eligible consortium is a consortium that—
     >   - **(1)** includes 1 or more of each of the following—
-    >     - **(A)** institutions of higher education, which may include Historically Black Colleges and Universities, Tribal Colleges and Universities, and Minority Serving Institutions;
+    >     - **(A)** institutions of higher education, which may include Historically Black Colleges and Universities, Tribal Colleges and Universities, and minority-serving institutions;
     >     - **(B)** State, local, or Tribal governments or other political subdivisions of a State, including State and local agencies, or a consortia thereof;
     >     - **(C)** industry or firms in relevant technology or innovation sectors;
     >     - **(D)** labor organizations or workforce training organizations, which may include State and local workforce development boards as established under section 101 and 107 of the Workforce Investment and Opportunity Act (29 U.S.C. 3111; 3122); and
@@ -66,22 +72,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(A)** economic development entities with relevant expertise, including a district organization (as defined in section 300.3 of title 13, Code of Federal Regulations, or successor regulation);
     >     - **(B)** economic development organizations or similar entities that are focused primarily on improving science, technology, innovation, entrepreneurship, or access to capital;
     >     - **(C)** venture development organizations;
-    >     - **(D)** financial institutions and investment funds;
-    >     - **(E)** primary and secondary educational institutions, including career and technical education schools;
-    >     - **(F)** National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801));
-    >     - **(G)** Federal laboratories;
-    >     - **(H)** Manufacturing extension centers;
-    >     - **(I)** Manufacturing USA institutes;
-    >     - **(J)** transportation planning organizations;
-    >     - **(K)** a cooperative extension services; and
-    >     - **(L)** organizations that represent the perspectives of underserved communities in economic development initiatives.
+    >     - **(D)** worker cooperative membership associations and state or local employee ownership and cooperative development centers;
+    >     - **(E)** financial institutions and investment funds, including community development financial institutions and minority depository institutions;
+    >     - **(F)** elementary schools and secondary schools, including area career and technical education schools (as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (29 U.S.C. 2302);
+    >     - **(G)** National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801));
+    >     - **(H)** Federal laboratories;
+    >     - **(I)** Manufacturing extension centers;
+    >     - **(J)** Manufacturing USA institutes;
+    >     - **(K)** transportation planning organizations;
+    >     - **(L)** a cooperative extension services; and
+    >     - **(M)** organizations that represent the perspectives of underserved communities in economic development initiatives.
     > - **(d)** *Designation of regional technology and innovation hubs*
     >   - **(1)** *In general* In carrying out subsection (b)(1)(C), the Secretary shall use a competitive, merit-review process to designate not fewer than 10 eligible consortia as regional technology and innovation hubs.
     >   - **(2)** *Geographic distribution* In conducting the competitive process under paragraph (1), the Secretary shall ensure geographic distribution in the designation of regional technology and innovation hubs by—
     >     - **(A)** focusing on localities that are not leading technology centers;
     >     - **(B)** ensuring that not fewer than one third of eligible consortia designated as regional technology and innovation hubs significantly benefit a rural or other underserved community;
     >     - **(C)** ensuring that at least one eligible consortium designated as a regional technology and innovation hub is headquartered in a State that is eligible to receive funding from the Established Program to Stimulate Competitive Research of the National Science Foundation; and
-    >     - **(D)** ensuring that at least one eligible consortium designated as a regional technology and innovation hub is headquartered in a region that has a high density of institutions of higher education serving populations historically un­der­rep­re­sented in STEM, including historically Black Colleges and Universities and minority serving institutions.
+    >     - **(D)** ensuring that at least one eligible consortium designated as a regional technology and innovation hub is headquartered in a region that has a high density of institutions of higher education serving populations historically underrepresented in STEM, including historically Black Colleges and Universities and minority-serving institutions.
     >   - **(3)** *Relation to certain grant awards* The Secretary shall not require an eligible consortium to receive a grant or cooperative agreement under subsection (e) in order to be designated as a regional technology and innovation hub under paragraph (1) of this subsection.
     > - **(e)** *Strategy development grants and cooperative agreements*
     >   - **(1)** *In general* The Secretary shall use a competitive, merit-review process to award grants or cooperative agreements to eligible consortia for the development of regional innovation strategies.
@@ -112,23 +119,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >       - **(vi)** The expansion of successful training programs at a scale required by the region served by the regional technology and innovation hub, including through the use of online education.
     >       - **(vii)** The development and expansion of programs with the goal of increasing the participation of persons historically underrepresented in STEM in the workforce development plans of the regional technology and innovation hub.
     >     - **(B)** *Business and entrepreneur development activities* Business and entrepreneur development activities, including activities relating to the following:
-    >       - **(i)** The development and growth of regional businesses and the training of entrepreneurs.
+    >       - **(i)** The development and growth of local regional businesses and the training of entrepreneurs.
     >       - **(ii)** The support of technology commercialization, including funding for activities relevant for advancing high growth potential ventures such as acceleration, incubation and other relevant programming.
-    >       - **(iii)** The development of capital networks and consortia to attract necessary private funding to businesses and entrepreneurs in the region.
-    >       - **(iv)** The development of networks for business and entrepreneur mentorship.
+    >       - **(iii)** The development of local and regional capital networks and consortia to attract necessary private funding to businesses and entrepreneurs in the region.
+    >       - **(iv)** The development of local and regional networks for business and entrepreneur mentorship.
+    >       - **(v)** The expansion of employee and worker ownership and participation in business decisionmaking, including through coordination and collaboration with worker cooperative membership associations and existing local and state employee ownership and cooperative development centers, or the creation of such centers where they do not yet exist, in order to provide information, technical assistance, access to financing, and training to startups, contractors, and businesses that are considering employee ownership as a model, and to facilitate the creation of and conversion to employee-owned startups, businesses, and cooperatives.
     >     - **(C)** *Technology development and maturation activities* Technology maturation activities, including activities relating to the following:
     >       - **(i)** The development and deployment of technologies in sectors critical to the region served by the regional technology and innovation hub or to national and economic security, including industry-university research cooperation, proof of concept, prototype development, and testing.
     >       - **(ii)** The development of programming to support the creation and transfer of intellectual property into private use, such as through startup creation.
     >       - **(iii)** The provision of facilities for technology maturation, including incubators for collaborative development of technologies by private sector, academic, nonprofit, and other entities.
-    >       - **(iv)** Activities to provide or ensure access to capital for new business formation and business expansion, including by attracting new private, public, and philanthropic investment and by establishing regional venture and loan funds.
+    >       - **(iv)** Activities to provide or ensure access to capital for new business and cooperative formation and business expansion, or preservation of existing businesses through conversion to employee ownership and cooperatives, including by attracting new private, public, and philanthropic investment and by establishing local and regional venture and loan funds, community development financial institutions, and minority depository institutions.
     >     - **(D)** *Infrastructure-related activities* The building of facilities and site connectivity infrastructure necessary to carry out activities described in subparagraphs (A), (B), and (C), including activities relating to the following:
     >       - **(i)** Establishing a center with required tools and instrumentation for workforce development.
     >       - **(ii)** Establishing a facility for technology development, demonstration, and testing.
     >       - **(iii)** Establishing collaborative incubators to support technology commercialization and entrepreneur training.
     >   - **(3)** *Term*
     >     - **(A)** *Initial performance period* The term of an initial grant or cooperative agreement awarded under this subsection shall be for a period that the Secretary deems appropriate for the proposed activities but not less than 2 years.
-    >     - **(B)** *Subsequent performance period* The Secretary may renew a grant or cooperative agreement awarded to a regional technology and innovation hub under paragraph (1) for such period as the Secretary considers appropriate, if the Secretary determines that the regional technology and innovation hub has made satisfactory progress towards the metrics agreed to under subparagraph (j).
-    >     - **(C)** *Flexible approach* In renewing a grant or cooperative agreement under subparagraph (B), the Secretary and eligible consortium may agree to new or additional uses of funds in order to meet changes in the needs of the region.
+    >     - **(B)** *Subsequent performance period* The Secretary may renew a grant or cooperative agreement awarded to a regional technology and innovation hub under paragraph (1) for such period as the Secretary considers appropriate, if the Secretary determines that the regional technology and innovation hub has made satisfactory progress towards the metrics agreed to under subsection (j).
+    >     - **(C)** *Flexible approach* In renewing a grant or cooperative agreement under subparagraph (B), the Secretary and the eligible consortium may agree to new or additional uses of funds in order to meet changes in the needs of the region.
     >   - **(4)** *Limitation on amount of awards*
     >     - **(A)** *Initial performance period* The amount of an initial grant or cooperative agreements awarded to a regional technology and innovation hub under paragraph (3)(A) shall be no more than $150,000,000.
     >     - **(B)** *Subsequent performance period* Upon renewal of a grant or cooperative agreement under paragraph (3)(B), the Secretary may award funding in the amount that the Secretary considers appropriate, ensuring that no single regional technology and innovation hub receives more than 15 percent of the aggregate amount of the grants and cooperative agreements awarded under this subsection.
@@ -146,32 +154,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > - **(g)** *Applications* An eligible consortium seeking designation as a regional technology and innovation hub under subsection (d) or a grant or cooperative agreement under subsection (e) or (f) shall submit to the Secretary an application therefore at such time, in such manner, and containing such information as the Secretary may specify.
     > - **(h)** *Considerations for designation and award of strategy implementation grants and cooperative agreements* In selecting an eligible consortium that submitted an application under subsection (g) for designation under subsection (d) or for a grant or cooperative agreement under subsection (f), the Secretary shall consider the following:
     >   - **(1)** The potential of the eligible consortium to advance the research, development, deployment, and domestic manufacturing of technologies in a technology or innovation sector critical to national and economic security.
-    >   - **(2)** The likelihood of positive regional economic effect, including increasing the number of high wage domestic jobs, and creating new economic opportunities for economically disadvantaged and underrepresented populations.
+    >   - **(2)** The likelihood of positive regional economic effect, including increasing the number of high wage domestic jobs, creating new economic opportunities for economically disadvantaged and underrepresented populations, promoting employee and worker ownership, and advancing models of local and cooperative economic development that build and retain wealth in the region.
     >   - **(3)** How the eligible consortium plans to integrate with and leverage the resources of 1 or more federally funded research and development centers, National Laboratories, Federal laboratories, Manufacturing USA institutes, Hollings Manufacturing Extension Partnership centers, or other Federal entities.
-    >   - **(4)** How the eligible consortium will engage with the private sector, including small- and medium-sized businesses to commercialize new technologies and improve the resiliency of domestic supply chains in a technology or innovation sector critical to national and economic security.
-    >   - **(5)** How the eligible consortium will carry out workforce development and skills acquisition programming, including through partnerships with entities that include State and local workforce development boards, institutions of higher education, including community colleges, historically Black colleges and universities, Tribal colleges and universities, and minority serving institutions, labor organizations, and workforce development programs, and other related activities authorized by the Secretary, to support the development of a skilled technical workforce for the regional technology and innovation hub.
+    >   - **(4)** How the eligible consortium will engage with the private sector, including small- and medium-sized businesses and cooperatives, and employee-owned businesses and cooperatives, to commercialize new technologies and improve the resiliency and sustainability of domestic supply chains in a technology or innovation sector critical to national and economic security.
+    >   - **(5)** How the eligible consortium will carry out workforce development and skills acquisition programming, including through partnerships with entities that include State and local workforce development boards, institutions of higher education, including community colleges, historically Black colleges and universities, Tribal colleges and universities, and minority-serving institutions, labor organizations, worker cooperative membership associations, state or local employee ownership and cooperative development centers, workforce development programs, and other related activities authorized by the Secretary, to support the development of a skilled technical workforce for the regional technology and innovation hub.
     >   - **(6)** How the eligible consortium will improve or expand science, technology, engineering, and mathematics education programs and opportunities in the identified region in elementary and secondary school and higher education institutions located in the identified region.
-    >   - **(7)** How the eligible consortium plans to develop partnerships with venture development organizations and sources of private investment in support of private sector activity, including launching new or expanding existing companies.
+    >   - **(7)** How the eligible consortium plans to develop partnerships with venture development organizations, community development financial institutions and minority depository institutions, and sources of private investment in support of private sector activity, including launching new or expanding existing companies.
     >   - **(8)** How the eligible consortium plans to organize the activities of regional partners across sectors in support of a regional technology and innovation hub.
-    >   - **(9)** How the eligible consortium will ensure that growth in technology and innovation sector produces opportunity across the identified region, including for economically disadvantaged, minority, and rural populations, including consideration of how the eligible consortium takes into account the relevant impact of regional status and plans for—
-    >     - **(A)** available housing stock and housing policies;
+    >   - **(9)** How the eligible consortium plans to procure as many goods, services, food, and supplies as is practicable from locally-owned, employee-owned, minority-owned, and women-owned businesses and cooperatives in conducting hub activities, and how individual consortium members, as applicable, plan to do the same.
+    >   - **(10)** How the consortium plans to collaborate with local and community development financial institutions and minority depository institutions to expand the supply of such procurement options, including by creating business plans and plans for financing businesses and cooperatives that do not yet exist, and how the consortium plans to encourage entities created as a result of hub activities to follow such practices.
+    >   - **(11)** How the eligible consortium will ensure that growth in technology and innovation sector produces opportunity across the identified region, including for economically disadvantaged, minority, and rural populations, including consideration of how the eligible consortium takes into account the relevant impact of regional status and plans for—
+    >     - **(A)** available affordable housing stock and housing policies;
     >     - **(B)** local and regional transportation systems;
     >     - **(C)** high speed internet access; and
     >     - **(D)** primary and secondary education.
-    >   - **(10)** How much the regions educational institutions are committed to aligning their activities, including research and education, as appropriate, to a region’s economic strengths and areas of focus.
-    >   - **(11)** The likelihood efforts served by the consortium will be sustained once Federal support ends.
+    >   - **(12)** How much the regions educational institutions are committed to aligning their activities, including research and education, as appropriate, to a region’s economic strengths and areas of focus.
+    >   - **(13)** The likelihood efforts served by the consortium will be sustained once Federal support ends.
     > - **(i)** *Coordination and collaboration*
     >   - **(1)** *Coordination with regional innovation program* The Secretary shall ensure the activities under this section do not duplicate activities or efforts under section 27.
     >   - **(2)** *Coordination among hubs* The Secretary shall ensure eligible consortia that receive a grant or cooperative agreement under this section coordinate and share best practices for regional economic development.
     >   - **(3)** *Coordination with programs of the national institute of standards and technology* The Secretary shall coordinate the activities of regional technology and innovation hubs designated under this section, the Hollings Manufacturing Extension Partnership, and the Manufacturing USA Program, as the Secretary considers appropriate, to maintain the effectiveness of a manufacturing extension center or a Manufacturing USA institute.
     >   - **(4)** *Coordination with department of energy programs* The Secretary shall, in collaboration with the Secretary of Energy, coordinate the activities and selection of regional technology and innovation hubs designated under this section, as the Secretaries consider appropriate, to maintain the effectiveness of activities at the Department of Energy and the National Laboratories.
     >   - **(5)** *Interagency collaboration* In designating regional technology and innovation hubs under subsection (d) and awarding grants or cooperative agreements under subsection (f), the Secretary—
-    >     - **(A)** shall collaborate with Federal departments and agencies whose missions contribute to the goals of the regional technology and innovation hub;
+    >     - **(A)** shall collaborate with Federal departments and agencies whose missions contribute to the goals of the regional technology and innovation hub, and relevant interagency initiatives such as the Interagency Working Group for Cooperative Development;
     >     - **(B)** shall consult with the Director of the National Science Foundation for the purpose of ensuring that the regional technology and innovation hubs are aligned with relevant science, technology, and engineering expertise; and
     >     - **(C)** may accept funds from other Federal agencies to support grants, cooperative agreements, and activities under this section.
     > - **(j)** *Performance measurement, transparency, and accountability*
     >   - **(1)** *Metrics, standards, and assessment* For each grant and cooperative agreement awarded under subsection (f) for a regional technology and innovation hub, the Secretary shall—
-    >     - **(A)** in consultation with the regional technology and innovation hub, develop metrics, which may include metrics relating to domestic job creation, patent awards, increases in research funding, business formation and expansion, and participation of individuals or communities historically underrepresented in STEM in, to assess the effectiveness of the activities funded in making progress toward the purposes set forth under subsection (b)(1);
+    >     - **(A)** in consultation with the regional technology and innovation hub, develop metrics, which may include metrics relating to domestic job creation, patent awards, increases in research funding, business formation and expansion, and participation of individuals or communities historically underrepresented in STEM, to assess the effectiveness of the activities funded in making progress toward the purposes set forth under subsection (b)(1);
     >     - **(B)** establish standards for the performance of the regional technology and innovation hub that are based on the metrics developed under subparagraph (A); and
     >     - **(C)** prior to any award made under a subsequent performance period in subsection (f) and every 2 years thereafter until Federal financial assistance under this section for the regional technology and innovation hub is discontinued, conduct an assessment of the regional technology and innovation hub to confirm whether the performance of the regional technology and innovation hub is meeting the standards for performance established under subparagraph (B) of this paragraph.
     >   - **(2)** *Final reports by recipients of strategy implementation grants and cooperative agreements*
@@ -180,11 +190,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >       - **(i)** A detailed description of the activities carried out by the regional technology and innovation hub using the grant or cooperative agreement described in subparagraph (A), including the following:
     >         - **(I)** A description of each project the regional technology and innovation hub completed using such grant or cooperative agreement.
     >         - **(II)** An explanation of how each project described in subclause (I) achieves a specific goal under this section in the region of the regional technology and innovation hub with respect to—
-    >           - **(aa)** the resiliency of a supply chain;
+    >           - **(aa)** the resiliency and sustainability of a supply chain;
     >           - **(bb)** research, development, and deployment of a critical technology;
     >           - **(cc)** workforce training and development;
     >           - **(dd)** domestic job creation;
-    >           - **(ee)** entrepreneurship and company formation;
+    >           - **(ee)** entrepreneurship and company formation, including the number of businesses created or preserved through employee ownership and cooperative development;
     >           - **(ff)** commercialization;
     >           - **(gg)** access to private capital; or
     >           - **(hh)** participation of individuals or communities historically underrepresented in STEM.
@@ -223,17 +233,17 @@ Subtitle C of title IX of the Energy Independence and Security Act of 2007 is am
 >     - **(F)** a labor group;
 >     - **(G)** a National Laboratory;
 >     - **(H)** a venture development organization;
->     - **(I)** an organization focused on clean energy technology innovation or entrepreneurship;
->     - **(J)** a business accelerator or incubator;
->     - **(K)** a private sector entity or group of entities, including a trade or industry association;
->     - **(L)** an economic development organization;
->     - **(M)** a manufacturing facility or organization;
->     - **(N)** a clean energy incubator or accelerator;
->     - **(O)** a multi-institutional collaboration; or
->     - **(P)** any other entity that the Secretary determines to be relevant.
->   - **(3)** *Department* The term “Department” means the Department of Energy.
->   - **(4)** *Program* The term “program” means the Regional Clean Energy Innovation Program authorized in subsection (b).
->   - **(5)** The term “Secretary” means the Secretary of the Department of Energy.
+>     - **(I)** a community development financial institution or minority depository institution;
+>     - **(J)** a worker cooperative membership association or state or local employee ownership or cooperative development center;
+>     - **(K)** an organization focused on clean energy technology innovation or entrepreneurship;
+>     - **(L)** a business accelerator or incubator;
+>     - **(M)** a private sector entity or group of entities, including a trade or industry association;
+>     - **(N)** an economic development organization;
+>     - **(O)** a manufacturing facility or organization;
+>     - **(P)** a clean energy incubator or accelerator;
+>     - **(Q)** a multi-institutional collaboration; or
+>     - **(R)** any other entity that the Secretary determines to be relevant.
+>   - **(3)** *Program* The term “program” means the Regional Clean Energy Innovation Program authorized in subsection (b).
 > - **(b)** *In general* The Secretary shall establish a Regional Clean Energy Innovation Program, a research, development, demonstration, and commercial application program designed to enhance the economic, environmental, and energy security of the United States and accelerate the pace of innovation of diverse clean energy technologies through the formation or support of regional clean energy innovation partnerships that—
 >   - **(1)** account for the diverse domestic energy resources available throughout the United States;
 >   - **(2)** are responsive to the needs of industry, workforce, policy landscape, and clean energy innovation capabilities of the region in which such partnership is located;
@@ -241,7 +251,7 @@ Subtitle C of title IX of the Energy Independence and Security Act of 2007 is am
 >   - **(4)** are located in diverse geographic regions of the United States, including United States territories; and
 >   - **(5)** maximize the opportunities for cooperation between institutes of higher education, industry, State and local governments, and nonprofit research institutions with shared areas of energy expertise.
 > - **(c)** *Purposes of the program* The purposes of the Program established under subsection (b) are to—
->   - **(1)** improve the competitiveness of United States clean energy technology research, development, demonstration, and commercial application; and
+>   - **(1)** improve the competitiveness of United States’ clean energy technology research, development, demonstration, and commercial application; and
 >   - **(2)** support the development of tools and technologies best suited for use in diverse regions of the United States, including in rural, tribal, and low-income communities.
 > - **(d)** *Regional clean energy innovation partnerships*
 >   - **(1)** *In general* The Secretary shall competitively award grants to covered consortia to establish or support regional clean energy innovation partnerships that achieve the purposes of the Program in subsection (c).
@@ -259,10 +269,11 @@ Subtitle C of title IX of the Energy Independence and Security Act of 2007 is am
 >     - **(D)** a description of proposed activities that the regional clean energy innovation partnership plans to undertake and how the proposed activities will achieve the purposes described in subsection (c) and the proposed outcomes in subparagraph (B);
 >     - **(E)** a description of the geographical region that will engage in the regional clean energy innovation partnership;
 >     - **(F)** a plan for attracting additional funds and identification of funding sources from non-Federal sources to deliver the proposed outcomes of the regional clean energy innovation partnership;
->     - **(G)** a plan for sustaining activities of the regional clean energy innovation partnership after funds received under this program have been expended; and
->     - **(H)** a proposed budget, including financial contributions from non-Federal sources.
+>     - **(G)** a plan for partnering and collaborating with community development financial institutions and minority depository institutions, labor and community groups, worker cooperative membership associations, local and state employee ownership and cooperative development centers, and other local institutions in order to promote employee, community, and public ownership in the clean energy sector, and advance models of local economic development that build and retain wealth in the region;
+>     - **(H)** a plan for sustaining activities of the regional clean energy innovation partnership after funds received under this program have been expended; and
+>     - **(I)** a proposed budget, including financial contributions from non-Federal sources.
 >   - **(4)** *Considerations* In selecting covered consortia for funding under the Program, the Secretary shall, to the maximum extent practicable—
->     - **(A)** give special consideration to applications from rural, tribal, and low-income communities; and
+>     - **(A)** give special consideration to applications fromrural, tribal, and low-income communities; and
 >     - **(B)** ensure that there is geographic diversity among the covered consortia selected to receive funding.
 >   - **(5)** *Award amount* Grants given out under this Program shall be in an amount not greater than $10,000,000, with the total grant award in any year less than that in the previous year.
 >   - **(6)** *Cost share* For grants that are disbursed over the course of three or more years, the Secretary shall require, as a condition of receipt of funds under this section, that a covered consortium provide not less than 50 percent of the funding for the activities of the regional clean energy partnership under this section for years 3, 4, and 5.
@@ -275,7 +286,7 @@ Subtitle C of title IX of the Energy Independence and Security Act of 2007 is am
 > - **(f)** *Information sharing* As part of the program, the Secretary shall support the gathering, analysis, and dissemination of information on best practices for developing and operating successful regional clean energy innovation partnerships.
 > - **(g)** *Metrics* In evaluating a grant renewals under subsection (d)(8), the Secretary shall work with program evaluation experts to develop and make publicly available metrics to assess the progress of a regional clean energy innovation partnership towards achieving the purposes of the program in subsection (c). Such metrics may include—
 >   - **(1)** the number and quality of—
->     - **(A)** new clean energy companies created in the region as a result of activities carried out under the regional clean energy innovation partnership;
+>     - **(A)** new clean energy companies created in the region as a result of activities carried out under the regional clean energy innovation partnership, including those created or preserved through employee ownership and cooperative development;
 >     - **(B)** new or expanded workforce development or training programs; and
 >     - **(C)** support services provided to clean energy technology developers in the region;
 >   - **(2)** changes in clean energy employment in the region as a result of activities carried out under the regional clean energy innovation partnership; and
@@ -286,8 +297,9 @@ Subtitle C of title IX of the Energy Independence and Security Act of 2007 is am
 >     - **(A)** the Office of Innovation and Entrepreneurship under the Economic Development Administration, including the Regional Innovation Program under section 27 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3722);
 >     - **(B)** the Hollings Manufacturing Extension Partnership Program under section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k);
 >     - **(C)** the Manufacturing USA Program under section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 278s);
->     - **(D)** the Defense Manufacturing Communities Support Program under section 846 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 2501 note); and
->     - **(E)** the Office of Economic Adjustment at the Department of Defense.
+>     - **(D)** the Defense Manufacturing Communities Support Program under section 846 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 2501 note);
+>     - **(E)** the Office of Economic Adjustment at the Department of Defense; and
+>     - **(F)** Rural Development at the United States Department of Agriculture.
 > - **(i)** *Conflicts of interest* In carrying out the program, the Secretary shall maintain conflict of interest procedures, consistent with the conflict of interest procedures of the Department.
 > - **(j)** *Evaluation by comptroller general* Not later than 3 years after the date of the enactment of this Act, and every 3 years thereafter, the Comptroller General shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the operation of the program during the most recent 3-year period, including—
 >   - **(1)** an assessment of the progress made towards achieving the purposes specified in subsection (c) based on the metrics developed under subsection (g);
@@ -298,3 +310,29 @@ Subtitle C of title IX of the Energy Independence and Security Act of 2007 is am
 > - **(l)** *Security* In carrying out the activities under this section, the Secretary shall ensure proper security controls are in place to protect sensitive information, as appropriate.
 > - **(m)** *No funds for construction* No funds provided to the Department of Energy under this section shall be used for construction.
 > - **(n)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2022 through 2026.
+
+## § 4. Critical technology and innovation analytics program
+
+- **(a)** *In general* The Secretary of Commerce shall carry out a program of data collection and analysis of technology and innovation sectors critical to realizing national objectives, including national security, economic prosperity, and social welfare.
+- **(b)** *Purpose* The purpose of the program shall be—
+  - **(1)** To serve as a central Federal clearinghouse for the collection, interpretation, analysis, and dissemination of objective data on the nation’s technology, innovation, and advanced manufacturing capacity;
+  - **(2)** To improve assessment of the nation’s research, technology, and manufacturing assistance programs, including the regional innovation programs established in section 27 and 28 of the Stevenson-Wydler Technology Innovation Act of 1980 (Public Law 96–480; 15 U.S.C. 3701 et seq.);
+  - **(3)** To assess U.S. competitiveness in technology and innovation sectors; and
+  - **(4)** To support national policy and decision making in both the public and private sectors to ensure United States leadership in technology and innovation sectors critical to national security, economic prosperity and social welfare.
+- **(c)** *Activities* In carrying out this section, the Secretary shall—
+  - **(1)** collect, acquire, analyze, report, and disseminate data related to critical technology, innovation, and production capacity in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including data on—
+    - **(A)** regional technology and innovation capacity, including research and development activity, entrepreneurship, intellectual property generation, company formation, advanced technology capital equipment investment, and technology transfer;
+    - **(B)** supply chains, including domestic and international production capacity, inter-firm transactions, and resiliency for select end-products and their intermediate inputs;
+    - **(C)** the skilled technical and production workforce required in different critical technology and innovation sectors;
+    - **(D)** the participation of individuals and communities historically underrepresented in STEM; and
+    - **(E)** any other area the Secretary determines appropriate;
+  - **(2)** Request from any person or entity information, data, and reports as may be required to carry out the purposes of this Act;
+  - **(3)** support research using the data it collects, and on methodologies in areas related to the activities carried out under the program; and
+  - **(4)** conduct other activities deemed by the Secretary to be critical for the development of analytic capabilities, statistics, datasets, and metrics related to critical technologies and innovation.
+- **(d)** *Other transactions authorities* In carrying out this section, the Secretary may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the program and on such terms as the Secretary considers appropriate.
+- **(e)** *Coordination* The Secretary shall collaborate with Federal statistical agencies, as appropriate, to carry out the purposes of this section, including by entering into cooperative data sharing agreements that comply with all laws and regulations applicable to the disclosure and use of data.
+- **(f)** *Consultation* In conducting the activities required under subsection (c), the Secretary shall solicit input from relevant stakeholders on critical technology and sector needs, practices, and goals related to creating statistics, metrics, data sets, and modeling.
+- **(g)** *Administration* The Secretary may carry out this program through existing programs and bureaus of the Department of Commerce, as appropriate.
+- **(h)** *Access to federal data* In carrying out subsection (c), the Secretary shall be given access to all information, data, or reports that the Secretary determines necessary to carry out this Section by any Federal agency upon written request and subject to any statutory or regulatory restrictions.
+  - **(1)** *Existing instruments* Where practicable, the Secretary should incorporate data collection into existing survey instruments.
+- **(i)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $100,000,000 to conduct activities under this section for the period of fiscal years 2022 through 2026.
