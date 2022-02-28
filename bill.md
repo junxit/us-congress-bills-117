@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6859
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6859
+
+> To prohibit the use of rare earth minerals originating from Taliban-controlled Afghanistan in United States sold and manufactured components.
+
+## § 1. Short title
+
+This Act may be cited as the “No Profits for Taliban-Controlled Mines Act”.
+
+## § 2. Prohibition on use of rare earth minerals originating from Taliban-controlled Afghanistan in United States sold and manufactured components
+
+Notwithstanding any other provision of law, the President shall take such actions as may be necessary and appropriate to prohibit the use of rare earth minerals originating from Taliban-controlled Afghanistan in United States sold and manufactured components.
