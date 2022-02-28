@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4521
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4521
@@ -292,3 +292,5 @@ United States Innovation and Competition Act of 2021
 - 2022-02-04 — The previous question was ordered on the amendment (A013) pursuant to the rule.
 - 2022-02-04 — The previous question was ordered pursuant to the rule.
 - 2022-02-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2022-02-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-02-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
