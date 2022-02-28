@@ -1,7 +1,7 @@
 ---
 measure: S. 1354
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1354
@@ -24,3 +24,8 @@ Alaska Trails Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-23 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-02-28 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-84.
+- 2022-02-28 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-84.
+- 2022-02-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.
