@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 32
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 
-## Cosponsors (31)
+## Cosponsors (36)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Crapo, Mike [R-ID] (C000880)
@@ -49,6 +49,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -58,3 +63,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2021-12-09 — Introduced in Senate
 - 2021-12-09 — Read twice and referred to the Committee on Finance.
+- 2022-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
+- 2022-03-01 — Senate Committee on Finance discharged,by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-03-01 — Senate Committee on Finance discharged,by petition, pursuant to 5 U.S.C. 802(c).
