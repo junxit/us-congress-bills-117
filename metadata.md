@@ -1,7 +1,7 @@
 ---
 measure: H.R. 55
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 55
@@ -225,3 +225,12 @@ Emmett Till Antilynching Act
 - 2022-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 47). (text: CR H1166)
 - 2022-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 47).(text: CR H1166)
 - 2022-03-01 — Received in the Senate, read twice.
+- 2022-03-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1012-1013)
+- 2022-03-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1012-1013)
+- 2022-03-08 — Message on Senate action sent to the House.
+- 2022-03-28 — Presented to President.
+- 2022-03-28 — Presented to President.
+- 2022-03-29 — Became Public Law No: 117-107.
+- 2022-03-29 — Became Public Law No: 117-107.
+- 2022-03-29 — Signed by President.
+- 2022-03-29 — Signed by President.
