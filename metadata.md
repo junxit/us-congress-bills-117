@@ -1,7 +1,7 @@
 ---
 measure: S. 3025
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3025
@@ -28,3 +28,7 @@ Servicemembers and Veterans Empowerment and Support Act of 2021
 
 - 2021-10-20 — Introduced in Senate
 - 2021-10-20 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-12-15 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2022-03-01 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
+- 2022-03-01 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
+- 2022-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
