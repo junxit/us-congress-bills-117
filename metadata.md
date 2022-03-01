@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 950
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 950
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 3967) to improve health care and b
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-03-01 — [House 117-2-49](votes/house-117-2-0049.md) — On Ordering the Previous Question — **Passed** (221–202)
+- 2022-03-01 — [House 117-2-50](votes/house-117-2-0050.md) — On Agreeing to the Resolution — **Passed** (220–200)
+
 ## Actions
 
 - 2022-02-28 — An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-33, modified by the amendment printed in Part A of the report is considered as adopted.
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 3967) to improve health care and b
 - 2022-02-28 — Placed on the House Calendar, Calendar No. 66.
 - 2022-02-28 — The House Committee on Rules reported an original measure, H. Rept. 117-253, by Mr. McGovern.
 - 2022-02-28 — The House Committee on Rules reported an original measure, H. Rept. 117-253, by Mr. McGovern.
+- 2022-03-01 — Considered as privileged matter. (consideration: CR H1187-1199)
+- 2022-03-01 — DEBATE - The House proceeded with one hour of debate on H. Res. 950.
+- 2022-03-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-01 — On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 200 (Roll no. 50). (text: CR H1187)
+- 2022-03-01 — On ordering the previous question Agreed to by the Yeas and Nays: 221 - 202 (Roll no. 49). (consideration: CR H1198)
+- 2022-03-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 200 (Roll no. 50).(text: CR H1187)
