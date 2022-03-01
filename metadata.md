@@ -1,7 +1,7 @@
 ---
 measure: H.R. 55
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 55
@@ -224,3 +224,4 @@ Emmett Till Antilynching Act
 - 2022-02-28 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
 - 2022-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 47). (text: CR H1166)
 - 2022-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 47).(text: CR H1166)
+- 2022-03-01 — Received in the Senate, read twice.
