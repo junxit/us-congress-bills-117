@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 512
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 512
@@ -53,3 +53,7 @@ A resolution supporting reopening the United States Capitol Building and Senate 
 
 - 2022-02-15 — Introduced in Senate
 - 2022-02-15 — Referred to the Committee on Rules and Administration.
+- 2022-03-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 2/15/2022 CR S710)
+- 2022-03-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 2/15/2022 CR S710)
+- 2022-03-01 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2022-03-01 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S854)
