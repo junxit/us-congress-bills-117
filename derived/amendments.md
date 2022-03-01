@@ -1,7 +1,7 @@
 ---
 measure: S. 2089
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,9 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and (ii) members” and inserting “(ii) members”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “other than dishonorable, and” and inserting “other than dishonorable, or (iii) described in section 2408(i)(2) of this title”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (k); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following new subsections: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “tribal organization,” after “of a State,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
