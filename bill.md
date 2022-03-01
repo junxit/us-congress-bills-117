@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6883
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6883
+
+> To prohibit certain aircraft associated with the Russian Federation from operating in the national airspace system.
+
+## § 1. Prohibition on Russian air carriers
+
+- **(a)** *In general* Notwithstanding any other provision of law, the Secretary of Transportation shall ensure that the following aircraft may not operate in the national airspace system:
+  - **(1)** A private aircraft listed by the Secretary of State pursuant to subsection (b).
+  - **(2)** Any aircraft of a foreign air carrier, as such term is defined in section 40102 of title 49, United States Code, owned or operated by an entity organized under the laws of the Russian Federation, or any jurisdiction within the Russian Federation.
+- **(b)** *List of prohibited aircraft* The Secretary of State shall compile a list of private aircraft that are—
+  - **(1)** owned by a citizen of the Russian Federation that is considered to be an oligarch, as determined by the Secretary; and
+  - **(2)** registered in a country other than the Russian Federation.
