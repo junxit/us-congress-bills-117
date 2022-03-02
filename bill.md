@@ -1,7 +1,7 @@
 ---
 legis-num: S. 753
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -36,7 +36,7 @@ The Highlands Conservation Act (Public Law 108–421; 118 Stat. 2375) is amended
   - **(C)** in subsection (e), by striking “$10,000,000 for each of fiscal years 2005 through 2021” and inserting “$20,000,000 for each of fiscal years 2022 through 2028”;
   - **(D)** by redesignating subsection (e) as subsection (g); and
   - **(E)** by inserting after subsection (d) the following:
-    > - **(e)** *Request for inclusion of additional municipality* The Director of the United States Fish and Wildlife Service may, at the request of a Highlands State, approve the inclusion of a municipality within the State as part of the Highlands region.
+    > - **(e)** *Request for inclusion of additional municipality* The Director of the United States Fish and Wildlife Service may, at the request of a Highlands State,Highlands State, with the concurrence of the municipality, approve the inclusion of a municipality within the State as part of the Highlands region.
     > - **(f)** *Limitation on administrative expenses*
     >   - **(1)** *Federal administration* The Secretary of the Interior may not expend more than $300,000 for the administration of this Act in each fiscal year.
     >   - **(2)** *State administration* A State that receives funds under this section for a land conservation partnership project may not use more than 5 percent of the funds to administer the land conservation partnership project.
