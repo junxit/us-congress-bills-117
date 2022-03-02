@@ -1,7 +1,7 @@
 ---
 legis-num: S. 270
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -71,3 +71,8 @@ In order to honor the civil rights stories of struggle, perseverance, and activi
 
 - **(8)** By redesignating section 106 as section 107.
 - **(9)** In section 107 (as so redesignated by this subsection), by inserting before the period the following: “at the historic site, and there is authorized to be appropriated such sums as are necessary to carry out sections 103(c) and 106”.
+
+## § 3. Redesignation of the Brown v. Board of Education National Historical Park
+
+- **(a)** *In general* The Brown v. Board of Education National Historic Site established by section 103(a) of Public Law 102–525 (54 U.S.C. 320101 note; 106 Stat. 3439) shall be known and designated as the “Brown v. Board of Education National Historical Park”.
+- **(b)** *References* Any reference in any law, regulation, document, record, map, or other paper of the United States to the Brown v. Board of Education National Historic Site shall be considered to be a reference to the “Brown v. Board of Education National Historical Park”.
