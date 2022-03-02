@@ -1,7 +1,7 @@
 ---
 measure: S. 1320
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1320
@@ -28,3 +28,8 @@ Chiricahua National Park Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-23 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2021-11-18 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-03-02 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-88.
+- 2022-03-02 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-88.
+- 2022-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.
