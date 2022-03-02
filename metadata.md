@@ -1,7 +1,7 @@
 ---
 measure: S. 2992
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2992
@@ -38,3 +38,7 @@ American Innovation and Choice Online Act
 
 - 2021-10-18 — Introduced in Senate
 - 2021-10-18 — Read twice and referred to the Committee on the Judiciary.
+- 2022-01-20 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-03-02 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2022-03-02 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2022-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 301.
