@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 32
@@ -66,3 +66,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2022-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
 - 2022-03-01 — Senate Committee on Finance discharged,by petition, pursuant to 5 U.S.C. 802(c).
 - 2022-03-01 — Senate Committee on Finance discharged,by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-03-02 — Measure laid before Senate by unanimous consent.
+- 2022-03-02 — Passed Senate without amendment by Yea-Nay Vote. 49 - 44. Record Vote Number: 67. (text: CR S936)
+- 2022-03-02 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 49 - 44. Record Vote Number: 67.(text: CR S936)
