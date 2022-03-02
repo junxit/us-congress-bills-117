@@ -1,7 +1,7 @@
 ---
 measure: S. 198
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 198
@@ -44,3 +44,7 @@ Data Mapping to Save Moms' Lives Act
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
+- 2022-02-03 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-65.
+- 2022-02-03 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-65.
+- 2022-03-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S958; text: CR S958)
+- 2022-03-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S958; text: CR S958)
