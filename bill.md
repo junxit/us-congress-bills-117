@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6902
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6902
+
+> To designate the facility of the United States Postal Service located at 660 East Harrison Street, in Republic, Missouri, as the “Special Agent Sgt. Joseph M. Peters Post Office”.
+
+## § 1. Special Agent Sgt. Joseph M. Peters Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 660 East Harrison Street, in Republic, Missouri, shall be known and designated as the “Special Agent Sgt. Joseph M. Peters Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Special Agent Sgt. Joseph M. Peters Post Office”.
