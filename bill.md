@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 6891
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6891
+
+> To exclude government officials of the Russian Federation from certain international meetings, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Isolate Russian Government Officials Act of 2022”.
+
+## § 2. Exclusion of government officials of the Russian Federation
+
+- **(a)** *Policy of the United States* It is the policy of the United States to exclude government officials of the Russian Federation, to the maximum extent practicable, from attendance at the following:
+  - **(1)** The Spring Meetings and Annual Meetings of the World Bank Group and the International Monetary Fund.
+  - **(2)** Proceedings of the Group of 20, including Ministerial Meetings and Leader Summits.
+  - **(3)** Plenary meetings of the Financial Action Task Force.
+  - **(4)** Annual General Meetings of the Bank for International Settlements.
+- **(b)** *Implementation* The Secretary of the Treasury and the Board of Governors of the Federal Reserve System, as the case may be, shall take all necessary steps to advance the policy described under subsection (a).
+- **(c)** *Termination* This section shall have no force or effect on the earlier of—
+  - **(1)** the date that is 5 years after the date of enactment of this Act; or
+  - **(2)** 30 days after the date that the President reports to Congress that the government of the Russian Federation has ceased its destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine.
