@@ -1,7 +1,7 @@
 ---
 measure: S. 3103
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3103
@@ -40,3 +40,5 @@ Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022
 - 2022-02-17 — Committee on the Judiciary. Reported by Senator Durbin with amendments. Without written report.
 - 2022-02-17 — Committee on the Judiciary. Reported by Senator Durbin with amendments. Without written report.
 - 2022-02-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 276.
+- 2022-03-02 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S958; text: CR S958)
+- 2022-03-02 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S958; text: CR S958)

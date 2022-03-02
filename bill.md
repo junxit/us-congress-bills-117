@@ -11,13 +11,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Eliminating Limits to Justice for Child Sex Abuse Victims Act of 20212022”.
+This Act may be cited as the “Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022”.
 
 ## § 2. Elimination of the statute of limitations
 
 Section 2255 of title 18, United States Code, is amended by striking subsection (b) and inserting the following:
 
-> - **(b)** *Statute of limitations* There shall be no time limit for the filing of anya complaint commencing an action commenced under this section.
+> - **(b)** *Statute of limitations* There shall be no time limit for the filing of a complaint commencing an action under this section.
 
 ## § 3. Effective date; applicability
 
