@@ -1,7 +1,7 @@
 ---
 measure: S. 2771
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2771
@@ -33,3 +33,17 @@ A bill to designate the community-based outpatient clinic of the Department of V
 - 2022-03-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S998)
 - 2022-03-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S998)
 - 2022-03-03 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S998)
+- 2022-03-07 — Held at the desk.
+- 2022-03-07 — Received in the House.
+- 2022-09-19 — Considered under suspension of the rules. (consideration: CR H7942-7944)
+- 2022-09-19 — DEBATE - The House proceeded with forty minutes of debate on S. 2771.
+- 2022-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-19 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2022-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7942)
+- 2022-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-10-17 — Became Public Law No: 117-208.
+- 2022-10-17 — Became Public Law No: 117-208.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Signed by President.
+- 2022-10-17 — Signed by President.
