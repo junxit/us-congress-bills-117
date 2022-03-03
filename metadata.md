@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3967
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3967
@@ -139,3 +139,85 @@ Honoring our PACT Act of 2022
 - 2022-02-22 — Placed on the Union Calendar, Calendar No. 179.
 - 2022-02-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-249, Part I.
 - 2022-02-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-249, Part I.
+- 2022-02-28 — Rules Committee Resolution H. Res. 950 Reported to House. Rule provides for consideration of H.R. 3967 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-33, modified by the amendment printed in Part A of the report is considered as adopted.
+- 2022-03-01 — Rule H. Res. 950 passed House.
+- 2022-03-01 — Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 117-249, Part II.
+- 2022-03-01 — Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 117-249, Part II.
+- 2022-03-02 — Amendment (A003) offered by Mrs. Miller-Meeks. (consideration: CR H1242-1245; text: CR H1242-1243)
+- 2022-03-02 — Amendment (A004) offered by Ms. Brownley. (consideration: CR H1245-1246, H1256-1257; text: CR H1245)
+- 2022-03-02 — Amendment agreed to by House: On agreeing to the Brownley amendment (A004) Agreed to by the Yeas and Nays: 425 - 0 (Roll no. 54).
+- 2022-03-02 — Amendment agreed to by House: On agreeing to the Takano amendments (A002) Agreed to by the Yeas and Nays: 331 - 96 (Roll no. 52).
+- 2022-03-02 — Amendment failed by House: On agreeing to the Miller-Meeks amendment (A003) Failed by the Yeas and Nays: 203 - 223 (Roll no. 53).
+- 2022-03-02 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H1219-1228; text: CR H1219-1228)
+- 2022-03-02 — Amendments en bloc (A002) offered by Mr. Takano. (consideration: CR H1237-1242, H1255; text en bloc: CR H1237-1240)
+- 2022-03-02 — Considered as unfinished business. (consideration: CR H1255-1257)
+- 2022-03-02 — Considered under the provisions of rule H. Res. 950. (consideration: CR H1219-1246)
+- 2022-03-02 — DEBATE - Pursuant to the provisions of H. Res. 950, the House proceeded with 10 minutes of debate on the Brownley amendment No. 6.
+- 2022-03-02 — DEBATE - Pursuant to the provisions of H. Res. 950, the House proceeded with 10 minutes of debate on the Miller-Meeks amendment No. 5.
+- 2022-03-02 — DEBATE - Pursuant to the provisions of H. Res. 950, the House proceeded with 20 minutes of debate on the Mr. Takano amendment en bloc.
+- 2022-03-02 — DEBATE - The House continued with further debate on H.R. 3967.
+- 2022-03-02 — DEBATE - The House proceeded with one hour of debate on H.R. 3967.
+- 2022-03-02 — House amendment agreed to: On agreeing to the Brownley amendment (A004) Agreed to by the Yeas and Nays: 425 - 0 (Roll no. 54).
+- 2022-03-02 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-03-02 — House amendment agreed to: On agreeing to the Takano amendments (A002) Agreed to by the Yeas and Nays: 331 - 96 (Roll no. 52).
+- 2022-03-02 — House amendment not agreed to: On agreeing to the Miller-Meeks amendment (A003) Failed by the Yeas and Nays: 203 - 223 (Roll no. 53).
+- 2022-03-02 — House amendment offered
+- 2022-03-02 — House amendment offered
+- 2022-03-02 — House amendment offered
+- 2022-03-02 — House amendment offered
+- 2022-03-02 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Miller-Meeks.(consideration: CR H1242-1245; text: CR H1242-1243)
+- 2022-03-02 — House amendment offered/reported by: Amendment (A004) offered by Ms. Brownley.(consideration: CR H1245-1246, H1256-1257; text: CR H1245)
+- 2022-03-02 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Takano.(consideration: CR H1237-1242, H1255; text en bloc: CR H1237-1240)
+- 2022-03-02 — On agreeing to the Brownley amendment (A004) Agreed to by the Yeas and Nays: 425 - 0 (Roll no. 54).
+- 2022-03-02 — On agreeing to the Miller-Meeks amendment (A003) Failed by the Yeas and Nays: 203 - 223 (Roll no. 53).
+- 2022-03-02 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-03-02 — On agreeing to the Takano amendments (A002) Agreed to by the Yeas and Nays: 331 - 96 (Roll no. 52).
+- 2022-03-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brownley amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Weber demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller-Meeks amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Miller-Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendments en bloc, the Chair put the question on agreeing to the amendments and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-02 — Pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 3967 were postponed.
+- 2022-03-02 — Pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 3967 were postponed.
+- 2022-03-02 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 3967.
+- 2022-03-02 — Roll call votes on amendments in House
+- 2022-03-02 — Roll call votes on amendments in House
+- 2022-03-02 — Roll call votes on amendments in House
+- 2022-03-02 — Rule provides for consideration of H.R. 3967 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-33, modified by the amendment printed in Part A of the report is considered as adopted.
+- 2022-03-02 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-03-02 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-03-02 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-03-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2022-03-03 — Amendment (A005) offered by Ms. Ross. (consideration: CR H1279; text: CR H1279)
+- 2022-03-03 — Amendment (A006) offered by Mr. Ruiz. (consideration: CR H1279-1280, H1282; text: CR H1279-1280)
+- 2022-03-03 — Amendment (A007) offered by Mr. Ryan. (consideration: CR H1280-1281, H1283; text: CR H1280-1281)
+- 2022-03-03 — Amendment agreed to by House: On agreeing to the Ross amendment (A005) Agreed to by voice vote.
+- 2022-03-03 — Amendment agreed to by House: On agreeing to the Ruiz amendment (A006) Agreed to by the Yeas and Nays: 425 - 0 (Roll no. 55).
+- 2022-03-03 — Amendment agreed to by House: On agreeing to the Ryan amendment (A007) Agreed to by the Yeas and Nays: 348 - 78 (Roll no. 56).
+- 2022-03-03 — Considered as unfinished business. (consideration: CR H1279-1284)
+- 2022-03-03 — DEBATE - Pursuant to the provisions of H. Res. 950, the House proceeded with 10 minutes of debate on the Ross amendment No. 20.
+- 2022-03-03 — DEBATE - Pursuant to the provisions of H. Res. 950, the House proceeded with 10 minutes of debate on the Ruiz amendment No. 22.
+- 2022-03-03 — DEBATE - Pursuant to the provisions of H. Res. 950, the House proceeded with 10 minutes of debate on the Ryan amendment No. 23.
+- 2022-03-03 — House amendment agreed to: On agreeing to the Ross amendment (A005) Agreed to by voice vote.
+- 2022-03-03 — House amendment agreed to: On agreeing to the Ruiz amendment (A006) Agreed to by the Yeas and Nays: 425 - 0 (Roll no. 55).
+- 2022-03-03 — House amendment agreed to: On agreeing to the Ryan amendment (A007) Agreed to by the Yeas and Nays: 348 - 78 (Roll no. 56).
+- 2022-03-03 — House amendment offered
+- 2022-03-03 — House amendment offered
+- 2022-03-03 — House amendment offered
+- 2022-03-03 — House amendment offered/reported by: Amendment (A005) offered by Ms. Ross.(consideration: CR H1279; text: CR H1279)
+- 2022-03-03 — House amendment offered/reported by: Amendment (A006) offered by Mr. Ruiz.(consideration: CR H1279-1280, H1282; text: CR H1279-1280)
+- 2022-03-03 — House amendment offered/reported by: Amendment (A007) offered by Mr. Ryan.(consideration: CR H1280-1281, H1283; text: CR H1280-1281)
+- 2022-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-03 — On agreeing to the Ross amendment (A005) Agreed to by voice vote.
+- 2022-03-03 — On agreeing to the Ruiz amendment (A006) Agreed to by the Yeas and Nays: 425 - 0 (Roll no. 55).
+- 2022-03-03 — On agreeing to the Ryan amendment (A007) Agreed to by the Yeas and Nays: 348 - 78 (Roll no. 56).
+- 2022-03-03 — On passage Passed by the Yeas and Nays: 256 - 174 (Roll no. 57).
+- 2022-03-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ruiz amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Takano demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ryan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Takano demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 256 - 174 (Roll no. 57).
+- 2022-03-03 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 3967.
+- 2022-03-03 — Received in the Senate.
+- 2022-03-03 — Roll call votes on amendments in House
+- 2022-03-03 — Roll call votes on amendments in House
+- 2022-03-03 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2022-03-03 — The previous question was ordered on the amendment (A006) pursuant to the rule.
+- 2022-03-03 — The previous question was ordered on the amendment (A007) pursuant to the rule.
+- 2022-03-03 — The previous question was ordered pursuant to the rule.
