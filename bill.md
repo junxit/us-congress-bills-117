@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6922
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6922
+
+> To continue the temporary waiver of interest on State unemployment loans during the pandemic to provide additional relief, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Continued Waiver of Interest on State Unemployment Loans during the Pandemic Act”.
+
+## § 2. Extension of interest-free loans
+
+- **(a)** *In general* Section 1202(b)(10)(A) of the Social Security Act (42 U.S.C. 1322(b)(10)(A)) is amended by striking “September 6, 2021” and inserting “September 30, 2022”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as if included in the enactment of the Families First Coronavirus Response Act (Public Law 116–127).
