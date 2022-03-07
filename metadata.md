@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4877
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4877
@@ -16,9 +16,20 @@ One Stop Shop for Small Business Compliance Act of 2021
 
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Cosponsors (1)
+## Cosponsors (12)
 
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Carson, Andre [D-IN-7] (C001072)
 
 ## Committees (1)
 
@@ -29,3 +40,8 @@ One Stop Shop for Small Business Compliance Act of 2021
 - 2021-07-30 — Introduced in House
 - 2021-07-30 — Introduced in House
 - 2021-07-30 — Referred to the House Committee on Small Business.
+- 2022-02-03 — Committee Consideration and Mark-up Session Held.
+- 2022-02-03 — Ordered to be Reported by Voice Vote.
+- 2022-03-07 — Placed on the Union Calendar, Calendar No. 185.
+- 2022-03-07 — Reported by the Committee on Small Business. H. Rept. 117-255.
+- 2022-03-07 — Reported by the Committee on Small Business. H. Rept. 117-255.
