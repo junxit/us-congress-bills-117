@@ -30,7 +30,7 @@ This Act may be cited as the “DHS Basic Training Accreditation Improvement Act
   - **(2)** *Accreditation manager* The term “accreditation manager” means the individual assigned by the component of the Department of Homeland Security to manage accreditation activities for a basic training program.
   - **(3)** *Basic training program* The term “basic training program” means an entry level program of the Department of Homeland Security that is transitional to law enforcement service, provides training on critical competencies and responsibilities, and is typically a requirement for appointment to a law enforcement service job or job series.
   - **(4)** *Reaccreditation* The term “reaccreditation” means the assessment of a basic training program after initial accreditation to ensure the continued compliance with an applicable set of standards.
-  - **(5)** *Relevant congressional committees* The term “relevant congressional committees” means the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+  - **(5)** *Relevant congressional committees* The term “relevant congressional committees” means the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee of the Judiciary of the Senate.
 
 ## § 3. Research and development
 
