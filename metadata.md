@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5615
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5615
@@ -37,3 +37,9 @@ Homeland Security Capabilities Preservation Act
 - 2022-02-01 — Placed on the Union Calendar, Calendar No. 173.
 - 2022-02-01 — Reported by the Committee on Homeland Security. H. Rept. 117-240.
 - 2022-02-01 — Reported by the Committee on Homeland Security. H. Rept. 117-240.
+- 2022-03-07 — Considered under suspension of the rules. (consideration: CR H1307-1308)
+- 2022-03-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5615.
+- 2022-03-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-07 — Mrs. Demings moved to suspend the rules and pass the bill.
+- 2022-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1307-1308)
+- 2022-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1307-1308)
