@@ -1,7 +1,7 @@
 ---
 measure: S. 2089
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
-| — | replace | by striking “and (ii) members” and inserting “(ii) members”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “other than dishonorable, and” and inserting “other than dishonorable, or (iii) described in section 2408(i)(2) of this title”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (i) as subsection (k); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (h) the following new subsections: | the bill names no machine-readable US Code section |

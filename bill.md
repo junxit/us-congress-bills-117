@@ -15,20 +15,33 @@ This Act may be cited as the “Burial Equity for Guards and Reserves Act of 202
 
 ## § 2. Prohibitions on restricting interment of certain individuals in certain State veterans' cemeteries
 
-- **(a)** *Grants* Section 2408 of title 38, United States Code, as amended by the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315), is further amended—
-  - **(1)** in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”; and
-  - **(2)** by adding at the end the following new subsections:
+- **(a)** *Grants* Section 2408 of title 38, United States Code, is amended—
+  - **(1)** in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”;
+  - **(2)** by redesignating subsection (i) as subsection (k); and
+  - **(3)** by inserting after subsection (h) the following new subsections:
     > - **(i)**
     >   - **(1)** The Secretary may not establish a condition for a grant under this section that restricts the ability of a State receiving such a grant to inter in a veterans' cemetery owned by that State any individual described in paragraph (2) solely by reason of the ineligibility of such individual for burial in an open national cemetery under the control of the National Cemetery Administration under section 2402(a) of this title.
     >   - **(2)** An individual described in this paragraph is the following:
-    >     - **(A)** Any member of a reserve component of the Armed Forces whose service was terminated under honorable conditions.
-    >     - **(B)** Any member of the Army National Guard or the Air National Guard whose service was terminated under honorable conditions.
-    >     - **(C)** Any member of the Reserve Officers' Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force.
+    >     - **(A)** Any member of a reserve component of the Armed Forces who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of such a reserve component.
+    >     - **(B)** Any member of the Army National Guard or the Air National Guard who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of the Army National Guard or the Air National Guard.
+    >     - **(C)** Any member of the Reserve Officers' Training Corps of the Army, Navy, or Air Force whose death occurs under conditions other than dishonorable while a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force.
     >     - **(D)** Any spouse of any member described in subparagraphs (A) through (C).
     >     - **(E)** Any minor child or unmarried adult child (as such terms are defined in section 2402(a) of this title) of any member described in subparagraphs (A) through (C).
-    > - **(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery to allow for the interment of individuals described in subsection (i)(2).
+    > - **(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of individuals described in subsection (i)(2) is allowed.
 
 - **(b)** *Prohibition on enforcing certain conditions on grants for State veterans' cemeteries* The Secretary of Veterans Affairs may not enforce a condition on a grant described in subsection (i)(1) of section 2408 of title 38, United States Code, as added by subsection (a), that was established before the date of the enactment of this Act.
-- **(c)** *Plot allowances* Section 2303(b)(1) of title 38, United States Code, is amended—
-  - **(1)** by striking “and (ii) members” and inserting “(ii) members”; and
-  - **(2)** by striking “other than dishonorable, and” and inserting “other than dishonorable, or (iii) described in section 2408(i)(2) of this title”.
+- **(c)** *Plot allowances* Section 2303 of title 38, United States Code, is amended—
+  - **(1)** in subsection (b)—
+    - **(A)** by amending paragraph (1) to read as follows:
+      > - **(1)** the Secretary shall pay to the relevant State, agency, political subdivision, or tribal organization, as the case may be, the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran if the veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that—
+      >   - **(A)** is used solely for the interment of persons who are—
+      >     - **(i)** eligible for burial in a national cemetery;
+      >     - **(ii)** members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable; or
+      >     - **(iii)** described in section 2408(i)(2) of this title; and
+      >   - **(B)** is—
+      >     - **(i)** owned by a State or by an agency or political subdivision of a State; or
+      >     - **(ii)** on trust land owned by, or held in trust for, a tribal organization.
+
+    - **(B)** in paragraph (2), by inserting “tribal organization,” after “of a State,”; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(e)** In this section, the terms tribal organization and trust land have the meanings given those terms in section 3765 of this title.

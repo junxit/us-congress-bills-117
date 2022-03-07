@@ -1,7 +1,7 @@
 ---
 measure: S. 2089
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2089
@@ -35,3 +35,5 @@ Keep Kids Fed Act of 2022
 - 2022-03-01 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2022-03-01 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2022-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.
+- 2022-03-07 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1013; text of amendment in the nature of a substitute: CR S1013)
+- 2022-03-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1013; text of amendment in the nature of a substitute: CR S1013)
