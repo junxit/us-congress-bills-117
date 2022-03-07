@@ -1,7 +1,7 @@
 ---
 measure: S. 658
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 658
@@ -53,3 +53,13 @@ National Cybersecurity Preparedness Consortium Act of 2021
 - 2022-03-07 — Mrs. Demings moved to suspend the rules and pass the bill, as amended.
 - 2022-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 19 (Roll no. 59). (text: CR H1312)
 - 2022-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 19 (Roll no. 59).(text: CR H1312)
+- 2022-03-08 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-04-07 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 658 by Unanimous Consent.(consideration: CR S2083)
+- 2022-04-07 — Senate agreed to the House amendment to S. 658 by Unanimous Consent. (consideration: CR S2083)
+- 2022-04-08 — Message on Senate action sent to the House.
+- 2022-05-03 — Presented to President.
+- 2022-05-03 — Presented to President.
+- 2022-05-12 — Became Public Law No: 117-122.
+- 2022-05-12 — Became Public Law No: 117-122.
+- 2022-05-12 — Signed by President.
+- 2022-05-12 — Signed by President.
