@@ -1,7 +1,7 @@
 ---
 measure: S. 66
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 66
@@ -24,6 +24,10 @@ South Florida Clean Coastal Waters Act of 2021
 
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2022-05-11 — [House 117-2-152](votes/house-117-2-0152.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–7)
+
 ## Actions
 
 - 2021-01-27 — Introduced in Senate
@@ -39,3 +43,17 @@ South Florida Clean Coastal Waters Act of 2021
 - 2022-03-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1066-1067; text: CR S1066-1067)
 - 2022-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1066-1067; text: CR S1066-1067)
 - 2022-03-08 — Received in the House.
+- 2022-05-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-10 — Considered under suspension of the rules. (consideration: CR H4731-4733)
+- 2022-05-10 — DEBATE - The House proceeded with forty minutes of debate on S. 66.
+- 2022-05-10 — Ms. Stevens moved to suspend the rules and pass the bill.
+- 2022-05-11 — Considered as unfinished business. (consideration: CR H4832-4833)
+- 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 7 (Roll no. 152). (text: 05/10/2022 CR H4731-4732)
+- 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 7 (Roll no. 152).
+- 2022-06-09 — Presented to President.
+- 2022-06-09 — Presented to President.
+- 2022-06-16 — Became Public Law No: 117-144.
+- 2022-06-16 — Became Public Law No: 117-144.
+- 2022-06-16 — Signed by President.
+- 2022-06-16 — Signed by President.
