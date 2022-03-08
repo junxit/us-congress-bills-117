@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5616
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5616
@@ -20,10 +20,11 @@ DHS Basic Training Accreditation Improvement Act of 2021
 
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ DHS Basic Training Accreditation Improvement Act of 2021
 - 2022-03-07 — Mrs. Demings moved to suspend the rules and pass the bill, as amended.
 - 2022-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 33 (Roll no. 58). (text: CR H1308-1309)
 - 2022-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 33 (Roll no. 58).(text: CR H1308-1309)
+- 2022-03-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
