@@ -2,7 +2,7 @@
 legis-num: H. RES. 881
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 881
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas it is reported Mr. Akram chose the synagogue because it appeared to be the closest gathering of Jewish people to a Federal prison where he demanded to see a woman who is in custody after being found guilty of two counts of attempted murder, armed assault, using and carrying a firearm, and three counts of assault on United States officers and employees in Afghanistan;
 - Whereas according to the Anti-Defamation League, in 2020 and 2021, there were 8,366 incidents of extremism or antisemitism in the United States;
 - Whereas more than half of the religiously motivated hate crimes reported to the Federal Bureau of Investigation in 2020 were anti-Jewish hate crimes;
-- Whereas Jewish Americans make up about two percent of the country’s population but they make up 55 percent of the country’s anti-religious hate crimes;
+- Whereas Jewish Americans make up about 2 percent of the population of the United States, but crimes against them make up 55 percent of the anti-religious hate crimes in the United States;
 - Whereas, on Sunday, January 16, 2022, President Joe Biden classified this attack as an act of terror and Vice President Kamala Harris affirmed we should combat antisemitism and hate wherever it exists;
 - Whereas the four hostages were held for nearly 11 hours, during that time Rabbi Charlie Cytron-Walker used the skills he learned by attending several security courses hosted by local law enforcement, the Federal Bureau of Investigation, the Anti-Defamation League, and the Secure Community Network;
 - Whereas Good Shepherd Catholic Community church provided support and housed family members of the worshipers held inside the Synagogue during the 11 hour standoff;
