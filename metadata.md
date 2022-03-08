@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5681
@@ -41,3 +41,11 @@ Shadow Wolves Enhancement Act
 - 2022-02-11 — Placed on the Union Calendar, Calendar No. 176.
 - 2022-02-11 — Reported by the Committee on Homeland Security. H. Rept. 117-246.
 - 2022-02-11 — Reported by the Committee on Homeland Security. H. Rept. 117-246.
+- 2022-03-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-07 — Considered under suspension of the rules. (consideration: CR H1310-1312)
+- 2022-03-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5681.
+- 2022-03-07 — Mrs. Demings moved to suspend the rules and pass the bill.
+- 2022-03-08 — Considered as unfinished business. (consideration: CR H1355-1356)
+- 2022-03-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 60). (text: 3/7/2022 CR H1310)
+- 2022-03-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 60).(text: 3/7/2022 CR H1310)
