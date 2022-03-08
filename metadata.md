@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5615
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5615
@@ -21,9 +21,10 @@ Homeland Security Capabilities Preservation Act
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Homeland Security Capabilities Preservation Act
 - 2022-03-07 — Mrs. Demings moved to suspend the rules and pass the bill.
 - 2022-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1307-1308)
 - 2022-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1307-1308)
+- 2022-03-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
