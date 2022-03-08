@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6979
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6979
+
+> To support a review of surcharge policy at the International Monetary Fund.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Onerous Surcharges Act”.
+
+## § 2. United States support for a review of surcharge policy at the International Monetary Fund
+
+The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund (in this section referred to as the “IMF”) to use the vote and the voice of the United States at the IMF to support—
+
+- **(1)** an immediate review by the IMF of the surcharge policies of the IMF; and
+- **(2)** a suspension of the imposition or collection of surcharge payments while the review is underway.
