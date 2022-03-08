@@ -24,6 +24,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That Congress—
 
-- **(1)** condemns violence and the threat of violence against HBCUs, including bomb threats made against several HBCUs on January 5, 2022, January 31, 2022, and February 1, 2022;
-- **(2)** recognizes Black History Month and honors the legacy of HBCUs; and
-- **(3)** reaffirms the commitment of the United States Federal Government to combat violence against HBCU students, faculty, and staff.
+- **(1)** condemns violence and the threat of violence against HBCUs, including bomb threats made against several HBCUs on January 5, 2022, January 31, 2022, and February 1, 2022; and
+- **(2)** reaffirms the commitment of the United States Federal Government to combat violence against HBCU students, faculty, and staff.
