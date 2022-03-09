@@ -2,140 +2,33 @@
 legis-num: H.R. 2471
 congress: 117th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 2471
 
-That the bill from the House of Representatives (H.R. 2471) entitled “An Act to measure the progress of post-disaster recovery and efforts to address corruption, governance, rule of law, and media freedoms in Haiti.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 2471) entitled “An Act to measure the progress of post-disaster recovery and efforts to address corruption, governance, rule of law, and media freedoms in Haiti.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
 
-## § 1. Short title
+## § 1. Short Title
 
-This Act may be cited as the “Haiti Development, Accountability, and Institutional Transparency Initiative Act”.
+This Act may be cited as the “Consolidated Appropriations Act, 2022”.
 
-## § 2. Statement of policy
+## § 2. Table of Contents
 
-It is the policy of the United States to support the sustainable rebuilding and development of Haiti in a manner that—
+## § 3. References
 
-- **(1)** recognizes Haitian independence, self-reliance, and sovereignty;
-- **(2)** promotes efforts that are led by and support the people and Government of Haiti at all levels so that Haitians lead the course of reconstruction and development of Haiti;
-- **(3)** contributes to international efforts to facilitate conditions for broad, inclusive, and sustained political dialogue among the different actors in Haiti to restore democratic legitimacy and institutions in Haiti;
-- **(4)** builds the long-term capacity of the Government of Haiti, civil society, and the private sector to foster economic opportunities in Haiti;
-- **(5)** fosters collaboration between the Haitian diaspora in the United States, including dual citizens of Haiti and the United States, and the Government of Haiti and the business community in Haiti;
-- **(6)** supports anticorruption efforts, promotes press freedom, and addresses human rights concerns, including through the enforcement of sanctions imposed in accordance with the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) on individuals implicated in human rights violations and corruption;
-- **(7)** respects and helps restore the natural resources of Haiti and strengthens community-level resilience to environmental and weather-related impacts;
-- **(8)** promotes political stability through the holding of free, fair, transparent, and timely elections in accordance with democratic principles and the Constitution of Haiti;
-- **(9)** provides timely and comprehensive reporting on the goals and progress of the Government of Haiti and the United States Government, and transparent post-program evaluations and contracting data; and
-- **(10)** promotes the participation of Haitian women and youth in governmental and nongovernmental institutions and in economic development and governance assistance programs funded by the United States.
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
 
-## § 3. Definition of appropriate congressional committees
+## § 4. Explanatory Statement
 
-In this Act, the term appropriate congressional committees means—
+The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about March 9, 2022, and submitted by the chair of the Committee on Appropriations of the House, shall have the same effect with respect to the allocation of funds and implementation of divisions A through L of this Act as if it were a joint explanatory statement of a committee of conference.
 
-- **(1)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
-- **(2)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+## § 5. Statement of appropriations
 
-## § 4. Strengthening human rights and anticorruption efforts in Haiti and holding perpetrators of the La Saline massacre accountable
+The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2022.
 
-- **(a)** *Prioritization by Secretary of State* The Secretary of State shall prioritize the protection of human rights and anticorruption efforts in Haiti through the following methods:
-  - **(1)** Fostering strong relationships with independent civil society groups focused on monitoring corruption and human rights abuses and promoting democracy in Haiti.
-  - **(2)** Supporting the efforts of the Government of Haiti to identify persons involved in human rights violations and significant acts of corruption in Haiti, including public and private sector actors, and hold them accountable for their actions.
-  - **(3)** Addressing concerns of impunity for the alleged perpetrators of and the individuals who organized and planned the massacre in La Saline that took place on November 13, 2018.
-  - **(4)** Urging authorities to continue to investigate attacks in the neighborhoods of La Saline and Bel Air in 2018 and 2019 that left dozens dead in order to bring the perpetrators to justice.
-- **(b)** *Briefing*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall brief the appropriate congressional committees on the events that took place on November 13, 2018, in the neighborhood of La Saline, in Port-au-Prince, Haiti, and the aftermath of those events.
-  - **(2)** *Elements* The briefing required by paragraph (1) shall include the following:
-    - **(A)** An examination of any links between the massacre in La Saline and mass protests that occurred concurrently in Haiti.
-    - **(B)** An analysis of the reports on the massacre in La Saline authored by the United Nations, the European Union, and the Government of Haiti.
-    - **(C)** A detailed description of all known perpetrators of and the individuals who organized and planned the massacre.
-    - **(D)** An overview of efforts of the Government of Haiti to bring the perpetrators of and the individuals who organized and planned the massacre in La Saline to justice and to prevent other similar attacks.
-    - **(E)** An assessment of the ensuing treatment and displacement of the survivors of the massacre in La Saline.
-  - **(3)** *Consultation* In carrying out paragraph (1), the Secretary shall consult with nongovernmental organizations in Haiti and the United States.
+## § 6. Adjustments to compensation
 
-## § 5. Promoting freedom of the press and assembly in Haiti
-
-The Secretary of State shall prioritize the promotion of freedom of the press and freedom of assembly and the protection of journalists in Haiti through the following methods:
-
-- **(1)** Advocating to Haitian authorities for increased protection for journalists and the press and for the freedom to peacefully assemble or protest in Haiti.
-- **(2)** Collaborating with officials of the Government of Haiti and representatives of civil society to increase legal protections for journalists in Haiti.
-- **(3)** Supporting efforts to strengthen transparency in the public and private sectors in Haiti and access to information in Haiti.
-- **(4)** Using United States foreign assistance for programs to strengthen capacity for independent journalists and increase support for investigative journalism in Haiti.
-
-## § 6. Supporting post-earthquake, post-hurricane, and post-COVID–19 recovery and development in Haiti
-
-The Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shall prioritize post-earthquake, post-hurricane, and post-COVID–19 recovery and development efforts in Haiti through the following methods:
-
-- **(1)** Collaborating with the Government of Haiti on a detailed and transparent development plan that includes clear objectives and benchmarks.
-- **(2)** Building the capacity of Haitian-led public, private, and nongovernmental sector institutions in Haiti through post-earthquake and post-hurricane recovery and development planning.
-- **(3)** Assessing the impact of the recovery efforts of the United States and the international community in Haiti since January 2010.
-- **(4)** Supporting disaster resilience and reconstruction efforts.
-- **(5)** Addressing the underlying causes of poverty and inequality.
-- **(6)** Improving access to—
-  - **(A)** health resources;
-  - **(B)** public health technical assistance; and
-  - **(C)** clean water, food, and shelter.
-- **(7)** Assessing the impact of the COVID–19 pandemic on post-disaster recovery efforts and evaluating United States support needed to help with the pandemic response in Haiti.
-- **(8)** Supporting—
-  - **(A)** the export of additional United States-produced COVID–19 vaccine doses to Haiti; and
-  - **(B)** the safe storage, transport, and end-to-end distribution of United States-produced COVID–19 vaccines throughout Haiti, in light of ongoing humanitarian access challenges presented by Haiti’s security environment.
-
-## § 7. Report on developments in Haiti
-
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development (in this section referred to as the “Administrator”) and other relevant agencies and departments, shall submit to the appropriate congressional committees a report on developments in Haiti.
-- **(b)** *Elements* The report required by subsection (a) shall include the following:
-  - **(1)** A strategy for carrying out sections 4(a), 5, and 6, including established baselines, benchmarks, and indicators to measure outcomes and impact.
-  - **(2)** An assessment of major corruption committed among the public and private sectors in Haiti, including identification of any individual or entity that financed corruption activities, and all corruption prosecutions investigated by the judiciary of Haiti since January 2015.
-  - **(3)** An overview of efforts of the Government of Haiti to address corruption, including the Petrocaribe scandal, and corrective measures to strengthen and restore trust in the public institutions of Haiti.
-  - **(4)** A description of efforts of the United States Government to consult and engage with officials of the Government of Haiti and independent civil society groups focused on monitoring corruption and human rights abuses and promoting democracy and press freedom in Haiti since January 2015.
-  - **(5)** A description of the response by the Government of Haiti to civic protests that have taken place since July 2018 and any allegations of human rights abuses, including attacks on journalists.
-  - **(6)** An assessment of United States security assistance to Haiti, including United States support to the Haitian National Police and an assessment of compliance with section 620M of the Foreign Assistance Act of 1961 (22 U.S.C. 2378d) and section 362 of title 10, United States Code (commonly referred to as the “Leahy Laws”).
-  - **(7)** A description of the efforts of the Government of Haiti to support displaced survivors of urban and gang violence.
-  - **(8)** An assessment of United States interagency efforts to counter kidnapping and armed violence in Haiti.
-  - **(9)** An assessment of the impact of presidential decrees on the health of Haiti's democratic institutions and the safeguarding of human rights, including decrees relating to—
-    - **(A)** reducing the authority of the Superior Court of Accounts and Administrative Litigation;
-    - **(B)** promulgating an antiterrorism law;
-    - **(C)** establishing the National Intelligence Agency; and
-    - **(D)** retiring and subsequently appointing judges to the Supreme Court of Haiti.
-  - **(10)** A review of the alleged coup against President Moïse on February 7, 2021, and subsequent arrest and jailings of alleged perpetrators.
-  - **(11)** An analysis, conducted in collaboration with the Government of Haiti, of efforts to support development goals in Haiti since January 2015, including steps taken—
-    - **(A)** to strengthen institutions at the national and local levels; and
-    - **(B)** to strengthen democratic governance at the national and local levels.
-  - **(12)** An analysis of the effectiveness and sustainability of development projects financed by the United States, including the Caracol Industrial Park and supporting infrastructure.
-  - **(13)** A description of procurement from Haitian small- and medium-sized businesses and nongovernmental organizations by the Government of the United States and the Government of Haiti for development and humanitarian activities, dis­ag­gre­gated by year since 2015, and a description of efforts to increase local procurement, including food aid.
-  - **(14)** A description of United States efforts since January 2015 to assist the Haitian people in their pursuits for free, fair, and timely democratic elections.
-  - **(15)** An overview of United States efforts to cooperate with diplomatic partners in Latin America, the Caribbean, Canada, and Europe to engage with political leaders, civil society, the private sector, and underrepresented populations in Haiti to support a stable environment conducive to holding free and fair elections.
-  - **(16)** Quantitative and qualitative indicators to assess progress and benchmarks for United States initiatives focused on sustainable development in Haiti, including democracy assistance, economic revitalization, natural disaster recovery, pandemic response, resilience, energy and infrastructure, health, and food security.
-- **(c)** *Consultation* In preparing the report required by subsection (a), the Secretary and the Administrator shall consult, as appropriate, with—
-  - **(1)** nongovernmental organizations and civil society groups in Haiti and the United States; and
-  - **(2)** the Government of Haiti.
-- **(d)** *Public availability* The Secretary shall make the report required by subsection (a) publicly available on the website of the Department of State.
-
-## § 8. Report on the assassination of President Jovenel Moïse
-
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Attorney General, the Secretary of Homeland Security, and the Director of the Central Intelligence Agency, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the July 7, 2021, assassination of former President of Haiti Jovenel Moïse.
-- **(b)** *Updated report* Not later than 180 days after the submission of the report required by subsection (a), the Secretary of State, in coordination with the Attorney General, the Secretary of Homeland Security, and the Director of the Central Intelligence Agency, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives an updated version of the report that includes any significant developments related to the assassination of former President of Haiti Jovenel Moïse.
-- **(c)** *Elements* The report required by subsection (a) and the report required by subsection (b) shall each include the following elements:
-  - **(1)** A detailed description of the events leading up to the assassination of former President Jovenel Moïse and the subsequent investigation of the assassination, including a description and identification of key dates and the names of foreign persons related to the assassination and the investigation of the assassination.
-  - **(2)** A description of United States support for the efforts of Haitian authorities to investigate the assassination of former President Jovenel Moïse.
-  - **(3)** An assessment of the independence and capacity of Haitian authorities to investigate the assassination of former President Jovenel Moïse, including analysis of significant advances and deficiencies of the investigation.
-  - **(4)** A description of any threats and acts of intimidation against Haitian law enforcement and judicial authorities involved in the investigation of the assassination of former President Jovenel Moïse, including the identification of foreign persons involved in such threats and acts of intimidation.
-  - **(5)** A description of any efforts to interfere in or undermine the independence and integrity of the investigation of the assassination of former President Jovenel Moïse.
-  - **(6)** A description of whether any foreign persons previously employed by or who served as a contractor or informant for the United States Government were involved in the assassination of former President Jovenel Moïse.
-  - **(7)** A description and the identification of foreign persons involved in the execution and planning of the assassination of former President Jovenel Moïse and an assessment of the intentions of such foreign persons.
-- **(d)** *Form of report* The report required by subsection (a) and the updated report required by subsection (b) shall each be submitted in an unclassified form, but each may include a classified annex.
-- **(e)** *Publication* The Secretary of State shall post on the public website of the Department of State—
-  - **(1)** the unclassified version of the report required by subsection (a) not later than 15 days after the date on which the report is submitted under such subsection; and
-  - **(2)** the unclassified version of the report required by subsection (b) not later than 15 days after the date on which the report is submitted under such subsection.
-- **(f)** *Briefing requirement* The Secretary of State, in coordination with the Attorney General, the Secretary of Homeland Security, and the Director of the Central Intelligence Agency, shall brief the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on—
-  - **(1)** the contents of the report required by subsection (a) not later than 15 days after the date on which the report is submitted under such subsection; and
-  - **(2)** the contents of the report required by subsection (b) not later than 15 days after the date on which the report is submitted under such subsection.
-
-## § 9. Repeal
-
-The Assessing Progress in Haiti Act of 2014 (22 U.S.C. 2151 note; Public Law 113–162) is repealed.
-
-## § 10. Termination
-
-This Act shall terminate on December 31, 2025.
+Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2022.
