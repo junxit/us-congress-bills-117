@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5001
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,5 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “2023” each place it appears and inserting “2024”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1), by striking “$179,000,000” and inserting “$184,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2) by striking “$30,000,000” and inserting “$25,000,000”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (h), by striking “, at least 1 year prior to such expiration,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (j), by striking “2021” each place it appears and inserting “2022”. | the bill names no machine-readable US Code section |
