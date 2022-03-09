@@ -1,7 +1,7 @@
 ---
 measure: H.R. 268
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,16 @@ to guess them.
 
 ### 16 U.S.C. § 410nnn-1
 
-> in subparagraph (B), by striking “map” and inserting “maps”.
+> in the heading, by striking “map” and inserting “maps”; and
+
+| | |
+|---|---|
+| Removed | `map` |
+| Inserted | `maps` |
+
+### 16 U.S.C. § 410nnn-1
+
+> by striking “map” and inserting “maps”.
 
 | | |
 |---|---|
@@ -51,6 +60,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 410nnn-1` | replace | by striking “consist of approximately” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 410nnn-1` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 410nnn-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410nnn-1` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
