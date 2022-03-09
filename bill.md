@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7044
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7044
+
+> To prohibit importation of nickel and copper from the Russian Federation.
+
+## § 1. Short title
+
+This Act may be cited as the “Not a Red Cent from Russia Act”.
+
+## § 2. Prohibition on importation of nickel and copper from the Russian Federation
+
+Effective on the date of the enactment of this Act, the President shall prohibit importation into the United States of nickel and copper from the Russian Federation.
