@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 1908
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1908
 
-> To authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Ka‘ena Point National Heritage Area, and for other purposes.
+> To authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Ka’ena Point National Heritage Area, and for other purposes.
 
 ## § 1. Short title
 
