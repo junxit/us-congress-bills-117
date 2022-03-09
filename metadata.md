@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2899
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2899
@@ -29,3 +29,11 @@ To direct the Secretary of the Interior to conduct a study to assess the suitabi
 - 2021-04-28 — Introduced in House
 - 2021-04-28 — Introduced in House
 - 2021-04-28 — Referred to the House Committee on Natural Resources.
+- 2021-06-14 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-06-15 — Subcommittee Hearings Held.
+- 2021-07-14 — Committee Consideration and Mark-up Session Held.
+- 2021-07-14 — Ordered to be Reported by Unanimous Consent.
+- 2021-07-14 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-03-09 — Placed on the Union Calendar, Calendar No. 194.
+- 2022-03-09 — Reported by the Committee on Natural Resources. H. Rept. 117-265.
+- 2022-03-09 — Reported by the Committee on Natural Resources. H. Rept. 117-265.
