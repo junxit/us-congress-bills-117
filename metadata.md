@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6968
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6968
@@ -67,3 +67,17 @@ Ending Importation of Russian Oil Act
 - 2022-03-08 — Referred to the Committee on Ways and Means, and in addition to the Committees on Foreign Affairs, the Judiciary, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-03-08 — Referred to the Committee on Ways and Means, and in addition to the Committees on Foreign Affairs, the Judiciary, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-03-08 — Referred to the Committee on Ways and Means, and in addition to the Committees on Foreign Affairs, the Judiciary, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-03-09 — Considered as unfinished business. (consideration: CR H1418-1419)
+- 2022-03-09 — Considered under the provisions of rule H. Res. 973. (consideration: CR H1394-1405)
+- 2022-03-09 — DEBATE - The House proceeded with one hour of debate on H.R. 6968.
+- 2022-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-09 — Mr. Brady moved to recommit to the Committee on Ways and Means. (text: CR H1402-1405)
+- 2022-03-09 — On motion to recommit Failed by the Yeas and Nays: 208 - 223 (Roll no. 69).
+- 2022-03-09 — On passage Passed by the Yeas and Nays: 414 - 17 (Roll no. 70). (text: CR H1394-1396)
+- 2022-03-09 — POSTPONED PROCEEDINGS - At the conclusion of the debate on H.R. 6968 the Chair put the question on the motion to recommit and by voice vote announced the nays had prevailed. Mr. Brady demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 414 - 17 (Roll no. 70).
+- 2022-03-09 — Rule provides for consideration of H.J. Res. 75, H.R. 6968 and H.R. 7007. The rule provides for consideration of the Senate amendment to H.R. 2471. The rule provides for one of hour of general debate each on the Senate amendment to H.R. 2471, H.J. Res. 75, H.R. 6968, and H.R. 7007. The rule provides for division of the question in relation to the Senate amendment to H.R. 2471.
+- 2022-03-09 — Rules Committee Resolution H. Res. 972 Reported to House. Rule provides for consideration of H.J. Res. 75 and H.R. 6968. The rule provides for consideration of the Senate amendment to H.R. 2471. The rule provides for one hour of general debate each on the Senate amendment to H.R. 2471, H.J. Res. 75 and H.R. 6968. The rule provides for division of the question in relation to the Senate amendment to H.R. 2471.
+- 2022-03-09 — Rules Committee Resolution H. Res. 973 Reported to House. Rule provides for consideration of H.J. Res. 75, H.R. 6968 and H.R. 7007. The rule provides for consideration of the Senate amendment to H.R. 2471. The rule provides for one of hour of general debate each on the Senate amendment to H.R. 2471, H.J. Res. 75, H.R. 6968, and H.R. 7007. The rule provides for division of the question in relation to the Senate amendment to H.R. 2471.
+- 2022-03-09 — Sponsor introductory remarks on measure. (CR H1387)
+- 2022-03-09 — The previous question was ordered pursuant to the rule.
