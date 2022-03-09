@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

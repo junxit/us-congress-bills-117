@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2471
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2471
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2471) entitled “An Act to measure the progress of post-disaster recovery and efforts to address corruption, governance, rule of law, and media freedoms in Haiti.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> Making consolidated appropriations for the fiscal year ending September 30, 2022, and for providing emergency assistance for the situation in Ukraine, and for other purposes.
 
 ## § 1. Short Title
 
