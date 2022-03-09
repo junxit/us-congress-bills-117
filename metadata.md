@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2471
@@ -16,7 +16,7 @@ Consolidated Appropriations Act, 2022
 
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 
-## Cosponsors (7)
+## Cosponsors (22)
 
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
@@ -25,6 +25,21 @@ Consolidated Appropriations Act, 2022
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Gimenez, Carlos A. [R-FL-26] (G000593)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (2)
 
@@ -78,3 +93,66 @@ Consolidated Appropriations Act, 2022
 - 2022-03-09 — Table motion to reconsider first divided question Agreed to by the Yeas and Nays: 270 - 157 (Roll no. 67).
 - 2022-03-09 — Table motion to reconsider second divided question Agreed to by the Yeas and Nays: 249 - 180 (Roll no. 68). (text: CR H1405-1407)
 - 2022-03-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the first portion of the divided question.
+- 2022-03-10 — Amendment SA 4983 proposed by Senator Kennedy. (consideration: CR S1109; text: CR S1109) To provide emergency assistance for disaster response and recovery, and for other expenses, directly related to Hurricanes Laura, Delta, and Ida and to provide assistance for the Port Infrastructure Development Program.
+- 2022-03-10 — Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.
+- 2022-03-10 — Amendment SA 4984 proposed by Senator Schumer. (consideration: CR S1089; text: CR S1089) To add an effective date.
+- 2022-03-10 — Amendment SA 4985 proposed by Senator Schumer to Amendment SA 4984. (consideration: CR S1089; text: CR S1089) To modify the effective date.
+- 2022-03-10 — Amendment SA 4986 proposed by Senator Schumer. (consideration: CR S1089; text: CR S1089) To add an effective date.
+- 2022-03-10 — Amendment SA 4987 proposed by Senator Schumer to Amendment SA 4986 (the instructions of the motion to refer). (consideration: CR S1089; text: CR S1089) To modify the effective date.
+- 2022-03-10 — Amendment SA 4988 proposed by Senator Schumer to Amendment SA 4987. (consideration: CR S1089; text: CR S1089) To modify the effective date.
+- 2022-03-10 — Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.
+- 2022-03-10 — Amendment SA 4989 proposed by Senator Lee. (consideration: CR S1106; text: CR S1106) To prohibit funding for COVID-19 vaccine mandates.
+- 2022-03-10 — Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.
+- 2022-03-10 — Amendment SA 4990 proposed by Senator Braun. (consideration: CR S1107; text: CR S1107) To prohibit funds from being used for earmarks.
+- 2022-03-10 — Measure laid before Senate by unanimous consent. (consideration: CR S1088-1089, S1110-1111)
+- 2022-03-10 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2022-03-10 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2471 made in Senate. (CR S1089)
+- 2022-03-10 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2471 with an amendment (SA 4984) made in Senate. (CR S1089)
+- 2022-03-10 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2471 with an amendment (SA 4984) withdrawn in Senate.
+- 2022-03-10 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2471 with instructions to report back forthwith with the following amendment (SA 4986) made in Senate. (CR S1089)
+- 2022-03-10 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2471 with instructions to report back forthwith with the following amendment (SA 4986) withdrawn in Senate.
+- 2022-03-10 — Proposed amendment SA 4984 withdrawn in Senate.
+- 2022-03-10 — Proposed amendment SA 4986 withdrawn in Senate.
+- 2022-03-10 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate Amendment to H.R. 2471, under the order of 3/10/2022, having achieved 60 votes in the affirmative by Yea-Nay Vote. 68 - 31. Record Vote Number: 78.
+- 2022-03-10 — Roll call votes on amendments in Senate: Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.
+- 2022-03-10 — Roll call votes on amendments in Senate: Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.
+- 2022-03-10 — Roll call votes on amendments in Senate: Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.
+- 2022-03-10 — SA 4985 fell when SA 4984 withdrawn.
+- 2022-03-10 — SA 4987 fell when SA 4986 (the instructions of the motion to refer) was withdrawn.
+- 2022-03-10 — SA 4988 fell when when SA 4987 fell.
+- 2022-03-10 — Senate agreed to the House amendment to the Senate Amendment to H.R. 2471, under the order of 3/10/2022, having achieved 60 votes in the affirmative by Yea-Nay Vote. 68 - 31. Record Vote Number: 78.
+- 2022-03-10 — Senate amendment not agreed to: Amendment SA 4983, under the order of 3/10/2022, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 77.
+- 2022-03-10 — Senate amendment not agreed to: Amendment SA 4989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 75.
+- 2022-03-10 — Senate amendment not agreed to: Amendment SA 4990 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4983 proposed by Senator Kennedy.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4984 proposed by Senator Schumer.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4985 proposed by Senator Schumer to Amendment SA 4984.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4986 proposed by Senator Schumer.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4987 proposed by Senator Schumer to Amendment SA 4986 (the instructions of the motion to refer).
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4988 proposed by Senator Schumer to Amendment SA 4987.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4989 proposed by Senator Lee.
+- 2022-03-10 — Senate amendment proposed (on the floor): Amendment SA 4990 proposed by Senator Braun.
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-10 — Senate amendment submitted
+- 2022-03-11 — Message on Senate action sent to the House.
+- 2022-03-14 — Presented to President.
+- 2022-03-14 — Presented to President.
+- 2022-03-15 — Became Public Law No: 117-103.
+- 2022-03-15 — Became Public Law No: 117-103.
+- 2022-03-15 — Signed by President.
+- 2022-03-15 — Signed by President.
