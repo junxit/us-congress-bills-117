@@ -1,7 +1,7 @@
 ---
 measure: S. 497
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 497
@@ -37,3 +37,7 @@ American Fisheries Advisory Committee Act
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
+- 2022-02-08 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-68.
+- 2022-02-08 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-68.
+- 2022-03-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1130-1131; text: CR S1130-1131)
+- 2022-03-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
