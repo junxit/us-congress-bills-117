@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5681
@@ -49,3 +49,4 @@ Shadow Wolves Enhancement Act
 - 2022-03-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-03-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 60). (text: 3/7/2022 CR H1310)
 - 2022-03-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 60).(text: 3/7/2022 CR H1310)
+- 2022-03-10 — Received in the Senate, read twice.
