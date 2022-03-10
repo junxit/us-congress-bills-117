@@ -1,7 +1,7 @@
 ---
 measure: S. 2687
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2687
@@ -29,3 +29,8 @@ Strengthening Oversight for Veterans Act of 2021
 
 - 2021-08-10 — Introduced in Senate
 - 2021-08-10 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-11-17 — Committee on Veterans' Affairs. Hearings held.
+- 2021-12-15 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2022-03-10 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2022-03-10 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2022-03-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
