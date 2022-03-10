@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5681
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5681
@@ -50,3 +50,12 @@ Shadow Wolves Enhancement Act
 - 2022-03-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 60). (text: 3/7/2022 CR H1310)
 - 2022-03-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 60).(text: 3/7/2022 CR H1310)
 - 2022-03-10 — Received in the Senate, read twice.
+- 2022-04-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1987)
+- 2022-04-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1987)
+- 2022-04-06 — Message on Senate action sent to the House.
+- 2022-04-07 — Presented to President.
+- 2022-04-07 — Presented to President.
+- 2022-04-19 — Became Public Law No: 117-113.
+- 2022-04-19 — Became Public Law No: 117-113.
+- 2022-04-19 — Signed by President.
+- 2022-04-19 — Signed by President.
