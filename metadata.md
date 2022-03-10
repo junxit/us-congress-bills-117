@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 70
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 70
@@ -133,9 +133,10 @@ Condemning threats of violence against historically Black colleges and universit
 - Rep. Letlow, Julia [R-LA-5] (L000595)
 - Rep. Malinowski, Tom [D-NJ-7] (M001203)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -150,3 +151,4 @@ Condemning threats of violence against historically Black colleges and universit
 - 2022-03-08 — Mr. Scott (VA) moved to suspend the rules and agree to the resolution, as amended.
 - 2022-03-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 61). (text: CR H1346)
 - 2022-03-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 61).(text: CR H1346)
+- 2022-03-10 — Received in the Senate and referred to the Committee on the Judiciary.
