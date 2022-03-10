@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

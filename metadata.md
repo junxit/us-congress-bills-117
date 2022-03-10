@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 75
@@ -36,3 +36,10 @@ Extension of Continuing Appropriations Act, 2022
 - 2022-03-09 — The previous question was ordered pursuant to the rule.
 - 2022-03-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.
 - 2022-03-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S1130)
+- 2022-03-11 — Became Public Law No: 117-95.
+- 2022-03-11 — Became Public Law No: 117-95.
+- 2022-03-11 — Message on Senate action sent to the House.
+- 2022-03-11 — Presented to President.
+- 2022-03-11 — Presented to President.
+- 2022-03-11 — Signed by President.
+- 2022-03-11 — Signed by President.
