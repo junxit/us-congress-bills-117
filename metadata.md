@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 75
@@ -34,3 +34,5 @@ Extension of Continuing Appropriations Act, 2022
 - 2022-03-09 — Rules Committee Resolution H. Res. 972 Reported to House. Rule provides for consideration of H.J. Res. 75 and H.R. 6968. The rule provides for consideration of the Senate amendment to H.R. 2471. The rule provides for one hour of general debate each on the Senate amendment to H.R. 2471, H.J. Res. 75 and H.R. 6968. The rule provides for division of the question in relation to the Senate amendment to H.R. 2471.
 - 2022-03-09 — Rules Committee Resolution H. Res. 973 Reported to House. Rule provides for consideration of H.J. Res. 75, H.R. 6968 and H.R. 7007. The rule provides for consideration of the Senate amendment to H.R. 2471. The rule provides for one of hour of general debate each on the Senate amendment to H.R. 2471, H.J. Res. 75, H.R. 6968, and H.R. 7007. The rule provides for division of the question in relation to the Senate amendment to H.R. 2471.
 - 2022-03-09 — The previous question was ordered pursuant to the rule.
+- 2022-03-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.
+- 2022-03-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S1130)
