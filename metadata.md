@@ -1,7 +1,7 @@
 ---
 measure: S. 497
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 497
@@ -41,3 +41,20 @@ American Fisheries Advisory Committee Act
 - 2022-02-08 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-68.
 - 2022-03-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1130-1131; text: CR S1130-1131)
 - 2022-03-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-03-11 — Held at the desk.
+- 2022-03-11 — Message on Senate action sent to the House.
+- 2022-03-11 — Received in the House.
+- 2022-04-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-04-26 — Considered as unfinished business. (consideration: CR H4489)
+- 2022-04-26 — Considered under suspension of the rules. (consideration: CR H4486-4488)
+- 2022-04-26 — DEBATE - The House proceeded with forty minutes of debate on S. 497.
+- 2022-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 11 (Roll no. 126). (text: CR H4486-4487)
+- 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 11 (Roll no. 126).
+- 2022-05-03 — Presented to President.
+- 2022-05-03 — Presented to President.
+- 2022-05-12 — Became Public Law No: 117-121.
+- 2022-05-12 — Became Public Law No: 117-121.
+- 2022-05-12 — Signed by President.
+- 2022-05-12 — Signed by President.
