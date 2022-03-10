@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 79
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 79
@@ -28,3 +28,4 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2022-03-09 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2471.
 - 2022-03-10 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1130)
 - 2022-03-10 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1130)
+- 2022-03-11 — Message on Senate action sent to the House.
