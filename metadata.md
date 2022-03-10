@@ -1,7 +1,7 @@
 ---
 measure: S. 2533
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2533
@@ -16,11 +16,13 @@ Making Advances in Mammography and Medical Options for Veterans Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -30,3 +32,8 @@ Making Advances in Mammography and Medical Options for Veterans Act
 
 - 2021-07-29 — Introduced in Senate
 - 2021-07-29 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-10-20 — Committee on Veterans' Affairs. Hearings held.
+- 2021-12-15 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2022-03-10 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
+- 2022-03-10 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
+- 2022-03-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.
