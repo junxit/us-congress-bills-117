@@ -1,7 +1,7 @@
 ---
 measure: H.R. 963
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 2 executed, 8 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,30 @@ to guess them.
 
 ### 26 U.S.C. § 62
 
-> in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
+> in section 2 by striking “chapter 4” and inserting “chapter 4 or 5”;
 
 | | |
 |---|---|
-| Removed | `Chapter 1; residual application` |
-| Inserted | `Application` |
+| Removed | `chapter 4` |
+| Inserted | `chapter 4 or 5` |
 
 ### 26 U.S.C. § 62
 
-> in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
+> in section 208 by striking “chapter 4” and inserting “chapter 4 or 5”; and
 
 | | |
 |---|---|
-| Removed | `Chapter 1; residual application` |
-| Inserted | `Application` |
+| Removed | `chapter 4` |
+| Inserted | `chapter 4 or 5` |
+
+### 26 U.S.C. § 62
+
+> in section 307 by striking “chapter 4” and inserting “chapter 4 or 5”.
+
+| | |
+|---|---|
+| Removed | `chapter 4` |
+| Inserted | `chapter 4 or 5` |
 
 ## Stated, not applied
 
@@ -53,9 +62,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `26 U.S.C. § 62` | add-at-end | Title 9 of the United States Code is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | replace | in section 1 by striking “of seamen,” and all that follows through “interstate commerce” and inserting in its place “of individuals, regardless of whether such individuals are designated as employees or independent contractors for other … | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 62` | insert | in section 2 by inserting “or as otherwise provided in chapter 4” before the period at the end; | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 62` | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | replace | The table of sections of chapter 2 of title 9, United States Code, is amended by striking the item relating to section 208 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | replace | The table of sections of chapter 3 of title 9, United States Code, is amended by striking the item relating to section 307 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | add-at-end | The table of chapters of title 9, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 62` | add-at-end | The table of chapters of title 9 of the United States Code is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

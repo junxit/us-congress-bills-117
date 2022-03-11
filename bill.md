@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 963
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Forced Arbitration Injustice Repeal Act” or the “FAIR Act”.
+This Act may be cited as the “Forced Arbitration Injustice Repeal Act of 2022” or the “FAIR Act of 2022”.
 
 ## § 2. Purposes
 
@@ -26,17 +26,10 @@ The purposes of this Act are to—
 - **(b)** *Technical and conforming amendments*
   - **(1)** *In general* Title 9 of the United States Code is amended—
     - **(A)** in section 1 by striking “of seamen,” and all that follows through “interstate commerce” and inserting in its place “of individuals, regardless of whether such individuals are designated as employees or independent contractors for other purposes”;
-    - **(B)** in section 2 by inserting “or as otherwise provided in chapter 4” before the period at the end;
-    - **(C)** in section 208—
-      - **(i)** in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
-      - **(ii)** by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”; and
-    - **(D)** in section 307—
-      - **(i)** in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
-      - **(ii)** by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”.
-  - **(2)** *Table of sections*
-    - **(A)** *Chapter 2* The table of sections of chapter 2 of title 9, United States Code, is amended by striking the item relating to section 208 and inserting the following:
-    - **(B)** *Chapter 3* The table of sections of chapter 3 of title 9, United States Code, is amended by striking the item relating to section 307 and inserting the following:
-  - **(3)** *Table of chapters* The table of chapters of title 9, United States Code, is amended by adding at the end the following:
+    - **(B)** in section 2 by striking “chapter 4” and inserting “chapter 4 or 5”;
+    - **(C)** in section 208 by striking “chapter 4” and inserting “chapter 4 or 5”; and
+    - **(D)** in section 307 by striking “chapter 4” and inserting “chapter 4 or 5”.
+  - **(2)** *Table of chapters* The table of chapters of title 9 of the United States Code is amended by adding at the end the following:
 
 ## § 4. Effective date
 
