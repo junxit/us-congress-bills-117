@@ -1,7 +1,7 @@
 ---
 measure: H.R. 963
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 963
@@ -16,7 +16,7 @@ FAIR Act of 2022
 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 
-## Cosponsors (155)
+## Cosponsors (203)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
@@ -173,6 +173,54 @@ FAIR Act of 2022
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
 
 ## Committees (1)
 
@@ -183,3 +231,10 @@ FAIR Act of 2022
 - 2021-02-11 — Introduced in House
 - 2021-02-11 — Introduced in House
 - 2021-02-11 — Referred to the House Committee on the Judiciary.
+- 2021-04-23 — Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.
+- 2021-11-03 — Committee Consideration and Mark-up Session Held.
+- 2021-11-03 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 14.
+- 2021-11-03 — Subcommittee on Antitrust, Commercial, and Administrative Law Discharged.
+- 2022-03-11 — Placed on the Union Calendar, Calendar No. 198.
+- 2022-03-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-270.
+- 2022-03-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-270.
