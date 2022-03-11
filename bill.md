@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 7066
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7066
+
+> To require United States financial institutions to ensure entities and persons owned or controlled by the institution comply with financial sanctions on the Russian Federation and the Republic of Belarus to the same extent as the institution itself, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Russia and Belarus Financial Sanctions Act”.
+
+## § 2. Requirements
+
+- **(a)** *In general* A United States financial institution shall take all actions necessary and available to cause any entity or person owned or controlled by the institution to comply with any provision of law described in subsection (b) to the same extent as required of a United States financial institution.
+- **(b)** *Provision of law described* A provision of law described in this subsection is any prohibition or limitation described in statute, regulation or order applicable to a United States financial institution concerning the Russian Federation or the Republic of Belarus, involving—
+  - **(1)** the conduct of transactions;
+  - **(2)** the acceptance of deposits;
+  - **(3)** the making, granting, transferring, holding, or brokering of loans or credits;
+  - **(4)** the purchasing or selling of foreign exchange, securities, commodity futures, or options;
+  - **(5)** the procuring of purchasers and sellers described under paragraph (4) as principal or agent; or
+  - **(6)** any other good or service provided by a United States financial institution.
+- **(c)** *Penalty* A United States financial institution that violates subsection (a) shall be subject to the penalties described in the applicable statute, regulation or order applicable to a United States financial Institution.
+- **(d)** *United States financial institution defined* In this section, the term “United States financial institution” has the meaning given the term “U.S. financial institution” under section 561.309 of title 31, Code of Federal Regulations.
