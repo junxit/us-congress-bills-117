@@ -1,7 +1,7 @@
 ---
 measure: H.R. 268
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 268
@@ -33,3 +33,9 @@ To provide for the boundary of the Palo Alto Battlefield National Historic Park 
 - 2022-03-09 — Placed on the Union Calendar, Calendar No. 197.
 - 2022-03-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-268.
 - 2022-03-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-268.
+- 2022-03-15 — Considered under suspension of the rules. (consideration: CR H3720-3722)
+- 2022-03-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 268.
+- 2022-03-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2022-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3720)
+- 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
