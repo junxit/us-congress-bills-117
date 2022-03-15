@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1908
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1908
@@ -38,3 +38,9 @@ Ka‘ena Point National Heritage Area Act
 - 2022-03-09 — Placed on the Union Calendar, Calendar No. 196.
 - 2022-03-09 — Reported by the Committee on Natural Resources. H. Rept. 117-267.
 - 2022-03-09 — Reported by the Committee on Natural Resources. H. Rept. 117-267.
+- 2022-03-15 — Considered under suspension of the rules. (consideration: CR H3722-3723)
+- 2022-03-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1908.
+- 2022-03-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-03-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3722)
+- 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
