@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5001
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5001
@@ -42,3 +42,11 @@ Upper Colorado and San Juan River Basins Recovery Act
 - 2022-03-09 — Placed on the Union Calendar, Calendar No. 192.
 - 2022-03-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-263.
 - 2022-03-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-263.
+- 2022-03-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-15 — Considered as unfinished business. (consideration: CR H3734-3735)
+- 2022-03-15 — Considered under suspension of the rules. (consideration: CR H3731-3732)
+- 2022-03-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5001.
+- 2022-03-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2022-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 27 (Roll no. 72). (text: CR H3731)
+- 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 27 (Roll no. 72).
