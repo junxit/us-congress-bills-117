@@ -1,7 +1,7 @@
 ---
 measure: S. 2614
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `All fees hereafter` |
 | Inserted | `Except as otherwise provided in this section, all fees hereafter` |
 
+### 28 U.S.C. § 1913
+
+> in subsection (b), in the second sentence, by striking “All” and inserting “Except as otherwise provided in this section, all”.
+
+| | |
+|---|---|
+| Removed | `All` |
+| Inserted | `Except as otherwise provided in this section, all` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -45,3 +54,6 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 1913` | insert | in subsection (a), by inserting “The Judicial Conference shall prescribe a schedule of additional fees for any person other than a government agency who accrues such fees for access in an amount of $25,000 or greater in any quarter. All … | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 1913` | replace | Section 303 of the Judiciary Appropriations Act, 1992 (title III of Public Law 102–140; 105 Stat. 807) (28 U.S.C. 1913 note) is amended by striking subsections (a) and (b), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1913` | add-at-end | Section 303 of the Judiciary Appropriations Act, 1992 (title III of Public Law 102–140; 105 Stat. 807) (28 U.S.C. 1913 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1913` | insert | in subsection (a), by inserting “The Judicial Conference shall prescribe, after providing public notice and an opportunity for public comment, a schedule of additional fees for any person other than a government agency that accrues such … | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 1913` | replace | Section 303 of the Judiciary Appropriations Act, 1992 (title III of Public Law 102–140; 105 Stat. 807) (28 U.S.C. 1913 note) is amended by striking subsections (a) and (b), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1913` | add-at-end | Section 303 of the Judiciary Appropriations Act, 1992 (title III of Public Law 102–140; 105 Stat. 807) (28 U.S.C. 1913 note), as amended by section 2(f)(2)(A) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
