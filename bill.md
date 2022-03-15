@@ -1,7 +1,7 @@
 ---
 legis-num: S. 648
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -34,3 +34,12 @@ Section 10807 of the Omnibus Public Land Management Act of 2009 (Public Law 111�
     > - **(B)** *Interest payments* There is authorized to be appropriated to the Secretary for deposit into the Maintenance Fund the interest that would have accrued during the period beginning on October 1, 2009, and ending on January 25, 2016, on balances held in the Maintenance Fund, as calculated using the applicable rate for interest-bearing obligations of the United States if the amounts in the Maintenance Fund had been invested in accordance with—
     >   - **(i)** the Act of April 1, 1880 (21 Stat. 70, chapter 41; 25 U.S.C. 161); and
     >   - **(ii)** the first section of the Act of June 24, 1938 (52 Stat. 1037, chapter 648; 25 U.S.C. 162a).
+
+## § 2. Authorization of payment of adjusted interest on Development Fund
+
+-  Section 10807(b)(3) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1409) is amended—
+  - **(1)** by striking “There is” and inserting the following:
+    > - **(A)** *In general* There is
+
+  - **(2)** by adding at the end the following:
+    > - **(B)** *Adjusted interest payments* There is authorized to be appropriated to the Secretary for deposit into the Development Fund $5,124,902.12.

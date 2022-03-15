@@ -1,7 +1,7 @@
 ---
 measure: S. 648
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 648
@@ -22,7 +22,16 @@ Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservatio
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
+## Committees (1)
+
+- Senate — Indian Affairs Committee
+
 ## Actions
 
 - 2021-03-09 — Introduced in Senate
 - 2021-03-09 — Read twice and referred to the Committee on Indian Affairs.
+- 2021-10-06 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-138.
+- 2021-11-17 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-03-15 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment. With written report No. 117-93.
+- 2022-03-15 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment. With written report No. 117-93.
+- 2022-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.
