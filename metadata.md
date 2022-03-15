@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1931
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1931
@@ -16,7 +16,7 @@ Japanese American Confinement Education ActNorman Y. Mineta Japanese American Co
 
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
 
-## Cosponsors (28)
+## Cosponsors (70)
 
 - Rep. Takano, Mark [D-CA-41] (T000472)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
@@ -46,6 +46,48 @@ Japanese American Confinement Education ActNorman Y. Mineta Japanese American Co
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Bera, Ami [D-CA-7] (B001287)
 - Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Cheney, Liz [R-WY-At Large] (C001109)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Bass, Karen [D-CA-37] (B001270)
 
 ## Committees (1)
 
@@ -56,3 +98,17 @@ Japanese American Confinement Education ActNorman Y. Mineta Japanese American Co
 - 2021-03-16 — Introduced in House
 - 2021-03-16 — Introduced in House
 - 2021-03-16 — Referred to the House Committee on Natural Resources.
+- 2021-05-17 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-05-27 — Subcommittee Hearings Held.
+- 2021-11-17 — Committee Consideration and Mark-up Session Held.
+- 2021-11-17 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2021-11-17 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-03-15 — Considered under suspension of the rules. (consideration: CR H3723-3725)
+- 2022-03-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1931.
+- 2022-03-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2022-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3723-3724)
+- 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-03-15 — Placed on the Union Calendar, Calendar No. 199.
+- 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-271.
+- 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-271.

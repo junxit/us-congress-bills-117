@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1931
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 1 of Public Law 109–441 (120 Stat. 3288) is amended by striking subsection (e). | the bill names no machine-readable US Code section |
-| — | replace | by striking “are authorized” and inserting “is authorized”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “for fiscal year 2021 and each fiscal year thereafter” after “this Act”. | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 2, by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(a) In general.—” before “There are authorized”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$38,000,000” and inserting “$80,000,000”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

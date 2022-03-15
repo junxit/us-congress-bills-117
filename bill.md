@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1931
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,43 +13,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Japanese American Confinement Education Act”.
 
-## § 2. Definitions
+## § 2. Japanese American confinement education grants
 
-In this Act:
+Public Law 109–441 (120 Stat. 3290) is amended—
 
-- **(1)** *Japanese American museum* The term Japanese American museum means a museum located in the United States established to promote the understanding and appreciation of the ethnic and cultural diversity of the United States by illustrating the Japanese American experience throughout the history of the United States.
-- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(1)** in section 2, by adding at the end the following:
+  > - **(4)** *Japanese American confinement education grants* The term Japanese American Confinement Education Grants means competitive grants, awarded through the Japanese American Confinement Sites Program, for Japanese American organizations to educate individuals, including through the use of digital resources, in the United States on the historical importance of Japanese American confinement during World War II, so that present and future generations may learn from Japanese American confinement and the commitment of the United States to equal justice under the law.
+  > - **(5)** *Japanese American organization* The term Japanese American organization means a private nonprofit organization within the United States established to promote the understanding and appreciation of the ethnic and cultural diversity of the United States by illustrating the Japanese American experience throughout the history of the United States.
 
-## § 3. Competitive grants for Japanese American confinement education
-
-- **(a)** *In general* The Secretary shall establish a program to award competitive grants to a Japanese American museum to educate individuals in the United States on the historical importance of Japanese American confinement during World War II so that present and future generations may learn from Japanese American confinement and the commitment of the United States to equal justice under the law.
-- **(b)** *Use of funds* A grant awarded under subsection (a)—
-  - **(1)** shall be used—
-    - **(A)** for the research and education relating to the Japanese American confinement in World War II; and
-    - **(B)** for the disbursement of accurate, relevant, and accessible resources to promote understanding about how and why the Japanese American confinement in World War II happened, which—
-      - **(i)** shall include digital resources; and
-      - **(ii)** may include other types of resources, including print resources and exhibitions; and
-  - **(2)** shall not be used at a Japanese American museum that does not provide—
-    - **(A)** free admission to individuals who were placed within a Japanese American confinement camp; and
-    - **(B)** dedicated free admission hours for the general public not less than once per month.
-- **(c)** *Application* To be eligible to receive a grant under this section, a Japanese American museum shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
-- **(d)** *Deadline for award* Not later than 120 days after the date on which the Secretary receives an application from a Japanese American museum for a grant that is approved by the Secretary under this section, the Secretary shall award a grant to the Japanese American museum.
-- **(e)** *Priority considerations* In awarding a grant under this section, the Secretary shall give priority using the following considerations:
-  - **(1)** The needs of the Japanese American museum.
-  - **(2)** The proximity of the project for which the grant funds will be used to cities with populations that include not less than 100,000 Japanese Americans, as certified by the most recent census.
-  - **(3)** The ability and commitment of the Japanese American museum to use grant funds—
-    - **(A)** to educate future generations of individuals in the United States; and
-    - **(B)** to locate Japanese American confinement survivors.
-  - **(4)** The existing relationship the Japanese American museum has with Japanese American cultural and advocacy organizations.
-- **(f)** *Report* Not later than 90 days after the end of each fiscal year for which a Japanese American museum obligates or expends amounts made available under a grant under this section, the Japanese American museum shall submit to the Secretary and the appropriate committees of Congress a report that—
-  - **(1)** specifies the amount of grant funds obligated or expended for the preceding fiscal year;
-  - **(2)** specifies any purposes for which the funds were obligated or expended; and
-  - **(3)** includes any other information that the Secretary may require to more effectively administer the grant program.
-- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this Act $2,000,000 for each of fiscal years 2022 through 2026.
-
-## § 4. Preservation of historic confinement sites
-
-- **(a)** *Sunset* Section 1 of Public Law 109–441 (120 Stat. 3288) is amended by striking subsection (e).
-- **(b)** *Authorization of appropriations* Section 4 of Public Law 109–441 (120 Stat. 3290) is amended, in the first sentence—
-  - **(1)** by striking “are authorized” and inserting “is authorized”; and
-  - **(2)** by inserting “for fiscal year 2021 and each fiscal year thereafter” after “this Act”.
+- **(2)** in section 4—
+  - **(A)** by inserting “(a) In general.—” before “There are authorized”;
+  - **(B)** by striking “$38,000,000” and inserting “$80,000,000”; and
+  - **(C)** by adding at the end the following:
+    > - **(b)** *Japanese American Confinement Education Grants*
+    >   - **(1)** *In general* Of the amounts made available under this section, not more than $10,000,000 shall be awarded as Japanese American Confinement Education Grants to Japanese American organizations. Such competitive grants shall be in an amount not less than $750,000 and the Secretary shall give priority consideration to Japanese American organizations with fewer than 100 employees.
+    >   - **(2)** *Matching requirement*
+    >     - **(A)** *Fifty percent* Except as provided in subparagraph (B), for funds awarded under this subsection, the Secretary shall require a 50 percent match with non-Federal assets from non-Federal sources, which may include cash or durable goods and materials fairly valued, as determined by the Secretary.
+    >     - **(B)** *Waiver* The Secretary may waive all or part of the matching requirement under subparagraph (A), if the Secretary determines that—
+    >       - **(i)** no reasonable means are available through which an applicant can meet the matching requirement; and
+    >       - **(ii)** the probable benefit of the project funded outweighs the public interest in such matching requirement.
