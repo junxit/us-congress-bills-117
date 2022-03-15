@@ -1,7 +1,7 @@
 ---
 legis-num: S. 623
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -30,8 +30,9 @@ This Act may be cited as the “Sunshine Protection Act of 2021”.
   - **(2)** *State exemption* Such section is further amended by—
     - **(A)** redesignating subsection (b) as subsection (c); and
     - **(B)** inserting after subsection (a) the following:
-      > - **(b)** *Standard time for certain States and areas* The standard time for a State that has exempted itself from the provisions of section 3(a) of the Uniform Time Act of 1966 (15 U.S.C. 260a(a)), as in effect on the day before the date of the enactment of the Sunshine Protection Act of 2021, pursuant to such section or an area of a State that has exempted such area from such provisions pursuant to such section shall be, as such State considers appropriate—
+      > - **(b)** *Standard time for certain states and areas* The standard time for a State that has exempted itself from the provisions of section 3(a) of the Uniform Time Act of 1966 (15 U.S.C. 260a(a)), as in effect on the day before November 5, 2023, pursuant to such section or an area of a State that has exempted such area from such provisions pursuant to such section shall be, as such State considers appropriate—
       >   - **(1)** the standard time for such State or area, as the case may be, pursuant to subsection (a) of this section; or
-      >   - **(2)** the standard time for such State or area, as the case may be, pursuant to subsection (a) of this section as it was in effect on the day before the date of the enactment of the Sunshine Protection Act of 2021.
+      >   - **(2)** the standard time for such State or area, as the case may be, pursuant to subsection (a) of this section as it was in effect on the day before November 5, 2023.
 
   - **(3)** *Conforming amendment* Such section is further amended, in the second sentence, by striking “Except as provided in section 3(a) of the Uniform Time Act of 1966 (15 U.S.C. 260a(a)), the” and inserting “Except as provided in subsection (b),”.
+- **(c)** *Effective date* This Act and the amendments made by this Act take effect on November 5, 2023.
