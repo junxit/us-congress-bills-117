@@ -11,83 +11,76 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Modernizing Access to Our Public Land Act”.
+This Act may be cited as the “Modernizing Access to our Public Land Act”, or “MAPLand Act”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Federal land* The term “Federal land” means any land managed by a Federal land management agency.
-- **(2)** *Federal land management agency* The term “Federal land management agency” means—
+- **(1)** *Federal land* The term Federal land means any land or water managed by a Federal land management agency.
+- **(2)** *Federal land management agency* The term Federal land management agency means—
   - **(A)** the Bureau of Reclamation;
   - **(B)** the National Park Service;
   - **(C)** the Bureau of Land Management;
   - **(D)** the United States Fish and Wildlife Service;
   - **(E)** the Forest Service; and
   - **(F)** the Corps of Engineers.
-- **(3)** *Road or trail* The term “road or trail” means a road or trail designated by 1 or more of the Secretaries for public use.
-- **(4)** *Secretaries* The term “Secretaries” means—
-  - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service;
+- **(3)** *Secretaries* The term Secretaries means—
+  - **(A)** the Secretary of Agriculture;
   - **(B)** the Secretary of the Interior; and
   - **(C)** the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works.
 
 ## § 3. Interagency data standardization
 
-Not later than 30 months after the date of enactment of this Act, the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of data—
+Not later than 30 months after the date of enactment of this Act, the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of outdoor recreation data relating to Federal land.
 
-- **(1)** relating to public outdoor recreational use on Federal land; and
-- **(2)** used to depict locations at which recreation uses are available to the public.
+## § 4. Data consolidation, digitization, and publication
 
-## § 4. Digitization and publication of easements
-
-- **(a)** *In general* Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and publish on the applicable agency website geographic information system mapping data that specifies, with respect to the relevant Secretary, all Federal interests in private land, including easements (other than flowage easements), reservations, and rights-of-way—
-  - **(1)** to which the Federal Government does not have a fee title interest; and
-  - **(2)** that may be used to provide public recreational access to the Federal land.
-- **(b)** *Public comment* The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsection (a).
-
-## § 5. Data consolidation and publication of route and area data for public recreational use
-
-- **(a)** *In general* Beginning not later than 5 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall make publicly available on the website of the Department of the Interior, the Forest Service, and the Corps of Engineers, as applicable, geographic information system data with respect to the following:
-  - **(1)** Status information with respect to whether roads and trails on the Federal land are open or closed.
-  - **(2)** The dates on which roads and trails on the Federal land are seasonally closed.
-  - **(3)** The classes of vehicles and types of recreational uses that are allowed on each segment of roads and trails on the Federal land, including the permissibility of—
-    - **(A)** off-highway vehicles;
-    - **(B)** motorcycles;
-    - **(C)** nonmotorized bicycles;
-    - **(D)** electric bicycles;
-    - **(E)** passenger vehicles;
-    - **(F)** nonmechanized transportation; and
-    - **(G)** over-snow vehicles.
-  - **(4)** The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is permanently restricted or prohibited on the Federal land.
+- **(a)** *In general* Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available on the website of the Department of the Interior, the Forest Service, and the Corps of Engineers, as applicable, geographic information system mapping data that includes, with respect to the Federal land administered by the relevant Secretary—
+  - **(1)** all Federal interests, including easements, reservations, and rights-of-way, in private land—
+    - **(A)** to which the Federal Government does not have a fee title interest; and
+    - **(B)** that are open to public recreational use;
+  - **(2)** status information with respect to whether Roads and Trails on the Federal land are open or closed;
+  - **(3)** the dates on which Roads and Trails on the Federal land are seasonally opened and closed;
+  - **(4)** the types of vehicles and recreational uses that are allowed on each segment of the Roads and Trails on the Federal land, including the permissibility of—
+    - **(A)** non-mechanized transportation;
+    - **(B)** off-highway vehicles;
+    - **(C)** motorcycles;
+    - **(D)** non-motorized bicycles;
+    - **(E)** electric bicycles; and
+    - **(F)** passing vehicles;
+  - **(5)** the boundaries of areas where hunting, weapon discharge, or recreational shooting is regulated or closed on the Federal land; and
+  - **(6)** the boundaries of any portion of a body of water on the Federal land that—
+    - **(A)** is closed to entry;
+    - **(B)** is closed to watercraft;
+    - **(C)** has horsepower limitations or gasoline motor restrictions for watercraft; or
+    - **(D)** nothing in this subpart requires the Federal land management agency to collect and compile information on watercraft restrictions imposed by other entities.
 - **(b)** *Updates*
-  - **(1)** *In general* The Secretaries, to the maximum extent practicable, shall update the data described in subsection (a) not less frequently than twice per year.
-  - **(2)** *Public comment* The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsection (a).
-- **(c)** *Effect* Geographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
+  - **(1)** *In general* The Secretaries shall biennially update the data described in subsection (a).
+  - **(2)** *Public evaluation of accuracy* The Secretaries shall include on each website referred to in subsection (a), as applicable, a point of contact to allow members of the public to confirm or dispute the accuracy of the information described in that subsection.
+  - **(3)** *Effect* Geographic information system data made publicly available pursuant to this section should not disclose information regarding the location, character, and ownership of historic resources and the nature and location of archaeological resources, consistent with the National Historic Preservation Act, (54 U.S.C. 307103), and the Archaeological Resources Protection Act, (16 U.S.C. 470hh).
 
-## § 6. Cooperation and coordination
+## § 5. Reports
 
-- **(a)** *Third-party providers* The Secretaries may enter into an agreement with a third party to carry out any provision of this Act.
-- **(b)** *US geological survey* The Secretaries may work with the Director of the United States Geological Survey to collect, aggregate, digitize, standardize, or publish data on behalf of the Secretary of the Interior to meet the requirements of this Act.
+On an annual basis—
 
-## § 7. Reports
+- **(1)** each of the Secretary of the Interior and the Secretary of Agriculture shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report on the progress made by the Secretary of the Interior and the Secretary of Agriculture, respectively, toward meeting the requirements of section 5; and
+- **(2)** the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress made by the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, toward meeting the requirements of section 5.
 
-Not later than 1 year after the date of enactment of this Act and annually thereafter through March 30, 2031, the Secretaries shall submit a report on the progress made by the Secretaries with respect to meeting the requirements of this Act to—
-
-- **(1)** the Committee on Energy and Natural Resources of the Senate;
-- **(2)** the Committee on Environment and Public Works of the Senate;
-- **(3)** the Committee on Natural Resources of the House of Representatives; and
-- **(4)** the Committee on Transportation and Infrastructure of the House of Representatives.
-
-## § 8. Authorization of appropriations
+## § 6. Authorization of appropriations
 
 There are authorized to be appropriated—
 
 - **(1)** to the Secretary of the Interior to carry out this Act—
   - **(A)** $2,500,000 for fiscal year 2022; and
-  - **(B)** $5,500,000 for each of fiscal years 2023 through 2025;
+  - **(B)** $5,500,000 for each of fiscal years 2023, 2024, and 2025;
 - **(2)** to the Secretary of Agriculture to carry out this Act—
   - **(A)** $2,500,000 for fiscal year 2022; and
-  - **(B)** $5,500,000 for each of fiscal years 2023 through 2025; and
+  - **(B)** $5,500,000 for each of fiscal years 2023, 2024, and 2025; and
 - **(3)** to the Secretary of the Army to carry out this Act—
   - **(A)** $1,500,000 for fiscal year 2022; and
-  - **(B)** $2,500,000 for each of fiscal years 2023 through 2025.
+  - **(B)** $2,500,000 for each of fiscal years 2023 and 2024.
+
+## § 7. Savings
+
+Under this Act, the Secretaries shall not publicize or make available information on unauthorized or illegal Roads and Trails.
