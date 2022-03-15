@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 37
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 37
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Paul, Rand [R-KY] (P000603)
 
-## Cosponsors (15)
+## Cosponsors (21)
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Braun, Mike [R-IN] (B001310)
@@ -33,6 +33,12 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Barrasso, John [R-WY] (B001261)
 
 ## Committees (1)
 
@@ -42,3 +48,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2022-02-10 — Introduced in Senate
 - 2022-02-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-03-15 — Passed Senate without amendment by Yea-Nay Vote. 57 - 40. Record Vote Number: 81. (text: CR S1171)
+- 2022-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 57 - 40. Record Vote Number: 81.(text: CR S1171)
+- 2022-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305. (consideration: CR S1171-1175)
+- 2022-03-15 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-03-15 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
