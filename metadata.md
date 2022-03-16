@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5001
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5001
@@ -25,9 +25,10 @@ Upper Colorado and San Juan River Basins Recovery Act
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Upper Colorado and San Juan River Basins Recovery Act
 - 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 27 (Roll no. 72). (text: CR H3731)
 - 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 27 (Roll no. 72).
+- 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
