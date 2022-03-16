@@ -1,7 +1,7 @@
 ---
 legis-num: S. 664
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -22,7 +22,7 @@ Section 719 of title 31, United States Code, is amended by adding at the end the
 >     - **(A)** the term “covered bill or joint resolution” means a bill or joint resolution of a public character reported by any committee of Congress (including the Committee on Appropriations and the Committee on the Budget of either House);
 >     - **(B)** the term “Director” means the Director of the Congressional Budget Office;
 >     - **(C)** the term “existing duplicative or overlapping feature” means an element of the Federal Government previously identified as an area of duplication, overlap, or fragmentation in a GAO duplication and overlap report;
->     - **(D)** the term GAO duplication and overlap report means each annual report prepared by the Comptroller General under section 21 of Public Law 111–139 (31 U.S.C. 712 note); and
+>     - **(D)** the term GAO duplication and overlap report means each annual report prepared by the Comptroller General under section 21 of Public Law 111–139the Joint Resolution entitled “Joint Resolution increasing the statutory limit on the public debt”, approved February 12, 2010 (31 U.S.C. 712 note); and
 >     - **(E)** the term “new duplicative or overlapping feature” means a new Federal program, office, or initiative created under a covered bill or joint resolution that would duplicate or overlap with an existing duplicative or overlapping feature.
 >   - **(2)** For each covered bill or joint resolution—
 >     - **(A)** the Comptroller General shall, to the extent practicable—
@@ -39,5 +39,5 @@ Section 719 of title 31, United States Code, is amended by adding at the end the
 
 The amendment made by this Act shall take effect on the earlier of—
 
-- **(1)** the date that is 60 days after the date on which the Director of the Office of Management and Budget next, in accordance with section 1122(a) of title 31, United States Code, updates the information made available on the website required under that section; or
+- **(1)** the date that is 60 days after the date on which the Director of the Office of Management and Budget next, in accordance with section 1122(a)(2)(D)(i) of title 31, United States Code, updates the information made available on the single website required under that section; or
 - **(2)** the date on which a new Congress begins after the date that is 1 year after the date of enactment of this Act.
