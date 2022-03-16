@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1908
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1908
@@ -21,9 +21,10 @@ Ka‘ena Point National Heritage Area Act
 - Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Ka‘ena Point National Heritage Area Act
 - 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2022-03-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3722)
 - 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
