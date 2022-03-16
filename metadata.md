@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2899
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2899
@@ -20,9 +20,10 @@ To direct the Secretary of the Interior to conduct a study to assess the suitabi
 
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To direct the Secretary of the Interior to conduct a study to assess the suitabi
 - 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2022-03-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3725)
 - 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
