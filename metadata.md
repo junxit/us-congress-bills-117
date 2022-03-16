@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1931
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1931
@@ -89,9 +89,10 @@ Japanese American Confinement Education ActNorman Y. Mineta Japanese American Co
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -112,3 +113,4 @@ Japanese American Confinement Education ActNorman Y. Mineta Japanese American Co
 - 2022-03-15 — Placed on the Union Calendar, Calendar No. 199.
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-271.
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-271.
+- 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
