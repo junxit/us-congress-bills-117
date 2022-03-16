@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3113
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3113
@@ -67,3 +67,4 @@ Modernizing Access to Our Public Land Act
 - 2022-03-15 — Placed on the Union Calendar, Calendar No. 200.
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-272, Part I.
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-272, Part I.
+- 2022-03-16 — Received in the Senate, read twice.
