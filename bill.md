@@ -2,14 +2,14 @@
 legis-num: H. RES. 979
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 979
 
 > Providing for consideration of the bill (H.R. 963) to amend title 9 of the United States Code with respect to arbitration, and providing for consideration of the bill (H.R. 2116) to prohibit discrimination based on an individual’s texture or style of hair.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 963) to amend title 9 of the United States Code with respect to arbitration. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-34 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; (2) the further amendment printed in the report of the Committee on Rules accompanying this resolution, if offered by the Member designated in the report, which shall be in order without intervention of any point of order, shall be considered as read, shall be separately debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, and shall not be subject to a demand for division of the question; and (3) one motion to recommit.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 963) to amend title 9 of the United States Code with respect to arbitration. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–34 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; (2) the further amendment printed in the report of the Committee on Rules accompanying this resolution, if offered by the Member designated in the report, which shall be in order without intervention of any point of order, shall be considered as read, shall be separately debatable for the time specified in the report equally divided and controlled by the proponent and an opponent, and shall not be subject to a demand for division of the question; and (3) one motion to recommit.
 
 ## § 2.
 
