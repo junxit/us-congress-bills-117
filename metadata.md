@@ -1,7 +1,7 @@
 ---
 measure: H.R. 268
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 268
@@ -16,9 +16,10 @@ To provide for the boundary of the Palo Alto Battlefield National Historic Park 
 
 - Rep. Vela, Filemon [D-TX-34] (V000132)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To provide for the boundary of the Palo Alto Battlefield National Historic Park 
 - 2022-03-15 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3720)
 - 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

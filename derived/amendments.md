@@ -1,7 +1,7 @@
 ---
 measure: H.R. 268
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
