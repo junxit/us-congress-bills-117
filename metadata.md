@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3113
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3113
@@ -68,3 +68,12 @@ Modernizing Access to Our Public Land Act
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-272, Part I.
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-272, Part I.
 - 2022-03-16 — Received in the Senate, read twice.
+- 2022-04-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2054)
+- 2022-04-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2054)
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-04-26 — Presented to President.
+- 2022-04-26 — Presented to President.
+- 2022-04-29 — Became Public Law No: 117-114.
+- 2022-04-29 — Became Public Law No: 117-114.
+- 2022-04-29 — Signed by President.
+- 2022-04-29 — Signed by President.
