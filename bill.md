@@ -2,45 +2,42 @@
 legis-num: H. RES. 888
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 888
 
-> Expressing the hope for justice for the victims of Bloody Sunday, one of the most tragic of days during the Troubles, on its 50th anniversary as well as acknowledging the progress made in fostering peace in Northern Ireland and on the island of Ireland in recent decades.
+> A resolution condemning the killing of 14 individuals and violence on Bloody Sunday, one of the most tragic of days during the Troubles 50 years ago, and calling on all parties to take meaningful steps toward peace and reconciliation.
 
 ## Preamble
 
-- Whereas, on January 30, 1972, 26 unarmed civilians were shot by British soldiers during a protest that began peacefully in Derry, resulting in the death of 14 individuals in a massacre now known as Bloody Sunday;
-- Whereas, as a result of the soldiers’ unjustifiable use of force, the individuals known as John “Jackie” Duddy, Patrick “Paddy” Doherty, Bernard “Barney” McGuigan, Hugh Gilmour, Kevin McElhinney, Michael Kelly, John Young, William Nash, Michael McDaid, James Wray, Gerald Donaghy, Gerard McKinney, William McKinney, and John Johnston tragically lost their lives;
-- Whereas Bloody Sunday represents one of the most significant and deadly injustices to take place during the Troubles, and exacerbated the conflict in Northern Ireland;
+- Whereas on January 30, 1972, 26 unarmed civilians were shot by British soldiers during a protest that began peacefully in Derry, resulting in the death of 14 individuals in a massacre now known as Bloody Sunday;
+- Whereas as a result of the soldiers’ unjustifiable use of force, the individuals known as John “Jackie” Duddy, Patrick “Paddy” Doherty, Bernard “Barney” McGuigan, Hugh Gilmour, Kevin McElhinney, Michael Kelly, John Young, William Nash, Michael McDaid, James Wray, Gerald Donaghy, Gerard McKinney, William McKinney, and John Johnston tragically lost their lives;
+- Whereas Bloody Sunday was one of the most significant and deadly injustices to take place during the Troubles, and exacerbated the conflict in Northern Ireland;
 - Whereas none of those shot by British Army soldiers posed a threat of causing death or serious injury, or were doing anything else that could justify their shooting;
 - Whereas the families of the victims of Bloody Sunday were denied for decades an honest and comprehensive assessment of the events that took place on Bloody Sunday;
-- Whereas, in 1998, after campaigns from the families of those injured and killed on Bloody Sunday, a second inquiry was established by the British Government;
-- Whereas this second Bloody Sunday Inquiry found without doubt that the shootings that took place on Bloody Sunday were the result of wrongful actions taken by British soldiers;
-- Whereas, on June 15, 2010, then-Prime Minister David Cameron while addressing the House of Commons apologized on behalf of the British Government saying that the events that took place on Bloody Sunday were “unjustified”, “unjustifiable”, and “wrong”;
-- Whereas despite these findings and acknowledgment made by the British Government, none of the individuals involved in the unlawful use of force that led to the murder of 14 innocent civilians on Bloody Sunday have been held accountable;
-- Whereas the lack of accountability and justice provided to those who perished from this unlawful use of force on Bloody Sunday is both shameful and dangerous;
-- Whereas accountability and justice for the victims of Bloody Sunday would represent one step toward addressing Northern Ireland’s legacy of violence and promoting reconciliation;
-- Whereas an environment which fosters accountability and justice for the events of the Troubles must be established by British authorities and subsequently maintained;
-- Whereas the full implementation of the Good Friday Agreement with a devolved government in Northern Ireland as well as healthy “north-south” and “east-west” relations provide appropriate, useful, and productive avenues for discussion and negotiation to prevent violence, uphold peace, maintain stability, and promote the interests of all parties and communities involved;
-- Whereas the avoidance of a hard border on the island of Ireland is essential for maintaining the peace, resulting from the Good Friday Agreement;
-- Whereas the full implementation of the Northern Ireland Protocol as agreed upon as part of the United Kingdom’s withdrawal from the European Union will help preserve peace and stability on the island of Ireland;
-- Whereas in the political and societal realm, intercommunity discussion is essential for maintaining peace;
-- Whereas it is in the interest of all parties in Northern Ireland to foster intercommunity relations as well as integration in civil and societal structures to promote communication and mutual understanding; and
-- Whereas, on January 30, 2022, peace activists, concerned individuals, and the descendants of those lost to this violence will gather in Derry to mourn, to stand in solidarity with victims’ families in their search for justice, and recommit themselves to the peace process established by the Good Friday Agreement: Now, therefore, be it
+- Whereas in 1998, after campaigns from the families of those injured and killed on Bloody Sunday, a second inquiry was established by the Government of the United Kingdom;
+- Whereas this second Bloody Sunday Inquiry found that the shootings that took place on Bloody Sunday were the result of wrongful actions taken by British soldiers;
+- Whereas on June 15, 2010, then-Prime Minister David Cameron while addressing the House of Commons apologized on behalf of the Government of the United Kingdom saying that the events that took place on Bloody Sunday were “unjustified”, “unjustifiable”, and “wrong”;
+- Whereas despite these findings and acknowledgment made by the Government of the United Kingdom, none of the individuals involved in the unlawful use of force that led to the murder of 14 innocent civilians on Bloody Sunday have been held accountable;
+- Whereas the lack of accountability and justice provided to those who perished from the unlawful use of force on Bloody Sunday both erodes trust and is dangerous;
+- Whereas accountability and justice for the victims of Bloody Sunday, along with all victims of the Troubles, would represent a step towards addressing Northern Ireland’s legacy of violence and promote reconciliation;
+- Whereas an environment which fosters accountability and justice for the events of the Troubles must be established by the Government of the United Kingdom and maintained;
+- Whereas the full implementation of the Good Friday Agreement with a devolved government in Northern Ireland as well as healthy “north-south” and “east-west” relations provides appropriate, useful, and productive avenues for discussion and negotiation to prevent violence, uphold peace, maintain stability, and promote the interests of all parties and communities involved;
+- Whereas the avoidance of a hard border on the island of Ireland is essential for maintaining the peace resulting from the Good Friday Agreement;
+- Whereas the full implementation of the Northern Ireland Protocol as agreed upon as part of the United Kingdom’s withdrawal from the European Union will assist in preserving peace and stability on the island of Ireland;
+- Whereas while progress has been made in fostering peace in Northern Ireland and on the island of Ireland in recent decades, it is in the interest of all parties to foster intercommunity discussions and relations as well as integration in civil and societal structures to promote communication and mutual understanding; and
+- Whereas on January 30, 2022, peace activists, concerned individuals, and the descendants of those lost to this violence gathered in Derry to mourn, to stand in solidarity with victims’ families in their search for justice, and re-commit themselves to the peace process established by the Good Friday Agreement: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** expresses support on the 50th anniversary of Bloody Sunday for the 14 individuals killed and those injured on Bloody Sunday;
-- **(2)** calls on all parties to take meaningful steps toward peace and reconciliation;
-- **(3)** supports dialogue and negotiation between all parties to maintain peace;
-- **(4)** supports the full implementation of the Good Friday Agreement to ensure peace and stability on the island of Ireland;
-- **(5)** recognizes the strong governmental, societal, and cultural relationships between the peoples of the United States, the United Kingdom, and the Republic of Ireland;
-- **(6)** supports justice for the victims of Bloody Sunday and the Troubles as well as the families of those victims;
-- **(7)** calls upon British authorities to charge individuals who committed unjustifiable crimes on Bloody Sunday;
-- **(8)** opposes any attempt by the British Government to implement amnesty or statute of limitation laws that would end or inhibit investigations and prosecutions of crimes committed during the Troubles, including on Bloody Sunday;
-- **(9)** calls upon the involved parties to fully implement the Northern Ireland Protocol as agreed upon in the interest of maintaining peace and stability on the island of Ireland;
-- **(10)** calls on the people of Northern Ireland to foster further integration across communities and break down cultural, religious, and societal barriers that remain;
-- **(11)** supports the devolved government of Northern Ireland and recognizes the devolved government as a successful outcome and tenet of the Good Friday Agreement; and
-- **(12)** urges the European Union, including the Republic of Ireland, and the United Kingdom to act in good faith with regard to negotiations around Brexit and implementation of the Northern Ireland Protocol.
+- **(1)** condemns the violence and killing of 14 individuals on Bloody Sunday 50 years ago and supports justice for the victims and their families;
+- **(2)** calls on all parties to take meaningful steps toward peace and reconciliation and to ensure justice for victims of the Bloody Sunday massacre as well as all those affected by the Troubles by supporting dialogue and negotiation between all parties;
+- **(3)** urges the full implementation of the Good Friday Agreement to ensure peace and stability on the island of Ireland;
+- **(4)** recognizes the findings of the Bloody Sunday Inquiry, also known as the Saville Inquiry, and calls upon the Government of the United Kingdom to support prosecutions of individuals who committed unjustifiable crimes on Bloody Sunday based on the evidence collected;
+- **(5)** opposes any proposal by the Government of the United Kingdom to implement amnesty or statute of limitation laws that would end or inhibit investigations and prosecutions of crimes committed during the Troubles, including on Bloody Sunday;
+- **(6)** calls upon the involved parties to facilitate the implementation of the Northern Ireland Protocol in the interest of maintaining peace and stability on the island of Ireland;
+- **(7)** urges the European Union, including the Republic of Ireland, and the United Kingdom to act in good faith with regard to negotiations around Brexit and implementation of the Northern Ireland Protocol;
+- **(8)** calls on the people of Northern Ireland to foster further integration across communities and break down cultural, religious, and societal barriers that remain;
+- **(9)** supports the devolved government of Northern Ireland and recognizes the devolved government as a successful outcome and tenet of the Good Friday Agreement; and
+- **(10)** supports the continued strong governmental, societal, and cultural relationships between the peoples of the United States, the United Kingdom, and the Republic of Ireland.
