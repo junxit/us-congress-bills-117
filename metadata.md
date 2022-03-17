@@ -1,7 +1,7 @@
 ---
 measure: S. 120
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 120
@@ -16,13 +16,14 @@ Safe Connections Act of 2021
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -36,3 +37,12 @@ Safe Connections Act of 2021
 - 2021-12-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2021-12-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2021-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.
+- 2022-03-17 — Amendment SA 5001 agreed to in Senate by Unanimous Consent.
+- 2022-03-17 — Amendment SA 5001 proposed by Senator Cortez Masto for Senator Schatz. (consideration: CR S1246-1248; text: CR S1257-1259) In the nature of a substitute.
+- 2022-03-17 — Measure laid before Senate by unanimous consent. (consideration: CR S1246-1248)
+- 2022-03-17 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S1257-1259)
+- 2022-03-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S1257-1259)
+- 2022-03-17 — Senate amendment agreed to: Amendment SA 5001 agreed to in Senate by Unanimous Consent.
+- 2022-03-17 — Senate amendment proposed (on the floor): Amendment SA 5001 proposed by Senator Cortez Masto for Senator Schatz.(consideration: CR S1246-1248; text: CR S1257-1259)
+- 2022-03-17 — Senate amendment submitted
+- 2022-03-17 — The committee substitute withdrawn by Unanimous Consent.
