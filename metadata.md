@@ -1,7 +1,7 @@
 ---
 measure: H.R. 963
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 963
@@ -238,3 +238,31 @@ FAIR Act of 2022
 - 2022-03-11 — Placed on the Union Calendar, Calendar No. 198.
 - 2022-03-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-270.
 - 2022-03-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-270.
+- 2022-03-15 — Rules Committee Resolution H. Res. 979 Reported to House. Rule provides for consideration of H.R. 963 and H.R. 2116. The rule provides for one hour of general debate on both H.R. 963 and H.R. 2116.
+- 2022-03-17 — Amendment (A002) offered by Mr. Fitzgerald. (consideration: CR H3797-3798, H3811-3812; text: CR H3797)
+- 2022-03-17 — Amendment failed by House: On agreeing to the Fitzgerald amendment (A002) Failed by the Yeas and Nays: 184 - 246 (Roll no. 79).
+- 2022-03-17 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H3788-3798, H3811-3813; text: CR H3788-3789)
+- 2022-03-17 — Considered as unfinished business. (consideration: CR H3811-3813)
+- 2022-03-17 — Considered under the provisions of rule H. Res. 979. (consideration: CR H3788-3798)
+- 2022-03-17 — DEBATE - Pursuant to the provisions of H. Res. 979, the House proceeded with 10 minutes of debate on the Fitzgerald amendment No. 1.
+- 2022-03-17 — DEBATE - The House proceeded with one hour of debate on H.R. 963.
+- 2022-03-17 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-03-17 — House amendment not agreed to: On agreeing to the Fitzgerald amendment (A002) Failed by the Yeas and Nays: 184 - 246 (Roll no. 79).
+- 2022-03-17 — House amendment offered
+- 2022-03-17 — House amendment offered
+- 2022-03-17 — House amendment offered/reported by: Amendment (A002) offered by Mr. Fitzgerald.(consideration: CR H3797-3798, H3811-3812; text: CR H3797)
+- 2022-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-17 — Mr. Bentz moved to recommit to the Committee on the Judiciary. (text: CR H3812)
+- 2022-03-17 — On agreeing to the Fitzgerald amendment (A002) Failed by the Yeas and Nays: 184 - 246 (Roll no. 79).
+- 2022-03-17 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-03-17 — On motion to recommit Failed by the Yeas and Nays: 208 - 222 (Roll no. 80).
+- 2022-03-17 — On passage Passed by the Yeas and Nays: 222 - 209 (Roll no. 81).
+- 2022-03-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fitzgerald amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Fitzgerald demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 209 (Roll no. 81).
+- 2022-03-17 — Pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 963 were postponed.
+- 2022-03-17 — Pursuant to clause 1(c) of rule XIX, the House resumed proceedings on H.R. 963.
+- 2022-03-17 — Roll call votes on amendments in House
+- 2022-03-17 — Rule provides for consideration of H.R. 963 and H.R. 2116. The rule provides for one hour of general debate on both H.R. 963 and H.R. 2116.
+- 2022-03-17 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-03-17 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-03-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to the Fitgerald amendment, which had been debated earlier and on which further proceedings had been postponed.
