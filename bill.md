@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 7127
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7127
+
+> To amend the Occupational Safety and Health Act to prohibit the Secretary from enforcing any drug or vaccine mandate, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No OSHA Authority to Mandate Vaccines Act ”.
+
+## § 2. Prohibition on drug and vaccine mandates
+
+Section 4(b) of the Occupational Safety and Health Act (29 U.S.C. 653(b)) is amended by adding at the end the following:
+
+> - **(4)** Nothing in this Act shall be construed to provide the Secretary with the authority to require any drug (as defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act) or vaccine or other biological product (as defined in section 351(i)(1) of the Public Health Service Act) to be administered to any employee.
