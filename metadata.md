@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3197
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3197
@@ -42,3 +42,12 @@ Save the Liberty Theatre Act of 2021
 - 2022-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 4 (Roll no. 75). (text: 3/15/2022 CR H3728)
 - 2022-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 4 (Roll no. 75).(text: 3/15/2022 CR H3728)
 - 2022-03-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.
+- 2022-03-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1886-1887)
+- 2022-03-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1886-1887)
+- 2022-04-04 — Message on Senate action sent to the House.
+- 2022-04-07 — Presented to President.
+- 2022-04-07 — Presented to President.
+- 2022-04-19 — Became Public Law No: 117-112.
+- 2022-04-19 — Became Public Law No: 117-112.
+- 2022-04-19 — Signed by President.
+- 2022-04-19 — Signed by President.
