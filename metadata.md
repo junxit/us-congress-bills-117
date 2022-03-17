@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6434
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6434
@@ -29,9 +29,10 @@ Japanese American World War II History Network Act
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Japanese American World War II History Network Act
 - 2022-03-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 16 (Roll no. 77). (text: 3/15/2022 CR H3732)
 - 2022-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 16 (Roll no. 77).(text: 3/15/2022 CR H3732)
+- 2022-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
