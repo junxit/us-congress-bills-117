@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2116
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2116
@@ -158,3 +158,23 @@ Creating a Respectful and Open World for Natural Hair Act of 2022
 - 2022-02-25 — Placed on the Union Calendar, Calendar No. 182.
 - 2022-02-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-252, Part I.
 - 2022-02-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-252, Part I.
+- 2022-02-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-02-28 — Considered as unfinished business. (consideration: CR H1172-1173)
+- 2022-02-28 — Considered under suspension of the rules. (consideration: CR H1160-1166)
+- 2022-02-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2116.
+- 2022-02-28 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 235 - 188 (Roll no. 48).(text: CR H1160-1162)
+- 2022-02-28 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
+- 2022-02-28 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 235 - 188 (Roll no. 48). (text: CR H1160-1162)
+- 2022-03-15 — Rules Committee Resolution H. Res. 979 Reported to House. Rule provides for consideration of H.R. 963 and H.R. 2116. The rule provides for one hour of general debate on both H.R. 963 and H.R. 2116.
+- 2022-03-16 — Rule H. Res. 979 passed House.
+- 2022-03-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-03-18 — Considered under the provisions of rule H. Res. 979. (consideration: CR H3833-3842)
+- 2022-03-18 — DEBATE - The House proceeded with one hour of debate on H.R. 2116.
+- 2022-03-18 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-03-18 — House amendment offered
+- 2022-03-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-03-18 — On passage Passed by the Yeas and Nays: 235 - 189 (Roll no. 82). (text: CR H3833-3834)
+- 2022-03-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 189 (Roll no. 82).
+- 2022-03-18 — Rule provides for consideration of H.R. 963 and H.R. 2116. The rule provides for one hour of general debate on both H.R. 963 and H.R. 2116.
+- 2022-03-18 — The previous question was ordered pursuant to the rule.

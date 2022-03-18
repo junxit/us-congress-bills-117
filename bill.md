@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Creating a Respectful and Open World for Natural Hair Act of 2021” or the “CROWN Act of 2021”.
+This Act may be cited as the “Creating a Respectful and Open World for Natural Hair Act of 2022” or the “CROWN Act of 2022”.
 
 ## § 2. Findings; sense of Congress; purpose
 
