@@ -1,7 +1,7 @@
 ---
 measure: H.R. 963
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 963
@@ -222,9 +222,10 @@ FAIR Act of 2022
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -266,3 +267,4 @@ FAIR Act of 2022
 - 2022-03-17 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-03-17 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2022-03-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to the Fitgerald amendment, which had been debated earlier and on which further proceedings had been postponed.
+- 2022-03-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
