@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2116
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2116
@@ -135,11 +135,12 @@ Creating a Respectful and Open World for Natural Hair Act of 2022
 - Rep. McEachin, A. Donald [D-VA-4] (M001200)
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 
-## Committees (3)
+## Committees (4)
 
 - House — Budget Committee
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -178,3 +179,4 @@ Creating a Respectful and Open World for Natural Hair Act of 2022
 - 2022-03-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 189 (Roll no. 82).
 - 2022-03-18 — Rule provides for consideration of H.R. 963 and H.R. 2116. The rule provides for one hour of general debate on both H.R. 963 and H.R. 2116.
 - 2022-03-18 — The previous question was ordered pursuant to the rule.
+- 2022-03-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
