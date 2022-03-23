@@ -1,7 +1,7 @@
 ---
 measure: S. 1259
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1259
@@ -16,10 +16,11 @@ Safe Cribs Act
 
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ Safe Cribs Act
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
+- 2022-02-01 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-62.
+- 2022-02-01 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-62.
+- 2022-03-23 — Passed Senate without amendment by Voice Vote. (consideration: CR S1753; text: CR S1753)
+- 2022-03-23 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S1753; text: CR S1753)
