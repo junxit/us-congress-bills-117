@@ -1,7 +1,7 @@
 ---
 measure: S. 516
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 516
@@ -32,3 +32,5 @@ Advanced Air Mobility Coordination and Leadership Act
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-53.
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-53.
 - 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.
+- 2022-03-23 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1752-1753; text: CR S1752-1753)
+- 2022-03-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S1752-1753; text: CR S1752-1753)
