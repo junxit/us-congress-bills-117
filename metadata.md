@@ -1,7 +1,7 @@
 ---
 measure: S. 2794
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2794
@@ -40,3 +40,5 @@ Supporting Families of the Fallen Act
 - 2022-03-01 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2022-03-01 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2022-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.
+- 2022-03-23 — Passed Senate without amendment by Voice Vote. (consideration: CR S1753-1754; text: CR S1754)
+- 2022-03-23 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S1753-1754; text: CR S1754)
