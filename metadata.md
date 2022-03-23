@@ -1,7 +1,7 @@
 ---
 measure: S. 2533
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2533
@@ -37,3 +37,5 @@ Making Advances in Mammography and Medical Options for Veterans Act
 - 2022-03-10 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2022-03-10 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2022-03-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.
+- 2022-03-23 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1754-1756; text: CR S1754)
+- 2022-03-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S1754-1756; text: CR S1754)
