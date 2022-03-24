@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4373
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4373
@@ -76,3 +76,5 @@ Further Additional Continuing Appropriations and Extensions Act, 2023
 - 2021-07-28 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2021-07-28 — The previous question was ordered pursuant to the rule.
 - 2021-07-29 — Received in the Senate.
+- 2022-03-23 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-03-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
