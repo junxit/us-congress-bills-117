@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2102
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Supporting Expanded Review for Veterans In Combat Environments Act of 2021” or the “SERVICE Act of 2021”.
+This Act may be cited as the “Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans In Combat Environments Act” or the “Dr. Kate Hendricks Thomas SERVICE Act”.
 
 ## § 2. Revision of breast cancer mammography policy of Department of Veterans Affairs to provide mammography screening for veterans who served in locations associated with toxic exposure
 
@@ -41,8 +41,10 @@ This Act may be cited as the “Supporting Expanded Review for Veterans In Comba
     >     - **(I)** Yemen during the period beginning on September 11, 2001, and ending on such date as the Secretary determines burn pits are no longer used in Yemen.
     >     - **(J)** Such other locations and corresponding periods as set forth by the Airborne Hazards and Open Burn Pit Registry established under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note).
     >     - **(K)** Such other locations and corresponding periods as the Secretary, in collaboration with the Secretary of Defense, may determine appropriate in a report submitted under paragraph (2).
-    >   - **(2)** Not later than two years after the date of the enactment of the Supporting Expanded Review for Veterans In Combat Environments Act of 2021, and not less frequently than once every two years thereafter, the Secretary of Veterans Affairs, in collaboration with the Secretary of Defense, shall submit to Congress a report specifying other locations and corresponding periods for purposes of paragraph (1)(K).
+    >   - **(2)** Not later than two years after the date of the enactment of the Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans In Combat Environments Act, and not less frequently than once every two years thereafter, the Secretary of Veterans Affairs, in collaboration with the Secretary of Defense, shall submit to Congress a report specifying other locations and corresponding periods for purposes of paragraph (1)(K).
     >   - **(3)** A location under this subsection shall not include any body of water around or any airspace above such location.
-    >   - **(4)** In this subsection, the term burn pit means an area of land that is used for disposal of solid waste by burning in the outdoor air.
+    >   - **(4)** In this subsection, the term burn pit means an area of land that—
+    >     - **(A)** is used for disposal of solid waste by burning in the outdoor air; and
+    >     - **(B)** does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.
 
 - **(b)** *Report on breast cancer rates for veterans deployed to certain areas* Not later than two years after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that compares the rates of breast cancer among members of the Armed Forces deployed to the locations and during the periods specified in section 7322(d) of title 38, United States Code, as added by subsection (a), as compared to members of the Armed Forces who were not deployed to those locations during those periods and to the civilian population.
