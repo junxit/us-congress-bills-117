@@ -1,7 +1,7 @@
 ---
 measure: S. 2102
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2102
@@ -56,3 +56,20 @@ Dr. Kate Hendricks Thomas SERVICE Act
 - 2022-03-24 — Senate amendment agreed to: Amendment SA 5014 agreed to in Senate by Unanimous Consent.
 - 2022-03-24 — Senate amendment proposed (on the floor): Amendment SA 5014 proposed by Senator Schumer for Senator Boozman.(consideration: CR S1783-1784; text: CR S1783-1784)
 - 2022-03-24 — Senate amendment submitted
+- 2022-03-28 — Held at the desk.
+- 2022-03-28 — Message on Senate action sent to the House.
+- 2022-03-28 — Received in the House.
+- 2022-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-18 — Considered as unfinished business. (consideration: CR H5171-5172)
+- 2022-05-18 — Considered under suspension of the rules. (consideration: CR H5115-5117)
+- 2022-05-18 — DEBATE - The House proceeded with forty minutes of debate on S. 2102.
+- 2022-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 228). (text: CR H5115-5116)
+- 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 228).
+- 2022-06-06 — Presented to President.
+- 2022-06-06 — Presented to President.
+- 2022-06-07 — Became Public Law No: 117-133.
+- 2022-06-07 — Became Public Law No: 117-133.
+- 2022-06-07 — Signed by President.
+- 2022-06-07 — Signed by President.
