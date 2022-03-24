@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -79,7 +79,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 812` | strike | by striking “(10) Marihuana.”; and | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 812` | strike | by striking “(17) Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined in section 297A of the Agricultural Marketing Act of 1946).”. | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 812` | strike | by striking “(17) Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined under section 297A of the Agricultural Marketing Act of 1946).”. | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 802` | strike | in section 102(44) (21 U.S.C. 802(44)), by striking “marihuana,”; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 841` | insert | in clause (vi), by inserting “or” after the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 841` | strike | by striking clause (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
