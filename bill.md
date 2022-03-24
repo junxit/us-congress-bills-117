@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3617
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungement Act of 2021” or the “MORE Act of 2021”.
+This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungement Act” or the “MORE Act”.
 
 ## § 2. Findings
 
@@ -37,7 +37,7 @@ The Congress finds as follows:
 - **(a)** *Cannabis removed from schedule of controlled substances*
   - **(1)** *Removal in statute* Subsection (c) of schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812) is amended—
     - **(A)** by striking “(10) Marihuana.”; and
-    - **(B)** by striking “(17) Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined in section 297A of the Agricultural Marketing Act of 1946).”.
+    - **(B)** by striking “(17) Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined under section 297A of the Agricultural Marketing Act of 1946).”.
   - **(2)** *Removal from schedule* Not later than 180 days after the date of the enactment of this Act, the Attorney General shall finalize a rulemaking under section 201(a)(2) removing marihuana and tetrahydrocannabinols from the schedules of controlled substances. For the purposes of the Controlled Substances Act, marihuana and tetrahydrocannabinols shall each be deemed to be a drug or other substance that does not meet the requirements for inclusion in any schedule. A rulemaking under this paragraph shall be considered to have taken effect as of the date of enactment of this Act for purposes of any offense committed, case pending, conviction entered, and, in the case of a juvenile, any offense committed, case pending, and adjudication of juvenile delinquency entered before, on, or after the date of enactment of this Act.
 - **(b)** *Conforming amendments to controlled substances act* The Controlled Substances Act (21 U.S.C. 801 et seq.) is amended—
   - **(1)** in section 102(44) (21 U.S.C. 802(44)), by striking “marihuana,”;
@@ -126,8 +126,8 @@ The Congress finds as follows:
 - **(f)** *Public meetings* Not later than one year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall hold not less than one public meeting to address the regulation, safety, manufacturing, product quality, marketing, labeling, and sale of products containing cannabis or cannabis-derived compounds.
 - **(g)** *Special rule for federal employee testing* Section 503 of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note) is amended by adding at the end the following:
   > - **(h)** *Marijuana*
-  >   - **(1)** *Continued testing* Notwithstanding the Marijuana Opportunity Reinvestment and Expungement Act of 2021 and the amendments made thereby, the Secretary of Health and Human Services may continue to include marijuana for purposes of drug testing of Federal employees subject to this section, Executive Order 12564, or other applicable Federal laws and orders.
-  >   - **(2)** *Definition* The term “marijuana” has the meaning given to the term “marihuana” in section 102 of the Controlled Substances Act (21 6 U.S.C. 802) on the day before the date of enactment of the Marijuana Opportunity Reinvestment and Expungement Act of 2021.
+  >   - **(1)** *Continued testing* Notwithstanding the Marijuana Opportunity Reinvestment and Expungement Act and the amendments made thereby, the Secretary of Health and Human Services may continue to include marijuana for purposes of drug testing of Federal employees subject to this section, Executive Order 12564, or other applicable Federal laws and orders.
+  >   - **(2)** *Definition* The term “marijuana” has the meaning given to the term “marihuana” in section 102 of the Controlled Substances Act (21 6 U.S.C. 802) on the day before the date of enactment of the Marijuana Opportunity Reinvestment and Expungement Act.
 
 - **(h)** *Special rule for certain regulations*
   - **(1)** *In general* The amendments made by this section may not be construed to abridge the authority of the Secretary of Transportation, or the Secretary of the department in which the Coast Guard is operating, to regulate and screen for the use of a controlled substance.
@@ -160,15 +160,15 @@ The Congress finds as follows:
 ## § 5. Creation of Opportunity Trust Fund and imposition of taxes with respect to cannabis products
 
 - **(a)** *Establishment of trust fund* Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
-  > ## § 9512. Opportunity Trust Fund
+  > ## § 9512. Establishment of Opportunity Trust Fund
   >
   > - **(a)** *Creation of Trust Fund* There is established in the Treasury of the United States a trust fund to be known as the “Opportunity Trust Fund” (referred to in this section as the “Trust Fund”), consisting of such amounts as may be appropriated or credited to such fund as provided in this section or section 9602(b).
   > - **(b)** *Transfers to Trust Fund* There are hereby appropriated to the Trust Fund amounts equivalent to the net revenues received in the Treasury from the taxes imposed under chapter 56.
   > - **(c)** *Expenditures* Amounts in the Trust Fund shall be available, without further appropriation, only as follows:
   >   - **(1)** 50 percent to the Attorney General to carry out section 3052(a) of part OO of the Omnibus Crime Control and Safe Streets Act of 1968.
   >   - **(2)** 10 percent to the Attorney General to carry out section 3052(b) of part OO of the Omnibus Crime Control and Safe Streets Act of 1968.
-  >   - **(3)** 20 percent to the Administrator of the Small Business Administration to carry out section 6(b)(1) of the Marijuana Opportunity Reinvestment and Expungement Act of 2021.
-  >   - **(4)** 20 percent to the Administrator of the Small Business Administration to carry out section 6(b)(2) of the Marijuana Opportunity Reinvestment and Expungement Act of 2021.
+  >   - **(3)** 20 percent to the Administrator of the Small Business Administration to carry out section 6(b)(1) of the Marijuana Opportunity Reinvestment and Expungement Act.
+  >   - **(4)** 20 percent to the Administrator of the Small Business Administration to carry out section 6(b)(2) of the Marijuana Opportunity Reinvestment and Expungement Act.
 
 - **(b)** *Cannabis Revenue and Regulation Act* Subtitle E of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter:
 - **(c)** *Study* Not later than 2 years after the date of the enactment of this Act, and every 5 years thereafter, the Secretary of the Treasury, or the Secretary’s delegate, shall—
