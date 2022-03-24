@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5689
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -35,11 +35,11 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 - **(1)** in subsection (b) by striking “and local governments” and inserting “, local governments, and private nonprofit facilities”;
 - **(2)** in subsection (c) by striking “or local government” in each place it appears and inserting “, local government, or private nonprofit facility”;
 - **(3)** in subsection (d)—
-  - **(A)** in paragraph (1)(A) by striking “local governments” and inserting “local governments and private nonprofit facilities”; and
+  - **(A)** in paragraph (1)(A) by striking “local governments” and inserting “local governments and private nonprofit facilities”;
   - **(B)** in paragraph (2)—
     - **(i)** by striking “local governments” in each place it appears and inserting “local governments or private nonprofit facilities”; and
     - **(ii)** in subparagraph (B) by striking “local government” and inserting “local government or private nonprofit facility”; and
-  - **(C)** in paragraph (3) by inserting “or private nonprofit facilities” after “any local governments of the State”;
+  - **(C)** in paragraph (3) by inserting “or private nonprofit facilities” after “any local governments of the State”.
 - **(4)** in subsection (e)—
   - **(A)** in paragraph (1)(A) by striking “and local governments” and inserting “, local governments, and private nonprofit facilities”; and
   - **(B)** in paragraph (2) by striking “or local government” in each place it appears and inserting “, local government, or private nonprofit facility”;
@@ -81,7 +81,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
     > - **(17)** implementing technologies to improve infrastructure monitoring and distribution for the purpose of reducing risk and avoiding future disaster impacts and, notwithstanding other requirements related to cost-effectiveness, to avoid any unintended consequences under this section and section 203.
 
 - **(b)** *Use of assistance for earthquake hazards* Subsection (h) of section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(h)) (as redesignated by section 2) is amended—
-  - **(1)** by inserting “and tsunami” after “earthquake” each place it appears;
+  - **(1)** by inserting “and tsunami” after “earthquake” each place it appears (including in the subsection heading);
   - **(2)** in paragraph (2) by striking “and” at the end;
   - **(3)** in paragraph (3) by striking the period at the end and inserting “; and”; and
   - **(4)** by adding at the end the following:
@@ -108,3 +108,57 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
     - **(E)** wildfire retrofit and mitigation measures;
     - **(F)** wind retrofits, including roof replacements, hurricane straps, and tie-downs; and
     - **(G)** any other measures that meet the requirements of paragraph (1), as determined by the Administrator.
+
+## § 8. Buy America for nonemergency projects
+
+- **(a)** *In general* For the purposes of this rulemaking, to ensure that the United States has the productive capability to respond quickly to emergencies and natural disasters with a strong domestic industrial base being in the public interest, the Administrator of the Federal Emergency Management Agency shall require, as a condition of any financial assistance provided by the Agency on a nonemergency basis after promulgation of regulations pursuant to subsection (c) for a construction project with a cost of at least $1,000,000, that the steel and iron used in the project be produced in the United States.
+- **(b)** *Waiver*
+  - **(1)** *In general* The Administrator may provide a waiver of the requirements in subsection (a) if the Administrator finds—
+    - **(A)** that the application of such subsection would be inconsistent with the public interest, including causing unreasonable project delays;
+    - **(B)** that such steel and iron are not produced in the United States in sufficient and reasonably available quantities and of a satisfactory quality; or
+    - **(C)** that inclusion of domestic material will increase the cost of the overall project contract by more than 25 percent.
+  - **(2)** *Public input* If the Administrator receives a request for a waiver under this subsection, the Administrator shall make available to the public, on an informal basis, a copy of the request and information available to the Administrator concerning the request, and shall allow for informal public input on the request for at least 15 days prior to making a finding based on the request.
+  - **(3)** *Publication of request* The Administrator shall make the request and accompanying information available by electronic means, including on the official public website of the Federal Emergency Management Agency.
+- **(c)** *Rulemaking* Not later than 18 months after the date of enactment of this Act, the President, acting through the Administrator of the Federal Emergency Management Agency, shall conduct and complete a rulemaking to establish what considerations shall be used by the Administrator to assess whether a waiver request made pursuant to subsection (b)(1)(A) is in the public interest. Such criteria shall include both a calculation considering domestically produced steel and iron and a calculation with non-domestically produced steel and iron for construction projects which require a Benefit-Cost Analysis in order to qualify for financial assistance.
+- **(d)** *Adjustment* The amount in subsection (a) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+
+## § 9. Reimbursement of interest payments related to public assistance
+
+- **(a)** *In general* Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following:
+  > ## § 431. Reimbursement of interest payments related to public assistance
+  >
+  > - **(a)** *In general* For purposes of assistance under this title, the President shall provide financial assistance at the applicable Federal share to a State or local government, electric cooperative, or nonprofit organization as reimbursement for qualifying interest.
+  > - **(b)** *Definitions* In this section, the following definitions apply:
+  >   - **(1)** *Qualifying interest* The term “qualifying interest” means, with respect to a qualifying loan, the lesser of—
+  >     - **(A)** the actual interest paid to a lender for such qualifying loan; and
+  >     - **(B)** the interest that would have been paid to a lender if such qualifying loan had an interest rate equal to the prime rate most recently published on the Federal Reserve Statistical Release on selected interest rates.
+  >   - **(2)** *Qualifying loan* The term “qualifying loan” means a loan—
+  >     - **(A)** obtained by a State or local government, electric cooperative, or nonprofit organization; and
+  >     - **(B)** of which not less than 90 percent of the proceeds are used to fund activities for which such State or local government, electric cooperative, or nonprofit organization receives assistance under this Act after the date on which such loan is disbursed.
+
+- **(b)** *Rule of applicability* Any qualifying interest (as such term is defined in section 431 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as added by this section) incurred by a State or local government, electric cooperative, or nonprofit organization in the 5 years preceding the date of enactment of this Act shall be treated as eligible for financial assistance for purposes of such section 431.
+
+## § 10. Funding of a Federally Authorized Water Resources Development Project
+
+Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is further amended by adding at the end the following:
+
+> - **(n)** *Funding of a federally authorized water resources development project*
+>   - **(1)** *In general* Notwithstanding section 312 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155) and its implementing regulations, assistance provided under this section may be used to fund activities authorized for construction within the scope of a federally authorized water resources development project of the Army Corps of Engineers if such activities are also eligible activities under this section.
+>   - **(2)** *Federal funding* All Federal funding provided pursuant to this section shall be applied toward the Federal share of a federally authorized water resources development project described in paragraph (1).
+>   - **(3)** *Non-Federal match* All non-Federal matching funds required pursuant to this section shall be applied toward the non-Federal share of a federally authorized water resources development project described in paragraph (1).
+>   - **(4)** *Total Federal share* Funding provided pursuant to this section may not exceed the total Federal share for a federally authorized water resources development project described in paragraph (1).
+>   - **(5)** *Rule of construction* Nothing in this subsection may be construed to affect—
+>     - **(A)** the cost-share requirement of a hazard mitigation measure under this section;
+>     - **(B)** the eligibility criteria for a hazard mitigation measure under this section;
+>     - **(C)** the cost share requirements of a federally authorized water resources development project described in paragraph (1); and
+>     - **(D)** the responsibilities of a non-Federal interest with respect to such project, including those related to the provision of lands, easements, rights-of-way, dredge material disposal areas, and necessary relocations.
+>   - **(6)** *Limitation* If a federally authorized water resources development project of the Army Corps of Engineers is constructed with funding provided under this subsection, no further Federal funding shall be provided for construction of such a project.
+
+## § 11. GAO report to Congress on challenges under public assistance alternative procedures
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study on the challenges to States and Territories of the United States in obtaining assistance under section 428 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189f).
+- **(b)** *Contents* In conducting the study described in subsection (a), the Comptroller General shall study the challenges for assistance described in subsection (a) faced by the following:
+  - **(1)** Rural areas, as such term is defined in section 423 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189a).
+  - **(2)** Small impoverished communities, as such term is defined in section 203 of such Act.
+  - **(3)** Other communities, areas, or individuals that the Comptroller General determines pertinent.
+- **(c)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to Congress a report describing the results of the study required under subsection (a).

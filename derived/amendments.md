@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5689
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 9 executed, 20 stated and not applied.
+31 amendatory instructions. 9 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,7 @@ to guess them.
 
 ### 42 U.S.C. § 5133
 
-> in paragraph (1)(A) by striking “local governments” and inserting “local governments and private nonprofit facilities”; and
+> in paragraph (1)(A) by striking “local governments” and inserting “local governments and private nonprofit facilities”;
 
 | | |
 |---|---|
@@ -116,7 +116,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 5170c` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170c` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5133` | insert | in paragraph (3) by inserting “or private nonprofit facilities” after “any local governments of the State”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5133` | insert | in paragraph (3) by inserting “or private nonprofit facilities” after “any local governments of the State”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | insert | in paragraph (2) by inserting “or private nonprofit facilities located in the State” after “local governments of the State”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | insert | in paragraph (3)(A) by inserting “or private nonprofit facilities located in the State” after “local governments of a State”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -130,7 +130,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5170c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170c` | strike | in paragraph (13) by striking “and”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5170c` | replace | by striking paragraph (14) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5170c` | insert | by inserting “and tsunami” after “earthquake” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5170c` | insert | by inserting “and tsunami” after “earthquake” each place it appears (including in the subsection heading); | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5170c` | strike | in paragraph (2) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5170c` | replace | in paragraph (3) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5170c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5170` | add-at-end | Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5133` | add-at-end | Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
