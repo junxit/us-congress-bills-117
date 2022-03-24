@@ -1,7 +1,7 @@
 ---
 measure: S. 253
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 23 executed, 13 stated and not applied.
+33 amendatory instructions. 23 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -247,9 +247,6 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | add-at-end | Paragraph (2)(B) of section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)), as amended by section 101 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | redesignate | by redesignating subsections (c) through (k) as subsections (d) through (l), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 802` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 802` | redesignate | by redesignating clause (ii) as (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 802` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 952` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 952` | insert | in paragraph (2)(C), by inserting “and” after “uses,”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 957` | amend | in section 1007 (21 U.S.C. 957), by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
