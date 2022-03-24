@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 7204
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7204
+
+> To amend title 49, United States Code, to encourage economic sustainability of intercity passenger rail service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Returning Amtrak To Economic Sustainability Act” or the “RATES Act”.
+
+## § 2. Amtrak mission and goals
+
+- **(a)** *Findings* Section 24101(a)(5) of title 49, United States Code, is amended by striking “Modern” and inserting “Economically sustainable”.
+- **(b)** *Mission* Section 24101(b) of title 49, United States Code, is amended by inserting “, while ensuring route profitability proportional to the Federal share of investment,” before “consisting of high quality”.
+- **(c)** *Goals* Section 24101(c)(1) of title 49, United States Code, is amended by striking “use its best business judgment in acting to”.
