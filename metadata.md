@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5706
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5706
@@ -16,7 +16,7 @@ Stop Sexual Assault and Harassment in Transportation Act
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Carson, Andre [D-IN-7] (C001072)
@@ -32,6 +32,7 @@ Stop Sexual Assault and Harassment in Transportation Act
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
 
 ## Committees (3)
 
@@ -46,3 +47,20 @@ Stop Sexual Assault and Harassment in Transportation Act
 - 2021-10-25 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on the Judiciary, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-10-25 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on the Judiciary, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-10-25 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on the Judiciary, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-10-26 — Referred to the Subcommittee on Aviation.
+- 2021-10-26 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2021-10-26 — Referred to the Subcommittee on Highways and Transit.
+- 2021-10-26 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2021-10-27 — Committee Consideration and Mark-up Session Held.
+- 2021-10-27 — Ordered to be Reported by Voice Vote.
+- 2021-10-27 — Subcommittee on Aviation Discharged.
+- 2021-10-27 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2021-10-27 — Subcommittee on Highways and Transit Discharged.
+- 2021-10-27 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.
+- 2022-03-24 — Committee on the Budget discharged.
+- 2022-03-24 — Committee on the Budget discharged.
+- 2022-03-24 — Committee on the Judiciary discharged.
+- 2022-03-24 — Committee on the Judiciary discharged.
+- 2022-03-24 — Placed on the Union Calendar, Calendar No. 205.
+- 2022-03-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-278, Part I.
+- 2022-03-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-278, Part I.
