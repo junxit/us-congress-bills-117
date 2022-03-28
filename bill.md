@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1621
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,3 +32,7 @@ This Act may be cited as the “Prohibiting Punishment of Acquitted Conduct Act 
     >   - **(2)** any act underlying a criminal charge or juvenile information dismissed—
     >     - **(A)** in a Federal court upon a motion for acquittal under rule 29 of the Federal Rules of Criminal Procedure; or
     >     - **(B)** in a State or Tribal court upon a motion for acquittal or an analogous motion under the applicable State or Tribal rule of criminal procedure.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
