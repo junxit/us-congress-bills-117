@@ -2,21 +2,16 @@
 legis-num: H.R. 4521
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 4521
 
-> To provide for a coordinated Federal research initiative to ensure continued United States leadership in engineering biology.
+That the bill from the House of Representatives (H.R. 4521) entitled “An Act to provide for a coordinated Federal research initiative to ensure continued United States leadership in engineering biology.”, do pass with the following
 
-## § 1. Short title
+*Strike all after the enacting clause and insert the following:*
 
-This Act may be cited as the “America Creating Opportunities for Manufacturing, Pre-Eminence in Technology, and Economic Strength Act of 2022” or the “America COMPETES Act of 2022”.
+## § 1. Short title; table of contents
 
-## § 2. Table of contents
-
-The table of contents for this Act is as follows:
-
-## § 3. Prohibiting discrimination against people of Asian descent
-
-The President shall ensure that the provisions of this Act which are aimed at countering the influence of the Chinese Communist Party are implemented in a manner that does not result in discrimination against people of Asian descent on the basis of race, color, ethnicity, or nationality.
+- **(a)** *Short title* This Act may be cited as the “United States Innovation and Competition Act of 2021”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
