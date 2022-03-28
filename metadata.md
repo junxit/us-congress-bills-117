@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7108
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7108
@@ -16,7 +16,7 @@ Suspending Normal Trade Relations with Russia and Belarus Act
 
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
 
-## Cosponsors (26)
+## Cosponsors (29)
 
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
@@ -44,6 +44,9 @@ Suspending Normal Trade Relations with Russia and Belarus Act
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Johnson, Ron [R-WI] (J000293)
 
 ## Committees (4)
 
@@ -67,3 +70,6 @@ Suspending Normal Trade Relations with Russia and Belarus Act
 - 2022-03-17 — Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, Foreign Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-03-17 — Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, Foreign Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-03-17 — Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, Foreign Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-03-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-03-24 — Senate amendment submitted
+- 2022-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
