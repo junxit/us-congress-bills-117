@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4521
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4521
@@ -16,7 +16,7 @@ United States Innovation and Competition Act of 2021
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Cosponsors (101)
+## Cosponsors (104)
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Garamendi, John [D-CA-3] (G000559)
@@ -119,6 +119,9 @@ United States Innovation and Competition Act of 2021
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Johnson, Ron [R-WI] (J000293)
 
 ## Committees (3)
 
@@ -294,3 +297,74 @@ United States Innovation and Competition Act of 2021
 - 2022-02-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2022-02-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-02-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
+- 2022-03-17 — Cloture motion on the motion to proceed presented in Senate. (CR S1237)
+- 2022-03-17 — Motion to proceed to consideration of measure made in Senate.
+- 2022-03-21 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 66 - 29. Record Vote Number: 97. (CR S1264)
+- 2022-03-21 — Motion to proceed to measure considered in Senate. (CR S1261)
+- 2022-03-22 — Motion to proceed to measure considered in Senate. (CR S1273)
+- 2022-03-22 — Senate amendment submitted
+- 2022-03-23 — Amendment SA 5002 proposed by Senator Schumer. (consideration: CR S1720; text: 03/22/2022 CR S1292-1714) In the nature of a substitute.
+- 2022-03-23 — Amendment SA 5003 proposed by Senator Schumer to Amendment SA 5002. (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Amendment SA 5004 proposed by Senator Schumer to Amendment SA 5003. (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Amendment SA 5005 proposed by Senator Schumer to language proposed to be stricken by amendment no. 5002. (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Amendment SA 5006 proposed by Senator Schumer to Amendment SA 5005. (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Amendment SA 5007 proposed by Senator Schumer. (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Amendment SA 5008 proposed by Senator Schumer to Amendment SA 5007 (the instructions of the motion to commit). (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Amendment SA 5009 proposed by Senator Schumer to Amendment SA 5008. (consideration: CR S1720; text: CR S1720) To modify the effective date.
+- 2022-03-23 — Cloture motion on amendment SA 5002 presented in Senate.
+- 2022-03-23 — Cloture motion on the measure presented in Senate. (CR S1747)
+- 2022-03-23 — Measure laid before Senate by motion. (consideration: CR S1720-1732)
+- 2022-03-23 — Motion by Senator Schumer to commit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 5007) made in Senate.
+- 2022-03-23 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 100.
+- 2022-03-23 — Motion to proceed to measure considered in Senate. (CR S1717)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5002 proposed by Senator Schumer.(consideration: CR S1720; text: 03/22/2022 CR S1292-1714)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5003 proposed by Senator Schumer to Amendment SA 5002.(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5004 proposed by Senator Schumer to Amendment SA 5003.(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5005 proposed by Senator Schumer to language proposed to be stricken by amendment no. 5002.(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5006 proposed by Senator Schumer to Amendment SA 5005.(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5007 proposed by Senator Schumer.(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5008 proposed by Senator Schumer to Amendment SA 5007 (the instructions of the motion to commit).(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment proposed (on the floor): Amendment SA 5009 proposed by Senator Schumer to Amendment SA 5008.(consideration: CR S1720; text: CR S1720)
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-23 — Senate amendment submitted
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757)
+- 2022-03-24 — Considered by Senate. (consideration: CR S1757-1760)
+- 2022-03-24 — Senate amendment submitted
+- 2022-03-24 — Senate amendment submitted
+- 2022-03-24 — Senate amendment submitted
+- 2022-03-28 — Amendment SA 5002 agreed to in Senate by Unanimous Consent.
+- 2022-03-28 — Cloture invoked in Senate by Yea-Nay Vote. 68 - 28. Record Vote Number: 108. (CR S1799)
+- 2022-03-28 — Cloture motion on the measure withdrawn by unanimous consent in Senate.
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789)
+- 2022-03-28 — Considered by Senate. (consideration: CR S1789-1793, S1793-1799)
+- 2022-03-28 — Motion by Senator Schumer to commit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 5007) fell when cloture was invoked on amemdment SA 5002 in Senate.
+- 2022-03-28 — Passed Senate, under the order of 3/24/2022, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 68 - 28. Record Vote Number: 109.
+- 2022-03-28 — Passed/agreed to in Senate: Passed Senate, under the order of 3/24/2022, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 68 - 28. Record Vote Number: 109.
+- 2022-03-28 — Proposed amendment SA 5003 withdrawn in Senate.
+- 2022-03-28 — Proposed amendment SA 5005 withdrawn in Senate.
+- 2022-03-28 — Roll call votes on amendments in Senate: Cloture invoked in Senate by Yea-Nay Vote. 68 - 28. Record Vote Number: 108.(CR S1799)
+- 2022-03-28 — SA 5004 fell when SA 5003 withdrawn.
+- 2022-03-28 — SA 5006 fell when SA 5005 withdrawn.
+- 2022-03-28 — SA 5007 fell when cloture invoked SA 5002.
+- 2022-03-28 — SA 5008 fell when SA 5007 (the instructions of the motion to commit) fell.
+- 2022-03-28 — SA 5009 fell when SA 5008 fell.
+- 2022-03-28 — Senate amendment agreed to: Amendment SA 5002 agreed to in Senate by Unanimous Consent.
