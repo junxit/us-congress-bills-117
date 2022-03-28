@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6968
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6968
@@ -81,3 +81,6 @@ Ending Importation of Russian Oil Act
 - 2022-03-09 — Rules Committee Resolution H. Res. 973 Reported to House. Rule provides for consideration of H.J. Res. 75, H.R. 6968 and H.R. 7007. The rule provides for consideration of the Senate amendment to H.R. 2471. The rule provides for one of hour of general debate each on the Senate amendment to H.R. 2471, H.J. Res. 75, H.R. 6968, and H.R. 7007. The rule provides for division of the question in relation to the Senate amendment to H.R. 2471.
 - 2022-03-09 — Sponsor introductory remarks on measure. (CR H1387)
 - 2022-03-09 — The previous question was ordered pursuant to the rule.
+- 2022-03-23 — Received in the Senate.
+- 2022-03-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 312.
