@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 7248
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7248
+
+> To amend title V of the Public Health Service Act to reauthorize certain mental health programs for children, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Continuing Systems of Care for Children Act” .
+
+## § 2. Comprehensive Community Mental Health Services for Children with Serious Emotional Disturbances
+
+Section 565(f)(1) of the Public Health Service Act (42 U.S.C. 290ff–4(f)(4)) is amended by striking “$119,026,000 for each of fiscal years 2018 through 2022” and inserting “$125,000,000 for each of fiscal years 2023 through 2027”.
+
+## § 3. Substance Use Disorder Treatment and Early Intervention Services for Children and Adolescents
+
+Section 514 of the Public Health Service Act (42 U.S.C. 290bb–7) is amended—
+
+- **(1)** in subsection (a), by striking “Indian tribes or tribal organizations” and inserting “Indian Tribes or Tribal organizations”; and
+- **(2)** in subsection (f), by striking “2018 through 2022” and inserting “2023 through 2027”.
