@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 1009
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1009
+
+> Expressing the sense of the House of Representatives regarding the consideration of “Just War” principles prior to any vote with respect to a declaration of war or an authorization of the use of military force.
+
+## Preamble
+
+- Whereas the incorporation of “Just War” principles into deliberations with regard to a declaration of war or an authorization of the use of military force will ensure that the United States takes military action only under certain circumstances: Now, therefore, be it
+
+That it is the sense of the House of Representatives that, prior to any vote by the House with respect to the introduction of the United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, the House should also determine—
+
+- **(1)** whether such introduction is for the purpose of a just cause, such as—
+  - **(A)** stopping a genocide or ethnic cleansing;
+  - **(B)** stopping grievous, massive, and irreparable harm to the environment; or
+  - **(C)** protecting the United States or its allies from invasion or mass destruction;
+- **(2)** whether the proposed action will be—
+  - **(A)** in response only to the underlying just cause;
+  - **(B)** proportional to the underlying just cause; and
+  - **(C)** undertaken with the intent to reestablish peace;
+- **(3)** whether the presumed benefits of the proposed action outweigh the harm done;
+- **(4)** whether there is a reasonable probability that the proposed action will succeed; and
+- **(5)** whether all alternatives to military action have been exhausted.
