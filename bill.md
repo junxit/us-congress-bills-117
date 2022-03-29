@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4738
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -38,16 +38,21 @@ This Act may be cited as the “COVID–19 American History Project Act”.
 
 ## § 4. Private support
 
-- **(a)** *Acceptance of donations* The Librarian of Congress may solicit and accept donations of funds and in-kind contributions to carry out the Project.
+- **(a)** *Acceptance of donations* The Librarian of Congress may solicit and accept donations of funds and in-kind contributions to carry out the Project, subject to subsection (c).
 - **(b)** *Establishment of separate gift account* There is established in the Treasury (among the accounts of the Library of Congress) a gift account for the Project.
 - **(c)** *Dedication of funds* Notwithstanding any other provision of law—
   - **(1)** any funds donated to the Librarian of Congress to carry out the Project shall be deposited entirely into the gift account established under subsection (b);
-  - **(2)** the funds contained in such account shall be used solely to carry out the Project; and
-  - **(3)** the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of carrying out the Project.
+  - **(2)** the funds contained in such account shall be available only to the extent and in the amounts provided in advance in appropriations Acts;
+  - **(3)** the funds contained in such account shall be used solely to carry out the Project; and
+  - **(4)** the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of carrying out the Project.
 
 ## § 5. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this Act—
 
-- **(1)** $250,000 for fiscal year 2022; and
+- **(1)** $250,000 for fiscal year 2023; and
 - **(2)** such sums as may be necessary for each succeeding fiscal year, except that no funds are authorized to be appropriated to carry out this Act for any fiscal year which begins after the expiration of the 3-year period beginning on the date of the termination of the declaration of the public health emergency declared by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act on January 31, 2020, entitled “Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus”.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
