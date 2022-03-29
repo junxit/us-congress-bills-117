@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1621
 congress: 117
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1621
@@ -47,3 +47,4 @@ Prohibiting Punishment of Acquitted Conduct Act of 2021
 - 2022-03-28 — Placed on the Union Calendar, Calendar No. 206.
 - 2022-03-28 — Reported by the Committee on Judiciary. H. Rept. 117-279.
 - 2022-03-28 — Reported by the Committee on Judiciary. H. Rept. 117-279.
+- 2022-03-29 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.
