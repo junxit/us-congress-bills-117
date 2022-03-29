@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3359
@@ -40,6 +40,10 @@ Homicide Victims' Families' Rights Act of 2021
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2022-03-29 — [House 117-2-88](votes/house-117-2-0088.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (406–20)
+
 ## Actions
 
 - 2021-05-19 — Introduced in House
@@ -56,3 +60,7 @@ Homicide Victims' Families' Rights Act of 2021
 - 2022-03-28 — Placed on the Union Calendar, Calendar No. 207.
 - 2022-03-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-280.
 - 2022-03-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-280.
+- 2022-03-29 — Considered as unfinished business. (consideration: CR H3952-3953)
+- 2022-03-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 88). (text: 3/28/2022 CR H3875-3876)
+- 2022-03-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 88).(text: 3/28/2022 CR H3875-3876)
