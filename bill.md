@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5343
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,9 +15,9 @@ This Act may be cited as the “FEMA Caseworker Accountability Act”.
 
 ## § 2. Report on staff turnover
 
-Not later than 90 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall submit to Congress a report containing—
+Not later than 90 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report containing—
 
-- **(1)** the turnover rate for case management personnel of the Agency;
+- **(1)** the turnover rate for case management personnel of the Federal Emergency Management Agency;
 - **(2)** the average and median length of employment for the personnel described in paragraph (1);
 - **(3)** the steps that the Agency is taking, or plans to take, to lower the rate of turnover for the personnel described in paragraph (1);
 - **(4)** the number of personnel of the Agency that is detailed to work disaster recovery and then return to such personnel’s full time assignment after a disaster, disaggregated by full-time, part-time, temporary, and contract personnel; and
