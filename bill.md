@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Don Young Coast Guard Authorization Act of 2022”.
+- **(a)** *Short title* This Act may be cited as the “Coast Guard Authorization Act of 2022”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
