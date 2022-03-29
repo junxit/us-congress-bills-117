@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Securing a Strong Retirement Act of 2022”.
+- **(a)** *Short title* This Act may be cited as the “Securing a Strong Retirement Act of 2021”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
