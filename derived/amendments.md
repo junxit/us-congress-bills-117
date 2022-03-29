@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1621
 congress: 117
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
