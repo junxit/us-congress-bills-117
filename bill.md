@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 7278
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7278
+
+> To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of disability.
+
+## § 1. Short title
+
+This Act may be cited as the “Disabled Jurors Nondiscrimination Act”.
+
+## § 2. Exclusion from Federal juries on account of disability
+
+- **(a)** *Discrimination prohibited* Section 1862 of title 28, United States Code, is amended by inserting “disability,” after “origin,”.
+- **(b)** *Qualifications for jury service* Section 1865 of title 28, United States Code, is amended by adding at the end the following:
+  > - **(c)** No person may be disqualified from serving on grand and petit juries in the district court under paragraph (2) or (3) of subsection (b) on account of disability.
