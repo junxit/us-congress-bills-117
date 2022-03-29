@@ -1,0 +1,28 @@
+---
+legis-num: S. 3947
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3947
+
+> To amend the Securities Exchange Act of 1934 to permit different tick sizes for emerging growth companies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Intelligent Tick Study Act”.
+
+## § 2. Tick sizes
+
+Section 11A(c)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78k–1(c)(6)) is amended to read as follows:
+
+> - **(6)** *Tick size* If the Commission determines that the securities of emerging growth companies should be quoted and traded using a minimum increment of greater than $0.01, the Commission may, by rule, designate a minimum increment for the securities of emerging growth companies that is greater than $0.01 but not more than $0.25 for use in all quoting and trading of securities in any exchange or other venue.
+
+## § 3. Report
+
+- **(a)** *Definition of security* In this section, the term security has the meaning given the term in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c).
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Securities and Exchange Commission shall conduct a study and submit to Congress a report that examines—
+  - **(1)** the transition to trading and quoting securities in increments other than $0.01, which includes increments higher and lower than $0.01;
+  - **(2)** the impact that the change described in paragraph (1) has had on liquidity and market quality for small, middle, and large capitalization company securities; and
+  - **(3)** whether there is sufficient economic incentive to support trading operations in the securities described in paragraph (2) in increments other than $0.01.
