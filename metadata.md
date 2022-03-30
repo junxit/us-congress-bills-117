@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 74
@@ -40,3 +40,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2022-03-29 — Mr. DeFazio asked unanimous consent to discharge from committee and consider.
 - 2022-03-29 — On agreeing to the resolution Agreed to without objection. (text: CR H3901)
 - 2022-03-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3901)
+- 2022-03-30 — Received in the Senate.
