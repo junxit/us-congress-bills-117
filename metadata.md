@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 74
@@ -41,3 +41,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2022-03-29 — On agreeing to the resolution Agreed to without objection. (text: CR H3901)
 - 2022-03-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3901)
 - 2022-03-30 — Received in the Senate.
+- 2022-04-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2022-04-26 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2170)
+- 2022-04-27 — Message on Senate action sent to the House.
