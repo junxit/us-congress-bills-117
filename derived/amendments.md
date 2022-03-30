@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6865
 congress: 117
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-157 amendatory instructions. 6 executed, 151 stated and not applied.
+205 amendatory instructions. 7 executed, 198 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 19 U.S.C. § 2242
+
+> by striking “under this part” and inserting “under chapter 403”; and
+
+| | |
+|---|---|
+| Removed | `under this part` |
+| Inserted | `under chapter 403` |
 
 ### 16 U.S.C. § 4701
 
@@ -118,8 +127,8 @@ complete account of the bill's effect, which it is not.
 | `14 U.S.C. § 508` | insert | The analysis for chapter 5 of title 14, United States Code, is amended by inserting after the item relating to section 508 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 508` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 508` | insert | by inserting “as if such a request were being processed” after “vessels”; and | the bill quotes the text inserted but describes where it goes |
-| `14 U.S.C. § 508` | insert | by inserting “, as in effect on the date of enactment of the Coast Guard Authorization Act of 2021” after “Code of Federal Regulations”; and | the bill quotes the text inserted but describes where it goes |
-| `14 U.S.C. § 508` | insert | in paragraph (2) by inserting “, as in effect on the date of enactment of the Coast Guard Authorization Act of 2021” after “such title”. | the bill quotes the text inserted but describes where it goes |
+| `14 U.S.C. § 508` | insert | by inserting “, as in effect on the date of enactment of the Don Young Coast Guard Authorization Act of 2022” after “Code of Federal Regulations”; and | the bill quotes the text inserted but describes where it goes |
+| `14 U.S.C. § 508` | insert | in paragraph (2) by inserting “, as in effect on the date of enactment of the Don Young Coast Guard Authorization Act of 2022” after “such title”. | the bill quotes the text inserted but describes where it goes |
 | — | replace | Section 1132(e) of title 14, United States Code, is amended by striking paragraphs (2) and (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 316(c)(4) of title 14, United States Code, is amended by striking “the Inspector General of the department in which the Coast Guard is operating” and inserting “a third party entity qualified to undertake such a certification pro… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(5) by striking “5 years” and inserting “6 years”; and | the bill names no machine-readable US Code section |
@@ -151,7 +160,6 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraphs (A) through (D) as clauses (i) through (iv); | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before clauses (i) through (iv), as redesignated by paragraph (2), the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 53706(a) of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A)(iii) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B)(v) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -159,6 +167,53 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B)(v) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 53503(b) of title 46, United States Code, is amended by inserting “(including transportation on a ferry, passenger vessel, or small passenger vessel, as such terms are defined in section 2101, that has a passenger capacity of 50 … | the bill names no machine-readable US Code section |
+| — | replace | Section 40101 of title 46, United States Code, is amended by striking paragraphs (2) through (4) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 405 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 405 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 555` | add-at-end | Chapter 411 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 555` | add-at-end | The analysis for chapter 411 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 42502(c)(3) of title 46, United States Code, is amended by inserting “, including customs brokers or freight forwarders” after “ocean common carriers” each place such term occurs. | the bill names no machine-readable US Code section |
+| — | insert | The analysis for chapter 425 of title 46, United States Code, is amended by inserting before the item relating to section 42501 the following: | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 2242` | strike | in paragraph (5) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2242` | replace | by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2242` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2242` | add-at-end | Section 46106 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2242` | insert | The heading for section 46106 of title 46, United States Code, is amended by inserting “and public disclosure” after “report”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2242` | replace | The analysis for chapter 461 of title 46, United States Code, is amended by striking the item related to section 46106 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 41102 of title 46, United States Code, is amended by adding by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (12) by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (13) by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 41104 of title 46, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or, in addition to or in lieu of a civil penalty, order the refund of money” after “this part”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or refund of money” after “conditions, a civil penalty”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c) by inserting “or refund of money” after “civil penalty”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (e) by inserting “or order a refund of money” after “civil penalty”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (f) by inserting “or who is ordered to refund money” after “civil penalty is assessed”. | the bill names no machine-readable US Code section |
+| — | replace | Section 41108(a) of title 46, United States Code, is amended by striking “section 41104(1), (2), or (7)” and inserting “subsections (d) or (e) of section 41102 or paragraph (1), (2), (7), (14), or (15) of section 41104(a)”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or refund of money” after “payment of reparation”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or to whom the refund of money was ordered” after “award was made”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b) by inserting “or refund of money” after “award of reparation”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or (c)” after “41102(b)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, or if the Commission determines that a violation of section 41102(e) was made willfully or knowingly” after “of this title”. | the bill names no machine-readable US Code section |
+| — | replace | Section 41302 of title 46, United States Code, is amended by striking “or agreement” and inserting “, agreement, fee, or charge”. | the bill names no machine-readable US Code section |
+| — | strike | in the heading by striking “and third parties”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | The analysis for chapter 461 of title 46, United States Code, is amended by striking the first item relating to chapter 461. | the bill names no machine-readable US Code section |
+| — | replace | Section 41109(c) of title 46, United States Code, is amended by striking “section 41104(1) or (2)” and inserting “paragraph (1) or (2) of section 41104(a)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 42502(c)(3) of title 46, United States Code is amended by striking “Representation” and all that follows through “Members” and inserting “Representation.—Members”. | the bill names no machine-readable US Code section |
+| — | replace | Section 46108 of title 46, United States Code, is amended by striking “$29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021” and inserting “$32,603,492 for fiscal year 2022 and $35,863,842 for fiscal year 2023”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “one year” and inserting “2 years”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2 terms” and inserting “3 terms”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “of the individual being succeeded” and inserting “to which such individual is appointed”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “2 terms” and inserting “3 terms”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the predecessor of that” and inserting “such”. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1321` | add-at-end | Section 311(c)(3) of the Federal Water Pollution Control Act (33 U.S.C. 1321(c)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 70006 of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for chapter 700 of title 46, United States Code, is amended by striking the item relating to section 70006 and inserting the following: | the bill names no machine-readable US Code section |
@@ -215,7 +270,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
 | `34 U.S.C. § 12291` | replace | Section 10104 of title 46, United States Code, is amended by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 30104(a) of title 46, United States Code, as so designated by section 405(a)(1), is amended by inserting “, including an injury resulting from sexual assault or sexual harassment,” after “in the course of employment”. | the bill names no machine-readable US Code section |
+| — | insert | Section 30104(a) of title 46, United States Code, as so designated by section 505(a)(1), is amended by inserting “, including an injury resulting from sexual assault or sexual harassment,” after “in the course of employment”. | the bill names no machine-readable US Code section |
 | — | strike | in the section heading by striking “for personal injury or death”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Except as otherwise” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -227,6 +282,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “transportation security cards” each place it appears and inserting “transportation worker identification credentials”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “card” each place it appears and inserting “credential” | the bill names no machine-readable US Code section |
 | — | replace | in the heading for subsection (b) by striking “cards” and inserting “credentials”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g), by striking “Assistant Secretary of Homeland Security for” and inserting “Administrator of”; | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (i) and redesignating subsections (j) and (k) as subsections (i) and (j), respectively; | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (l) and redesignating subsections (m) through (q) as subsections (k) through (o), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading by striking “security card” and inserting “worker identification credential”; and | the bill names no machine-readable US Code section |
