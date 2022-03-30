@@ -1,7 +1,7 @@
 ---
 measure: S. 3969
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
