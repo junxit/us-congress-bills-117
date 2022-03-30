@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3359
@@ -62,3 +62,14 @@ Homicide Victims' Families' Rights Act of 2021
 - 2022-03-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 88). (text: 3/28/2022 CR H3875-3876)
 - 2022-03-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 88).(text: 3/28/2022 CR H3875-3876)
 - 2022-03-30 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-07-25 — Passed Senate without amendment by Unanimous Consent.
+- 2022-07-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-07-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-07-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3627)
+- 2022-07-26 — Message on Senate action sent to the House.
+- 2022-08-02 — Presented to President.
+- 2022-08-02 — Presented to President.
+- 2022-08-03 — Became Public Law No: 117-164.
+- 2022-08-03 — Became Public Law No: 117-164.
+- 2022-08-03 — Signed by President.
+- 2022-08-03 — Signed by President.
