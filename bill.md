@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5343
 
-> To direct the Administrator of the Federal Emergency Management Agency to submit a report to Congress on case management personnel turnover, and for other purposes.
+> To direct the Comptroller General of the United States to submit a report to Congress on case management personnel turnover of the Federal Emergency Management Agency, and for other purposes.
 
 ## § 1. Short title
 

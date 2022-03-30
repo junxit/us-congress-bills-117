@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5343
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5343
@@ -25,6 +25,10 @@ FEMA Caseworker Accountability Act
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2022-03-30 — [House 117-2-93](votes/house-117-2-0093.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–17)
+
 ## Actions
 
 - 2021-09-22 — Introduced in House
@@ -37,3 +41,12 @@ FEMA Caseworker Accountability Act
 - 2022-03-29 — Placed on the Union Calendar, Calendar No. 208.
 - 2022-03-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-281.
 - 2022-03-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-281.
+- 2022-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-30 — Considered as unfinished business. (consideration: CR H3998)
+- 2022-03-30 — Considered under suspension of the rules. (consideration: CR H3990)
+- 2022-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5343.
+- 2022-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-30 — Ms. Williams (GA) moved to suspend the rules and pass the bill, as amended.
+- 2022-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 17 (Roll no. 93). (text: CR H3990)
+- 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 17 (Roll no. 93).(text: CR H3990)
+- 2022-03-30 — The title of the measure was amended. Agreed to without objection.
