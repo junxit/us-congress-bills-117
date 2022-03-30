@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5673
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5673
@@ -36,3 +36,11 @@ Safeguarding Tomorrow through Ongoing Risk Mitigation Technical Corrections Act
 - 2022-03-24 — Placed on the Union Calendar, Calendar No. 202.
 - 2022-03-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-275.
 - 2022-03-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-275.
+- 2022-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-30 — Considered as unfinished business. (consideration: CR H3997-3998)
+- 2022-03-30 — Considered under suspension of the rules. (consideration: CR H3989-3990)
+- 2022-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5673.
+- 2022-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-30 — Ms. Williams (GA) moved to suspend the rules and pass the bill.
+- 2022-03-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 24 (Roll no. 92). (text: CR H3989)
+- 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 24 (Roll no. 92).(text: CR H3989)
