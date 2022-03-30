@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5547
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5547
@@ -25,6 +25,10 @@ CEDS Act
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2022-03-30 — [House 117-2-94](votes/house-117-2-0094.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (304–122)
+
 ## Actions
 
 - 2021-10-08 — Introduced in House
@@ -40,3 +44,11 @@ CEDS Act
 - 2022-03-08 — Placed on the Union Calendar, Calendar No. 189.
 - 2022-03-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-259, Part I.
 - 2022-03-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-259, Part I.
+- 2022-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-30 — Considered as unfinished business. (consideration: CR H3998-3999)
+- 2022-03-30 — Considered under suspension of the rules. (consideration: CR H3990-3992)
+- 2022-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5547.
+- 2022-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-30 — Ms. Williams (GA) moved to suspend the rules and pass the bill, as amended.
+- 2022-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 304 - 122 (Roll no. 94). (text: CR H3990-3991)
+- 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 304 - 122 (Roll no. 94).(text: CR H3990-3991)
