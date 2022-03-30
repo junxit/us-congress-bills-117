@@ -1,7 +1,7 @@
 ---
 measure: S. 442
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 442
@@ -32,3 +32,5 @@ BRIGHT Act
 - 2022-02-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-80.
 - 2022-02-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-80.
 - 2022-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
+- 2022-03-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1860; text: CR S1860-1861)
+- 2022-03-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1860; text: CR S1860-1861)
