@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6865
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6865
@@ -23,9 +23,10 @@ Coast Guard Authorization Act of 2022
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 - Rep. Garamendi, John [D-CA-3] (G000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Coast Guard Authorization Act of 2022
 - 2022-03-29 — Placed on the Union Calendar, Calendar No. 209.
 - 2022-03-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-282.
 - 2022-03-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-282.
+- 2022-03-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
