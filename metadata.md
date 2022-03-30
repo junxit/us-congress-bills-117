@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4738
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4738
@@ -50,9 +50,10 @@ COVID–19 American History Project Act
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ COVID–19 American History Project Act
 - 2022-03-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-03-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 47 (Roll no. 89). (text: 3/28/2022 CR H3883-3884)
 - 2022-03-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 47 (Roll no. 89).(text: 3/28/2022 CR H3883-3884)
+- 2022-03-30 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
