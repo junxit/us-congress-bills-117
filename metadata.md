@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 547
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 547
@@ -78,3 +78,5 @@ A resolution recognizing the 201st anniversary of Greek Independence and celebra
 - 2022-03-28 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-03-28 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.
+- 2022-03-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1860; text: 3/15/2022 CR S1181)
+- 2022-03-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1860; text: 3/15/2022 CR S1181)
