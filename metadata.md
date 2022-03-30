@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3359
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3359
@@ -36,9 +36,10 @@ Homicide Victims' Families' Rights Act of 2021
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Homicide Victims' Families' Rights Act of 2021
 - 2022-03-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-03-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 88). (text: 3/28/2022 CR H3875-3876)
 - 2022-03-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 88).(text: 3/28/2022 CR H3875-3876)
+- 2022-03-30 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
