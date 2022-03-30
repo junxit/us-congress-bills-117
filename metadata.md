@@ -1,7 +1,7 @@
 ---
 measure: S. 400
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 400
@@ -57,3 +57,13 @@ William T. Coleman, Jr. and Norman Y. Mineta Department of Transportation Headqu
 - 2022-03-30 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2022-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 4, 1 Present (Roll no. 91). (text: CR H3988)
 - 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 4, 1 Present (Roll no. 91).(text: CR H3988)
+- 2022-03-31 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-04-06 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S.400 by Unanimous Consent.(consideration: CR S2054)
+- 2022-04-06 — Senate agreed to the House amendment to S.400 by Unanimous Consent. (consideration: CR S2054)
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-05-03 — Presented to President.
+- 2022-05-03 — Presented to President.
+- 2022-05-06 — Became Public Law No: 117-117.
+- 2022-05-06 — Became Public Law No: 117-117.
+- 2022-05-06 — Signed by President.
+- 2022-05-06 — Signed by President.
