@@ -1,7 +1,7 @@
 ---
 measure: S. 442
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 442
@@ -34,3 +34,20 @@ BRIGHT Act
 - 2022-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
 - 2022-03-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1860; text: CR S1860-1861)
 - 2022-03-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1860; text: CR S1860-1861)
+- 2022-03-31 — Held at the desk.
+- 2022-03-31 — Message on Senate action sent to the House.
+- 2022-03-31 — Received in the House.
+- 2022-09-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-13 — Considered under suspension of the rules. (consideration: CR H7759-7760)
+- 2022-09-13 — DEBATE - The House proceeded with forty minutes of debate on S. 442.
+- 2022-09-13 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2022-09-14 — Considered as unfinished business. (consideration: CR H7824-7825)
+- 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 347 - 78 (Roll no. 430). (text: 9/13/2022 CR H7759-7760)
+- 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 347 - 78 (Roll no. 430).
+- 2022-10-17 — Became Public Law No: 117-202.
+- 2022-10-17 — Became Public Law No: 117-202.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Signed by President.
+- 2022-10-17 — Signed by President.
