@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2954
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2954
@@ -122,11 +122,12 @@ Securing a Strong Retirement Act of 2021
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (3)
+## Committees (4)
 
 - House — Education and the Workforce Committee
 - House — Financial Services Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -153,3 +154,4 @@ Securing a Strong Retirement Act of 2021
 - 2022-03-29 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 117-283, Part I.
 - 2022-03-29 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 117-283, Part I.
 - 2022-03-29 — UNANIMOUS CONSENT - Mr. Neal asked unanimous consent that debate under clause 1(c) of rule 15 on a motion to suspend the rules and pass H.R. 2954, as amended be extended to eighty minutes of debate. Agreed to without objection.
+- 2022-03-30 — Received in the Senate and Read twice and referred to the Committee on Finance.
