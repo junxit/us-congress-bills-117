@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 427
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 427
@@ -16,11 +16,13 @@ A resolution to commemorate the 30-year anniversary of the 1991 Paris Peace Agre
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ A resolution to commemorate the 30-year anniversary of the 1991 Paris Peace Agre
 
 - 2021-10-26 — Introduced in Senate
 - 2021-10-26 — Referred to the Committee on Foreign Relations. (text: CR S7372-7373)
+- 2022-03-23 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-03-30 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2022-03-30 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2022-03-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.
