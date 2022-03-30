@@ -1,19 +1,12 @@
 ---
 legis-num: S. 400
 congress: 117th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 400
 
-> To designate the headquarters building of the Department of Transportation located at 1200 New Jersey Avenue, SE, in Washington, DC, as the “William T. Coleman, Jr., Federal Building”.
+That the bill from the Senate (S. 400) entitled “An Act to designate the headquarters building of the Department of Transportation located at 1200 New Jersey Avenue, SE, in Washington, DC, as the “William T. Coleman, Jr., Federal Building””, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “William T. Coleman, Jr., Department of Transportation Headquarters Act”.
-
-## § 2. William T. Coleman, Jr., Federal Building
-
-- **(a)** *In general* The headquarters building of the Department of Transportation located at 1200 New Jersey Avenue, SE, in Washington, DC, shall be known and designated as the “William T. Coleman, Jr., Federal Building”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in subsection (a) shall be deemed to be a reference to the “William T. Coleman, Jr., Federal Building”.
+*Strike out all after the enacting clause and insert:*
