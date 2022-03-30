@@ -1,7 +1,7 @@
 ---
 measure: S. 400
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 400
@@ -46,3 +46,14 @@ William T. Coleman, Jr. and Norman Y. Mineta Department of Transportation Headqu
 - 2021-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
 - 2021-04-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1950; text: CR S1950)
 - 2021-04-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1950; text: CR S1950)
+- 2021-04-15 — Held at the desk.
+- 2021-04-15 — Message on Senate action sent to the House.
+- 2021-04-15 — Received in the House.
+- 2022-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-03-30 — Considered as unfinished business. (consideration: CR H3996-3997)
+- 2022-03-30 — Considered under suspension of the rules. (consideration: CR H3988-3989)
+- 2022-03-30 — DEBATE - The House proceeded with forty minutes of debate on S. 400.
+- 2022-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-30 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2022-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 4, 1 Present (Roll no. 91). (text: CR H3988)
+- 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 4, 1 Present (Roll no. 91).(text: CR H3988)
