@@ -1,7 +1,7 @@
 ---
 measure: S. 3580
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3580
@@ -74,3 +74,20 @@ Ocean Shipping Reform Act of 2022
 - 2022-03-31 — Senate amendment proposed (on the floor): Amendment SA 5017 proposed by Senator Schumer for Senator Cantwell.(consideration: CR S1891; text: CR S1915-1919)
 - 2022-03-31 — Senate amendment submitted
 - 2022-03-31 — The committee substitute withdrawn by Unanimous Consent.
+- 2022-04-04 — Held at the desk.
+- 2022-04-04 — Message on Senate action sent to the House.
+- 2022-04-04 — Received in the House.
+- 2022-06-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-06-13 — Considered as unfinished business. (consideration: CR H5467-5468)
+- 2022-06-13 — Considered under suspension of the rules. (consideration: CR H5460-5467)
+- 2022-06-13 — DEBATE - The House proceeded with forty minutes of debate on S. 3580.
+- 2022-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-13 — Mr. DeFazio moved to suspend the rules and pass the bill.
+- 2022-06-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 42 (Roll no. 256). (text: CR H5460-5464)
+- 2022-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 42 (Roll no. 256).(text: CR H5460-5464)
+- 2022-06-14 — Presented to President.
+- 2022-06-14 — Presented to President.
+- 2022-06-16 — Became Public Law No: 117-146.
+- 2022-06-16 — Became Public Law No: 117-146.
+- 2022-06-16 — Signed by President.
+- 2022-06-16 — Signed by President.
