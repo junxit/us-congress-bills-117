@@ -1,7 +1,7 @@
 ---
 measure: S. 3785
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3785
@@ -24,3 +24,7 @@ A bill to amend title 49, United States Code, to eliminate the restriction on ve
 
 - 2022-03-08 — Introduced in Senate
 - 2022-03-08 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-03-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2022-03-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2022-03-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2022-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
