@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5547
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5547
@@ -20,10 +20,11 @@ CEDS Act
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ CEDS Act
 - 2022-03-30 — Ms. Williams (GA) moved to suspend the rules and pass the bill, as amended.
 - 2022-03-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 304 - 122 (Roll no. 94). (text: CR H3990-3991)
 - 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 304 - 122 (Roll no. 94).(text: CR H3990-3991)
+- 2022-03-31 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
