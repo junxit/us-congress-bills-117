@@ -1,7 +1,7 @@
 ---
 measure: S. 1320
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1320
@@ -33,3 +33,5 @@ Chiricahua National Park Act
 - 2022-03-02 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-88.
 - 2022-03-02 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-88.
 - 2022-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.
+- 2022-03-31 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1887; text: CR S1887)
+- 2022-03-31 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1887; text: CR S1887)

@@ -13,28 +13,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Chiricahua National Park Act”.
 
-## § 2. Definitions
+## § 2. Designation of Chiricahua National Park, Arizona
 
-In this Act:
-
-- **(1)** *Monument* The term Monument means the Chiricahua National Monument established by Presidential Proclamation 1692 (54 U.S.C. 320301 note; 43 Stat. 1946).
-- **(2)** *Park* The term Park means the Chiricahua National Park established by section 3(a).
-- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(4)** *State* The term State means the State of Arizona.
-
-## § 3. Establishment of Chiricahua National Park
-
-- **(a)** *Establishment* To protect, preserve, and interpret the rhyolitic rock formations, biodiversity, and other natural and cultural resources of the area, there is established in the State as a unit of the National Park System the Chiricahua National Park.
-- **(b)** *Boundaries*
-  - **(1)** *In general* The boundaries of the Park are as generally depicted on the map entitled “Chiricahua National Park Proposed Boundary”, numbered 145/156,356, and dated March 2021.
-  - **(2)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
-- **(c)** *Abolishment of chiricahua national monument*
-  - **(1)** *Abolishment* The Monument is abolished.
-  - **(2)** *Incorporation* The land and any interest in land that constitute the Monument (as in existence on the day before the date of enactment of this Act) are incorporated in, and shall be considered to be part of, the Park.
-  - **(3)** *Availability of funds* Any funds available for the Monument shall be available for the Park.
-- **(d)** *References*
-  - **(1)** *In general* Any reference in a law, map, regulation, document, paper, or other record of the United States to the “Chiricahua National Monument” shall be considered to be a reference to the “Chiricahua National Park”.
-  - **(2)** *Wilderness* Any reference in a law, map, regulation, document, paper, or other record of the United States to the “Chiricahua National Monument Wilderness” designated by Public Law 94–567 (16 U.S.C. 1132 note; 90 Stat. 2692) shall be considered to be a reference to the “Chiricahua National Park Wilderness”.
-- **(e)** *Administration* The Secretary shall administer the Park in accordance with—
-  - **(1)** this Act; and
-  - **(2)** the laws generally applicable to units of the National Park System.
+- **(a)** *Designation*
+  - **(1)** *In general* The Chiricahua National Monument in the State of Arizona established by Presidential Proclamation 1692 (54 U.S.C. 320301 note; 43 Stat. 1946) shall be known and designated as “Chiricahua National Park” (referred to in this Act as the “National Park”).
+  - **(2)** *Boundaries* The boundaries of the National Park shall be the boundaries of the Chiricahua National Monument as of the date of enactment of this Act, as generally depicted on the map entitled “Chiricahua National Park Proposed Boundary”, numbered 145/156,356, and dated March 2021.
+  - **(3)** *References* Any reference in a law, map, regulation, document, or other record of the United States to the Chiricahua National Monument shall be considered to be a reference to the “Chiricahua National Park”.
+  - **(4)** *Availability of funds* Any funds available for the Chiricahua National Monument shall be available for the National Park.
+- **(b)** *Administration* The Secretary of the Interior shall administer the National Park in accordance with—
+  - **(1)** Presidential Proclamation 1692 (54 U.S.C. 320301 note; 43 Stat. 1946);
+  - **(2)** Presidential Proclamation 2288 (54 U.S.C. 320301 note; 52 Stat. 1551); and
+  - **(3)** the laws generally applicable to units of the National Park System, including—
+    - **(A)** section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code; and
+    - **(B)** chapter 3201 of title 54, United States Code.
