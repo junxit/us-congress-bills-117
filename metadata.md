@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5706
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5706
@@ -34,11 +34,12 @@ Stop Sexual Assault and Harassment in Transportation Act
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (3)
+## Committees (4)
 
 - House — Budget Committee
 - House — Judiciary Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Stop Sexual Assault and Harassment in Transportation Act
 - 2022-03-30 — Mr. DeFazio moved to suspend the rules and pass the bill.
 - 2022-03-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 85 (Roll no. 90). (text: CR H3983-3987)
 - 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 85 (Roll no. 90).(text: CR H3983-3987)
+- 2022-03-31 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
