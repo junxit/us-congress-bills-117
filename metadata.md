@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6833
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6833
@@ -16,10 +16,39 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Cosponsors (2)
+## Cosponsors (31)
 
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 - Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
 
 ## Committees (3)
 
@@ -34,3 +63,22 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - 2022-02-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-02-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-02-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-02-28 — Referred to the Subcommittee on Health.
+- 2022-03-31 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-03-31 — Considered as unfinished business. (consideration: CR H4053-4055)
+- 2022-03-31 — Considered under the provisions of rule H. Res. 1017. (consideration: CR H4033-4046)
+- 2022-03-31 — DEBATE - The House proceeded with one hour of debate on H.R. 6833.
+- 2022-03-31 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-03-31 — House amendment offered
+- 2022-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-03-31 — Mr. Bucshon moved to recommit to the Committee on Energy and Commerce. (text: CR H4046)
+- 2022-03-31 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-03-31 — On motion to recommit Failed by the Yeas and Nays: 197 - 225 (Roll no. 101).
+- 2022-03-31 — On passage Passed by the Yeas and Nays: 232 - 193 (Roll no. 102). (text: CR H4033-4034)
+- 2022-03-31 — POSTPONED PROCEEDINGS - At the conclusion of the debate on H.R. 6833, the Chair put the question on the motion to recommit and by voice vote announced the noes had prevailed. Mr. Bucshon demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-03-31 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 193 (Roll no. 102).(text: CR H4033-4034)
+- 2022-03-31 — Rule H. Res. 1017 passed House.
+- 2022-03-31 — Rule provides for consideration of H.R. 3617 and H.R. 6833. The resolutions provides for one hour of general debate on H.R. 3617, under a structured rule. The resolution provides for one hour of general debate on H.R. 6833, under a closed rule. The rule provides that House Resolution 188, agreed to March 8, 2021, is amended by striking April 1, 2022 each place it appears and inserting April 29, 2022.
+- 2022-03-31 — Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 3617 and H.R. 6833. The resolutions provides for one hour of general debate on H.R. 3617, under a structured rule. The resolution provides for one hour of general debate on H.R. 6833, under a closed rule. The rule provides that House Resolution 188, agreed to March 8, 2021, is amended by striking April 1, 2022 each place it appears and inserting April 29, 2022.
+- 2022-03-31 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-03-31 — The previous question was ordered pursuant to the rule.
