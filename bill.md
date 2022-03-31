@@ -1,0 +1,24 @@
+---
+legis-num: S. 3986
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3986
+
+> To delay the effectiveness of certain new rules or regulations relating to the United States energy sector.
+
+## § 1. Short title
+
+This Act may be cited as the “Gas Prices Relief Act of 2022”.
+
+## § 2. Energy regulations holiday
+
+- **(a)** *In general* During the period described in subsection (b), no Federal agency shall finalize any rule or regulation that would cause—
+  - **(1)** a decrease in domestic oil, gas, or biofuels production;
+  - **(2)** an increase in gasoline prices; or
+  - **(3)** any negative effects on domestic energy production, domestic electricity generation, transmission of fuel or electricity, infrastructure development, or transportation fuels.
+- **(b)** *Period described* The period referred to in subsection (a) is the period beginning on the date of enactment of this Act and ending on the earlier of—
+  - **(1)** January 1, 2023; and
+  - **(2)** the date on which the national average consumer gasoline price is $2.60 per gallon or less.
