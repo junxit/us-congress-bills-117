@@ -1,7 +1,7 @@
 ---
 measure: S. 3580
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3580
@@ -16,7 +16,7 @@ Ocean Shipping Reform Act of 2022
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (31)
+## Cosponsors (34)
 
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -49,6 +49,9 @@ Ocean Shipping Reform Act of 2022
 - Sen. Hagerty, Bill [R-TN] (H000601)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Thune, John [R-SD] (T000250)
 
 ## Committees (1)
 
@@ -62,3 +65,12 @@ Ocean Shipping Reform Act of 2022
 - 2022-03-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2022-03-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2022-03-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
+- 2022-03-31 — Amendment SA 5017 agreed to in Senate by Unanimous Consent.
+- 2022-03-31 — Amendment SA 5017 proposed by Senator Schumer for Senator Cantwell. (consideration: CR S1891; text: CR S1915-1919) In the nature of a substitute.
+- 2022-03-31 — Measure laid before Senate by unanimous consent. (consideration: CR S1887-1901; text: CR S1887-1891)
+- 2022-03-31 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S1915-1919)
+- 2022-03-31 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2022-03-31 — Senate amendment agreed to: Amendment SA 5017 agreed to in Senate by Unanimous Consent.
+- 2022-03-31 — Senate amendment proposed (on the floor): Amendment SA 5017 proposed by Senator Schumer for Senator Cantwell.(consideration: CR S1891; text: CR S1915-1919)
+- 2022-03-31 — Senate amendment submitted
+- 2022-03-31 — The committee substitute withdrawn by Unanimous Consent.
