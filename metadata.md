@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5673
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5673
@@ -20,9 +20,10 @@ Safeguarding Tomorrow through Ongoing Risk Mitigation Technical Corrections Act
 
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Safeguarding Tomorrow through Ongoing Risk Mitigation Technical Corrections Act
 - 2022-03-30 — Ms. Williams (GA) moved to suspend the rules and pass the bill.
 - 2022-03-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 24 (Roll no. 92). (text: CR H3989)
 - 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 24 (Roll no. 92).(text: CR H3989)
+- 2022-03-31 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
