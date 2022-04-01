@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3617
@@ -186,3 +186,49 @@ Marijuana Opportunity Reinvestment and Expungement Act
 - 2022-03-24 — Placed on the Union Calendar, Calendar No. 203.
 - 2022-03-24 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-276, Part I.
 - 2022-03-24 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-276, Part I.
+- 2022-03-31 — Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 3617 and H.R. 6833. The resolutions provides for one hour of general debate on H.R. 3617, under a structured rule. The resolution provides for one hour of general debate on H.R. 6833, under a closed rule. The rule provides that House Resolution 188, agreed to March 8, 2021, is amended by striking April 1, 2022 each place it appears and inserting April 29, 2022.
+- 2022-04-01 — Amendment (A002) offered by Mr. Gottheimer. (consideration: CR H4106-4107; text: CR H4106)
+- 2022-04-01 — Amendment (A003) offered by Mr. Lamb. (consideration: CR H4107-4108; text: CR H4107)
+- 2022-04-01 — Amendment (A004) offered by Mr. Raskin. (consideration: CR H4108-4110; text: CR H4108)
+- 2022-04-01 — Amendment agreed to by House: On agreeing to the Gottheimer amendment (A002) Agreed to by the Yeas and Nays: 243 - 172 (Roll no. 103).
+- 2022-04-01 — Amendment agreed to by House: On agreeing to the Lamb amendment (A003) Agreed to by the Yeas and Nays: 234 - 189 (Roll no. 104).
+- 2022-04-01 — Amendment failed by House: On agreeing to the Raskin amendment (A004) Failed by the Yeas and Nays: 209 - 214 (Roll no. 105).
+- 2022-04-01 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-04-01 — Considered under the provisions of rule H. Res. 1017. (consideration: CR H4078-4110, H4110-4111; text: CR S4078-4087)
+- 2022-04-01 — DEBATE - Pursuant to the provisions of H. Res. 1017, the House proceeded with 10 minutes of debate on the Gottheimer amendment No. 1.
+- 2022-04-01 — DEBATE - Pursuant to the provisions of H. Res. 1017, the House proceeded with 10 minutes of debate on the Lamb amendment No. 2.
+- 2022-04-01 — DEBATE - Pursuant to the provisions of H. Res. 1017, the House proceeded with 10 minutes of debate on the Raskin amendment No. 3.
+- 2022-04-01 — DEBATE - The House proceeded with one hour of debate on H.R. 3617.
+- 2022-04-01 — House amendment agreed to: On agreeing to the Gottheimer amendment (A002) Agreed to by the Yeas and Nays: 243 - 172 (Roll no. 103).
+- 2022-04-01 — House amendment agreed to: On agreeing to the Lamb amendment (A003) Agreed to by the Yeas and Nays: 234 - 189 (Roll no. 104).
+- 2022-04-01 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-04-01 — House amendment not agreed to: On agreeing to the Raskin amendment (A004) Failed by the Yeas and Nays: 209 - 214 (Roll no. 105).
+- 2022-04-01 — House amendment offered
+- 2022-04-01 — House amendment offered
+- 2022-04-01 — House amendment offered
+- 2022-04-01 — House amendment offered
+- 2022-04-01 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gottheimer.
+- 2022-04-01 — House amendment offered/reported by: Amendment (A003) offered by Mr. Lamb.
+- 2022-04-01 — House amendment offered/reported by: Amendment (A004) offered by Mr. Raskin.
+- 2022-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-01 — Mr. Latta moved to recommit to the Committee on the Judiciary. (text: CR H4112-4116)
+- 2022-04-01 — On agreeing to the Gottheimer amendment (A002) Agreed to by the Yeas and Nays: 243 - 172 (Roll no. 103).
+- 2022-04-01 — On agreeing to the Lamb amendment (A003) Agreed to by the Yeas and Nays: 234 - 189 (Roll no. 104).
+- 2022-04-01 — On agreeing to the Raskin amendment (A004) Failed by the Yeas and Nays: 209 - 214 (Roll no. 105).
+- 2022-04-01 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-04-01 — On motion to recommit Failed by the Yeas and Nays: 202 - 220 (Roll no. 106).
+- 2022-04-01 — On passage Passed by the Yeas and Nays: 220 - 204 (Roll no. 107).
+- 2022-04-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gottheimer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Bentz demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-04-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamb amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Bentz demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-04-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Raskin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Bentz demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-04-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 204 (Roll no. 107).
+- 2022-04-01 — Roll call votes on amendments in House
+- 2022-04-01 — Roll call votes on amendments in House
+- 2022-04-01 — Roll call votes on amendments in House
+- 2022-04-01 — Rule provides for consideration of H.R. 3617 and H.R. 6833. The resolutions provides for one hour of general debate on H.R. 3617, under a structured rule. The resolution provides for one hour of general debate on H.R. 6833, under a closed rule. The rule provides that House Resolution 188, agreed to March 8, 2021, is amended by striking April 1, 2022 each place it appears and inserting April 29, 2022.
+- 2022-04-01 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-04-01 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-04-01 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-04-01 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-04-01 — The previous question was ordered pursuant to the rule.
+- 2022-04-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments, which were debated earlier and on which further proceedings had been postponed. (consideration: CR H4111-4112)

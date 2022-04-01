@@ -159,7 +159,7 @@ The Congress finds as follows:
 
 ## § 5. Creation of Opportunity Trust Fund and imposition of taxes with respect to cannabis products
 
-- **(a)** *Establishment of trust fund* Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+- **(a)** *Establishment of Opportunity Trust Fund* Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
   > ## § 9512. Establishment of Opportunity Trust Fund
   >
   > - **(a)** *Creation of Trust Fund* There is established in the Treasury of the United States a trust fund to be known as the “Opportunity Trust Fund” (referred to in this section as the “Trust Fund”), consisting of such amounts as may be appropriated or credited to such fund as provided in this section or section 9602(b).
@@ -181,7 +181,7 @@ The Congress finds as follows:
   - **(3)** The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following new item:
 - **(f)** *Effective date*
   - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to removals, and applications for permits under section 5922 of the Internal Revenue Code of 1986 (as added by subsection (b)), after 180 days after the date of the enactment of this Act.
-  - **(2)** *Establishment of trust fund* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.
+  - **(2)** *Establishment of Opportunity Trust Fund* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.
 
 ## § 6. Opportunity trust fund programs
 
@@ -288,7 +288,7 @@ The Congress finds as follows:
 
 ## § 9. No adverse effect for purposes of the immigration laws
 
-- **(a)** *In general* For purposes of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act), cannabis may not be considered a controlled substance, and an alien may not be denied any benefit or protection under the immigration laws based on any event, including conduct, a finding, an admission, addiction or abuse, an arrest, a juvenile adjudication, or a conviction, relating to cannabis, regardless of whether the event occurred before, on, or after the effective date of this Act.
+- **(a)** *In general* For purposes of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act), cannabis may not be considered a controlled substance, and an alien may not be denied any benefit or protection under the immigration laws based on any event, including conduct, a finding, an admission, addiction or abuse, an arrest, a juvenile adjudication, or a conviction, relating to the possession or use of cannabis that is no longer prohibited pursuant to this Act or an amendment made by this Act, regardless of whether the event occurred before, on, or after the effective date of this Act.
 - **(b)** *Cannabis defined* The term “cannabis”—
   - **(1)** means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin; and
   - **(2)** does not include—
@@ -375,3 +375,23 @@ The Comptroller General of the United States shall, not later than 2 years after
 - **(19)** diversion of marijuana into neighboring States and drug seizures in neighboring States;
 - **(20)** marijuana plants grown on public lands in contravention to Federal and State laws; and
 - **(21)** court filings under a State’s organized crime statutes.
+
+## § 16. Study on marijuana impairment
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall conduct a study on technologies and methods that law enforcement may use to determine whether a driver is impaired by marijuana.
+- **(b)** *Requirements* The study conducted under subsection (a) shall be carried out by the National Highway Traffic Safety Administration, in consultation with any other agency the Secretary determines appropriate.
+- **(c)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 to carry out this section.
+
+## § 17. Workplace impact of marijuana legalization study
+
+Not later than one year after the date of enactment of this Act, the National Institute for Occupational Safety and Health shall—
+
+- **(1)** conduct a study and submit to Congress a report on the impact of the legalization of recreational cannabis by States on the workplace; and
+- **(2)** develop best practices for use by employers that are transitioning their policies related to the use of recreational cannabis, prioritizing the development of best practices for employers engaged in Federal infrastructure projects, transportation, public safety, and national security.
+
+## § 18. School impact of marijuana legalization study
+
+Not later than one year after the date of enactment of this Act, the Secretary of Education shall—
+
+- **(1)** conduct a study and submit to Congress a report on the impact of the legalization of recreational cannabis by States on schools and school-aged children; and
+- **(2)** develop best practices for use by educators and administrators to protect school-aged children from any negative impacts of such legalization.
