@@ -1,7 +1,7 @@
 ---
 measure: H.R. 735
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 735
@@ -93,3 +93,7 @@ To designate the facility of the United States Postal Service located at 502 Eas
 - 2022-02-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 4, 1 Present (Roll no. 41).(text: 02/01/2022 CR H318)
 - 2022-02-08 — The title of the measure was amended. Agreed to without objection.
 - 2022-02-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-03-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-04-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-04-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 328.
