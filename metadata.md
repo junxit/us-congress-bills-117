@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3613
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3613
@@ -56,3 +56,12 @@ To designate the facility of the United States Postal Service located at 202 Tru
 - 2022-04-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-04-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.
+- 2022-05-25 — Message on Senate action sent to the House.
+- 2022-05-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2679)
+- 2022-05-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-06-09 — Presented to President.
+- 2022-06-09 — Presented to President.
+- 2022-06-16 — Became Public Law No: 117-147.
+- 2022-06-16 — Became Public Law No: 117-147.
+- 2022-06-16 — Signed by President.
+- 2022-06-16 — Signed by President.
