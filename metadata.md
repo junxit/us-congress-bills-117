@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 503
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 503
@@ -42,3 +42,7 @@ A resolution expressing the sense of the Senate that the Government of the Peopl
 
 - 2022-02-03 — Introduced in Senate
 - 2022-02-03 — Referred to the Committee on Foreign Relations. (text: CR S525)
+- 2022-03-23 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-04-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2022-04-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 323.
