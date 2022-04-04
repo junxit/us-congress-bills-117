@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3617
@@ -133,7 +133,7 @@ Marijuana Opportunity Reinvestment and Expungement Act
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
-## Committees (9)
+## Committees (10)
 
 - House — Transportation and Infrastructure Committee
 - House — Oversight and Accountability Committee
@@ -144,6 +144,7 @@ Marijuana Opportunity Reinvestment and Expungement Act
 - House — Agriculture Committee
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -232,3 +233,4 @@ Marijuana Opportunity Reinvestment and Expungement Act
 - 2022-04-01 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-04-01 — The previous question was ordered pursuant to the rule.
 - 2022-04-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments, which were debated earlier and on which further proceedings had been postponed. (consideration: CR H4111-4112)
+- 2022-04-04 — Received in the Senate and Read twice and referred to the Committee on Finance.
