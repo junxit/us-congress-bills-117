@@ -18,9 +18,9 @@ This Act may be cited as the “Pray Safe Act”.
 In this Act—
 
 - **(1)** the term Clearinghouse means the Federal Clearinghouse on Safety Best Practices for Faith-Based Organizations and Houses of Worship established under section 2220A of the Homeland Security Act of 2002, as added by section 3 of this Act;
-- **(2)** the term Department means the Department of Homeland Security; and
+- **(2)** the term Department means the Department of Homeland Security;
 - **(3)** the terms “faith-based organization” and “house of worship” have the meanings given such terms under section 2220A of the Homeland Security Act of 2002, as added by section 3 of this Act; and
-- **(3)(4)** the term Secretary means the Secretary of Homeland Security.
+- **(4)** the term Secretary means the Secretary of Homeland Security.
 
 ## § 3. Federal Clearinghouse on Safety and Security Best Practices for Faith-Based Organizations and Houses of Worship
 
@@ -29,9 +29,8 @@ In this Act—
   >
   > - **(a)** *Definitions* In this section—
   >   - **(1)** the term Clearinghouse means the Clearinghouse on Safety and Security Best Practices for Faith-Based Organizations and Houses of Worship established under subsection (b)(1);
-  >   - **(2)** the term faith-based organization means a group, center, or nongovernmental organization at risk because of religious, ideological, or spiritual beliefs; and
   >   - **(2)** the term faith-based organization means a group, center, or nongovernmental organization with a religious, ideological, or spiritual motivation, character, affiliation, or purpose;
-  >   - **(3)** the term house of worship means a place or building, including synagogues, mosques, temples, and churches, in which congregants practice their religious or spiritual beliefs.; and
+  >   - **(3)** the term house of worship means a place or building, including synagogues, mosques, temples, and churches, in which congregants practice their religious or spiritual beliefs; and
   >   - **(4)** the term safety and security, for the purpose of the Clearinghouse, means prevention of, protection against, or recovery from threats, including manmade disasters, natural disasters, or violent attacks.
   > - **(b)** *Establishment*
   >   - **(1)** *In general* Not later than 270 days after the date of enactment of the Pray Safe Act, the Secretary, in consultation with the Attorney General, the Executive Director of the White House Office of Faith-Based and Neighborhood Partnerships, and the head of any other agency that the Secretary determines appropriate, shall establish a Federal Clearinghouse on Safety and Security Best Practices for Faith-Based Organizations and Houses of Worship within the Department.
@@ -55,7 +54,7 @@ In this Act—
   >     - **(A)** identify areas of concern for faith-based organizations and houses of worship, including event planning recommendations, checklists, facility hardening, tabletop exercise resources, and other resilience measures;
   >     - **(B)** involve comprehensive safety measures, including threat prevention, preparedness, protection, mitigation, incident response, and recovery to improve the safety posture of faith-based organizations and houses of worship upon implementation;
   >     - **(C)** involve comprehensive safety measures, including preparedness, protection, mitigation, incident response, and recovery to improve the resiliency of faith-based organizations and houses of worship from manmade and natural disasters;
-  >     - **(D)** include any evidence or research rationale supporting the determination of the Clearinghouse that the best practices or recommendations under subparagraph (B) hashave been shown to have a significant effect on improving the safety and security of individuals in faith-based organizations and houses of worship, including—
+  >     - **(D)** include any evidence or research rationale supporting the determination of the Clearinghouse that the best practices or recommendations under subparagraph (B) have been shown to have a significant effect on improving the safety and security of individuals in faith-based organizations and houses of worship, including—
   >       - **(i)** findings and data from previous Federal, State, local, Tribal, territorial, private sector, and nongovernmental organization research centers relating to safety, security, and targeted violence at faith-based organizations and houses of worship; and
   >       - **(ii)** other supportive evidence or findings relied upon by the Clearinghouse in determining best practices and rec­om­men­da­tions to improve the safety and security posture of a faith-based organization or house of worship upon implementation; and
   >     - **(E)** include an overview of the available resources the Clearinghouse can provide for faith-based organizations and houses of worship.
@@ -77,7 +76,7 @@ In this Act—
   >       - **(ii)** the recommendations proposed under subparagraph (B)(iii).
   >   - **(2)** *Annual report to Congress* The Secretary shall submit to Congress, on an annual basis, a report on the updates made to the Clearinghouse during the preceding 1-year period under paragraph (1)(C), which shall include a description of any changes made to the Clearinghouse.
 
-- **(b)** *Technical Amendments* The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135), as amended by section 9 of this Act, is amended by inserting after the item relating to section 2220 the following:
+- **(b)** *Technical Amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135), as amended by section 9 of this Act, is amended by inserting after the item relating to section 2220 the following:
 
 ## § 4. Notification of Clearinghouse
 
@@ -139,10 +138,10 @@ Chapter 35 of title 44, United States Code (commonly known as the “Paperwork R
   - **(5)** by redesignating the second section 2215 (relating to the Joint Cyber Planning Office) (6 U.S.C. 665b) as section 2216.
 - **(b)** *Technical and conforming amendments* Section 2202(c) of the Homeland Security Act of 2002 (6 U.S.C. 652(c)) is amended—
   - **(1)** in paragraph (11), by striking “and” at the end;
-  - **(1)(2)** in the first paragraph (12),—
+  - **(2)** in the first paragraph (12)—
     - **(A)** by striking “section 2215” and inserting “section 2217”; and
     - **(B)** by striking “and” at the end; and
-  - **(2)(3)** by redesignating the second and third paragraphs (12) as paragraphs (13) and (14), respectively.
+  - **(3)** by redesignating the second and third paragraphs (12) as paragraphs (13) and (14), respectively.
 - **(c)** *Table of contents* The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135) is amended by striking the item relating to section 2214 and all that follows through the item relating to section 2217 and inserting the following:
 - **(d)** *Additional technical amendment*
   - **(1)** *Amendment* Section 904(b)(1) of the DOTGOV Act of 2020 (title IX of division U of Public Law 116–260) is amended, in the matter preceding subparagraph (A), by striking “Homeland Security Act” and inserting “Homeland Security Act of 2002”.

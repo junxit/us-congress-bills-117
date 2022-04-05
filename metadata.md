@@ -1,7 +1,7 @@
 ---
 measure: S. 2123
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2123
@@ -36,3 +36,5 @@ Pray Safe Act
 - 2022-02-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-81.
 - 2022-02-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-81.
 - 2022-02-17 — Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
+- 2022-04-05 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S1983-1987; text: CR S1983-1985)
+- 2022-04-05 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S1983-1987; text as amended: CR S1983-1985, text as passed: CR S1985-1987)
