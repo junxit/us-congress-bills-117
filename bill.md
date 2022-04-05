@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4209
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,8 +15,8 @@ This Act may be cited as the “DHS Illicit Cross-Border Tunnel Defense Act”.
 
 ## § 2. Counter illicit cross-border tunnel operations
 
-- **(a)** *Counter illicit cross-Border tunnel operations strategic plan*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Commissioner of U.S. Customs and Border Protection shall develop a strategic plan to address the following:
+- **(a)** *Counter illicit cross-border tunnel operations strategic plan*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Commissioner of U.S. Customs and Border Protection, in coordination with the Under Secretary for Science and Technology, and, as appropriate, other officials of the Department of Homeland Security, shall develop a counter illicit cross-border tunnel operations strategic plan (in this section referred to as the “strategic plan”) to address the following:
     - **(A)** Risk-based criteria to be used to prioritize the identification, breach, assessment, and remediation of illicit cross-border tunnels.
     - **(B)** Promote the use of innovative technologies to identify, breach, assess, and remediate illicit cross-border tunnels in a manner that, among other considerations, reduces the impact of such activities on surrounding communities.
     - **(C)** Processes to share relevant illicit cross-border tunnel location, operations, and technical information.
@@ -27,5 +27,7 @@ This Act may be cited as the “DHS Illicit Cross-Border Tunnel Defense Act”.
         - **(I)** A position description for counter illicit cross-border tunnel operations personnel.
         - **(II)** Any specialized skills required of such personnel.
         - **(III)** The number of such full time personnel, disaggregated by U.S. Border Patrol sector.
-  - **(2)** *Report to Congress on strategic plan* Not later than one year after the issuance of the strategic plan required under paragraph (1), the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of paragraph (1).
-- **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Commissioner of U.S. Customs and Border Protection $1,000,000 for each of fiscal years 2022 and 2023 to carry out remediation operations of illicit cross-border tunnels.
+  - **(2)** *Report to Congress on strategic plan* Not later than one year after the development of the strategic plan, the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of the strategic plan.
+- **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Commissioner of U.S. Customs and Border Protection $1,000,000 for each of fiscal years 2023 and 2024 to carry out—
+  - **(1)** the development of the strategic plan; and
+  - **(2)** remediation operations of illicit cross-border tunnels in accordance with the strategic plan to the maximum extent practicable.
