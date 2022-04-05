@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5657
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5657
@@ -53,3 +53,4 @@ Medical Marijuana Research Act
 - 2022-04-04 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2022-04-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 75 (Roll no. 108). (text: CR H4136-4138)
 - 2022-04-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 75 (Roll no. 108).(text: CR H4136-4138)
+- 2022-04-05 — Received in the Senate.
