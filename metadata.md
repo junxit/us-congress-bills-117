@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5633
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5633
@@ -36,3 +36,9 @@ Department of Homeland Security Inspector General Transparency Act
 - 2022-01-21 — Placed on the Union Calendar, Calendar No. 168.
 - 2022-01-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-233.
 - 2022-01-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-233.
+- 2022-04-05 — Considered under suspension of the rules. (consideration: CR H4162-4164)
+- 2022-04-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5633.
+- 2022-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-05 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
+- 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4162-4163)
+- 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4162-4163)
