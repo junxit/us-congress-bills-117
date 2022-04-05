@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5689
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5689
@@ -40,3 +40,11 @@ Resilient AMERICA Act
 - 2022-03-24 — Placed on the Union Calendar, Calendar No. 204.
 - 2022-03-24 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-277.
 - 2022-03-24 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-277.
+- 2022-04-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-04-05 — Considered as unfinished business. (consideration: CR H4182-4183)
+- 2022-04-05 — Considered under suspension of the rules. (consideration: CR H4170-4175)
+- 2022-04-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5689.
+- 2022-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-05 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 41 (Roll no. 113). (text: CR H4170-4172)
+- 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 41 (Roll no. 113).(text: CR H4170-4172)
