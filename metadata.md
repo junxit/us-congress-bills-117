@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1916
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1916
@@ -336,11 +336,12 @@ Ensuring Lasting Smiles Act
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Rose, John W. [R-TN-6] (R000612)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -362,3 +363,4 @@ Ensuring Lasting Smiles Act
 - 2022-04-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 110 (Roll no. 109). (text: CR H4140-4141)
 - 2022-04-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 110 (Roll no. 109).(text: CR H4140-4141)
 - 2022-04-04 — The Chair announced the Speaker's designation, pursuant to clause 7(a)(1) of rule 15, of H.R. 1916 as the measure on the Consensus Calendar to be considered this week.
+- 2022-04-05 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
