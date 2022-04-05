@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2501
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2501
@@ -33,3 +33,11 @@ Spectrum Coordination Act
 - 2022-03-31 — Placed on the Union Calendar, Calendar No. 212.
 - 2022-03-31 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-287.
 - 2022-03-31 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-287.
+- 2022-04-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-04-04 — Considered under suspension of the rules. (consideration: CR H4134-4136)
+- 2022-04-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2501.
+- 2022-04-04 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2022-04-05 — Considered as unfinished business. (consideration: CR H4180-4181)
+- 2022-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 6 (Roll no. 111). (text: 4/4/2022 CR H4134-4135)
+- 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 6 (Roll no. 111).(text: 4/4/2022 CR H4134-4135)
