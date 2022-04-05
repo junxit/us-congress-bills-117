@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 7395
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7395
+
+> To amend the Internal Revenue Code of 1986 to increase the deduction for certain expenses of elementary and secondary school teachers.
+
+## § 1. Short title
+
+This Act may be cited as the “Educators Expense Deduction Modernization Act of 2022”.
+
+## § 2. Increase in deduction for certain expenses of eligible educators
+
+- **(a)** *In general* Section 62(a)(2)(D) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** in the heading, by striking “elementary and secondary school teachers” and inserting “eligible educators”, and
+  - **(2)** by striking “$250” and inserting “$1,000”.
+- **(b)** *Conforming amendments* Section 62(d)(3) of such Code is amended—
+  - **(1)** by striking “2015” and inserting “2022”,
+  - **(2)** by striking “250” and inserting “1,000”, and
+  - **(3)** by striking “calendar year 2014” and inserting “calendar year 2021”.
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to taxable years beginning after December 31, 2021.
