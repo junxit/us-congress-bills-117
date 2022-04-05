@@ -13,22 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Resilient Assistance for Mitigation for Environmentally Resilient Infrastructure and Construction by Americans Act” or the “Resilient AMERICA Act”.
 
-## § 2. Unspent funds
+## § 2. Predisaster hazard mitigation
 
-- **(a)** *Redistribution of unclaimed amounts* Section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c) is amended—
-  - **(1)** by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and
-  - **(2)** by inserting after subsection (e) the following:
-    > - **(f)** *Redistribution of unclaimed or unobligated amounts* The President may—
-    >   - **(1)** withdraw any portion of financial assistance made available to a State or Indian tribal government under subsection (a) for which the State or Indian tribal government has failed to submit an application upon the expiration of the application submission time limit or that remains unobligated for a major disaster or event eligible for assistance pursuant to section 420 upon the expiration of 84 months or the closeout of the grant, whichever is sooner; and
-    >   - **(2)** transfer the financial assistance withdrawn under paragraph (1) to any other amounts otherwise available to be awarded under section 203.
+Section 203(i) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by striking “equal to 6 percent” and inserting “equal to not more than 15 percent”.
 
-- **(b)** *Applicability* The amendment made by subsection (a) shall apply to any major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act on or after November 23, 1988.
-
-## § 3. Predisaster hazard mitigation
-
-Section 203(i) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by striking “6 percent” and inserting “15 percent”.
-
-## § 4. Nonprofit facilities
+## § 3. Nonprofit facilities
 
 Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended—
 
@@ -48,7 +37,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
   - **(B)** in paragraph (3)(A) by inserting “or private nonprofit facilities located in the State” after “local governments of a State”; and
 - **(6)** in subsection (g) by striking “or local government” in each place it appears and inserting “, local government, or private nonprofit facility”.
 
-## § 5. Building code implementation and enforcement set aside
+## § 4. Building code implementation and enforcement set aside
 
 - **(a)** *In general* Section 203(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(m)) is amended—
   - **(1)** by redesignating paragraph (3) as paragraph (4); and
@@ -58,7 +47,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 - **(b)** *Latest published editions* Section 203(m) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(m)) is amended by inserting “, (f)(3),” after “subsections (e)(1)(B)(iv)”.
 - **(c)** *Conforming amendment* Section 1234 of the Disaster Recovery Reform Act of 2018 (42 U.S.C. 5133 note) is amended by striking subsection (d).
 
-## § 6. Resilient infrastructure
+## § 5. Resilient infrastructure
 
 - **(a)** *Use of assistance* Subsection (g) of section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(g)) (as redesignated by section 2) is amended—
   - **(1)** in paragraph (12)—
@@ -87,7 +76,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
   - **(4)** by adding at the end the following:
     > - **(4)** planning, design, or construction of vertical evacuation structures in designated and mapped tsunami danger areas or hazard zones.
 
-## § 7. Residential retrofit and resilience pilot program
+## § 6. Residential retrofit and resilience pilot program
 
 - **(a)** *Establishment* The Administrator of the Federal Emergency Management Agency shall carry out a residential resilience pilot program through the program established under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) to make available assistance to State and local governments for the purpose of providing grants to individuals for residential resilience retrofits.
 - **(b)** *Amount of funds* The Administrator may use not more than 10 percent of the assistance made available to applicants on an annual basis under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) to provide assistance under this section.
@@ -109,7 +98,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
     - **(F)** wind retrofits, including roof replacements, hurricane straps, and tie-downs; and
     - **(G)** any other measures that meet the requirements of paragraph (1), as determined by the Administrator.
 
-## § 8. Buy America for nonemergency projects
+## § 7. Buy America for nonemergency projects
 
 - **(a)** *In general* For the purposes of this rulemaking, to ensure that the United States has the productive capability to respond quickly to emergencies and natural disasters with a strong domestic industrial base being in the public interest, the Administrator of the Federal Emergency Management Agency shall require, as a condition of any financial assistance provided by the Agency on a nonemergency basis after promulgation of regulations pursuant to subsection (c) for a construction project with a cost of at least $1,000,000, that the steel and iron used in the project be produced in the United States.
 - **(b)** *Waiver*
@@ -122,7 +111,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 - **(c)** *Rulemaking* Not later than 18 months after the date of enactment of this Act, the President, acting through the Administrator of the Federal Emergency Management Agency, shall conduct and complete a rulemaking to establish what considerations shall be used by the Administrator to assess whether a waiver request made pursuant to subsection (b)(1)(A) is in the public interest. Such criteria shall include both a calculation considering domestically produced steel and iron and a calculation with non-domestically produced steel and iron for construction projects which require a Benefit-Cost Analysis in order to qualify for financial assistance.
 - **(d)** *Adjustment* The amount in subsection (a) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
-## § 9. Reimbursement of interest payments related to public assistance
+## § 8. Reimbursement of interest payments related to public assistance
 
 - **(a)** *In general* Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following:
   > ## § 431. Reimbursement of interest payments related to public assistance
@@ -138,7 +127,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 
 - **(b)** *Rule of applicability* Any qualifying interest (as such term is defined in section 431 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as added by this section) incurred by a State or local government, electric cooperative, or nonprofit organization in the 5 years preceding the date of enactment of this Act shall be treated as eligible for financial assistance for purposes of such section 431.
 
-## § 10. Funding of a Federally Authorized Water Resources Development Project
+## § 9. Funding of a Federally Authorized Water Resources Development Project
 
 Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is further amended by adding at the end the following:
 
@@ -154,7 +143,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 >     - **(D)** the responsibilities of a non-Federal interest with respect to such project, including those related to the provision of lands, easements, rights-of-way, dredge material disposal areas, and necessary relocations.
 >   - **(6)** *Limitation* If a federally authorized water resources development project of the Army Corps of Engineers is constructed with funding provided under this subsection, no further Federal funding shall be provided for construction of such a project.
 
-## § 11. GAO report to Congress on challenges under public assistance alternative procedures
+## § 10. GAO report to Congress on challenges under public assistance alternative procedures
 
 - **(a)** *In general* The Comptroller General of the United States shall conduct a study on the challenges to States and Territories of the United States in obtaining assistance under section 428 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189f).
 - **(b)** *Contents* In conducting the study described in subsection (a), the Comptroller General shall study the challenges for assistance described in subsection (a) faced by the following:
@@ -162,3 +151,7 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
   - **(2)** Small impoverished communities, as such term is defined in section 203 of such Act.
   - **(3)** Other communities, areas, or individuals that the Comptroller General determines pertinent.
 - **(c)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to Congress a report describing the results of the study required under subsection (a).
+
+## § 11. Applicability
+
+The amendments made by sections 2, 4(a), 8, and 9, and the provisions under section 6, shall only apply to amounts appropriated on or after the date of enactment of this Act.

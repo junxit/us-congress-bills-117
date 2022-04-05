@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5689
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 9 executed, 22 stated and not applied.
+29 amendatory instructions. 9 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 5133
 
-> Section 203(i) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by striking “6 percent” and inserting “15 percent”.
+> Section 203(i) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by striking “equal to 6 percent” and inserting “equal to not more than 15 percent”.
 
 | | |
 |---|---|
-| Removed | `6 percent` |
-| Inserted | `15 percent` |
+| Removed | `equal to 6 percent` |
+| Inserted | `equal to not more than 15 percent` |
 
 ### 42 U.S.C. § 5133
 
@@ -114,8 +114,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5170c` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5170c` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5133` | insert | in paragraph (3) by inserting “or private nonprofit facilities” after “any local governments of the State”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | insert | in paragraph (2) by inserting “or private nonprofit facilities located in the State” after “local governments of the State”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5133` | insert | in paragraph (3)(A) by inserting “or private nonprofit facilities located in the State” after “local governments of a State”; and | the bill quotes the text inserted but describes where it goes |
