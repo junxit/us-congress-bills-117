@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1540
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,8 +15,24 @@ This Act may be cited as the “Reporting Efficiently to Proper Officials in Res
 
 ## § 2. Duty to report
 
-- **(a)** *Duty imposed* Whenever an incident of terrorism occurs in the United States, it shall be the duty of the Secretary of Homeland Security, in coordination with the Attorney General and the Director of the Federal Bureau of Investigation, to submit to Congress, not later than upon completion of the investigation relating to such incident by the primary United States Government agency conducting such investigation, an unclassified report (which may be accompanied by a classified annex) concerning such incident.
-- **(b)** *Content of reports* A report under this section shall contain—
-  - **(1)** a statement of the facts of the incident of terrorism that is the subject of such report, as known at the time of such report; and
-  - **(2)** any recommendations for changes in practices or law, consistent with the Constitution, with particular attention to changes that could help prevent future incidents of terrorism.
-- **(c)** *Definition* In this section, the term “incident of terrorism” means an event declared by the Federal Bureau of Investigation to be an act of terrorism.
+- **(a)** *In general* Whenever an act of terrorism occurs in the United States, the Secretary of Homeland Security, the Attorney General, the Director of the Federal Bureau of Investigation, and, as appropriate, the head of the National Counterterrorism Center, shall submit to the appropriate congressional committees, by not later than one year after the completion of the investigation concerning such act by the primary Government agency conducting such investigation, an unclassified report (which may be accompanied by a classified annex) concerning such act.
+- **(b)** *Content of reports* A report under this section shall—
+  - **(1)** include a statement of the facts of the act of terrorism referred to in subsection (a), as known at the time of the report;
+  - **(2)** identify any gaps in homeland or national security that could be addressed to prevent future acts of terrorism; and
+  - **(3)** include any recommendations for additional measures that could be taken to improve homeland or national security, including recommendations relating to potential changes in law enforcement practices or changes in law, with particular attention to changes that could help prevent future acts of terrorism.
+- **(c)** *Exception*
+  - **(1)** *In general* If the Secretary of Homeland Security, the Attorney General, the Director of the Federal Bureau of Investigation, or, as appropriate, the head of the National Counterterrorism Center determines any information described in subsection (b) required to be reported in accordance with subsection (a) could jeopardize an ongoing investigation or prosecution, the Secretary, Attorney General, Director, or head, as the case may be—
+    - **(A)** may withhold from reporting such information; and
+    - **(B)** shall notify the appropriate congressional committees of such determination.
+  - **(2)** *Saving provision* Withholding of information pursuant to a determination under paragraph (1) shall not affect in any manner the responsibility to submit a report required under subsection (a) containing other information described in subsection (b) not subject to such determination.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Act of terrorism* The term “act of terrorism” has the meaning given such term in section 3077 of title 18, United States Code.
+  - **(2)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+    - **(A)** in the House of Representatives—
+      - **(i)** the Committee on Homeland Security;
+      - **(ii)** the Committee on the Judiciary; and
+      - **(iii)** the Permanent Select Committee on Intelligence; and
+    - **(B)** in the Senate—
+      - **(i)** the Committee on Homeland Security and Governmental Affairs;
+      - **(ii)** the Committee on the Judiciary; and
+      - **(iii)** the Select Committee on Intelligence.

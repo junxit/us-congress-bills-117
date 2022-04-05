@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1540
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1540
@@ -16,7 +16,7 @@ REPORT Act
 
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
 
-## Cosponsors (23)
+## Cosponsors (27)
 
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
@@ -41,6 +41,10 @@ REPORT Act
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
 ## Committees (1)
 
@@ -51,3 +55,13 @@ REPORT Act
 - 2021-03-03 — Introduced in House
 - 2021-03-03 — Introduced in House
 - 2021-03-03 — Referred to the House Committee on Homeland Security.
+- 2021-03-04 — Referred to the Subcommittee on Intelligence and Counterterrorism.
+- 2022-03-02 — Committee Consideration and Mark-up Session Held.
+- 2022-03-02 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2022-03-02 — Subcommittee on Intelligence and Counterterrorism Discharged.
+- 2022-04-05 — Considered under suspension of the rules. (consideration: CR H4164-4165)
+- 2022-04-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1540.
+- 2022-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-05 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
+- 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4164)
+- 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4164)
