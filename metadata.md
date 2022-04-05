@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5641
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5641
@@ -40,3 +40,11 @@ Small Project Efficient and Effective Disaster Recovery Act
 - 2022-03-24 — Placed on the Union Calendar, Calendar No. 201.
 - 2022-03-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-274.
 - 2022-03-24 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-274.
+- 2022-04-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-04-05 — Considered as unfinished business. (consideration: CR H4183)
+- 2022-04-05 — Considered under suspension of the rules. (consideration: CR H4175-4177)
+- 2022-04-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5641.
+- 2022-04-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-05 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 114). (text: CR H4175)
+- 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 114).(text: CR H4175)
