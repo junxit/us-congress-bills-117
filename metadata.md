@@ -1,7 +1,7 @@
 ---
 measure: S. 270
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 270
@@ -48,3 +48,18 @@ Brown v. Board of Education National Historical Park Expansion and Redesignation
 - 2022-04-06 — Senate amendment proposed (on the floor): Amendment SA 5018 proposed by Senator Schumer for Senator Coons.(consideration: CR S2054; text: CR S2045-2047)
 - 2022-04-06 — Senate amendment submitted
 - 2022-04-06 — The committee amendment withdrawn by Unanimous Consent. (CR S2054)
+- 2022-04-07 — Held at the desk.
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-04-07 — Received in the House.
+- 2022-04-26 — Considered under suspension of the rules. (consideration: CR H4475-4477)
+- 2022-04-26 — DEBATE - The House proceeded with forty minutes of debate on S. 270.
+- 2022-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4475-4476)
+- 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-05-09 — Presented to President.
+- 2022-05-09 — Presented to President.
+- 2022-05-12 — Became Public Law No: 117-123.
+- 2022-05-12 — Became Public Law No: 117-123.
+- 2022-05-12 — Signed by President.
+- 2022-05-12 — Signed by President.
