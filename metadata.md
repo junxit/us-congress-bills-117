@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4476
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4476
@@ -22,10 +22,11 @@ DHS Trade and Economic Security Council Act of 2021
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ DHS Trade and Economic Security Council Act of 2021
 - 2022-04-05 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 75 (Roll no. 112). (text: CR H4168-4169)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 75 (Roll no. 112).(text: CR H4168-4169)
+- 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
