@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5641
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5641
@@ -24,9 +24,10 @@ Small Project Efficient and Effective Disaster Recovery Act
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Small Project Efficient and Effective Disaster Recovery Act
 - 2022-04-05 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 114). (text: CR H4175)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 114).(text: CR H4175)
+- 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
