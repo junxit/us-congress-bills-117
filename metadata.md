@@ -1,7 +1,7 @@
 ---
 measure: S. 270
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 270
@@ -39,3 +39,12 @@ Brown v. Board of Education National Historical Park Expansion and Redesignation
 - 2022-03-02 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 117-87.
 - 2022-03-02 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 117-87.
 - 2022-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.
+- 2022-04-06 — Amendment SA 5018 agreed to in Senate by Unanimous Consent.
+- 2022-04-06 — Amendment SA 5018 proposed by Senator Schumer for Senator Coons. (consideration: CR S2054; text: CR S2045-2047) In the nature of a substitute.
+- 2022-04-06 — Measure laid before Senate by unanimous consent. (consideration: CR S2053-2054)
+- 2022-04-06 — Passed Senate with an amendment by Voice Vote.
+- 2022-04-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2022-04-06 — Senate amendment agreed to: Amendment SA 5018 agreed to in Senate by Unanimous Consent.
+- 2022-04-06 — Senate amendment proposed (on the floor): Amendment SA 5018 proposed by Senator Schumer for Senator Coons.(consideration: CR S2054; text: CR S2045-2047)
+- 2022-04-06 — Senate amendment submitted
+- 2022-04-06 — The committee amendment withdrawn by Unanimous Consent. (CR S2054)

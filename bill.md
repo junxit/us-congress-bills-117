@@ -11,68 +11,113 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Brown v. Board of Education National Historic Site Expansion Act”.
+This Act may be cited as the “Brown v. Board of Education National Historical Park Expansion and Redesignation Act”.
 
-## § 2. Expansion of the Brown v. Board of Education National Historic Site
+## § 2. Redesignation of the Brown v. Board of Education National Historical Park
 
-In order to honor the civil rights stories of struggle, perseverance, and activism in the pursuit of education equity, the Act entitled “Act to provide for the establishment of the Brown v. Board of Education National Historic Site in the State of Kansas, and for other purposes” approved October 26, 1992 (Public Law 102–525; 106 Stat. 3438 et seq.), is amended as follows:
-
-- **(1)** In section 101, by adding at the end the following new paragraph:
-  > - **(3)** The terms affiliated area and affiliated areas mean one or more of the locations associated with the four court cases included in Brown v. Board of Education of Topeka described in section 102(a)(8), (9), and (10).
-
-- **(2)** In section 102(a)—
-  - **(A)** by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively;
-  - **(B)** by inserting after paragraph (2), the following:
-    > - **(3)** The Brown case was joined by four other cases related to school segregation pending before the Supreme Court (Briggs v. Elliott, filed in South Carolina; Davis v. County School Board of Prince Edward County, Spottswood Thomas Bolling, et al., Petitioners, v. C. Melvin Sharpe, President of the District of Columbia Board of Education, et al., filed in Virginia; Gebhart v. Belton, filed in Delaware; and Bolling v. Sharpe, filed in the District of Columbia) and consolidated into one case named Brown v. Board of Education of Topeka.
-    > - **(4)** A 1999 historic resources study examined the five cases included in Brown v. Board of Education of Topeka and found each to be nationally significant and to contribute unique stories to the case for educational equity.
-
-  - **(C)** by inserting after paragraph (6) (as so redesignated by this section), the following:
-    > - **(7)** Summerton High School in South Carolina, the all-White school that refused to admit the plaintiffs in Briggs v. Elliott, has been listed on the National Register of Historic Places in recognition of its national significance and is used as administrative offices for Clarendon School District 1. Other sites include former Scott’s Branch High School, an “equalization school” constructed for African-American students in 1951 to provide facilities comparable to those of White students and that is now the Community Resource Center owned by Clarendon School District 1.
-    > - **(8)** Robert Russa Moton School, the all-Black school in Farmville, Virginia, which was the location of a student-led strike leading to Davis v. County School Board of Prince Edward County, Spottswood Thomas Bolling, et al., Petitioners, v. C. Melvin Sharpe, President of the District of Columbia Board of Education, et al., has been designated a National Historic Landmark in recognition of its national significance. The school, now the Robert Russa Moton Museum, is governed by the Moton Museum, Inc., and affiliated with Longwood University.
-    > - **(9)** Howard High School in Wilmington, Delaware, an all-Black school to which plaintiffs in Belton v. Gebhart were forced to travel, has been designated a National Historic Landmark in recognition of its national significance. Now the Howard High School of Technology, it is an active school administered by the New Castle County Vocational-Technical School District. The all-White Claymont High School, which denied plaintiffs admission, is now the Claymont Community Center administered by the Brandywine Community Resource Council, Inc. The Hockessin School #107C (Hockessin Colored School) is the all-Black school in Hockessin, Delaware that one of the plaintiffs in Belton v. Gebhart was required to attend with no public transportation provided. The former Hockessin School building is utilized by Friends of Hockessin Colored School #107, Inc. as a community facility.
-    > - **(10)** John Philip Sousa Junior High School in the District of Columbia, the all-White school that refused to admit plaintiffs in Bolling v. Sharpe, has been designated a National Historic Landmark in recognition of its national significance. John Philip Sousa Junior High School, now John Philip Sousa Middle School, is owned by the District of Columbia Department of General Services and administered by the District of Columbia Public Schools.
-
-- **(3)** In section 102(b)(3)—
-  - **(A)** by inserting “, protection,” after “preservation”;
-  - **(B)** by inserting “, Kansas; Summerton, South Carolina; Farmville, Virginia; Wilmington and Hockessin, Delaware; and the District of Columbia” after “Topeka”; and
-  - **(C)** by inserting “and the context of Brown v. Board of Education” after “civil rights movement”.
-- **(4)** In section 103, by inserting after subsection (b) the following:
-  > - **(c)** *Boundary adjustment*
-  >   - **(1)** *In general* In addition to land described in subsection (b), the historic site shall consist of land and interests in land identified as Summerton High School and Scott’s Branch High School located in Clarendon County, South Carolina, after such land, or interests in land, is acquired by the Secretary and the determination is made under paragraph (2).
-  >   - **(2)** *Determination by secretary* The historic site shall not be expanded until the date on which the Secretary determines that a sufficient quantity of land, or interests in land, has been acquired to constitute a manageable park unit.
-  >   - **(3)** *Notice* Not later than 30 days after the date on which the Secretary makes a determination under paragraph (2), the Secretary shall publish in the Federal Register notice of the expansion of the historic site.
-  >   - **(4)** *Map* After the determination in subsection (2), the Secretary shall publish a new map of the historic site to include land or interests in land acquired under this subsection.
-
-- **(5)** In section 104—
-  - **(A)** by striking “section 103(b)” and inserting “subsections (b) and (c) of section 103”;
-  - **(B)** by striking “: Provided, however, That the” and inserting “. The”; and
-  - **(C)** by adding before the final period the following: “nor by condemnation of any land or interest in land within the boundaries of the historic site”.
-- **(6)** In section 105(c), by inserting before the final period the following: “in Topeka, Kansas. After the boundary adjustment under section 103(c), the Secretary shall prepare and submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the historic site locations in Clarendon County, South Carolina”.
-- **(7)** By inserting after section 105, the following:
-  > ## § 106. Establishment of the Brown v. Board of Education affiliated areas
-  >
-  > - **(a)** *In General* The locations associated with the three court cases included in Brown v. Board of Education of Topeka described in sections 102(a)(8), (9), and (10) are established as affiliated areas of the National Park System.
-  > - **(b)** *Administration* The affiliated areas shall be managed in accordance with—
-  >   - **(1)** this section; and
-  >   - **(2)** any law generally applicable to units of the National Park System.
-  > - **(c)** *General management plan*
-  >   - **(1)** *In general* Not later than two years after the date of the enactment of this Act, the Secretary, in consultation with the management entity of each affiliated area, shall develop a general management plan for each of the affiliated areas in accordance with section 100502 of title 54, United States Code. The general management plan shall—
-  >     - **(A)** be prepared in consultation and coordination with the interested State, county, and local governments, management entities, organizations, and interested members of the public associated with the affiliated area;
-  >     - **(B)** identify, as appropriate, the roles and responsibilities of the National Park Service and management entity in administering and interpreting the affiliated area in such a manner that it does not interfere with existing operations and continued use of existing facilities; and
-  >     - **(C)** require the Secretary to coordinate the preparation and implementation of the management plan and interpretation of the affiliated area with the Brown v. Board of Education National Historic Site.
-  >   - **(2)** *Public comment* The Secretary shall—
-  >     - **(A)** hold not less than one public meeting in the general proximity of each affiliated area on the proposed general management plan, including opportunities for public comment; and
-  >     - **(B)** publish the draft general management plan on the internet and provide an opportunity for public comment.
-  >   - **(3)** *Transmittal* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall transmit the general management plan for each affiliated area developed under subparagraph (1) to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
-  > - **(d)** *Management entity* The organizations described in paragraphs (8), (9), and (10) of section 102(a) shall be the management entity for its respective affiliated area.
-  > - **(e)** *Cooperative agreements* The Secretary may provide technical assistance and grants and enter into cooperative agreements with the management entity for each affiliated area to provide financial assistance for the marketing, marking, interpretation, and preservation of the respective affiliated area.
-  > - **(f)** *Land use* Nothing in this section affects land use rights of private property owners within or adjacent to the affiliated areas, including activities or uses on private land that can be seen or heard within the affiliated areas and the authorities for management entities to operate and administer the affiliated areas.
-  > - **(g)** *Limited role of the secretary* Nothing in this section authorizes the Secretary to acquire property in an affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of an affiliated area. Each affiliated area shall continue to be owned, operated, and managed by its respective public and private owners.
-
-- **(8)** By redesignating section 106 as section 107.
-- **(9)** In section 107 (as so redesignated by this subsection), by inserting before the period the following: “at the historic site, and there is authorized to be appropriated such sums as are necessary to carry out sections 103(c) and 106”.
-
-## § 3. Redesignation of the Brown v. Board of Education National Historical Park
-
-- **(a)** *In general* The Brown v. Board of Education National Historic Site established by section 103(a) of Public Law 102–525 (54 U.S.C. 320101 note; 106 Stat. 3439) shall be known and designated as the “Brown v. Board of Education National Historical Park”.
+- **(a)** *In general* The Brown v. Board of Education National Historic Site established by section 103(a) of Public Law 102–525 (106 Stat. 3439) shall be known and designated as the “Brown v. Board of Education National Historical Park”.
 - **(b)** *References* Any reference in any law, regulation, document, record, map, or other paper of the United States to the Brown v. Board of Education National Historic Site shall be considered to be a reference to the “Brown v. Board of Education National Historical Park”.
+- **(c)** *Conforming amendments* Title I of Public Law 102–525 (106 Stat. 3438) is amended—
+  - **(1)** in the title heading, by striking “historic site” and inserting “historical park”;
+  - **(2)** in sections 101(2) and 103(a), by striking “National Historic Site” each place it appears and inserting “National Historical Park”;
+  - **(3)** in the section heading for each of sections 103 and 105, by striking “historic site” each place it appears and inserting “historical park”; and
+  - **(4)** by striking “historic site” each place it appears and inserting “historical park”.
+
+## § 3. Expansion of the Brown v. Board of Education National Historical Park and establishment of affiliated areas
+
+- **(a)** *Purpose* The purpose of this section is to honor the civil rights stories of struggle, perseverance, and activism in the pursuit of education equity.
+- **(b)** *Definitions* Section 101 of Public Law 102–525 (106 Stat. 3438) (as amended by section 2(c)) is amended—
+  - **(1)** in the matter preceding paragraph (1), by striking “As used in this title—” and inserting “In this title:”;
+  - **(2)** in paragraph (1), by striking “the term” and inserting the “The term”;
+  - **(3)** in each of paragraphs (1) and (2), by inserting a paragraph heading, the text of which is comprised of the term defined in that paragraph;
+  - **(4)** by redesignating paragraphs (1) and (2) as paragraphs (3) and (2), respectively, and moving the paragraphs so as to appear in numerical order; and
+  - **(5)** by inserting before paragraph (2) (as so redesignated) the following:
+    > - **(1)** *Affiliated area* The term affiliated area means a site associated with a court case included in Brown v. Board of Education of Topeka described in paragraph (8), (9), or (10) of section 102(a) that is designated as an affiliated area of the National Park System by section 106(a).
+
+- **(c)** *Findings* Section 102(a) of Public Law 102–525 (106 Stat. 3438) is amended—
+  - **(1)** by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively;
+  - **(2)** by inserting after paragraph (2), the following:
+    > - **(3)** The Brown case was joined by 4 other cases relating to school segregation pending before the Supreme Court (Briggs v. Elliott, filed in South Carolina, Davis v. County School Board of Prince Edward County, filed in Virginia, Gebhart v. Belton, filed in Delaware, and Bolling v. Sharpe, filed in the District of Columbia) that were consolidated into the case of Brown v. Board of Education of Topeka.
+    > - **(4)** A 1999 historic resources study examined the 5 cases included in Brown v. Board of Education of Topeka and found that each case—
+    >   - **(A)** is nationally significant; and
+    >   - **(B)** contributes unique stories to the case for educational equity.
+
+  - **(3)** by inserting after paragraph (6) (as so redesignated), the following:
+    > - **(7)** With respect to the case of Briggs v. Elliott—
+    >   - **(A)** Summerton High School in Summerton, South Carolina, the all-White school that refused to admit the plaintiffs in the case—
+    >     - **(i)** has been listed on the National Register of Historic Places in recognition of the national significance of the school; and
+    >     - **(ii)** is used as administrative offices for Clarendon School District 1; and
+    >   - **(B)** the former Scott’s Branch High School, an “equalization school” in Summerton, South Carolina constructed for African-American students in 1951 to provide facilities comparable to those of White students, is now the Community Resource Center owned by Clarendon School District 1.
+    > - **(8)** Robert Russa Moton High School, the all-Black school in Farmville, Virginia, which was the location of a student-led strike leading to Davis v. County School Board of Prince Edward County—
+    >   - **(A)** has been designated as a National Historic Landmark in recognition of the national significance of the school; and
+    >   - **(B)** is now the Robert Russa Moton Museum, which is administered by the Moton Museum, Inc., and affiliated with Longwood University.
+    > - **(9)** With respect to the case of Belton v. Gebhart—
+    >   - **(A)** Howard High School in Wilmington, Delaware, an all-Black school to which the plaintiffs in the case were forced to travel—
+    >     - **(i)** has been designated as a National Historic Landmark in recognition of the national significance of the school; and
+    >     - **(ii)** is now the Howard High School of Technology, an active school administered by the New Castle County Vocational-Technical School District;
+    >   - **(B)** the all-White Claymont High School, which denied admission to the plaintiffs, is now the Claymont Community Center administered by the Brandywine Community Resource Council, Inc.; and
+    >   - **(C)** the Hockessin School #107C (Hockessin Colored School)—
+    >     - **(i)** is the all-Black school in Hockessin, Delaware, that 1 of the plaintiffs in the case was required to attend with no public transportation provided; and
+    >     - **(ii)** is now used as a community facility by Friends of Hockessin Colored School #107, Inc.
+    > - **(10)** John Philip Sousa Junior High School in the District of Columbia, the all-White school that refused to admit plaintiffs in Bolling v. Sharpe—
+    >   - **(A)** has been designated as a National Historic Landmark in recognition of the national significance of the school;
+    >   - **(B)** is now known as the “John Philip Sousa Middle School”; and
+    >   - **(C)** is owned by the District of Columbia Department of General Services and administered by the District of Columbia Public Schools.
+
+- **(d)** *Purposes* Section 102(b)(3) of Public Law 102–525 (106 Stat. 3438) is amended—
+  - **(1)** by inserting “, protection,” after “preservation”;
+  - **(2)** by striking “the city of Topeka” and inserting “Topeka, Kansas, Summerton, South Carolina, Farmville, Virginia, Wilmington, Claymont, and Hockessin, Delaware, and the District of Columbia”; and
+  - **(3)** by inserting “and the context of Brown v. Board of Education” after “civil rights movement”.
+- **(e)** *Boundary adjustment* Section 103 of Public Law 102–525 (106 Stat. 3439) is amended by adding at the end the following:
+  > - **(c)** *Boundary adjustment*
+  >   - **(1)** *Additions* In addition to the land described in subsection (b), the historical park shall include the land and interests in land, as generally depicted on the map entitled “Brown v. Board of Education National Historical Park Boundary Additions and Affiliated Areas”, numbered 462/178,449, and dated February 2022, and more particularly described as—
+  >     - **(A)** the Summerton High School site in Summerton, Clarendon County, South Carolina;
+  >     - **(B)** the former Scott’s Branch High School site in Summerton, Clarendon County, South Carolina; and
+  >     - **(C)** approximately 1 acre of land adjacent to Monroe Elementary School in Topeka, Shawnee County, Kansas.
+  >   - **(2)** *Map* The map described in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+- **(f)** *Property acquisition* Section 104 of Public Law 102–525 (106 Stat. 3439) is amended—
+  - **(1)** in the first sentence, by striking “section 103(b)” and inserting “subsections (b) and (c) of section 103”;
+  - **(2)** in the second sentence, by striking “States of Kansas” and inserting “State of Kansas or South Carolina”; and
+  - **(3)** in the proviso—
+    - **(A)** by striking “: Provided, however, That the” and inserting “. The”; and
+    - **(B)** by inserting “or by condemnation of any land or interest in land within the boundaries of the historical park” after “without the consent of the owner”.
+- **(g)** *General management plan* Section 105 of Public Law 102–525 (106 Stat. 3439) is amended by striking subsection (c) and inserting the following:
+  > - **(c)** *Amendment to general management plan* The Secretary shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives an amendment to the management plan for the historical park to include the portions of the historical park in Summerton, Clarendon County, South Carolina.
+
+- **(h)** *Affiliated areas* Public Law 102–525 (106 Stat. 3438) is amended—
+  - **(1)** by redesignating section 106 as section 107; and
+  - **(2)** by inserting after section 105 the following:
+    > ## § 106. Establishment of the Brown v. Board of Education affiliated areas
+    >
+    > - **(a)** *In general* On the date on which the Secretary determines that an appropriate management entity has been identified for the applicable affiliated area, as generally depicted on the map described in section 103(c)(1), the following shall be established as affiliated areas of the National Park System:
+    >   - **(1)** The Robert Russa Moton Museum in Farmville, Virginia.
+    >   - **(2)** The Delaware Brown v. Board of Education Civil Rights Sites, to include—
+    >     - **(A)** the former Howard High School in Wilmington, Delaware;
+    >     - **(B)** Claymont High School in Claymont, Delaware; and
+    >     - **(C)** Hockessin Colored School #107 in Hockessin, Delaware.
+    >   - **(3)** The John Philip Sousa Middle School in the District of Columbia.
+    > - **(b)** *Administration* Each affiliated area shall be managed in a manner consistent with—
+    >   - **(1)** this title; and
+    >   - **(2)** the laws generally applicable to units of the National Park System.
+    > - **(c)** *Management plans*
+    >   - **(1)** *In general* The Secretary, in consultation with the management entity for the applicable affiliated area, shall develop a management plan for each affiliated area.
+    >   - **(2)** *Requirements* A management plan under paragraph (1) shall—
+    >     - **(A)** be prepared in consultation and coordination with interested State, county, and local governments, management entities, organizations, and interested members of the public associated with the affiliated area;
+    >     - **(B)** identify, as appropriate, the roles and responsibilities of the National Park Service and the management entity in administering and interpreting the affiliated area in a manner that does not interfere with existing operations and continued use of existing facilities; and
+    >     - **(C)** require the Secretary to coordinate the preparation and implementation of the management plan and interpretation of the affiliated area with the historical park.
+    >   - **(3)** *Public comment* The Secretary shall—
+    >     - **(A)** hold not less than 1 public meeting in the general proximity of each affiliated area on the proposed management plan, which shall include opportunities for public comment; and
+    >     - **(B)**
+    >       - **(i)** publish the draft management plan on the internet; and
+    >       - **(ii)** provide an opportunity for public comment on the draft management plan.
+    >   - **(4)** *Submission* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives the management plan for each affiliated area developed under paragraph (1).
+    > - **(d)** *Cooperative agreements* The Secretary may provide technical and financial assistance to, and enter into cooperative agreements with, the management entity for each affiliated area to provide financial assistance for the marketing, marking, interpretation, and preservation of the applicable affiliated area.
+    > - **(e)** *Land use* Nothing in this section affects—
+    >   - **(1)** land use rights of private property owners within or adjacent to an affiliated area, including activities or uses on private land that can be seen or heard within an affiliated area; or
+    >   - **(2)** the authority of management entities to operate and administer the affiliated areas.
+    > - **(f)** *Limited role of the secretary*
+    >   - **(1)** *In general* Nothing in this section authorizes the Secretary—
+    >     - **(A)** to acquire land in an affiliated area; or
+    >     - **(B)** to assume financial responsibility for the operation, maintenance, or management of an affiliated area.
+    >   - **(2)** *Ownership* Each affiliated area shall continue to be owned, operated, and managed by the applicable public or private owner of the land in the affiliated area.
