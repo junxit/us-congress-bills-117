@@ -1,7 +1,7 @@
 ---
 measure: S. 2991
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2991
@@ -43,3 +43,19 @@ Countering Human Trafficking Act of 2021
 - 2022-04-06 — Senate amendment proposed (on the floor): Amendment SA 5019 proposed by Senator Schumer for Senator Peters.(consideration: CR S2055-2056; text: CR S2055-2056)
 - 2022-04-06 — Senate amendment submitted
 - 2022-04-06 — The committee substitute withdrawn by Unanimous Consent. (CR S2055)
+- 2022-04-07 — Held at the desk.
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-04-07 — Received in the House.
+- 2022-04-07 — Star Print ordered on the reported bill.
+- 2022-12-14 — Considered under suspension of the rules. (consideration: CR H9823-9826)
+- 2022-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 2991.
+- 2022-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-14 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2022-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9823-9824)
+- 2022-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-322.
+- 2022-12-27 — Became Public Law No: 117-322.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
