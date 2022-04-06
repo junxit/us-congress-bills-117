@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1951
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1951
@@ -46,3 +46,10 @@ Increase Federal Disaster Cost Share Act of 2021
 - 2021-03-16 — Introduced in House
 - 2021-03-16 — Introduced in House
 - 2021-03-16 — Referred to the House Committee on Transportation and Infrastructure.
+- 2021-03-17 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2021-03-24 — Committee Consideration and Mark-up Session Held.
+- 2021-03-24 — Ordered to be Reported (Amended) by the Yeas and Nays: 46 - 11.
+- 2021-03-24 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2022-04-06 — Placed on the Union Calendar, Calendar No. 213.
+- 2022-04-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-289.
+- 2022-04-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-289.
