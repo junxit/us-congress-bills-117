@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7276
 
-> To direct the President to submit to Congress a report on United States Government efforts to collect, analyze, and preserve evidence and information related to war crimes and any other atrocities committed during the full-scale Russian invasion of Ukraine since February 24, 2022, and for other purposes.
+> To direct the President to submit to Congress a report on United States Government efforts to collect, analyze, and preserve evidence and information related to war crimes and other atrocities committed during the full-scale Russian invasion of Ukraine since February 24, 2022, and for other purposes.
 
 ## § 1. Short title
 
@@ -22,10 +22,11 @@ It is the sense of Congress that—
   - **(B)** the deliberate targeting and attacking of hospitals, schools, and other non-military buildings dedicated to religion, art, science, or charitable purposes, such as the bombing of a theater in Mariupol that served as a shelter for noncombatants and had the word “children” written clearly in the Russian language outside;
   - **(C)** the indiscriminate bombardment of undefended dwellings and buildings;
   - **(D)** the wanton destruction of property not justified by military necessity;
-  - **(E)** unlawful civilian deportations; and
-  - **(F)** the taking of hostages;
+  - **(E)** unlawful civilian deportations;
+  - **(F)** the taking of hostages; and
+  - **(G)** rape, or sexual assault or abuse;
 - **(2)** the use of chemical weapons by the Government of the Russian Federation in Ukraine would constitute a war crime, and engaging in any military preparations to use chemical weapons or to develop, produce, stockpile, or retain chemical weapons is prohibited by the Chemical Weapons Convention, to which the Russian Federation is a signatory;
-- **(3)** Vladimir Putin has a long record of committing acts of aggression, systematic abuses of human rights, and acts that constitute war crimes or other atrocities both at home and abroad, and the brutality and scale of these actions, including in the Russian Federation Republic of Chechnya, Georgia, Syria, and Ukraine, demonstrate the extent to which his regime is willing to flout international norms and values in the pursuit of its objectives;
+- **(3)** Vladimir Putin has a long record of committing acts of aggression, systematic abuses of human rights, and acts that constitute war crimes or other atrocities both at home and abroad, and the brutality and scale of these actions, including in the Russian Federation republic of Chechnya, Georgia, Syria, and Ukraine, demonstrate the extent to which his regime is willing to flout international norms and values in the pursuit of its objectives;
 - **(4)** Vladimir Putin has previously sanctioned the use of chemical weapons at home and abroad, including in the poisonings of Russian spy turned double agent Sergei Skripal and his daughter Yulia and leading Russian opposition figure Aleksey Navalny, and aided and abetted the use of chemical weapons by President Bashar al-Assad in Syria; and
 - **(5)** in 2014, the Government of the Russian Federation initiated its unprovoked war of aggression against Ukraine which resulted in its illegal occupation of Crimea, the unrecognized declaration of independence by the so-called “Donetsk People’s Republic” and “Luhansk People’s Republic” by Russia-backed proxies, and numerous human rights violations and deaths of civilians in Ukraine.
 
@@ -39,13 +40,13 @@ It is the policy of the United States—
 
 ## § 4. Report on United States efforts
 
-Not later than 60 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report, which may include a classified annex, describing in detail the following:
+Not later than 90 days after the date of the enactment of this Act, and consistent with the protection of intelligence sources and methods, the President shall submit to the appropriate congressional committees a report, which may include a classified annex, describing in detail the following:
 
-- **(1)** United States Government efforts to collect, analyze, and preserve evidence and information related to war crimes and any other atrocities committed during the full-scale Russian invasion of Ukraine since February 24, 2022, including a description of—
+- **(1)** United States Government efforts to collect, analyze, and preserve evidence and information related to war crimes and other atrocities committed during the full-scale Russian invasion of Ukraine since February 24, 2022, including a description of—
   - **(A)** the respective roles of various agencies, departments, and offices, and the interagency mechanism established for the coordination of such efforts;
-  - **(B)** the types of information and evidence that are being collected, analyzed, and preserved to help identify those responsible for the commission of war crimes or any other atrocities during the full-scale Russian invasion of Ukraine in 2022; and
+  - **(B)** the types of information and evidence that are being collected, analyzed, and preserved to help identify those responsible for the commission of war crimes or other atrocities during the full-scale Russian invasion of Ukraine in 2022; and
   - **(C)** steps taken to coordinate with, and support the work of, allies, partners, international institutions and organizations, and nongovernmental organizations in such efforts.
-- **(2)** Media, public diplomacy, and information operations to make Russian military commanders, troops, political leaders and the Russian people aware of efforts to identify and prosecute those responsible for the commission of war crimes or any other atrocities during the full-scale Russian invasion of Ukraine in 2022, and of the types of acts that may be prosecutable.
+- **(2)** Media, public diplomacy, and information operations to make Russian military commanders, troops, political leaders and the Russian people aware of efforts to identify and prosecute those responsible for the commission of war crimes or other atrocities during the full-scale Russian invasion of Ukraine in 2022, and of the types of acts that may be prosecutable.
 - **(3)** The process for a domestic, foreign, or international court or tribunal to request and obtain from the United States Government information related to war crimes or other atrocities committed during the full-scale Russian invasion of Ukraine in 2022.
 
 ## § 5. Definitions
