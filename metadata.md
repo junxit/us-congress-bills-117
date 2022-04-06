@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5689
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5689
@@ -24,9 +24,10 @@ Resilient AMERICA Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Resilient AMERICA Act
 - 2022-04-05 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 41 (Roll no. 113). (text: CR H4170-4172)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 41 (Roll no. 113).(text: CR H4170-4172)
+- 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
