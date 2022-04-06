@@ -41,7 +41,7 @@ It is the sense of Congress that—
       - **(ii)** serve as the Department of Homeland Security’s representative on human trafficking.
     - **(B)** *Minimum core personnel requirements* Subject to appropriations, the Secretary of Homeland Security shall ensure that CCHT is staffed with at least 45 employees in order to maintain continuity of effort, subject matter expertise, and necessary support to the Department of Homeland Security, including—
       - **(i)** employees who are responsible for the Continued Presence Program and other victim protection duties;
-      - **(ii)** employees who are responsible for training, including curriculum development;
+      - **(ii)** employees who are responsible for training, including curriculum development, and public awareness and education;
       - **(iii)** employees who are responsible for stakeholder engagement, Federal interagency coordination, multilateral partnerships, and policy;
       - **(iv)** employees who are responsible for public relations, human resources, evaluation, data analysis and reporting, and information technology;
       - **(v)** special agents and criminal analysts necessary to accomplish its mission of combating human trafficking and the importation of goods produced with forced labor; and
@@ -57,9 +57,7 @@ It is the sense of Congress that—
   - **(1)** incorporate a victim-centered approach throughout Department of Homeland Security policies, training, and practices;
   - **(2)** operate a comprehensive Continued Presence program;
   - **(3)** conduct, review, and assist with Department of Homeland Security human trafficking training, screening, and identification tools and efforts;
-  - **(4)** operate the Blue Campaign’s nationwide public awareness effort and any other awareness efforts needed—
-    - **(A)** to encourage victim identification and reporting to law enforcement; and
-    - **(B)** to prevent human trafficking; and
+  - **(4)** operate the Blue Campaign’s nationwide public awareness effort and any other awareness efforts needed to encourage victim identification and reporting to law enforcement and to prevent human trafficking; and
   - **(5)** coordinate external engagement, including training and events, regarding human trafficking with critical partners, including survivors, nongovernmental organizations, corporations, multilateral entities, law enforcement agencies, and other interested parties.
 
 ## § 4. Specialized initiatives
@@ -77,11 +75,21 @@ It is the sense of Congress that—
 
 ## § 5. Reports
 
-- **(a)** *Information sharing To facilitate reports and analysis* Each subagency of the Department of Homeland Security shall share with CCHT—
-  - **(1)** any information needed by CCHT to develop the strategy and proposal required under section 5(a); and
+- **(a)** *Information sharing to facilitate reports and analysis* Each subagency of the Department of Homeland Security shall share with CCHT—
+  - **(1)** any information needed by CCHT to develop the strategy and proposal required under section 4(a); and
   - **(2)** any additional data analysis to help CCHT better understand the issues surrounding human trafficking.
 - **(b)** *Report to Congress* Not later than 1 year after the date of the enactment of this Act, the CCHT Director shall submit a report to Congress that identifies any legislation that is needed to facilitate the Department of Homeland Security’s mission to end human trafficking.
+- **(c)** *Annual report on potential human trafficking victims* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall submit a report to Congress that includes—
+  - **(1)** the numbers of screened and identified potential victims of trafficking (as defined in section 103(17) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(17))) at or near the international border between the United States and Mexico, including a summary of the age ranges of such victims and their countries of origin; and
+  - **(2)** an update on the Department of Homeland Security’s efforts to establish protocols and methods for personnel to report human trafficking, pursuant to the Department of Homeland Security Strategy to Combat Human Trafficking, the Importation of Goods Produced with Forced Labor, and Child Sexual Exploitation, published in January 2020.
 
-## § 6. Authorization of appropriations
+## § 6. Transfer of other functions related to human trafficking
+
+- **(a)** *Blue Campaign* The functions and resources of the Blue Campaign located within the Office of Partnership and Engagement on the day before the date of the enactment of this Act are hereby transferred to CCHT.
+- **(b)** *Other transfer*
+  - **(1)** *Authorization* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security may transfer the functions and resources of any component, directorate, or other office of the Department of Homeland Security related to combating human trafficking to the CCHT.
+  - **(2)** *Notification* Not later than 30 days before executing any transfer authorized under paragraph (1), the Secretary of Homeland Security shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of such planned transfer.
+
+## § 7. Authorization of appropriations
 
 In addition to amounts otherwise authorized to be appropriated, there is authorized to be appropriated to the Secretary of Homeland Security to carry out this Act $14,000,000, which shall remain available until expended.
