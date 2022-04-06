@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5633
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5633
@@ -20,9 +20,10 @@ Department of Homeland Security Inspector General Transparency Act
 
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Department of Homeland Security Inspector General Transparency Act
 - 2022-04-05 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4162-4163)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4162-4163)
+- 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
