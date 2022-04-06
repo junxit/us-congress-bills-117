@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6387
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6387
@@ -25,9 +25,10 @@ School and Daycare Protection Act
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ School and Daycare Protection Act
 - 2022-04-05 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4161)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4161)
+- 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
