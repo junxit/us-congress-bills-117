@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3599
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3599
@@ -41,3 +41,4 @@ Federal Rotational Cyber Workforce Program Act of 2021
 - 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 15 (Roll no. 307). (text: CR 07/26/2021 H3875-3876)
 - 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 15 (Roll no. 307).(text: CR 07/26/2021 H3875-3876)
 - 2021-09-30 — Received in the Senate.
+- 2022-04-06 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
