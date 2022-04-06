@@ -1,7 +1,7 @@
 ---
 measure: S. 3522
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3522
@@ -58,3 +58,21 @@ Ukraine Democracy Defense Lend-Lease Act of 2022
 - 2022-04-06 — Senate amendment agreed to: Amendment SA 5022 agreed to in Senate by Unanimous Consent.
 - 2022-04-06 — Senate amendment proposed (on the floor): Amendment SA 5022 proposed by Senator Schumer for Senator Cornyn.(consideration: CR S2052; text: CR S2052)
 - 2022-04-06 — Senate amendment submitted
+- 2022-04-07 — Held at the desk.
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-04-07 — Received in the House.
+- 2022-04-27 — Rules Committee Resolution H. Res. 1065 Reported to House. Rule provides for consideration of S. 3522 with 1 hour of general debate. The rule provides for consideration of S. 3522 under a closed rule. The rule provides that H. Res. 1035 is adopted and amends H. Res. 188.
+- 2022-04-28 — Considered under the provisions of rule H. Res. 1065. (consideration: CR H4594-4601)
+- 2022-04-28 — DEBATE - The House proceeded with one hour of debate on S. 3522.
+- 2022-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-28 — On passage Passed by the Yeas and Nays: 417 - 10 (Roll no. 141). (text: CR H4595)
+- 2022-04-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 417 - 10 (Roll no. 141).
+- 2022-04-28 — Rule H. Res. 1065 passed House.
+- 2022-04-28 — Rule provides for consideration of S. 3522 with 1 hour of general debate. The rule provides for consideration of S. 3522 under a closed rule. The rule provides that H. Res. 1035 is adopted and amends H. Res. 188.
+- 2022-04-28 — The previous question was ordered pursuant to the rule.
+- 2022-05-09 — Became Public Law No: 117-118.
+- 2022-05-09 — Became Public Law No: 117-118.
+- 2022-05-09 — Presented to President.
+- 2022-05-09 — Presented to President.
+- 2022-05-09 — Signed by President.
+- 2022-05-09 — Signed by President.
