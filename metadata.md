@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7276
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7276
@@ -44,9 +44,10 @@ Ukraine Invasion War Crimes Deterrence and Accountability Act
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. Brown, Anthony G. [D-MD-4] (B001304)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Ukraine Invasion War Crimes Deterrence and Accountability Act
 - 2022-04-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 121). (text: CR H4212-4213)
 - 2022-04-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 121).(text: CR H4212-4213)
 - 2022-04-06 — The title of the measure was amended. Agreed to without objection.
+- 2022-04-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
