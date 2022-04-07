@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 7470
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7470
+
+> To amend the Higher Education Act of 1965 to include a full-time job with a veterans service organization as a public service job eligible for public service loan forgiveness.
+
+## § 1. Short title
+
+This Act may be cited as the “Veteran Service Equity Act”.
+
+## § 2. Full-time job with veterans service organization
+
+Section 455(m)(3)(B) of the Higher Education Act of 1965 (20 U.S.C. 1087e(m)(3)(B)) is amended—
+
+- **(1)** in clause (i), by striking “or” at the end;
+- **(2)** in clause (ii), by striking the period and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(iii)** a full-time job with any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.
