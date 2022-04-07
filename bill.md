@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1875
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -23,21 +23,16 @@ This Act may be cited as the “Veterans' Emergency Care Claims Parity Act”.
       > - **(g)** *Hold harmless* No veteran described in subsection (b) may be held liable for payment for emergency treatment described in such subsection if—
       >   - **(1)** a claim for direct payment was submitted by an individual or entity under subsection (f); and
       >   - **(2)** such claim was submitted after the deadline established by such subsection due to—
-      >     - **(A)** an administrative error made by the individual or entity, such as submission of the claim to the wrong Federal agency; or
+      >     - **(A)** an administrative error made by the individual or entity, such as submission of the claim to the wrong Federal agency, under the wrong reimbursement authority (such as section 1728 of this title), or submission of the claim after the deadline; or
       >     - **(B)** an administrative error made by the Department, such as misplacement of a paper claim or deletion of an electronic claim.
 
-- **(b)** *Treatment for and in connection with service-Connected disabilities* Section 1728(b) of such title is amended—
-  - **(1)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B);
-  - **(2)** in the matter preceding subparagraph (A), as redesignated by paragraph (1), by striking “In any case” and inserting “(1) In any case”;
-  - **(3)** by adding at the end the following new paragraph:
-    > - **(2)** An individual or entity seeking payment under paragraph (1) for treatment provided to a veteran in lieu of reimbursement to the veteran shall submit a claim for such payment not later than 180 days after the latest date on which such treatment was provided.
-
-  - **(4)** by redesignating subsection (c) as subsection (d); and
-  - **(5)** by inserting after subsection (b) the following new subsection (c):
+- **(b)** *Treatment for and in connection with service-Connected disabilities* Section 1728 of such title is amended—
+  - **(1)** by redesignating subsection (c) as subsection (d); and
+  - **(2)** by inserting after subsection (b) the following new subsection (c):
     > - **(c)** No veteran described in subsection (a) may be held liable for payment for emergency treatment described in such subsection if—
     >   - **(1)** a claim for direct payment was submitted by an individual or entity under subsection (b)(2); and
-    >   - **(2)** such claim was submitted after the deadline established by such subsection due to—
-    >     - **(A)** an administrative error made by the individual or entity, such as submission of the claim to the wrong Federal agency; or
+    >   - **(2)** such claim was submitted after a deadline established by the Secretary for purposes of this section due to—
+    >     - **(A)** an administrative error made by the individual or entity, such as submission of the claim to the wrong Federal agency or submission of the claim after the deadline; or
     >     - **(B)** an administrative error made by the Department, such as misplacement of a paper claim or deletion of an electronic claim.
 
 - **(c)** *Conforming amendments* Such title is amended—
