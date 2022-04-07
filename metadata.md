@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 503
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 503
@@ -46,3 +46,5 @@ A resolution expressing the sense of the Senate that the Government of the Peopl
 - 2022-04-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-04-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 323.
+- 2022-04-07 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S2080-2081; text: CR S2080-2081)
+- 2022-04-07 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S2080-2081; text: CR S2080-2081)
