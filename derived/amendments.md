@@ -1,7 +1,7 @@
 ---
 measure: S. 1875
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating subsection (f) as subsection (h); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsections (f) and (g): | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B); | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), as redesignated by paragraph (1), by striking “In any case” and inserting “(1) In any case”; | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following new subsection (c): | the bill names no machine-readable US Code section |
 | — | replace | in section 1705A(d), by striking “section 1725(f)” and inserting “section 1725(h)”; | the bill names no machine-readable US Code section |
