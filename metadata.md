@@ -1,0 +1,32 @@
+---
+measure: S. 4052
+congress: 117
+version: Introduced in Senate
+---
+
+# S. 4052
+
+Early Hearing Detection and Intervention Act of 2022
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Portman, Rob [R-OH] (P000449)
+
+## Cosponsors (3)
+
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
+
+## Actions
+
+- 2022-04-07 — Introduced in Senate
+- 2022-04-07 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
