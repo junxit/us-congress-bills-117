@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7108
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7108
@@ -73,3 +73,20 @@ Suspending Normal Trade Relations with Russia and Belarus Act
 - 2022-03-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-03-24 — Senate amendment submitted
 - 2022-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
+- 2022-04-06 — Senate amendment submitted
+- 2022-04-07 — Amendment SA 5020 agreed to in Senate by Unanimous Consent.
+- 2022-04-07 — Amendment SA 5020 proposed by Senator Schumer. (consideration: CR S5020; text: 04/06/2022 CR S2048-2049) In the nature of a substitute.
+- 2022-04-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2022-04-07 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 7108.
+- 2022-04-07 — Measure laid before Senate by unanimous consent. (consideration: CR S2060)
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-04-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-07 — Mr. Neal moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4415-4417, H4419-4420)
+- 2022-04-07 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 124). (text: CR H4415-4416)
+- 2022-04-07 — Passed Senate with an amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 131. (text of amendment in the nature of a substitute: 04/06/2022 CR S2048-2049)
+- 2022-04-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 131.(text of amendment in the nature of a substitute: 04/06/2022 CR S2048-2049)
+- 2022-04-07 — Presented to President.
+- 2022-04-07 — Presented to President.
+- 2022-04-07 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 124).(text: CR H4415-4416)
+- 2022-04-07 — Senate amendment agreed to: Amendment SA 5020 agreed to in Senate by Unanimous Consent.
+- 2022-04-07 — Senate amendment proposed (on the floor): Amendment SA 5020 proposed by Senator Schumer.(consideration: CR S5020; text: 04/06/2022 CR S2048-2049)
