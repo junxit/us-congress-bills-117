@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6968
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6968
@@ -106,3 +106,7 @@ Ending Importation of Russian Oil Act
 - 2022-04-07 — Senate amendment agreed to: Amendment SA 5021 agreed to in Senate by Unanimous Consent.
 - 2022-04-07 — Senate amendment proposed (on the floor): Amendment SA 5021 proposed by Senator Schumer for Senator Crapo.(consideration: CR S2060; text: 04/06/2022 CR S2049-2050)
 - 2022-04-07 — Senate amendment submitted
+- 2022-04-08 — Became Public Law No: 117-109.
+- 2022-04-08 — Became Public Law No: 117-109.
+- 2022-04-08 — Signed by President.
+- 2022-04-08 — Signed by President.
