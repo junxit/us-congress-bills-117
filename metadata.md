@@ -1,7 +1,7 @@
 ---
 measure: S. 3823
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3823
@@ -43,3 +43,20 @@ Bankruptcy Threshold Adjustment and Technical Corrections Act
 - 2022-04-07 — Senate amendment agreed to: Amendment SA 5025 agreed to in Senate by Unanimous Consent.
 - 2022-04-07 — Senate amendment proposed (on the floor): Amendment SA 5025 proposed by Senator Murphy for Senator Grassley.(consideration: CR S2081; text: CR S2081)
 - 2022-04-07 — Senate amendment submitted
+- 2022-04-08 — Message on Senate action sent to the House.
+- 2022-04-11 — Held at the desk.
+- 2022-04-11 — Received in the House.
+- 2022-06-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-06-07 — Considered as unfinished business. (consideration: CR H5322-5323)
+- 2022-06-07 — Considered under suspension of the rules. (consideration: CR H5260-5262)
+- 2022-06-07 — DEBATE - The House proceeded with forty minutes of debate on S. 3823.
+- 2022-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-07 — Mr. Neguse moved to suspend the rules and pass the bill.
+- 2022-06-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 21 (Roll no. 234). (text: CR H5260-5261)
+- 2022-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 21 (Roll no. 234).
+- 2022-06-09 — Presented to President.
+- 2022-06-09 — Presented to President.
+- 2022-06-21 — Became Public Law No: 117-151.
+- 2022-06-21 — Became Public Law No: 117-151.
+- 2022-06-21 — Signed by President.
+- 2022-06-21 — Signed by President.
