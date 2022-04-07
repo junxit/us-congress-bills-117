@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5497
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5497
@@ -103,12 +103,13 @@ BURMA Act of 2021
 - Rep. Escobar, Veronica [D-TX-16] (E000299)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 
-## Committees (4)
+## Committees (5)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -127,3 +128,4 @@ BURMA Act of 2021
 - 2022-04-06 — Mr. Meeks moved to suspend the rules and pass the bill, as amended.
 - 2022-04-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4204-4209)
 - 2022-04-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4204-4209)
+- 2022-04-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
