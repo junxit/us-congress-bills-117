@@ -2,36 +2,44 @@
 legis-num: H.R. 6968
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6968
 
-> To prohibit the importation of energy products of the Russian Federation, and for other purposes.
+That the bill from the House of Representatives (H.R. 6968) entitled “An Act to prohibit the importation of energy products of the Russian Federation, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Suspending Energy Imports from Russia Act”.
+This Act may be known as the “Ending Importation of Russian Oil Act”.
 
 ## § 2. Prohibition on importation of energy products of the Russian Federation
 
-- **(a)** *In general*
-  - **(1)** *Prohibition of energy products* Notwithstanding any other provision of law, all products of the Russian Federation classified under chapter 27 of the Harmonized Tariff Schedule of the United States shall be banned from importation into the United States, other than products imported on or before 11:59 p.m. eastern daylight time on the date that is 45 days after the date of the enactment of this Act.
-  - **(2)** *Authority to allow importation under contract* Notwithstanding the prohibition under paragraph (1), the President may allow certain products described in such paragraph to be imported into the United States if the importation of such products is pursuant to a written contract or agreement that was entered into before the date of the enactment of this Act.
-- **(b)** *National interest waiver*
-  - **(1)** *In general* The President is authorized to waive the prohibition under subsection (a) with respect to one or more of the products of the Russian Federation described in the matter preceding paragraph (1) of subsection (a) if the President certifies that such waiver is in the national interest of the United States and includes in such certification a description of the product or products to which the waiver is proposed to apply. Such waiver shall take effect beginning on the date that is 90 calendar days after the date of submission of such certification, unless there is enacted into law during such 90-day period a joint resolution of disapproval.
-  - **(2)** *Congressional consultation*
-    - **(A)** *Prior justification* The President shall, not later than 15 calendar days before submitting a certification described in paragraph (1), submit to the appropriate congressional committees a justification for the waiver proposed under such paragraph.
-    - **(B)** *Appropriate congressional committees* For purposes of this paragraph, the term “appropriate congressional committees” means—
-      - **(i)** the Committee on Ways and Means, the Committee on Financial Services, and the Committee on Foreign Affairs of the House of Representatives; and
-      - **(ii)** the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Foreign Relations of the Senate.
-- **(c)** *Joint resolution of disapproval*
+All products of the Russian Federation classified under chapter 27 of the Harmonized Tariff Schedule of the United States shall be banned from importation into the United States, in a manner consistent with any implementation actions issued under Executive Order 14066 (87 Fed. Reg. 13625; relating to prohibiting certain imports and new investments with respect to continued Russian Federation efforts to undermine the sovereignty and territorial integrity of Ukraine).
+
+## § 3. Termination of prohibition on importation of energy products of the Russian Federation
+
+- **(a)** *In general* The President is authorized to terminate the prohibition on importation of energy products of the Russian Federation under section 2 if the President submits to Congress a certification under subsection (c). Such termination shall take effect beginning on the date that is 90 calendar days after the date of submission of such certification, unless there is enacted into law during such 90-day period a joint resolution of disapproval.
+- **(b)** *Consultation and report* The President shall, not later than 45 calendar days before submitting a certification under subsection (a)—
+  - **(1)** consult with—
+    - **(A)** the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives; and
+    - **(B)** the Committee on Finance and the Committee on Foreign Relations of the Senate; and
+  - **(2)** submit to all such committees a report that explains the basis for the determination of the President contained in such certification.
+- **(c)** *Certification* A certification under this subsection is a certification in writing that—
+  - **(1)** indicates that the President proposes to terminate under subsection (a) the prohibition under section 2; and
+  - **(2)** contains a determination of the President that the Russian Federation—
+    - **(A)** has reached an agreement to withdraw Russian forces and for the cessation of military hostilities that is accepted by the free and independent government of Ukraine;
+    - **(B)** poses no immediate military threat of aggression to any North Atlantic Treaty Organization member; and
+    - **(C)** recognizes the right of the people of Ukraine to independently and freely choose their own government.
+- **(d)** *Joint resolution of disapproval*
   - **(1)** *Definition* For purposes of this section, the term joint resolution of disapproval means only a joint resolution—
-    - **(A)** which does not have a preamble;
-    - **(B)** the title of which is as follows: “Joint resolution disapproving the President’s proposed waiver under section 2(b)(1) of the Suspending Energy Imports from Russia Act.”; and
-    - **(C)** the matter after the resolving clause of which is as follows: “That Congress disapproves the proposed waiver of the President under section 2(b)(1) of the Suspending Energy Imports from Russia Act, submitted to Congress on ___ ”, the blank space being filled in with the appropriate date.
-  - **(2)** *Introduction in the House of Representatives* During a period of 5 legislative days beginning on the date that a certification under subsection (b)(1) is submitted to Congress, a joint resolution of disapproval may be introduced in the House of Representatives by the majority leader or the minority leader.
-  - **(3)** *Introduction in the Senate* During a period of 5 days on which the Senate is in session beginning on the date that a certification under subsection (b)(1) is submitted to Congress, a joint resolution of disapproval may be introduced in the Senate by the majority leader (or the majority leader’s designee) or the minority leader (or the minority leader’s designee).
+    - **(A)** that does not have a preamble;
+    - **(B)** the title of which is as follows: “Joint resolution disapproving the President’s certification under section 3(c) of the Ending Importation of Russian Oil Act.”; and
+    - **(C)** the matter after the resolving clause of which is as follows: “That Congress disapproves the certification of the President under section 3(c) of the Ending Importation of Russian Oil Act, submitted to Congress on ___ ”, the blank space being filled in with the appropriate date.
+  - **(2)** *Introduction in the House of Representatives* During a period of 5 legislative days beginning on the date that a certification under subsection (c) is submitted to Congress, a joint resolution of disapproval may be introduced in the House of Representatives by the majority leader or the minority leader.
+  - **(3)** *Introduction in the Senate* During a period of 5 days on which the Senate is in session beginning on the date that a certification under subsection (c) is submitted to Congress, a joint resolution of disapproval may be introduced in the Senate by the majority leader (or the majority leader’s designee) or the minority leader (or the minority leader’s designee).
   - **(4)** *Floor consideration in the House of Representatives*
     - **(A)** *Reporting and discharge* If a committee of the House to which a joint resolution of disapproval has been referred has not reported such joint resolution within 10 legislative days after the date of referral, that committee shall be discharged from further consideration thereof.
     - **(B)** *Proceeding to consideration* Beginning on the third legislative day after each committee to which a joint resolution of disapproval has been referred reports it to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on a joint resolution with regard to the same certification. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
@@ -44,66 +52,9 @@ This Act may be cited as the “Suspending Energy Imports from Russia Act”.
     - **(E)** *Vote on passage* The vote on passage shall occur immediately following the conclusion of the debate on the joint resolution of disapproval and a single quorum call at the conclusion of the debate, if requested in accordance with the rules of the Senate.
     - **(F)** *Rules of the chair on procedure* Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to the joint resolution of disapproval shall be decided without debate.
     - **(G)** *Consideration of veto messages* Debate in the Senate of any veto message with respect to the joint resolution of disapproval, including all debatable motions and appeals in connection with such joint resolution, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
-  - **(6)** *Procedures in the Senate* Except as otherwise provided in this subsection, the following procedures shall apply in the Senate to a joint resolution of disapproval to which this subsection applies:
+  - **(6)** *Procedures in the Senate* Except as otherwise provided in this subsection, the following procedures shall apply in the Senate to a joint resolution of disapproval:
     - **(A)** Except as provided in subparagraph (B), a joint resolution of disapproval that has passed the House of Representatives shall, when received in the Senate, be referred to the Committee on Finance for consideration in accordance with this subsection.
-    - **(B)** If a joint resolution of disapproval to which this section applies was introduced in the Senate before receipt of a joint resolution of disapproval that has passed the House of Representatives, the joint resolution from the House of Representatives shall, when received in the Senate, be placed on the calendar. If this subparagraph applies, the procedures in the Senate with respect to a joint resolution of disapproval introduced in the Senate that contains the identical matter as the joint resolution of disapproval that passed the House of Representatives shall be the same as if no joint resolution of disapproval had been received from the House of Representatives, except that the vote on passage in the Senate shall be on the joint resolution of disapproval that passed the House of Representatives.
-  - **(7)** *Rules of the House of Representatives and Senate* This subsection is enacted by Congress—
-    - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of legislation described in those sections, and supersede other rules only to the extent that they are inconsistent with such rules; and
+    - **(B)** If a joint resolution of disapproval was introduced in the Senate before receipt of a joint resolution of disapproval that has passed the House of Representatives, the joint resolution from the House of Representatives shall, when received in the Senate, be placed on the calendar. If this subparagraph applies, the procedures in the Senate with respect to a joint resolution of disapproval introduced in the Senate that contains the identical matter as the joint resolution of disapproval that passed the House of Representatives shall be the same as if no joint resolution of disapproval had been received from the House of Representatives, except that the vote on passage in the Senate shall be on the joint resolution of disapproval that passed the House of Representatives.
+  - **(7)** *Rules of the House of Representatives and the Senate* This subsection is enacted by Congress—
+    - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution of disapproval, and supersedes other rules only to the extent that it is inconsistent with such rules; and
     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
-
-## § 3. Cooperation and accountability at the World Trade Organization
-
-The United States Trade Representative shall use the voice and influence of the United States at the WTO to—
-
-- **(1)** condemn the recent aggression in Ukraine;
-- **(2)** encourage other WTO members to suspend trade concessions to the Russian Federation; and
-- **(3)** consider further steps with the view to suspend the Russian Federation’s participation in the WTO.
-
-## § 4. Modifications to and reauthorization of sanctions under the Global Magnitsky Human Rights Accountability Act with respect to human rights violations
-
-- **(a)** *Definitions* Section 1262 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended by striking paragraph (2).
-- **(b)** *Sense of congress*
-  - **(1)** *In general* The Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended by inserting after section 1262 (as amended by subsection (a)) the following new section:
-    > ## § 1262A. Sense of Congress
-    >
-    > It is the sense of Congress that the President should establish and regularize information sharing and sanctions-related decisionmaking with like-minded governments possessing human rights and anti-corruption sanctions programs similar in nature to those authorized under this subtitle.
-
-  - **(2)** *Clerical amendment* The table of contents in section 2(b) and in title XII of division A of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) are each amended by inserting after the items relating to section 1262 the following:
-- **(c)** *Imposition of sanctions*
-  - **(1)** *In general* Subsection (a) of section 1263 of the Global Magnitsky Human Rights Accountability Act (Subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended to read as follows:
-    > - **(a)** *In general* The President may impose the sanctions described in subsection (b) with respect to any foreign person that the President determines, based on credible information—
-    >   - **(1)** is responsible for or complicit in, or has directly or indirectly engaged in, serious human rights abuse;
-    >   - **(2)** is a current or former government official, or a person acting for or on behalf of such an official, who is responsible for or complicit in, or has directly or indirectly engaged in—
-    >     - **(A)** corruption, including—
-    >       - **(i)** the misappropriation of state assets;
-    >       - **(ii)** the expropriation of private assets for personal gain;
-    >       - **(iii)** corruption related to government contracts or the extraction of natural resources; or
-    >       - **(iv)** bribery; or
-    >     - **(B)** the transfer or facilitation of the transfer of the proceeds of corruption;
-    >   - **(3)** is or has been a leader or official of—
-    >     - **(A)** an entity, including a government entity, that has engaged in, or whose members have engaged in, any of the activities described in paragraph (1) or (2) during the tenure of the leader or official; or
-    >     - **(B)** an entity whose property and interests in property are blocked pursuant to this section as a result of activities during the tenure of the leader or official;
-    >   - **(4)** has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of—
-    >     - **(A)** an activity described in paragraph (1) or (2) that is conducted by a foreign person;
-    >     - **(B)** a person whose property and interests in property are blocked pursuant to this section; or
-    >     - **(C)** an entity, including a government entity, that has engaged in, or whose members have engaged in, an activity described in paragraph (1) or (2) conducted by a foreign person; or
-    >   - **(5)** is owned or controlled by, or has acted or been purported to act for or on behalf of, directly or indirectly, a person whose property and interests in property are blocked pursuant to this section.
-
-  - **(2)** *Consideration of certain information* Subsection (c)(2) of such section is amended by striking “violations of human rights” and inserting “corruption and human rights abuses”.
-  - **(3)** *Requests by congress* Subsection (d)(2) of such section is amended—
-    - **(A)** in subparagraph (A)—
-      - **(i)** in the subparagraph heading, by striking “Human rights violations” and inserting “Serious human rights abuse”; and
-      - **(ii)** by striking “described in paragraph (1) or (2) of subsection (a)” and inserting “described in subsection (a) relating to serious human rights abuse ”; and
-    - **(B)** in subparagraph (B)—
-      - **(i)** in the matter preceding clause (i), by striking “described in paragraph (3) or (4) of subsection (a)” and inserting “described in subsection (a) relating to corruption or the transfer or facilitation of the transfer of the proceeds of corruption”; and
-      - **(ii)** by striking “ranking member of—” and all that follows through the period at the end and inserting “ranking member of one of the appropriate congressional committees.”.
-- **(d)** *Reports to Congress* Section 1264(a) of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended—
-  - **(1)** in paragraph (5), by striking “; and” and inserting a semicolon;
-  - **(2)** in paragraph (6), by striking the period at the end and inserting a semicolon; and
-  - **(3)** by adding at the end the following:
-    > - **(7)** a description of additional steps taken by the President through diplomacy, international engagement, and assistance to foreign or security sectors to address persistent underlying causes of serious human rights abuse and corruption in each country in which foreign persons with respect to which sanctions have been imposed under section 1263 are located; and
-    > - **(8)** a description of additional steps taken by the President to ensure the pursuit of judicial accountability in appropriate jurisdictions with respect to those foreign persons subject to sanctions under section 1263 for serious human rights abuse and corruption.
-
-- **(e)** *Repeal of sunset*
-  - **(1)** *In general* Section 1265 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is repealed.
-  - **(2)** *Clerical amendment* The table of contents in section 2(b) and in title XII of division A of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) are each amended by striking the items relating to section 1265.

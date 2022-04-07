@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6968
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6968
@@ -16,7 +16,7 @@ Ending Importation of Russian Oil Act
 
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
 
-## Cosponsors (33)
+## Cosponsors (36)
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
@@ -51,6 +51,9 @@ Ending Importation of Russian Oil Act
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (4)
 
@@ -84,3 +87,22 @@ Ending Importation of Russian Oil Act
 - 2022-03-23 — Received in the Senate.
 - 2022-03-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 312.
+- 2022-03-29 — Senate amendment submitted
+- 2022-04-06 — Senate amendment submitted
+- 2022-04-07 — Amendment SA 5021 agreed to in Senate by Unanimous Consent.
+- 2022-04-07 — Amendment SA 5021 proposed by Senator Schumer for Senator Crapo. (consideration: CR S2060; text: 04/06/2022 CR S2049-2050)
+- 2022-04-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2022-04-07 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6968.
+- 2022-04-07 — Measure laid before Senate by unanimous consent. (consideration: CR S2060)
+- 2022-04-07 — Message on Senate action sent to the House.
+- 2022-04-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-07 — Mr. Neal moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4418-4419, H4420-4421)
+- 2022-04-07 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 413 - 9 (Roll no. 125). (text: CR H4418)
+- 2022-04-07 — Passed Senate with an amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 132. (text of amendment in the nature of a substitute: 04/06/2022 CR S2049-2050)
+- 2022-04-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 100 - 0. Record Vote Number: 132.(text of amendment in the nature of a substitute: 04/06/2022 CR S2049-2050)
+- 2022-04-07 — Presented to President.
+- 2022-04-07 — Presented to President.
+- 2022-04-07 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 413 - 9 (Roll no. 125).(text: CR H4418)
+- 2022-04-07 — Senate amendment agreed to: Amendment SA 5021 agreed to in Senate by Unanimous Consent.
+- 2022-04-07 — Senate amendment proposed (on the floor): Amendment SA 5021 proposed by Senator Schumer for Senator Crapo.(consideration: CR S2060; text: 04/06/2022 CR S2049-2050)
+- 2022-04-07 — Senate amendment submitted
