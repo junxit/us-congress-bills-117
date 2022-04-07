@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7108
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
