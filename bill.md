@@ -2,12 +2,14 @@
 legis-num: H.R. 7108
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 7108
 
-> To suspend normal trade relations treatment for the Russian Federation and the Republic of Belarus, and for other purposes.
+That the bill from the House of Representatives (H.R. 7108) entitled “An Act to suspend normal trade relations treatment for the Russian Federation and the Republic of Belarus, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -48,13 +50,17 @@ Congress finds the following:
 - **(a)** *Temporary application of HTS column 1 rates of duty*
   - **(1)** *In general* Notwithstanding any other provision of law (including the application of column 2 rates of duty under section 3), the President is authorized to temporarily resume, for one or more periods not to exceed 1 year each, the application of the rates of duty set forth in column 1 of the Harmonized Tariff Schedule of the United States to the products of the Russian Federation, the Republic of Belarus, or both, if the President submits to Congress with respect to either or both such countries a certification under subsection (c) for each such period. Such action shall take effect beginning on the date that is 90 calendar days after the date of submission of such certification for such period, unless there is enacted into law during such 90-day period a joint resolution of disapproval.
   - **(2)** *Consultation and report* The President shall, not later than 45 calendar days before submitting a certification under paragraph (1)—
-    - **(A)** consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate; and
-    - **(B)** submit to both such committees a report that explains the basis for the determination of the President contained in such certification.
+    - **(A)** consult with—
+      - **(i)** the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives; and
+      - **(ii)** the Committee on Finance and the Committee on Foreign Relations of the Senate; and
+    - **(B)** submit to all such committees a report that explains the basis for the determination of the President contained in such certification.
 - **(b)** *Restoration of normal trade relations treatment*
   - **(1)** *In general* The President is authorized to resume the application of the rates of duty set forth in column 1 of the Harmonized Tariff Schedule of the United States to the products of the Russian Federation, the Republic of Belarus, or both, if the President submits to Congress with respect to either or both such countries a certification under subsection (c). Such action shall take effect beginning on the date that is 90 calendar days after the date of submission of such certification, unless there is enacted into law during such 90-day period a joint resolution of disapproval.
   - **(2)** *Consultation and report* The President shall, not later than 45 calendar days before submitting a certification under paragraph (1)—
-    - **(A)** consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate; and
-    - **(B)** submit to both such committees a report that explains the basis for the determination of the President contained in such certification.
+    - **(A)** consult with—
+      - **(i)** the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives; and
+      - **(ii)** the Committee on Finance and the Committee on Foreign Relations of the Senate; and
+    - **(B)** submit to all such committees a report that explains the basis for the determination of the President contained in such certification.
   - **(3)** *Products of the Russian Federation* If the President submits pursuant to paragraph (1) a certification under subsection (c) with respect to the Russian Federation and a joint resolution of disapproval is not enacted during the 90-day period described in that paragraph, the President may grant permanent nondiscriminatory tariff treatment (normal trade relations) to the products of the Russian Federation.
   - **(4)** *Products of the Republic of Belarus* If the President submits pursuant to paragraph (1) a certification under subsection (c) with respect to the Republic of Belarus and a joint resolution of disapproval is not enacted during the 90-day period described in that paragraph, the President may, subject to the provisions of chapter 1 of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), grant nondiscriminatory tariff treatment (normal trade relations) to the products of the Republic of Belarus.
 - **(c)** *Certification* A certification under this subsection is a certification in writing that—
@@ -98,51 +104,7 @@ The United States Trade Representative shall use the voice and influence of the 
 - **(3)** consider further steps with the view to suspend the Russian Federation’s participation in the WTO; and
 - **(4)** seek to halt the accession process of the Republic of Belarus at the WTO and cease accession-related work.
 
-## § 6. Modifications to and reauthorization of sanctions under the Global Magnitsky Human Rights Accountability Act with respect to human rights violations
+## § 6. Reauthorization of sanctions under the Global Magnitsky Human Rights Accountability Act with respect to human rights violations and corruption
 
-- **(a)** *Definitions* Section 1262 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended by striking paragraph (2).
-- **(b)** *Sense of congress*
-  - **(1)** *In general* The Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended by inserting after section 1262 (as amended by subsection (a)) the following new section:
-    > ## § 1262A. Sense of Congress
-    >
-    > It is the sense of Congress that the President should establish and regularize information sharing and sanctions-related decisionmaking with like-minded governments possessing human rights and anti-corruption sanctions programs similar in nature to those authorized under this subtitle.
-
-  - **(2)** *Clerical amendment* The table of contents in section 2(b) and in title XII of division A of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) are each amended by inserting after the items relating to section 1262 the following:
-- **(c)** *Imposition of sanctions*
-  - **(1)** *In general* Subsection (a) of section 1263 of the Global Magnitsky Human Rights Accountability Act (Subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended to read as follows:
-    > - **(a)** *In general* The President may impose the sanctions described in subsection (b) with respect to any foreign person that the President determines, based on credible information—
-    >   - **(1)** is responsible for or complicit in, or has directly or indirectly engaged in, serious human rights abuse;
-    >   - **(2)** is a current or former government official, or a person acting for or on behalf of such an official, who is responsible for or complicit in, or has directly or indirectly engaged in—
-    >     - **(A)** corruption, including—
-    >       - **(i)** the misappropriation of state assets;
-    >       - **(ii)** the expropriation of private assets for personal gain;
-    >       - **(iii)** corruption related to government contracts or the extraction of natural resources; or
-    >       - **(iv)** bribery; or
-    >     - **(B)** the transfer or facilitation of the transfer of the proceeds of corruption;
-    >   - **(3)** is or has been a leader or official of—
-    >     - **(A)** an entity, including a government entity, that has engaged in, or whose members have engaged in, any of the activities described in paragraph (1) or (2) during the tenure of the leader or official; or
-    >     - **(B)** an entity whose property and interests in property are blocked pursuant to this section as a result of activities during the tenure of the leader or official;
-    >   - **(4)** has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of—
-    >     - **(A)** an activity described in paragraph (1) or (2) that is conducted by a foreign person;
-    >     - **(B)** a person whose property and interests in property are blocked pursuant to this section; or
-    >     - **(C)** an entity, including a government entity, that has engaged in, or whose members have engaged in, an activity described in paragraph (1) or (2) conducted by a foreign person; or
-    >   - **(5)** is owned or controlled by, or has acted or been purported to act for or on behalf of, directly or indirectly, a person whose property and interests in property are blocked pursuant to this section.
-
-  - **(2)** *Consideration of certain information* Subsection (c)(2) of such section is amended by striking “violations of human rights” and inserting “corruption and human rights abuses”.
-  - **(3)** *Requests by congress* Subsection (d)(2) of such section is amended—
-    - **(A)** in subparagraph (A)—
-      - **(i)** in the subparagraph heading, by striking “Human rights violations” and inserting “Serious human rights abuse”;
-      - **(ii)** by striking “described in paragraph (1) or (2) of subsection (a)” and inserting “described in subsection (a) relating to serious human rights abuse ”; and
-    - **(B)** in subparagraph (B)—
-      - **(i)** in the matter preceding clause (i), by striking “described in paragraph (3) or (4) of subsection (a)” and inserting “described in subsection (a) relating to corruption or the transfer or facilitation of the transfer of the proceeds of corruption”; and
-      - **(ii)** by striking “ranking member of—” and all that follows through the period at the end and inserting “ranking member of one of the appropriate congressional committees.”.
-- **(d)** *Reports to Congress* Section 1264(a) of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is amended—
-  - **(1)** in paragraph (5), by striking “; and” and inserting a semicolon;
-  - **(2)** in paragraph (6), by striking the period at the end and inserting a semicolon; and
-  - **(3)** by adding at the end the following:
-    > - **(7)** a description of additional steps taken by the President through diplomacy, international engagement, and assistance to foreign or security sectors to address persistent underlying causes of serious human rights abuse and corruption in each country in which foreign persons with respect to which sanctions have been imposed under section 1263 are located; and
-    > - **(8)** a description of additional steps taken by the President to ensure the pursuit of judicial accountability in appropriate jurisdictions with respect to those foreign persons subject to sanctions under section 1263 for serious human rights abuse and corruption.
-
-- **(e)** *Repeal of sunset*
-  - **(1)** *In general* Section 1265 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is repealed.
-  - **(2)** *Clerical amendment* The table of contents in section 2(b) and in title XII of division A of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) are each amended by striking the items relating to section 1265.
+- **(a)** *In general* Section 1265 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) is repealed.
+- **(b)** *Clerical amendment* The table of contents in section 2(b) and in title XII of division A of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) are each amended by striking the items relating to section 1265.
