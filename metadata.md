@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7108
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7108
@@ -90,3 +90,7 @@ Suspending Normal Trade Relations with Russia and Belarus Act
 - 2022-04-07 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 124).(text: CR H4415-4416)
 - 2022-04-07 — Senate amendment agreed to: Amendment SA 5020 agreed to in Senate by Unanimous Consent.
 - 2022-04-07 — Senate amendment proposed (on the floor): Amendment SA 5020 proposed by Senator Schumer.(consideration: CR S5020; text: 04/06/2022 CR S2048-2049)
+- 2022-04-08 — Became Public Law No: 117-110.
+- 2022-04-08 — Became Public Law No: 117-110.
+- 2022-04-08 — Signed by President.
+- 2022-04-08 — Signed by President.
