@@ -38,6 +38,9 @@ This Act may be cited as the “Strengthening Oversight for Veterans Act of 2021
   >       - **(ii)** The number of proposed testimonial subpoenas with respect to which the Attorney General objected under paragraph (3)(B).
   >       - **(iii)** A discussion of any challenges or concerns that the Inspector General has encountered exercising the authority provided by paragraph (1).
   >       - **(iv)** Such other matters as the Inspector General considers appropriate.
+  >   - **(7)**
+  >     - **(A)** The authority provided by paragraph (1)(A) shall terminate on May 31, 2025.
+  >     - **(B)** The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
 
 - **(b)** *Effective date*
   - **(1)** *In general* Subsection (d) of section 312 of title 38, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act.
