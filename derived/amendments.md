@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5973
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 3 executed, 2 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,15 @@ to guess them.
 |---|---|
 | Removed | `2016 through 2021` |
 | Inserted | `2022 through 2027` |
+
+### 16 U.S.C. § 941g
+
+> Section 1009(a)(1)(B) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)(1)(B)) is amended by striking “5” and inserting “3”.
+
+| | |
+|---|---|
+| Removed | `5` |
+| Inserted | `3` |
 
 ## Stated, not applied
 

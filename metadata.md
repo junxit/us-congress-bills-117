@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5973
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5973
@@ -31,3 +31,11 @@ Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022
 - 2021-11-15 — Introduced in House
 - 2021-11-15 — Introduced in House
 - 2021-11-15 — Referred to the House Committee on Natural Resources.
+- 2021-11-18 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2022-01-20 — Subcommittee Hearings Held.
+- 2022-02-16 — Committee Consideration and Mark-up Session Held.
+- 2022-02-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-02-16 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2022-04-25 — Placed on the Union Calendar, Calendar No. 220.
+- 2022-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-298.
+- 2022-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-298.
