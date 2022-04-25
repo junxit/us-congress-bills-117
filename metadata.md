@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2793
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2793
@@ -16,7 +16,7 @@ Highlands Conservation Reauthorization Act of 2021
 
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 
-## Cosponsors (18)
+## Cosponsors (23)
 
 - Rep. Dean, Madeleine [D-PA-4] (D000631)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
@@ -36,6 +36,11 @@ Highlands Conservation Reauthorization Act of 2021
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Himes, James A. [D-CT-4] (H001047)
 
 ## Committees (1)
 
@@ -46,3 +51,10 @@ Highlands Conservation Reauthorization Act of 2021
 - 2021-04-22 — Introduced in House
 - 2021-04-22 — Introduced in House
 - 2021-04-22 — Referred to the House Committee on Natural Resources.
+- 2021-06-15 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2021-07-29 — Subcommittee Hearings Held.
+- 2022-01-19 — Committee Consideration and Mark-up Session Held.
+- 2022-01-19 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2022-04-25 — Placed on the Union Calendar, Calendar No. 218.
+- 2022-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-296.
+- 2022-04-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-296.

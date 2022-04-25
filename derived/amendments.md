@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2793
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -37,7 +37,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking paragraphs (5) through (7); | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(1), by striking “in the Study” and all that follows through the end of the paragraph and inserting “using the best available science and geographic information systems; and”; | the bill names no machine-readable US Code section |
 | — | amend | in subsection (c), by amending paragraph (5) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e), by striking “$10,000,000 for each of fiscal years 2005 through 2021” and inserting “$20,000,000 for each of fiscal years 2022 through 2028”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “fiscal years 2005 through 2021” and inserting “fiscal years 2022 through 2028”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (g); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking “the Study, Update, and any future study that the Forest Service may undertake in”; | the bill names no machine-readable US Code section |
