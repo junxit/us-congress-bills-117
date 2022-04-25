@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5973
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,3 +22,4 @@ This Act may be cited as the “Great Lakes Fish and Wildlife Restoration Reauth
     - **(C)** by inserting “, with respect to the period covered by the report” after “describes”; and
   - **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “2016 through 2020” and inserting “2022 through 2027”.
 - **(b)** *Reauthorization* Section 1009(a) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)) is amended, in the matter preceding paragraph (1), by striking “2016 through 2021” and inserting “2022 through 2027”.
+- **(c)** *Administrative costs* Section 1009(a)(1)(B) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)(1)(B)) is amended by striking “5” and inserting “3”.
