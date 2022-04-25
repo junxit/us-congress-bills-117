@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2793
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,10 +33,10 @@ The Highlands Conservation Act (Public Law 108–421; 118 Stat. 2375) is amended
   - **(B)** in subsection (c), by amending paragraph (5) to read as follows:
     > - **(5)** provides that land conservation partnership projects will be consistent with areas identified as having high conservation value in accordance with the purposes described in section 2 in the Highlands region.
 
-  - **(C)** in subsection (e), by striking “$10,000,000 for each of fiscal years 2005 through 2021” and inserting “$20,000,000 for each of fiscal years 2022 through 2028”;
+  - **(C)** in subsection (e), by striking “fiscal years 2005 through 2021” and inserting “fiscal years 2022 through 2028”;
   - **(D)** by redesignating subsection (e) as subsection (g); and
   - **(E)** by inserting after subsection (d) the following:
-    > - **(e)** *Request for inclusion of additional municipality* The Director of the United States Fish and Wildlife Service may, at the request of a Highlands State, approve the inclusion of a municipality within the State as part of the Highlands region.
+    > - **(e)** *Request for inclusion of additional municipality* The Director of the United States Fish and Wildlife Service may, at the request of a Highlands State, with the concurrence of the municipality, approve the inclusion of a municipality within the State as part of the Highlands region.
     > - **(f)** *Limitation on administrative expenses*
     >   - **(1)** *Federal administration* The Secretary of the Interior may not expend more than $300,000 for the administration of this Act in each fiscal year.
     >   - **(2)** *State administration* A State that receives funds under this section for a land conservation partnership project may not use more than 5 percent of the funds to administer the land conservation partnership project.
@@ -49,7 +49,7 @@ The Highlands Conservation Act (Public Law 108–421; 118 Stat. 2375) is amended
   - **(C)** in subsection (c), by striking “2005 through 2014” and inserting “2022 through 2028”; and
 - **(4)** in section 6, by adding at the end the following:
   > - **(f)** *Appraisal methodology*
-  >   - **(1)** *In general* With respect to an appraisal related to a land acquisition carried out under this Act, a Highlands State may use an appraisal methodology approved by the Secretary of the Interior.
+  >   - **(1)** *In general* With respect to an appraisal related to a land acquisition carried out under this Act, a Highlands State shall use an appraisal methodology approved by the Secretary of the Interior.
   >   - **(2)** *Alternative appraisal methodology* A Highlands State may petition the Secretary of the Interior to consider an alternative appraisal methodology when there is a conflict, in any Highlands State, between—
   >     - **(A)** an appraisal methodology approved by the Secretary of the Interior under paragraph (1); and
   >     - **(B)** applicable State law.
