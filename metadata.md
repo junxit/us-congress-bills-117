@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1146
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1146
@@ -25,3 +25,11 @@ Community Reclamation Partnerships Act
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Referred to the House Committee on Natural Resources.
+- 2021-03-17 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2021-03-18 — Subcommittee Hearings Held.
+- 2021-05-26 — Committee Consideration and Mark-up Session Held.
+- 2021-05-26 — Ordered to be Reported by Unanimous Consent.
+- 2021-05-26 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2022-04-25 — Placed on the Union Calendar, Calendar No. 215.
+- 2022-04-25 — Reported by the Committee on Natural Resources. H. Rept. 117-293.
+- 2022-04-25 — Reported by the Committee on Natural Resources. H. Rept. 117-293.
