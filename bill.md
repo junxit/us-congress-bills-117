@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Highlands Conservation Reauthorization Act of 2021”.
+This Act may be cited as the “Highlands Conservation Reauthorization Act of 2022”.
 
 ## § 2. Reauthorization of the Highlands Conservation Act
 
@@ -20,7 +20,7 @@ The Highlands Conservation Act (Public Law 108–421; 118 Stat. 2375) is amended
 - **(1)** in section 3—
   - **(A)** by amending paragraph (1) to read as follows:
     > - **(1)** *Highlands region* The term Highlands region means—
-    >   - **(A)** the area depicted on the map entitled “The Highlands Region”, dated June 2004, updated after the date of enactment of the Highlands Conservation Reauthorization Act of 2021 to comprise each municipality included on the list of municipalities included in the Highlands region as of that date of enactment, and maintained in the headquarters of the Forest Service in Washington, District of Columbia; and
+    >   - **(A)** the area depicted on the map entitled “The Highlands Region”, dated June 2004, updated after the date of enactment of the Highlands Conservation Reauthorization Act of 2022 to comprise each municipality included on the list of municipalities included in the Highlands region as of that date of enactment, and maintained in the headquarters of the Forest Service in Washington, District of Columbia; and
     >   - **(B)** a municipality approved by the Director of the United States Fish and Wildlife Service under section 4(e).
 
   - **(B)** in paragraph (3), by amending subparagraph (B) to read as follows:
@@ -33,7 +33,7 @@ The Highlands Conservation Act (Public Law 108–421; 118 Stat. 2375) is amended
   - **(B)** in subsection (c), by amending paragraph (5) to read as follows:
     > - **(5)** provides that land conservation partnership projects will be consistent with areas identified as having high conservation value in accordance with the purposes described in section 2 in the Highlands region.
 
-  - **(C)** in subsection (e), by striking “fiscal years 2005 through 2021” and inserting “fiscal years 2022 through 2028”;
+  - **(C)** in subsection (e), by striking “fiscal years 2005 through 2021” and inserting “fiscal years 2023 through 2029”;
   - **(D)** by redesignating subsection (e) as subsection (g); and
   - **(E)** by inserting after subsection (d) the following:
     > - **(e)** *Request for inclusion of additional municipality* The Director of the United States Fish and Wildlife Service may, at the request of a Highlands State, with the concurrence of the municipality, approve the inclusion of a municipality within the State as part of the Highlands region.
@@ -46,7 +46,7 @@ The Highlands Conservation Act (Public Law 108–421; 118 Stat. 2375) is amended
   - **(B)** in subsection (b)—
     - **(i)** in paragraph (1), by striking “, including a Pennsylvania and Connecticut Update”; and
     - **(ii)** in paragraph (2), by striking “the findings” and all that follows through the end of the paragraph and inserting “with stakeholders regarding implementation of the program; and”; and
-  - **(C)** in subsection (c), by striking “2005 through 2014” and inserting “2022 through 2028”; and
+  - **(C)** in subsection (c), by striking “2005 through 2014” and inserting “2023 through 2029”; and
 - **(4)** in section 6, by adding at the end the following:
   > - **(f)** *Appraisal methodology*
   >   - **(1)** *In general* With respect to an appraisal related to a land acquisition carried out under this Act, a Highlands State shall use an appraisal methodology approved by the Secretary of the Interior.
