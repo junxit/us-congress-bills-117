@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2021”.
+This Act may be cited as the “Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022”.
 
 ## § 2. Reauthorization of the Great Lakes Fish and Wildlife Restoration Act of 1990
 
@@ -20,6 +20,6 @@ This Act may be cited as the “Great Lakes Fish and Wildlife Restoration Reauth
     - **(A)** by inserting “and not later than December 31, 2027,” after “2021,”;
     - **(B)** by striking “Committee on Resources” and inserting “Committee on Natural Resources”; and
     - **(C)** by inserting “, with respect to the period covered by the report” after “describes”; and
-  - **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “2016 through 2020” and inserting “2022 through 2027”.
-- **(b)** *Reauthorization* Section 1009(a) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)) is amended, in the matter preceding paragraph (1), by striking “2016 through 2021” and inserting “2022 through 2027”.
+  - **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “2016 through 2020” and inserting “2023 through 2028”.
+- **(b)** *Reauthorization* Section 1009(a) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)) is amended, in the matter preceding paragraph (1), by striking “2016 through 2021” and inserting “2023 through 2028”.
 - **(c)** *Administrative costs* Section 1009(a)(1)(B) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)(1)(B)) is amended by striking “5” and inserting “3”.
