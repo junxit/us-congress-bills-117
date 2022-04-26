@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 7584
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7584
+
+> To amend the Internal Revenue Code of 1986 to end the investment tax credit for offshore wind facilities in the inland navigable waters of the United States.
+
+## § 1. ITC for certain offshore wind facilities prohibited after 2021
+
+- **(a)** *In general* Section 48(a)(5)(F)(ii) of the Internal Revenue Code of 1986 is amended by inserting “(other than any of the Great Lakes)” after “in the inland navigable waters of the United States”.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2021.
