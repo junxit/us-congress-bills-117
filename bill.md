@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6023
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,7 +22,7 @@ This Act may be cited as the “Multinational Species Conservation Funds Semipos
   - **(2)** by adding at the end the following:
     > - **(5)** *Requirement to sell all stamps printed*
     >   - **(A)** *In general* The United States Postal Service shall sell each copy of the Multinational Species Conservation Fund Semipostal Stamp that the United States Postal Service prints under this Act.
-    >   - **(B)** *Notification of Congress* The United States Postal Service shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives when all copies of the Multinational Species Conservation Fund Semipostal Stamp printed under this Act have been sold.
+    >   - **(B)** *Notification of congress* The United States Postal Service shall notify the Committee on Homeland Security and Governmental Affairs in the Senate, the Committee on Environment and Public Works of the Senate, the Committee on Oversight and Reform of the House of Representatives, and the Committee on Natural Resources of the House of Representatives when all copies of the Multinational Species Conservation Fund Semipostal Stamp printed under this Act have been sold.
 
 - **(b)** *Retroactive applicability* The amendments made by subsection (a) shall take effect as if enacted on the day after the date of enactment of the Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 (Public Law 113–165; 128 Stat. 1878).
 
