@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6445
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6445
@@ -40,3 +40,9 @@ Small Business Development Centers Improvement Act of 2022
 - 2022-03-08 — Placed on the Union Calendar, Calendar No. 190.
 - 2022-03-08 — Reported by the Committee on Small Business. H. Rept. 117-260, Part I.
 - 2022-03-08 — Reported by the Committee on Small Business. H. Rept. 117-260, Part I.
+- 2022-04-26 — Considered under suspension of the rules. (consideration: CR H4463-4465)
+- 2022-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6445.
+- 2022-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-26 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4463-4464)
+- 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
