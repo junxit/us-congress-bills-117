@@ -13,10 +13,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “National Liberty Memorial Preservation Act”.
 
-## § 2. Findings
-
-Congress finds that the period preceding the 250th anniversary of the founding of the United States on July 4, 1776, offers the best conditions in ten generations to honor and preserve the contributions of enslaved and free Black soldiers and civilians to independence by the triumph of a permanent National Liberty Memorial representing deeds Congress on two previous occasions declared of “preeminent historical and lasting significance to the nation”.
-
-## § 3. Extension of authority for establishment of commemorative work
+## § 2. Extension of authority for establishment of commemorative work
 
 Notwithstanding section 8903(e) of title 40, United States Code, the authority provided by section 2860 of the Military Construction Authorization Act for Fiscal Year 2013 (division B of Public Law 112–239; 126 Stat. 2164; 40 U.S.C. 8903 note) shall continue to apply through September 30, 2027.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
