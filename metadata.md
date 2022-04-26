@@ -1,7 +1,7 @@
 ---
 measure: H.R. 441
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 441
@@ -38,3 +38,10 @@ Don Young Alaska Native Health Care Land Transfers Act of 2022
 - 2022-04-25 — Placed on the Union Calendar, Calendar No. 217.
 - 2022-04-25 — Reported by the Committee on Natural Resources. H. Rept. 117-295, Part I.
 - 2022-04-25 — Reported by the Committee on Natural Resources. H. Rept. 117-295, Part I.
+- 2022-04-26 — Considered under suspension of the rules. (consideration: CR H4488-4489)
+- 2022-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 441.
+- 2022-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2022-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4488)
+- 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-04-26 — The title of the measure was amended. Agreed to without objection.

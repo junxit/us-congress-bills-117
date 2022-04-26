@@ -7,23 +7,49 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 441
 
-> To provide for the conveyance of certain property to the Tanana Tribal Council located in Tanana, Alaska, and for other purposes.
+> To provide for the conveyance of certain property to the Tanana Tribal Council located in Tanana, Alaska, the conveyance of certain property to the Southeast Alaska Regional Health Consortium located in Sitka, Alaska, and the conveyance of certain property to the Alaska Native Tribal Health Consortium located in Anchorage, Alaska, and for other purposes.
 
-## § 1. Conveyance of property to the Tanana Tribal Council
+## § 1. Short title
 
-- **(a)** *Conveyance of property*
-  - **(1)** *In general* As soon as practicable, but not later than 180 days, after the date of enactment of this Act, the Secretary of Health and Human Services (referred to in this Act as the Secretary) shall convey to the Tanana Tribal Council located in Tanana, Alaska (referred to in this section as the Council), all right, title, and interest of the United States in and to the property described in subsection (b) for use in connection with health and social services programs.
-  - **(2)** *Effect on any quitclaim deed* The conveyance by the Secretary of title by warranty deed under this subsection shall, on the effective date of the conveyance, supersede and render of no future effect any quitclaim deed to the property described in subsection (b) executed by the Secretary and the Council.
-  - **(3)** *Conditions* The conveyance of the property under this section—
-    - **(A)** shall be made by warranty deed; and
-    - **(B)** shall not—
-      - **(i)** require any consideration from the Council for the property;
-      - **(ii)** impose any obligation, term, or condition on the Council; or
-      - **(iii)** allow for any reversionary interest of the United States in the property.
-- **(b)** *Property described* The property, including all land, improvements, and appurtenances, described in this subsection is the property included in U.S. Survey No. 5958, Lot 12, in the village of Tanana, Alaska, within surveyed Township 4N, Range 22W, Fairbanks Meridian, Alaska, containing 11.25 acres.
-- **(c)** *Environmental liability*
-  - **(1)** *Liability*
-    - **(A)** *In general* Notwithstanding any other provision of law, the Council shall not be liable for any soil, surface water, groundwater, or other contamination resulting from the disposal, release, or presence of any environmental contamination on any portion of the property described in subsection (b) on or before the date on which the property is conveyed to the Council.
-    - **(B)** *Environmental contamination* An environmental contamination described in subparagraph (A) includes any oil or petroleum products, hazardous substances, hazardous materials, hazardous waste, pollutants, toxic substances, solid waste, or any other environmental contamination or hazard as defined in any Federal or State of Alaska law.
-  - **(2)** *Easement* The Secretary shall be accorded any easement or access to the property conveyed under this section as may be reasonably necessary to satisfy any retained obligation or liability of the Secretary.
-  - **(3)** *Notice of hazardous substance activity and warranty* In carrying out this section, the Secretary shall comply with subparagraphs (A) and (B) of section 120(h)(3) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(3)).
+This Act may be cited as the “Don Young Alaska Native Health Care Land Transfers Act of 2022”.
+
+## § 2. Definitions
+
+For the purposes of this Act:
+
+- **(1)** *Consortia* The term Consortia means the Alaska Native Tribal Health Consortium and Southeast Alaska Regional Health Consortium.
+- **(2)** *Council* The term Council means the Tanana Tribal Council located in Tanana, Alaska.
+- **(3)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+
+## § 3. Conveyances of property
+
+- **(a)** *Conveyance of property to the Tanana Tribal Council*
+  - **(1)** *In general* As soon as practicable, but not later than 180 days, after the date of the enactment of this Act, the Secretary shall convey to the Council all right, title, and interest of the United States in and to the property described in paragraph (2) for use in connection with health and social services programs.
+  - **(2)** *Property described* The property referred to in paragraph (1), including all land, improvements, and appurtenances, described in this paragraph is the property included in U.S. Survey No. 5958 in the village of Tanana, Alaska, within surveyed lot 12, T. 4 N., R. 22 W., Fairbanks Meridian, Alaska, containing approximately 11.25 acres.
+- **(b)** *Conveyance of property to the Southeast Alaska Regional Health Consortium*
+  - **(1)** *In general* As soon as practicable, but not later than 2 years, after the date of the enactment of this Act, the Secretary shall convey to the Southeast Alaska Regional Health Consortium located in Sitka, Alaska, all right, title, and interest of the United States in and to the property described in paragraph (2) for use in connection with health and social services programs.
+  - **(2)** *Property described* The property referred to in paragraph (1), including all land and appurtenances, described in this paragraph is the property included in U.S. Survey 1496, lots 4 and 7, partially surveyed T. 55 S., R. 63 E., Copper River Meridian, containing approximately 10.87 acres in Sitka, Alaska.
+- **(c)** *Conveyance of property to the Alaska native tribal health consortium*
+  - **(1)** *In general* As soon as practicable, but not later than 1 year, after the date of the enactment of this Act, the Secretary shall convey to the Alaska Native Tribal Health Consortium located in Anchorage, Alaska, all right, title, and interest of the United States in and to the property described in paragraph (2) for use in connection with health programs.
+  - **(2)** *Property described* The property referred to in paragraph (1), including all land, improvements, and appurtenances, is the following:
+    - **(A)** Lot 1A in Block 31A, East Addition, Anchorage Townsite, United States Survey No. 408, Plat No. 96–117, recorded on November 22, 1996, in the Anchorage Recording District.
+    - **(B)** Block 32C, East Addition, Anchorage Townsite, United States Survey No. 408, Plat No. 96–118, recorded on November 22, 1996, in the Anchorage Recording District.
+
+## § 4. Conditions of the conveyance of the properties
+
+- **(a)** *Conditions* The conveyance of the properties under section 3—
+  - **(1)** shall be made by warranty deed; and
+  - **(2)** shall not—
+    - **(A)** require any consideration from the Consortia or the Council for the property;
+    - **(B)** impose any obligation, term, or condition on the Consortia or the Council regarding the property; or
+    - **(C)** allow for any reversionary interest of the United States in the property.
+- **(b)** *Effect on any quitclaim deed* The conveyance by the Secretary of title by warranty deed under subsection (a)(1) shall, on the effective date of the conveyance, supersede and render of no future effect any quitclaim deed to the properties described in section 3 executed by the Secretary and the Consortia or the Council.
+
+## § 5. Environmental liability
+
+- **(a)** *Liability*
+  - **(1)** *In general* Notwithstanding any other provision of law, neither the Consortia nor the Council shall be liable for any soil, surface water, groundwater, or other contamination resulting from the disposal, release, or presence of any environmental contamination on any portion of the property described in section 3 that occurred on or before the date on which the Consortia or the Council controlled, occupied, and used the properties.
+  - **(2)** *Environmental contamination* An environmental contamination described in paragraph (1) includes any oil or petroleum products, hazardous substances, hazardous materials, hazardous waste, pollutants, toxic substances, solid waste, or any other environmental contamination or hazard as defined in any Federal or State of Alaska law.
+- **(b)** *Easement* The Secretary shall be accorded any easement or access to the property conveyed under this Act as may be reasonably necessary to satisfy any retained obligation or liability of the Secretary.
+- **(c)** *Notice of hazardous substance activity and warranty* In carrying out this section, the Secretary shall comply with section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
+- **(d)** *Limitation on applicability* The provisions in this section apply only to the property conveyances specifically required by this Act.
