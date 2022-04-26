@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 7592
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7592
+
+> To amend the Domestic Volunteer Service Act of 1973 and the National Community Service Act of 1990 to provide training for certain individuals to identify and apply for certain Federal grants, and for other purposes.
+
+## § 1. Identification of and application for certain Federal grants
+
+- **(a)** *Economic development initiatives* Section 103(a)(11) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4953(a)(11)) is amended—
+  - **(1)** by inserting “and underserved” after “in rural”; and
+  - **(2)** by inserting “, including initiatives relating to identifying and applying for appropriate Federal grants for such areas” after “most”.
+- **(b)** *Training and technical assistance* Section 199N(b) of the National and Community Service Act of 1990 (42 U.S.C. 12657(b)) is amended—
+  - **(1)** in paragraph (9), by striking the “and” after the semicolon;
+  - **(2)** by redesignating paragraph (10) as paragraph (11); and
+  - **(3)** by inserting after paragraph (9) the following:
+    > - **(10)** providing training and technical assistance for participants in the national service programs to identify and apply for appropriate grants for entities in rural areas and underserved communities;
