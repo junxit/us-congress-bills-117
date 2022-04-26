@@ -1,6 +1,6 @@
 ---
 legis-num: S. 4089
-congress: 117th CONGRESS
+congress: One Hundred Seventeenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
