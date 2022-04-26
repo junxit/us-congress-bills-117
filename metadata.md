@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6441
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6441
@@ -46,3 +46,9 @@ Women’s Business Centers Improvement Act of 2022
 - 2022-03-07 — Placed on the Union Calendar, Calendar No. 188.
 - 2022-03-07 — Reported by the Committee on Small Business. H. Rept. 117-258.
 - 2022-03-07 — Reported by the Committee on Small Business. H. Rept. 117-258.
+- 2022-04-26 — Considered under suspension of the rules. (consideration: CR H4465-4470)
+- 2022-04-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6441.
+- 2022-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-04-26 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4465-4468)
+- 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
