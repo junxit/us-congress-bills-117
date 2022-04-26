@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5973
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,21 +35,21 @@ to guess them.
 
 ### 16 U.S.C. § 941f
 
-> in subsection (b), in the matter preceding paragraph (1), by striking “2016 through 2020” and inserting “2022 through 2027”.
+> in subsection (b), in the matter preceding paragraph (1), by striking “2016 through 2020” and inserting “2023 through 2028”.
 
 | | |
 |---|---|
 | Removed | `2016 through 2020` |
-| Inserted | `2022 through 2027` |
+| Inserted | `2023 through 2028` |
 
 ### 16 U.S.C. § 941g
 
-> Section 1009(a) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)) is amended, in the matter preceding paragraph (1), by striking “2016 through 2021” and inserting “2022 through 2027”.
+> Section 1009(a) of the Great Lakes Fish and Wildlife Restoration Act of 1990 (16 U.S.C. 941g(a)) is amended, in the matter preceding paragraph (1), by striking “2016 through 2021” and inserting “2023 through 2028”.
 
 | | |
 |---|---|
 | Removed | `2016 through 2021` |
-| Inserted | `2022 through 2027` |
+| Inserted | `2023 through 2028` |
 
 ### 16 U.S.C. § 941g
 
