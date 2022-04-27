@@ -13,17 +13,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Asset Seizure for Ukraine Reconstruction Act”.
 
-## § 2. Presidential authorities with respect to the conflict in Ukraine
+## § 2. Sense of Congress
 
-- **(a)** *In general* The President upon determination that Russia remains engaged in a conflict of territorial conquest in Ukraine, may, by means of instructions, licenses, or other regulations as may be promulgated, confiscate any property or accounts subject to the jurisdiction of the United States and valued over $5,000,000 of any foreign person described in subsection (b). All rights, title, and interest in any property so confiscated shall vest, upon the terms directed by the President, in such agency or person as the President may designate from time to time, and upon such terms and conditions as the President may prescribe. Such interest or property may be held, used, administered, liquidated, or sold, by such agency or person and such designated agency or person may perform any and all acts incident to the accomplishment or furtherance of these purposes.
-- **(b)** *Foreign person described* A foreign person described in this subsection is a foreign person—
-  - **(1)** whose wealth, according to credible information, is derived in part through corruption linked to or political support for the regime of Russian President Vladimir Putin; and
-  - **(2)** with respect to which the President has imposed sanctions relating to corruption, human rights violations, Russian malign influence, or conflicts in Ukraine.
-- **(c)** *Use of Liquidated Funds* Any funds derived from liquidation or sales pursuant to subsection (a) shall be used solely for the benefit of the people of Ukraine, for the following purposes:
-  - **(1)** Post-conflict reconstruction in Ukraine.
-  - **(2)** Humanitarian assistance.
-  - **(3)** Weapons for the uniformed military forces of the elected Government of Ukraine.
-  - **(4)** Provisions to support refugees and refugee resettlement in neighboring countries and in the United States.
-  - **(5)** Technology items and services to ensure the free flow of information to the Ukrainian people in Ukraine, including items to counter internet censorship by Russian authorities, to circumvent efforts to shut down internet or communication services by Russian authorities, to bolster cybersecurity capabilities of Ukrainian Government or non-governmental organizations.
-  - **(6)** Humanitarian and development assistance for the Russian people, including democracy and human rights programming and monitoring.
-- **(d)** *Sunset* The authority provided by subsection (a) shall terminate on the date that is 2 years after the date of the enactment of this Act.
+It is the sense of Congress as follows:
+
+- **(1)** The President should take all constitutional steps to seize and confiscate assets under the jurisdiction of the United States of foreign persons whose wealth is derived in part through corruption linked to or political support for the regime of Russian President Vladimir Putin and with respect to which the President has imposed sanctions.
+- **(2)** The President, by means of instructions, licenses, or other regulations as may be promulgated and in a manner consistent with due process of law, should confiscate any property or accounts subject to the jurisdiction of the United States, valued over $2,000,000, and belonging to Russian energy companies or to foreign persons whose wealth is derived in part through corruption linked to or political support for the regime of Russian President Vladimir Putin and with respect to which the President has imposed sanctions.
+- **(3)** All rights, title, and interest in any property so confiscated should vest, upon the terms directed by the President, in such agency or person as the President may designate from time to time, and upon such terms and conditions as the President may prescribe.
+- **(4)** Such interest or property should be held, used, administered, liquidated, or sold, by such agency or person and such designated agency or person should perform any and all acts incident to the accomplishment or furtherance of these purposes.
+- **(5)** The President should use all liquidated funds for the benefit of the people of Ukraine, including for the following:
+  - **(A)** Post-conflict reconstruction in Ukraine.
+  - **(B)** Humanitarian assistance.
+  - **(C)** United States government assistance provided to the security forces of the government of Ukraine.
+  - **(D)** Provisions to support refugees and refugee resettlement in neighboring countries and in the United States.
+  - **(E)** Technology items and services to ensure the free flow of information to the Ukrainian people in Ukraine, including items to counter internet censorship by Russian authorities, to circumvent efforts to shut down internet or communication services by Russian authorities and bolster the cybersecurity capabilities of Ukrainian Government or non-governmental organizations.
+  - **(F)** Humanitarian and development assistance for the Russian people, including democracy and human rights programming and monitoring.
+
+## § 3. Interagency working group
+
+The President shall establish an interagency working group, which shall be headed by the Secretary of State, to determine the constitutional mechanisms through which the President can take steps to seize and confiscate assets under the jurisdiction of the United States of foreign persons whose wealth is derived in part through corruption linked to or political support for the regime of Russian President Vladimir Putin and with respect to which the President has imposed sanctions.
+
+## § 4. Report on steps and authorities
+
+Not later than 60 days after the date of the enactment of this Act, the Secretary of State, on behalf of the interagency working group, shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report about the steps taken by the interagency working group to accomplish the steps laid out in section 2, a report that includes any recommendations to impose additional energy-related sanctions on the Government of Russia, and a report on any additional authorities the President needs to take such steps.
+
+## § 5. Expansion of sanctions with respect to members of the Russian Parliament
+
+Not later than 30 days after the date of the enactment of this Act, the President shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report, which may be submitted in classified form if necessary, that contains a justification for any determination of whether or not, in addition to the sanctions imposed pursuant to Executive Order 14024 (86 Fed. Reg. 73; relating to blocking property with respect to specified 11 harmful foreign activities of the Government of the Russian Federation), imposing sanctions on 328 members of the Russian State Duma, a determination as to whether remaining members of the Duma and the Russian Federation Council, which includes officials who may be involved in corrupt and other sanctionable activities, who voted on February 22, 2022, to recognize the Donetsk People’s Republic (DPR) and the Luhansk People’s Republic (LPR), as well as the Russian Federation Council in its entirety, should be subject to sanctions under the such Executive Order.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
