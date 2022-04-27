@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2793
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2793
@@ -64,3 +64,4 @@ Highlands Conservation Reauthorization Act of 2021
 - 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4477-4478)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-04-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 352.
