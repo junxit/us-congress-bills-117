@@ -1,7 +1,7 @@
 ---
 measure: S. 2322
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2322
@@ -16,11 +16,13 @@ CTPAT Pilot Program Act of 2021
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ CTPAT Pilot Program Act of 2021
 
 - 2021-07-13 — Introduced in Senate
 - 2021-07-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-99.
+- 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-99.
+- 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.
