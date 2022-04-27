@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 588
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 588
@@ -66,3 +66,7 @@ A resolution designating April 2022 as "Financial Literacy Month".
 
 - 2022-04-07 — Introduced in Senate
 - 2022-04-07 — Referred to the Committee on the Judiciary.
+- 2022-04-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/7/2022 CR S2098)
+- 2022-04-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/7/2022 CR S2098)
+- 2022-04-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2196)
+- 2022-04-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2196)
