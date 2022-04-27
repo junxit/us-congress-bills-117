@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4877
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4877
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4877
@@ -53,3 +53,14 @@ One Stop Shop for Small Business Compliance Act of 2021
 - 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4473)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-04-27 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2022-09-28 — Passed Senate without amendment by Voice Vote.
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-09-28 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2022-09-28 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent. (consideration: CR S5168)
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-188.
+- 2022-10-10 — Became Public Law No: 117-188.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
