@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5973
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5973
@@ -47,3 +47,14 @@ Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022
 - 2022-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4482)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4482)
 - 2022-04-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2022-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7187-7188)
+- 2022-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7187-7188)
+- 2022-12-14 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-12-14 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-12-15 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-287.
+- 2022-12-27 — Became Public Law No: 117-287.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
