@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6441
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6441
@@ -32,9 +32,10 @@ Women’s Business Centers Improvement Act of 2022
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Women’s Business Centers Improvement Act of 2022
 - 2022-04-26 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4465-4468)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-04-27 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
