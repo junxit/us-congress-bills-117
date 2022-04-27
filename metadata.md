@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4426
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4426
@@ -49,3 +49,7 @@ Homeland Security for Children Act
 - 2021-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5539-5540)
 - 2021-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5539-5540)
 - 2021-09-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-100.
+- 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-100.
+- 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.
