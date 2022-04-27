@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 41
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 41
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (32)
+## Cosponsors (36)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Crapo, Mike [R-ID] (C000880)
@@ -50,6 +50,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Young, Todd [R-IN] (Y000064)
 
 ## Committees (1)
 
@@ -59,3 +63,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2022-03-16 — Introduced in Senate
 - 2022-03-16 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-04-27 — Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 140.
+- 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 355.
+- 2022-04-27 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-04-27 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
