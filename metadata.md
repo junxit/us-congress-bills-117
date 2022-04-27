@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6201
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6201
@@ -56,9 +56,10 @@ National Liberty Memorial Preservation Act
 - Rep. Levin, Andy [D-MI-9] (L000592)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ National Liberty Memorial Preservation Act
 - 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4484)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-04-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
