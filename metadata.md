@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4877
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4877
@@ -31,9 +31,10 @@ One Stop Shop for Small Business Compliance Act of 2021
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ One Stop Shop for Small Business Compliance Act of 2021
 - 2022-04-26 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2022-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4473)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-04-27 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
