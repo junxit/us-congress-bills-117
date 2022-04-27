@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4426
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4426
@@ -53,3 +53,12 @@ Homeland Security for Children Act
 - 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-100.
 - 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-100.
 - 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.
+- 2022-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2516)
+- 2022-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-05-17 — Message on Senate action sent to the House.
+- 2022-05-26 — Presented to President.
+- 2022-05-26 — Presented to President.
+- 2022-06-06 — Became Public Law No: 117-130.
+- 2022-06-06 — Became Public Law No: 117-130.
+- 2022-06-06 — Signed by President.
+- 2022-06-06 — Signed by President.
