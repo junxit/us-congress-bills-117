@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6089
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,3 +32,7 @@ It shall be the policy of the United States to prevent Iran and Iranian-aligned 
   - **(2)** in subsection (a)(1), by inserting “or unmanned combat aerial vehicles” after “combat aircraft”.
 - **(b)** *Clerical amendment* The table of contents for the Countering America’s Adversaries Through Sanctions Act is amended by striking the item relating to section 107 and inserting the following:
 - **(c)** *Effective date* The amendments made by this section take effect on the date of the enactment of this Act and apply with respect to any person that knowingly engages in any activity that materially contributes to the supply, sale, or transfer directly or indirectly to or from Iran, or for the use in or benefit of Iran, of any unmanned combat aerial vehicles, as defined for the purpose of the United Nations Register of Conventional Arms, before, on, or after such date of enactment.
+
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
