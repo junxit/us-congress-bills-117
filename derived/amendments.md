@@ -1,7 +1,7 @@
 ---
 measure: S. 1941
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,3 +43,11 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | strike | in paragraph (3)(B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 6101` | replace | in paragraph (4)(B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6308` | add-at-end | Chapter 63 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6308` | insert | The table of sections for chapter 63 of title 31, United States Code, is amended by inserting after the item relating to section 6308 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating subparagraph (G) as subparagraph (H); | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (F), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (F) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (8)(B)(ii), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9)(B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
