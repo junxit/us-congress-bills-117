@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5973
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5973
@@ -22,9 +22,10 @@ Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022
 - 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4482)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4482)
+- 2022-04-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
