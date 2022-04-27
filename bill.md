@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 336
 congress: 117th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 336
@@ -30,7 +30,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** implores the Government of the Russian Federation to present credible evidence on the allegations against Paul Whelan or immediately release him from imprisonment;
-- **(2)** implores the Government of the Russian Federation to comply with its international treaty obligations and provide unrestricted consular access to Paul Whelan while he remains imprisoned in Russia;
-- **(3)** calls on the Government of the Russian Federation to provide Paul Whelan and all other political prisoners their constitutionally afforded due process rights and universally recognized human rights; and
+- **(1)** demands the Government of the Russian Federation present credible evidence on the allegations against Paul Whelan or immediately release him from imprisonment;
+- **(2)** demands the Government of the Russian Federation comply with its international treaty obligations and provide unrestricted consular access to Paul Whelan while he remains imprisoned in Russia;
+- **(3)** calls on the Government of the Russian Federation to provide Paul Whelan, Trevor Reed, and all others imprisoned for political motivations or otherwise unjustly imprisoned their constitutionally afforded due process rights and universally recognized human rights; and
 - **(4)** expresses sympathy to the family of Paul Whelan for this travesty to justice and personal hardship, and expresses hope that their ordeal can soon be brought to a just end.
