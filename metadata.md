@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1508
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1508
@@ -40,3 +40,4 @@ Guidance Clarity Act of 2021
 - 2021-10-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5690)
 - 2021-10-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5690)
 - 2021-10-21 — Received in the Senate.
+- 2022-04-27 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 353.
