@@ -1,7 +1,7 @@
 ---
 measure: S. 895
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 895
@@ -16,7 +16,7 @@ Human Trafficking Survivor Tax Relief Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Portman, Rob [R-OH] (P000449)
@@ -25,6 +25,7 @@ Human Trafficking Survivor Tax Relief Act
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -34,3 +35,7 @@ Human Trafficking Survivor Tax Relief Act
 
 - 2021-03-23 — Introduced in Senate
 - 2021-03-23 — Read twice and referred to the Committee on Finance.
+- 2022-04-27 — Passed Senate without amendment by Unanimous Consent. (text: CR S2196)
+- 2022-04-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-04-27 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2022-04-27 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S2195-2196)
