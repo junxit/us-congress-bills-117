@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5796
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5796
@@ -20,9 +20,10 @@ Patents for Humanity Act of 2022
 
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Patents for Humanity Act of 2022
 - 2022-04-27 — Placed on the Union Calendar, Calendar No. 223.
 - 2022-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-302.
 - 2022-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-302.
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
