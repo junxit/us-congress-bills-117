@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4693
@@ -121,9 +121,10 @@ Global Malnutrition Prevention and Treatment Act of 2021
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -140,3 +141,4 @@ Global Malnutrition Prevention and Treatment Act of 2021
 - 2022-04-27 — Mr. Connolly moved to suspend the rules and pass the bill.
 - 2022-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 44 (Roll no. 137).
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 44 (Roll no. 137).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
