@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6089
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6089
@@ -96,10 +96,11 @@ Stop Iranian Drones Act
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -118,3 +119,4 @@ Stop Iranian Drones Act
 - 2022-04-27 — Mr. Connolly moved to suspend the rules and pass the bill, as amended.
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 2 (Roll no. 136). (text: CR H4545)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 2 (Roll no. 136).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
