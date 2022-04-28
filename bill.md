@@ -1,0 +1,30 @@
+---
+legis-num: S. 4112
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4112
+
+> To address issues involving the economic statecraft of the United States, and for other purposes.
+
+## § 1. Short title
+
+- **(a)** *Short title* This Act may be cited as the “Economic Statecraft for the Twenty-First Century Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Findings
+
+Congress makes the following findings:
+
+- **(1)** As of 2020, the United States accounts for nearly 25 percent of the world’s gross domestic product, amounting to approximately $20,953,000,000,000. The United States has major business dealings on almost every continent with involvement in multilateral financial systems, bilateral and multilateral economic partnerships, and a robust economy that held nearly 30 percent of the world’s share of research and development in 2019.
+- **(2)** Since World War II, the United States has been a leader in the global economy, as demonstrated by its membership in economic-focused multilateral organizations such as the World Bank, the International Finance Corporation, the International Labour Organization, and the Group of Twenty (G20). The United States has leveraged its economic advantage to ensure its national security in countless instances, such as through the investment of billions of dollars used to rebuild Europe and restore world order following World War II.
+- **(3)** The robust economy of the United States is directly tied to its ability to engage economically, diplomatically, and militarily with allies and adversaries. In a 2019 Pew Research study, of the countries surveyed, 46 percent of Asia-Pacific countries, 37 percent of European countries, and 47 percent of Middle Eastern countries view the United States as the world’s leading economic power. African countries that had an overall more favorable impression of the People’s Republic of China have consequently been engaging in greater economic partnerships with the People’s Republic of China, amounting to approximately $2,960,000,000 in 2020.
+- **(4)** According to the Organisation for Economic Co-operation and Development, about 70 percent of global economic activity occurs through global value chains. Driven by a greater outsourcing of service industry work and greater financial and business service linkages with Europe, the United States has increased its engagement with global value chains in both the manufacturing and services industries. Although the United States has attempted to encourage value-based practices in international business through business advisories, public diplomacy, and other economic tools, countries like the People’s Republic of China do not operate with such value-oriented business operations.
+- **(5)** In 2020, exports made up 10 percent of the United States economy, and the United States utilizes export controls to safeguard its economic edge and national security interests. As has been seen in the case of export controls imposed through the Entity List maintained by the Bureau of Industry and Security of the Department of Commerce to restrict dual-use trade with the People’s Republic of China, such controls curtail potential militant activity by the People’s Liberation Army in the South China Sea, human rights abuses, and the use of semiconductor technology for military purposes. The expanded usage of export controls can continue to benefit United States economic security.
+- **(6)** International financial institutions such as the World Bank, the International Monetary Fund, the Inter-American Development Bank, and the African Development Bank have key roles in encouraging regional cooperation, sustaining economic development, reducing global greenhouse gas emissions, and reducing global poverty. Those values are in line with United States international development practices, a commonality that can be leveraged for greater coordinated cooperation in the future, especially in the wake of the COVID–19 pandemic, including as follows:
+  - **(A)** To meet the needs of developing countries that need to repay debt amounting to approximately $860,000,000,000 in 2020, United States cooperation with key multilateral organizations in the smooth rollout of the Debt Service Suspension Initiative Refresher can ensure global economic recovery from the pandemic while mitigating the risk of loan default.
+  - **(B)** The rise in debt transparency has become a critical issue as more countries become unaware of the full extent of their sovereign debt as a result of predatory lending and poor debt management. The continued support by the United States of international financial institutions can facilitate reforms that go beyond the 2003 proposal of the International Monetary Fund for a Sovereign Debt Restructuring Mechanism.
+- **(7)** Despite the impact of the COVID–19 pandemic, which has had devastating effects on global supply chains and economic productivity, the economy of the People’s Republic of China continues to grow. As a result, global investors are looking more toward the People’s Republic of China, instead of the United States, for potential economic activity and are willing to turn a blind eye to the People’s Republic of China’s human rights violations, including its use of forced labor in the Xinjiang Uyghur Autonomous Region.
+- **(8)** The United States, as a major economic leader, has a role in preventing predatory economic practices, such as loans to developing countries from the Government of the People’s Republic of China through the Belt and Road Initiative. As the People’s Republic of China has come to fill the role of an economic leader to many developing countries with its lending, the United States stands to lose economically from its trading partners being stuck in billion dollar debt traps. Furthermore, such predatory practices have come to the United States with the increase of foreign investment in the United States from $4,400,000,000,000 to $4,630,000,000,000 over the course of 2020.
