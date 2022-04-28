@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6930
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6930
@@ -37,9 +37,10 @@ Asset Seizure for Ukraine Reconstruction Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Bera, Ami [D-CA-7] (B001287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Asset Seizure for Ukraine Reconstruction Act
 - 2022-04-27 — Mr. Phillips moved to suspend the rules and pass the bill, as amended.
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 8 (Roll no. 130). (text: CR H4530-4531)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 8 (Roll no. 130).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
