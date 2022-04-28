@@ -1,7 +1,7 @@
 ---
 measure: H.R. 496
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 496
@@ -43,11 +43,12 @@ To oppose violations of religious freedom in Ukraine by Russia and armed groups 
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Budget Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ To oppose violations of religious freedom in Ukraine by Russia and armed groups 
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 4 (Roll no. 129). (text: CR H4529)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 4 (Roll no. 129).
 - 2022-04-27 — The title of the measure was amended. Agreed to without objection.
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
