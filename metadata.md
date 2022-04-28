@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3344
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3344
@@ -54,9 +54,10 @@ Transatlantic Telecommunications Security Act
 - Rep. Bera, Ami [D-CA-7] (B001287)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Transatlantic Telecommunications Security Act
 - 2022-04-27 — Mr. Connolly moved to suspend the rules and pass the bill, as amended.
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 60 (Roll no. 133). (text: CR H4538-4540)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 60 (Roll no. 133).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
