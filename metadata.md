@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 923
@@ -37,11 +37,12 @@ To support the independence, sovereignty, and territorial integrity of the Repub
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Womack, Steve [R-AR-3] (W000809)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Ways and Means Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ To support the independence, sovereignty, and territorial integrity of the Repub
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 131). (text: CR H4532-4534)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 131).
 - 2022-04-27 — The title of the measure was amended. Agreed to without objection.
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
