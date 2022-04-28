@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1035
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1035
@@ -34,3 +34,5 @@ Adjusting the amount provided for the expenses of certain committees of the Hous
 - 2022-04-21 — Placed on the House Calendar, Calendar No. 74.
 - 2022-04-21 — Reported by the Committee on House Administration. H. Rept. 117-291.
 - 2022-04-21 — Reported by the Committee on House Administration. H. Rept. 117-291.
+- 2022-04-28 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1065, H. Res. 1035 is considered passed House.(consideration: CR H4594; text: CR H4594)
+- 2022-04-28 — Pursuant to the provisions of H. Res. 1065, H. Res. 1035 is considered passed House. (consideration: CR H4594; text: CR H4594)
