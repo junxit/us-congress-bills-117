@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7311
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7311
@@ -35,9 +35,10 @@ Countering Malign Russian Activities in Africa Act
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Countering Malign Russian Activities in Africa Act
 - 2022-04-27 — Mr. Connolly moved to suspend the rules and pass the bill, as amended.
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 9 (Roll no. 134). (text: CR H4541-4542)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 9 (Roll no. 134).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
