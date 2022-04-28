@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7372
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7372
@@ -25,9 +25,10 @@ Protecting Semiconductor Supply Chain Materials from Authoritarians Act
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Protecting Semiconductor Supply Chain Materials from Authoritarians Act
 - 2022-04-27 — Mr. Phillips moved to suspend the rules and pass the bill.
 - 2022-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 9 (Roll no. 128). (text: CR H4527-4528)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 9 (Roll no. 128).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
