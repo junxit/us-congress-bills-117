@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7314
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7314
@@ -26,9 +26,10 @@ AXIS Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ AXIS Act
 - 2022-04-27 — Mr. Phillips moved to suspend the rules and pass the bill, as amended.
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 127). (text: CR H4525)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 127).
+- 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
