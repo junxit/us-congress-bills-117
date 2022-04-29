@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 7638
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7638
+
+> To designate the facility of the United States Postal Service located at 6000 South Florida Avenue in Lakeland, Florida, as the “U.S. Marine Corporal Ronald R. Payne Jr. Post Office”.
+
+## § 1. U.S. Marine Corporal Ronald R. Payne Jr. Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 6000 South Florida Avenue in Lakeland, Florida, shall be known and designated as the “U.S. Marine Corporal Ronald R. Payne Jr. Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “U.S. Marine Corporal Ronald R. Payne Jr. Post Office”.
