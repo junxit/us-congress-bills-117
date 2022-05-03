@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 847
@@ -30,3 +30,9 @@ Promoting Digital Privacy Technologies Act
 - 2021-02-04 — Introduced in House
 - 2021-02-04 — Referred to the House Committee on Science, Space, and Technology.
 - 2021-02-04 — Referred to the Subcommittee on Research and Technology.
+- 2022-01-12 — Subcommittee on Research and Technology Discharged.
+- 2022-01-19 — Committee Consideration and Mark-up Session Held.
+- 2022-01-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-05-03 — Placed on the Union Calendar, Calendar No. 225.
+- 2022-05-03 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-305.
+- 2022-05-03 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-305.
