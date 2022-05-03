@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1437
@@ -16,7 +16,7 @@ Further Continuing Appropriations and Extensions Act, 2023
 
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 
-## Cosponsors (8)
+## Cosponsors (26)
 
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
@@ -26,6 +26,24 @@ Further Continuing Appropriations and Extensions Act, 2023
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 
 ## Committees (1)
 
@@ -37,3 +55,9 @@ Further Continuing Appropriations and Extensions Act, 2023
 - 2021-02-26 — Introduced in House
 - 2021-02-26 — Referred to the House Committee on Science, Space, and Technology.
 - 2021-02-26 — Referred to the Subcommittee on Environment.
+- 2021-11-10 — Subcommittee on Environment Discharged.
+- 2021-11-16 — Committee Consideration and Mark-up Session Held.
+- 2021-11-16 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2022-05-03 — Placed on the Union Calendar, Calendar No. 224.
+- 2022-05-03 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-304.
+- 2022-05-03 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-304.

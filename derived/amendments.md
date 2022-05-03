@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 8521` | add-at-end | Section 508 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8521) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8521` | add-at-end | The Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8521) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8501` | add-at-end | Section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501 note) is amended in the table of contents by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
