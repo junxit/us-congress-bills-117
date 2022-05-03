@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7649
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7649
+
+> To direct the Secretary of Health and Human Services to open a public docket for the submission of public comments regarding factors that should be taken into consideration when reviewing a proposed modification to an approved risk evaluation and mitigation strategy, and for other purposes.
+
+## § 1. Public docket on proposed modifications to approved strategies
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall open a public docket for the submission of public comments regarding factors that should be taken into consideration when a proposed modification to an approved risk evaluation and mitigation strategy is reviewed under section 505–1(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 255–1(h)), including factors related to patient access to the drug that is the subject of the strategy and provider administration. The Secretary may close such public docket not earlier than 90 days after such docket is opened.
+- **(b)** *GAO report* Not later than December 31, 2026, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on—
+  - **(1)** the number of proposed modifications to an approved risk evaluation and mitigation strategy the Secretary has granted under section 505–1(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 255–1(h));
+  - **(2)** any issues affecting patient access to the drug that is the subject of the strategy or provider administration that arose as a result of such modifications; and
+  - **(3)** how such issues were resolved, as applicable.
