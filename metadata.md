@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 604
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 604
@@ -33,3 +33,7 @@ A resolution supporting the designation of the week of April 25 through April 29
 
 - 2022-04-28 — Introduced in Senate
 - 2022-04-28 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-05-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 4/28/2022 CR S2223-2224)
+- 2022-05-03 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 4/28/2022 CR S2223-2224)
+- 2022-05-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2022-05-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2291)
