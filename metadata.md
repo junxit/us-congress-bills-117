@@ -1,7 +1,7 @@
 ---
 measure: H.R. 539
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 539
@@ -56,3 +56,7 @@ Preventing Disaster Revictimization Act
 - 2021-06-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2767)
 - 2021-06-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2767)
 - 2021-06-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-07-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-05-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-101.
+- 2022-05-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-101.
+- 2022-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
