@@ -1,0 +1,44 @@
+---
+legis-num: S. 4138
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4138
+
+> To develop and implement strategies for research and development for bioindustrial manufacturing and the implementation of additive manufacturing for defense purposes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bioindustrial and Additive Manufacturing for America Act of 2022”.
+
+## § 2. Research and development strategy for bioindustrial manufacturing
+
+- **(a)** *Strategy required*
+  - **(1)** *In general* Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall—
+    - **(A)** complete development of a research, development, and implementation strategy for bioindustrial manufacturing; and
+    - **(B)** transmit to the Joint Defense Manufacturing Council the strategy developed under subparagraph (A).
+  - **(2)** *Contents* The strategy required by paragraph (1)(A) shall include the following:
+    - **(A)** A roadmap that addresses the workforce skills needed to support the technologies covered by the strategy.
+    - **(B)** Proposals for demonstration projects to assess relevant concepts, models, technologies, and engineering barriers.
+    - **(C)** Proposals for the application of bioindustrial manufacturing for warfighting capabilities.
+    - **(D)** Proposals for the application of bioindustrial manufacturing to achieve agile, resilient, and integrated logistics and sustainment for distributed operations.
+    - **(E)** Proposals for the application of bioindustrial manufacturing to establish quality assurance practices for system and technological maintenance.
+- **(b)** *Submittal to Congress* Not later than 90 days after the date on which the Secretary has completed development of the strategy under subsection (a)(1)(A), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a copy of the strategy and such comments as the Secretary may have with respect to such strategy.
+
+## § 3. Implementation strategy for additive manufacturing
+
+- **(a)** *Strategy required*
+  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall—
+    - **(A)** complete development of an implementation strategy for additive manufacturing; and
+    - **(B)** transmit to the Joint Defense Manufacturing Council the strategy developed under subparagraph (A).
+  - **(2)** *Contents* The strategy required by paragraph (1)(A) shall include the following:
+    - **(A)** A roadmap that addresses the workforce skills needed to support the technologies covered by the strategy.
+    - **(B)** Proposals for demonstration projects to assess relevant concepts, models, technologies, and engineering barriers.
+    - **(C)** Proposals for the application of additive manufacturing for warfighting capabilities.
+    - **(D)** Proposals for the application of additive manufacturing to achieve agile, resilient, and integrated logistics and sustainment for distributed operations.
+    - **(E)** Proposals for the application of additive manufacturing to establish quality assurance practices for system and technological maintenance.
+    - **(F)** Proposals for launching pilot programs in which the Secretary may work with industry and academic institutions to develop and implement additive manufacturing standards and practices.
+    - **(G)** Proposals for the Department to collaborate with Defense Agencies and the military departments through the Joint Defense Manufacturing Council and the Joint Additive Manufacturing Working Group to collectively implement the strategy developed under paragraph (1)(A).
+- **(b)** *Submittal to Congress* Not later than 90 days after the date on which the Secretary has completed development of the strategy under subsection (a)(1)(A), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a copy of the strategy and such comments as the Secretary may have with respect to such strategy.
