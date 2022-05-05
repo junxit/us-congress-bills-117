@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 601
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 601
@@ -34,3 +34,7 @@ A resolution celebrating the 150th anniversary of Arbor Day.
 
 - 2022-04-28 — Introduced in Senate
 - 2022-04-28 — Referred to the Committee on the Judiciary.
+- 2022-05-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/28/2022 CR S2222)
+- 2022-05-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/28/2022 CR S2222)
+- 2022-05-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-05-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2366)
