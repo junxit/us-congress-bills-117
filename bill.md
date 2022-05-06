@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5129
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Community Services Block Grant Modernization Act of 2021”.
+This Act may be cited as the “Community Services Block Grant Modernization Act of 2022”.
 
 ## § 2. Reauthorization
 
@@ -19,13 +19,12 @@ Subtitle B of title VI of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.
 
 ## § 3. Transition period
 
-- **(a)** *Transition period* The Secretary of Health and Human Services shall expeditiously announce a transition period for the implementation of any changes in regulations, procedures, and reporting requirements of the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) as amended by this Act, from the regulations, procedures, and reporting requirements of the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) as in effect immediately before the date of enactment of this Act.
-- **(b)** *Uniform administrative requirements, cost principles, and audit requirements; Federal training* The transition period shall include—
-  - **(1)** a schedule for implementation of requirements relating to adoption of the uniform administrative requirements, cost principles, and audit requirements described in section 674(c) of the Community Services Block Grant Act (42 U.S.C. 9901) as amended by this Act; and
-  - **(2)** the availability of Federal training for States and eligible entities regarding compliance with new requirements under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) as amended by this Act.
+- **(a)** *Transition period* The Secretary of Health and Human Services shall expeditiously announce a transition period for the implementation of any changes in regulations, procedures, guidance, and reporting requirements of the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) as amended by this Act, from the regulations, procedures, guidance, and reporting requirements of the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) as in effect immediately before the date of enactment of this Act.
+- **(b)** *Federal training* The transition period shall include the availability of Federal training for States and eligible entities regarding compliance with new requirements under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) as amended by this Act.
 - **(c)** *Timing* The transition period described in this section—
-  - **(1)** may not extend later than the date that is 3 months prior to the start of the second fiscal year after the date of enactment of the Community Services Block Grant Modernization Act of 2021; and
-  - **(2)** may require that certain regulations, procedures, and reporting requirements be adopted before other regulations, procedures, or reporting requirements.
+  - **(1)** may not extend later than the date that is 3 months prior to the start of the second fiscal year after the date of enactment of the Community Services Block Grant Modernization Act of 2022;
+  - **(2)** notwithstanding (1), may not extend later than two years after the date of enactment of the Community Services Block Grant Modernization Act of 2022 for the issuance of final regulations implementing this subtitle; and
+  - **(3)** may require that certain regulations, procedures, and reporting requirements be adopted before other regulations, procedures, or reporting requirements.
 
 ## § 4. Conforming amendments
 
