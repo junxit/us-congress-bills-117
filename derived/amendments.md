@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6825
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 3 executed, 8 stated and not applied.
+17 amendatory instructions. 5 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,24 @@ to guess them.
 | Removed | `$75 million for each of fiscal years 2020 through 2024` |
 | Inserted | `$75,000,000 for fiscal year 2022 and $500,000,000 for each of fiscal years 2023 through 2028` |
 
+### 6 U.S.C. § 609
+
+> in subsection (c) by striking “sections 2003 and 2004” and inserting “sections 2003, 2004, and 2009”; and
+
+| | |
+|---|---|
+| Removed | `sections 2003 and 2004` |
+| Inserted | `sections 2003, 2004, and 2009` |
+
+### 6 U.S.C. § 609
+
+> in subsection (e), by striking “section 2003 or 2004” and inserting “sections 2003, 2004, or 2009”.
+
+| | |
+|---|---|
+| Removed | `section 2003 or 2004` |
+| Inserted | `sections 2003, 2004, or 2009` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -60,6 +78,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `6 U.S.C. § 609a` | insert | in subsection (a), by inserting “and threats” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 609a` | strike | in the matter preceding paragraph (1), by striking “this” before “subsection”; and | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 609a` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609a` | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (E), respectively, and moving such subparagraphs, as so redesignated, two ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609a` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by striking “The recipient” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 609a` | redesignate | by inserting after subparagraph (B), as so redesignated, the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -68,3 +89,4 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 609a` | redesignate | by redesignating subsection (f) as subsection (j); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609a` | insert | by inserting after subsection (e) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 609a` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609a` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
