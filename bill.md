@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5324
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,14 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “NOAA Weather Radio Modernization Act of 2021” or the “NWR Modernization Act of 2021”.
+This Act may be cited as the “NOAA Weather Radio Modernization Act of 2021” or “NWR Modernization Act of 2021”.
 
 ## § 2. Definitions
 
-In this Act:
-
-- **(1)** *Administrator* The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
-- **(2)** *NOAA weather radio* The term “NOAA Weather Radio” means the National Oceanic and Atmospheric Administration Weather Radio All Hazards network.
+- **(a)** *Administrator* The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+- **(b)** *NOAA Weather Radio* The term “NOAA Weather Radio” means the National Oceanic and Atmospheric Administration Weather Radio All Hazards network.
 
 ## § 3. Findings
 
@@ -32,27 +30,29 @@ Congress finds the following:
 
 ## § 4. Upgrading existing systems
 
-- **(a)** *In General* The Administrator shall, to the maximum extent practicable, expand coverage of the NOAA Weather Radio and ensure its reliability. In doing so, the Administrator shall—
-  - **(1)** maintain support for existing systems serving areas not covered by cellular service or having poor quality cellular service;
-  - **(2)** ensure consistent maintenance of, and timely repairs to, broadcast towers and antennas; and
+- **(a)** *In general* The Administrator shall, to the maximum extent practicable, expand coverage of the NOAA Weather Radio and ensure its reliability. In doing so, the Administrator shall—
+  - **(1)** maintain support for existing systems serving areas not covered by or having poor quality cellular service;
+  - **(2)** ensure consistent maintenance and operations monitoring, with timely repairs to broadcast transmitter site equipment and antennas; and
   - **(3)** enhance the ability to amplify Non-Weather Emergency Messages via NOAA Weather Radio as necessary.
-- **(b)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $20,000,000, to remain available until expended.
+- **(b)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $20,000,000 to remain available until expended.
+- **(c)** *Expanding access* As part of the activities in this section, the Administrator shall acquire additional transmitters as required to expand coverage to rural and underserved communities, national parks, and recreation areas.
 
 ## § 5. Modernization initiative
 
-- **(a)** *In general* In parallel to the activities under section 4, the Administrator shall, to the maximum extent practicable, provide upgrades to the NOAA Weather Radio to ensure its capabilities and coverage remain valuable to the public. In carrying out these activities, the Administrator shall—
-  - **(1)** provide upgrades to the telecommunications infrastructure to accelerate the transition of broadcasts to Internet Protocol-based communications over non-copper media;
-  - **(2)** accelerate software upgrades to the Advanced Weather Interactive Processing System in order to implement partial county notifications and alerts;
-  - **(3)** consult with private sector entities to ensure that NOAA Weather Radio data and feeds are easily accessible in a format and manner most beneficial for use by third-party products;
-  - **(4)** develop options, including satellite backup capability, for NOAA Weather Radio continuity in the event of Weather Forecast Office outages;
-  - **(5)** research and develop alternative options, including microwave capabilities, to transmit NOAA Weather Radio signals to transmitters that are remote or that do not have Internet Protocol capability; and
-  - **(6)** transition critical applications to the Integrated Dissemination Program.
-- **(b)** *Priority* In carrying out the objectives described in subsection (a), the Administrator shall prioritize practices, capabilities, and technologies most capable of making real-time warning information and broadcasts available online.
+- **(a)** *In general* In parallel to the activities under section 4, the Administrator shall, to the maximum extent practicable, enhance NOAA Weather Radio to ensure its capabilities and coverage remain valuable to the public. In carrying out these activities, the Administrator shall—
+  - **(1)** upgrade the telecommunications infrastructure to accelerate the transition of broadcasts to Internet Protocol-based communications over non-copper media;
+  - **(2)** accelerate software upgrades to the Advanced Weather Interactive Processing System, or the relevant system successors, in order to implement partial county notifications and alerts;
+  - **(3)** consult with relevant stakeholders, including the private sector, to enhance accessibility and usability of NOAA Weather Radio data and feeds;
+  - **(4)** develop options, including, but not limited to, satellite backup capability and commercial provider partnerships for NOAA Weather Radio continuity in the event of Weather Forecast Office outages;
+  - **(5)** research and develop alternative options, including, but not limited to, microwave capabilities, to transmit NOAA Weather Radio signals to transmitters that are remote or do not have IP capability; and
+  - **(6)** transition critical applications to the Integrated Dissemination Program, or the relevant program successors.
+- **(b)** *Priority* In carrying out the objectives described in subsection (a), the Administrator shall prioritize practices, capabilities, and technologies recommended by the assessment in subsection (c), to maximize accessibility, particularly in remote and underserved areas of the country.
 - **(c)** *Assessment for management and distribution* Not later than 12 months after the date of enactment of this Act, the Administrator shall complete an assessment of access to NOAA Weather Radio. In conducting such an assessment, the Administrator shall take into consideration and provide recommendations on—
   - **(1)** the need for continuous, adequate, and operational real-time broadcasts of the NOAA Weather Radio in both urban and rural areas;
-  - **(2)** the availability of online services, such as websites and mobile device applications, that require NOAA Weather Radio access;
+  - **(2)** solicited inputs from relevant stakeholders on the compatibility of NOAA Weather Radio data for third party platforms that provide online services, such as websites and mobile device applications, or deliver NOAA Weather Radio access;
   - **(3)** existing or new management systems, which promote consistent, efficient, and compatible access to NOAA Weather Radio;
-  - **(4)** the ability of the National Oceanic and Atmospheric Administration to aggregate real time broadcast feeds at one or more central locations;
-  - **(5)** effective interagency coordination; and
-  - **(6)** any other function the Administrator deems necessary.
-- **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $40,000,000, to remain available until expended.
+  - **(4)** the ability of NOAA to aggregate real time broadcast feeds at one or more central locations;
+  - **(5)** effective interagency coordination;
+  - **(6)** the potential effects of an electromagnetic pulse or geomagnetic disturbance on NOAA Weather Radio; and
+  - **(7)** any other function the Administrator deems necessary.
+- **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $40,000,000 to remain available until expended.
