@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7674
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7674
+
+> To provide Members of Congress access to United States Postal Service facilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring Oversight Access at the Postal Service Act”.
+
+## § 2. Providing access to USPS facilities to Members of Congress
+
+The United States Postal Service may not prevent or otherwise inhibit any Member of Congress (as that term is defined in section 2106 of title 5, United States Code) from accessing or visiting any Postal Service facility for official purposes, including accessing or visiting such a facility on or around the date of an election for Federal office.
