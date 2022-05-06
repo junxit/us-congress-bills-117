@@ -1,7 +1,7 @@
 ---
 measure: H.R. 903
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 44935` | repeal | each provision of law cited in section 2(9) is repealed; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44935` | repeal | section 114(n) of title 49, United States Code, is repealed; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44935` | repeal | section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note) is repealed; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

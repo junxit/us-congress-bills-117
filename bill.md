@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 903
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,53 +17,87 @@ This Act may be cited as the “Rights for the Transportation Security Administr
 
 For purposes of this Act—
 
-- **(1)** the term “adjusted basic pay” means—
+- **(1)** the term adjusted basic pay means—
   - **(A)** the rate of pay fixed by law or administrative action for the position held by a covered employee before any deductions; and
   - **(B)** any regular, fixed supplemental payment for non-overtime hours of work creditable as basic pay for retirement purposes, including any applicable locality payment and any special rate supplement;
-- **(2)** the term “Administrator” means the Administrator of the Transportation Security Administration;
-- **(3)** the term “covered employee” means an employee who holds a covered position;
-- **(4)** the term “covered position” means a position within the Transportation Security Administration;
-- **(5)** the term “conversion date” means the date as of which paragraphs (1) through (4) of section 3(c) take effect;
-- **(6)** the term “2019 Determination” means the publication, entitled “Determination on Transportation Security Officers and Collective Bargaining”, issued on July 13, 2019, by Administrator David P. Pekoske;
-- **(7)** the term “employee” has the meaning given such term by section 2105 of title 5, United States Code;
-- **(8)** the term “Secretary” means the Secretary of Homeland Security; and
-- **(9)** the term “TSA personnel management system” means any personnel management system established or modified under—
+- **(2)** the term Administrator means the Administrator of the Transportation Security Administration;
+- **(3)** the term “appropriate congressional committees” means the Committees on Homeland Security and Oversight and Reform of the House of Representatives and the Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate;
+- **(4)** the term “at-risk employee” means a Transportation Security Officer, Federal Air Marshal, canine handler, or any other employee of the Transportation Security Administration carrying out duties that require substantial contact with the public during the COVID–19 national emergency;
+- **(5)** the term conversion date means the date as of which subparagraphs (A) through (F) of section 3(c)(1) take effect;
+- **(6)** the term covered employee means an employee who holds a covered position;
+- **(7)** the term covered position means a position within the Transportation Security Administration;
+- **(8)** the term “COVID–19 national emergency” means the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) on March 13, 2020, with respect to the coronavirus;
+- **(9)** the term employee has the meaning given such term by section 2105 of title 5, United States Code;
+- **(10)** the term Secretary means the Secretary of Homeland Security;
+- **(11)** the term TSA personnel management system means any personnel management system established or modified under—
   - **(A)** section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note); or
-  - **(B)** section 114(n) of title 49, United States Code.
+  - **(B)** section 114(n) of title 49, United States Code;
+- **(12)** the term “TSA” means the Transportation Security Administration; and
+- **(13)** the term 2019 Determination means the publication, entitled “Determination on Transportation Security Officers and Collective Bargaining”, issued on July 13, 2019, by Administrator David P. Pekoske, as modified, or any superseding subsequent determination.
 
 ## § 3. Conversion of TSA personnel
 
-- **(a)** *Restrictions on certain personnel authorities* Notwithstanding any other provision of law, effective as of the date of the enactment of this Act—
-  - **(1)** any TSA personnel management system in use for covered employees and covered positions on the day before such date of enactment, and any TSA personnel management policy, letters, guideline, or directive in effect on such day may not be modified;
-  - **(2)** no TSA personnel management policy, letter, guideline, or directive that was not established before such date issued pursuant to section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note) or section 114(n) of title 49, United States Code, may be established; and
-  - **(3)** any authority to establish or adjust a human resources management system under chapter 97 of title 5, United States Code, shall terminate with respect to covered employees and covered positions.
-- **(b)** *Personnel authorities during transition period* Any TSA personnel management system in use for covered employees and covered positions on the day before the date of enactment of this Act and any TSA personnel management policy, letter, guideline, or directive in effect on the day before the date of enactment of this Act shall remain in effect until the effective date under subsection (c).
-- **(c)** *Transition to general personnel management system applicable to civil service employees* Effective as of the date determined by the Secretary, but in no event later than 180 days after the date of the enactment of this Act—
-  - **(1)** each provision of law cited in section 2(9) is repealed;
-  - **(2)** any TSA personnel management policy, letter, guideline, and directive, including the 2019 Determination, shall cease to be effective;
-  - **(3)** any human resources management system established or adjusted under chapter 97 of title 5, United States Code, with respect to covered employees or covered positions shall cease to be effective; and
-  - **(4)** covered employees and covered positions shall be subject to the provisions of title 5, United States Code.
-- **(d)** *Safeguards on grievances* In carrying out this Act, the Secretary shall take such actions as are necessary to provide an opportunity to each covered employee with a grievance or disciplinary action (including an adverse action) pending within TSA on the date of the enactment of this Act or at any time during the transition period described in subsection (c) to have such grievance removed to proceedings pursuant to title 5, United States Code, or continued within TSA.
+- **(a)** *Restrictions on certain personnel authorities*
+  - **(1)** *In general* Notwithstanding any other provision of law, and except as provided in paragraph (2), effective as of the date of the enactment of this Act—
+    - **(A)** any TSA personnel management system in use for covered employees and covered positions on the day before such date of enactment, and any TSA personnel management policy, letter, guideline, or directive in effect on such day may not be modified;
+    - **(B)** no TSA personnel management policy, letter, guideline, or directive that was not established before such date issued pursuant to section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note) or section 114(n) of title 49, United States Code, may be established; and
+    - **(C)** any authority to establish or adjust a human resources management system under chapter 97 of title 5, United States Code, shall terminate with respect to covered employees and covered positions.
+  - **(2)** *Exceptions*
+    - **(A)** *Pay* Notwithstanding paragraph (1)(A), the limitation in that paragraph shall not apply to any TSA personnel management policy, letters, guideline, or directive related to annual adjustments to pay schedules and locality-based comparability payments in order to maintain parity with such adjustments authorized under section 5303, 5304, 5304a, and 5318 of title 5, United States Code; and
+    - **(B)** *Additional policy* Notwithstanding paragraph (1)(B), new TSA personnel management policy may be issued if—
+      - **(i)** such policy is needed to resolve a matter not specifically addressed in policy in effect on the date of enactment of this Act; and
+      - **(ii)** the Secretary provides such policy, with an explanation of its necessity, to the appropriate congressional committees not later than 7 days of issuance.
+    - **(C)** *Emerging threats to transportation security during transition period* Notwithstanding paragraph (1), any TSA personnel management policy, letter, guideline, or directive related to an emerging threat to transportation security, including national emergencies or disasters and public health threats to transportation security, may be modified or established until the effective date in subsection (c)(1). The Secretary shall provide to the appropriate congressional committees any modification or establishment of such a TSA personnel management policy, letter, guideline, or directive, with an explanation of its necessity, not later than 7 days of such modification or establishment.
+- **(b)** *Personnel authorities during transition period* Any TSA personnel management system in use for covered employees and covered positions on the day before the date of enactment of this Act and any TSA personnel management policy, letter, guideline, or directive in effect on the day before the date of enactment of this Act shall remain in effect until the conversion date.
+- **(c)** *Transition to title 5*
+  - **(1)** *In general* Except as provided in paragraph (2), effective as of the date determined by the Secretary, but in no event later than December 31, 2022—
+    - **(A)** the TSA personnel management system shall cease to be in effect;
+    - **(B)** section 114(n) of title 49, United States Code, is repealed;
+    - **(C)** section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note) is repealed;
+    - **(D)** any TSA personnel management policy, letter, guideline, and directive, including the 2019 Determination, shall cease to be effective;
+    - **(E)** any human resources management system established or adjusted under chapter 97 of title 5, United States Code, with respect to covered employees or covered positions shall cease to be effective; and
+    - **(F)** covered employees and covered positions shall be subject to the provisions of title 5, United States Code.
+  - **(2)** *Chapters 71 and 77 of title 5* Not later than 90 days after the date of enactment of this Act—
+    - **(A)** chapter 71 and chapter 77 of title 5, United States Code, shall apply to covered employees carrying out screening functions pursuant to section 44901 of title 49, United States Code; and
+    - **(B)** any policy, letter, guideline, or directive issued under section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note) related to matters otherwise covered by such chapter 71 or 77 shall cease to be in effect.
+  - **(3)** *Assistance of other agencies* Not later than 180 days after the date of enactment of this Act or December 31, 2022, whichever is earlier—
+    - **(A)** the Office of Personnel Management shall establish a position series and classification standard for the positions of Transportation Security Officer, Federal Air Marshal, Transportation Security Inspector, and other positions requested by the Administrator; and
+    - **(B)** the Department of Agriculture’s National Finance Center shall make necessary changes to its Financial Management Services and Human Resources Management Services to ensure payroll, leave, and other personnel processing systems for TSA personnel are commensurate with chapter 53 of title 5, United States Code, and provide functions as needed to implement this Act.
+- **(d)** *Safeguards on grievances and appeals*
+  - **(1)** *In general* Each covered employee with a grievance or appeal pending within TSA on the date of the enactment of this Act or initiated during the transition period described in subsection (c) shall have the right to have such grievance or appeal removed to proceedings pursuant to title 5, United States Code, or continued within the TSA.
+  - **(2)** *Authority* With respect to any grievance or appeal continued within the TSA pursuant to paragraph (1), the Administrator may consider and finally adjudicate such grievance or appeal notwithstanding any other provision of this Act.
+  - **(3)** *Preservation of rights* Notwithstanding any other provision of law, any appeal or grievance continued pursuant to this section that is not finally adjudicated pursuant to paragraph (2) shall be preserved and all timelines tolled until the rights afforded by application of chapters 71 and 77 of title 5, United States Code, are made available pursuant to section 3(c)(2) of this Act.
 
 ## § 4. Transition rules
 
-- **(a)** *Nonreduction in pay and compensation* Under pay conversion rules as the Secretary may prescribe to carry out this Act, a covered employee converted from a TSA personnel management system to the provisions of title 5, United States Code, pursuant to section 2(c)(4) shall not be subject to any reduction in the rate of adjusted basic pay payable, or total compensation provided, to such covered employee.
-- **(b)** *Preservation of other rights* In the case of each covered employee as of the conversion date, the Secretary shall take any actions necessary to ensure that—
-  - **(1)** any annual leave, sick leave, or other paid leave accrued, accumulated, or otherwise available to a covered employee immediately before the conversion date shall remain available to the employee until used; and
-  - **(2)** the Government share of any premiums or other periodic charges under chapter 89 of title 5, United States Code, governing group health insurance shall remain at least the same as was the case immediately before the conversion date.
-- **(c)** *GAO study on TSA pay rates* Not later than the date that is nine months after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the differences in rates of pay, classified by pay system, between Transportation Security Administration employees—
-  - **(1)** with duty stations in the contiguous 48 States; and
-  - **(2)** with duty stations outside of such States, including those employees located in any territory or possession of the United States.
-- **(d)** *Rule of construction* During the transition period and after the conversion date, the Secretary shall ensure that the Transportation Security Administration continues to prevent the hiring of individuals who have been convicted of a sex crime, an offense involving a minor, a crime of violence, or terrorism.
+- **(a)** *Nonreduction in pay and compensation* Under pay conversion rules as the Secretary may prescribe to carry out this Act, a covered employee converted from a TSA personnel management system to the provisions of title 5, United States Code, pursuant to section 3(c)(1)(F)—
+  - **(1)** shall not be subject to any reduction in either the rate of adjusted basic pay payable or law enforcement availability pay payable to such covered employee; and
+  - **(2)** shall be credited for years of service in a specific pay band under a TSA personnel management system as if the employee had served in an equivalent General Schedule position at the same grade, for purposes of determining the appropriate step within a grade at which to establish the employee’s converted rate of pay.
+- **(b)** *Retirement pay* For purposes of determining a covered employee’s average pay to calculate the employee’s retirement annuity, consistent with title 5, United States Code, for any covered employee who retires within three years of the conversion date, the higher of the following shall be used:
+  - **(1)** The covered employee’s annual rate of basic pay on the first date of the pay period following the conversion under section 3(c)(1).
+  - **(2)** The amount determined consistent with sections 8331(4) or 8401(3) of such title 5, whichever is applicable.
+- **(c)** *Limitation on premium pay* Notwithstanding section 5547 of title 5, United States Code, or any other provision of law, a Federal Air Marshal or criminal investigator hired prior to the date of enactment of this Act may be eligible for premium pay up to the maximum level allowed by the Administrator prior to the date of enactment of this Act. The Office of Personnel Management shall recognize such premium pay as fully creditable for the purposes of calculating pay and retirement benefits.
+- **(d)** *Collective bargaining unit* Notwithstanding section 7112 of title 5, United States Code, following the application of chapter 71 pursuant to section 3(c)(2) of this Act, full- and part-time non-supervisory Transportation Security Administration personnel carrying out screening functions under section 44901 of title 49, United States Code, shall remain eligible to form a collective bargaining unit.
+- **(e)** *Preservation of other rights* In the case of each covered employee as of the conversion date, the Secretary shall take any actions necessary to ensure that—
+  - **(1)** any annual leave, sick leave, or other paid leave accrued, accumulated, or otherwise available to a covered employee immediately before the conversion date shall remain available to the employee until used, notwithstanding any limitation on accumulated leave under chapter 63 of title 5, United States Code; and
+  - **(2)** part-time personnel carrying out screening functions under section 44901 of title 49, United States Code, continue to pay Federal Employees Health Benefits premiums on the same basis as full-time TSA employees.
+- **(f)** *Provision of additional benefits* Subject to negotiations with the exclusive representative of full- and part-time non-supervisory Transportation Security Administration personnel carrying out screening functions under section 44901 of title 49, United States Code, pursuant to chapter 71 of title 5, United States Code, following the application of such chapter 71 pursuant to section 3(c)(2) of this Act, the Administrator may—
+  - **(1)** notwithstanding chapter 63 of title 5, United States Code, provide leave benefits for covered employees that exceed those otherwise provided under such chapter;
+  - **(2)** notwithstanding chapter 55 of title 5, United States Code, provide pay for covered employees that exceeds that otherwise provided under such chapter; and
+  - **(3)** notwithstanding sections 5753 and 5754 of title 5, United States Code, set payable rates and conditions for the payment of incentives and bonuses that exceed those otherwise provided under such sections.
 
 ## § 5. Consultation requirement
 
-- **(a)** *Exclusive representative* The labor organization certified by the Federal Labor Relations Authority on June 29, 2011, or successor labor organization shall be treated as the exclusive representative of full- and part-time non-supervisory TSA personnel carrying out screening functions under section 44901 of title 49, United States Code, and shall be the exclusive representative for such personnel under chapter 71 of title 5, United States Code, with full rights under such chapter. Any collective bargaining agreement covering such personnel on the date of enactment of this Act shall remain in effect, consistent with subsection (d).
-- **(b)** *Consultation rights* Not later than seven days after the date of the enactment of this Act, the Secretary shall consult with the exclusive representative for the personnel described in subsection (a) under chapter 71 of title 5, United States Code, on the formulation of plans and deadlines to carry out the conversion of covered employees and covered positions under this Act. Prior to the conversion date, the Secretary shall provide (in writing) to such exclusive representative the plans for how the Secretary intends to carry out the conversion of covered employees and covered positions under this Act, including with respect to such matters as—
+- **(a)** *Exclusive representative*
+  - **(1)** *In general*
+    - **(A)** Beginning on the date chapter 71 of title 5, United States Code, begins to apply to covered employees pursuant to section 3(c)(2), the labor organization certified by the Federal Labor Relations Authority on June 29, 2011, or any successor labor organization, shall be treated as the exclusive representative of full- and part-time non-supervisory TSA personnel carrying out screening functions under section 44901 of title 49, United States Code, and shall be the exclusive representative for such personnel under chapter 71 of title 5, United States Code, with full rights under such chapter.
+    - **(B)** Nothing in this subsection shall be construed to prevent covered employees from selecting an exclusive representative other than the labor organization described under paragraph (1) for purposes of collective bargaining under such chapter 71.
+  - **(2)** *National level* Notwithstanding any provision of such chapter 71, collective bargaining for any unit of covered employees shall occur at the national level, but may be supplemented by mutual consent of the parties by local level bargaining and local level agreements.
+  - **(3)** *Current agreement* Any collective bargaining agreement covering such personnel in effect on the date of enactment of this Act shall remain in effect until a collective bargaining agreement is entered into under such chapter 71, unless the Administrator and exclusive representative mutually agree to revisions to such agreement.
+- **(b)** *Consultation process* Not later than seven days after the date of the enactment of this Act, the Secretary shall consult with the exclusive representative for the personnel described in subsection (a) under chapter 71 of title 5, United States Code, on the formulation of plans and deadlines to carry out the conversion of full- and part-time non-supervisory TSA personnel carrying out screening functions under section 44901 of title 49, United States Code, under this Act. Prior to the date such chapter 71 begins to apply pursuant to section 3(c)(2), the Secretary shall provide (in writing) to such exclusive representative the plans for how the Secretary intends to carry out the conversion of such personnel under this Act, including with respect to such matters as—
   - **(1)** the anticipated conversion date; and
   - **(2)** measures to ensure compliance with sections 3 and 4.
 - **(c)** *Required agency response* If any views or recommendations are presented under subsection (b) by the exclusive representative, the Secretary shall consider the views or recommendations before taking final action on any matter with respect to which the views or recommendations are presented and provide the exclusive representative a written statement of the reasons for the final actions to be taken.
-- **(d)** *Sunset provision* The provisions of this section shall cease to be effective as of the conversion date.
 
 ## § 6. No right to strike
 
@@ -74,39 +108,39 @@ Nothing in this Act may be considered—
   - **(B)** section 7311 of title 5, United States Code (relating to loyalty and striking); or
 - **(2)** to otherwise authorize any activity which is not permitted under either provision of law cited in paragraph (1).
 
-## § 7. Rule of construction with respect to certain crimes relating to terrorism
+## § 7. Proposal on hiring and contracting restrictions
 
-Nothing in this Act may be construed to contradict chapter 113B of title 18, United States Code, including with respect to—
+Not later than one year after the date of enactment of this Act, the Secretary shall submit a plan to the appropriate congressional committees on a proposal to uniformly apply, for the purposes of hiring and for authorizing or entering into any contract for service, the restrictions in section 70105(c) of title 46, United States Code, and section 44936 of title 49, United States Code.
 
-- **(1)** section 2332b (relating to acts of terrorism transcending national boundaries);
-- **(2)** section 2339 (relating to harboring or concealing terrorists); and
-- **(3)** section 2339A (relating to providing material support to terrorists).
+## § 8. Comptroller General reviews
 
-## § 8. Report by GAO regarding TSA recruitment
-
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the efforts of the Transportation Security Administration regarding recruitment, including recruitment efforts relating to veterans and the dependents of veterans and members of the Armed Forces and the dependents of such members. Such report shall also include recommendations regarding how the Administration may improve such recruitment efforts.
+- **(a)** *Review of recruitment* Not later than one year after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the efforts of the TSA regarding recruitment, including recruitment efforts relating to veterans and the dependents of veterans and members of the Armed Forces and the dependents of such members. Such report shall also include recommendations regarding how the TSA may improve such recruitment efforts.
+- **(b)** *Review of implementation* Not later than 60 days after the conversion date, the Comptroller General shall commence a review of the implementation of this Act. The Comptroller General shall submit to Congress a report on its review no later than one year after such conversion date.
 
 ## § 9. Sense of Congress
 
-It is the sense of Congress that the Transportation Security Administration’s personnel system provides insufficient benefits and workplace protections to the workforce that secures the nation’s transportation systems and that the Transportation Security Administration’s workforce should be provided protections and benefits under title 5, United States Code.
+It is the sense of Congress that—
+
+- **(1)** the TSA’s personnel system provides insufficient benefits and workplace protections to the workforce that secures the nation’s transportation systems and that the TSA’s workforce should be provided protections and benefits under title 5, United States Code; and
+- **(2)** the provision of these title 5 protections and benefits should not result in a reduction of pay or benefits to current TSA employees.
 
 ## § 10. Assistance for Federal Air Marshal Service
 
-The Administrator of the Transportation Security Administration shall engage and consult with public and private entities associated with the Federal Air Marshal Service to address concerns regarding Federal Air Marshals related to the following:
+The Administrator may communicate with organizations representing a significant number of Federal Air Marshals, to the extent provided by law, to address concerns regarding Federal Air Marshals related to the following:
 
 - **(1)** Mental health.
 - **(2)** Suicide rates.
 - **(3)** Morale and recruitment.
 - **(4)** Any other personnel issues the Administrator determines appropriate.
 
-## § 11. Prohibition on certain social media application
+## § 11. Prevention and protection against certain illness
 
-Beginning on the date of the enactment of this Act, covered employees may not use or have installed on United States Government-issued mobile devices the social media video application known as “TikTok” or any successor application.
+The Administrator, in coordination with the Director of the Centers for Disease Control and Prevention and the Director of the National Institute of Allergy and Infectious Diseases, shall ensure that covered employees are provided proper guidance regarding prevention and protections against the COVID-19 National Emergency, including appropriate resources.
 
-## § 12. Veterans hiring
+## § 12. Hazardous duty payments
 
-The Secretary shall prioritize the hiring of veterans, including disabled veterans, and other preference eligible individuals, including widows and widowers of veterans, as defined in section 2108 of title 5, United States Code, for covered positions.
+Not later than 90 days following the date of enactment of this Act, the Administrator shall provide a one-time bonus payment of $3,000 to each at-risk employee.
 
-## § 13. Prevention and protection against certain illness
+## § 13. Authorization of appropriations
 
-The Administrator of the Transportation Security Administration, in coordination with the Director of the Centers for Disease Control and Prevention and the Director of the National Institute of Allergy and Infectious Diseases, shall ensure that covered employees are provided proper guidance regarding prevention and protections against coronavirus, including appropriate resources.
+There is authorized to be appropriated such sums as may be necessary, to remain available until expended, to carry out this Act.
