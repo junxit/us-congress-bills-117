@@ -21,7 +21,7 @@ The Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2201 et seq.) is 
 >
 > - **(a)** *In general* In the case of any major fire, the Administrator may send incident investigators, which may include safety specialists, fire protection engineers, codes and standards experts, researchers, and fire training specialists, to the site of the fire to conduct an investigation as described in subsection (b).
 > - **(b)** *Investigation required* A fire investigation conducted under this section—
->   - **(1)** shall be conducted in coordination with appropriate Federal, State, and local authorities, including Federal agencies that are authorized to investigate a major fire or an incident of which the major fire is a part; and
+>   - **(1)** shall be conducted in coordination and cooperation with appropriate Federal, State, and local authorities, including Federal agencies that are authorized to investigate a major fire or an incident of which the major fire is a part; and
 >   - **(2)** shall examine the determined cause and origin of the fire and assess broader systematic matters to include use of codes and standards, demographics, structural characteristics, smoke and fire dynamics (movement) during the event, and costs of associated injuries and deaths.
 > - **(c)** *Report* Upon concluding any fire investigation under this section, the Administrator shall issue a public report to local, State, and Federal authorities on the findings of such investigation, or collaborate with another investigating Federal agency on that agency’s report, including recommendations on—
 >   - **(1)** any other buildings with similar characteristics that may bear similar fire risks;
