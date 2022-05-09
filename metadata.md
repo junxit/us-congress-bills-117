@@ -1,7 +1,7 @@
 ---
 measure: S. 3499
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3499
@@ -28,3 +28,7 @@ A bill to amend the Post-Katrina Emergency Management Reform Act of 2006 to repe
 
 - 2022-01-13 — Introduced in Senate
 - 2022-01-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-02-02 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-107.
+- 2022-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-107.
+- 2022-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
