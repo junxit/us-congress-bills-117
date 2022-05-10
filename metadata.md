@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 552
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 552
@@ -39,3 +39,13 @@ A resolution designating March 2022 as "Irish-American Heritage Month" and honor
 
 - 2022-03-17 — Introduced in Senate
 - 2022-03-17 — Referred to the Committee on the Judiciary. (text: CR S1256)
+- 2022-05-10 — Amendment SA 5029 agreed to in Senate by Unanimous Consent.
+- 2022-05-10 — Amendment SA 5029 proposed by Senator Durbin for Senator Murphy. (consideration: CR S2407; text: CR S2407) To amend the preamble.
+- 2022-05-10 — Measure laid before Senate by unanimous consent. (consideration: CR S2406-2407)
+- 2022-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S2407)
+- 2022-05-10 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S2407)
+- 2022-05-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-05-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-05-10 — Senate amendment agreed to: Amendment SA 5029 agreed to in Senate by Unanimous Consent.
+- 2022-05-10 — Senate amendment proposed (on the floor): Amendment SA 5029 proposed by Senator Durbin for Senator Murphy.
+- 2022-05-10 — Senate amendment submitted
