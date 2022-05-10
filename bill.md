@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5914
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ This Act may be cited as the “Empowering States to Protect Seniors from Bad Ac
   > - **(a)** *Definitions* In this section:
   >   - **(1)** *Eligible entity* The term eligible entity means—
   >     - **(A)** the securities commission (or any agency or office performing like functions) of any State; and
-  >     - **(B)** the insurance commission (or any agency or office performing like functions) of any State.
+  >     - **(B)** the insurance department (or any agency or office performing like functions) of any State.
   >   - **(2)** *Senior* The term senior means any individual who has attained the age of 62 years or older.
   >   - **(3)** *Senior financial fraud* The term senior financial fraud means a fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or a fiduciary, that—
   >     - **(A)** uses the resources of a senior for monetary or personal benefit, profit, or gain;
@@ -63,7 +63,7 @@ This Act may be cited as the “Empowering States to Protect Seniors from Bad Ac
   >   - **(1)** *In general* The task force—
   >     - **(A)** may establish such performance objectives and reporting requirements for eligible entities receiving a grant under this section as the task force determines are necessary to carry out and assess the effectiveness of the program under this section; and
   >     - **(B)** shall require each eligible entity that receives a grant under this section to submit to the task force a detailed accounting of the use of grant funds, which shall be submitted at such time, in such form, and containing such information as the task force may require.
-  >   - **(2)** *Report* Not later than 5 years after the date of the enactment of the Empowering States to Protect Seniors from Bad Actors Act, the task force shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that—
+  >   - **(2)** *Report* Not later than 2 years, and again not later than 5 years, after the date of the enactment of the Empowering States to Protect Seniors from Bad Actors Act, the task force shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that—
   >     - **(A)** specifies each recipient of a grant under this section;
   >     - **(B)** includes a description of the programs that are supported by each such grant; and
   >     - **(C)** includes an evaluation by the task force of the effectiveness of such grants.
