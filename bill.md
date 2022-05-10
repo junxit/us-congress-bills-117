@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5911
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -61,19 +61,20 @@ Section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) is amended—
   >     - **(B)** *Certified copies* The Corporation may not require an applicant to provide certified copies of criminal history records unless the Corporation determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
   >   - **(7)** *Consideration of rehabilitation* Consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), the Corporation shall—
   >     - **(A)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s offense to the responsibilities of the applicable position;
-  >     - **(B)** presume that the individual is rehabilitated if four years have passed since the individual’s offense and the individual has no subsequent convictions; and
-  >     - **(C)** consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence.
+  >     - **(B)** consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
+  >     - **(C)** consider any additional information the Corporation determines necessary for safety and soundness.
   >   - **(8)** *Scope of employment* With respect to an approved consent application filed by an insured depository institution or depository institution holding company on behalf of an individual, if the Corporation determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Corporation (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
+  >   - **(9)** *Coordination with the NCUA* In carrying out this section, the Corporation shall consult and coordinate with the National Credit Union Administration as needed to promote consistent implementation where appropriate.
   > - **(g)** *Definitions* In this section:
   >   - **(1)** *Consent application* The term consent application means an application filed with Corporation by an individual (or by an insured depository institution or depository institution holding company on behalf of an individual) seeking the written consent of the Corporation under subsection (a)(1).
   >   - **(2)** *Criminal offense involving dishonesty* The term criminal offense involving dishonesty—
   >     - **(A)** means an offense under which an individual, directly or indirectly—
   >       - **(i)** cheats or defrauds; or
   >       - **(ii)** wrongfully takes property belonging to another in violation of a criminal statute;
-  >     - **(B)** includes an offense that Federal, State, or local law defines as dishonest, or for which dishonestly is an element of the offense; and
+  >     - **(B)** includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
   >     - **(C)** does not include—
   >       - **(i)** a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
-  >       - **(ii)** an offense involving the possession, sale, manufacturing, or distribution of controlled substances.
+  >       - **(ii)** an offense involving the possession of controlled substances.
   >   - **(3)** *Pretrial diversion or similar program* The term pretrial diversion or similar program means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
 
 ## § 3. Federal Credit Union Act
@@ -121,19 +122,20 @@ Section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d)) is amended by
 >     - **(ii)** *Certified copies* The Board may not require an applicant to provide certified copies of criminal history records unless the Board determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
 >   - **(G)** *Consideration of rehabilitation* Consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), the Board shall—
 >     - **(i)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s offense to the responsibilities of the applicable position;
->     - **(ii)** presume that the individual is rehabilitated if four years have passed since the individual’s offense and the individual has no subsequent convictions; and
->     - **(iii)** consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence.
+>     - **(ii)** consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
+>     - **(iii)** consider any additional information the Board determines necessary for safety and soundness.
 >   - **(H)** *Scope of employment* With respect to an approved consent application filed by an insured credit union on behalf of an individual, if the Board determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Board (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
+>   - **(I)** *Coordination with FDIC* In carrying out this subsection, the Board shall consult and coordinate with the Federal Deposit Insurance Corporation as needed to promote consistent implementation where appropriate.
 > - **(6)** *Definitions* In this subsection:
->   - **(A)** *Consent application* The term consent application means an application filed with the Board by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
+>   - **(A)** *Consent application* The term consent application means an application filed with Board by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
 >   - **(B)** *Criminal offense involving dishonesty* The term criminal offense involving dishonesty—
 >     - **(i)** means an offense under which an individual, directly or indirectly—
 >       - **(I)** cheats or defrauds; or
 >       - **(II)** wrongfully takes property belonging to another in violation of a criminal statute;
->     - **(ii)** includes an offense that Federal, State, or local law defines as dishonest, or for which dishonestly is an element of the offense; and
+>     - **(ii)** includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
 >     - **(iii)** does not include—
 >       - **(I)** a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
->       - **(II)** an offense involving the possession, sale, manufacturing, or distribution of controlled substances.
+>       - **(II)** an offense involving the possession of controlled substances.
 >   - **(C)** *Pretrial diversion or similar program* The term pretrial diversion or similar program means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
 
 ## § 4. Review and report to Congress
@@ -141,7 +143,8 @@ Section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d)) is amended by
 Not later than the end of the 2-year period beginning on the date of enactment of this Act, the Federal Deposit Insurance Corporation and the National Credit Union Administration shall—
 
 - **(1)** review the rules issued to carry out this Act and the amendments made by this Act on—
-  - **(A)** the application of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) and section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d)); and
-  - **(B)** the rates of approval and denial for consent applications under such sections;
+  - **(A)** the application of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829) and section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d));
+  - **(B)** the number of applications for consent applications under such sections; and
+  - **(C)** the rates of approval and denial for consent applications under such sections;
 - **(2)** make the results of the review required under paragraph (1) available to the public; and
 - **(3)** issue a report to Congress containing any legislative or regulatory recommendations for expanding employment opportunities for those with a previous minor criminal offense.
