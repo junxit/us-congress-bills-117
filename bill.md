@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 935
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amend
 >   - **(A)** *In general* Except as provided in subparagraph (B), an M&A broker shall be exempt from registration under this section.
 >   - **(B)** *Excluded activities* An M&A broker is not exempt from registration under this paragraph if such broker does any of the following:
 >     - **(i)** Directly or indirectly, in connection with the transfer of ownership of an eligible privately held company, receives, holds, transmits, or has custody of the funds or securities to be exchanged by the parties to the transaction.
->     - **(ii)** Engages on behalf of an issuer in a public offering of any class of securities that is registered, or is required to be registered, with the Commission under section 12 or with respect to which the issuer files, or is required to file, periodic information, documents, and reports under subsection (d).
+>     - **(ii)** Engages on behalf of an issuer in a public offering of any class of securities that is registered, or is required to be registered, with the Commission under section 12 or with respect to which the issuer files, or is required to file, period information, documents, and reports under subsection (d).
 >     - **(iii)** Engages on behalf of any party in a transaction involving a shell company, other than a business combination related shell company.
 >     - **(iv)** Directly, or indirectly through any of its affiliates, provides financing related to the transfer of ownership of an eligible privately held company.
 >     - **(v)** Assists any party to obtain financing from an unaffiliated third party without—
@@ -29,29 +29,32 @@ Section 15(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)) is amend
 >       - **(II)** disclosing any compensation in writing to the party.
 >     - **(vi)** Represents both the buyer and the seller in the same transaction without providing clear written disclosure as to the parties the broker represents and obtaining written consent from both parties to the joint representation.
 >     - **(vii)** Facilitates a transaction with a group of buyers formed with the assistance of the M&A broker to acquire the eligible privately held company.
->     - **(viii)** Engages in a transaction involving the transfer of ownership of an eligible privately held company to a passive buyer or group of passive buyers. For purposes of the preceding sentence, a buyer that is actively involved in managing the acquired company is not a passive buyer, regardless of whether such buyer is itself owned by passive beneficial owners.
+>     - **(viii)** Engages in a transaction involving the transfer of ownership of an eligible privately held company to a passive buyer or group of passive buyers.
 >     - **(ix)** Binds a party to a transfer of ownership of an eligible privately held company.
->   - **(C)** *Disqualifications* An M&A broker is not exempt from registration under this paragraph if such broker is subject to—
->     - **(i)** suspension or revocation of registration under paragraph (4);
->     - **(ii)** a statutory disqualification described in section 3(a)(39);
->     - **(iii)** a disqualification under the rules adopted by the Commission under section 926 of the Investor Protection and Securities Reform Act of 2010 (15 U.S.C. 77d note); or
->     - **(iv)** a final order described in paragraph (4)(H).
+>   - **(C)** *Disqualification* An M&A broker is not exempt from registration under this paragraph if such broker (and if and as applicable, including any officer, director, member, manager, partner, or employee of such broker)—
+>     - **(i)** has been barred from association with a broker or dealer by the Commission, any State, or any self-regulatory organization; or
+>     - **(ii)** is suspended from association with a broker or dealer.
 >   - **(D)** *Rule of construction* Nothing in this paragraph shall be construed to limit any other authority of the Commission to exempt any person, or any class of persons, from any provision of this title, or from any provision of any rule or regulation thereunder.
 >   - **(E)** *Definitions* In this paragraph:
 >     - **(i)** *Business combination related shell company* The term business combination related shell company means a shell company that is formed by an entity that is not a shell company—
 >       - **(I)** solely for the purpose of changing the corporate domicile of that entity solely within the United States; or
 >       - **(II)** solely for the purpose of completing a business combination transaction (as defined under section 230.165(f) of title 17, Code of Federal Regulations) among one or more entities other than the company itself, none of which is a shell company.
->     - **(ii)** *Control* The term control means the power, directly or indirectly, to direct the management or policies of a company, whether through ownership of securities, by contract, or otherwise. There is a presumption of control for any person who—
->       - **(I)** is a director, general partner, member or manager of a limited liability company, or corporate officer of a corporation or limited liability company, and exercises executive responsibility (or has similar status or functions);
->       - **(II)** has the right to vote 25 percent or more of a class of voting securities or the power to sell or direct the sale of 25 percent or more of a class of voting securities; or
->       - **(III)** in the case of a partnership or limited liability company, has the right to receive upon dissolution, or has contributed, 25 percent or more of the capital.
+>     - **(ii)** *Control* The term control means the power, directly or indirectly, to direct the management or policies of a company, whether through ownership of securities, by contract, or otherwise. There is a presumption of control if, upon completion of a transaction, the buyer or group of buyers—
+>       - **(I)** has the right to vote 25 percent or more of a class of voting securities or the power to sell or direct the sale of 25 percent or more of a class of voting securities; or
+>       - **(II)** in the case of a partnership or limited liability company, has the right to receive upon dissolution, or has contributed, 25 percent or more of the capital.
 >     - **(iii)** *Eligible privately held company* The term eligible privately held company means a privately held company that meets both of the following conditions:
 >       - **(I)** The company does not have any class of securities registered, or required to be registered, with the Commission under section 12 or with respect to which the company files, or is required to file, periodic information, documents, and reports under subsection (d).
 >       - **(II)** In the fiscal year ending immediately before the fiscal year in which the services of the M&A broker are initially engaged with respect to the securities transaction, the company meets either or both of the following conditions (determined in accordance with the historical financial accounting records of the company):
 >         - **(aa)** The earnings of the company before interest, taxes, depreciation, and amortization are less than $25,000,000.
 >         - **(bb)** The gross revenues of the company are less than $250,000,000.
 >     - **(iv)** *M&A broker* The term M&A broker means a broker, and any person associated with a broker, engaged in the business of effecting securities transactions solely in connection with the transfer of ownership of an eligible privately held company, regardless of whether the broker acts on behalf of a seller or buyer, through the purchase, sale, exchange, issuance, repurchase, or redemption of, or a business combination involving, securities or assets of the eligible privately held company, if the broker reasonably believes that—
->       - **(I)** upon consummation of the transaction, any person acquiring securities or assets of the eligible privately held company, acting alone or in concert, will control and, directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company; and
+>       - **(I)** upon consummation of the transaction, any person acquiring securities or assets of the eligible privately held company, acting alone or in concert—
+>         - **(aa)** will control the eligible privately held company or the business conducted with the assets of the eligible privately held company; and
+>         - **(bb)** directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company, including without limitation, for example, by—
+>           - **(AA)** electing executive officers;
+>           - **(BB)** approving the annual budget;
+>           - **(CC)** serving as an executive or other executive manager; or
+>           - **(DD)** carrying out such other activities as the Commission may, by rule, determine to be in the public interest; and
 >       - **(II)** if any person is offered securities in exchange for securities or assets of the eligible privately held company, such person will, prior to becoming legally bound to consummate the transaction, receive or have reasonable access to the most recent fiscal year-end financial statements of the issuer of the securities as customarily prepared by the management of the issuer in the normal course of operations and, if the financial statements of the issuer are audited, reviewed, or compiled, any related statement by the independent accountant, a balance sheet dated not more than 120 days before the date of the offer, and information pertaining to the management, business, results of operations for the period covered by the foregoing financial statements, and material loss contingencies of the issuer.
 >     - **(v)** *Shell company* The term shell company means a company that at the time of a transaction with an eligible privately held company—
 >       - **(I)** has no or nominal operations; and
