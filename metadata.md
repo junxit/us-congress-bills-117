@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6386
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6386
@@ -45,3 +45,13 @@ To designate the facility of the United States Postal Service located at 450 Wes
 - 2022-01-12 — Introduced in House
 - 2022-01-12 — Introduced in House
 - 2022-01-12 — Referred to the House Committee on Oversight and Reform.
+- 2022-02-02 — Committee Consideration and Mark-up Session Held.
+- 2022-02-02 — Ordered to be Reported by Unanimous Consent.
+- 2022-05-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-10 — Considered under suspension of the rules. (consideration: CR H4786)
+- 2022-05-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6386.
+- 2022-05-10 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-05-11 — Considered as unfinished business. (consideration: CR H4844-4845)
+- 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0, 1 Present (Roll no. 167). (text: 05/10/2022 CR H4786)
+- 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0, 1 Present (Roll no. 167).
