@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2499
@@ -236,3 +236,44 @@ Federal Firefighters Fairness Act of 2022
 - 2022-05-06 — Placed on the Union Calendar, Calendar No. 226.
 - 2022-05-06 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-306.
 - 2022-05-06 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-306.
+- 2022-05-10 — Rules Committee Resolution H. Res. 1097 Reported to House. Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
+- 2022-05-11 — Amendment (A003) offered by Mr. Joyce (OH). (consideration: CR H4826; H4829; text: CR H4826)
+- 2022-05-11 — Amendment (A004) offered by Mr. Keller. (consideration: CR H4826-4828, H4829-4830; text: CR H4826-4827)
+- 2022-05-11 — Amendment agreed to by House: On agreeing to the Joyce (OH) amendment (A003) Agreed to by the Yeas and Nays: 419 - 0 (Roll no. 147).
+- 2022-05-11 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 224 - 195 (Roll no. 146).
+- 2022-05-11 — Amendment failed by House: On agreeing to the Keller amendment (A004) Failed by the Yeas and Nays: 180 - 242 (Roll no. 148).
+- 2022-05-11 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H4816-4831; text: CR H4816-4817)
+- 2022-05-11 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H4822-4823, H4828-4829; text: CR H4822-4823)
+- 2022-05-11 — Considered under the provisions of rule H. Res. 1097. (consideration: CR H4816-4831)
+- 2022-05-11 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 10 minutes of debate on Keller amendment No. 4.
+- 2022-05-11 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 10 minutes of debate on the Joyce (OH) amendment No. 3.
+- 2022-05-11 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 1.
+- 2022-05-11 — DEBATE - The House proceeded with one hour of debate on H.R. 2499.
+- 2022-05-11 — House amendment agreed to: On agreeing to the Joyce (OH) amendment (A003) Agreed to by the Yeas and Nays: 419 - 0 (Roll no. 147).
+- 2022-05-11 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-11 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 224 - 195 (Roll no. 146).
+- 2022-05-11 — House amendment not agreed to: On agreeing to the Keller amendment (A004) Failed by the Yeas and Nays: 180 - 242 (Roll no. 148).
+- 2022-05-11 — House amendment offered
+- 2022-05-11 — House amendment offered
+- 2022-05-11 — House amendment offered
+- 2022-05-11 — House amendment offered
+- 2022-05-11 — House amendment offered/reported by: Amendment (A003) offered by Mr. Joyce (OH).
+- 2022-05-11 — House amendment offered/reported by: Amendment (A004) offered by Mr. Keller.
+- 2022-05-11 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).
+- 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-11 — On agreeing to the Joyce (OH) amendment (A003) Agreed to by the Yeas and Nays: 419 - 0 (Roll no. 147).
+- 2022-05-11 — On agreeing to the Keller amendment (A004) Failed by the Yeas and Nays: 180 - 242 (Roll no. 148).
+- 2022-05-11 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-11 — On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 224 - 195 (Roll no. 146).
+- 2022-05-11 — On passage Passed by the Yeas and Nays: 288 - 131 (Roll no. 149). (text of amendment in the nature of a substiute: CR H4816-4817)
+- 2022-05-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Joyce (OH) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Greene (GA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Keller amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Keller demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Greene (GA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 288 - 131 (Roll no. 149).
+- 2022-05-11 — Roll call votes on amendments in House
+- 2022-05-11 — Roll call votes on amendments in House
+- 2022-05-11 — Roll call votes on amendments in House
+- 2022-05-11 — Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
+- 2022-05-11 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-05-11 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-05-11 — The previous question was ordered on the amendment (A004) pursuant to the rule.
