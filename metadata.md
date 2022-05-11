@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 427
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 427
@@ -36,3 +36,5 @@ A resolution to commemorate the 30-year anniversary of the 1991 Paris Peace Agre
 - 2022-03-30 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2022-03-30 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2022-03-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.
+- 2022-05-11 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote.(consideration: CR S2459; text: CR S2459-2460)
+- 2022-05-11 — Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote. (consideration: CR S2459; text: CR S2459-2460)
