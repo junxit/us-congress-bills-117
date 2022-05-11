@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7691
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7691
@@ -15,6 +15,13 @@ Additional Ukraine Supplemental Appropriations Act, 2022
 ## Sponsor
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+
+## Cosponsors (4)
+
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Ernst, Joni [R-IA] (E000295)
 
 ## Committees (2)
 
@@ -43,3 +50,52 @@ Additional Ukraine Supplemental Appropriations Act, 2022
 - 2022-05-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.
 - 2022-05-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day May 10, 2022).
 - 2022-05-11 — Senate amendment submitted
+- 2022-05-12 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S2486)
+- 2022-05-12 — Motion to proceed to consideration of measure made in Senate. (CR S2486)
+- 2022-05-16 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 81 - 11. Record Vote Number: 177. (CR S2515)
+- 2022-05-16 — Motion to proceed to measure considered in Senate. (CR S2507)
+- 2022-05-16 — Senate amendment submitted
+- 2022-05-17 — Amendment SA 5035 proposed by Senator Schumer. (consideration: CR S2534; text: CR S2534) To add an effective date.
+- 2022-05-17 — Amendment SA 5036 proposed by Senator Schumer to Amendment SA 5035. (consideration: CR S2534; text: CR S2534) To modify the effective date.
+- 2022-05-17 — Amendment SA 5037 proposed by Senator Schumer. (consideration: CR S2534; text: CR S2534) To add an effective date.
+- 2022-05-17 — Amendment SA 5038 proposed by Senator Schumer to Amendment SA 5037 (the instructions of the motion to commit). (consideration: CR S2534; text: CR S2534) To modify the effective date.
+- 2022-05-17 — Amendment SA 5039 proposed by Senator Schumer to Amendment SA 5038. (consideration: CR S2534; text: CR S2534) To modify the effective date.
+- 2022-05-17 — Cloture motion on the measure presented in Senate. (CR S2533-2534)
+- 2022-05-17 — Measure laid before Senate by motion. (consideration: CR S2526-2528, S2531-2534)
+- 2022-05-17 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 5037) made in Senate. (text: CR S2534)
+- 2022-05-17 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 88 - 11. Record Vote Number: 178.
+- 2022-05-17 — Motion to proceed to measure considered in Senate. (CR S2526)
+- 2022-05-17 — Senate amendment proposed (on the floor): Amendment SA 5035 proposed by Senator Schumer.
+- 2022-05-17 — Senate amendment proposed (on the floor): Amendment SA 5036 proposed by Senator Schumer to Amendment SA 5035.
+- 2022-05-17 — Senate amendment proposed (on the floor): Amendment SA 5037 proposed by Senator Schumer.
+- 2022-05-17 — Senate amendment proposed (on the floor): Amendment SA 5038 proposed by Senator Schumer to Amendment SA 5037 (the instructions of the motion to commit).
+- 2022-05-17 — Senate amendment proposed (on the floor): Amendment SA 5039 proposed by Senator Schumer to Amendment SA 5038.
+- 2022-05-17 — Senate amendment submitted
+- 2022-05-17 — Senate amendment submitted
+- 2022-05-17 — Senate amendment submitted
+- 2022-05-17 — Senate amendment submitted
+- 2022-05-17 — Senate amendment submitted
+- 2022-05-18 — Senate amendment submitted
+- 2022-05-18 — Senate amendment submitted
+- 2022-05-19 — Cloture invoked in Senate by Yea-Nay Vote. 86 - 11. Record Vote Number: 190. (CR S2607)
+- 2022-05-19 — Considered by Senate. (consideration: CR S2599)
+- 2022-05-19 — Considered by Senate. (consideration: CR S2599)
+- 2022-05-19 — Considered by Senate. (consideration: CR S2599)
+- 2022-05-19 — Considered by Senate. (consideration: CR S2599)
+- 2022-05-19 — Considered by Senate. (consideration: CR S2599)
+- 2022-05-19 — Considered by Senate. (consideration: CR S2599-2600, S2602-2604, S2606-2607)
+- 2022-05-19 — Message on Senate action sent to the House.
+- 2022-05-19 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 5037) fell when cloture was invoked on the measure in Senate. (CR S2607)
+- 2022-05-19 — Passed Senate without amendment by Yea-Nay Vote. 86 - 11. Record Vote Number: 191.
+- 2022-05-19 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 86 - 11. Record Vote Number: 191.
+- 2022-05-19 — Presented to President.
+- 2022-05-19 — Presented to President.
+- 2022-05-19 — Proposed amendment SA 5035 withdrawn in Senate. (CR S2607)
+- 2022-05-19 — SA 5036 fell when SA 5035 withdrawn. (CR S2607)
+- 2022-05-19 — SA 5037 fell when cloture invoked on the measure. (CR S2607)
+- 2022-05-19 — SA 5038 fell when SA 5037 fell. (CR S2607)
+- 2022-05-19 — SA 5039 fell when SA 5038 fell. (CR S2607)
+- 2022-05-21 — Became Public Law No: 117-128.
+- 2022-05-21 — Became Public Law No: 117-128.
+- 2022-05-21 — Signed by President.
+- 2022-05-21 — Signed by President.
