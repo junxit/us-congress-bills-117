@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 20
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 20
@@ -34,3 +34,5 @@ A concurrent resolution condemning the October 25, 2021, military coup in Sudan 
 - 2022-04-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-04-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
+- 2022-05-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2022-05-11 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S2460; text: 11/4/2021 CR S7801)
