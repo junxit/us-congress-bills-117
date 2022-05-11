@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6614
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6614
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 4744 Gr
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 4744 Gr
 - 2022-05-10 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2022-05-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4787)
 - 2022-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-05-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
