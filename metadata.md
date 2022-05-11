@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7691
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7691
@@ -40,3 +40,6 @@ Additional Ukraine Supplemental Appropriations Act, 2022
 - 2022-05-10 — Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
 - 2022-05-10 — Rules Committee Resolution H. Res. 1097 Reported to House. Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
 - 2022-05-10 — The previous question was ordered pursuant to the rule.
+- 2022-05-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.
+- 2022-05-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day May 10, 2022).
+- 2022-05-11 — Senate amendment submitted
