@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6015
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6015
@@ -332,3 +332,4 @@ Benjamin Berell Ferencz Congressional Gold Medal Act
 - 2022-05-10 — Mr. Garcia (IL) moved to suspend the rules and pass the bill, as amended.
 - 2022-05-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4755-4756)
 - 2022-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-05-11 — Received in the Senate.
