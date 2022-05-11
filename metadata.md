@@ -1,7 +1,7 @@
 ---
 measure: H.R. 935
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 935
@@ -41,3 +41,7 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - 2022-05-10 — Placed on the Union Calendar, Calendar No. 233.
 - 2022-05-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-313.
 - 2022-05-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-313.
+- 2022-05-11 — Considered as unfinished business. (consideration: CR H4837-4838)
+- 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 158). (text: 05/10/2022 CR H4746-4747)
+- 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 158).
