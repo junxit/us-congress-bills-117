@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5911
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5911
@@ -39,3 +39,7 @@ Fair Hiring in Banking Act
 - 2022-05-10 — Placed on the Union Calendar, Calendar No. 234.
 - 2022-05-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-314.
 - 2022-05-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-314.
+- 2022-05-11 — Considered as unfinished business. (consideration: CR H4835-4836)
+- 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 329 - 88 (Roll no. 156). (text: 05/10/2022 CR H4741-4743)
+- 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 329 - 88 (Roll no. 156).

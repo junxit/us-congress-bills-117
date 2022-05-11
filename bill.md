@@ -148,3 +148,7 @@ Not later than the end of the 2-year period beginning on the date of enactment o
   - **(C)** the rates of approval and denial for consent applications under such sections;
 - **(2)** make the results of the review required under paragraph (1) available to the public; and
 - **(3)** issue a report to Congress containing any legislative or regulatory recommendations for expanding employment opportunities for those with a previous minor criminal offense.
+
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
