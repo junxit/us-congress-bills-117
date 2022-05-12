@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6891
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6891
@@ -29,10 +29,11 @@ Isolate Russian Government Officials Act of 2022
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Isolate Russian Government Officials Act of 2022
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 161). (text: 05/10/2022 CR H4752)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 161).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
