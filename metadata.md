@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5914
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5914
@@ -22,9 +22,10 @@ Empowering States to Protect Seniors from Bad Actors Act
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Empowering States to Protect Seniors from Bad Actors Act
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 48 (Roll no. 157). (text: 05/10/2022 CR H4744-4745)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 48 (Roll no. 157).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
