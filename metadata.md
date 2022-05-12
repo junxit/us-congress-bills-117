@@ -1,7 +1,7 @@
 ---
 measure: H.R. 935
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 935
@@ -22,9 +22,10 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 158). (text: 05/10/2022 CR H4746-4747)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 158).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
