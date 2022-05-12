@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3525
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3525
@@ -139,10 +139,11 @@ Commission To Study the Potential Creation of a National Museum of Asian Pacific
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -166,3 +167,5 @@ Commission To Study the Potential Creation of a National Museum of Asian Pacific
 - 2022-04-26 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4479-4480)
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4479-4480)
+- 2022-04-27 — Received in the Senate.
+- 2022-05-12 — Read twice and referred to the Committee on Energy and Natural Resources.
