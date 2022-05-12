@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3525
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3525
@@ -169,3 +169,14 @@ Commission To Study the Potential Creation of a National Museum of Asian Pacific
 - 2022-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4479-4480)
 - 2022-04-27 — Received in the Senate.
 - 2022-05-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-19 — Message on Senate action sent to the House.
+- 2022-05-19 — Passed Senate without amendment by Unanimous Consent.
+- 2022-05-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-05-19 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S2605)
+- 2022-05-19 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S2605)
+- 2022-06-09 — Presented to President.
+- 2022-06-09 — Presented to President.
+- 2022-06-13 — Became Public Law No: 117-140.
+- 2022-06-13 — Became Public Law No: 117-140.
+- 2022-06-13 — Signed by President.
+- 2022-06-13 — Signed by President.
