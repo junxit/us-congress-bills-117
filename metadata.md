@@ -1,7 +1,7 @@
 ---
 measure: H.R. 847
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 847
@@ -20,9 +20,10 @@ Promoting Digital Privacy Technologies Act
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Promoting Digital Privacy Technologies Act
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 19 (Roll no. 150). (text: 05/10/2022 CR H4728)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 19 (Roll no. 150).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
