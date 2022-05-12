@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2499
@@ -222,9 +222,10 @@ Federal Firefighters Fairness Act of 2022
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -277,3 +278,4 @@ Federal Firefighters Fairness Act of 2022
 - 2022-05-11 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2022-05-11 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2022-05-11 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
