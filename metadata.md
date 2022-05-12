@@ -1,7 +1,7 @@
 ---
 measure: H.R. 903
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 903
@@ -271,3 +271,49 @@ Rights for the TSA Workforce Act of 2021
 - 2022-05-06 — Placed on the Union Calendar, Calendar No. 230.
 - 2022-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-310, Part I.
 - 2022-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-310, Part I.
+- 2022-05-10 — Rules Committee Resolution H. Res. 1097 Reported to House. Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
+- 2022-05-12 — Amendment (A003) offered by Mrs. Cammack. (consideration: CR H4889-4890, H4892-4893; text: CR H4889)
+- 2022-05-12 — Amendment (A004) offered by Mr. Guest. (consideration: CR H4890-4891, H4893; text: CR H4890)
+- 2022-05-12 — Amendment agreed to by House: On agreeing to the Thompson (MS) amendments (A002) Agreed to by the Yeas and Nays: 215 - 198 (Roll no. 168).
+- 2022-05-12 — Amendment failed by House: On agreeing to the Cammack amendment (A003) Failed by the Yeas and Nays: 204 - 216 (Roll no. 169).
+- 2022-05-12 — Amendment failed by House: On agreeing to the Guest amendment (A004) Failed by the Yeas and Nays: 200 - 221 (Roll no. 170).
+- 2022-05-12 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H4878-4896; text: CR H4878-4880)
+- 2022-05-12 — Amendments en bloc (A002) offered by Mr. Thompson (MS). (consideration: CR H4887-4889, H4891-4892; text: CR H4887-4888)
+- 2022-05-12 — Considered under the provisions of rule H. Res. 1097. (consideration: CR H4878-4896)
+- 2022-05-12 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 10 minutes of debate on the Cammack amendment No. 3.
+- 2022-05-12 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 10 minutes of debate on the Guest amendment No. 5.
+- 2022-05-12 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 20 minutes of debate on the Thompson (MS) amendment en bloc.
+- 2022-05-12 — DEBATE - The House proceeded with one hour of debate on H.R. 903.
+- 2022-05-12 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-12 — House amendment agreed to: On agreeing to the Thompson (MS) amendments (A002) Agreed to by the Yeas and Nays: 215 - 198 (Roll no. 168).
+- 2022-05-12 — House amendment not agreed to: On agreeing to the Cammack amendment (A003) Failed by the Yeas and Nays: 204 - 216 (Roll no. 169).
+- 2022-05-12 — House amendment not agreed to: On agreeing to the Guest amendment (A004) Failed by the Yeas and Nays: 200 - 221 (Roll no. 170).
+- 2022-05-12 — House amendment offered
+- 2022-05-12 — House amendment offered
+- 2022-05-12 — House amendment offered
+- 2022-05-12 — House amendment offered
+- 2022-05-12 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Cammack.
+- 2022-05-12 — House amendment offered/reported by: Amendment (A004) offered by Mr. Guest.(consideration: CR H4890-4891, H4893; text: CR H4890)
+- 2022-05-12 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Thompson (MS).
+- 2022-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-12 — Mr. Gooden (TX) moved to recommit to the Committee on Homeland Security. (text: CR H4893-4894)
+- 2022-05-12 — On agreeing to the Cammack amendment (A003) Failed by the Yeas and Nays: 204 - 216 (Roll no. 169).
+- 2022-05-12 — On agreeing to the Guest amendment (A004) Failed by the Yeas and Nays: 200 - 221 (Roll no. 170).
+- 2022-05-12 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-12 — On agreeing to the Thompson (MS) amendments (A002) Agreed to by the Yeas and Nays: 215 - 198 (Roll no. 168).
+- 2022-05-12 — On motion to recommit Failed by the Yeas and Nays: 205 - 216 (Roll no. 171).
+- 2022-05-12 — On passage Passed by the Yeas and Nays: 220 - 201 (Roll no. 172).
+- 2022-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cammack amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Cammack demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Guest amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Guest demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (MS) amendment en bloc, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 201 (Roll no. 172).
+- 2022-05-12 — Roll call votes on amendments in House
+- 2022-05-12 — Roll call votes on amendments in House
+- 2022-05-12 — Roll call votes on amendments in House
+- 2022-05-12 — Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
+- 2022-05-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-05-12 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-05-12 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-05-12 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-05-12 — The previous question was ordered pursuant to the rule.
+- 2022-05-12 — The title of the measure was amended. Agreed to without objection.
