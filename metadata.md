@@ -1,7 +1,7 @@
 ---
 measure: H.R. 224
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 224
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 5302 Ga
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ To designate the facility of the United States Postal Service located at 5302 Ga
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0, 1 Present (Roll no. 164). (text: 05/10/2022 CR H4783-4784)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0, 1 Present (Roll no. 164).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
