@@ -1,7 +1,7 @@
 ---
 measure: H.R. 92
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 92
@@ -16,13 +16,14 @@ To designate the facility of the United States Postal Service located at 110 Joh
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Rice, Tom [R-SC-7] (R000597)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 - Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
 
 ## Committees (1)
 
@@ -33,3 +34,13 @@ To designate the facility of the United States Postal Service located at 110 Joh
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Introduced in House
 - 2021-01-04 — Referred to the House Committee on Oversight and Reform.
+- 2021-04-14 — Committee Consideration and Mark-up Session Held.
+- 2021-04-14 — Ordered to be Reported by Unanimous Consent.
+- 2022-05-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-10 — Considered under suspension of the rules. (consideration: CR H4788-4789)
+- 2022-05-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 92.
+- 2022-05-10 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-05-12 — Considered as unfinished business. (consideration: CR H4897)
+- 2022-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3, 2 Present (Roll no. 174). (text: 05/10/2022 CR H4788)
+- 2022-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3, 2 Present (Roll no. 174).
