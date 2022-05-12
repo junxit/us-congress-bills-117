@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6899
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6899
@@ -32,9 +32,10 @@ Russia and Belarus SDR Exchange Prohibition Act of 2022
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Russia and Belarus SDR Exchange Prohibition Act of 2022
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 162). (text: 05/10/2022 CR H4754)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 162).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
