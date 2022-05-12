@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1437
@@ -69,3 +69,4 @@ Further Continuing Appropriations and Extensions Act, 2023
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 81 (Roll no. 154). (text: 05/10/2022 CR H4736-4737)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 81 (Roll no. 154).
+- 2022-05-12 — Received in the Senate, read twice.
