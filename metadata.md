@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5324
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5324
@@ -24,9 +24,10 @@ NWR Modernization Act of 2021
 - Rep. Ellzey, Jake [R-TX-6] (E000071)
 - Rep. LaTurner, Jake [R-KS-2] (L000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ NWR Modernization Act of 2021
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 20 (Roll no. 151). (text: 05/10/2022 CR H4729-4730)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 20 (Roll no. 151).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
