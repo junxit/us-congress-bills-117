@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7066
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7066
@@ -21,10 +21,11 @@ Russia and Belarus Financial Sanctions Act of 2022
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Russia and Belarus Financial Sanctions Act of 2022
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 159). (text: 05/10/2022 CR H4748-4749)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 159).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
