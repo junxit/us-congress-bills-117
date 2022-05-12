@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6386
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6386
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 450 Wes
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ To designate the facility of the United States Postal Service located at 450 Wes
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0, 1 Present (Roll no. 167). (text: 05/10/2022 CR H4786)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0, 1 Present (Roll no. 167).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
