@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5911
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5911
@@ -21,9 +21,10 @@ Fair Hiring in Banking Act
 - Rep. Auchincloss, Jake [D-MA-4] (A000148)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Fair Hiring in Banking Act
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 329 - 88 (Roll no. 156). (text: 05/10/2022 CR H4741-4743)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 329 - 88 (Roll no. 156).
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
