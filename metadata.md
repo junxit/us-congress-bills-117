@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7077
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7077
@@ -53,9 +53,10 @@ Empowering the U.S. Fire Administration Act
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Empowering the U.S. Fire Administration Act
 - 2022-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 37 (Roll no. 153). (text: 05/10/2022 CR H4733)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 37 (Roll no. 153).(text: 05/10/2022 CR H4733)
+- 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
