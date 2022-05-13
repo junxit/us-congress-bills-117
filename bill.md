@@ -16,57 +16,24 @@ This Act may be cited as the “Bombing Prevention Act of 2022”.
 ## § 2. Office for Bombing Prevention
 
 - **(a)** *In general* Title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) is amended by adding at the end the following new subtitle:
-  > ## § 2241. Office for Bombing Prevention
-  >
-  > - **(a)** *Establishment* There is established within the Department an Office for Bombing Prevention (in this section referred to as the “Office”).
-  > - **(b)** *Activities* The Office shall have the primary responsibility within the Department for enhancing the ability and coordinating the efforts of the United States to deter, detect, prevent, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States, including by carrying out the following:
-  >   - **(1)** Advising the Secretary on matters related to terrorist explosive threats and attacks in the United States.
-  >   - **(2)** Coordinating the efforts of the Department to counter terrorist explosive threats and attacks in the United States, including by carrying out the following:
-  >     - **(A)** Developing, in coordination with the Under Secretary for Strategy, Policy, and Plans, the Department’s strategy against terrorist explosives threats and attacks, including efforts to support the security and preparedness of critical infrastructure and the public sector and private sector.
-  >     - **(B)** Leading the prioritization of the Department’s efforts against terrorist explosive threats and attacks, including preparedness and operational requirements.
-  >     - **(C)** Ensuring, in coordination with the Under Secretary for Science and Technology and the Administrator of the Federal Emergency Management Agency, the identification, evaluation, and availability of effective technology applications through field pilot testing and acquisition of such technology applications by the public sector to deter, detect, prevent, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States.
-  >     - **(D)** Providing advice and recommendations to the Administrator of the Federal Emergency Management Agency regarding the effective use of grants authorized under section 2002.
-  >     - **(E)** In coordination with the Assistant Secretary for Countering Weapons of Mass Destruction, aligning Department efforts related to terrorist explosive threats and attacks in the United States and weapons of mass destruction.
-  >   - **(3)** Engaging other Federal departments and agencies, including Sector Risk Management Agencies, regarding terrorist explosive threats and attacks in the United States.
-  >   - **(4)** Facilitating information sharing and decision support of the public and private sector involved in deterrence, detection, prevention, protection against, mitigation of, and response to terrorist explosive threats and attacks in the United States. Such sharing and support may include the following:
-  >     - **(A)** Operating and maintaining a secure information sharing system that allows the sharing of critical information and data relating to terrorist explosive attack tactics, techniques, procedures, and security capabilities, including information and data described in paragraph (6) and section 2242.
-  >     - **(B)** Working with international partners, in coordination with the Office for International Affairs of the Department, to develop and share effective practices to deter, prevent, detect, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States.
-  >   - **(5)** Promoting security awareness among the public and private sector and the general public regarding the risks posed by the misuse of explosive precursor chemicals and other bomb-making materials.
-  >   - **(6)** Providing training, guidance, assessments, and planning assistance to the public and private sector, as appropriate, to help counter the risk of terrorist explosive threats and attacks in the United States.
-  >   - **(7)** Conducting analysis and planning for the capabilities and requirements necessary for the public and private sector, as appropriate, to deter, detect, prevent, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States by carrying out the following:
-  >     - **(A)** Maintaining a database on capabilities and requirements, including capabilities and requirements of public safety bomb squads, explosive detection canine teams, special tactics teams, public safety dive teams, and recipients of services described in section 2242.
-  >     - **(B)** Applying the analysis derived from the database described in subparagraph (A) with respect to the following:
-  >       - **(i)** Evaluating progress toward closing identified gaps relating to national strategic goals and standards related to deterring, detecting, preventing, protecting against, mitigating, and responding to terrorist explosive threats and attacks in the United States.
-  >       - **(ii)** Informing decisions relating to homeland security policy, assistance, training, research, development efforts, testing and evaluation, and related requirements regarding deterring, detecting, preventing, protecting against, mitigating, and responding to terrorist explosive threats and attacks in the United States.
-  >   - **(8)** Promoting secure information sharing of sensitive material and promoting security awareness, including by carrying out the following:
-  >     - **(A)** Operating and maintaining a secure information sharing system that allows the sharing among and between the public and private sector of critical information relating to explosive attack tactics, techniques, and procedures.
-  >     - **(B)** Educating the public and private sectors about explosive precursor chemicals.
-  >     - **(C)** Working with international partners, in coordination with the Office for International Affairs of the Department, to develop and share effective practices to deter, detect, prevent, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States.
-  >     - **(D)** Executing national public awareness and vigilance campaigns relating to terrorist explosive threats and attacks in the United States, preventing explosive attacks, and activities and measures underway to safeguard the United States.
-  >     - **(E)** Working with relevant stakeholder organizations.
-  >   - **(9)** Providing any other assistance the Secretary determines necessary.
-  >
-  > ## § 2242. Countering explosive devices technical assistance
-  >
-  > - **(a)** *Establishment* Upon request, the Secretary shall, to the extent practicable, provide to the public and private sector technical assistance services to support the security and preparedness of such sectors, as appropriate, to counter terrorist explosive threats and attacks that pose a risk in certain jurisdictions, including vulnerable and disadvantaged communities, to critical infrastructure facilities, or to special events, as appropriate.
-  > - **(b)** *Elements* Technical assistance services provided pursuant to subsection (a) shall—
-  >   - **(1)** support the planning and implementation of effective measures to deter, detect, prevent, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States, including effective strategic risk management and emergency operations plans;
-  >   - **(2)** support the security of explosive precursor chemicals and other bomb-making materials outside of regulatory control;
-  >   - **(3)** support efforts to prepare for and respond to bomb threats or other acts involving the malicious conveyance of false information concerning terrorist explosive threats and attacks in the United States;
-  >   - **(4)** make available resources to enhance deterrence, prevention, detection, protection, mitigation, and response capabilities for terrorist explosive threats and attacks in the United States, including coordination and communication, to better integrate State, local, Tribal, and territorial and private sector capabilities and assets, as appropriate, with Federal operations;
-  >   - **(5)** make available augmenting resources, as appropriate, to enable State, local, Tribal, and territorial governments to sustain and refresh their capabilities;
-  >   - **(6)** track performance in meeting the goals and associated plans of the provision of such technical assistance; and
-  >   - **(7)** include any other assistance the Secretary determines necessary.
-  >
-  > ## § 2243. Relationship to other Department components and Federal agencies
-  >
-  > - **(a)** *In general* The authority of the Secretary under this subtitle shall not affect or diminish the authority or the responsibility of any officer of any other Federal agency with respect to the command, control, or direction of the functions, personnel, funds, assets, or liabilities of any other such Federal agency.
-  > - **(b)** *Department components* Nothing in this subtitle or any other provision of law may be construed to affect or reduce the responsibilities of—
-  >   - **(1)** the Countering Weapons of Mass Destruction Office or the Assistant Secretary of the Office, including with respect to any asset, function, or mission of the Office or the Assistant Secretary, as the case may be;
-  >   - **(2)** the Federal Emergency Management Agency or the Administrator of the Agency, including the diversion of any asset, function, or mission of the Agency or the Administrator as the case may be; or
-  >   - **(3)** the Transportation Security Administration or the Administrator of the Administration, including the diversion of any asset, function, or mission of the Administration or the Administrator, as the case may be.
-
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2238 the following new items:
+- **(b)** *Strategy and reports*
+  - **(1)** *Strategy* Not later than one year after the date of the enactment of this Act, the head of the Office for Bombing Prevention of the Department of Homeland Security (established pursuant to section 2241 of the Homeland Security Act of 2002, as added by subsection (a)), in consultation with the heads of other components of the Department and the heads of other Federal agencies, as appropriate, shall develop a strategy to align the Office’s activities with the threat environment and stakeholder needs, and make the public and private sector aware of the Office’s capabilities. Such strategy shall include the following elements:
+    - **(A)** Information on terrorist explosive threats, tactics, and attacks in the United States.
+    - **(B)** Information, by region of the United States, regarding public and private sector entities likely to be targeted by terrorist explosive threats and attacks in the United States, including historically black colleges and universities and minority serving institutions, places of worship, health care facilities, transportation systems, commercial facilities, and government facilities.
+    - **(C)** Guidance on how outreach to owners and operators of critical infrastructure (as such term is defined in section 1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e))) in a region should be prioritized.
+    - **(D)** A catalogue of the services and training currently offered by the Office, and a description of how such services and trainings assist the public and private sector to deter, detect, prevent, protect against, mitigate, and respond to terrorist explosive threats and attacks in the United States.
+    - **(E)** Long-term objectives of the Office, including future service and training offerings.
+    - **(F)** Metrics for measuring the effectiveness of services and trainings offered by the Office.
+    - **(G)** An assessment of resource requirements necessary to implement such strategy.
+    - **(H)** A description of how the Office partners with other components of the Department and other Federal agencies to carry out its mission.
+  - **(2)** *Reports* Not later than one year after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report describing the activities of the Office for Bombing Prevention of the Department of Homeland Security (established pursuant to section 2241 of the Homeland Security Act of 2002, as added by subsection (a)). Each such report shall include information on the following:
+    - **(A)** Changes to terrorist explosive threats, tactics, and attacks in the United States.
+    - **(B)** Changes to the types of public and private sector entities likely to be targeted by terrorist explosive threats and attacks in the United States.
+    - **(C)** The number of trainings, assessments, and other engagements carried out by the Office within each region of the United States, including a description of the critical infrastructure sector or stakeholder served.
+    - **(D)** The number of trainings, assessments, or other engagements the Office was asked to conduct but did not, and an explanation relating thereto.
+    - **(E)** The effectiveness of the trainings, assessments, or other engagements provided by the Office based on the metrics described in paragraph (1)(F).
+    - **(F)** Any changes or anticipated changes in the trainings, assessments, and other engagements, or any other services, offered by the Office, and an explanation relating thereto.
+- **(c)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2238 the following new items:
 
 ## § 3. Explosives technology development
 
