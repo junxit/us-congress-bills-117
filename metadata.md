@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5129
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5129
@@ -159,3 +159,50 @@ Community Services Block Grant Modernization Act of 2022
 - 2022-05-06 — Placed on the Union Calendar, Calendar No. 231.
 - 2022-05-06 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-311.
 - 2022-05-06 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-311.
+- 2022-05-10 — Rules Committee Resolution H. Res. 1097 Reported to House. Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
+- 2022-05-13 — Amendment (A004) offered by Mr. Gottheimer. (consideration: CR H4950-4951, H4953-4954; text: CR H4950)
+- 2022-05-13 — Amendment agreed to by House: On agreeing to the Bonamici amendments (A002) Agreed to by the Yeas and Nays: 219 - 201 (Roll no. 178).
+- 2022-05-13 — Amendment agreed to by House: On agreeing to the Gottheimer amendment (A004) Agreed to by the Yeas and Nays: 418 - 0 (Roll no. 180).
+- 2022-05-13 — Amendment agreed to by House: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-13 — Amendment failed by House: On agreeing to the Bonamici amendments (A003) Failed by the Yeas and Nays: 198 - 219 (Roll no. 179).
+- 2022-05-13 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-05-13 — Amendments en bloc (A002) offered by Ms. Bonamici. (consideration: CR H4943-4948, H4951-4952; text: CR H4943)
+- 2022-05-13 — Amendments en bloc (A003) offered by Ms. Bonamici. (consideration: CR H4948-4950, H4952-4953; text: CR H4948)
+- 2022-05-13 — Considered under the provisions of rule H. Res. 1097. (consideration: CR H4925-4956; text: CR H4925-4932)
+- 2022-05-13 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 10 minutes of debate on the Gottheimer amendment No. 4
+- 2022-05-13 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 20 minutes of debate on the Bonamici amendment en bloc No. 1.
+- 2022-05-13 — DEBATE - Pursuant to the provisions of H. Res. 1097, the House proceeded with 20 minutes of debate on the Bonamici amendment en bloc No. 2.
+- 2022-05-13 — DEBATE - The House proceeded with one hour of debate on H.R. 5129.
+- 2022-05-13 — House amendment agreed to: On agreeing to the Bonamici amendments (A002) Agreed to by the Yeas and Nays: 219 - 201 (Roll no. 178).
+- 2022-05-13 — House amendment agreed to: On agreeing to the Gottheimer amendment (A004) Agreed to by the Yeas and Nays: 418 - 0 (Roll no. 180).
+- 2022-05-13 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-13 — House amendment not agreed to: On agreeing to the Bonamici amendments (A003) Failed by the Yeas and Nays: 198 - 219 (Roll no. 179).
+- 2022-05-13 — House amendment offered
+- 2022-05-13 — House amendment offered
+- 2022-05-13 — House amendment offered
+- 2022-05-13 — House amendment offered
+- 2022-05-13 — House amendment offered/reported by: Amendment (A004) offered by Mr. Gottheimer.
+- 2022-05-13 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-05-13 — House amendment offered/reported by: Amendments en bloc (A002) offered by Ms. Bonamici.
+- 2022-05-13 — House amendment offered/reported by: Amendments en bloc (A003) offered by Ms. Bonamici.
+- 2022-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-13 — Mr. Walberg moved to recommit to the Committee on Education and Labor. (text: CR H4954)
+- 2022-05-13 — On agreeing to the Bonamici amendments (A002) Agreed to by the Yeas and Nays: 219 - 201 (Roll no. 178).
+- 2022-05-13 — On agreeing to the Bonamici amendments (A003) Failed by the Yeas and Nays: 198 - 219 (Roll no. 179).
+- 2022-05-13 — On agreeing to the Gottheimer amendment (A004) Agreed to by the Yeas and Nays: 418 - 0 (Roll no. 180).
+- 2022-05-13 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-05-13 — On motion to recommit Failed by the Yeas and Nays: 201 - 216 (Roll no. 181).
+- 2022-05-13 — On passage Passed by the Yeas and Nays: 246 - 169 (Roll no. 182).
+- 2022-05-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment en bloc No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gottheimer amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Clyde demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 169 (Roll no. 182).
+- 2022-05-13 — Roll call votes on amendments in House
+- 2022-05-13 — Roll call votes on amendments in House
+- 2022-05-13 — Roll call votes on amendments in House
+- 2022-05-13 — Rule provides for consideration of H.R. 903, H.R. 2499, H.R. 5129 and H.R. 7691. The resolution provides for consideration of H.R. 903, H.R. 2499, and H.R. 5129 under a structured rule. H.R. 7691 is considered under a closed rule. Bills considered under the rule are debatable for one hour. The rule provides that H. Res. 1096 is adopted and amends H. Res. 188 by striking May 13, 2022 and inserting June 10, 2022.
+- 2022-05-13 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-05-13 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-05-13 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-05-13 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-05-13 — The previous question was ordered pursuant to the rule.
