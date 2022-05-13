@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 7768
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7768
+
+> To affirm that the Farm Credit Administration is the sole and independent regulator of the Farm Credit System.
+
+## § 1. Short title
+
+This Act may be cited as the “Farm Credit Administration Independent Authority Act”.
+
+## § 2. Affirmation that the Farm Credit Administration is the sole and independent regulator of the Farm Credit System
+
+Section 5.7 of the Farm Credit Act of 1971 (12 U.S.C. 2241) is amended by adding at the end the following: “The Bureau of Consumer Financial Protection may not issue, implement, or continue in effect any policy or guidance issued after January 1, 2021, to the extent that the policy or guidance affects the Farm Credit Administration, Farm Credit System, or Board.”.
+
+## § 3. Conforming amendment
+
+Section 704B(h)(1) of the Equal Credit Opportunity Act (15 U.S.C. 1691c–2(h)(1)) is amended by inserting “, and that is not supervised by the Farm Credit Administration” before the period.
