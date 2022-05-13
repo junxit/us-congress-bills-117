@@ -24,19 +24,26 @@ This Act may be cited as the “President’s Cup Cybersecurity Competition Act�
     - **(B)** be considered an employee of the Federal Government by reason of so consulting.
 - **(c)** *Eligibility* To be eligible to participate in the competition, an individual shall be a Federal civilian employee or member of the uniformed services (as such term is defined in section 2101(3) of title 5, United States Code) and shall comply with any rules promulgated by the Director regarding the competition.
 - **(d)** *Competition administration* The Director may enter into a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the competition.
-- **(e)** *Funding*
-  - **(1)** *In general* Support for the competition, including financial support for the design and administration of the competition or funds for a cash prize, may consist of—
-    - **(A)** amounts appropriated pursuant to appropriations Acts or otherwise made available for such purpose; and
-    - **(B)** in accordance with paragraph (2), funds provided by other Federal agencies, States, United States territories, local governments, federally recognized Tribal governments, or private sector for-profit or nonprofit entities.
-  - **(2)** *Request* The Director may request and accept funds from other Federal agencies, States, United States territories, local governments, federally recognized Tribal governments, and private sector for-profit and nonprofit entities.
-  - **(3)** *Obligation and expenditure* Funds accepted pursuant to paragraph (2) shall be credited to, and in addition to, any amounts appropriated or otherwise made available pursuant to paragraph (1)(A) to carry out this section, and the Secretary of Homeland Security, acting through the Director, may obligate and expend such funds for such purpose—
-    - **(A)** without regard to specific authorization relating thereto provided in advance in an appropriations Act; and
-    - **(B)** not subject to any condition or purpose relating thereto specified in such appropriations Act.
-- **(f)** *Use of funds* Notwithstanding any other provision of law, the Director may use funds available for carrying out the competition authorized under this section for the following:
+- **(e)** *Competition parameters* Each competition shall incorporate the following elements:
+  - **(1)** Cybersecurity skills outlined in the National Initiative for Cybersecurity Education Framework, or any successor framework.
+  - **(2)** Individual and team events.
+  - **(3)** Categories demonstrating offensive and defensive cyber operations, such as software reverse engineering and exploitation, network operations, forensics, big data analysis, cyber analysis, cyber defense, cyber exploitation, secure programming, obfuscated coding, or cyber-physical systems.
+  - **(4)** Any other elements related to paragraphs (1), (2), or (3) as determined necessary by the Director.
+- **(f)** *Funding* Support for the competition, including financial support for the design and administration of the competition or funds for a cash prize, may consist of—
+  - **(1)** amounts appropriated pursuant to appropriations Acts or otherwise made available for such purpose; and
+  - **(2)** funds provided by other Federal agencies, which—
+    - **(A)** shall be credited to, and in addition to, any amounts appropriated or otherwise made available pursuant to paragraph (1) to carry out this section; and
+    - **(B)** may be obligated and expended for such purpose by the Secretary of the Homeland Security, acting through the Director.
+- **(g)** *Use of funds* Notwithstanding any other provision of law, the Director may use funds available for carrying out the competition authorized under this section for the following:
   - **(1)** Advertising, marketing, and promoting the competition.
   - **(2)** Meals for participants and organizers of the competition if attendance at the meal during the competition is necessary to maintain the integrity of the competition.
   - **(3)** Promotional items, including merchandise and apparel.
   - **(4)** Monetary and nonmonetary awards for competition participants, including members of the uniformed services.
   - **(5)** Necessary expenses for the honorary recognition of competition participants, including members of the uniformed services.
   - **(6)** Any other appropriate activity necessary to carry out the competition, as determined by the Director.
-- **(g)** *Prize limitation* The Director may make one or more awards per competition, except that the amount or value of each shall not exceed $10,000. The Secretary of Homeland Security may make one or more awards per competition, except the amount or the value of each shall not to exceed $25,000. A monetary award under this section shall be in addition to the regular pay of the recipient.
+- **(h)** *Prize limitation* The Director may make one or more awards per competition, except that the amount or value of each shall not exceed $10,000. The Secretary of Homeland Security may make one or more awards per competition, except the amount or the value of each shall not to exceed $25,000. A monetary award under this section shall be in addition to the regular pay of the recipient.
+- **(i)** *Reporting requirements* The Director shall annually provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the following:
+  - **(1)** A description of available funds under subsection (f) for each competition conducted in the preceding year.
+  - **(2)** A description of expenditures authorized in subsection (g) for each competition.
+  - **(3)** Information relating to the participation of each competition.
+  - **(4)** Information relating to lessons learned from each competition and how such lessons may be applied to improve cybersecurity operations and recruitment of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security.
