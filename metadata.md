@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5129
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5129
@@ -145,9 +145,10 @@ Community Services Block Grant Modernization Act of 2022
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -206,3 +207,4 @@ Community Services Block Grant Modernization Act of 2022
 - 2022-05-13 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2022-05-13 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-05-13 — The previous question was ordered pursuant to the rule.
+- 2022-05-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
