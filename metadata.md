@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5658
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5658
@@ -41,3 +41,11 @@ DHS Roles and Responsibilities in Cyber Space Act
 - 2022-02-11 — Placed on the Union Calendar, Calendar No. 175.
 - 2022-02-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-245.
 - 2022-02-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-245.
+- 2022-05-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-16 — Considered as unfinished business. (consideration: CR H5004-5005)
+- 2022-05-16 — Considered under suspension of the rules. (consideration: CR H4989-4990)
+- 2022-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5658.
+- 2022-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-16 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
+- 2022-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 313 - 105 (Roll no. 185). (text: CR H4989-4990)
+- 2022-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 313 - 105 (Roll no. 185).
