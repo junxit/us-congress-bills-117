@@ -13,9 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “President’s Cup Cybersecurity Competition Act”.
 
-## § 2. President’s Cup Cybersecurity Competition
+## § 2. President’s cup cybersecurity competition
 
-- **(a)** *In general* The Director of the Cybersecurity and Infrastructure Security Agency (referred to in this section as the “Director”) of the Department of Homeland Security is authorized to hold an annual cybersecurity competition to be known as the “Department of Homeland Security Cybersecurity and Infrastructure Security Agency’s President’s Cup Cybersecurity Competition” (in this section referred to as the “competition”) for the purpose of identifying, challenging, and competitively awarding prizes, including cash prizes, to the United States Government’s best cybersecurity practitioners and teams across offensive and defensive cybersecurity disciplines.
+- **(a)** *In general* The Director of the Cybersecurity and Infrastructure Security Agency (in this section referred to as the “Director”) of the Department of Homeland Security is authorized to hold an annual cybersecurity competition to be known as the “Department of Homeland Security Cybersecurity and Infrastructure Security Agency’s President’s Cup Cybersecurity Competition” (in this section referred to as the “competition”) for the purpose of identifying, challenging, and competitively awarding prizes, including cash prizes, to the United States Government’s best cybersecurity practitioners and teams across offensive and defensive cybersecurity disciplines.
 - **(b)** *Competition design*
   - **(1)** *In general* Notwithstanding section 1342 of title 31, United States Code, the Director, in carrying out the competition, may consult with, and consider advice from, any person who has experience or expertise in the development, design, or execution of cybersecurity competitions.
   - **(2)** *Limitation* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations pursuant to this section.
@@ -29,20 +29,17 @@ This Act may be cited as the “President’s Cup Cybersecurity Competition Act�
   - **(2)** Individual and team events.
   - **(3)** Categories demonstrating offensive and defensive cyber operations, such as software reverse engineering and exploitation, network operations, forensics, big data analysis, cyber analysis, cyber defense, cyber exploitation, secure programming, obfuscated coding, or cyber-physical systems.
   - **(4)** Any other elements related to paragraphs (1), (2), or (3) as determined necessary by the Director.
-- **(f)** *Funding* Support for the competition, including financial support for the design and administration of the competition or funds for a cash prize, may consist of—
-  - **(1)** amounts appropriated pursuant to appropriations Acts or otherwise made available for such purpose; and
-  - **(2)** funds provided by other Federal agencies, which—
-    - **(A)** shall be credited to, and in addition to, any amounts appropriated or otherwise made available pursuant to paragraph (1) to carry out this section; and
-    - **(B)** may be obligated and expended for such purpose by the Secretary of the Homeland Security, acting through the Director.
-- **(g)** *Use of funds* Notwithstanding any other provision of law, the Director may use funds available for carrying out the competition authorized under this section for the following:
-  - **(1)** Advertising, marketing, and promoting the competition.
-  - **(2)** Meals for participants and organizers of the competition if attendance at the meal during the competition is necessary to maintain the integrity of the competition.
-  - **(3)** Promotional items, including merchandise and apparel.
-  - **(4)** Monetary and nonmonetary awards for competition participants, including members of the uniformed services.
-  - **(5)** Necessary expenses for the honorary recognition of competition participants, including members of the uniformed services.
-  - **(6)** Any other appropriate activity necessary to carry out the competition, as determined by the Director.
-- **(h)** *Prize limitation* The Director may make one or more awards per competition, except that the amount or value of each shall not exceed $10,000. The Secretary of Homeland Security may make one or more awards per competition, except the amount or the value of each shall not to exceed $25,000. A monetary award under this section shall be in addition to the regular pay of the recipient.
-- **(i)** *Reporting requirements* The Director shall annually provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the following:
+- **(f)** *Use of funds*
+  - **(1)** *In general* Notwithstanding any other provision of law, the Director may use amounts made available to the Director for the competition for the following:
+    - **(A)** Advertising, marketing, and promoting the competition.
+    - **(B)** Meals for participants and organizers of the competition if attendance at the meal during the competition is necessary to maintain the integrity of the competition.
+    - **(C)** Promotional items, including merchandise and apparel.
+    - **(D)** Monetary and nonmonetary awards for competition participants, including members of the uniformed services.
+    - **(E)** Necessary expenses for the honorary recognition of competition participants, including members of the uniformed services.
+    - **(F)** Any other appropriate activity necessary to carry out the competition, as determined by the Director.
+  - **(2)** *Application* This subsection shall apply to amounts appropriated on or after the date of the enactment of this Act.
+- **(g)** *Prize limitation* The Director may make one or more awards per competition, except that the amount or value of each shall not exceed $10,000. The Secretary of Homeland Security may make one or more awards per competition, except the amount or the value of each shall not to exceed $25,000. A monetary award under this section shall be in addition to the regular pay of the recipient.
+- **(h)** *Reporting requirements* The Director shall annually provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the following:
   - **(1)** A description of available funds under subsection (f) for each competition conducted in the preceding year.
   - **(2)** A description of expenditures authorized in subsection (g) for each competition.
   - **(3)** Information relating to the participation of each competition.
