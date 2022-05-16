@@ -1,7 +1,7 @@
 ---
 measure: H.R. 903
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 903
@@ -250,10 +250,11 @@ Rights for the TSA Workforce Act of 2021
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -317,3 +318,4 @@ Rights for the TSA Workforce Act of 2021
 - 2022-05-12 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-05-12 — The previous question was ordered pursuant to the rule.
 - 2022-05-12 — The title of the measure was amended. Agreed to without objection.
+- 2022-05-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
