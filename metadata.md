@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6825
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6825
@@ -97,3 +97,11 @@ Nonprofit Security Grant Program Improvement Act of 2022
 - 2022-05-06 — Placed on the Union Calendar, Calendar No. 232.
 - 2022-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-312.
 - 2022-05-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-312.
+- 2022-05-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-16 — Considered as unfinished business. (consideration: CR H5003-5004)
+- 2022-05-16 — Considered under suspension of the rules. (consideration: CR H4982-4985)
+- 2022-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6825.
+- 2022-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-16 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
+- 2022-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 129 (Roll no. 184). (text: CR H4982-4983)
+- 2022-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 129 (Roll no. 184).
