@@ -1,7 +1,7 @@
 ---
 measure: H.R. 92
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 92
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 110 Joh
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 110 Joh
 - 2022-05-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3, 2 Present (Roll no. 174). (text: 05/10/2022 CR H4788)
 - 2022-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3, 2 Present (Roll no. 174).
+- 2022-05-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
