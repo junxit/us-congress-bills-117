@@ -1,0 +1,18 @@
+---
+legis-num: S. 4227
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4227
+
+> To streamline the oil and gas permitting process and to recognize fee ownership for certain oil and gas drilling or spacing units, and for other purposes.
+
+## § 1. Compliance with BLM permitting
+
+- **(a)** *In general* Notwithstanding any other provision of law but subject to any State requirements, a Bureau of Land Management drilling permit shall not be required under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.) or section 3164.1 of title 43, Code of Federal Regulations (or a successor regulation), for an action occurring within an oil and gas drilling or spacing unit if—
+  - **(1)** less than 50 percent of the minerals within the oil and gas drilling or spacing unit are minerals owned by the Federal Government; and
+  - **(2)** the Federal Government does not own or lease the surface estate within the area directly impacted by the action.
+- **(b)** *Notification* Each State with an approved permit to drill or drilling plan that would impact or extract oil and gas owned by the Federal Government shall notify the Secretary of the Interior of the approved permit to drill or drilling plan not later than 45 days after the date on which the permit or plan is approved.
+- **(c)** *Royalties* Nothing in this section affects the amount of royalties due to the Federal Government from the production of the Federal minerals within the oil and gas drilling or spacing unit.
