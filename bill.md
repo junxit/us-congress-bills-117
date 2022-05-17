@@ -13,17 +13,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Student Veteran Work Study Modernization Act”.
 
-## § 2. Expansion of eligibility for a certain work-study allowance paid by the Secretary of Veterans Affairs to certain individuals who pursue programs of rehabilitation, education, or training on at least a half-time basis
+## § 2. Pilot program to expand eligibility for a certain work-study allowance paid by the Secretary of Veterans Affairs to certain individuals who pursue certain programs on at least a half-time basis
 
-- **(a)** *Expansion* Section 3485(b) of title 38, United States Code, is amended—
-  - **(1)** in the first sentence, by striking “three-quarters” and inserting “half”; and
-  - **(2)** in the third sentence, by striking “three-quarter-time” and inserting “half-time”.
-- **(b)** *Applicability date* The amendments made by this section shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after October 1, 2023.
+- **(a)** *Pilot program* The Secretary of Veterans Affairs shall carry out a pilot program under which the Secretary shall expand eligibility for the work-study allowance under section 3485 of title 38, United States Code, to individuals who are pursuing programs of rehabilitation, education, or training specified in subsection (b) of such section at a rate equal to at least half of that required of a full-time student.
+- **(b)** *Relationship to other work-study individuals* In carrying out the pilot program under subsection (a), the Secretary shall ensure the provisions of section 3485 of title 38, United States Code, apply with respect to the individuals specified in subsection (a) of this section in the same manner as to the individuals specified in subsection (b) of such section 3485, except with respect to the requirement of at least three-quarter-time student status.
+- **(c)** *Duration* The Secretary shall carry out the pilot program under subsection (a) during the five-year period beginning on the date of the commencement of the pilot program.
 
-## § 3. Annual report regarding veterans who participate in work study
+## § 3. Annual report regarding veterans who participate in work-study
 
-Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding veterans who participate in work study. Such report shall include the following elements:
+Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding veterans who participate in work-study. Such report shall include the following elements:
 
 - **(1)** The number of such veterans.
 - **(2)** The percentage of such veterans who obtain a four-year degree.
 - **(3)** The number of such veterans who obtain full-time work at the Department of Veterans Affairs.
+
+## § 4. Adjustments of certain loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “January 23, 2031”.
+
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
