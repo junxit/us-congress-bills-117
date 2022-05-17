@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2988
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,16 +19,16 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
   - **(1)** *In general* Section 2302(a)(2)(A) of title 5, United States Code, is amended—
     - **(A)** in clause (xi), by striking “and” at the end;
     - **(B)** by redesignating clause (xii) as clause (xiii); and
-    - **(C)** by adding after the clause (xi) the following:
-      > - **(xii)** the opening of any investigation as a result of a disclosure protected by subsection (b)(8), but not including—
-      >   - **(I)** any investigation that is ministerial or nondiscretionary; or
-      >   - **(II)** any investigation that is conducted by an Inspector General of an entity of the Federal Government of an employee not employed by the office of that Inspector General; and
+    - **(C)** by inserting after the clause (xi) the following:
+      > - **(xii)** for purposes of subsection (b)(8)—
+      >   - **(I)** the commencement, expansion, or extension of an investigation, but not including any investigation that is ministerial or nondiscretionary (including a ministerial or nondiscretionary investigation described in section 1213) or any investigation that is conducted by an Inspector General of an entity of the Government of an employee not employed by the office of that Inspector General; and
+      >   - **(II)** a referral to an Inspector General of an entity of the Government, except for a referral that is ministerial or nondiscretionary; and
 
-  - **(2)** *Application* The amendment made by paragraph (1) shall apply to any investigation opened (as described under section 2302(a)(2)(A)(xii) of title 5, United States Code, as added by such paragraph) on or after the date of enactment of this Act.
+  - **(2)** *Application* The amendment made by paragraph (1) shall apply to any investigation opened, or referral made, as described under clause (xii) of section 2302(a)(2)(A) of title 5, United States Code, as added by such paragraph, on or after the date of enactment of this Act.
 - **(b)** *Right to petition Congress*
   - **(1)** *In general* Section 2302(b)(9) of title 5, United States Code, is amended—
     - **(A)** in subparagraph (C), by striking “or” at the end;
-    - **(B)** in subparagraph (D), by adding “or” at the end after the semicolon; and
+    - **(B)** in subparagraph (D), by adding “or” after the semicolon at the end; and
     - **(C)** by adding at the end the following:
       > - **(E)** the exercise of any right protected under section 7211;
 
@@ -36,8 +36,8 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
 - **(c)** *Prohibition on disclosure of whistleblower identity*
   - **(1)** *In general* Section 2302 of title 5, United States Code, is amended by adding at the end the following:
     > - **(g)**
-    >   - **(1)** No employee of an agency may willfully communicate or transmit to any individual who is not an officer or employee of the Government the identity of, or personally identifiable information about, any other employee who has made, or is suspected to have made, a disclosure protected by subsection (b)(8), unless—
-    >     - **(A)** the other employee provides express written consent prior to the communication or transmission;
+    >   - **(1)** No employee of an agency may willfully communicate or transmit to any individual who is not an officer or employee of the Government the identity of, or personally identifiable information about, any other employee because that other employee has made, or is suspected to have made, a disclosure protected by subsection (b)(8), unless—
+    >     - **(A)** the other employee provides express written consent prior to the communication or transmission of their identity or personally identifiable information;
     >     - **(B)** the communication or transmission is made in accordance with the provisions of section 552a;
     >     - **(C)** the communication or transmission is made to a lawyer for the sole purpose of providing legal advice to an employee accused of whistleblower retaliation; or
     >     - **(D)** the communication or transmission is required or permitted by any other provision of law.
@@ -76,10 +76,13 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
 ## § 3. Enhancement of whistleblower protections
 
 - **(a)** *Disclosures relating to officers or employees of an Office of Inspector General* Section 1213(c) of title 5, United States Code, is amended by adding at the end the following:
-  > - **(3)** If the information transmitted under this subsection disclosed a violation of law, rule, or regulation, or gross waste, gross mismanagement, abuse of authority, or a substantial and specific danger to public health or safety, by any officer or employee of an Office of Inspector General, the Special Counsel may refer the matter to the Committee of Inspectors General for Integrity and Efficiency, which shall comply with the standards and procedures applicable to investigations and reports under subsection (c).
+  > - **(3)** If the information transmitted under this subsection disclosed a violation of law, rule, or regulation, or gross waste, gross mismanagement, abuse of authority, or a substantial and specific danger to public health or safety, by any officer or employee of an Office of Inspector General, the Special Counsel may refer the matter to the Council of the Inspectors General on Integrity and Efficiency, which shall comply with the standards and procedures applicable to investigations and reports under subsection (c).
 
-- **(b)** *Ensuring timely relief*
-  - **(1)** *Individual right of action* Section 1221 of title 5, United States Code, is amended by striking “section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D),” in each instance and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g),”.
+- **(b)** *Retaliatory referrals to Inspectors General* Section 1214(d) of title 5, United States Code, is amended by adding at the end the following:
+  > - **(3)** In any case in which the Special Counsel determines that a referral to an Inspector General of an entity of the Federal Government was in retaliation for a disclosure or protected activity described in section 2302(b)(8) or in retaliation for exercising a right described in section 2302(b)(9)(A)(i), the Special Counsel shall transmit that finding in writing to the Inspector General within seven days of making the finding. The Inspector General shall consider that finding and make a determination on whether to initiate an investigation or continue an investigation based on the referral that the Special Counsel found to be retaliatory.
+
+- **(c)** *Ensuring timely relief*
+  - **(1)** *Individual right of action* Section 1221 of title 5, United States Code, is amended by striking “section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D),” each place it appears and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g),”.
   - **(2)** *Stays* Section 1221(c)(2) of title 5, United States Code, is amended to read as follows:
     > - **(2)** Any stay requested under paragraph (1) shall be granted within 10 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date the request is made, if the Board determines—
     >   - **(A)** that there is a substantial likelihood that protected activity was a contributing factor to the personnel action involved; or
@@ -88,33 +91,43 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
   - **(3)** *Appeal of stay* Section 1221(c) of title 5, United States Code, is amended by adding at the end the following:
     > - **(4)** If any stay requested under paragraph (1) is denied, the employee, former employee, or applicant may, within 7 days after receiving notice of the denial, file an appeal for expedited review by the Board. The agency shall have 7 days thereafter to respond. The Board shall provide a decision not later than 21 days after receiving the appeal. During the period of appeal, both parties may supplement the record with information unavailable to them at the time the stay was first requested.
 
-  - **(4)** *Access to district court; jury trials* Section 1221(i) of title 5, United States Code, is amended—
-    - **(A)** by striking “(i) Subsections” and inserting “(i)(1) Subsections”; and
-    - **(B)** by adding at the end the following:
-      > - **(2)**
-      >   - **(A)** If, in the case of an employee, former employee, or applicant for employment who seeks corrective action from the Merit Systems Protection Board based on an alleged prohibited personnel practice described in section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g), no final order or decision is issued by the Board within 180 days after the date on which a request for such corrective action has been duly submitted to the Board, such employee, former employee, or applicant may, after providing written notice to the Special Counsel and the Board and only within 20 days after providing such notice, bring an action for review de novo before the appropriate United States district court, and such action shall, at the request of either party to such action, be tried before a jury. Upon filing of an action with the appropriate United States district court, any proceedings before the Board shall cease and the employee, former employee, or applicant for employment waives any right to refile with the Board.
-      >   - **(B)** If the Board certifies (in writing) to the parties of a case that the complexity of such case requires a longer period of review, subparagraph (A) shall be applied by substituting “240 days” for “180 days”.
-      >   - **(C)** In any such action brought before a United States district court under subparagraph (A), the court—
-      >     - **(i)** shall apply the standards set forth in subsection (e); and
-      >     - **(ii)** may award any relief which the court considers appropriate, including any relief described in subsection (g).
+  - **(4)** *Access to district court; jury trials*
+    - **(A)** *In general* Section 1221(i) of title 5, United States Code, is amended—
+      - **(i)** by striking “(i) Subsections” and inserting “(i)(1) Subsections”; and
+      - **(ii)** by adding at the end the following:
+        > - **(2)**
+        >   - **(A)** If, in the case of an employee, former employee, or applicant for employment who seeks corrective action from the Merit Systems Protection Board based on an alleged prohibited personnel practice described in section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g), no final order or decision is issued by the Board within 180 days after the date on which a request for such corrective action has been duly submitted to the Board, such employee, former employee, or applicant may, after providing written notice to the Special Counsel and the Board and only within 20 days after providing such notice, bring an action for review de novo before the appropriate United States district court, and such action shall, at the request of either party to such action, be tried before a jury. Upon filing of an action with the appropriate United States district court, any proceedings before the Board shall cease and the employee, former employee, or applicant for employment waives any right to refile with the Board.
+        >   - **(B)** If the Board certifies (in writing) to the parties of a case that the complexity of such case requires a longer period of review, subparagraph (A) shall be applied by substituting “240 days” for “180 days”.
+        >   - **(C)** In any such action brought before a United States district court under subparagraph (A), the court—
+        >     - **(i)** shall apply the standards set forth in subsection (e); and
+        >     - **(ii)** may award any relief which the court considers appropriate, including any relief described in subsection (g).
 
-- **(c)** *Recipients of whistleblower disclosures* Section 2302(b)(8)(B) of title 5, United States Code, is amended by striking “or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures” and inserting “the Inspector General of an agency, a supervisor in the employee’s direct chain of command up to and including the head of the employing agency, or to an employee designated by any of the aforementioned individuals for the purpose of receiving such disclosures”.
-- **(d)** *Attorney fees* Section 7703(a) of title 5, United States Code, is amended by adding at the end the following:
-  > - **(3)** If an employee, former employee, or applicant for employment is the prevailing party under an appeal under this section, the employee, former employee, or applicant for employment shall be entitled to attorney fees for all representation carried out pursuant to this section. In such an action for attorney fees, the agency responsible for taking the personnel action shall be the respondent and shall be responsible for paying the fees.
+    - **(B)** *Application*
+      - **(i)** The amendments made by subparagraph (A) shall apply to any corrective action duly submitted to the Merit Systems Protection Board, during the five-year period preceding the date of enactment of this Act, by an employee, former employee, or applicant for employment based on an alleged prohibited personnel practice described in section 2302(b)(8), 2302(b)(9)(A)(i), (B), (C), or (D), or 2302(b)(13) of title 5, United States Code, with respect to which no final order or decision has been issued by the Board.
+      - **(ii)** In the case of an individual described in clause (i) whose duly submitted claim to the Board was made not later than 180 days before the date of enactment of this Act, such individual may only bring an action before a United States district court as described in section 1221(i)(2) of title 5, United States Code, (as added by subparagraph (A) if that individual—
+        - **(I)** provides written notice to the Office of Special Counsel and the Merit Systems Protection Board not later than 90 days after the date of enactment of this Act; and
+        - **(II)** brings such action not later than 20 days after providing such notice.
+- **(d)** *Recipients of whistleblower disclosures* Section 2302(b)(8)(B) of title 5, United States Code, is amended by striking “or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures” and inserting “the Inspector General of an agency, a supervisor in the employee’s direct chain of command up to and including the head of the employing agency, or to an employee designated by any of the aforementioned individuals for the purpose of receiving such disclosures”.
+- **(e)** *Attorney fees*
+  - **(1)** *In general* Section 7703(a) of title 5, United States Code, is amended by adding at the end the following:
+    > - **(3)** If an employee, former employee, or applicant for employment is the prevailing party under a proceeding brought under this section, the employee, former employee, or applicant for employment shall be entitled to attorney fees for all representation carried out pursuant to this section. In such an action for attorney fees, the agency responsible for taking the personnel action shall be the respondent and shall be responsible for paying the fees.
 
-- **(e)** *Extending Whistleblower Protection Act to certain employees*
+  - **(2)** *Application* In addition to any proceeding brought by an employee, former employee, or applicant for employment on or after the date of enactment of this Act to a Federal court under section 7703 of title 5, United States Code, the amendment made by paragraph (1) shall apply to any proceeding brought by an employee, former employee, or applicant for employment under such section before the date of enactment of this Act with respect to which the applicable Federal court has not issued a final decision.
+- **(f)** *Extending Whistleblower Protection Act to certain employees*
   - **(1)** *In general* Section 2302(a)(2)(A) of title 5, United States Code, is amended in the matter following clause (xiii)—
     - **(A)** by inserting “subsection (b)(9)(A)(i), (B), (C), (D), or (E), subsection (b)(13), or subsection (g),” after “subsection (b)(8),”; and
     - **(B)** by inserting after “title 31” the following: “, a commissioned officer or applicant for employment in the Public Health Service, an officer or applicant for employment in the commissioned officer corps of the National Oceanic and Atmospheric Administration, and a noncareer appointee in the Senior Executive Service”.
   - **(2)** *Conforming amendments* Section 261 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3071) is amended—
     - **(A)** in subsection (a)—
       - **(i)** by striking paragraph (8); and
-      - **(ii)** by redesignating paragraphs (9) through (25) as paragraphs (8) through (24), respectively; and
+      - **(ii)** by redesignating paragraphs (9) through (26) as paragraphs (8) through (25), respectively; and
     - **(B)** in subsection (b), by striking the second sentence.
   - **(3)** *Application*
     - **(A)** *In general* With respect to an officer or applicant for employment in the commissioned officer corps of the National Oceanic and Atmospheric Administration, the amendments made by paragraphs (1) and (2) shall apply to any personnel action taken against such officer or applicant on or after the date of enactment of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2020 (Public Law 116–259) for making any disclosure protected under section 2302(8) of title 5, United States Code.
     - **(B)** *Exception* Subparagraph (A) shall not apply to any personnel action with respect to which a complaint has been filed pursuant to section 1034 of title 10, United States Code, and a final decision has been rendered regarding such complaint.
-- **(f)** *Relief* Section 7701(b)(2)(A) of title 5, United States Code, is amended by striking “upon the making of the decision” and inserting “upon making of the decision, necessary to make the employee whole as if there had been no prohibited personnel practice, including training, seniority and promotions consistent with the employee’s prior record,”.
+- **(g)** *Relief*
+  - **(1)** *In general* Section 7701(b)(2)(A) of title 5, United States Code, is amended by striking “upon the making of the decision” and inserting “upon making of the decision, necessary to make the employee whole as if there had been no prohibited personnel practice, including training, seniority and promotions consistent with the employee’s prior record”.
+  - **(2)** *Application* In addition to any appeal made on or after the date of enactment of this Act to the Merit Systems Protection Board under section 7701 of title 5, United States Code, the amendment made by paragraph (1) shall apply to any appeal made under such section before the date of enactment of this Act with respect to which the Board has not issued a final decision.
 
 ## § 4. Classifying certain furloughs as adverse personnel actions
 
@@ -157,11 +170,11 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
 
 Title 5, United States Code, is amended—
 
-- **(1)** in section 1212(h), by striking “or (9)” in each instance and inserting “, (b)(9), (b)(13), or (g)”;
-- **(2)** in section 1214(a)—
-  - **(A)** by striking “section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D)” in each instance and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”; and
+- **(1)** in section 1212(h), by striking “or (9)” each place it appears and inserting “, (b)(9), (b)(13), or (g)”;
+- **(2)** in section 1214—
+  - **(A)** in subsections (a) and (b), by striking “section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D)” each place it appears and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”; and
   - **(B)** in subsection (i), by striking “section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9)” and inserting “section 2302(b)(8), subparagraph (A)(i), (B), (C), (D), or (E) of section 2302(b)(9), section 2302(b)(13), or section 2302(g)”;
-- **(3)** in section 1215, by striking “section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D)” in each instance and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”;
+- **(3)** in section 1215(a)(3)(B), by striking “section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D)” each place it appears and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”;
 - **(4)** in section 2302—
   - **(A)** in subsection (a)—
     - **(i)** in paragraph (1), by inserting “or (g)” after “subsection (b)”; and
@@ -169,4 +182,4 @@ Title 5, United States Code, is amended—
   - **(B)** in subsection (c)(1)(B), by striking “paragraph (8) or subparagraph (A)(i), (B), (C), or (D) of paragraph (9) of subsection (b)” and inserting “paragraph (8), subparagraph (A)(i), (B), (C), or (D) of paragraph (9), or paragraph (13) of subsection (b) or subsection (g)”;
 - **(5)** in section 7515(a)(2), by striking “paragraph (8), (9), or (14) of section 2302(b)” and inserting “paragraph (8), (9), (13), or (14) of section 2302(b) or section 2302(g)”;
 - **(6)** in section 7701(c)(2)(B), by inserting “or section 2302(g)” after “section 2302(b)”; and
-- **(7)** in section 7703(b)(1)(B), by striking “section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D)” in each instance and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”.
+- **(7)** in section 7703(b)(1)(B), by striking “section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D)” and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”.
