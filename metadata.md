@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6824
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6824
@@ -21,9 +21,10 @@ President’s Cup Cybersecurity Competition Act
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ President’s Cup Cybersecurity Competition Act
 - 2022-05-16 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
 - 2022-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 31 (Roll no. 183). (text: CR H4976)
 - 2022-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 31 (Roll no. 183).
+- 2022-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
