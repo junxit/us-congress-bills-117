@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7797
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7797
+
+> To direct the Secretary of the Army to carry out a study relating to projects to restore the Florida Central Gulf Coastal Shellfish and Seagrass habitat, and for other purposes.
+
+## § 1. Study on estuary habitat restoration project
+
+- **(a)** *Study on Florida Central Gulf Coast Shellfish and Seagrass Estuary Habitat Project* Not later than 24 months after the date of enactment of this Act, the Secretary shall carry out a study, and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report on projects and activities through the Director of the Engineer Research and Development Center (ERDC) to restore Florida Central Gulf Coastal Shellfish and Seagrass habitat.
+- **(b)** *Requirements* In conducting the study under subsection (a), the Secretary shall—
+  - **(1)** consult with independent expert scientists and other regional stakeholders with expertise and experience to assist the Secretary; and
+  - **(2)** coordinate with Federal, State, and local agencies providing oversight for both short and long-term monitoring of the estuary habitat activities.
+- **(c)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $2,000,000, to remain available until expended.
