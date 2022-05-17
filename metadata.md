@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5658
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5658
@@ -25,9 +25,10 @@ DHS Roles and Responsibilities in Cyber Space Act
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ DHS Roles and Responsibilities in Cyber Space Act
 - 2022-05-16 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
 - 2022-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 313 - 105 (Roll no. 185). (text: CR H4989-4990)
 - 2022-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 313 - 105 (Roll no. 185).
+- 2022-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
