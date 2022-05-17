@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7622
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7622
@@ -31,3 +31,8 @@ Small Business Workforce Pipeline Act of 2022
 - 2022-04-28 — Introduced in House
 - 2022-04-28 — Introduced in House
 - 2022-04-28 — Referred to the House Committee on Small Business.
+- 2022-05-11 — Committee Consideration and Mark-up Session Held.
+- 2022-05-11 — Ordered to be Reported by Voice Vote.
+- 2022-05-17 — Placed on the Union Calendar, Calendar No. 247.
+- 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-329.
+- 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-329.
