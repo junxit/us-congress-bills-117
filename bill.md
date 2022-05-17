@@ -20,12 +20,14 @@ It is the sense of Congress that the Secretary of Veterans Affairs should increa
 - **(1)** The purpose of automation should be to increase the speed and accuracy of claims processing decisions.
 - **(2)** Automation should be conducted in a manner that enhances the productivity of employees of the Department of Veterans Affairs.
 - **(3)** Automation should be carried out in a manner that achieves greater consistency in the processing and rating of claims by relying on patterns of similar evidence in claim files.
-- **(4)** To the greatest extent possible, automation should be carried out by drawing from information in the possession of the Department, other Government agencies, and applicants for benefits.
-- **(5)** Automation of any claims analysis or determination process should not be end-to-end or lack intermediation.
+- **(4)** To the greatest extent possible, automation should be carried out by drawing from information in the possession of the Department, other Government agencies, and claimants for benefits.
+- **(5)** Automation of any claims process or determination should not be end-to-end.
 - **(6)** Employees of the Department should continue to make decisions with respect to the approval of claims and the granting of benefits.
 - **(7)** Automation should not be carried out in a manner that reduces or infringes upon—
-  - **(A)** the due process rights of applicants for benefits under the laws administered by the Secretary; or
+  - **(A)** the due process rights of claimants for benefits under the laws administered by the Secretary; or
   - **(B)** the duties of the Secretary to assist and notify claimants.
+- **(8)** Automation should be carried out while taking all necessary measures to protect the privacy of claimants and their personally identifiable information.
+- **(9)** Automation of claims processing should not eliminate or reduce the Veterans Benefits Administration workforce.
 
 ## § 3. Plan for modernization of Veterans Benefits Administration information technology systems
 
