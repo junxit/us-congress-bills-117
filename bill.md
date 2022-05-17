@@ -28,3 +28,15 @@ Section 3699(c)(2)(A) of title 38, United States Code, is amended—
   >   - **(III)** accept a certification under subclause (I) as proof of the individual transferring fewer than 12 credits; and
   >   - **(IV)** provide to the individual who makes a certification under subclause (I) and makes the acknowledgment under subclause (II) a certificate of eligibility that the individual may provide to an educational institution as proof of the individual being covered by this paragraph.
   > - **(iii)** The Secretary shall notify individuals described in subparagraph (B) of being eligible to be covered by this paragraph.
+
+## § 3. Elimination of requirement to specify an effective period of a transfer of Post-9/11 educational assistance to a dependent
+
+Section 3319(e) of title 38, United States Code, is amended—
+
+- **(1)** in paragraph (1), by adding “and” after the semicolon;
+- **(2)** in paragraph (2), by striking “; and” and inserting a period; and
+- **(3)** by striking paragraph (3).
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

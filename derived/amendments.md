@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6604
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “An individual” and inserting “(i) An individual”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (i), as designated by paragraph (1), the following new clauses: | the bill names no machine-readable US Code section |
+| — | amend | in paragraph (1), by adding “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (3). | the bill names no machine-readable US Code section |
