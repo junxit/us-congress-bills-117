@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1118
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1118
@@ -29,3 +29,5 @@ Expressing the sense of the House of Representatives that the United States reco
 - 2022-05-16 — Introduced in House
 - 2022-05-16 — Introduced in House
 - 2022-05-16 — Referred to the House Committee on Energy and Commerce.
+- 2022-05-17 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1119, H. Res. 1118 is considered passed House.
+- 2022-05-17 — Pursuant to the provisions of H. Res. 1119, H. Res. 1118 is considered passed House. (consideration: CR H5023; text: CR H5023)
