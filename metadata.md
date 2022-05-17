@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6825
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6825
@@ -81,9 +81,10 @@ Nonprofit Security Grant Program Improvement Act of 2022
 - Rep. Bowman, Jamaal [D-NY-16] (B001223)
 - Rep. Strickland, Marilyn [D-WA-10] (S001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -105,3 +106,4 @@ Nonprofit Security Grant Program Improvement Act of 2022
 - 2022-05-16 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
 - 2022-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 129 (Roll no. 184). (text: CR H4982-4983)
 - 2022-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 129 (Roll no. 184).
+- 2022-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
