@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7694
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7694
@@ -29,3 +29,8 @@ Strengthening Subcontracting for Small Businesses Act of 2022
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Referred to the House Committee on Small Business.
+- 2022-05-11 — Committee Consideration and Mark-up Session Held.
+- 2022-05-11 — Ordered to be Reported by Voice Vote.
+- 2022-05-17 — Placed on the Union Calendar, Calendar No. 250.
+- 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-332.
+- 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-332.
