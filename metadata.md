@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7670
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7670
@@ -29,3 +29,8 @@ WOSB Program Transparency Act
 - 2022-05-06 — Introduced in House
 - 2022-05-06 — Introduced in House
 - 2022-05-06 — Referred to the House Committee on Small Business.
+- 2022-05-11 — Committee Consideration and Mark-up Session Held.
+- 2022-05-11 — Ordered to be Reported by Voice Vote.
+- 2022-05-17 — Placed on the Union Calendar, Calendar No. 249.
+- 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-331.
+- 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-331.
