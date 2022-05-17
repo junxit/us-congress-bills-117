@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6868
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6868
@@ -39,3 +39,11 @@ Cybersecurity Grants for Schools Act of 2022
 - 2022-05-13 — Placed on the Union Calendar, Calendar No. 242.
 - 2022-05-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-323.
 - 2022-05-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-323.
+- 2022-05-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-16 — Considered under suspension of the rules. (consideration: CR H4988-4989)
+- 2022-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6868.
+- 2022-05-16 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
+- 2022-05-17 — Considered as unfinished business. (consideration: CR H5078-5079)
+- 2022-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 30 (Roll no. 197). (text: 05/16/2022 CR H4989)
+- 2022-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 30 (Roll no. 197).
