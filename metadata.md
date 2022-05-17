@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7309
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7309
@@ -88,3 +88,63 @@ Workforce Innovation and Opportunity Act of 2022
 - 2022-05-12 — Placed on the Union Calendar, Calendar No. 240.
 - 2022-05-12 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-321.
 - 2022-05-12 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-321.
+- 2022-05-16 — Rules Committee Resolution H. Res. 1119 Reported to House. Rule provides for consideration of H.R. 6531, H.R. 7309 and S. 2938. Measure will be considered read. Specified amendments are in order. The rule provides that the previous question shall be considered as ordered on each measure without intervening motions except one hour of debate and one motion to recommit Upon passage of H. Res. 1119, H. Res. 1118 is adopted.
+- 2022-05-17 — Amendment (A005) offered by Mrs. Miller-Meeks. (consideration: CR H5061-5070, H5073-5074; text: CR H5061-5069)
+- 2022-05-17 — Amendment agreed to by House: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-05-17 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 313 - 107 (Roll no. 188).
+- 2022-05-17 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A003) Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 189).
+- 2022-05-17 — Amendment failed by House: On agreeing to the Miller-Meeks amendment (A005) Failed by the Yeas and Nays: 174 - 241 (Roll no. 191).
+- 2022-05-17 — Amendment failed by House: On agreeing to the Scott (VA) amendments (A004) Failed by the Yeas and Nays: 194 - 219 (Roll no. 190).
+- 2022-05-17 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-05-17 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H5054-5056, H5071-5072; text: CR H5054-5055)
+- 2022-05-17 — Amendments en bloc (A003) offered by Mr. Scott (VA). (consideration: CR H5056-5059, H5072; text: CR H5056-5058)
+- 2022-05-17 — Amendments en bloc (A004) offered by Mr. Scott (VA). (consideration: CR H5059-5061, H5072-5073; text: CR H5059)
+- 2022-05-17 — Considered as unfinished business. (consideration: CR H5071-5076)
+- 2022-05-17 — Considered under the provisions of rule H. Res. 1119. (consideration: CR H5023-5070; text: CR H5024-5048)
+- 2022-05-17 — DEBATE - Pursuant to the provisions of H. Res. 1119, the House proceeded with 10 minutes of debate on the Miller-Meeks amendment No. 28.
+- 2022-05-17 — DEBATE - Pursuant to the provisions of H.Res. 1119, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 1.
+- 2022-05-17 — DEBATE - Pursuant to the provisions of H.Res. 1119, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 2.
+- 2022-05-17 — DEBATE - Pursuant to the provisions of H.Res. 1119, the House proceeded with 20 minutes of debate on the Scott (VA) amendment en bloc No. 3.
+- 2022-05-17 — DEBATE - The House proceeded with one hour of debate on H.R. 7309.
+- 2022-05-17 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-05-17 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 313 - 107 (Roll no. 188).
+- 2022-05-17 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A003) Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 189).
+- 2022-05-17 — House amendment not agreed to: On agreeing to the Miller-Meeks amendment (A005) Failed by the Yeas and Nays: 174 - 241 (Roll no. 191).
+- 2022-05-17 — House amendment not agreed to: On agreeing to the Scott (VA) amendments (A004) Failed by the Yeas and Nays: 194 - 219 (Roll no. 190).
+- 2022-05-17 — House amendment offered
+- 2022-05-17 — House amendment offered
+- 2022-05-17 — House amendment offered
+- 2022-05-17 — House amendment offered
+- 2022-05-17 — House amendment offered
+- 2022-05-17 — House amendment offered/reported by: Amendment (A005) offered by Mrs. Miller-Meeks.
+- 2022-05-17 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-05-17 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).(consideration: CR H5054-5056, H5071-5072; text: CR H5054-5055)
+- 2022-05-17 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Scott (VA).(consideration: CR H5056-5059, H5072; text: CR H5056-5058)
+- 2022-05-17 — House amendment offered/reported by: Amendments en bloc (A004) offered by Mr. Scott (VA).
+- 2022-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-17 — Mr. Rutherford moved to recommit to the Committee on Education and Labor. (text: CR H5074)
+- 2022-05-17 — On agreeing to the Miller-Meeks amendment (A005) Failed by the Yeas and Nays: 174 - 241 (Roll no. 191).
+- 2022-05-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-05-17 — On agreeing to the Scott (VA) amendments (A002) Agreed to by the Yeas and Nays: 313 - 107 (Roll no. 188).
+- 2022-05-17 — On agreeing to the Scott (VA) amendments (A003) Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 189).
+- 2022-05-17 — On agreeing to the Scott (VA) amendments (A004) Failed by the Yeas and Nays: 194 - 219 (Roll no. 190).
+- 2022-05-17 — On motion to recommit Failed by the Yeas and Nays: 193 - 223 (Roll no. 192).
+- 2022-05-17 — On passage Passed by the Yeas and Nays: 220 - 196 (Roll no. 193).
+- 2022-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller-Meeks amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mrs. Miller-Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tiffany demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment en bloc No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-17 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7309 was postponed until a time to be announced.
+- 2022-05-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 196 (Roll no. 193).
+- 2022-05-17 — Roll call votes on amendments in House
+- 2022-05-17 — Roll call votes on amendments in House
+- 2022-05-17 — Roll call votes on amendments in House
+- 2022-05-17 — Roll call votes on amendments in House
+- 2022-05-17 — Rule provides for consideration of H.R. 6531, H.R. 7309 and S. 2938. Measure will be considered read. Specified amendments are in order. The rule provides that the previous question shall be considered as ordered on each measure without intervening motions except one hour of debate and one motion to recommit Upon passage of H. Res. 1119, H. Res. 1118 is adopted.
+- 2022-05-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 7309.
+- 2022-05-17 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-05-17 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-05-17 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-05-17 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-05-17 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2022-05-17 — The previous question was ordered pursuant to the rule.
