@@ -2,12 +2,12 @@
 legis-num: H. RES. 1119
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1119
 
-> Providing for consideration of the bill (H.R. 6531) to provide an increased allocation of funding under certain programs for assistance in areas of persistent poverty, and for other purposes; providing for consideration of the bill (H.R. 7309) to reauthorize the Workforce Innovation and Opportunity Act; and providing for consideration of the bill (S. 2938) to designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the “Joseph Woodrow Hatchett United States Courthouse and Federal Building”, and for other purposes.
+> Providing for consideration of the bill (H.R. 6531) to provide an increased allocation of funding under certain programs for assistance in areas of persistent poverty, and for other purposes; providing for consideration of the bill (H.R. 7309) to reauthorize the Workforce Innovation and Opportunity Act; and providing for consideration of the bill (S. 2938) to designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the ‘‘Joseph Woodrow Hatchett United States Courthouse and Federal Building’’, and for other purposes.
 
 That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6531) to provide an increased allocation of funding under certain programs for assistance in areas of persistent poverty, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–44, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Oversight and Reform or their respective designees; and (2) one motion to recommit.
 
