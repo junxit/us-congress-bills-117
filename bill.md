@@ -18,10 +18,7 @@ This Act may be cited as the “Domestic Terrorism Prevention Act of 2022”.
 In this Act—
 
 - **(1)** the term Director means the Director of the Federal Bureau of Investigation;
-- **(2)** the term domestic terrorism has the meaning given the term in section 2331 of title 18, United States Code, except that it does not include acts perpetrated by individuals associated with or inspired by—
-  - **(A)** a foreign person or organization designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189);
-  - **(B)** an individual or organization designated under Executive Order 13224 (50 U.S.C. 1701 note); or
-  - **(C)** a state sponsor of terrorism as determined by the Secretary of State under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. 4605), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+- **(2)** the term domestic terrorism has the meaning given the term in section 2331 of title 18, United States Code;
 - **(3)** the term Domestic Terrorism Executive Committee means the committee within the Department of Justice tasked with assessing and sharing information about ongoing domestic terrorism threats;
 - **(4)** the term hate crime incident means an act described in section 241, 245, 247, or 249 of title 18, United States Code, or in section 901 of the Civil Rights Act of 1968 (42 U.S.C. 3631);
 - **(5)** the term Secretary means the Secretary of Homeland Security; and
@@ -48,8 +45,8 @@ In this Act—
   - **(2)** *Contents* Each report submitted under paragraph (1) shall include—
     - **(A)** an assessment of the domestic terrorism threat posed by White supremacists and neo-Nazis, including White supremacist and neo-Nazi infiltration of Federal, State, and local law enforcement agencies and the uniformed services; and
     - **(B)**
-      - **(i)** in the first report, an analysis of incidents or attempted incidents of domestic terrorism that have occurred in the United States since January 1, 2012, including any White-supremacist-related incidents or attempted incidents; and
-      - **(ii)** in each subsequent report, an analysis of incidents or attempted incidents of domestic terrorism that occurred in the United States during the preceding 6 months, including any White-supremacist-related incidents or attempted incidents; and
+      - **(i)** in the first report, an analysis of incidents or attempted incidents of domestic terrorism that have occurred in the United States since April 19, 1995, including any White-supremacist-related incidents or attempted incidents; and
+      - **(ii)** in each subsequent report, an analysis of incidents or attempted incidents of domestic terrorism that occurred in the United States during the preceding 6 months, including any White-supremacist-related incidents or attempted incidents;
     - **(C)** a quantitative analysis of domestic terrorism for the preceding 6 months, including—
       - **(i)** the number of—
         - **(I)** domestic terrorism related assessments initiated by the Federal Bureau of Investigation, including the number of assessments from each classification and subcategory, with a specific classification or subcategory for those related to White supremacism;
@@ -63,7 +60,8 @@ In this Act—
         - **(IX)** Federal domestic terrorism-related weapons recoveries, including the number of each type of weapon and the number of weapons from each classification and subcategory, with a specific classification or subcategory for those related to White supremacism; and
       - **(ii)** an explanation of each individual case that progressed through more than 1 of the stages described under clause (i)—
         - **(I)** including the specific classification or subcategory for each case; and
-        - **(II)** not including personally identifiable information not otherwise releasable to the public.
+        - **(II)** not including personally identifiable information not otherwise releasable to the public; and
+    - **(D)** certification that each of the assessments and investigations described under subparagraph (C) are in compliance with all applicable civil rights and civil liberties laws and regulations.
   - **(3)** *Hate crimes* In compiling a joint report under this subsection, the domestic terrorism offices authorized under paragraphs (1), (2), and (3) of subsection (a) shall, in consultation with the Civil Rights Division of the Department of Justice and the Civil Rights Unit of the Federal Bureau of Investigation, review each Federal hate crime charge and conviction during the preceding 6 months to determine whether the incident also constitutes a domestic terrorism-related incident.
   - **(4)** *Classification and public release* Each report submitted under paragraph (1) shall be—
     - **(A)** unclassified, to the greatest extent possible, with a classified annex only if necessary; and
@@ -106,8 +104,12 @@ In this Act—
 
 - **(a)** *Community relations service* The Community Relations Service of the Department of Justice, authorized under section 1001(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000g), may offer the support of the Service to communities where the Department of Justice has brought charges in a hate crime incident that has a nexus to domestic terrorism.
 - **(b)** *Federal bureau of investigation* Section 249 of title 18, United States Code, is amended by adding at the end the following:
-  > - **(f)** *Federal bureau of investigation* The Attorney General, acting through the Director of the Federal Bureau of Investigation, shall assign a special agent or hate crimes liaison to each field office of the Federal Bureau of Investigation to investigate hate crimes incidents with a nexus to domestic terrorism (as such term is defined in section 2 of the Domestic Terrorism Prevention Act of 2020).
+  > - **(f)** *Federal bureau of investigation* The Attorney General, acting through the Director of the Federal Bureau of Investigation, shall assign a special agent or hate crimes liaison to each field office of the Federal Bureau of Investigation to investigate hate crimes incidents with a nexus to domestic terrorism (as such term is defined in section 2 of the Domestic Terrorism Prevention Act of 2022).
 
-## § 7. Authorization of appropriations
+## § 7. Rule of construction
+
+Nothing in this Act, or any amendment made by this Act, may be construed to authorize the infringement or violation of any right protected under the First Amendment to the Constitution of the United States or an applicable provision of Federal law.
+
+## § 8. Authorization of appropriations
 
 There are authorized to be appropriated to the Department of Justice, the Federal Bureau of Investigation, the Department of Homeland Security, and the Department of Defense such sums as may be necessary to carry out this Act.

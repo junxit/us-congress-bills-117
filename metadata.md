@@ -1,7 +1,7 @@
 ---
 measure: H.R. 350
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 350
@@ -253,3 +253,17 @@ Domestic Terrorism Prevention Act of 2022
 - 2022-04-21 — Placed on the Union Calendar, Calendar No. 214.
 - 2022-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-292, Part I.
 - 2022-04-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-292, Part I.
+- 2022-05-17 — Rules Committee Resolution H. Res. 1124 Reported to House. Rule provides for consideration of H.R. 350, H.R. 7688 and H.R. 7790. Provides for one of hour of general debate and one motion to recommit for each bill. Resolution also provides for en bloc suspension authority.
+- 2022-05-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-05-18 — Considered as unfinished business. (consideration: CR H5166)
+- 2022-05-18 — Considered under the provisions of rule H. Res. 1124. (consideration: CR H5143-5152)
+- 2022-05-18 — DEBATE - The House proceeded with one hour of debate on H.R. 350.
+- 2022-05-18 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-05-18 — House amendment offered
+- 2022-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-05-18 — On passage Passed by the Yeas and Nays: 222 - 203 (Roll no. 221). (text: CR H5143-5145)
+- 2022-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Bishop (NC) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-05-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 203 (Roll no. 221).
+- 2022-05-18 — Rule provides for consideration of H.R. 350, H.R. 7688 and H.R. 7790. Provides for one of hour of general debate and one motion to recommit for each bill. Resolution also provides for en bloc suspension authority.
+- 2022-05-18 — The previous question was ordered pursuant to the rule.
