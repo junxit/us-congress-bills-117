@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2724
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,21 +9,30 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide for peer support specialists for claimants who are survivors of military sexual trauma, and for other purposes.
 
-## § 1. Short title
+## § 1. Improvements to the processing of claims by veterans for compensation for certain mental health conditions based on military sexual trauma
 
-This Act may be cited as the “VA Peer Support Enhancement for MST Survivors Act”.
+- **(a)** *In general* Section 1166 of title 38, United States Code, is amended—
+  - **(1)** by striking “or air service” both places it appears and inserting “air, or space service”;
+  - **(2)** in subsection (a)—
+    - **(A)** in the heading, by striking “In general” and inserting “Processing”;
+    - **(B)** by inserting “(1)” before “The Secretary”; and
+    - **(C)** by adding at the end the following new paragraphs:
+      > - **(2)** A peer support specialist of the Department—
+      >   - **(A)** shall not be responsible for providing any assistance to a veteran regarding a claim described in paragraph (1), other than counseling services, guidance, and support, pursuant to duties determined by the Under Secretary for Health; and
+      >   - **(B)** shall not participate in the adjudication of such a claim.
 
-## § 2. Peer support specialists for claimants who are survivors of military sexual trauma
+  - **(3)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
+  - **(4)** by inserting, after subsection (a), the following new subsection (b):
+    > - **(b)** *Referrals to MST coordinators* The Secretary shall include, in forms for claims described in subsection (a), an option for a veteran to elect to be referred to a military sexual trauma coordinator of the Veterans Health Administration at the facility of the Department nearest to the residence of such veteran.
 
-- **(a)** *Peer support specialists for claimants who are survivors of military sexual trauma*
-  - **(1)** *In general* Chapter 51 of title 38, United States Code, is amended by inserting after section 5109B the following new section:
-    > ## § 5109C. Peer support specialists for claimants who are survivors of military sexual trauma
-    >
-    > - **(a)** *In general* The Secretary shall ensure that each claimant who files a claim relating to military sexual trauma is assigned a peer support specialist to provide the claimant with support during the claims process unless the claimant elects not to have a peer support specialist under this section.
-    > - **(b)** *Qualifications* A peer support specialist under this section—
-    >   - **(1)** shall be trained as a victims advocate; and
-    >   - **(2)** may not be responsible for any part of adjudicating the claim of any claimant to which the specialist is providing support under this section.
-    > - **(c)** *Military sexual trauma* In this section, the term “military sexual trauma” has the meaning given such term in section 1165(c) of this title.
+  - **(5)** in subsection (c), as redesignated—
+    - **(A)** by inserting “(1)” before “The Secretary”; and
+    - **(B)** by adding at the end the following new paragraphs:
+      > - **(2)** The Secretary shall ensure that peer support specialists of the Department receive annual training on how to provide peer support regarding military sexual trauma.
+      > - **(3)** The Secretary shall provide annual training, regarding the processing of claims described in subsection (a), to the following individuals:
+      >   - **(A)** Military sexual trauma coordinators of the Veterans Health Administration.
+      >   - **(B)** Peer support specialists of the Department.
 
-  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5109B the following new item:
-- **(b)** *Technical correction* The second section 1164 of title 38, United States Code, as added by section 5501 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315), is redesignated as section 1165 (and the table of sections at the beginning of chapter 11 of such title is conformed accordingly).
+- **(b)** *Clerical amendments*
+  - **(1)** *Section heading* The heading of such section is amended by striking “Specialized teams to evaluate claims” and inserting “Claims”.
+  - **(2)** *Table of sections* The table of sections at the beginning of chapter 11 of such title is amended by striking the item relating to section 1166 and inserting the following:
