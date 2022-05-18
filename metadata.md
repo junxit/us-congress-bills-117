@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7500
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7500
@@ -41,3 +41,12 @@ Fiscal Year 2022 Veterans Affairs Major Medical Facility Authorization Act
 - 2022-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 201). (text: 05/16/2022 CR H4996)
 - 2022-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 201).
 - 2022-05-18 — Received in the Senate, read twice.
+- 2022-09-14 — Passed Senate without amendment by Voice Vote. (consideration: CR S4625)
+- 2022-09-14 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-09-15 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-190.
+- 2022-10-10 — Became Public Law No: 117-190.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
