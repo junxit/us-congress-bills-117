@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7829
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7829
+
+> To extend and authorize annual appropriations for the United States Commission on International Religious Freedom through fiscal year 2024.
+
+## § 1. Short title
+
+This Act may be cited as the “United States Commission on International Religious Freedom Reauthorization Act of 2022”.
+
+## § 2. United States Commission on International Religious Freedom
+
+- **(a)** *Authorization of appropriations* Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2019 through 2022” and inserting “2023 and 2024”.
+- **(b)** *Extension of authorization* Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2022” and inserting “September 30, 2024”.
