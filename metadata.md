@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5754
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5754
@@ -141,9 +141,10 @@ Patient Advocate Tracker Act
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -165,3 +166,4 @@ Patient Advocate Tracker Act
 - 2022-05-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 202). (text: 05/16/2022 CR H4997)
 - 2022-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 202).
+- 2022-05-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
