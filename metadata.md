@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5754
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5754
@@ -167,3 +167,14 @@ Patient Advocate Tracker Act
 - 2022-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 202). (text: 05/16/2022 CR H4997)
 - 2022-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 202).
 - 2022-05-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-09-08 — Message on Senate action sent to the House.
+- 2022-09-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4519-4520)
+- 2022-09-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-08 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-09-08 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-09-15 — Presented to President.
+- 2022-09-15 — Presented to President.
+- 2022-09-16 — Became Public Law No: 117-175.
+- 2022-09-16 — Became Public Law No: 117-175.
+- 2022-09-16 — Signed by President.
+- 2022-09-16 — Signed by President.
