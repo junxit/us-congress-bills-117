@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2992
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,21 +34,19 @@ Part HH of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34
 
 - **(1)** in section 2991—
   - **(A)** in subsection (h)(1)(A), by inserting before the period at the end the following: “, including the training developed under section 2993”; and
-  - **(B)** in subsection (o)(1)(C), by striking “$50,000,000” and inserting “$54,000,000”; and
+  - **(B)** in subsection (o), by amending paragraph (1) to read as follows:
+    > - **(1)** *In general* There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.
+
 - **(2)** by inserting after section 2992 the following new section:
   > ## § 2993. Creation of a TBI and PTSD training for first responders
   >
-  > - **(a)** *In general* Not later than one year after the date of the enactment of this section, the Attorney General, acting through the Director of the Bureau of Justice Assistance, in consultation with the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Mental Health and Substance Use, shall solicit best practices regarding techniques to interact with persons who have traumatic brain injury, acquired brain injury, or post-traumatic stress disorder from first responder, brain injury, veteran, and mental health organizations, health care and mental health providers, hospital emergency departments, and other relevant stakeholders, and shall develop crisis intervention training tools for use by first responders (as such term is defined in section 3025) that provide—
-  >   - **(1)** information on the conditions and symptoms of traumatic brain injury, acquired brain injury, and post-traumatic stress disorder;
+  > - **(a)** *In general* Not later than one year after the date of the enactment of this section, the Attorney General, acting through the Director of the Bureau of Justice Assistance, in consultation with the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Mental Health and Substance Use, shall solicit best practices regarding techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder from first responder, brain injury, veteran, and mental health organizations, health care and mental health providers, hospital emergency departments, and other relevant stakeholders, and shall develop crisis intervention training tools for use by first responders (as such term is defined in section 3025) that provide—
+  >   - **(1)** information on the conditions and symptoms of a traumatic brain injury, an acquired brain injury, and post-traumatic stress disorder;
   >   - **(2)** techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder; and
   >   - **(3)** information on how to recognize persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder.
-  > - **(b)** *Use of training tools at Law Enforcement Mental Health Learning Sites* The Attorney General shall ensure that not less than one Law Enforcement Mental Health Learning Site designated by the Director of the Bureau of Justice Assistance, in consultation with the Council of State Governments Justice Center, utilizes the training tools developed under subsection (a).
+  > - **(b)** *Use of training tools at Law Enforcement Mental Health Learning Sites* The Attorney General shall ensure that not less than one Law Enforcement Mental Health Learning Site designated by the Director of the Bureau of Justice Assistance uses the training tools developed under subsection (a).
   > - **(c)** *Police mental health collaboration toolkit* The Attorney General shall make the training tools developed under subsection (a) available as part of the Police-Mental Health Collaboration Toolkit provided by the Bureau of Justice Assistance.
 
-## § 4. Surveillance and reporting for first responders with TBI
+## § 4. Study on first responders with tbi
 
-Section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended by adding at the end the following:
-
-> - **(d)** *Law enforcement and first responder surveillance*
->   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall implement concussion data collection and analysis to determine the prevalence and incidence of concussion among first responders (as such term is defined in section 3025 of the Omnibus Crime Control and Safe Street Act of 1968 (34 U.S.C. 10705)).
->   - **(2)** *Report* Not later than 18 months after the date of the enactment of this subsection, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that contains the findings of the surveillance conducted under paragraph (1). The report shall include surveillance data and recommendations for resources for first responders who have experienced traumatic brain injury.
+Not later than 24 months after the date of the enactment of this Act, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall conduct a study and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the prevalence and incidence of concussion among first responders (as such term is defined in section 3025 of the Omnibus Crime Control and Safe Street Act of 1968 (34 U.S.C. 10705)). The report shall include data on the incidence of concussion among first responders and recommendations for resources for first responders who have experienced traumatic brain injury.
