@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5738
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “Lactation Spaces for Veteran Moms Act”.
 ## § 2. Lactation spaces in medical centers of the Department of Veterans Affairs
 
 - **(a)** *In general* Subchapter II of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 1720K. Lactation spaces in medical facilities of the Department
+  > ## § 1720K. Lactation spaces in medical centers of the Department
   >
   > - **(a)** *Lactation space required* The Secretary shall ensure that each medical center of the Department contains a lactation space.
   > - **(b)** *No unauthorized entry* Nothing in this section shall be construed to authorize an individual to enter a medical center of the Department or portion thereof that the individual is not otherwise authorized to enter.
@@ -27,7 +27,7 @@ This Act may be cited as the “Lactation Spaces for Veteran Moms Act”.
   >   - **(4)** contains a chair and a working surface;
   >   - **(5)** is easy to locate;
   >   - **(6)** is clearly identified with signage; and
-  >   - **(7)** is available for use by female veterans, employees of the Department, and members of the public to express breast milk.
+  >   - **(7)** is available for use by women veterans and members of the public to express breast milk.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item related to section 1720J the following new item:
-- **(c)** *Effective date* The Secretary of Veterans Affairs shall carry out section 1720K of title 38, United States Code, as added by this section, not later than one year after the date of the enactment of this Act.
+- **(c)** *Effective date* The Secretary of Veterans Affairs shall carry out section 1720K of title 38, United States Code, as added by this section, not later than two years after the date of the enactment of this Act.
