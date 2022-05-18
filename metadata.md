@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7791
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7791
@@ -16,7 +16,7 @@ Access to Baby Formula Act of 2022
 
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 
-## Cosponsors (96)
+## Cosponsors (129)
 
 - Rep. Steel, Michelle [R-CA-48] (S001135)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
@@ -114,6 +114,39 @@ Access to Baby Formula Act of 2022
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
 - Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
 
 ## Committees (1)
 
@@ -124,3 +157,11 @@ Access to Baby Formula Act of 2022
 - 2022-05-17 — Introduced in House
 - 2022-05-17 — Introduced in House
 - 2022-05-17 — Referred to the House Committee on Education and Labor.
+- 2022-05-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-05-18 — Considered as unfinished business. (consideration: CR H5163-5164)
+- 2022-05-18 — Considered under suspension of the rules. (consideration: CR H5152-5158)
+- 2022-05-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7791.
+- 2022-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-18 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
+- 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 9 (Roll no. 218). (text: CR H5152-5153)
+- 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 9 (Roll no. 218).
