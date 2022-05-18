@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6873
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6873
@@ -24,9 +24,10 @@ Bombing Prevention Act of 2022
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Bombing Prevention Act of 2022
 - 2022-05-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 26 (Roll no. 195). (text: 05/16/2022 CR H4979-4980)
 - 2022-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 26 (Roll no. 195).
+- 2022-05-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
