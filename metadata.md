@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 612
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 612
@@ -32,3 +32,7 @@ A resolution recognizing women-owned small businesses for National Small Busines
 
 - 2022-05-03 — Introduced in Senate
 - 2022-05-03 — Referred to the Committee on Small Business and Entrepreneurship.
+- 2022-05-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2580; text: 5/3/2022 CR S2281)
+- 2022-05-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2580; text: 5/3/2022 CR S2281)
+- 2022-05-18 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2022-05-18 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
