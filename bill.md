@@ -9,22 +9,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 38, United States Code, to improve hearings before the Board of Veterans’ Appeals regarding claims involving military sexual trauma.
 
-## § 1. Short title
-
-This Act may be cited as the “Dignity for MST Survivors Act”.
-
-## § 2. Requirement for training on claims involving military sexual trauma prior to assignment of certain proceedings
+## § 1. Requirement for training on claims involving military sexual trauma prior to assignment of certain proceedings
 
 - **(a)** *Requirement* Section 7102 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(c)**
   >   - **(1)** The Secretary shall ensure that there is offered to each member of the Board an annual training on military sexual trauma and proceedings that concern a claim for compensation based on military sexual trauma experienced by a veteran.
   >   - **(2)** A proceeding that concerns a claim specified in paragraph (1) may not be assigned to an individual member of the Board or to a panel of members unless the individual member, or each member of the panel, as the case may be, has completed the annual training most recently offered to that member pursuant to such paragraph.
-  >   - **(3)** In this subsection, the term military sexual trauma has the meaning given that term in section 1166(c) of this title.
+  >   - **(3)** In this subsection, the term “military sexual trauma” has the meaning given that term in section 1166(c) of this title.
 
 - **(b)** *First training* The Secretary of Veterans Affairs shall ensure that each member of the Board of Veterans’ Appeals is offered the first annual training under section 7102(c) of title 38, United States Code, as amended by subsection (a), by not later than 180 days after the date of the enactment of this Act.
 - **(c)** *Applicability* The limitation under section 7102(c)(2) of title 38, United States Code, as added by subsection (a), shall apply with respect to the assignment of proceedings on or after the date that is 180 days after the date of the enactment of this Act.
 
-## § 3. Review of language and practices used in connection with claims involving military sexual trauma
+## § 2. Review of language and practices used in connection with claims involving military sexual trauma
 
 - **(a)** *Board of Veterans' Appeals*
   - **(1)** *In general* Section 7112 of title 38, United States Code, is amended—
@@ -35,7 +31,7 @@ This Act may be cited as the “Dignity for MST Survivors Act”.
       >   - **(1)** The term covered case means a case—
       >     - **(A)** that concerns a claim for compensation based on military sexual trauma; and
       >     - **(B)** for which the appellant has requested a hearing in the notice of disagreement filed with the Board pursuant to section 7105 of this title.
-      >   - **(2)** The term military sexual trauma has the meaning given that term in section 1166 of this title.
+      >   - **(2)** The term “military sexual trauma” has the meaning given that term in section 1166 of this title.
 
   - **(2)** *Clerical amendments*
     - **(A)** *Section heading* The heading of such section is amended by striking “remanded” and inserting “certain”.
@@ -45,7 +41,7 @@ This Act may be cited as the “Dignity for MST Survivors Act”.
     - **(A)** the letters use trauma-informed language; and
     - **(B)** veterans are not re-traumatized through insensitive language.
   - **(2)** *Consultation* The Secretary shall carry out paragraph (1) in consultation with veterans service organizations and other stakeholders as the Secretary determines appropriate.
-- **(c)** *Examinations* The Secretary shall establish protocols for contract medical providers to ensure that the medical providers conduct examinations regarding covered claims using trauma-informed practices.
+- **(c)** *Examinations* The Secretary shall establish protocols for Department of Veterans Affairs medical providers and contract medical providers to ensure that the medical providers conduct examinations regarding covered claims using trauma-informed practices.
 - **(d)** *Definitions* In this section:
   - **(1)** The term compensation has the meaning given that term in section 101 of title 38, United States Code.
   - **(2)** The term contract medical provider means a medical provider who contracts with the Department of Veterans Affairs to provide a medical examination or a medical opinion when such an examination or opinion is necessary to make a decision on a claim under the laws administered by the Secretary of Veterans Affairs.
