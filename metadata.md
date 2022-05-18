@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1124
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1124
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 350) to authorize dedicated domest
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-05-18 — [House 117-2-208](votes/house-117-2-0208.md) — On Ordering the Previous Question — **Passed** (217–201)
+- 2022-05-18 — [House 117-2-209](votes/house-117-2-0209.md) — On Agreeing to the Resolution — **Passed** (218–202)
+
 ## Actions
 
 - 2022-05-17 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 350) to authorize dedicated domest
 - 2022-05-17 — Provides for one of hour of general debate and one motion to recommit for each bill. Resolution also provides for en bloc suspension authority.
 - 2022-05-17 — The House Committee on Rules reported an original measure, H. Rept. 117-333, by Mr. Morelle.
 - 2022-05-17 — The House Committee on Rules reported an original measure, H. Rept. 117-333, by Mr. Morelle.
+- 2022-05-18 — Considered as privileged matter. (consideration: CR H5127-5137)
+- 2022-05-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 1124.
+- 2022-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-05-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 202 (Roll no. 209). (text: CR H5127)
+- 2022-05-18 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 201 (Roll no. 208). (consideration: CR H5135-5136)
+- 2022-05-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 202 (Roll no. 209).
