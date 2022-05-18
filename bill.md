@@ -2,7 +2,7 @@
 legis-num: H. RES. 1125
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1125
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Jewish-American experience is a story of faith, fortitude, and progress and is connected to key tenets of American identity;
 - Whereas generations of Jewish people have come to this Nation fleeing oppression, discrimination, and persecution in search of a better life for themselves and their children;
 - Whereas these Jewish Americans have created lives for themselves and their families and played indispensable roles in our Nation’s civic and community life, making invaluable contributions to our Nation through their leadership and achievements;
-- Whereas, on August 21, 1790, President George Washington sent a letter to the Hebrew Congregation of Newport, Rhode Island, expressing that the newly formed United States would be a Nation that “gives to bigotry no sanction, to persecution no assistance” and that the Jewish people should “dwell in this land [and] continue to merit and enjoy the good will of the other inhabitants … and there shall be none to make him afraid.”;
+- Whereas, on August 21, 1790, President George Washington sent a letter to the Hebrew Congregation of Newport, Rhode Island, expressing that the newly formed United States would be a Nation that “gives to bigotry no sanction, to persecution no assistance” and that the Jewish people should “dwell in this land [and] continue to merit and enjoy the good will of the other inhabitants * * * and there shall be none to make him afraid.”;
 - Whereas we should acknowledge and celebrate the crucial contributions that Jewish Americans have made to our collective struggle for a more just and fair society, leading movements for justice and equality, and working to ensure opportunities for all;
 - Whereas alongside this narrative of achievement and opportunity, there is also a history, far older than the Nation itself, of racism, bigotry, and other forms of prejudice manifesting in the scourge of antisemitism;
 - Whereas antisemitism is an insidious form of prejudice stretching back millennia that attacks the humanity of the Jewish people and has led to violence, destruction of lives and communities, and genocide;
@@ -28,7 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 525 antisemitic incidents took place at Jewish institutions, an increase of 61 percent from data collected in 2020;
 - Whereas antisemitic assaults increased by 167 percent in 2021 compared to the previous year and assaults in 2021 were 138 percent higher than the rolling 5-year average of antisemitic assaults;
 - Whereas there was a substantial surge of antisemitic incidents in the United States in May 2021, 387 incidents were reported, a 141 percent increase in reports of antisemitic incidents compared to May 2020; Jewish individuals were violently attacked in major cities including New York and Los Angeles;
-- Whereas the use of antisemitic language, conspiracy theories, and hatred has increased on multiple social media platforms—from Facebook and Instagram to Twitter and TikTok—including tropes about Jewish control and messages praising Hitler and demonizing all Jews;
+- Whereas the use of antisemitic language, conspiracy theories, and hatred has increased on multiple social media platforms—from Facebook and Instagram to Twitter and TikTok, among others—including tropes about Jewish control and messages praising Hitler and demonizing all Jews;
 - Whereas a recent example of the violent antisemitism took place on Saturday, January 15, 2022, when, during religious services at Congregation Beth Israel, a terrorist held 4 people, including a rabbi, hostage at gunpoint for 11 hours;
 - Whereas police departments in a number of American cities, including New York and Los Angeles, have said that they are stepping up patrols at synagogues and other locations associated with the Jewish community following the hostage situation;
 - Whereas there are regular acts of antisemitic vandalism against synagogues and Jewish schools in the United States and numerous nonlethal attacks on American Jews, leaving many Jews feeling increasingly unsafe in public spaces and houses of worship;
