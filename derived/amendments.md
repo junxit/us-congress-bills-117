@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2992
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 34 U.S.C. § 10651
-
-> in subsection (o)(1)(C), by striking “$50,000,000” and inserting “$54,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$50,000,000` |
-| Inserted | `$54,000,000` |
 
 ## Stated, not applied
 
@@ -43,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `34 U.S.C. § 10651` | insert | in subsection (h)(1)(A), by inserting before the period at the end the following: “, including the training developed under section 2993”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10651` | amend | in subsection (o), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10651` | insert | by inserting after section 2992 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280b-1d` | add-at-end | Section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
