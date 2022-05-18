@@ -26,23 +26,23 @@ Congress finds the following:
 - **(7)** In 2017, the Department of Justice approved 481 claims under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281 et seq.), but not one of them for the more than 240 public safety officers who died by suicide that year.
 - **(8)** Public safety officers who have died or are disabled as a result of suicide or post-traumatic stress disorder do not qualify for the Public Safety Officers’ Benefits Program, despite the fact that public safety officers are more likely to die by suicide than from any other line-of-duty cause of death.
 
-## § 3. Public safety officer death benefits for post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders
+## § 3. Public safety officer death benefits for post-traumatic stress disorder and acute stress disorder
 
 - **(a)** *In general* Section 1201 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281) is amended by adding at the end the following:
-  > - **(o)** *Post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders*
+  > - **(o)** *Post-traumatic stress disorder and acute stress disorder*
   >   - **(1)** *Definitions* In this section:
   >     - **(A)** *Mass casualty event* The term mass casualty event means an incident resulting in casualties to not fewer than 3 victims, including—
   >       - **(i)** an incident that exceeds the normal resources for emergency response available in the jurisdiction where the incident takes place; and
-  >       - **(ii)** an incident that results in a sudden and timely surge of injured individuals necessitating emergency services.
+  >       - **(ii)** an incident that results in a sudden temporal surge of injured individuals necessitating emergency services.
   >     - **(B)** *Mass fatality event* The term mass fatality event means an incident resulting in the fatalities of not fewer than 3 individuals at 1 or more locations close to one another with a common cause.
   >     - **(C)** *Mass shooting* The term mass shooting means a multiple homicide incident in which not fewer than 3 victims are killed—
   >       - **(i)** with a firearm;
-  >       - **(ii)** during one event; and
-  >       - **(iii)** in one or more locations in close proximity.
+  >       - **(ii)** within 1 event; and
+  >       - **(iii)** in 1 or more locations in close proximity.
   >     - **(D)** *Exposed* The term exposed includes—
   >       - **(i)** directly experiencing or witnessing an event; or
   >       - **(ii)** being subjected, in an intense way, to aversive consequences of the event (including a public safety officer collecting human remains).
-  >     - **(E)** *Traumatic event* The term traumatic event means, in the case of a public safety officer exposed to an event, an event that is—
+  >     - **(E)** *Traumatic event* The term traumatic eventmeans, in the case of a public safety officer exposed to an event, an event that is—
   >       - **(i)** a homicide, suicide, or the violent or gruesome death of another individual (including such a death resulting from a mass casualty event, mass fatality event, or mass shooting);
   >       - **(ii)** a harrowing circumstance posing an extraordinary and significant danger or threat to the life of or of serious bodily harm to any individual (including such a circumstance as a mass casualty event, mass fatality event, or mass shooting); or
   >       - **(iii)** an act of criminal sexual violence committed against any individual.
@@ -51,8 +51,8 @@ Congress finds the following:
   >     - **(B)** post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and
   >     - **(C)** post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.
   >   - **(3)** *Presumption of death or total disability* A public safety officer shall be presumed to have died or become permanently and totally disabled (within the meaning of subsection (a) or (b)) as the direct and proximate result of a personal injury sustained in the line of duty, if (as determined by the Bureau) the officer either—
-  >     - **(A)** took an action, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability and exposure, while on duty, to one or more traumatic events was a substantial factor in the action taken by the officer; or
-  >     - **(B)** took an action within 45 days of the end of exposure, while on duty, to a traumatic event, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability, if such action was not inconsistent with a psychiatric disorder.
+  >     - **(A)** took an action, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability and exposure to one or more traumatic events was a substantial factor in the action taken by the officer; or
+  >     - **(B)** took an action within 45 days of the end of exposure to a traumatic event, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability, if such action was not inconsistent with a psychiatric disorder.
   >   - **(4)** *Applicability of limitations on benefits*
   >     - **(A)** *Intentional actions* Section 1202(a)(1) shall not apply to any claim for a benefit under this part that is payable in accordance with this subsection.
   >     - **(B)** *Substance use* Section 1202(a)(2) shall not preclude the payment of a benefit under this part if the benefit is otherwise payable in accordance with this subsection.
@@ -65,21 +65,19 @@ Congress finds the following:
 
 ## § 4. Technical fixes
 
-- **(a)** *Subpoena power; employment of hearing officers; authority to hold hearings* Section 806 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10225) is amended—
-  - **(1)** in the first sentence—
-    - **(A)** by striking “The” and all that follows through “Assistance” and inserting “The Assistant Attorney General, the Bureau of Justice Assistance”;
-    - **(B)** by striking “by the Attorney General”;
-    - **(C)** by striking “Code)” and inserting “Code (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States)”;
-    - **(D)** by striking “such hearing examiners or administrative law judges” and inserting “or administrative law judges”; and
-    - **(E)** by striking “necessary to carry out their respective powers and duties under this title” and inserting the following: “necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office”; and
-  - **(2)** in the second sentence—
-    - **(A)** by striking “The” and all that follows through “Assistance” and inserting “The Assistant Attorney General, the Bureau of Justice Assistance”;
-    - **(B)** by striking “or any” and inserting “, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any”;
-    - **(C)** by inserting a comma after “thereby”; and
-    - **(D)** by striking “examinations and” and inserting “examinations, and”.
-- **(b)** *Definitions* Section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284) is amended—
-  - **(1)** in paragraph (11), by striking “and” at the end;
-  - **(2)** in paragraph (12)(B), strike the period at the end and insert a semicolon; and
+- **(a)** *Subpoena power; employment of hearing officers; authority to hold hearings* Section 806 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 is amended by—
+  - **(1)** striking “by the Attorney General”;
+  - **(2)** inserting “Assistant” before “Attorney” everywhere it appears;
+  - **(3)** striking “Code)” and inserting “Code (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States)”;
+  - **(4)** striking “necessary to carry out” and inserting “necessary or convenient to assist them in carrying out”;
+  - **(5)** striking “or any” and inserting “, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any”;
+  - **(6)** inserting a comma after “thereby”;
+  - **(7)** striking “duties under this title” and inserting “duties under any law administered by or under the Office”;
+  - **(8)** striking “such hearing examiners” the second place it appears; and
+  - **(9)** striking “examinations and” and inserting “examinations, and”.
+- **(b)** *Definitions* Section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 is amended—
+  - **(1)** in paragraph (11), by striking “; and” and inserting “;”;
+  - **(2)** in paragraph (12)(B), by striking “basis.” and inserting “basis;”; and
   - **(3)** in paragraph (14), by redesignating the second subparagraph (F) as subparagraph (G).
 
 ## § 5. GAO report
