@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7309
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7309
@@ -74,9 +74,10 @@ Workforce Innovation and Opportunity Act of 2022
 - Rep. Espaillat, Adriano [D-NY-13] (E000297)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -148,3 +149,4 @@ Workforce Innovation and Opportunity Act of 2022
 - 2022-05-17 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-05-17 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2022-05-17 — The previous question was ordered pursuant to the rule.
+- 2022-05-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
