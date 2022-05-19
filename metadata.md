@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6943
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6943
@@ -67,9 +67,10 @@ Public Safety Officer Support Act of 2022
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Larson, John B. [D-CT-1] (L000557)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Public Safety Officer Support Act of 2022
 - 2022-05-18 — Placed on the Union Calendar, Calendar No. 252.
 - 2022-05-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-335.
 - 2022-05-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-335.
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
