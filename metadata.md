@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6961
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6961
@@ -46,3 +46,14 @@ Dignity for MST Survivors Act
 - 2022-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 12 (Roll no. 216). (text: CR H5107)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 12 (Roll no. 216).
 - 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7302-7303)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-300.
+- 2022-12-27 — Became Public Law No: 117-300.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
