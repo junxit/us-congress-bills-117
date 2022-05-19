@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6943
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6943
@@ -91,3 +91,14 @@ Public Safety Officer Support Act of 2022
 - 2022-05-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-335.
 - 2022-05-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-335.
 - 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3826)
+- 2022-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3826)
+- 2022-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-08-02 — Message on Senate action sent to the House.
+- 2022-08-15 — Presented to President.
+- 2022-08-15 — Presented to President.
+- 2022-08-16 — Became Public Law No: 117-172.
+- 2022-08-16 — Became Public Law No: 117-172.
+- 2022-08-16 — Signed by President.
+- 2022-08-16 — Signed by President.
