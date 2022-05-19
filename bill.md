@@ -36,7 +36,7 @@ Congress finds that—
 
 In this Act:
 
-- **(1)** *Map* The term “map” means the map prepared under section 4(b)(1).
+- **(1)** *Map* The term map means the map entitled “Blackwell School National Historic Site Proposed Boundary”, numbered 593/178387, and dated February 2022.
 - **(2)** *National historic site* The term National Historic Site means the Blackwell School National Historic Site established by section 4(a)(1).
 - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
 
@@ -50,9 +50,8 @@ In this Act:
     - **(A)** a written agreement has been entered into by the Secretary with the Marfa Unified School District providing that the Blackwell School shall be donated to the United States or co-managed with the Secretary for inclusion in a national historic site to be managed consistently with the purposes of a national historic site; and
     - **(B)** a sufficient quantity of land or an interest in land within the boundaries of the National Historic Site has been acquired to constitute a manageable unit.
 - **(b)** *Map*
-  - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall prepare a map that depicts the boundaries of the National Historic Site.
-  - **(2)** *Boundaries* The boundaries of the National Historic Site shall be the boundaries generally depicted on the map.
-  - **(3)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+  - **(1)** *Boundaries* The boundaries of the National Historic Site shall be the boundaries generally depicted on the map.
+  - **(2)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(c)** *Acquisition of authority* The Secretary may only acquire any land or interest in land located within the boundary of the National Historic Site by—
   - **(1)** donation;
   - **(2)** purchase with donated funds; or
