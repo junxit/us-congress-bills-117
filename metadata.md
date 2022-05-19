@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6064
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6064
@@ -29,9 +29,10 @@ To direct the Secretary of Veterans Affairs to seek to enter into an agreement w
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To direct the Secretary of Veterans Affairs to seek to enter into an agreement w
 - 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 217). (text: CR H5108-5109)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 217).
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
