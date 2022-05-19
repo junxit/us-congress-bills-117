@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7790
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7790
@@ -41,3 +41,5 @@ Infant Formula Supplemental Appropriations Act, 2022
 - 2022-05-18 — Rule provides for consideration of H.R. 350, H.R. 7688 and H.R. 7790. Provides for one of hour of general debate and one motion to recommit for each bill. Resolution also provides for en bloc suspension authority.
 - 2022-05-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-05-18 — The previous question was ordered pursuant to the rule.
+- 2022-05-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
+- 2022-05-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day 5/17/2022).
