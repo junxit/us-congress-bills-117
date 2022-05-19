@@ -1,7 +1,7 @@
 ---
 measure: S. 2490
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2490
@@ -44,3 +44,17 @@ Blackwell School National Historic Site Act
 - 2022-05-19 — Senate amendment agreed to: Amendment SA 5042 agreed to in Senate by Unanimous Consent.
 - 2022-05-19 — Senate amendment proposed (on the floor): Amendment SA 5042 proposed by Senator Hirono for Senator Cornyn.
 - 2022-05-19 — Senate amendment submitted
+- 2022-09-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-19 — Considered under suspension of the rules. (consideration: CR H7936-7937)
+- 2022-09-19 — DEBATE - The House proceeded with forty minutes of debate on S. 2490.
+- 2022-09-19 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-09-20 — Considered as unfinished business. (consideration: CR H7992-7993)
+- 2022-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 12 (Roll no. 444). (text: 9/19/2022 CR H7936)
+- 2022-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 12 (Roll no. 444).
+- 2022-10-17 — Became Public Law No: 117-206.
+- 2022-10-17 — Became Public Law No: 117-206.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Signed by President.
+- 2022-10-17 — Signed by President.
