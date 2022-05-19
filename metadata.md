@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2992
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2992
@@ -32,10 +32,11 @@ Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Traini
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Traini
 - 2022-05-18 — Placed on the Union Calendar, Calendar No. 253.
 - 2022-05-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-336, Part I.
 - 2022-05-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-336, Part I.
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
