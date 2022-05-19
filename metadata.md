@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7791
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7791
@@ -165,3 +165,8 @@ Access to Baby Formula Act of 2022
 - 2022-05-18 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
 - 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 9 (Roll no. 218). (text: CR H5152-5153)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 9 (Roll no. 218).
+- 2022-05-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2626-2627)
+- 2022-05-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2626-2627)
+- 2022-05-19 — Presented to President.
+- 2022-05-19 — Presented to President.
+- 2022-05-19 — Received in the Senate, read twice.
