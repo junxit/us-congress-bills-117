@@ -1,7 +1,7 @@
 ---
 measure: S. 407
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 407
@@ -16,7 +16,7 @@ Air America Act of 2022
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (28)
+## Cosponsors (33)
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -46,6 +46,11 @@ Air America Act of 2022
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Daines, Steve [R-MT] (D000618)
 
 ## Committees (1)
 
@@ -55,3 +60,7 @@ Air America Act of 2022
 
 - 2021-02-24 — Introduced in Senate
 - 2021-02-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-02-02 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-05-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-113.
+- 2022-05-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-113.
+- 2022-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 370.
