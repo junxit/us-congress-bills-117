@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5738
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5738
@@ -21,9 +21,10 @@ Lactation Spaces for Veteran Moms Act
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Lactation Spaces for Veteran Moms Act
 - 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2022-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 214). (text: CR H5104-5105)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 214).
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
