@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7791
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7791
@@ -170,3 +170,7 @@ Access to Baby Formula Act of 2022
 - 2022-05-19 — Presented to President.
 - 2022-05-19 — Presented to President.
 - 2022-05-19 — Received in the Senate, read twice.
+- 2022-05-21 — Became Public Law No: 117-129.
+- 2022-05-21 — Became Public Law No: 117-129.
+- 2022-05-21 — Signed by President.
+- 2022-05-21 — Signed by President.
