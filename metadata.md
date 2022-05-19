@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6064
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6064
@@ -52,3 +52,14 @@ To direct the Secretary of Veterans Affairs to seek to enter into an agreement w
 - 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 217). (text: CR H5108-5109)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 217).
 - 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7302)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-289.
+- 2022-12-27 — Became Public Law No: 117-289.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
