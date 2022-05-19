@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6052
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6052
@@ -42,3 +42,4 @@ Department of Veterans Affairs Office of Inspector General Training Act of 2021
 - 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 11 (Roll no. 226). (text: CR H5111-5112)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 11 (Roll no. 226).
+- 2022-05-19 — Received in the Senate.
