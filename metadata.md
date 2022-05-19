@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6961
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6961
@@ -23,9 +23,10 @@ Dignity for MST Survivors Act
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Dignity for MST Survivors Act
 - 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2022-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 12 (Roll no. 216). (text: CR H5107)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 12 (Roll no. 216).
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
