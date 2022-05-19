@@ -2,7 +2,7 @@
 legis-num: H.R. 2992
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2992
@@ -47,10 +47,6 @@ Part HH of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34
   > - **(b)** *Use of training tools at Law Enforcement Mental Health Learning Sites* The Attorney General shall ensure that not less than one Law Enforcement Mental Health Learning Site designated by the Director of the Bureau of Justice Assistance uses the training tools developed under subsection (a).
   > - **(c)** *Police mental health collaboration toolkit* The Attorney General shall make the training tools developed under subsection (a) available as part of the Police-Mental Health Collaboration Toolkit provided by the Bureau of Justice Assistance.
 
-## § 4. Surveillance and reporting for first responders with TBI
+## § 4. Study on first responders with tbi
 
-Section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended by adding at the end the following:
-
-> - **(d)** *Law enforcement and first responder surveillance*
->   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall implement concussion data collection and analysis to determine the prevalence and incidence of concussion among first responders (as such term is defined in section 3025 of the Omnibus Crime Control and Safe Street Act of 1968 (34 U.S.C. 10705)).
->   - **(2)** *Report* Not later than 18 months after the date of the enactment of this subsection, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that contains the findings of the surveillance conducted under paragraph (1). The report shall include surveillance data and recommendations for resources for first responders who have experienced traumatic brain injury.
+Not later than 24 months after the date of the enactment of this Act, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall conduct a study and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the prevalence and incidence of concussion among first responders (as such term is defined in section 3025 of the Omnibus Crime Control and Safe Street Act of 1968 (34 U.S.C. 10705)). The report shall include data on the incidence of concussion among first responders and recommendations for resources for first responders who have experienced traumatic brain injury.
