@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7335
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7335
@@ -20,9 +20,10 @@ MST Claims Coordination Act
 
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ MST Claims Coordination Act
 - 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2022-05-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 215). (text: CR H5106)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 215).
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
