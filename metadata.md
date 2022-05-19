@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7688
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7688
