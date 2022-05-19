@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2724
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2724
@@ -58,9 +58,10 @@ VA Peer Support Enhancement for MST Survivors Act
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ VA Peer Support Enhancement for MST Survivors Act
 - 2022-05-18 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2022-05-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 224). (text: CR H5109)
 - 2022-05-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 224).
+- 2022-05-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
