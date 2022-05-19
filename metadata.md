@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6531
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6531
@@ -61,3 +61,4 @@ Targeting Resources to Communities in Need Act of 2022
 - 2022-05-18 — On motion to recommit Failed by the Yeas and Nays: 198 - 219 (Roll no. 210).
 - 2022-05-18 — On passage Passed by the Yeas and Nays: 258 - 165 (Roll no. 211). (text: 05/17/2022 CR H5087)
 - 2022-05-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 258 - 165 (Roll no. 211).
+- 2022-05-19 — Received in the Senate.
