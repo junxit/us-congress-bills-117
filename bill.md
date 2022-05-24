@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2559
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -40,7 +40,7 @@ This Act may be cited as the “Deepfake Task Force Act”.
       - **(i)** 4 shall be representatives from the Federal Government, including the co-chairpersons of the Task Force;
       - **(ii)** 4 shall be representatives from institutions of higher education; and
       - **(iii)** 4 shall be representatives from private or nonprofit organizations.
-    - **(C)** *Appointment* Not later than 120 days after the date of enactment of this Act, the co-chairpersons of the Task Force shall appoint members to the Task Force in accordance with subparagraph (A) from among technical experts in—
+    - **(C)** *Appointment* Not later than 120 days after the date of enactment of this Act, the co-chairpersons of the Task Force shall appoint members to the Task Force in accordance with subparagraph (A)(B) from among technical experts in—
       - **(i)** artificial intelligence;
       - **(ii)** media manipulation;
       - **(iii)** digital forensics;
