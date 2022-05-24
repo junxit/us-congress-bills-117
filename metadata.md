@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 538
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 538
@@ -16,9 +16,10 @@ A resolution expressing support for a second United States-Africa Leaders Summit
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution expressing support for a second United States-Africa Leaders Summit
 
 - 2022-03-08 — Introduced in Senate
 - 2022-03-08 — Referred to the Committee on Foreign Relations.
+- 2022-05-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
