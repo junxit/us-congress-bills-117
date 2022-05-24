@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1620
 congress: 117
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1620
@@ -205,7 +205,7 @@ Violence Against Women Act Reauthorization Act of 2021
 - Rep. McBath, Lucy [D-GA-6] (M001208)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (7)
+## Committees (8)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
@@ -214,6 +214,7 @@ Violence Against Women Act Reauthorization Act of 2021
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -277,3 +278,5 @@ Violence Against Women Act Reauthorization Act of 2021
 - 2021-03-17 — The previous question was ordered pursuant to the rule.
 - 2021-03-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2021-03-18 — Received in the Senate.
+- 2021-10-05 — Committee on the Judiciary. Hearings held.
+- 2022-05-24 — Read twice and referred to the Committee on the Judiciary.
