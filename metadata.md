@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 117
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 1215
@@ -40,9 +40,10 @@ Fraud and Scam Reduction Act
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Fraud and Scam Reduction Act
 - 2021-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 13 (Roll no. 104). (text: 04/14/2021 CR H1756-1757)
 - 2021-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 13 (Roll no. 104).(text: 04/14/2021 CR H1756-1757)
 - 2021-04-19 — Received in the Senate.
+- 2022-05-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
