@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6827
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6827
@@ -31,3 +31,10 @@ Securing the Checkpoint Property Screening System (S-CPSS) Act of 2022
 - 2022-02-25 — Introduced in House
 - 2022-02-25 — Introduced in House
 - 2022-02-25 — Referred to the House Committee on Homeland Security.
+- 2022-02-28 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2022-03-02 — Committee Consideration and Mark-up Session Held.
+- 2022-03-02 — Ordered to be Reported by Voice Vote.
+- 2022-03-02 — Subcommittee on Transportation and Maritime Security Discharged.
+- 2022-05-24 — Placed on the Union Calendar, Calendar No. 254.
+- 2022-05-24 — Reported by the Committee on Homeland Security. H. Rept. 117-337.
+- 2022-05-24 — Reported by the Committee on Homeland Security. H. Rept. 117-337.
