@@ -1,7 +1,7 @@
 ---
 measure: S. 3470
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3470
@@ -28,3 +28,7 @@ End Human Trafficking in Government Contracts Act of 2022
 
 - 2022-01-11 — Introduced in Senate
 - 2022-01-11 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-02-02 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-116.
+- 2022-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-116.
+- 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 384.
