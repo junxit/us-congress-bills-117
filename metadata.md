@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 632
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 632
@@ -16,7 +16,7 @@ A resolution calling for the immediate release of Russian opposition leader Vlad
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -27,6 +27,7 @@ A resolution calling for the immediate release of Russian opposition leader Vlad
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ A resolution calling for the immediate release of Russian opposition leader Vlad
 
 - 2022-05-16 — Introduced in Senate
 - 2022-05-16 — Referred to the Committee on Foreign Relations.
+- 2022-05-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 381.
