@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 615
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 615
@@ -30,3 +30,7 @@ A resolution expressing appreciation for the efforts of the Republic of Poland t
 
 - 2022-05-03 — Introduced in Senate
 - 2022-05-03 — Referred to the Committee on Foreign Relations.
+- 2022-05-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.
