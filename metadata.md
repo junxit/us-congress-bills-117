@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 499
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 499
@@ -16,7 +16,7 @@ A resolution celebrating 100 years of diplomatic relations between the United St
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (18)
+## Cosponsors (20)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -36,6 +36,8 @@ A resolution celebrating 100 years of diplomatic relations between the United St
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Toomey, Patrick [R-PA] (T000461)
 
 ## Committees (1)
 
@@ -45,3 +47,7 @@ A resolution celebrating 100 years of diplomatic relations between the United St
 
 - 2022-01-31 — Introduced in Senate
 - 2022-01-31 — Referred to the Committee on Foreign Relations.
+- 2022-05-18 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.
