@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1215
 congress: 117
-version: Received in Senate
+version: Referred in Senate
 derived: true
 ---
 
