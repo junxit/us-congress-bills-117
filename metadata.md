@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3967
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3967
@@ -221,3 +221,5 @@ Honoring our PACT Act of 2022
 - 2022-03-03 — The previous question was ordered on the amendment (A006) pursuant to the rule.
 - 2022-03-03 — The previous question was ordered on the amendment (A007) pursuant to the rule.
 - 2022-03-03 — The previous question was ordered pursuant to the rule.
+- 2022-05-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-05-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 388.
