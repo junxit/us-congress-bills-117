@@ -48,7 +48,12 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >     - **(C)** identify best practices relating to broadband and emerging information technology that may benefit small business concerns; and
   >     - **(D)** identify and catalog tools and training available through the resource partners of the Administration that assist small business concerns in adopting, making innovations in, and using broadband and emerging information technologies.
   >   - **(3)** *Travel* Not more than 20 percent of the hours of service by the broadband and emerging information technology coordinator during any fiscal year shall consist of travel outside the United States to perform official duties.
-  > - **(c)** *Broadband and emerging information technology training*
+  > - **(c)** *Broadband and emerging information technology training* The Associate Administrator shall provide to employees of the Administration training that—
+  >   - **(1)** familiarizes employees of the Administration with broadband and other emerging information technologies;
+  >   - **(2)** includes—
+  >     - **(A)** instruction on counseling small business concerns regarding adopting, making innovations in, and using broadband and other emerging information technologies; and
+  >     - **(B)** information on programs of the Federal Government that provide assistance to small business concerns relating to broadband and emerging information technologies; and
+  >   - **(3)** to maximum extent practicable, uses the tools and training cataloged and identified under subsection (b)(2)(D).
   >   - **(1)** *Training* The Associate Administrator shall provide to employees of the Administration training that—
   >     - **(A)** familiarizes employees of the Administration with broadband and other emerging information technologies;
   >     - **(B)** includes—

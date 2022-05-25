@@ -1,7 +1,7 @@
 ---
 measure: S. 3906
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3906
@@ -32,3 +32,7 @@ Small Business Broadband and Emerging Information Technology Enhancement Act of 
 
 - 2022-03-23 — Introduced in Senate
 - 2022-03-23 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2022-05-18 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment favorably.
+- 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with amendments. Without written report.
+- 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with amendments. Without written report.
+- 2022-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.
