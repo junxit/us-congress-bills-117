@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1446
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
