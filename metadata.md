@@ -1,7 +1,7 @@
 ---
 measure: S. 3564
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3564
@@ -28,3 +28,7 @@ Veteran Entrepreneurship Training Act of 2022
 
 - 2022-02-02 — Introduced in Senate
 - 2022-02-02 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2022-05-18 — Committee on Small Business and Entrepreneurship. Ordered to be reported with amendments favorably.
+- 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2022-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.
