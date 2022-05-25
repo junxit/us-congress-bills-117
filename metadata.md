@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6833
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6833
@@ -82,3 +82,6 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - 2022-03-31 — Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 3617 and H.R. 6833. The resolutions provides for one hour of general debate on H.R. 3617, under a structured rule. The resolution provides for one hour of general debate on H.R. 6833, under a closed rule. The rule provides that House Resolution 188, agreed to March 8, 2021, is amended by striking April 1, 2022 each place it appears and inserting April 29, 2022.
 - 2022-03-31 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-03-31 — The previous question was ordered pursuant to the rule.
+- 2022-04-04 — Received in the Senate.
+- 2022-05-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-05-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.
