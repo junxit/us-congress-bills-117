@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3807
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3807
@@ -282,3 +282,5 @@ Restaurant Revitalization Fund Replenishment Act of 2021
 - 2022-04-07 — Rule provides for consideration of H.R. 3807 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
 - 2022-04-07 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-04-07 — The previous question was ordered pursuant to the rule.
+- 2022-05-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-05-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.
