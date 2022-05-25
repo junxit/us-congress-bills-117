@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 46
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 46
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (29)
+## Cosponsors (30)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
@@ -47,6 +47,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Tuberville, Tommy [R-AL] (T000278)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -56,3 +57,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2022-04-28 — Introduced in Senate
 - 2022-04-28 — Read twice and referred to the Committee on the Judiciary.
+- 2022-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.
+- 2022-05-25 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-05-25 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
