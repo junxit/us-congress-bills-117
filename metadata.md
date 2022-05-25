@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1446
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1446
@@ -220,3 +220,5 @@ Enhanced Background Checks Act of 2021
 - 2021-03-11 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration of H.R. 1446.
 - 2021-03-11 — Received in the Senate.
 - 2021-03-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the motion to recommit H. R. 1446 which had been debated earlier and on which further proceedings had been postponed.
+- 2022-05-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-05-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 391.
