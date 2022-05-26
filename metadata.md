@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 538
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 538
@@ -33,3 +33,5 @@ A resolution expressing support for a second United States-Africa Leaders Summit
 - 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
+- 2022-05-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2022-05-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
