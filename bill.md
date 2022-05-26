@@ -1,0 +1,28 @@
+---
+legis-num: S. 4325
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4325
+
+> To amend the Federal Credit Union Act to modify the frequency of board of directors meetings, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Credit Union Board Modernization Act”.
+
+## § 2. Frequency of board of directors meetings
+
+Section 113 of the Federal Credit Union Act (12 U.S.C. 1761b) is amended—
+
+- **(1)** in paragraph (15), by striking “monthly” each place the term appears;
+- **(2)** in the matter preceding paragraph (1), by striking “The board of directors shall meet at least once a month and” and inserting the following:
+  > - **(a)** *In general* The board of directors
+
+- **(3)** by adding at the end the following:
+  > - **(b)** *Meetings* The board of directors shall meet as follows:
+  >   - **(1)** Except as provided in paragraphs (2) and (3), not less frequently than 6 times annually, with not fewer than 1 meeting held during each fiscal quarter.
+  >   - **(2)** Not less frequently than monthly during the 5-year period beginning on the date on which the charter is issued.
+  >   - **(3)** Not less frequently than monthly with respect to a Federal credit union with composite rating of 4 or 5 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system).
