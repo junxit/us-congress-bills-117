@@ -1,7 +1,7 @@
 ---
 measure: S. 2322
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2322
@@ -36,3 +36,5 @@ CTPAT Pilot Program Act of 2021
 - 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-99.
 - 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-99.
 - 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.
+- 2022-05-26 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2736-2737; text: CR S2736-2737)
+- 2022-05-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
