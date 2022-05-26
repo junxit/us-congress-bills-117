@@ -1,7 +1,7 @@
 ---
 measure: S. 1941
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1941
@@ -35,3 +35,18 @@ MAPS Act of 2021
 - 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
 - 2022-05-26 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2735-2736; text: CR S2735-2736)
 - 2022-05-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-05-31 — Held at the desk.
+- 2022-05-31 — Message on Senate action sent to the House.
+- 2022-05-31 — Received in the House.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8483-8485)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on S. 1941.
+- 2022-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8483-8484)
+- 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-11-28 — Presented to President.
+- 2022-11-28 — Presented to President.
+- 2022-12-05 — Became Public Law No: 117-219.
+- 2022-12-05 — Became Public Law No: 117-219.
+- 2022-12-05 — Signed by President.
+- 2022-12-05 — Signed by President.
