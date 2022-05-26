@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 615
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 615
@@ -16,11 +16,12 @@ A resolution expressing appreciation for the efforts of the Republic of Poland t
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ A resolution expressing appreciation for the efforts of the Republic of Poland t
 - 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.
+- 2022-05-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2022-05-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
