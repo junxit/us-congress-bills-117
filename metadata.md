@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 390
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 390
@@ -42,3 +42,5 @@ A resolution expressing appreciation for the State of Qatar's efforts to assist 
 - 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-05-24 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
+- 2022-05-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S2737; text: 09/28/2021 CR S6744)
+- 2022-05-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S2737; text: 09/28/2021 CR S6744)
