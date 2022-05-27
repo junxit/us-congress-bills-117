@@ -1,0 +1,43 @@
+---
+measure: H.R. 7903
+congress: 117
+version: Introduced in House
+---
+
+# H.R. 7903
+
+To designate the Department of Veterans Affairs community-based outpatient clinic located in Canton, Michigan, as the "Major General Oliver W. Dillard VA Clinic".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+
+## Cosponsors (13)
+
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. McClain, Lisa C. [R-MI-10] (M001136)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+
+## Committees (1)
+
+- House — Veterans' Affairs Committee
+
+## Actions
+
+- 2022-05-27 — Introduced in House
+- 2022-05-27 — Introduced in House
+- 2022-05-27 — Referred to the House Committee on Veterans' Affairs.
