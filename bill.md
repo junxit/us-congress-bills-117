@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 7896
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7896
+
+> To prohibit investments under the Thrift Savings Plan in certain mutual funds that make investment decisions based primarily on environmental, social, or governance criteria.
+
+## § 1. Short title
+
+This Act may be cited as the “No ESG at TSP Act”.
+
+## § 2. Prohibition on certain mutual funds under the Thrift Savings Plan
+
+- **(a)** *In general* Section 8438(b)(5) of title 5, United States Code, is amended by adding at the end the following new subparagraphs:
+  > - **(E)** The Board may not offer through the mutual fund window any mutual fund, exchange traded fund (as defined in section 270.6c–11 of title 17, Code of Federal Regulations), or other investment vehicle that invests in bonds or equities that is invested based on any one or more of the following criteria to the extent that such criteria are unrelated to maximizing monetary returns for investors:
+  >   - **(i)** Environmental criteria, including—
+  >     - **(I)** emissions, climate change, sustainability, environmental justice, pollution, or conservation; or
+  >     - **(II)** whether a company is engaged in the exploration, production, utilization, transportation, sale, or manufacturing of fossil fuel-based energy.
+  >   - **(ii)** Social criteria, including—
+  >     - **(I)** diversity criteria, including—
+  >       - **(aa)** the race, ethnicity, gender identity, sexual orientation, or socioeconomic status of the owners, board members, employees, or customers of companies; or
+  >       - **(bb)** whether such board members, employees, or customers are members of a labor organization (as such term is defined in section 2 of the National Labor Relations Act (29 U.S.C. 152)); or
+  >     - **(II)** whether a company is engaged in the manufacture, transportation, or sale of firearms, firearms accessories, or ammunition.
+  >   - **(iii)** Political criteria, including the perceived or actual political affiliations, donations, or associations of companies.
+  >   - **(iv)** Criteria for corporate governance standards that differ from the applicable standards required under State and Federal law as in effect on the date of the enactment of this subparagraph.
+  > - **(F)** The Board may not offer through the mutual fund window any mutual fund, exchange traded fund (as defined in section 270.6c–11 of title 17, Code of Federal Regulations), or other investment vehicle that is marketed as being invested based on environmental, social, or governance criteria, commonly known as “ESG criteria”.
+
+- **(b)** *Existing investments in impermissible mutual funds*
+  - **(1)** *In general* An employee or Member (or former employee or Member) may elect to have any covered sums credited to the account of such individual in the Thrift Savings Fund reinvested in accordance with section 8438 of title 5, United States Code, as amended by this Act.
+  - **(2)** *Notice* Not later than 30 days after the date of the enactment of this Act, the Board shall notify each employee or Member (or former employee or Member) that may make an election under paragraph (1) of the option to make such election.
+  - **(3)** *Mandatory reinvestment* Not later than the date that is 30 days after the date on which notice is provided under paragraph (2) to an employee or Member (or former employee or Member), the Board shall reinvest, in accordance with section 8438 of title 5, United States Code, as amended by this Act, any covered sums credited to the account of such individual in the Thrift Savings Fund with respect to which such individual has not made an election under paragraph (1).
+  - **(4)** *Definitions* In this subsection:
+    - **(A)** *Board; employee; Member* The terms Board, employee, and Member have the meanings given such terms in section 8401 of title 5, United States Code.
+    - **(B)** *Covered sums* The term covered sum means any sums of the Thrift Savings Fund that, on the date of the enactment of this Act, are invested in a mutual described in section 8438(b)(5)(E) of title 5, United States Code.
+    - **(C)** *Thrift Savings Fund* The term Thrift Savings Fund means the fund established under section 8437 of title 5, United States Code.
