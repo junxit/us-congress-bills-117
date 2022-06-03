@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2377
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,14 +31,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 5304` | add-at-end | Chapter 44 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 5304` | add-at-end | The table of sections for chapter 44 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 5304` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 5304` | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | in paragraph (8), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| `34 U.S.C. § 40901` | add-at-end | Chapter 44 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40901` | add-at-end | The table of sections for chapter 44 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40901` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 40901` | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 40901` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in paragraph (8)(B)(ii), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (8), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (8)(C)(ii), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the comma at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
