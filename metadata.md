@@ -1,7 +1,7 @@
 ---
 measure: H.R. 785
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 785
@@ -27,3 +27,12 @@ For the relief of Maria Isabel Bueso Barrera, Alberto Bueso Mendoza, and Karla M
 - 2021-02-03 — Introduced in House
 - 2021-02-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-02-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2021-04-23 — Referred to the Subcommittee on Immigration and Citizenship.
+- 2021-09-29 — Committee Consideration and Mark-up Session Held.
+- 2021-09-29 — Ordered to be Reported by Voice Vote.
+- 2021-09-29 — Subcommittee on Immigration and Citizenship Discharged.
+- 2022-06-03 — Committee on the Budget discharged.
+- 2022-06-03 — Committee on the Budget discharged.
+- 2022-06-03 — Placed on the Private Calendar, Calendar No. 5.
+- 2022-06-03 — Reported by the Committee on Judiciary. H. Rept. 117-341, Part I.
+- 2022-06-03 — Reported by the Committee on Judiciary. H. Rept. 117-341, Part I.
