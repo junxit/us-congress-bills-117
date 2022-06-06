@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7910
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-68 amendatory instructions. 9 executed, 59 stated and not applied.
+68 amendatory instructions. 8 executed, 60 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -89,15 +89,6 @@ to guess them.
 
 ### 42 U.S.C. § 2011
 
-> by striking “or (k)” and inserting “(k), or (v)”; and
-
-| | |
-|---|---|
-| Removed | `or (k)` |
-| Inserted | `(k), or (v)` |
-
-### 42 U.S.C. § 2011
-
 > by striking “any firearm or ammunition intended” and inserting “any firearm or ammunition or large capacity ammunition feeding device intended”; and
 
 | | |
@@ -135,8 +126,8 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 5842` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5842` | add-at-end | Section 922 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5842` | strike | by striking “importer's or manufacturer's” each place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 5842` | insert | by inserting “authorized by this chapter or under State law” before “removed”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 5842` | insert | by inserting “(1)” before “Licensed”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 5842` | insert | by inserting “authorized by this chapter or under State law” before “removed” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 5842` | insert | by inserting “(1)(A)” before “Licensed”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 5842` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5842` | insert | in subparagraph (A), in the matter preceding clause (i), by inserting “functional” before “firearm” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 5842` | insert | in subparagraph (B), in the matter preceding clause (i), by inserting “functional” before “firearm”; and | the bill quotes the text inserted but describes where it goes |
@@ -163,13 +154,14 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 5845` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5845` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5845` | insert | in each of subsections (a)(4) and (b)(4), by inserting “bump stock,” before “machinegun”; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 5845` | insert | in subsection (o)(1), by inserting “or bump stock” before the period. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 5845` | insert | in subsection (o)(1) , by inserting “or bump stock” before the period. | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Section 921(a) of title 18, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 2011` | insert | Section 922 of title 18, United States Code, is amended by inserting after subsection (u) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2011` | add-at-end | Section 923(i) of title 18, United States Code, is amended by adding at the end the following: “A large capacity ammunition feeding device manufactured after the date of enactment of this sentence shall be identified by a serial number a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2011` | insert | in the second and third sentences, by inserting “or large capacity ammunition feeding device” after “firearms or ammunition” each place the term appears; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2011` | insert | Section 923(i) of title 18, United States Code, as amended by this Act, is further amended by inserting after subparagraph (A) of paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2011` | insert | by inserting “(v),” after “(k),”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2011` | insert | by inserting “or large capacity ammunition feeding device” after “firearms or ammunition” each place the term appears; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 2011` | insert | in subparagraph (A), by inserting “or large capacity ammunition feeding device” after “firearms or ammunition”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 2011` | insert | in subparagraph (C), by inserting “or large capacity ammunition feeding devices” after “firearms or quantities of ammunition”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 2011` | insert | in paragraph (3)(E), by inserting “922(v),” after “922(n),”. | the bill quotes the text inserted but describes where it goes |
-| — | replace | Section 924(a)(1)(B) of title 18, United States Code, is amended by striking “or (q)” and inserting “(q), or (v)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 924(a)(1)(B) of title 18, United States Code, as amended by this Act, is further amended by inserting “(v),” after “(q),”. | the bill names no machine-readable US Code section |
 | `34 U.S.C. § 10152` | add-at-end | Section 501(a)(1) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10152(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
