@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6087
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Access to Workers’ Compensation for Injured Federal Workers Act”.
+This Act may be cited as the “Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2022”.
 
 ## § 2. Inclusion of physician assistants and nurse practitioners in Federal Employees’ Compensation Act
 
@@ -31,3 +31,7 @@ This Act may be cited as the “Improving Access to Workers’ Compensation for 
     - **(A)** by inserting “or other eligible provider” after “The employee may have a physician”; and
     - **(B)** by inserting “or other eligible provider” after “United States and the physician”.
 - **(c)** *Regulations* Not later than 6 months after the date of enactment of this Act, the Secretary shall finalize rules to carry out the amendments made by this Act.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
