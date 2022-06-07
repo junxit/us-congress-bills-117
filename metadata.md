@@ -1,7 +1,7 @@
 ---
 measure: H.R. 187
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 187
@@ -32,3 +32,8 @@ For the relief of Victoria Galindo Lopez.
 - 2022-02-01 — Placed on the Private Calendar, Calendar No. 1.
 - 2022-02-01 — Reported by the Committee on Judiciary. H. Rept. 117-236.
 - 2022-02-01 — Reported by the Committee on Judiciary. H. Rept. 117-236.
+- 2022-06-07 — Called up from the Private Calendar for consideration.
+- 2022-06-07 — Considered from the Private Calendar. (consideration: CR H5237-5238)
+- 2022-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-07 — On passage Passed without objection. (text: CR H5237-5238)
+- 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
