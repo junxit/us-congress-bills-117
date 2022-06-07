@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7667
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-225 amendatory instructions. 120 executed, 105 stated and not applied.
+236 amendatory instructions. 124 executed, 112 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,7 @@ to guess them.
 
 ### 21 U.S.C. § 379h
 
-> in the matter preceding paragraph (1), by striking “fiscal year 2018” and inserting “fiscal year 2023”.
+> in the matter preceding paragraph (1), by striking “fiscal year 2018” and inserting “fiscal year 2023”;
 
 | | |
 |---|---|
@@ -350,7 +350,7 @@ to guess them.
 
 ### 21 U.S.C. § 379j
 
-> in subparagraph (C), by striking “Washington-Baltimore, DC–MD–VA–WV” and inserting “Washington-Arlington-Alexandria, DC–VA–MD–WV”.
+> in subparagraph (C), by striking “Washington-Baltimore, DC–MD–VA–WV” and inserting “Washington-Arlington-Alexandria, DC–VA–MD–WV”; and
 
 | | |
 |---|---|
@@ -575,7 +575,7 @@ to guess them.
 
 ### 21 U.S.C. § 379j-42
 
-> in the paragraph heading, by striking “2018 through 2022”and inserting “2023 through 2027”; and
+> in the paragraph heading, by striking “2018 through 2022” and inserting “2023 through 2027”; and
 
 | | |
 |---|---|
@@ -816,15 +816,6 @@ to guess them.
 | Removed | `January 15, 2022` |
 | Inserted | `January 15, 2027` |
 
-### 42 U.S.C. § 262
-
-> by striking “(3) The Secretary” and inserting “(3)(A) The Secretary”; and
-
-| | |
-|---|---|
-| Removed | `(3) The Secretary` |
-| Inserted | `(3)(A) The Secretary` |
-
 ### 21 U.S.C. § 355
 
 > in subsection (b)(5)(B)(i)(II), by striking “animal” and inserting “nonclinical tests”;
@@ -854,7 +845,7 @@ to guess them.
 
 ### 42 U.S.C. § 284m
 
-> Section 409I(d)(1) of the Public Health Service Act (42 U.S.C. 284m) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
+> Section 409I(d)(1) of the Public Health Service Act (42 U.S.C. 284m(d)(1)) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
 
 | | |
 |---|---|
@@ -872,7 +863,7 @@ to guess them.
 
 ### 21 U.S.C. § 360j
 
-> Section 305(e) of the Pediatric Medical Device Safety and Improvement Act (Public Law 110–85) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
+> Section 305(e) of the Pediatric Medical Device Safety and Improvement Act of 2007 (Public Law 110–85) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
 
 | | |
 |---|---|
@@ -915,6 +906,24 @@ to guess them.
 | Removed | `2018 through 2022` |
 | Inserted | `2023 through 2027` |
 
+### 21 U.S.C. § 355c
+
+> in paragraph (3)(C), as redesignated by paragraph (1)(A) of this subsection, by striking “investigations described in this paragraph” and inserting “investigations referred to in subparagraph (A)”; and
+
+| | |
+|---|---|
+| Removed | `investigations described in this paragraph` |
+| Inserted | `investigations referred to in subparagraph (A)` |
+
+### 21 U.S.C. § 355c
+
+> in paragraph (3)(D), as redesignated by paragraph (1)(A) of this subsection, by striking “the assessments under paragraph (2)(B)” and inserting “the assessments required under paragraph (1)(A)”.
+
+| | |
+|---|---|
+| Removed | `the assessments under paragraph (2)(B)` |
+| Inserted | `the assessments required under paragraph (1)(A)` |
+
 ### 21 U.S.C. § 374
 
 > Section 704(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 374(a)(1)) is amended by striking “restricted devices” each place it appears and inserting “devices”.
@@ -926,12 +935,12 @@ to guess them.
 
 ### 21 U.S.C. § 374
 
-> by striking “an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug” and inserting “an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device, or that is subject to inspection under paragraph 5(C),”; and
+> by striking “an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug” and inserting “an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device, or that is subject to inspection under paragraph (5)(C),”; and
 
 | | |
 |---|---|
 | Removed | `an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug` |
-| Inserted | `an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device, or that is subject to inspection under paragraph 5(C),` |
+| Inserted | `an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device, or that is subject to inspection under paragraph (5)(C),` |
 
 ### 21 U.S.C. § 374
 
@@ -1043,7 +1052,16 @@ to guess them.
 
 ### 21 U.S.C. § 352
 
-> in paragraph (a), by striking “drug” each place it appears and inserting “drug or device”;
+> by striking “drugs for coverage” and inserting “drugs or devices for coverage”; and
+
+| | |
+|---|---|
+| Removed | `drugs for coverage` |
+| Inserted | `drugs or devices for coverage` |
+
+### 21 U.S.C. § 352
+
+> by striking “drug” each place it appears and inserting “drug or device”, respectively;
 
 | | |
 |---|---|
@@ -1052,21 +1070,39 @@ to guess them.
 
 ### 21 U.S.C. § 352
 
-> in paragraph (a)(2)(B), by striking “under section 505 or under section 351 of the Public Health Service Act for such drug” and inserting “under section 505, 510(k), 513, or 515 of this Act or section 351 of the Public Health Service Act”; and
+> in paragraphs (a)(1) and (a)(2)(B), by striking “under section 505 or under section 351 of the Public Health Service Act” and inserting “under section 505, 510(k), 513(f)(2), or 515 of this Act or section 351 of the Public Health Service Act”;
 
 | | |
 |---|---|
-| Removed | `under section 505 or under section 351 of the Public Health Service Act for such drug` |
-| Inserted | `under section 505, 510(k), 513, or 515 of this Act or section 351 of the Public Health Service Act` |
+| Removed | `under section 505 or under section 351 of the Public Health Service Act` |
+| Inserted | `under section 505, 510(k), 513(f)(2), or 515 of this Act or section 351 of the Public Health Service Act` |
+
+### 21 U.S.C. § 352
+
+> by striking “under section 505 or under section 351(a) of the Public Health Service Act” and inserting “under section 505, 510(k), 513(f)(2), or 515 of this Act or section 351 of the Public Health Service Act”; and
+
+| | |
+|---|---|
+| Removed | `under section 505 or under section 351(a) of the Public Health Service Act` |
+| Inserted | `under section 505, 510(k), 513(f)(2), or 515 of this Act or section 351 of the Public Health Service Act` |
+
+### 21 U.S.C. § 352
+
+> by striking “in section 505(a) or in subsections (a) and (k) of section 351 of the Public Health Service Act” and inserting “in section 505, 510(k), 513(f)(2), or 515 of this Act or section 351 of the Public Health Service Act”; and
+
+| | |
+|---|---|
+| Removed | `in section 505(a) or in subsections (a) and (k) of section 351 of the Public Health Service Act` |
+| Inserted | `in section 505, 510(k), 513(f)(2), or 515 of this Act or section 351 of the Public Health Service Act` |
 
 ### 21 U.S.C. § 360cc
 
-> in subsection (a), in the matter following paragraph (2), by striking “same disease or condition” and inserting “same indication or use for which the Secretary has approved or licensed such drug”;
+> in subsection (a), in the matter following paragraph (2), by striking “same disease or condition” and inserting “same approved indication or use within such rare disease or condition”;
 
 | | |
 |---|---|
 | Removed | `same disease or condition` |
-| Inserted | `same indication or use for which the Secretary has approved or licensed such drug` |
+| Inserted | `same approved indication or use within such rare disease or condition` |
 
 ### 21 U.S.C. § 360cc
 
@@ -1095,14 +1131,14 @@ to guess them.
 | Removed | `same rare disease or condition` |
 | Inserted | `same indication or use` |
 
-### 21 U.S.C. § 360i
+### 21 U.S.C. § 379d-3a
 
-> Section 519(i)(10) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360i(i)(10)) is amended by striking “2022” and inserting “2027”.
+> in subsection (a), by striking “medical products” and inserting “products regulated by the Food and Drug Administration”; and
 
 | | |
 |---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
+| Removed | `medical products` |
+| Inserted | `products regulated by the Food and Drug Administration` |
 
 ## Stated, not applied
 
@@ -1114,7 +1150,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 379g` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379g` | replace | by striking “Such term does not include” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 379g` | replace | by striking “Such term does not include whole blood” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379g` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379g` | add-at-end | Section 735 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379h` | insert | in paragraph (1)(C), by inserting “prior to approval” after “or was withdrawn”; and | the bill quotes the text inserted but describes where it goes |
@@ -1142,9 +1178,10 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 379j` | amend | Section 738(h)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j(h)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-1` | redesignate | in subparagraph (A), by redesignating the second clause (iv) (relating to analysis) as clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360d` | amend | Section 514(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360d(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 739i` | repeal | Effective October 1, 2022, subsections (a) and (b) of section 210 of the Medical Device User Fee Amendments of 2017 (Public Law 115–52) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379i` | repeal | Effective October 1, 2022, subsections (a) and (b) of section 210 of the FDA Reauthorization Act of 2017 (Public Law 115–52) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-42` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-42` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-42` | strike | The heading of paragraph (3) of section 744B(g) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–42(g)) is amended by striking “and prior approval supplement fee”. | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379j-41` | repeal | Effective October 1, 2022, subsections (a) and (b) of section 305 of the FDA Reauthorization Act of 2017 (Public Law 115–52) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-51` | amend | Section 744G(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–51(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-51` | strike | by striking subclause (II) (relating to an allergenic extract product); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1170,16 +1207,15 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 379j-52` | redesignate | by amending paragraph (3) (as so redesignated) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-52` | replace | by striking paragraphs (2) through (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-52` | amend | Section 744H(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–52(h)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | repeal | Effective October 1, 2022, subsections (a) and (b) of section 405 of the FDA Reauthorization Act of 2017 (Public Law 115–52) are repealed. | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 379j-51` | repeal | Effective October 1, 2022, subsections (a) and (b) of section 405 of the FDA Reauthorization Act of 2017 (Public Law 115–52) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | Section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 262` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360j` | add-at-end | Section 520(g) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 351` | add-at-end | Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | Section 505(j)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | replace | Section 505(j)(10)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(10)(A)) is amended by striking clauses (i) through (iv) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | replace | Section 505(j)(10)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(10)(A)) is amended by striking clauses (i) through (iii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | insert | after subsection (y), by inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 201` | insert | Chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 201 et seq.) is amended by inserting after section 566 of such Act (21 U.S.C. 360bbb–5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360bbb-8` | add-at-end | Section 569(a)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–8(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360bbb-8` | add-at-end | Section 569(a)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–8(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355f` | strike | in paragraph (2), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355f` | replace | in paragraph (3), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 355f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1187,10 +1223,14 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 355f` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360n-1` | insert | Section 524A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n–1(a)) is amended by inserting “of this Act or section 351(a) of the Public Health Service Act that requires clinical data (other than bioavailability studies) to… | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 351` | insert | Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by inserting after section 506J (21 U.S.C. 356j) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360ee` | insert | by inserting before the period at the end the following: “, and (4) developing regulatory science pertaining to the chemistry, manufacturing, regulatory approval of, and controls of individualized medical products to treat individuals wi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360ee` | insert | by inserting before the period at the end the following: “, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualized medical products to treat individuals with rare diseases or cond… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c` | add-at-end | Section 505B(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(e)(1)) is amended by adding at the end the following: “The Secretary shall determine whether subparagraph (A) or (B) of subsection (a)(1) shall apply with res… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c` | add-at-end | Section 505B(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 374` | insert | by inserting after “a sufficient description of the records requested” the following: “and a rationale for requesting such records or other information in advance of, or in lieu of, an inspection”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 374` | add-at-end | Section 704(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 374(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 373` | add-at-end | Section 703 of the of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 373) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 373` | add-at-end | Section 703 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 373) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360` | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360` | insert | by inserting after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 374` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1204,11 +1244,13 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 356i` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 356i` | insert | by inserting after the first sentence the following: “The Secretary shall update the list published under section 351(k)(9)(A) of the Public Health Service Act based on information provided under subsections (a), (b), and (c) by identify… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360bbb-8c` | amend | Section 3003 of the 21st Century Cures Act (21 U.S.C. 360bbb–8c note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360bbb-8c` | replace | The table of contents in section 1(b) of the 21st Century Cures Act is amended by striking the item relating to section 3003 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 353` | add-at-end | Section 503 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 356` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 356` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 356b` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 356b` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360c` | add-at-end | Section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 351` | add-at-end | Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.), as amended by section 501, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 331` | add-at-end | Section 301(q) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(q)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 351` | insert | Section 501 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351) is amended by inserting after paragraph (j) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1218,3 +1260,4 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 360f` | insert | in the matter following paragraph (2), by inserting “for any such intended use or uses. A device that is banned for one or more intended uses is not a legally marketed device under section 1006 when intended for such use or uses” after “… | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 360f` | add-at-end | Section 516 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360f) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 807 of the FDA Reauthorization Act of 2017 (Public Law 115–52) is amended, in the matter preceding paragraph (1), by striking “2022” and inserting “2027”. | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 379d-3a` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
