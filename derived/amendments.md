@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7733
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `$100,000,000` |
 | Inserted | `$25,000,000` |
 
+### 12 U.S.C. § 4713a
+
+> in subsection (k), by striking “September 30, 2014” and inserting “the date that is 4 years after the date of enactment of the CDFI Bond Guarantee Program Improvement Act of 2022”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2014` |
+| Inserted | `the date that is 4 years after the date of enactment of the CDFI Bond Guarantee Program Improvement Act of 2022` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -43,4 +52,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 4713a` | strike | in subsection (c)(2), by striking “, multiplied by an amount equal to the outstanding principal balance of issued notes or bonds”; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 4713a` | strike | by striking subsection (k). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
