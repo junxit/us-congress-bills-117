@@ -1,0 +1,32 @@
+---
+measure: H.R. 7952
+congress: 117
+version: Introduced in House
+---
+
+# H.R. 7952
+
+Valley Forge Park Realignment Permit and Promise Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+
+## Cosponsors (2)
+
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+
+## Committees (1)
+
+- House — Natural Resources Committee
+
+## Actions
+
+- 2022-06-07 — Introduced in House
+- 2022-06-07 — Introduced in House
+- 2022-06-07 — Referred to the House Committee on Natural Resources.
