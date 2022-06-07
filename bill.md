@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 166
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,13 +28,37 @@ This Act may be cited as the “Fair Lending for All Act”.
 
 ## § 3. Prohibition on credit discrimination
 
-Subsection (a) of section 701 of the Equal Credit Opportunity Act (15 U.S.C. 1691) is amended to read as follows:
+- **(a)** *In general* Subsection (a) of section 701 of the Equal Credit Opportunity Act (15 U.S.C. 1691) is amended to read as follows:
+  > - **(a)** It shall be unlawful to discriminate against any person, with respect to any aspect of a credit transaction—
+  >   - **(1)** on the basis of race, color, religion, national origin, sex (including sexual orientation and gender identity), marital status, or age (provided the applicant has the capacity to contract);
+  >   - **(2)** on the basis of the person’s zip code, or census tract;
+  >   - **(3)** because all or part of the person's income derives from any public assistance program; or
+  >   - **(4)** because the person has in good faith exercised any right under the Consumer Credit Protection Act.
 
-> - **(a)** It shall be unlawful for any creditor to discriminate against any applicant, with respect to any aspect of a credit transaction—
->   - **(1)** on the basis of race, color, religion, national origin, sex (including sexual orientation and gender identity), marital status, or age (provided the applicant has the capacity to contract);
->   - **(2)** on the basis of the applicant’s zip code, or census tract;
->   - **(3)** because all or part of the applicant's income derives from any public assistance program; or
->   - **(4)** because the applicant has in good faith exercised any right under the Consumer Credit Protection Act.
+- **(b)** *Removal of certain references to creditors and applicants and definition added* The Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) is amended—
+  - **(1)** in section 701(b)—
+    - **(A)** by striking “applicant” each place such term appears and inserting “person”; and
+    - **(B)** in paragraph (2), by striking “applicant’s” each place such term appears and inserting “person’s”;
+  - **(2)** in section 702—
+    - **(A)** by redesignating subsection (g) as subsection (h); and
+    - **(B)** by inserting after subsection (f) the following:
+      > - **(g)** The term “aggrieved person” includes any person who—
+      >   - **(1)** claims to have been injured by a discriminatory credit practice; or
+      >   - **(2)** believes that such person will be injured by a discriminatory credit practice.
+
+  - **(3)** in section 704A—
+    - **(A)** in subsection (b)(1), by striking “applicant” each place such term appears and inserting “aggrieved person”; and
+    - **(B)** in subsection (c), by striking “applicant” and inserting “aggrieved person”;
+  - **(4)** in section 705—
+    - **(A)** by striking “the applicant” each place such term appears and inserting “persons”; and
+    - **(B)** in subsection (a)—
+      - **(i)** by striking “a creditor to take” and inserting “taking”; and
+      - **(ii)** by striking “applicant” and inserting “person”; and
+  - **(5)** in section 706—
+    - **(A)** by striking “creditor” each place such term appears and inserting “person”;
+    - **(B)** by striking “creditor’s” each place such term appears and inserting “person’s”;
+    - **(C)** by striking “creditors” each place such term appears and inserting “persons”; and
+    - **(D)** in subsection (f), by striking “applicant” and inserting “aggrieved person”.
 
 ## § 4. Criminal penalties for violations of the Equal Credit Opportunity Act
 
@@ -66,7 +90,7 @@ Subsection (a) of section 701 of the Equal Credit Opportunity Act (15 U.S.C. 169
 
 ## § 6. Mortgage data collection
 
-- **(a)** *In general* Section 304(b)(4) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(b)(4)) is amended by striking “census tract, income level, racial characteristics, age, and gender” and inserting “the applicant or borrower’s zip code, census tract, income level, race, color, religion, national origin, sex, marital status, sexual orientation, and age”.
+- **(a)** *In general* Section 304(b)(4) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(b)(4)) is amended by striking “census tract, income level, racial characteristics, age, and gender” and inserting “the applicant or borrower’s zip code, census tract, income level, race, color, religion, national origin, sex, marital status, sexual orientation, gender identity, and age”.
 - **(b)** *Protection of privacy interests* Section 304(h)(3)(A) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(h)(3)(A)) is amended—
   - **(1)** in clause (i), by striking “and” at the end;
   - **(2)** by redesignating clause (ii) as clause (iii); and
