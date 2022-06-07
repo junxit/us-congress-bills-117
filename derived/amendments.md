@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3648
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-45 amendatory instructions. 13 executed, 32 stated and not applied.
+46 amendatory instructions. 13 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,12 +62,12 @@ to guess them.
 
 ### 8 U.S.C. § 1182
 
-> in the matter preceding subclause (I), by striking “a condition of paragraph (1)(B), (1)(E), or (1)(F)” and inserting “a condition of paragraph (1)(B), (1)(E), (1)(F), (1)(H), or 1(I)”; and
+> in the matter preceding subclause (I), by striking “a condition of paragraph (1)(B), (1)(E), or (1)(F)” and inserting “a condition of paragraph (1)(B), (1)(E), (1)(F), (1)(H), or (1)(I)”; and
 
 | | |
 |---|---|
 | Removed | `a condition of paragraph (1)(B), (1)(E), or (1)(F)` |
-| Inserted | `a condition of paragraph (1)(B), (1)(E), (1)(F), (1)(H), or 1(I)` |
+| Inserted | `a condition of paragraph (1)(B), (1)(E), (1)(F), (1)(H), or (1)(I)` |
 
 ### 8 U.S.C. § 1182
 
@@ -161,10 +161,11 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1182` | replace | by striking “(i) has provided” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1182` | redesignate | by inserting before clause (ii), as redesignated by paragraph (2), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | insert | Section 212(n)(1)(D) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)(D)) is amended by inserting “the prevailing wage determination methodology used under subparagraph (A)(i)(II),” after “shall contain”. | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1182` | insert | Section 212(n)(1) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)) is amended by inserting after subparagraph (G)(ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | Section 212(n)(1) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)) is amended by inserting after subparagraph (G) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | insert | Section 212(n)(1) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)), as amended by subsection (b), is further amended by inserting after subparagraph (I), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | add-at-end | Section 212(n) of the Immigration and Nationality Act (8 U.S.C. 1182(n)), as amended by section 3(a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1184` | add-at-end | Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | add-at-end | Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)), as amended by subsection (e), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | replace | Section 212(n)(2)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)(C)) is amended by striking clause (iv) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | amend | Section 212(n)(2)(H) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)(H)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | insert | in the fourth sentence, by inserting “, and through the internet website of the Department of Labor, without charge.” after “Washington, D.C.”; | the bill quotes the text inserted but describes where it goes |

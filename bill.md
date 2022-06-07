@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3648
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Equal Access to Green cards for Legal Employment Act of 2021” or the “EAGLE Act of 2021”.
+This Act may be cited as the “Equal Access to Green cards for Legal Employment Act of 2022” or the “EAGLE Act of 2022”.
 
 ## § 2. Numerical limitation to any single foreign state
 
@@ -29,24 +29,24 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
   - **(1)** in subsection (a), by striking “(as defined in subsection (e))”;
   - **(2)** by striking subsection (d); and
   - **(3)** by redesignating subsection (e) as subsection (d).
-- **(d)** *Effective date* The amendments made by this section shall take effect on the first day of the second fiscal year beginning after the date of the enactment of this Act, and shall apply to that fiscal year and each subsequent fiscal year.
-- **(e)** *Transition rules for employment-Based immigrants* Notwithstanding title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.), the following transition rules shall apply to employment-based immigrants, beginning on the effective date referred to in subsection (d):
+- **(d)** *Application* The amendments made by this section shall apply beginning on the date that is the first day of the second fiscal year beginning after the date of the enactment of this Act.
+- **(e)** *Transition rules for employment-Based immigrants* Notwithstanding title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.), the following transition rules shall apply to employment-based immigrants, beginning on the date referred to in subsection (d):
   - **(1)** *Reserved visas for lower admission states*
-    - **(A)** *In general* For the first nine fiscal years after the effective date referred to in subsection (d), immigrant visas under each of paragraphs (2) and (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) shall be reserved and allocated to immigrants who are natives of a foreign state or dependent area that is not one of the two foreign states or dependent areas with the highest demand for immigrant visas as follows:
-      - **(i)** For the first fiscal year after such effective date, 30 percent of such visas.
-      - **(ii)** For the second fiscal year after such effective date, 25 percent of such visas.
-      - **(iii)** For the third fiscal year after such effective date, 20 percent of such visas.
-      - **(iv)** For the fourth fiscal year after such effective date, 15 percent of such visas.
-      - **(v)** For the fifth and sixth fiscal years after such effective date, 10 percent of such visas.
-      - **(vi)** For the seventh, eighth, and ninth fiscal years after such effective date, 5 percent of such visas.
-    - **(B)** *Additional reserved visas for new arrivals* For each of the first nine fiscal years after the effective date referred to in subsection (d), an additional 5.75 percent of the immigrant visas made available under each of paragraphs (2) and (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) shall be allocated to immigrants who are natives of a foreign state or dependent area that is not one of the two foreign states or dependent areas with the highest demand for immigrant visas. Such additional visas shall be allocated in the following order of priority:
+    - **(A)** *In general* For the first nine fiscal years after the date referred to in subsection (d), immigrant visas under each of paragraphs (2) and (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) shall be reserved and allocated to immigrants who are natives of a foreign state or dependent area that is not one of the two foreign states or dependent areas with the highest demand for immigrant visas as follows:
+      - **(i)** For the first fiscal year after such date, 30 percent of such visas.
+      - **(ii)** For the second fiscal year after such date, 25 percent of such visas.
+      - **(iii)** For the third fiscal year after such date, 20 percent of such visas.
+      - **(iv)** For the fourth fiscal year after such date, 15 percent of such visas.
+      - **(v)** For the fifth and sixth fiscal years after such date, 10 percent of such visas.
+      - **(vi)** For the seventh, eighth, and ninth fiscal years after such date, 5 percent of such visas.
+    - **(B)** *Additional reserved visas for new arrivals* For each of the first nine fiscal years after the date referred to in subsection (d), an additional 5.75 percent of the immigrant visas made available under each of paragraphs (2) and (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) shall be allocated to immigrants who are natives of a foreign state or dependent area that is not one of the two foreign states or dependent areas with the highest demand for immigrant visas. Such additional visas shall be allocated in the following order of priority:
       - **(i)** *Family members accompanying or following to join* Visas reserved under this subparagraph shall be allocated to family members described in section 203(d) of the Immigration and Nationality Act (8 U.S.C. 1153(d)) who are accompanying or following to join a principal beneficiary who is in the United States and has been granted an immigrant visa or adjustment of status to lawful permanent residence under paragraph (2) or (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)).
       - **(ii)** *New principal arrivals* If at the end of the second quarter of any fiscal year, the total number of visas reserved under this subparagraph exceeds the number of qualified immigrants described in clause (i), such visas may also be allocated, for the remainder of the fiscal year, to individuals (and their family members described in section 203(d) of the Immigration and Nationality Act (8 U.S.C. 1153(d))) who are seeking an immigrant visa under paragraph (2) or (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) to enter the United States as new immigrants, and who have not resided or worked in the United States at any point in the four-year period immediately preceding the filing of the immigrant visa petition.
       - **(iii)** *Other new arrivals* If at the end of the third quarter of any fiscal year, the total number of visas reserved under this subparagraph exceeds the number of qualified immigrants described in clauses (i) and (ii), such visas may be also be allocated, for the remainder of the fiscal year, to other individuals (and their family members described in section 203(d) of the Immigration and Nationality Act (8 U.S.C. 1153(d))) who are seeking an immigrant visa under paragraph (2) or (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)).
   - **(2)** *Reserved visas for shortage occupations*
-    - **(A)** *In general* For each of the first seven fiscal years after the effective date referred to in subsection (d), not fewer than 4,400 of the immigrant visas made available under section 203(b)(3) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(3)), and not reserved under paragraph (1), shall be allocated to immigrants who are seeking admission to the United States to work in an occupation described in section 656.5(a) of title 20, Code of Federal Regulations (or any successor regulation).
+    - **(A)** *In general* For each of the first seven fiscal years after the date referred to in subsection (d), not fewer than 4,400 of the immigrant visas made available under section 203(b)(3) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(3)), and not reserved under paragraph (1), shall be allocated to immigrants who are seeking admission to the United States to work in an occupation described in section 656.5(a) of title 20, Code of Federal Regulations (or any successor regulation).
     - **(B)** *Family members* Family members who are accompanying or following to join a principal beneficiary described in subparagraph (A) shall be entitled to a visa in the same status and in the same order of consideration as such principal beneficiary, but such visa shall not be counted against the 4,400 immigrant visas reserved under such subparagraph.
-  - **(3)** *Per-country levels* For each of the first nine fiscal years after the effective date referred to in subsection (d)—
+  - **(3)** *Per-country levels* For each of the first nine fiscal years after the date referred to in subsection (d)—
     - **(A)** not more than 25 percent (in the case of a single foreign state) or 2 percent (in the case of a dependent area) of the total number of visas reserved under paragraph (1) shall be allocated to immigrants who are natives of any single foreign state or dependent area; and
     - **(B)** not more than 85 percent of the immigrant visas made available under each of paragraphs (2) and (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) and not reserved under paragraph (1), may be allocated to immigrants who are native to any single foreign state or dependent area.
   - **(4)** *Special rule to prevent unused visas* If, at the end of the third quarter of any fiscal year, the Secretary of State determines that the application of paragraphs (1) through (3) would result in visas made available under paragraph (2) or (3) of section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) going unused in that fiscal year, such visas may be allocated during the remainder of such fiscal year without regard to paragraphs (1) through (3).
@@ -57,12 +57,12 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
 
 - **(a)** *Department of labor website* Section 212(n) of the Immigration and Nationality Act (8 U.S.C. 1182(n)) is amended by adding at the end the following:
   > - **(6)** For purposes of complying with paragraph (1)(C):
-  >   - **(A)** Not later than 180 days after the date of the enactment of the Equal Access to Green cards for Legal Employment Act of 2021, the Secretary of Labor shall establish a searchable internet website for posting positions in accordance with paragraph (1)(C) that is available to the public without charge, except that the Secretary may delay the launch of such website for a single period identified by the Secretary by notice in the Federal Register that shall not exceed 30 days.
+  >   - **(A)** Not later than 180 days after the date of the enactment of the Equal Access to Green cards for Legal Employment Act of 2022, the Secretary of Labor shall establish a searchable internet website for posting positions in accordance with paragraph (1)(C) that is available to the public without charge, except that the Secretary may delay the launch of such website for a single period identified by the Secretary by notice in the Federal Register that shall not exceed 30 days.
   >   - **(B)** The Secretary may work with private companies or nonprofit organizations to develop and operate the internet website described in subparagraph (A).
   >   - **(C)** The Secretary shall promulgate rules, after notice and a period for comment, to carry out this paragraph.
 
 - **(b)** *Publication requirement* The Secretary of Labor shall submit to Congress, and publish in the Federal Register and in other appropriate media, a notice of the date on which the internet website required under section 212(n)(6) of the Immigration and Nationality Act, as established by subsection (a), will be operational.
-- **(c)** *Application* The amendment made by subsection (a) shall apply to any application filed on or after the date that is 90 days after the date described in subsection (b).
+- **(c)** *Application* The amendment made by subsection (a) shall apply beginning on the date that is 90 days after the date described in subsection (b).
 - **(d)** *Internet posting requirement* Section 212(n)(1)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)(C)) is amended—
   - **(1)** by redesignating clause (ii) as subclause (II);
   - **(2)** by striking “(i) has provided” and inserting the following:
@@ -71,16 +71,16 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
 
   - **(3)** by inserting before clause (ii), as redesignated by paragraph (2), the following:
     > - **(i)** except in the case of an employer filing a petition on behalf of an H–1B nonimmigrant who has already been counted against the numerical limitations and is not eligible for a full 6-year period, as described in section 214(g)(7), or on behalf of an H–1B nonimmigrant authorized to accept employment under section 214(n), has posted on the internet website described in paragraph (6), for at least 30 calendar days, a description of each position for which a nonimmigrant is sought, that includes—
-    >   - **(I)** the occupational classification, and if different the employer’s job title for the position, in which the nonimmigrant(s) will be employed;
+    >   - **(I)** the occupational classification, and if different the employer’s job title for the position, in which each nonimmigrant will be employed;
     >   - **(II)** the education, training, or experience qualifications for the position;
     >   - **(III)** the salary or wage range and employee benefits offered;
-    >   - **(IV)** the location(s) at which the nonimmigrant(s) will be employed; and
+    >   - **(IV)** each location at which a nonimmigrant will be employed; and
     >   - **(V)** the process for applying for a position; and
 
 ## § 4. H–1b employer petition requirements
 
 - **(a)** *Wage determination information* Section 212(n)(1)(D) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)(D)) is amended by inserting “the prevailing wage determination methodology used under subparagraph (A)(i)(II),” after “shall contain”.
-- **(b)** *New application requirements* Section 212(n)(1) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)) is amended by inserting after subparagraph (G)(ii) the following:
+- **(b)** *New application requirements* Section 212(n)(1) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)) is amended by inserting after subparagraph (G) the following new subparagraph:
   > - **(H)**
   >   - **(i)** The employer, or a person or entity acting on the employer’s behalf, has not advertised any available position specified in the application in an advertisement that states or indicates that—
   >     - **(I)** such position is only available to an individual who is or will be an H–1B nonimmigrant; or
@@ -95,7 +95,7 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
     >   - **(ii)** Any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of the Internal Revenue Code of 1986 shall be treated as a single employer for purposes of clause (i).
 
   - **(2)** *Rule of construction* Nothing in subparagraph (J) of section 212(n)(1) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(1)), as added by paragraph (1), may be construed to prohibit renewal applications or change of employer applications for H–1B nonimmigrants employed by an employer on the date of the enactment of this Act.
-  - **(3)** *Effective date* The amendment made by this subsection shall take effect on the date that is 180 days after the date of the enactment of this Act.
+  - **(3)** *Application* The amendment made by this subsection shall apply with respect to an employer commencing on the date that is 180 days after the date of the enactment of this Act.
 - **(d)** *Labor condition application fee* Section 212(n) of the Immigration and Nationality Act (8 U.S.C. 1182(n)), as amended by section 3(a), is further amended by adding at the end the following:
   > - **(7)**
   >   - **(A)** The Secretary of Labor shall promulgate a regulation that requires applicants under this subsection to pay an administrative fee to cover the average paperwork processing costs and other administrative costs.
@@ -108,6 +108,9 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
   >   - **(A)** Unless otherwise authorized by law, an alien normally classifiable under section 101(a)(15)(H)(i) who seeks admission to the United States to provide services in a specialty occupation described in paragraph (1) or (3) of subsection (i) may not be issued a visa or admitted under section 101(a)(15)(B) for such purpose.
   >   - **(B)** Nothing in this paragraph may be construed to authorize the admission of an alien under section 101(a)(15)(B) who is coming to the United States for the purpose of performing skilled or unskilled labor if such admission is not otherwise authorized by law.
 
+- **(f)** *Ending media abuse of H–1B* Section 214(g) of the Immigration and Nationality Act (8 U.S.C. 1184(g)), as amended by subsection (e), is further amended by adding at the end the following:
+  > - **(13)** An alien normally classifiable under section 101(a)(15)(I) who seeks admission to the United States solely as a representative of the foreign press, radio, film, or other foreign information media, may not be issued a visa or admitted under section 101(a)(15)(H)(i) to engage in such vocation.
+
 ## § 5. Investigation and disposition of complaints against h–1b employers
 
 - **(a)** *Investigation, working conditions, and penalties* Section 212(n)(2)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)(C)) is amended by striking clause (iv) and inserting the following:
@@ -117,9 +120,9 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
   >     - **(bb)** cooperated or sought to cooperate with the requirements under this subsection or any rule or regulation pertaining to this subsection.
   >   - **(II)** An employer that violates this clause shall be liable to the employee harmed by such violation for lost wages and benefits.
   >   - **(III)** In this clause, the term employee includes—
-  >     - **(aa)** a current employee;
-  >     - **(bb)** a former employee; and
-  >     - **(cc)** an applicant for employment.
+  >   - **(aa)** a current employee;
+  >   - **(bb)** a former employee; and
+  >   - **(cc)** an applicant for employment.
 
 - **(b)** *Information sharing* Section 212(n)(2)(H) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)(H)) is amended to read as follows:
   > - **(H)**
@@ -157,7 +160,7 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
 
 - **(d)** *Penalties for violations* Section 212(n)(2)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(n)(2)(C)) is amended—
   - **(1)** in clause (i)—
-    - **(A)** in the matter preceding subclause (I), by striking “a condition of paragraph (1)(B), (1)(E), or (1)(F)” and inserting “a condition of paragraph (1)(B), (1)(E), (1)(F), (1)(H), or 1(I)”; and
+    - **(A)** in the matter preceding subclause (I), by striking “a condition of paragraph (1)(B), (1)(E), or (1)(F)” and inserting “a condition of paragraph (1)(B), (1)(E), (1)(F), (1)(H), or (1)(I)”; and
     - **(B)** in subclause (I), by striking “$1,000” and inserting “$3,000”;
   - **(2)** in clause (ii)(I), by striking “$5,000” and inserting “$15,000”;
   - **(3)** in clause (iii)(I), by striking “$35,000” and inserting “$100,000”; and
@@ -185,7 +188,7 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
 ## § 7. Adjustment of status for employment-based immigrants
 
 - **(a)** *Adjustment of status for employment-Based immigrants* Section 245 of the Immigration and Nationality Act (8 U.S.C. 1255) is amended by adding at the end the following:
-  > - **(n)** *Adjustment of status for employment-Based immigrants*
+  > - **(o)** *Adjustment of status for employment-Based immigrants*
   >   - **(1)** *In general* Notwithstanding subsection (a)(3), an alien (including the alien’s spouse or child, if eligible to receive a visa under section 203(d)), may file an application for adjustment of status if—
   >     - **(A)** the alien—
   >       - **(i)** is present in the United States pursuant to a lawful admission as a nonimmigrant, other than a nonimmigrant described in subparagraph (B), (C), (D), or (S) of section 101(a)(15), section 212(l), or section 217; and
@@ -205,7 +208,7 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
   >       - **(i)** a signed letter from the principal alien’s current or prospective employer attesting that the terms and conditions of the alien’s employment are commensurate with the terms and conditions of employment for similarly situated United States workers in the area of employment; and
   >       - **(ii)** other information deemed necessary by the Secretary of Homeland Security to verify compliance with subparagraph (A).
   >     - **(C)** *Application for employment authorization*
-  >       - **(i)** *In general* An application for employment authorization filed by a principal applicant for adjustment of status under this subsection shall be accompanied by a Confirmation of Bona Fide Job Offer or Portability (Form I–485 Supplement J, or any successor form) attesting that—
+  >       - **(i)** *In general* An application for employment authorization filed by a principal applicant for adjustment of status under this subsection shall be accompanied by a Confirmation of Bona Fide Job Offer or Portability (or any form associated with section 204(j)) attesting that—
   >         - **(I)** the job offered in the immigrant visa petition remains a bona fide job offer that the alien intends to accept upon approval of the adjustment of status application; or
   >         - **(II)** the alien has accepted a new full-time job in the same or a similar occupational classification as the job described in the approved immigrant visa petition.
   >       - **(ii)** *Validity* An employment authorization document issued to a principal alien who has filed an application for adjustment of status under this subsection shall be valid for three years.
@@ -213,22 +216,22 @@ This Act may be cited as the “Equal Access to Green cards for Legal Employment
   >   - **(5)** *Decision*
   >     - **(A)** *In general* An adjustment of status application filed under paragraph (1) may not be approved—
   >       - **(i)** until the date on which an immigrant visa becomes available; and
-  >       - **(ii)** if the principal alien has not, within the preceding 12 months, filed a Confirmation of Bona Fide Job Offer or Portability (Form I–485 Supplement J, or any successor form).
-  >     - **(B)** *Request for evidence* If at the time an immigrant visa becomes available, a Confirmation of Bona Fide Job Offer or Portability (Form I–485 Supplement J, or any successor form) has not been filed by the principal alien within the preceding 12 months, the Secretary of Homeland Security shall notify the alien and provide instructions for submitting such form.
-  >     - **(C)** *Notice of intent to deny* If the most recent Confirmation of Bona Fide Job Offer or Portability (Form I–485 Supplement J, or any successor form) or any prior form indicates a lack of compliance with paragraph (4)(A), the Secretary of Homeland Security shall issue a notice of intent to deny the application for adjustment of status and provide the alien the opportunity to submit evidence of compliance.
+  >       - **(ii)** if the principal alien has not, within the preceding 12 months, filed a Confirmation of Bona Fide Job Offer or Portability (or any form associated with section 204(j)).
+  >     - **(B)** *Request for evidence* If at the time an immigrant visa becomes available, a Confirmation of Bona Fide Job Offer or Portability (or any form associated with section 204(j)) has not been filed by the principal alien within the preceding 12 months, the Secretary of Homeland Security shall notify the alien and provide instructions for submitting such form.
+  >     - **(C)** *Notice of intent to deny* If the most recent Confirmation of Bona Fide Job Offer or Portability (or any form associated with section 204(j)) or any prior form indicates a lack of compliance with paragraph (4)(A), the Secretary of Homeland Security shall issue a notice of intent to deny the application for adjustment of status and provide the alien the opportunity to submit evidence of compliance.
   >     - **(D)** *Denial* An application for adjustment of status under this subsection may be denied if the alien fails to—
-  >       - **(i)** timely file a Confirmation of Bona Fide Job Offer or Portability (Form I–485 Supplement J, or any successor form) in response to a request for evidence issued under subparagraph (B); or
+  >       - **(i)** timely file a Confirmation of Bona Fide Job Offer or Portability (or any form associated with section 204(j)) in response to a request for evidence issued under subparagraph (B); or
   >       - **(ii)** establish, by a preponderance of the evidence, compliance with paragraph (4)(A).
   >   - **(6)** *Fees*
-  >     - **(A)** *In general* Notwithstanding any other provision of law, the Secretary of Homeland Security shall charge and collect a fee in the amount of $2,000 to process each Confirmation of Bona Fide Job Offer or Portability (Form I–485 Supplement J, or any successor form) filed under this subsection.
+  >     - **(A)** *In general* Notwithstanding any other provision of law, the Secretary of Homeland Security shall charge and collect a fee in the amount of $2,000 to process each Confirmation of Bona Fide Job Offer or Portability (or any form associated with section 204(j)) filed under this subsection.
   >     - **(B)** *Deposit and use of fees* Fees collected under subparagraph (A) shall be deposited and used as follows:
   >       - **(i)** Fifty percent of such fees shall be deposited in the Immigration Examinations Fee Account established under section 286(m).
   >       - **(ii)** Fifty percent of such fees shall be deposited in the Treasury of the United States as miscellaneous receipts.
-  >   - **(7)** *Effective date*
+  >   - **(7)** *Application*
   >     - **(A)** The provisions of this subsection—
-  >       - **(i)** shall take effect one year after the date of the enactment of the Equal Access to Green cards for Legal Employment Act of 2021; and
-  >       - **(ii)** except as provided in subparagraph (B), shall cease to have effect as of the date that is nine years after the date of the enactment of such Act.
-  >     - **(B)** This subsection shall continue in effect with respect to any alien who has filed an application for adjustment of status under this subsection any time prior to the date on which this subsection otherwise ceases to have effect.
+  >       - **(i)** shall apply beginning on the date that is one year after the date of the enactment of the Equal Access to Green cards for Legal Employment Act of 2022; and
+  >       - **(ii)** except as provided in subparagraph (B), shall cease to apply as of the date that is nine years after the date of the enactment of such Act.
+  >     - **(B)** This subsection shall continue to apply with respect to any alien who has filed an application for adjustment of status under this subsection any time prior to the date on which this subsection otherwise ceases to apply.
   >   - **(8)** *Clarifications* For purposes of this subsection:
   >     - **(A)** The term similarly situated United States workers includes United States workers performing similar duties, subject to similar supervision, and with similar educational backgrounds, industry expertise, employment experience, levels of responsibility, and skill sets as the alien in the same geographic area of employment as the alien.
   >     - **(B)** The duties, hours, and compensation of the alien are “commensurate” with those offered to United States workers in the same area of employment if the employer can demonstrate that the duties, hours, and compensation are consistent with the range of such terms and conditions the employer has offered or would offer to similarly situated United States employees.
