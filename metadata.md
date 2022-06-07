@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4330
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4330
@@ -16,10 +16,15 @@ PRESS Act
 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Cosponsors (2)
+## Cosponsors (7)
 
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
 
 ## Committees (1)
 
@@ -30,3 +35,8 @@ PRESS Act
 - 2021-07-01 — Introduced in House
 - 2021-07-01 — Introduced in House
 - 2021-07-01 — Referred to the House Committee on the Judiciary.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-06-07 — Placed on the Union Calendar, Calendar No. 268.
+- 2022-06-07 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-354.
+- 2022-06-07 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-354.

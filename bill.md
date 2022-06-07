@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4330
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,38 +17,38 @@ This Act may be cited as the “Protect Reporters from Exploitative State Spying
 
 In this Act:
 
-- **(1)** *Covered journalist* The term “covered journalist” means a person who gathers, prepares, collects, photographs, records, writes, edits, reports, or publishes news or information that concerns local, national, or international events or other matters of public interest for dissemination to the public.
+- **(1)** *Covered journalist* The term covered journalist means a person who regularly gathers, prepares, collects, photographs, records, writes, edits, reports, investigates, or publishes news or information that concerns local, national, or international events or other matters of public interest for dissemination to the public.
 - **(2)** *Covered service provider*
-  - **(A)** *In general* The term “covered service provider” means any person that, by an electronic means, stores, processes, or transmits information in order to provide a service to customers of the person.
-  - **(B)** *Inclusions* The term “covered service provider” includes—
+  - **(A)** *In general* The term covered service provider means any person that, by an electronic means, stores, processes, or transmits information in order to provide a service to customers of the person.
+  - **(B)** *Inclusions* The term covered service provider includes—
     - **(i)** a telecommunications carrier and a provider of an information service (as such terms are defined in section 3 of the Communications Act of 1934 (47 U.S.C. 153));
     - **(ii)** a provider of an interactive computer service and an information content provider (as such terms are defined in section 230 of the Communications Act of 1934 (47 U.S.C. 230));
     - **(iii)** a provider of remote computing service (as defined in section 2711 of title 18, United States Code); and
     - **(iv)** a provider of electronic communication service (as defined in section 2510 of title 18, United States Code) to the public.
-- **(3)** *Document* The term “document” means writings, recordings, and photographs, as those terms are defined by Federal Rule of Evidence 1001 (28 U.S.C. App.).
-- **(4)** *Federal entity* The term “Federal entity” means an entity or employee of the judicial or executive branch or an administrative agency of the Federal Government with the power to issue a subpoena or issue other compulsory process.
-- **(5)** *Journalism* The term “journalism” means gathering, preparing, collecting, photographing, recording, writing, editing, reporting, or publishing news or information that concerns local, national, or international events or other matters of public interest for dissemination to the public.
-- **(6)** *Personal account of a covered journalist* The term “personal account of a covered journalist” means an account with a covered service provider used by a covered journalist that is not provided, administered, or operated by the employer of the covered journalist.
-- **(7)** *Personal technology device of a covered journalist* The term “personal technology device of a covered journalist” means a handheld communications device, laptop computer, desktop computer, or other internet-connected device used by a covered journalist that is not provided or administered by the employer of the covered journalist.
-- **(8)** *Protected information* The term “protected information” means any information identifying a source who provided information as part of engaging in journalism, and any records, contents of a communication, documents, or information that a covered journalist obtained or created as part of engaging in journalism.
+- **(3)** *Document* The term document means writings, recordings, and photographs, as those terms are defined by Federal Rule of Evidence 1001 (28 U.S.C. App.).
+- **(4)** *Federal entity* The term Federal entity means an entity or employee of the judicial or executive branch or an administrative agency of the Federal Government with the power to issue a subpoena or issue other compulsory process.
+- **(5)** *Journalism* The term journalism means gathering, preparing, collecting, photographing, recording, writing, editing, reporting, investigating, or publishing news or information that concerns local, national, or international events or other matters of public interest for dissemination to the public.
+- **(6)** *Personal account of a covered journalist* The term personal account of a covered journalist means an account with a covered service provider used by a covered journalist that is not provided, administered, or operated by the employer of the covered journalist.
+- **(7)** *Personal technology device of a covered journalist* The term personal technology device of a covered journalist means a handheld communications device, laptop computer, desktop computer, or other internet-connected device used by a covered journalist that is not provided or administered by the employer of the covered journalist.
+- **(8)** *Protected information* The term protected information means any information identifying a source who provided information as part of engaging in journalism, and any records, contents of a communication, documents, or information that a covered journalist obtained or created as part of engaging in journalism.
 
 ## § 3. Limits on compelled disclosure from covered journalists
 
 In any matter arising under Federal law, a Federal entity may not compel a covered journalist to disclose protected information, unless a court in the judicial district in which the subpoena or other compulsory process is, or will be, issued determines by a preponderance of the evidence, after providing notice and an opportunity to be heard to the covered journalist that—
 
 - **(1)** disclosure of the protected information is necessary to prevent, or to identify any perpetrator of, an act of terrorism against the United States; or
-- **(2)** disclosure of the protected information is necessary to prevent a threat of imminent violence, significant bodily harm, or death.
+- **(2)** disclosure of the protected information is necessary to prevent a threat of imminent violence, significant bodily harm, or death, including specified offenses against a minor (as defined by section 111(7) of the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20911(7))).
 
 ## § 4. Limits on compelled disclosure from covered service providers
 
-- **(a)** *Conditions for compelled disclosure* In any matter arising under Federal law, a Federal entity may not compel a covered service provider to provide testimony or any document consisting of any record, information, or other communication that relates to a business transaction between the covered service provider and a covered journalist, including testimony or any document relating to a personal account of a covered journalist or a personal technology device of a covered journalist, unless a court in the judicial district in which the subpoena or other compulsory process is, or will be, issued determines by a preponderance of the evidence that there is a reasonable threat of imminent violence unless the testimony or document is provided, and issues an order authorizing the Federal entity to compel the disclosure of the testimony or document.
+- **(a)** *Conditions for compelled disclosure* In any matter arising under Federal law, a Federal entity may not compel a covered service provider to provide testimony or any document consisting of any record, information, or other communications stored by a covered provider on behalf of a covered journalist, including testimony or any document relating to a personal account of a covered journalist or a personal technology device of a covered journalist, unless a court in the judicial district in which the subpoena or other compulsory process is, or will be, issued determines by a preponderance of the evidence that there is a reasonable threat of imminent violence unless the testimony or document is provided, and issues an order authorizing the Federal entity to compel the disclosure of the testimony or document.
 - **(b)** *Notice to court* A Federal entity seeking to compel the provision of testimony or any document described in subsection (a) shall inform the court that the testimony or document relates to a covered journalist.
-- **(c)** *Notice to covered journalist and opportunity To be heard*
-  - **(1)** *In general* A court may authorize a Federal entity to compel the provision of testimony or a document under this section only after the Federal entity seeking the testimony or document provides the covered journalist who is a party to the business transaction described in subsection (a)—
+- **(c)** *Notice to covered journalist and opportunity to be heard*
+  - **(1)** *In general* A court may authorize a Federal entity to compel the provision of testimony or a document under this section only after the Federal entity seeking the testimony or document provides the covered journalist on behalf of whom the testimony or document is stored pursuant to subsection (a)—
     - **(A)** notice of the subpoena or other compulsory request for such testimony or document from the covered service provider not later than the time at which such subpoena or request is issued to the covered service provider; and
     - **(B)** an opportunity to be heard before the court before the time at which the provision of the testimony or document is compelled.
   - **(2)** *Exception to notice requirement*
-    - **(A)** *In general* Notice and an opportunity to be heard under paragraph (1) may be delayed for not more than 45 days if the court involved determines there is clear and convincing evidence that such notice would pose a clear and substantial threat to the integrity of a criminal investigation, or would present an imminent risk of death or serious bodily harm.
+    - **(A)** *In general* Notice and an opportunity to be heard under paragraph (1) may be delayed for not more than 45 days if the court involved determines there is clear and convincing evidence that such notice would pose a clear and substantial threat to the integrity of a criminal investigation, or would present an imminent risk of death or serious bodily harm, including specified offenses against a minor (as defined by section 111(7) of the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20911(7))).
     - **(B)** *Extensions* The 45-day period described in subparagraph (A) may be extended by the court for additional periods of not more than 45 days if the court involved makes a new and independent determination that there is clear and convincing evidence that providing notice to the covered journalist would pose a clear and substantial threat to the integrity of a criminal investigation, or would present an imminent risk of death or serious bodily harm under current circumstances.
 
 ## § 5. Limitation on content of information
