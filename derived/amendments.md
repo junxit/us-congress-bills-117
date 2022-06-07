@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7776
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-134 amendatory instructions. 57 executed, 77 stated and not applied.
+142 amendatory instructions. 58 executed, 84 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 33 U.S.C. § 701n
 
-> Section 5(a)(1) of the Act of August 18, 1941 (33 U.S.C. 701n(a)(1)), is amended by striking “in the repair and restoration of any federally authorized hurricane or shore protective structure” and all that follows through “non-Federal sponsor.” and inserting “in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea-level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor.”.
+> Section 5(a)(1) of the Act of August 18, 1941 (33 U.S.C. 701n(a)(1)) is amended by striking “in the repair and restoration of any federally authorized hurricane or shore protective structure” and all that follows through “non-Federal sponsor.” and inserting “in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor.”.
 
 | | |
 |---|---|
 | Removed | `in the repair and restoration of any federally authorized hurricane or shore protective structure” and all that follows through “non-Federal sponsor.` |
-| Inserted | `in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea-level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor.` |
+| Inserted | `in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor.` |
 
 ### 33 U.S.C. § 2332
 
@@ -141,6 +141,15 @@ to guess them.
 | Removed | `2024` |
 | Inserted | `2026` |
 
+### 33 U.S.C. § 2345
+
+> in paragraph (1), by striking “Water Resources Development Act of 2016” and inserting “Water Resources Development Act of 2022”; and
+
+| | |
+|---|---|
+| Removed | `Water Resources Development Act of 2016` |
+| Inserted | `Water Resources Development Act of 2022` |
+
 ### 33 U.S.C. § 2213a
 
 > Section 152(a) of the Water Resources Development Act of 2020 (33 U.S.C. 2213a(a)) is amended by striking “a flood risk management project that incidentally generates seismic safety benefits in regions” and inserting “a flood risk management or coastal storm risk management project in a region”.
@@ -179,12 +188,12 @@ to guess them.
 
 ### 33 U.S.C. § 2223
 
-> in subsection (e), by striking “10 years after the date of enactment of this Act” and inserting “on December 31, 2026”.
+> in subsection (e)(1)(B), by striking “10 years after the date of enactment of this Act” and inserting “December 31, 2026”.
 
 | | |
 |---|---|
 | Removed | `10 years after the date of enactment of this Act` |
-| Inserted | `on December 31, 2026` |
+| Inserted | `December 31, 2026` |
 
 ### 33 U.S.C. § 3303a
 
@@ -296,7 +305,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 219(f)(12)(A) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 117 Stat. 1843) is amended by striking “$100,000,000” and inserting “$125,000,000”.
+> Section 219(f)(12)(A) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 117 Stat. 1843; 121 Stat. 1225) is amended by striking “$100,000,000” and inserting “$125,000,000”.
 
 | | |
 |---|---|
@@ -305,7 +314,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 219(f)(21) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336) is amended by striking “$35,000,000” and inserting “$90,000,000”.
+> Section 219(f)(21) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 114 Stat. 2763A–220; 121 Stat. 1226) is amended by striking “$35,000,000” and inserting “$90,000,000”.
 
 | | |
 |---|---|
@@ -359,7 +368,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 219(f)(66)(A) of the Water Resources Development Act of 1992 (106 Stat 4835; 113 Stat. 336; 114 Stat 2763A–221) is amended by striking “$20,000,000 for” and inserting “$30,000,000 for wastewater infrastructure, including stormwater management, and other”.
+> Section 219(f)(66)(A) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 114 Stat. 2763A–221; 121 Stat. 1240) is amended by striking “$20,000,000 for” and inserting “$30,000,000 for wastewater infrastructure, including stormwater management, and other”.
 
 | | |
 |---|---|
@@ -368,7 +377,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 219(f)(25) of the Water Resources Development Act of 1992 (106 Stat 4835; 113 Stat. 336; 114 Stat 2763A–220; 117 Stat. 1838; 130 Stat. 1677; 132 Stat. 3818; 134 Stat. 2719) is amended by striking “$110,000,000” and inserting “$165,000,000”.
+> Section 219(f)(25) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 114 Stat. 2763A–220; 117 Stat. 1838; 130 Stat. 1677; 132 Stat. 3818; 134 Stat. 2719) is amended by striking “$110,000,000” and inserting “$165,000,000”.
 
 | | |
 |---|---|
@@ -377,7 +386,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 219(f)(10)(A) of the Water Resources Development Act of 1992 (106 Stat 4835; 113 Stat. 336) is amended by striking “$20,000,000” and inserting “$52,000,000”.
+> Section 219(f)(10)(A) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 121 Stat. 1255) is amended by striking “$20,000,000” and inserting “$52,000,000”.
 
 | | |
 |---|---|
@@ -422,7 +431,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 109 of division B of appendix D of the Consolidated Appropriations Act, 2001 (Public Law 106–554, 114 Stat. 2763A–222; 121 Stat. 1217) is amended in subsection (f) by striking “$100,000,000” and inserting “$200,000,000”.
+> Section 109 of division B of the Consolidated Appropriations Act, 2001 (Public Law 106–554, appendix D, 114 Stat. 2763A–222; 121 Stat. 1217) is amended, in subsection (f), by striking “$100,000,000” and inserting “$200,000,000”.
 
 | | |
 |---|---|
@@ -494,7 +503,7 @@ to guess them.
 
 ### 33 U.S.C. § 2282d
 
-> Section 5138 of the Water Resources Development Act of 2007 (121 Stat. 1250) is amended in subsection (g) by striking “$40,000,000” and inserting “$80,000,000”.
+> Section 5138 of the Water Resources Development Act of 2007 (121 Stat. 1250) is amended, in subsection (g), by striking “$40,000,000” and inserting “$80,000,000”.
 
 | | |
 |---|---|
@@ -556,7 +565,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2332` | insert | in subparagraph (A), by inserting “or hurricane and storm damage reduction” after “flood control”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2332` | insert | in the paragraph heading, by inserting “or hurricane and storm damage reduction” after “flood control”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2332` | insert | by inserting “or hurricane and storm damage reduction” after “flood control”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1962-2` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1962-2` | amend | by amending subsection (d) to read as follows:— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2332` | replace | in paragraph (32), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2332` | replace | in paragraph (33), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2332` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -573,7 +582,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2269` | add-at-end | in subsection (d), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 832` | repeal | Section 1178(c) of the Water Resources Development Act of 2016 (130 Stat. 1675; 132 Stat. 3781) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2310` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 2310` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2310` | replace | in paragraph (2), by striking the period at the end and inserting “; and” ; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2310` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2352` | insert | in the section heading, by inserting “and review proposals” after “permits”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2352` | redesignate | by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -581,9 +590,11 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2352` | redesignate | by redesignating subparagraph (C) as subparagraph (D) and inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 583a` | replace | by striking “Regular officers of the Corps of Engineers of the Army, and reserve officers of the Army who are assigned to the Corps of Engineers,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 583a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 709a` | add-at-end | Section 206 of the Flood Control Act of 1960 (33 U.S.C. 709a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2326f` | insert | Section 1133(b)(3) of the Water Resources Development Act of 2016 (33 U.S.C. 2326f(b)(3)) is amended by inserting “, including a separate line item for all Federal costs associated with the disposal of dredged material” before the semico… | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2345` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 579-2` | replace | Section 301 of the Water Resources Development Act of 2020 (33 U.S.C. 579–2) is amended by striking subsections (a) through (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 579-2` | repeal | Section 301(d) of the Water Resources Development Act of 2020 (33 U.S.C. 579–2(b)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 579-2` | repeal | Section 301(d) of the Water Resources Development Act of 2020 (33 U.S.C. 579–2(d)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2267a` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2267a` | replace | in paragraph (6), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2267a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -601,6 +612,9 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 610` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 610` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 610` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “$89,850,000” and inserting “$252,438,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$57,735,000” and inserting “$162,511,500”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$32,115,000” and inserting “$89,926,500”. | the bill names no machine-readable US Code section |
 | — | replace | Section 203(a)(1)(A) of the Water Resources Development Act of 2020 (134 Stat. 2675) is amended by striking “ocean shoreline” and inserting “bay and ocean shorelines”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “$229,770,000” and inserting “$561,455,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$107,233,000” and inserting “$361,302,000”; and | the bill names no machine-readable US Code section |
@@ -608,7 +622,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 528(f)(1)(J) of the Water Resources Development Act of 1996 (110 Stat. 3771) is amended by striking “2 representatives of the State of Florida,” and inserting “3 representatives of the State of Florida, including at least 1 repre… | the bill names no machine-readable US Code section |
 | — | replace | Section 402(a)(1) of the Water Resources Development Act of 2020 (134 Stat. 2742) is amended by striking “80 percent” and inserting “90 percent”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 213 of the Water Resources Development Act of 2020 (134 Stat. 2684) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 129(b) of the Water Resources Development Act of 2020 (134 Stat. 2643) is amended by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, and inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 334 of the Water Resources Development Act of 1999 (113 Stat. 306) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 571 of the Water Resources Development Act of 1999 (113 Stat. 371) is amended by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2010 of the Water Resources Reform and Development Act of 2014 (128 Stat. 1270; 132 Stat. 3812) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 2282d` | add-at-end | Section 219(f) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 121 Stat. 1258) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2282d` | strike | Section 219(f)(23) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 336; 117 Stat. 1840; 134 Stat. 2718) is amended by striking “Suburban”. | the bill quotes the text struck but describes what replaces it |
