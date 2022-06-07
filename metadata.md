@@ -1,7 +1,7 @@
 ---
 measure: H.R. 301
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 301
@@ -16,7 +16,7 @@ To amend title 36, United States Code, to establish the composition known as "Li
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Cosponsors (39)
+## Cosponsors (44)
 
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -57,6 +57,11 @@ To amend title 36, United States Code, to establish the composition known as "Li
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
 
 ## Committees (1)
 
@@ -67,3 +72,10 @@ To amend title 36, United States Code, to establish the composition known as "Li
 - 2021-01-13 — Introduced in House
 - 2021-01-13 — Introduced in House
 - 2021-01-13 — Referred to the House Committee on the Judiciary.
+- 2021-03-05 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 11.
+- 2022-04-06 — Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.
+- 2022-06-07 — Placed on the House Calendar, Calendar No. 81.
+- 2022-06-07 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-358.
+- 2022-06-07 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-358.
