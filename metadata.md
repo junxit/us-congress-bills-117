@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 88
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 88
@@ -35,3 +35,10 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2022-05-11 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2022-06-07 — Considered under suspension of the rules. (consideration: CR H5296-5298)
+- 2022-06-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 88.
+- 2022-06-07 — Motion to reconsider laid on the table. Agreed to without objection.
+- 2022-06-07 — Mr. DeFazio moved to suspend the rules and agree to the resolution.
+- 2022-06-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5296-5297)
+- 2022-06-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.
