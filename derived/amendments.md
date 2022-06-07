@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7003
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -38,6 +38,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1757a` | strike | in clause (iv), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1757a` | replace | in clause (v), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1757a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1752` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1752` | replace | in paragraph (9), by striking the period at the and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1752` | replace | in paragraph (8), by striking “; and” and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1752` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 45D` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
