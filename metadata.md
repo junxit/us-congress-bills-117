@@ -1,7 +1,7 @@
 ---
 measure: H.R. 739
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 739
@@ -36,3 +36,8 @@ For the relief of Median El-Moustrah.
 - 2022-06-03 — Placed on the Private Calendar, Calendar No. 4.
 - 2022-06-03 — Reported by the Committee on Judiciary. H. Rept. 117-340, Part I.
 - 2022-06-03 — Reported by the Committee on Judiciary. H. Rept. 117-340, Part I.
+- 2022-06-07 — Called up from the Private Calendar for consideration.
+- 2022-06-07 — Considered from the Private Calendar. (consideration: CR H5238-5239)
+- 2022-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-07 — On passage Passed without objection. (text: CR H5238-5239)
+- 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
