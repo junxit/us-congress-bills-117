@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 301
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ Congress finds the following:
 
 - **(1)** “Lift Every Voice and Sing” is a beloved hymn that is currently produced and distributed by approximately 40 religious publishing houses throughout the United States.
 - **(2)** “Lift Every Voice and Sing” is regularly sung at various religious services and choir performances at community and cultural events to commemorate the struggles that have accompanied our Nation’s “pursuit of a more perfect Union”.
-- **(3)** James Weldon Johnson wrote the poem “Lift Every Voice and Sing” in 1899 to celebrate the anniversary of President Abraham Lincoln’s birthday, and his brother, John Rosamond Johnson, set the poem to music.
+- **(3)** James Weldon Johnson wrote the poem “Lift Every Voice and Sing” in 1899 to celebrate the anniversary of President Abraham Lincoln’s birthday, and his brother, J. Rosamond Johnson, set the poem to music.
 - **(4)** “Lift Every Voice and Sing” was first performed on February 12, 1900, by a choir of 500 school children from the Stanton School in the Johnsons’ hometown of Jacksonville, Florida, where James Weldon Johnson served as the principal.
 - **(5)** In 1905, Booker T. Washington’s recognition of “Lift Every Voice and Sing” helped to make it a very popular song in Black communities throughout the United States.
 - **(6)** In 1906, President Theodore Roosevelt named James Weldon Johnson to diplomatic positions in Venezuela and Nicaragua, and when he returned to the United States, he became affiliated with the NAACP.
