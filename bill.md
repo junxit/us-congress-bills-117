@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Expanding Financial Access for Underserved Communities Act”.
 
-## § 2. Amendments relating to credit union service to underserved areas
+## § 2. Credit union service to underserved areas
 
 Section 109 of the Federal Credit Union Act (12 U.S.C. 1759) is amended—
 
@@ -24,14 +24,14 @@ Section 109 of the Federal Credit Union Act (12 U.S.C. 1759) is amended—
 
   - **(C)** in subparagraph (B), by inserting “not later than 2 years after having such underserved area added to the credit union’s charter,” before “the credit union”; and
 - **(2)** by adding at the end the following:
-  > - **(h)** *Change of field of membership To include underserved areas*
+  > - **(h)** *Change of field of membership to include underserved areas*
   >   - **(1)** *In general* If an existing Federal credit union applies to the Board to alter or expand the field of membership of the credit union to serve an underserved area, the credit union shall submit a business and marketing plan with such application that explains the credit union’s ability and intent to serve the population of the underserved area through the change in field of membership.
   >   - **(2)** *Report by credit union* Not later than 2 years after the date on which a Federal credit union’s application described under paragraph (1) is approved, the credit union, as part of the ordinary course of the examination cycle and supervision process, shall submit a report to the Administration that includes—
   >     - **(A)** an estimate of the number of members of the credit union who are members by reason of the application;
   >     - **(B)** a description of the types of financial services utilized by members of the credit union who are members by reason of the application; and
   >     - **(C)** an update of the credit union’s implementation of the business and marketing plan described under paragraph (1).
 
-## § 3. Amendments related to member business lending in underserved areas
+## § 3. Member business lending in underserved areas
 
 Section 107A(c)(1)(B) of the Federal Credit Union Act (12 U.S.C. 1757a(c)(1)(B)) is amended—
 
@@ -44,14 +44,15 @@ Section 107A(c)(1)(B) of the Federal Credit Union Act (12 U.S.C. 1757a(c)(1)(B))
 
 Section 101 of the Federal Credit Union Act (12 U.S.C. 1752) is amended—
 
-- **(1)** in paragraph (8), by striking “and” at the end;
-- **(2)** in paragraph (9), by striking the period at the and inserting “; and”; and
+- **(1)** in paragraph (8), by striking “; and” and inserting a period;
+- **(2)** in paragraph (9), by striking the period at the end and inserting “; and”; and
 - **(3)** by adding at the end the following:
-  > - **(10)** the term “underserved area” means a geographic area consisting of one or more population census tracts or one or more counties, that encompass or are located within—
+  > - **(10)** The term “underserved area” means a geographic area consisting of one or more population census tracts or one or more counties, that encompass or are located within—
   >   - **(A)** an investment area, as defined under section 103(16) of the Community Development Banking and Financial Institutions Act of 1994;
   >   - **(B)** groups of contiguous census tracts in which at least 85 percent individually qualify as low-income communities, as defined under section 45D(e) of the Internal Revenue Code of 1986; or
   >   - **(C)** an area that is more than ten miles, as measured from each point along the area’s perimeter, from the nearest branch of a depository institution (as defined under section 3 of the Federal Deposit Insurance Act) or credit union.
 
-## § 5. Report by the National Credit Union Administration
+## § 5. Reports by the National Credit Union Administration
 
-Not later than 3 years after the date of enactment of this Act, but no sooner than 2 years after the date of enactment of this Act, the National Credit Union Administration shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the implementation of the amendments made by this Act.
+- **(a)** *Initial report* Not later than 3 years after the date of enactment of this Act, but no sooner than 2 years after the date of enactment of this Act, the National Credit Union Administration shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the implementation of the amendments made by this Act.
+- **(b)** *Update* The National Credit Union Administration shall issue an updated report on the implementation of the amendments made by this Act to the committees described under subsection (a) on the date that is 5 years after the date on which the Administration issues the initial report under subsection (a).
