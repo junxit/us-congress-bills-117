@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 88
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 88
@@ -43,3 +43,6 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2022-06-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5296-5297)
 - 2022-06-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.
 - 2022-06-08 — Received in the Senate.
+- 2022-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2022-06-16 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2022-06-21 — Message on Senate action sent to the House.
