@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1152
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1152
@@ -16,7 +16,7 @@ Condemning the atrocity that occurred in Buffalo, New York, on May 14, 2022, in 
 
 - Rep. Bowman, Jamaal [D-NY-16] (B001223)
 
-## Cosponsors (143)
+## Cosponsors (147)
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
@@ -161,6 +161,10 @@ Condemning the atrocity that occurred in Buffalo, New York, on May 14, 2022, in 
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 - Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
 ## Committees (1)
 
@@ -171,3 +175,5 @@ Condemning the atrocity that occurred in Buffalo, New York, on May 14, 2022, in 
 - 2022-06-07 — Introduced in House
 - 2022-06-07 — Introduced in House
 - 2022-06-07 — Referred to the House Committee on the Judiciary.
+- 2022-06-08 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1153, H. Res. 1152 is considered passed House.
+- 2022-06-08 — Pursuant to the provisions of H. Res. 1153, H. Res. 1152 is considered passed House. (consideration: CR H5363; text: CR H5363)
