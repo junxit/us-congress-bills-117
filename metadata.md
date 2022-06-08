@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7910
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7910
@@ -201,6 +201,18 @@ Protecting Our Kids Act
 - House — Ways and Means Committee
 - House — Judiciary Committee
 
+## Recorded votes (9)
+
+- 2022-06-08 — [House 117-2-237](votes/house-117-2-0237.md) — On Retaining Title I — **Passed** (228–199)
+- 2022-06-08 — [House 117-2-238](votes/house-117-2-0238.md) — On Retaining Title II — **Passed** (226–197)
+- 2022-06-08 — [House 117-2-239](votes/house-117-2-0239.md) — On Retaining Title III — **Passed** (226–194)
+- 2022-06-08 — [House 117-2-240](votes/house-117-2-0240.md) — On Retaining Title IV — **Passed** (220–205)
+- 2022-06-08 — [House 117-2-241](votes/house-117-2-0241.md) — On Retaining Title V — **Passed** (233–194)
+- 2022-06-08 — [House 117-2-242](votes/house-117-2-0242.md) — On Retaining Title VI — **Passed** (220–207)
+- 2022-06-08 — [House 117-2-243](votes/house-117-2-0243.md) — On Retaining Title VII — **Passed** (380–47)
+- 2022-06-08 — [House 117-2-244](votes/house-117-2-0244.md) — On Motion to Recommit — **Failed** (198–228)
+- 2022-06-08 — [House 117-2-245](votes/house-117-2-0245.md) — On Passage — **Passed** (223–204)
+
 ## Actions
 
 - 2022-05-31 — Introduced in House
@@ -214,3 +226,27 @@ Protecting Our Kids Act
 - 2022-06-06 — Placed on the Union Calendar, Calendar No. 260.
 - 2022-06-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-346, Part I.
 - 2022-06-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-346, Part I.
+- 2022-06-07 — Rules Committee Resolution H. Res. 1153 Reported to House. Rule provides for consideration of H.R. 2377 and H.R. 7910. Provides for one hour of debate on H.R. 2377 and two hours of debate on H.R. 7910. Also provides for a motion to recommit on each measure.
+- 2022-06-08 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-06-08 — Considered under the provisions of rule H. Res. 1153. (consideration: CR H5363-5396)
+- 2022-06-08 — DEBATE - The House proceeded with two hours of debate on H.R. 7910.
+- 2022-06-08 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-08 — House amendment offered
+- 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-08 — Mr. Hudson moved to recommit to the Committee on the Judiciary. (text: CR H5393-5395)
+- 2022-06-08 — On Retaining Title I Agreed to by the Yeas and Nays: 228 - 199 (Roll no. 237). (consideration: CR H5388-5389)
+- 2022-06-08 — On Retaining Title II Agreed to by the Yeas and Nays: 226 - 197 (Roll no. 238). (consideration: CR H5389)
+- 2022-06-08 — On Retaining Title III Agreed to by the Yeas and Nays: 226 - 194 (Roll no. 239). (consideration: CR H5389-5390)
+- 2022-06-08 — On Retaining Title IV Agreed to by the Yeas and Nays: 220 - 205 (Roll no. 240). (consideration: CR H5390-5391)
+- 2022-06-08 — On Retaining Title V Agreed to by the Yeas and Nays: 233 - 194 (Roll no. 241). (consideration: CR H5391)
+- 2022-06-08 — On Retaining Title VI Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 242). (consideration: CR H5392)
+- 2022-06-08 — On Retaining Title VII Agreed to by the Yeas and Nays: 380 - 47 (Roll no. 243). (consideration: CR H5392-5393)
+- 2022-06-08 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-08 — On motion to recommit Failed by the Yeas and Nays: 198 - 228 (Roll no. 244).
+- 2022-06-08 — On passage Passed by the Yeas and Nays: 223 - 204 (Roll no. 245). (text of amendment in the nature of a substitute: CR H5364-5367)
+- 2022-06-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 223 - 204 (Roll no. 245).
+- 2022-06-08 — Pursuant to section 3(a) of H.Res. 1153, the Chair will put the question on retaining each title of the bill, as amended.
+- 2022-06-08 — Rule H. Res. 1153 passed House.
+- 2022-06-08 — Rule provides for consideration of H.R. 2377 and H.R. 7910. Provides for one hour of debate on H.R. 2377 and two hours of debate on H.R. 7910. Also provides for a motion to recommit on each measure.
+- 2022-06-08 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-06-08 — The previous question was ordered pursuant to the rule.
