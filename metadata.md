@@ -1,7 +1,7 @@
 ---
 measure: H.R. 187
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 187
@@ -16,9 +16,10 @@ For the relief of Victoria Galindo Lopez.
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ For the relief of Victoria Galindo Lopez.
 - 2022-06-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-07 — On passage Passed without objection. (text: CR H5237-5238)
 - 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
+- 2022-06-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
