@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2142
@@ -65,3 +65,7 @@ To designate the facility of the United States Postal Service located at 170 Man
 - 2022-02-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1169)
 - 2022-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1169)
 - 2022-03-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-06-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-06-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
