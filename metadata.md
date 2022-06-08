@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7667
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7667
@@ -43,3 +43,7 @@ Food and Drug Amendments of 2022
 - 2022-06-07 — Placed on the Union Calendar, Calendar No. 262.
 - 2022-06-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-348.
 - 2022-06-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-348.
+- 2022-06-08 — Considered as unfinished business. (consideration: CR H5402-5403)
+- 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 28 (Roll no. 254). (text: 06/07/2022 CR H5298-5319)
+- 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 28 (Roll no. 254).
