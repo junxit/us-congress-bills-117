@@ -1,7 +1,7 @@
 ---
 measure: H.R. 680
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 680
@@ -39,3 +39,14 @@ For the relief of Arpita Kurdekar, Girish Kurdekar, and Vandana Kurdekar.
 - 2022-06-07 — On passage Passed without objection. (text: CR H5238)
 - 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
 - 2022-06-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9738)
+- 2022-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-22 — Message on Senate action sent to the House.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Private Law No: 117-3.
+- 2023-01-05 — Became Private Law No: 117-3.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
