@@ -1,7 +1,7 @@
 ---
 measure: H.R. 680
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 680
@@ -16,9 +16,10 @@ For the relief of Arpita Kurdekar, Girish Kurdekar, and Vandana Kurdekar.
 
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ For the relief of Arpita Kurdekar, Girish Kurdekar, and Vandana Kurdekar.
 - 2022-06-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-07 — On passage Passed without objection. (text: CR H5238)
 - 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
+- 2022-06-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
