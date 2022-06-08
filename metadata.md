@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7334
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7334
@@ -36,3 +36,11 @@ COVID-19 EIDL Fraud Statute of Limitations Act of 2022
 - 2022-05-17 — Placed on the Union Calendar, Calendar No. 245.
 - 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-327.
 - 2022-05-17 — Reported by the Committee on Small Business. H. Rept. 117-327.
+- 2022-06-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-06-07 — Considered under suspension of the rules. (consideration: CR H5250-5252)
+- 2022-06-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7334.
+- 2022-06-07 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2022-06-08 — Considered as unfinished business. (consideration: CR H5397-5398)
+- 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 247). (text: 06/07/2022 CR H5250)
+- 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 247).
