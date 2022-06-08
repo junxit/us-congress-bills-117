@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1153
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1153
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2377) to authorize the issuance of
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-06-08 — [House 117-2-235](votes/house-117-2-0235.md) — On Ordering the Previous Question — **Passed** (217–205)
+- 2022-06-08 — [House 117-2-236](votes/house-117-2-0236.md) — On Agreeing to the Resolution — **Passed** (218–205)
+
 ## Actions
 
 - 2022-06-07 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2377) to authorize the issuance of
 - 2022-06-07 — Provides for one hour of debate on H.R. 2377 and two hours of debate on H.R. 7910. Also provides for a motion to recommit on each measure.
 - 2022-06-07 — The House Committee on Rules reported an original measure, H. Rept. 117-356, by Mr. McGovern.
 - 2022-06-07 — The House Committee on Rules reported an original measure, H. Rept. 117-356, by Mr. McGovern.
+- 2022-06-08 — Considered as privileged matter. (consideration: CR H5348-5361)
+- 2022-06-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 1153.
+- 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 205 (Roll no. 236). (text: CR H5348-5349)
+- 2022-06-08 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 205 (Roll no. 235).
+- 2022-06-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 205 (Roll no. 236).
