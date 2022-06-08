@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7776
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7776
@@ -42,3 +42,7 @@ James M. Inhofe National Defense Authorization Act for Fiscal Year 2023
 - 2022-06-07 — Placed on the Union Calendar, Calendar No. 261.
 - 2022-06-07 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-347.
 - 2022-06-07 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-347.
+- 2022-06-08 — Considered as unfinished business. (consideration: CR H5402)
+- 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 253). (text: 06/07/2022 CR H5262-5289)
+- 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 253).(text: 06/07/2022 CR H5262-5289)
