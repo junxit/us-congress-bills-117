@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6087
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6087
@@ -38,9 +38,10 @@ Improving Access to Workers’ Compensation for Injured Federal Workers Act
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Improving Access to Workers’ Compensation for Injured Federal Workers Act
 - 2022-06-07 — Mr. Courtney moved to suspend the rules and pass the bill, as amended.
 - 2022-06-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 83 (Roll no. 233). (text: CR H5242)
 - 2022-06-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 83 (Roll no. 233).
+- 2022-06-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
