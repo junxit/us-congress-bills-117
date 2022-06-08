@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7667
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-236 amendatory instructions. 124 executed, 112 stated and not applied.
+239 amendatory instructions. 125 executed, 114 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1140,6 +1140,15 @@ to guess them.
 | Removed | `medical products` |
 | Inserted | `products regulated by the Food and Drug Administration` |
 
+### 42 U.S.C. § 1396w-1
+
+> Section 1941(b)(3)(A) of the Social Security Act (42 U.S.C. 1396w–1(b)(3)(A)) is amended by striking “$0” and inserting “$450,000,000”.
+
+| | |
+|---|---|
+| Removed | `$0` |
+| Inserted | `$450,000,000` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -1222,6 +1231,8 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 355f` | insert | in subsection (d)(1), by inserting “of this Act or section 351(a) of the Public Health Service Act” after “section 505(b)”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 355f` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360n-1` | insert | Section 524A(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n–1(a)) is amended by inserting “of this Act or section 351(a) of the Public Health Service Act that requires clinical data (other than bioavailability studies) to… | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 399h` | amend | Section 3016 of the 21st Century Cures Act (21 U.S.C. 399h) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 399h` | amend | The item relating to section 3016 in the table of contents in section 1(b) of the 21st Century Cures Act (Public Law 114–255) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 351` | insert | Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by inserting after section 506J (21 U.S.C. 356j) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360ee` | insert | by inserting before the period at the end the following: “, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualized medical products to treat individuals with rare diseases or cond… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355c` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
