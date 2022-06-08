@@ -1,7 +1,7 @@
 ---
 measure: H.R. 681
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 681
@@ -37,3 +37,4 @@ For the relief of Rebecca Trimble.
 - 2022-06-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-07 — On passage Passed without objection. (text: CR H5238)
 - 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
+- 2022-06-08 — Received in the Senate, read twice.

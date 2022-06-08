@@ -2,7 +2,7 @@
 legis-num: H.R. 681
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 681
@@ -19,4 +19,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(d)** *Application and payment of fees* Subsections (a) and (b) shall apply only if the application for issuance of immigrant visas or the application for adjustment of status are filed with appropriate fees within two years after the date of the enactment of this Act.
 - **(e)** *Reduction of immigrant visa numbers* Upon the granting of immigrant visas or permanent residence to Rebecca Trimble, the Secretary of State shall instruct the proper officer to reduce by one, during the current or next following fiscal year—
   - **(1)** the total number of immigrant visas that are made available to natives of the country of birth of Rebecca Trimble under section 203(a) of the Immigration and Nationality Act (8 U.S.C. 1153(a)); or
-  - **(2)** if applicable, the total number of immigrant visas that are made available to natives of the country of birth of Rebecca Trimble under section 202(e) of that Act (8 U.S.C. 1152(e)).
+  - **(2)** if applicable, the total number of im-migrant visas that are made available to natives of the country of birth of Rebecca Trimble under section 202(e) of that Act (8 U.S.C. 1152(e)).
