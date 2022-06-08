@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7776
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-142 amendatory instructions. 58 executed, 84 stated and not applied.
+152 amendatory instructions. 59 executed, 93 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -546,6 +546,15 @@ to guess them.
 | Removed | `$150,000,000` |
 | Inserted | `$200,000,000` |
 
+### 33 U.S.C. § 2213
+
+> Section 103(k)(4)(B) of the Water Resources Development Act of 1986 (33 U.S.C. 2213(k)(4)(B)) is amended by striking “2023” and inserting “2032”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2032` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -567,7 +576,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2332` | insert | by inserting “or hurricane and storm damage reduction” after “flood control”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1962-2` | amend | by amending subsection (d) to read as follows:— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2332` | replace | in paragraph (32), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 2332` | replace | in paragraph (33), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2332` | replace | in paragraph (33), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2332` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2332` | replace | by striking subsections (f) through (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2332` | replace | The table of contents in section 1(b) of the Water Resources Development Act of 1999 (113 Stat. 269) is amended by striking the item relating to section 212 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -591,6 +600,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 583a` | replace | by striking “Regular officers of the Corps of Engineers of the Army, and reserve officers of the Army who are assigned to the Corps of Engineers,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 583a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 709a` | add-at-end | Section 206 of the Flood Control Act of 1960 (33 U.S.C. 709a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2201` | strike | in subsection (a), by striking “aquatic”; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2201` | insert | in subsection (d)(1), by inserting “ecosystem restoration,” after “flood damage reduction,”. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2326f` | insert | Section 1133(b)(3) of the Water Resources Development Act of 2016 (33 U.S.C. 2326f(b)(3)) is amended by inserting “, including a separate line item for all Federal costs associated with the disposal of dredged material” before the semico… | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2345` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 579-2` | replace | Section 301 of the Water Resources Development Act of 2020 (33 U.S.C. 579–2) is amended by striking subsections (a) through (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -612,14 +623,20 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 610` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 610` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 610` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 4017(d) of the Water Resources Development Act of 2007 (121 Stat. 1175) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | by striking “$89,850,000” and inserting “$252,438,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$57,735,000” and inserting “$162,511,500”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$32,115,000” and inserting “$89,926,500”. | the bill names no machine-readable US Code section |
 | — | replace | Section 203(a)(1)(A) of the Water Resources Development Act of 2020 (134 Stat. 2675) is amended by striking “ocean shoreline” and inserting “bay and ocean shorelines”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “subparagraph (D)” and inserting “subparagraph (E)”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), in the matter preceding subclause (I), by striking “during each 5-year period, beginning with commencement of design of the Plan” and inserting “during each period of 5 fiscal years, beginning on October 1, 2022”; | the bill names no machine-readable US Code section |
+| — | insert | in clause (ii), by inserting “for each project in the Plan” before the period at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$229,770,000” and inserting “$561,455,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$107,233,000” and inserting “$361,302,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$337,003,000” and inserting “$922,757,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 528(f)(1)(J) of the Water Resources Development Act of 1996 (110 Stat. 3771) is amended by striking “2 representatives of the State of Florida,” and inserting “3 representatives of the State of Florida, including at least 1 repre… | the bill names no machine-readable US Code section |
+| — | replace | Section 3057(a)(2) of the Water Resources Development Act of 2007 (121 Stat. 1120) is amended by striking “$9,000,000” and inserting “$40,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 402(a)(1) of the Water Resources Development Act of 2020 (134 Stat. 2742) is amended by striking “80 percent” and inserting “90 percent”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 213 of the Water Resources Development Act of 2020 (134 Stat. 2684) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 129(b) of the Water Resources Development Act of 2020 (134 Stat. 2643) is amended by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, and inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
@@ -638,4 +655,5 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2282d` | replace | by striking the section heading and inserting “Southeastern Pennsylvania and Lower Delaware River Basin.”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282d` | insert | in subsection (a), by inserting “and the Lower Delaware River Basin” after “southeastern Pennsylvania”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282d` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2282d` | insert | in subsection (a), by inserting “Colfax,” before “Sandoval”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282d` | insert | in subsection (c), by inserting “water reuse,” after “conservation,”; and | the bill quotes the text inserted but describes where it goes |
