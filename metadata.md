@@ -1,7 +1,7 @@
 ---
 measure: H.R. 681
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 681
@@ -38,3 +38,12 @@ For the relief of Rebecca Trimble.
 - 2022-06-07 — On passage Passed without objection. (text: CR H5238)
 - 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
 - 2022-06-08 — Received in the Senate, read twice.
+- 2022-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7267)
+- 2022-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-16 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Private Law No: 117-1.
+- 2022-12-27 — Became Private Law No: 117-1.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
