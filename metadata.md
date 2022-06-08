@@ -1,7 +1,7 @@
 ---
 measure: H.R. 785
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 785
@@ -43,3 +43,14 @@ For the relief of Maria Isabel Bueso Barrera, Alberto Bueso Mendoza, and Karla M
 - 2022-06-07 — On passage Passed without objection. (text: CR H5239)
 - 2022-06-07 — Passed/agreed to in House: On passage Passed without objection.
 - 2022-06-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7804)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Private Law No: 117-2.
+- 2022-12-27 — Became Private Law No: 117-2.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
