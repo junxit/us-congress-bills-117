@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7910
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7910
@@ -238,3 +238,4 @@ Protecting Our Kids Act
 - 2022-06-08 — Rule provides for consideration of H.R. 2377 and H.R. 7910. Provides for one hour of debate on H.R. 2377 and two hours of debate on H.R. 7910. Also provides for a motion to recommit on each measure.
 - 2022-06-08 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-06-08 — The previous question was ordered pursuant to the rule.
+- 2022-06-09 — Received in the Senate.
