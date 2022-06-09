@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7776
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7776
@@ -46,3 +46,4 @@ James M. Inhofe National Defense Authorization Act for Fiscal Year 2023
 - 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 253). (text: 06/07/2022 CR H5262-5289)
 - 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 253).(text: 06/07/2022 CR H5262-5289)
+- 2022-06-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.
