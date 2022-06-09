@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7664
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7664
@@ -22,9 +22,10 @@ Supporting Small Business and Career and Technical Education Act of 2022
 - Rep. Kim, Young [R-CA-39] (K000397)
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Supporting Small Business and Career and Technical Education Act of 2022
 - 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 18 (Roll no. 250). (text: 06/07/2022 CR H5255)
 - 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 18 (Roll no. 250).
+- 2022-06-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
