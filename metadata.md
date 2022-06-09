@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6089
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6089
@@ -120,3 +120,7 @@ Stop Iranian Drones Act
 - 2022-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 2 (Roll no. 136). (text: CR H4545)
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 2 (Roll no. 136).
 - 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2022-06-09 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.
+- 2022-06-09 — Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.
+- 2022-06-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 400.
