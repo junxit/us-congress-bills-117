@@ -1,0 +1,46 @@
+---
+legis-num: H.R. 7994
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7994
+
+> To expand and improve the advisory panel on community support for military families with special needs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Providing Expanded Representation FOR Military families with Special Needs Act” or the “PERFORMS Act”.
+
+## § 2. Advisory panel on community support for military families with special needs
+
+Section 563(d) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 1781c note) is amended—
+
+- **(1)** by amending paragraph (2) to read as follows:
+  > - **(2)** *Members* The advisory panel shall consist of the following members, appointed by the Secretary of Defense:
+  >   - **(A)** Nine individuals from military families with special needs, with respect to which the Secretary shall ensure that—
+  >     - **(i)** one individual is the spouse of an enlisted member;
+  >     - **(ii)** one individual is the spouse of an officer in a grade below O–6;
+  >     - **(iii)** one individual is a junior enlisted member;
+  >     - **(iv)** one individual is a junior officer;
+  >     - **(v)** individuals reside in different geographic regions;
+  >     - **(vi)** one individual is a member serving at a remote installation or is a member of the family of such a member; and
+  >     - **(vii)** at least two individuals are members serving on active duty, each with a dependent who—
+  >       - **(I)** is enrolled in the Exceptional Family Member Program; and
+  >       - **(II)** has an individualized education program.
+  >   - **(B)** One representative of the Defense Health Agency.
+  >   - **(C)** One representative of the Department of Defense Education Activity.
+  >   - **(D)** One representative of the Office of Special Needs of the Department of Defense.
+  >   - **(E)** One or more representatives of advocacy groups with missions relating to the Exceptional Family Member Program of the Department of Defense.
+  >   - **(F)** One or more adult dependents enrolled in the Exceptional Family Member Program of the Department of Defense.
+
+- **(2)** by adding at the end the following new paragraph:
+  > - **(5)** *Transparency and accessibility* The advisory panel shall—
+  >   - **(A)** provide advice that is relevant, objective, and transparent;
+  >   - **(B)** ensure that any meetings or other proceedings of the advisory panel are accessible to the public; and
+  >   - **(C)** make available on a publicly accessible website—
+  >     - **(i)** meeting announcements;
+  >     - **(ii)** minutes of meetings;
+  >     - **(iii)** the names of council representatives; and
+  >     - **(iv)** regular updates on the progress of the panel in fulfilling the duties specified in paragraph (3).
