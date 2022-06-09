@@ -33,6 +33,23 @@ It shall be the policy of the United States to prevent Iran and Iranian-aligned 
 - **(b)** *Clerical amendment* The table of contents for the Countering America’s Adversaries Through Sanctions Act is amended by striking the item relating to section 107 and inserting the following:
 - **(c)** *Effective date* The amendments made by this section take effect on the date of the enactment of this Act and apply with respect to any person that knowingly engages in any activity that materially contributes to the supply, sale, or transfer directly or indirectly to or from Iran, or for the use in or benefit of Iran, of any unmanned combat aerial vehicles, as defined for the purpose of the United Nations Register of Conventional Arms, before, on, or after such date of enactment.
 
-## § 5. Determination of budgetary effects
+## § 5. Report to identify Iranian persons that have attacked United States citizens using unmanned combat aerial vehicles
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that identifies, for the period specified in subsection (b), any Iranian person that has attacked a United States citizen using an unmanned combat aerial vehicle, as defined for the purpose of the United Nations Register of Conventional Arms.
+- **(b)** *Period specified* The period specified in this subsection is—
+  - **(1)** for the initial report, the period—
+    - **(A)** beginning on the date that is 10 years before the date such report is submitted; and
+    - **(B)** ending on the date such report is submitted; and
+  - **(2)** for the second or a subsequent report, the period—
+    - **(A)** beginning on the date the preceding report was submitted; and
+    - **(B)** ending on the date such second or subsequent report is submitted.
+- **(c)** *Designation of persons as foreign terrorist organizations*
+  - **(1)** *In general* The President shall designate any person identified in a report submitted under subsection (a) as a foreign terrorist organization under section 219 of the Immigration and Naturalization Act (8 U.S.C. 1189).
+  - **(2)** *Revocation* The President may not revoke a designation made under paragraph (1) until the date that is 10 years after the date of such designation.
+- **(d)** *Iranian person defined* In this section, the term Iranian person—
+  - **(1)** means an entity organized under the laws of Iran or otherwise subject to the jurisdiction of the Government of Iran; and
+  - **(2)** includes the Islamic Revolutionary Guard Corps.
+
+## § 56. Determination of budgetary effects
 
 The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
