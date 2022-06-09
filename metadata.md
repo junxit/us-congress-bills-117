@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2377
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2377
@@ -166,9 +166,10 @@ Federal Extreme Risk Protection Order Act of 2021
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -182,3 +183,16 @@ Federal Extreme Risk Protection Order Act of 2021
 - 2022-06-03 — Placed on the Union Calendar, Calendar No. 256.
 - 2022-06-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-342.
 - 2022-06-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-342.
+- 2022-06-07 — Rules Committee Resolution H. Res. 1153 Reported to House. Rule provides for consideration of H.R. 2377 and H.R. 7910. Provides for one hour of debate on H.R. 2377 and two hours of debate on H.R. 7910. Also provides for a motion to recommit on each measure.
+- 2022-06-09 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H5415-5429; text: CR H5415-5419)
+- 2022-06-09 — Considered under the provisions of rule H. Res. 1153. (consideration: CR H5415-5429)
+- 2022-06-09 — DEBATE - The House proceeded with one hour of debate on H.R. 2377.
+- 2022-06-09 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-09 — House amendment offered
+- 2022-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-09 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-09 — On passage Passed by the Yeas and Nays: 224 - 202 (Roll no. 255).
+- 2022-06-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 202 (Roll no. 255).
+- 2022-06-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-06-09 — Rule provides for consideration of H.R. 2377 and H.R. 7910. Provides for one hour of debate on H.R. 2377 and two hours of debate on H.R. 7910. Also provides for a motion to recommit on each measure.
+- 2022-06-09 — The previous question was ordered pursuant to the rule.
