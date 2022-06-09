@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7352
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7352
@@ -23,9 +23,10 @@ PPP and Bank Fraud Enforcement Harmonization Act of 2022
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ PPP and Bank Fraud Enforcement Harmonization Act of 2022
 - 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 246). (text: 06/07/2022 CR H5249)
 - 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 246).(text: 06/07/2022 CR H5249)
+- 2022-06-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
