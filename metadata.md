@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7352
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7352
@@ -47,3 +47,14 @@ PPP and Bank Fraud Enforcement Harmonization Act of 2022
 - 2022-06-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 246). (text: 06/07/2022 CR H5249)
 - 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 246).(text: 06/07/2022 CR H5249)
 - 2022-06-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2022-07-28 — Message on Senate action sent to the House.
+- 2022-07-28 — Passed Senate without amendment by Voice Vote.
+- 2022-07-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-07-28 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent. (consideration: CR S3790)
+- 2022-07-28 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.(consideration: CR S3790)
+- 2022-08-02 — Presented to President.
+- 2022-08-02 — Presented to President.
+- 2022-08-05 — Became Public Law No: 117-166.
+- 2022-08-05 — Became Public Law No: 117-166.
+- 2022-08-05 — Signed by President.
+- 2022-08-05 — Signed by President.
