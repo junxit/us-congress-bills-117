@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7694
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7694
@@ -20,9 +20,10 @@ Strengthening Subcontracting for Small Businesses Act of 2022
 
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Strengthening Subcontracting for Small Businesses Act of 2022
 - 2022-06-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 11 (Roll no. 252). (text: 06/07/2022 CR H5259)
 - 2022-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 11 (Roll no. 252).
+- 2022-06-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
