@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 7997
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7997
+
+> To amend title XVIII of the Social Security Act to establish a floor in Medicare Advantage benchmark rates for regions with low Medicare fee-for-service penetration and to make the Medicare Savings Program available in all jurisdictions.
+
+## § 1. Short title
+
+This Act may be cited as the “Achieving Equity in the Treatment of Dual Eligible Beneficiaries Act”.
+
+## § 2. Addressing disparities in Medicare Advantage benchmark levels based on penetration
+
+- **(a)** *In general* Section 1853(n) of the Social Security Act (42 U.S.C. 1395w–23(n)) is amended—
+  - **(1)** in paragraph (1)(B), by striking “subsequent year” and inserting “subsequent year, subject to paragraph (6),”; and
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(6)** *Average geographic adjustment floor* For 2024 and subsequent years, when calculating the adjusted average per capita cost under section 1876(a)(4) for the purposes of establishing the base payment amount specified in paragraph (2)(E), the average geographic adjustment shall not be less than 0.70 for any area. For the purposes of the previous sentence, the Secretary may define the term “average geographic adjustment” under subparagraph (A) by program instruction or otherwise.
+
+- **(b)** *Ensuring plan payments flow to providers and patients* Section 1854(a)(6) of the Social Security Act (42 U.S.C. 1395w–24(a)(6)) is amended by adding at the end the following new subparagraph:
+  > - **(C)** *Ensuring increased payments support care* With respect to the increase in blended benchmark amount attributable to the application of section 1853(n)(6), no less than 50 percent shall be directed toward payment for basic benefits as defined in section 1852(a)(1)(B).
+
+## § 3. Expanding the Medicare Savings Program to the territories
+
+Section 1905(p)(4) of the Social Security Act (42 U.S.C. 1396d(p)(4)) is amended by inserting “for fiscal years through 2022” after “Columbia)”.
