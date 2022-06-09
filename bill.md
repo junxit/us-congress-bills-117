@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Extreme Risk Protection Order Act of 2021”.
+This Act may be cited as the “Federal Extreme Risk Protection Order Act of 2022”.
 
 ## § 2. Federal extreme risk protection orders
 
@@ -61,7 +61,7 @@ This Act may be cited as the “Federal Extreme Risk Protection Order Act of 202
   >   - **(4)** *Duration* An ex parte Federal order shall expire on the earlier of—
   >     - **(A)** the date that is 14 days after the date of issuance; or
   >     - **(B)** the date on which the court determines whether to issue a long-term Federal order with respect to the respondent.
-  > - **(d)** *Long-term Federal orders*
+  > - **(d)** *Long-Term Federal orders*
   >   - **(1)** *Hearing required* If a court receives a petition for a long-term Federal extreme risk protection order for a respondent under subsection (b), the court shall hold a hearing to determine whether to issue a long-term Federal order with respect to the respondent either—
   >     - **(A)**
   >       - **(i)** if the court issues an ex parte order with respect to the respondent, not later than 72 hours after the ex parte order is served on the respondent; or
@@ -156,7 +156,7 @@ This Act may be cited as the “Federal Extreme Risk Protection Order Act of 202
   >       - **(iii)** State and local law enforcement officials in the jurisdiction in which the order is issued, including the national instant criminal background check system single point of contact for the State of residence of the respondent, where applicable.
   >     - **(B)** *Format* A court shall submit a notice under subparagraph (A) in an electronic format, in a manner prescribed by the Attorney General.
   >     - **(C)** *Update of databases* As soon as practicable and not later than 5 days after receiving a notice under subparagraph (A), the Attorney General shall update the background check databases of the Attorney General to reflect the prohibitions articulated in the applicable Federal extreme risk protection order.
-  >   - **(2)** *Annual reports* Not later than 1 year after the date of enactment of the Federal Extreme Risk Protection Order Act of 2021, and annually thereafter, the Director shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes, with respect to the preceding year—
+  >   - **(2)** *Annual report* Not later than 1 year after the date of enactment of the Federal Extreme Risk Protection Order Act of 2022, and annually thereafter, the Director shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes, with respect to the preceding year—
   >     - **(A)** the number of petitions for ex parte Federal orders filed, as well as the number of such orders issued and the number denied, disaggregated by—
   >       - **(i)** the jurisdiction;
   >       - **(ii)** whether the individual authorized under subsection (b) to petition for a Federal extreme risk protection order is a law enforcement officer, or a family or household member, and in the case of a family or household member, which of subparagraphs (A) through (G) of subsection (a)(6) describes the relationship; and
@@ -175,10 +175,12 @@ This Act may be cited as the “Federal Extreme Risk Protection Order Act of 202
   >     - **(A)** bias based on race and racism, ethnicity, gender, sexual orientation, gender identity, religion, language proficiency, mental health condition, disability, and classism in the use and administration of Federal extreme risk protection orders;
   >     - **(B)** the appropriate use of Federal extreme risk protection orders in cases of domestic violence, including the applicability of other policies and protocols to address domestic violence in situations that may also involve Federal extreme risk protection orders and the necessity of safety planning with the victim before law enforcement petitions for and executes a Federal extreme risk protection order, if applicable;
   >     - **(C)** interacting with persons with mental, behavioral, or physical disabilities, or emotional distress, including de-escalation techniques and crisis intervention;
-  >     - **(D)** training on community relations; and
-  >     - **(E)** best practices for referring persons subject to Federal extreme risk protection orders and associated victims of violence to social service providers that may be available in the jurisdiction and appropriate for those individuals, including health care, mental health, substance abuse, and legal services, employment and vocational services, housing assistance, case management, and veterans and disability benefits.
+  >     - **(D)** techniques for outreach to historically marginalized cultural communities and the development of linguistic proficiencies for law enforcement;
+  >     - **(E)** community relations; and
+  >     - **(F)** best practices for referring persons subject to Federal extreme risk protection orders and associated victims of violence to social service providers that may be available in the jurisdiction and appropriate for those individuals, including health care, mental health, substance abuse, and legal services, employment and vocational services, housing assistance, case management, and veterans and disability benefits.
   >   - **(2)** *Training development* Federal law enforcement agencies developing law enforcement training required under this section shall seek advice from domestic violence service providers (including culturally specific (as defined in section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291)) providers), social service providers, suicide prevention advocates, violence intervention specialists, law enforcement agencies, mental health disability experts, and other community groups working to reduce suicides and violence, including domestic violence, within the State.
   > - **(m)** *Rule of construction* Nothing in this section or shall be construed to alter the requirements of subsections (d)(8) or (g)(8) of section 922, related to domestic violence protective orders.
+  > - **(n)** *Preemption* Nothing in this section may be construed to preempt any State law or policy.
 
 - **(b)** *Technical and conforming amendments*
   - **(1)** *Table of sections* The table of sections for chapter 44 of title 18, United States Code, is amended by adding at the end the following:
@@ -196,36 +198,152 @@ Section 922 of title 18, United States Code, is amended—
   - **(A)** in paragraph (8)(B)(ii), by striking “or” at the end;
   - **(B)** in paragraph (9), by striking the period at the end and inserting “; or”; and
   - **(C)** by inserting after paragraph (9) the following:
-    > - **(10)** is subject to a court order that—
-    >   - **(A)**
-    >     - **(i)** was issued after a hearing of which the person received actual notice, and at which the person had an opportunity to participate; or
-    >     - **(ii)** in the case of an ex parte order, relative to which notice and opportunity to be heard are provided—
-    >       - **(I)** within the time required by Federal, State, Tribal, or territorial law; and
-    >       - **(II)** in any event within a reasonable time after the order is issued, sufficient to protect the due process rights of the person;
-    >   - **(B)** prevents such person from possessing or receiving firearm; and
-    >   - **(C)** includes a finding that such person poses a danger of harm to self or others.
+    > - **(10)** is subject to a court order—
+    >   - **(A)** issued under section 932; or
+    >   - **(B)** that is an extreme risk protection order (as defined in section 4(a) of the Federal Extreme Risk Protection Order Act of 2022).
 
 - **(2)** in subsection (g)—
   - **(A)** in paragraph (8)(C)(ii), by striking “or” at the end;
   - **(B)** in paragraph (9), by striking the comma at the end and inserting “; or”; and
   - **(C)** by inserting after paragraph (9) the following:
-    > - **(10)** is subject to a court order that—
-    >   - **(A)**
-    >     - **(i)** was issued after a hearing of which the person received actual notice, and at which the person had an opportunity to participate; or
-    >     - **(ii)** in the case of an ex parte order, relative to which notice and opportunity to be heard are provided—
-    >       - **(I)** within the time required by Federal, State, Tribal, or territorial law; and
-    >       - **(II)** in any event within a reasonable time after the order is issued, sufficient to protect the due process rights of the person;
-    >   - **(B)** prevents such a person from possessing or receiving firearms; and
-    >   - **(C)** includes a finding that such person poses a danger of harm to self or others,
+    > - **(10)** is subject to a court order—
+    >   - **(A)** issued under section 932; or
+    >   - **(B)** that is an extreme risk protection order (as defined in section 4(a) of the Federal Extreme Risk Protection Order Act of 2022),
 
-## § 4. Severability
+## § 4. Extreme risk protection order grant program
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Eligible entity* The term eligible entity means—
+    - **(A)** a State or Indian Tribe—
+      - **(i)** that enacts legislation described in subsection (c);
+      - **(ii)** with respect to which the Attorney General determines that the legislation described in clause (i) complies with the requirements under subsection (c)(1); and
+      - **(iii)** that certifies to the Attorney General that the State or Indian Tribe shall—
+        - **(I)** use the grant for the purposes described in subsection (b)(2); and
+        - **(II)** allocate not less than 25 percent and not more than 70 percent of the amount received under a grant under subsection (b) for the development and dissemination of training for law enforcement officers in accordance with subsection (b)(4); or
+    - **(B)** a unit of local government or other public or private entity that—
+      - **(i)** is located in a State or in the territory under the jurisdiction of an Indian Tribe that meets the requirements described in clauses (i) and (ii) of subparagraph (A); and
+      - **(ii)** certifies to the Attorney General that the unit of local government or entity shall—
+        - **(I)** use the grant for the purposes described in subsection (b)(2); and
+        - **(II)** allocate not less than 25 percent and not more than 70 percent of the amount received under a grant under this section for the development and dissemination of training for law enforcement officers in accordance with subsection (b)(4).
+  - **(2)** *Extreme risk protection order* The term extreme risk protection order means a written order or warrant, issued by a State or Tribal court or signed by a magistrate (or other comparable judicial officer), the primary purpose of which is to reduce the risk of firearm-related death or injury by doing 1 or more of the following:
+    - **(A)** Prohibiting a named individual from having under the custody or control of the individual, owning, purchasing, possessing, or receiving a firearm.
+    - **(B)** Having a firearm removed or requiring the surrender of firearms from a named individual.
+  - **(3)** *Firearm* The term firearm has the meaning given the term in section 921 of title 18, United States Code.
+  - **(4)** *Indian Tribe* The term Indian Tribe has the meaning given the term Indian tribe in section 1709 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10389).
+  - **(5)** *Law enforcement officer* The term law enforcement officer means a public servant authorized by Federal, State, local, or Tribal law or by a Federal, State, local, or Tribal government agency to—
+    - **(A)** engage in or supervise the prevention, detection, investigation, or prosecution of an offense; or
+    - **(B)** supervise sentenced criminal offenders.
+  - **(6)** *Petitioner* The term petitioner means an individual authorized under State or Tribal law to petition for an extreme risk protection order.
+  - **(7)** *Respondent* The term respondent means an individual named in the petition for an extreme risk protection order or subject to an extreme risk protection order.
+  - **(8)** *State* The term State means—
+    - **(A)** a State;
+    - **(B)** the District of Columbia;
+    - **(C)** the Commonwealth of Puerto Rico; and
+    - **(D)** any other territory or possession of the United States.
+  - **(9)** *Unit of local government* The term unit of local government has the meaning given the term in section 901 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10251).
+- **(b)** *Grant program established*
+  - **(1)** *In general* The Director of the Office of Community Oriented Policing Services of the Department of Justice shall establish a program under which, from amounts made available to carry out this section, the Director may make grants to eligible entities to assist in carrying out the provisions of the legislation described in subsection (c).
+  - **(2)** *Use of funds* Funds awarded under this subsection may be used by an applicant to—
+    - **(A)** enhance the capacity of law enforcement agencies and the courts of a State, unit of local government, or Indian Tribe by providing personnel, training, technical assistance, data collection, and other resources to carry out enacted legislation described in subsection (c);
+    - **(B)** train judges, court personnel, health care and legal professionals, and law enforcement officers to more accurately identify individuals whose access to firearms poses a danger of causing harm to themselves or others by increasing the risk of firearms suicide or interpersonal violence;
+    - **(C)** develop and implement law enforcement and court protocols, forms, and orders so that law enforcement agencies and the courts may carry out the provisions of the enacted legislation described in subsection (c) in a safe, equitable, and effective manner, including through the removal and storage of firearms pursuant to extreme risk protection orders under the enacted legislation; and
+    - **(D)** raise public awareness and understanding of the enacted legislation described in subsection (c), including through subgrants to community-based organizations for the training of community members, so that extreme risk protection orders may be issued in appropriate situations to reduce the risk of firearms-related death and injury.
+  - **(3)** *Application* An eligible entity desiring a grant under this subsection shall submit to the Attorney General an application at such time, in such manner, and containing or accompanied by such information as the Attorney General may reasonably require.
+  - **(4)** *Training*
+    - **(A)** *In general* A recipient of a grant under this subsection shall provide training to law enforcement officers, including officers of relevant Federal, State, local, and Tribal law enforcement agencies, in the safe, impartial, effective, and equitable use and administration of extreme risk protection orders, including training to address—
+      - **(i)** bias based on race and racism, ethnicity, gender, sexual orientation, gender identity, religion, language proficiency, mental health condition, disability, and classism in the use and administration of extreme risk protection orders;
+      - **(ii)** the appropriate use of extreme risk protection orders in cases of domestic violence, including the applicability of other policies and protocols to address domestic violence in situations that may also involve extreme risk protection orders and the necessity of safety planning with the victim before a law enforcement officer petitions for and executes an extreme risk protection order, if applicable;
+      - **(iii)** interacting with persons with mental, behavioral, or physical disabilities, or emotional distress, including de-escalation techniques and crisis intervention;
+      - **(iv)** techniques for outreach to historically marginalized cultural communities and the development of linguistic proficiencies for law enforcement;
+      - **(v)** community relations; and
+      - **(vi)** best practices for referring persons subject to extreme risk protection orders and associated victims of violence to social service providers that may be available in the jurisdiction and appropriate for those individuals, including health care, mental health, substance abuse, and legal services, employment and vocational services, housing assistance, case management, and veterans and disability benefits.
+    - **(B)** *Consultation with experts* A recipient of a grant under this subsection, in developing law enforcement training required under subparagraph (A), shall seek advice from domestic violence service providers (including culturally specific (as defined in section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291)) providers), social service providers, suicide prevention advocates, violence intervention specialists, law enforcement agencies, mental health disability experts, and other community groups working to reduce suicides and violence, including domestic violence, within the State or the territory under the jurisdiction of the Indian Tribe, as applicable, that enacted the legislation described in subsection (c) that enabled the grant recipient to be an eligible entity.
+  - **(5)** *Incentives* For each of fiscal years 2023 through 2027, the Attorney General shall give affirmative preference in awarding any discretionary grant awarded by the Office of Community Oriented Policing Services to a State or Indian Tribe that has enacted legislation described in subsection (c) or to a unit of local government or other public or private entity located in such a State or in the territory under the jurisdiction of such an Indian Tribe.
+  - **(6)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
+- **(c)** *Eligibility for extreme risk protection order grant program*
+  - **(1)** *Requirements* Legislation described in this subsection is legislation that establishes requirements that are substantially similar to the following:
+    - **(A)** *Application for extreme risk protection order* A petitioner, including a law enforcement officer, may submit an application to a State or Tribal court, on a form designed by the court or a State or Tribal agency, that—
+      - **(i)** describes the facts and circumstances justifying that an extreme risk protection order be issued against the named individual; and
+      - **(ii)** is signed by the applicant, under oath.
+    - **(B)** *Notice and due process* The individual named in an application for an extreme risk protection order as described in subparagraph (A) shall be given written notice of the application and an opportunity to be heard on the matter in accordance with this paragraph.
+    - **(C)** *Issuance of extreme risk protection orders*
+      - **(i)** *Hearing*
+        - **(I)** *In general* Upon receipt of an application described in subparagraph (A) or request of an individual named in such an application, the court shall order a hearing to be held within a reasonable time, and not later than 30 days after the date of the application or request.
+        - **(II)** *Determination* If the court finds at the hearing ordered under subclause (I), by a preponderance of the evidence or according to a higher evidentiary standard established by the State or Indian Tribe, that the respondent poses a danger of causing harm to self or others by having access to a firearm, the court may issue an extreme risk protection order.
+      - **(ii)** *Duration of extreme risk protection order* An extreme risk protection order shall be in effect—
+        - **(I)** until an order terminating or superseding the extreme risk protection order is issued; or
+        - **(II)** for a set period of time.
+    - **(D)** *Ex parte extreme risk protection orders*
+      - **(i)** *In general* Upon receipt of an application described in subparagraph (A), the court may issue an ex parte extreme risk protection order, if—
+        - **(I)** the application for an extreme risk protection order alleges that the respondent poses a danger of causing harm to self or others by having access to a firearm; and
+        - **(II)** the court finds there is reasonable cause to believe, or makes a finding according to a higher evidentiary standard established by the State or Indian Tribe, that the respondent poses a danger of causing harm to self or others by having access to a firearm.
+      - **(ii)** *Duration of ex parte extreme risk protection order* An ex parte extreme risk protection order shall remain in effect only until the hearing required under subparagraph (C)(i).
+    - **(E)** *Storage of removed firearms*
+      - **(i)** *Availability for return* All firearms removed or surrendered pursuant to an extreme risk protection order shall only be available for return to the named individual when the individual has regained eligibility under Federal and State law, and, where applicable, Tribal law to possess firearms.
+      - **(ii)** *Consent required for disposal or destruction* Firearms owned by a named individual may not be disposed of or destroyed during the period of the extreme risk protection order without the consent of the named individual.
+    - **(F)** *Notification*
+      - **(i)** *In general*
+        - **(I)** *Requirement* A State or Tribal court that issues an extreme risk protection order shall notify the Attorney General or the comparable State or Tribal agency, as applicable, of the order as soon as practicable or within a designated period of time.
+        - **(II)** *Form and manner* A State or Tribal court shall submit a notification under subclause (I) in an electronic format, in a manner prescribed by the Attorney General or the comparable State or Tribal agency.
+      - **(ii)** *Update of databases* As soon as practicable or within the time period designated by State or Tribal law after receiving a notification under clause (i), the Attorney General or the comparable State or Tribal agency shall ensure that the extreme risk protection order is reflected in the National Instant Criminal Background Check System.
+  - **(2)** *Additional provisions* Legislation described in this subsection may—
+    - **(A)** provide procedures for the termination of an extreme risk protection order;
+    - **(B)** provide procedures for the renewal of an extreme risk protection order;
+    - **(C)** establish burdens and standards of proof for issuance of orders described in paragraph (1) that are substantially similar to or higher than the burdens and standards of proof set forth in that paragraph;
+    - **(D)** limit the individuals who may submit an application described in paragraph (1), provided that, at a minimum, law enforcement officers are authorized to do so; and
+    - **(E)** include any other authorizations or requirements that the State or Tribal authorities determine appropriate.
+  - **(3)** *Annual report* Not later than 1 year after the date on which an eligible entity receives a grant under subsection (b), and annually thereafter for the duration of the grant period, the entity shall submit to the Attorney General a report that includes, with respect to the preceding year—
+    - **(A)** the number of petitions for ex parte extreme risk protection orders filed, as well as the number of such orders issued and the number denied, disaggregated by—
+      - **(i)** the jurisdiction;
+      - **(ii)** the individual authorized under State or Tribal law to petition for an extreme risk protection order, including the relationship of the individual to the respondent; and
+      - **(iii)** the alleged danger posed by the respondent, including whether the danger involved a risk of suicide, unintentional injury, domestic violence, or other interpersonal violence;
+    - **(B)** the number of petitions for extreme risk protection orders filed, as well as the number of such orders issued and the number denied, disaggregated by—
+      - **(i)** the jurisdiction;
+      - **(ii)** the individual authorized under State or Tribal law to petition for an extreme risk protection order, including the relationship of the individual to the respondent; and
+      - **(iii)** the alleged danger posed by the respondent, including whether the danger involved a risk of suicide, unintentional injury, domestic violence, or other interpersonal violence;
+    - **(C)** the number of petitions for renewals of extreme risk protection orders filed, as well as the number of such orders issued and the number denied;
+    - **(D)** the number of cases in which a court imposed a penalty for false reporting or frivolous petitions;
+    - **(E)** demographic data of petitioners, including race, ethnicity, national origin, sex, gender, age, disability, average annual income, and English language proficiency, if available;
+    - **(F)** demographic data of respondents, including race, ethnicity, national origin, sex, gender, age, disability, average annual income, and English language proficiency, if available; and
+    - **(G)** the total number of firearms removed pursuant to extreme risk protection orders, and, if available, the number of firearms removed pursuant to each such order.
+
+## § 5. Identification records
+
+Section 534 of title 28, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (3), by striking “and” at the end;
+  - **(B)** by redesignating paragraph (4) as paragraph (5); and
+  - **(C)** by inserting after paragraph (3) the following:
+    > - **(4)**
+    >   - **(A)** subject to subparagraph (B), acquire, collect, classify, and preserve records from Federal, Tribal, and State courts and other agencies identifying individuals subject to extreme risk protection orders, as defined in section 4(a) of the Federal Extreme Risk Protection Order Act of 2022; and
+    >   - **(B)** destroy each record acquired or collected under subparagraph (A) when the applicable extreme risk protection order expires or is terminated or dissolved; and
+
+- **(2)** in subsection (b), by striking “(a)(4)” and inserting “(a)(5)”; and
+- **(3)** by adding at the end the following:
+  > - **(g)** *Extreme risk protection orders in national crime information databases* A Federal, Tribal, or State criminal justice agency or criminal or civil court may—
+  >   - **(1)** include extreme risk protection orders, as defined in section 4 of the Federal Extreme Risk Protection Order Act of 2022, and Federal extreme risk protection orders, as defined in section 932 of title 18, in national crime information databases, as that term is defined in subsection (f)(3) of this section; and
+  >   - **(2)** have access to information regarding extreme risk protection orders and Federal extreme risk protection orders through the national crime information databases.
+
+## § 6. Full faith and credit
+
+- **(a)** *Definitions* In this section, the terms extreme risk protection order, Indian Tribe, and State have the meanings given those terms in section 4(a).
+- **(b)** *Full faith and credit required* Any extreme risk protection order issued under a State or Tribal law enacted in accordance with this Act shall be accorded the same full faith and credit by the court of another State or Indian Tribe (referred to in this subsection as the enforcing State or Indian Tribe) and enforced by the court and law enforcement personnel of the other State or Tribal government as if it were the order of the enforcing State or Indian Tribe.
+- **(c)** *Applicability to protection orders*
+  - **(1)** *In general* Subsection (b) shall apply to a protection order issued by a State or Tribal court if—
+    - **(A)** the court has jurisdiction over the parties and matter under the law of the State or Indian Tribe; and
+    - **(B)** reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person’s right to due process.
+  - **(2)** *Ex parte protection orders* For purposes of paragraph (1)(B), in the case of an ex parte protection order, notice and opportunity to be heard shall be provided within the time required by State or Tribal law, and in any event within a reasonable time after the order is issued, sufficient to protect the due process rights of the respondent.
+- **(d)** *Tribal court jurisdiction* For purposes of this section, a court of an Indian Tribe shall have full civil jurisdiction to issue and enforce a protection order involving any person, including the authority to enforce any order through civil contempt proceedings, to exclude violators from Indian land, and to use other appropriate mechanisms, in matters arising anywhere in the Indian country (as defined in section 1151 of title 18, United States Code) of the Indian Tribe or otherwise within the authority of the Indian Tribe.
+
+## § 7. Conforming amendment
+
+Section 3(1) of the NICS Improvement Amendments Act of 2007 (34 U.S.C. 40903(1)) is amended by striking “section 922(g)(8)” and inserting “paragraph (8) or (10) of section 922(g)”.
+
+## § 8. Severability
 
 If any provision of this Act, or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.
 
-## § 5. Effective date
+## § 9. Effective date
 
 This Act and the amendments made by this Act shall take effect on the date that is 180 days after the date of enactment of this Act.
-
-## § 6. Preemption
-
-Nothing in this Act or an amendment made by this Act shall be construed to preempt any State law or policy.

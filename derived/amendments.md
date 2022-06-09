@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2377
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+17 amendatory instructions. 1 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 34 U.S.C. § 40903
+
+> Section 3(1) of the NICS Improvement Amendments Act of 2007 (34 U.S.C. 40903(1)) is amended by striking “section 922(g)(8)” and inserting “paragraph (8) or (10) of section 922(g)”.
+
+| | |
+|---|---|
+| Removed | `section 922(g)(8)` |
+| Inserted | `paragraph (8) or (10) of section 922(g)` |
 
 ## Stated, not applied
 
@@ -42,3 +53,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (8)(C)(ii), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the comma at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “(a)(4)” and inserting “(a)(5)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
