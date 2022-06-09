@@ -1,0 +1,15 @@
+---
+legis-num: S. 4377
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4377
+
+> To designate the El Paso Community Healing Garden National Memorial, and for other purposes.
+
+## § 1. Designation of El Paso Community Healing Garden National Memorial
+
+- **(a)** *Designation* The Healing Garden located at 6900 Delta Drive, El Paso, Texas, is designated as the “El Paso Community Healing Garden National Memorial”.
+- **(b)** *Effect of designation* The national memorial designated by this section is not a unit of the National Park System and the designation of the El Paso Community Healing Garden National Memorial shall not require or authorize Federal funds to be expended for any purpose related to that national memorial.
