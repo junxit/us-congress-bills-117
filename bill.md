@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 8045
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8045
+
+> To amend the Energy Act of 2020 to alter the criteria for the designation of critical minerals.
+
+## § 1. Short title
+
+This Act may be cited as the “Critical Minerals Classification Improvement Act of 2022”.
+
+## § 2. Amendment to definition of critical mineral remove exclusion of fuel minerals
+
+- **(a)** *In general* Section 7002(a)(3)(B) of the Energy Act of 2020 (30 U.S.C. 1606(a)(3)(B)) is amended—
+  - **(1)** by striking clause (i); and
+  - **(2)** by redesignating clauses (ii) and (iii) as clauses (i) and (ii), respectively.
+- **(b)** *Technical correction* Section 7002(a)(3)(B)(i) of the Energy Act of 2020 (30 U.S.C. 1606(a)(3)(B)), as redesignated, is amended by inserting “or” after the semicolon.
+- **(c)** *Uranium critical mineral status* The Director of the United States Geological Survey shall, not later than 90 days after the date of enactment of this Act, make such revisions to the final list of critical minerals included in the notice entitled “2022 Final List of Critical Minerals” published by the United States Geological Survey (87 Fed. Reg. 10381; February 24, 2022) as the Director determines are necessary consistent with the amendments made by this section.
