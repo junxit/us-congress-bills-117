@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6270
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,8 +29,9 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
       - **(iv)** The identification of physical and digital infrastructure required to meet the standards for vertiport design and performance characteristics established by the Federal Aviation Administration (as in effect on the date on which the Secretary issues a grant to an eligible entity), including modifications to existing infrastructure and ground sensors, electric charging and other fueling requirements, electric utility requirements, wireless and cybersecurity requirements, and other necessary hardware or software.
       - **(v)** A description of potential environmental effects of planned construction or siting of public-use vertiports, including efforts to reduce the adverse effects of potential aviation noise.
       - **(vi)** A description of how planned public-use or private-use vertiport locations, including new or repurposed infrastructure, fit into existing State and local transportation systems and networks, including—
-        - **(I)** connectivity to existing public transportation hubs and intermodal and multimodal facilities; and
-        - **(II)** opportunities to create new service to areas underserved by air transportation, without compromising safety and efficiency of other facilities and airspace users.
+        - **(I)** connectivity to existing public transportation hubs and intermodal and multimodal facilities;
+        - **(II)** opportunities to create new service to areas underserved by air transportation, without compromising safety and efficiency of other facilities and airspace users; and
+        - **(III)** any potential conflicts to existing aviation infrastructure that may arise from the proposed location of the vertiport.
       - **(vii)** A description of how public-use vertiport planning will be incorporated in State or metropolitan planning documents.
       - **(viii)** The identification of the process an eligible entity will undertake to ensure an adequate level of community engagement for planned public-use vertiport locations and planned or anticipated AAM operations, including engagement with underserved communities, individuals with disabilities, and racial and ethnic minorities, to address equity of access and other priorities.
       - **(ix)** The identification of the actions necessary for an eligible entity to undertake the construction of public-use vertiports, such as planning studies to assess existing infrastructure, environmental studies, studies of projected economic benefit to the community, lease or acquisition of an easement or land for new infrastructure, and activities related to other capital costs.
@@ -40,7 +41,7 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
     - **(A)** *In general* In awarding grants under this subsection, the Secretary shall consider the following:
       - **(i)** Geographic diversity.
       - **(ii)** The need for comprehensive plans that—
-        - **(I)** facilitate the safe integration of AAM operations into the National Airspace System;
+        - **(I)** ensure the safe integration of AAM operations into the National Airspace System;
         - **(II)** improve transportation safety, connectivity, access, and equity in both rural and urban regions in the United States;
         - **(III)** leverage existing public transportation systems and intermodal and multimodal facilities;
         - **(IV)** reduce surface congestion and the environmental impacts of transportation;
@@ -56,14 +57,14 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
 - **(c)** *Construction grants*
   - **(1)** *In general* The Secretary may award grants to covered recipients to carry out construction activities described under paragraph (2).
   - **(2)** *Eligible uses* A covered recipient may use grant funds awarded under this subsection for design, bidding, and environmental study activities, and other capital costs, as the Secretary determines appropriate, directly related to the construction of a public-use vertiport or associated infrastructure pursuant to the comprehensive plan submitted by such covered recipient.
-  - **(3)** *Requirements* The requirements of subsections (b) and (c) of section 47112 of title 49, United States Code, and subsections (a) and (b) of section 50101 of such title, shall apply to a grant awarded under this subsection.
+  - **(3)** *Requirements* The requirements of subsections (b) and (c) of section 47112 of title 49, United States Code, and section 50101 of such title, shall apply to a grant awarded under this subsection.
   - **(4)** *Limitation* The Secretary may not award a grant under this subsection—
     - **(A)** for the acquisition, conversion, or retrofitting of AAM aircraft; or
     - **(B)** for the construction of private-use vertiports or associated infrastructure.
   - **(5)** *Grant timing* The Secretary may not issue a grant under this subsection until—
     - **(A)** the Administrator of the Federal Aviation Administration has—
-      - **(i)** certified 2 or more models of aircraft designed to provide AAM transportation under part 23, 25, 27, or 29 of title 14, Code of Federal Regulations; and
-      - **(ii)** published an advisory circular containing appropriate standards for vertiport design and performance characteristics; and
+      - **(i)** issued type certificates for 2 or more models of aircraft designed to provide AAM transportation; and
+      - **(ii)** published an advisory circular containing appropriate standards for vertiport design and performance characteristics and vertiport siting; and
     - **(B)** the Secretary has—
       - **(i)** determined that 2 or more AAM operators hold certificates under part 119 of title 14, Code of Federal Regulations, for such operators to perform air carrier operations covered under part 135 of such title; and
       - **(ii)** issued, to 2 or more air carriers formed to provide AAM transportation, certificates under chapter 411 of title 49, United States Code.
@@ -76,26 +77,26 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
     - **(A)** for grants awarded prior to September 30, 2023; and
     - **(B)** for administrative expenses.
 - **(f)** *Definitions* In this Act:
-  - **(1)** *Advanced air mobility; AAM* The terms advanced air mobility and AAM mean an air transportation system that transports individuals and property between points in the United States using aircraft, such as remotely piloted, autonomous, or vertical take-off and landing aircraft, including those powered by electric or hybrid driven propulsion, in both controlled and uncontrolled airspace.
-  - **(2)** *Appropriate committees of Congress* The term appropriate committees of Congress means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-  - **(3)** *Commercial AAM entities* The term commercial AAM entities means—
+  - **(1)** *Advanced air mobility; aam* The terms “advanced air mobility” and “AAM” mean an air transportation system that transports individuals and property between points in the United States using aircraft, such as remotely piloted, autonomous, or vertical take-off and landing aircraft, including those powered by electric or hybrid driven propulsion, in both controlled and uncontrolled airspace.
+  - **(2)** *Appropriate committees of congress* The term “appropriate committees of Congress” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+  - **(3)** *Commercial aam entities* The term “commercial AAM entities” means—
     - **(A)** manufacturers of aircraft, avionics, propulsion systems, and air traffic management systems related to AAM; and
     - **(B)** intended commercial operators of AAM aircraft and systems.
-  - **(4)** *Covered recipient* The term covered recipient means the recipient of a grant under subsection (b) who has submitted a comprehensive plan—
+  - **(4)** *Covered recipient* The term “covered recipient” means the recipient of a grant under subsection (b) who has submitted a comprehensive plan—
     - **(A)** that has been reviewed by the Secretary pursuant to subsection (b); and
-    - **(B)** that the Secretary has determined contains proposed projects that comply with the standards for vertiport design and performance characteristics described in a published advisory circular.
-  - **(5)** *Eligible entity* The term eligible entity means—
+    - **(B)** that the Secretary has determined contains proposed projects that comply with the standards for vertiport design, performance, and siting characteristics described in a published advisory circular.
+  - **(5)** *Eligible entity* The term “eligible entity” means—
     - **(A)** a State, local, or Tribal government, including a political subdivision thereof;
     - **(B)** an airport sponsor;
     - **(C)** a transit agency;
     - **(D)** a port authority;
     - **(E)** a metropolitan planning organization; or
     - **(F)** any combination or consortium of the entities described in subparagraphs (A) through (E).
-  - **(6)** *Metropolitan planning organization* The term metropolitan planning organization has the meaning given such term in section 5303(b) of title 49, United States Code.
-  - **(7)** *Secretary* The term Secretary means the Secretary of Transportation.
-  - **(8)** *Public-use vertiport* The term public-use vertiport means a designated location used or intended to be used for public purposes and to support AAM operations, including the landing, takeoff, loading, taxiing, parking, and storage of vertical take-off and landing aircraft.
-  - **(9)** *State* The term State means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
-  - **(10)** *Vertical take-off and landing aircraft* The term vertical take-off and landing aircraft means an aircraft with lift/thrust units used to generate powered lift and control and with 2 or more lift/thrust units used to provide lift during vertical take-off or landing.
+  - **(6)** *Metropolitan planning organization* The term “metropolitan planning organization” has the meaning given such term in section 5303(b) of title 49, United States Code.
+  - **(7)** *Public-use vertiport* The term “public-use vertiport” means a designated location used or intended to be used for public purposes and to support AAM operations, including the landing, takeoff, loading, taxiing, parking, and storage of vertical take-off and landing aircraft.
+  - **(8)** *State* The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
+  - **(9)** *Secretary* The term “Secretary” means the Secretary of Transportation.
+  - **(10)** *Vertical take-off and landing aircraft* The term “vertical take-off and landing aircraft” means an aircraft with lift/thrust units used to generate powered lift and control and with 2 or more lift/thrust units used to provide lift during vertical take-off or landing.
 
 ## § 3. Rule of construction
 
