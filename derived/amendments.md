@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7666
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-215 amendatory instructions. 122 executed, 93 stated and not applied.
+253 amendatory instructions. 137 executed, 116 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,11 +80,11 @@ to guess them.
 
 ### 42 U.S.C. § 247b-13a
 
-> in subparagraph (B), by striking “to health care providers, including information on maternal depression screening, treatment, and follow-up support services, and linkages to community-based resources; and” and inserting “on maternal mental health and substance use disorder screening, brief intervention, treatment (as applicable for health care providers) and referrals for treatment, follow-up support services, and linkages to community-based resources to health care providers in the primary care setting and clinical perinatal support workers; and”; and
+> in subparagraph (B), by striking “to health care providers, including information on maternal depression screening, treatment, and followup support services, and linkages to community-based resources; and” and inserting “on maternal mental health and substance use disorder screening, brief intervention, treatment (as applicable for health care providers) and referrals for treatment, follow-up support services, and linkages to community-based resources to health care providers in the primary care setting and clinical perinatal support workers; and”; and
 
 | | |
 |---|---|
-| Removed | `to health care providers, including information on maternal depression screening, treatment, and follow-up support services, and linkages to community-based resources; and` |
+| Removed | `to health care providers, including information on maternal depression screening, treatment, and followup support services, and linkages to community-based resources; and` |
 | Inserted | `on maternal mental health and substance use disorder screening, brief intervention, treatment (as applicable for health care providers) and referrals for treatment, follow-up support services, and linkages to community-based resources to health care providers in the primary care setting and clinical perinatal support workers; and` |
 
 ### 42 U.S.C. § 247b-13a
@@ -98,12 +98,12 @@ to guess them.
 
 ### 42 U.S.C. § 247b-13a
 
-> by striking “2018 through 2022” and inserting “2023 through 2028”.
+> by striking “2018 through 2022” and inserting “2023 through 2027”.
 
 | | |
 |---|---|
 | Removed | `2018 through 2022` |
-| Inserted | `2023 through 2028` |
+| Inserted | `2023 through 2027` |
 
 ### 42 U.S.C. § 290aa-0
 
@@ -152,7 +152,7 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-41
 
-> in paragraph (4), by striking “Indian tribe, tribal organization” each place it appears and inserting “Indian Tribe, Tribal organization”;
+> in paragraph (4), by striking “Indian tribe, tribal organization” and inserting “Indian Tribe, Tribal organization”;
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-41
 
-> by striking “Indian tribe, tribal organization” each place it appears and inserting “Indian Tribe, Tribal organization”; and
+> by striking “Indian tribe, tribal organization” and inserting “Indian Tribe, Tribal organization”;
 
 | | |
 |---|---|
@@ -170,7 +170,7 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-41
 
-> in paragraph (6), by striking “Indian tribe, tribal organization” each place it appears and inserting “Indian Tribe, Tribal organization”; and
+> in paragraph (6), by striking “Indian tribe, tribal organization” and inserting “Indian Tribe, Tribal organization”; and
 
 | | |
 |---|---|
@@ -251,12 +251,12 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-44
 
-> Section 520M(e)(1) of the Public Health Service Act (42 U.S.C. 290bb–44(d)(1)) is amended by striking “$5,000,000 for the period of fiscal years 2018 through 2022” and inserting “$15,000,000 for each of fiscal years 2023 through 2027”.
+> Section 520M(e)(1) of the Public Health Service Act (42 U.S.C. 290bb–44(d)(1)) is amended by striking “$5,000,000 for the period of fiscal years 2018 through 2022” and inserting “$9,000,000 for each of fiscal years 2023 through 2027”.
 
 | | |
 |---|---|
 | Removed | `$5,000,000 for the period of fiscal years 2018 through 2022` |
-| Inserted | `$15,000,000 for each of fiscal years 2023 through 2027` |
+| Inserted | `$9,000,000 for each of fiscal years 2023 through 2027` |
 
 ### 42 U.S.C. § 300x-9
 
@@ -287,12 +287,12 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-2
 
-> by striking “tribes and tribal organizations” each place it appears and inserting “Tribes and Tribal organizations”; and
+> by striking “tribes and tribal organizations (as the terms Indian tribes and tribal organizations are defined” and inserting “Tribes and Tribal organizations (as such terms are defined”; and
 
 | | |
 |---|---|
-| Removed | `tribes and tribal organizations` |
-| Inserted | `Tribes and Tribal organizations` |
+| Removed | `tribes and tribal organizations (as the terms Indian tribes and tribal organizations are defined` |
+| Inserted | `Tribes and Tribal organizations (as such terms are defined` |
 
 ### 42 U.S.C. § 290bb-2
 
@@ -368,7 +368,7 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-22
 
-> in the matter following paragraph (3), by striking “tribes or tribal organizations” each place it appears and inserting “Tribes or Tribal organizations”;
+> in the matter following paragraph (3), by striking “tribes or tribal organizations” and inserting “Tribes or Tribal organizations”;
 
 | | |
 |---|---|
@@ -494,39 +494,102 @@ to guess them.
 
 ### 42 U.S.C. § 290dd-3
 
-> in subsection (b)(1), by striking “abuse” and inserting “use disorder”; and
+> in subparagraph (D), by striking “drug overdose” and inserting “substance overdose”.
 
 | | |
 |---|---|
-| Removed | `abuse` |
-| Inserted | `use disorder` |
+| Removed | `drug overdose` |
+| Inserted | `substance overdose` |
 
 ### 42 U.S.C. § 290dd-3
 
-> in subsection (f), by striking “2017 through 2021” and inserting “2023 through 2027”.
+> in subsection (f), as so redesignated, by striking “subsection (d)” and inserting “subsection (e)”; and
 
 | | |
 |---|---|
-| Removed | `2017 through 2021` |
-| Inserted | `2023 through 2027` |
+| Removed | `subsection (d)` |
+| Inserted | `subsection (e)` |
+
+### 42 U.S.C. § 290dd-3
+
+> Section 544(g) of the Public Health Service Act (42 U.S.C. 290dd–3), as redesignated, is amended by striking “fiscal years 2017 through 2021” and inserting “fiscal years 2023 through 2027”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 2017 through 2021` |
+| Inserted | `fiscal years 2023 through 2027` |
+
+### 42 U.S.C. § 290dd-3
+
+> Section 544 of the Public Health Service Act (42 U.S.C. 290dd–3), as amended, is further amended by striking “approved or cleared” each place it appears and inserting “approved, cleared, or otherwise authorized”.
+
+| | |
+|---|---|
+| Removed | `approved or cleared` |
+| Inserted | `approved, cleared, or otherwise authorized` |
 
 ### 42 U.S.C. § 290ee
 
-> in subsection (c)(2), by striking “abuse” and inserting “use disorder”; and
+> in the section heading, by striking “access and education grant programs” and inserting “access, education, and co-prescribing grant programs”;
 
 | | |
 |---|---|
-| Removed | `abuse` |
-| Inserted | `use disorder` |
+| Removed | `access and education grant programs` |
+| Inserted | `access, education, and co-prescribing grant programs` |
 
 ### 42 U.S.C. § 290ee
 
-> in subsection (h)(1), by striking “2017 through 2019” and inserting “2023 through 2027”.
+> in the heading of subsection (a), by striking “Grants to States” and inserting “Grants”;
 
 | | |
 |---|---|
-| Removed | `2017 through 2019` |
-| Inserted | `2023 through 2027` |
+| Removed | `Grants to States` |
+| Inserted | `Grants` |
+
+### 42 U.S.C. § 290ee
+
+> in subsection (a), by striking “shall make grants to States” and inserting “shall make grants to States, localities, Indian Tribes (as defined by the Federally Recognized Indian Tribe List Act of 1994), Tribal organizations, and Urban Indian organizations (as those terms are defined in section 4 of the Indian Health Care Improvement Act)”;
+
+| | |
+|---|---|
+| Removed | `shall make grants to States` |
+| Inserted | `shall make grants to States, localities, Indian Tribes (as defined by the Federally Recognized Indian Tribe List Act of 1994), Tribal organizations, and Urban Indian organizations (as those terms are defined in section 4 of the Indian Health Care Improvement Act)` |
+
+### 42 U.S.C. § 290ee
+
+> in subsection (a)(1), by striking “implement strategies for pharmacists to dispense a drug or device” and inserting “implement strategies that increase access to drugs or devices”;
+
+| | |
+|---|---|
+| Removed | `implement strategies for pharmacists to dispense a drug or device` |
+| Inserted | `implement strategies that increase access to drugs or devices` |
+
+### 42 U.S.C. § 290ee
+
+> Section 545(d)(2) of the Public Health Service Act (42 U.S.C. 290ee(d)(2)) is amended by striking “3 years” and inserting “5 years”.
+
+| | |
+|---|---|
+| Removed | `3 years` |
+| Inserted | `5 years` |
+
+### 42 U.S.C. § 290ee
+
+> Section 545(h)(1) of the Public Health Service Act, is amended by striking “fiscal years 2017 through 2019” and inserting “fiscal years 2023 through 2027”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 2017 through 2019` |
+| Inserted | `fiscal years 2023 through 2027` |
+
+### 42 U.S.C. § 290ee
+
+> Section 545 of the Public Health Service Act (42 U.S.C. 290ee), as amended, is further amended by striking “approved or cleared” each place it appears and inserting “approved, cleared, or otherwise authorized”.
+
+| | |
+|---|---|
+| Removed | `approved or cleared` |
+| Inserted | `approved, cleared, or otherwise authorized` |
 
 ### 42 U.S.C. § 290ee-3
 
@@ -656,7 +719,7 @@ to guess them.
 
 ### 42 U.S.C. § 300x-23
 
-> in subsections (a) and (b), by striking “drug abuse” and inserting “substance use disorders”;
+> in subsection (a), by striking “drug abuse” and inserting “substance use disorders”;
 
 | | |
 |---|---|
@@ -719,7 +782,7 @@ to guess them.
 
 ### 42 U.S.C. § 300x-64
 
-> by striking “substance abuse” each place it appears and inserting “substance use disorders”; and
+> by striking “substance abuse” and inserting “substance use disorders”; and
 
 | | |
 |---|---|
@@ -746,7 +809,7 @@ to guess them.
 
 ### 42 U.S.C. § 300x-66
 
-> in section 1956 (42 U.S.C. 300x–66), by striking “substance abuse” each place it appears and inserting “substance use disorders”.
+> in section 1956 (42 U.S.C. 300x–66), by striking “substance abuse” and inserting “substance use disorders”.
 
 | | |
 |---|---|
@@ -773,7 +836,7 @@ to guess them.
 
 ### 42 U.S.C. § 300y-11
 
-> in section 1976 (42 U.S.C. 300y–11), by striking “intravenous abuse” and inserting “intravenous use”.
+> in section 1976 (42 U.S.C. 300y–11), by striking “intravenous abuse” each place it appears and inserting “intravenous use”.
 
 | | |
 |---|---|
@@ -797,15 +860,6 @@ to guess them.
 |---|---|
 | Removed | `Tuberculosis and Human Immunodeficiency Virus` |
 | Inserted | `Tuberculosis, Viral Hepatitis, and Human Immunodeficiency Virus` |
-
-### 42 U.S.C. § 300x-33
-
-> in the subsection heading, by striking “tribes and tribal organizations” and inserting “Tribes and Tribal organizations”;
-
-| | |
-|---|---|
-| Removed | `tribes and tribal organizations` |
-| Inserted | `Tribes and Tribal organizations` |
 
 ### 42 U.S.C. § 300x-33
 
@@ -870,6 +924,96 @@ to guess them.
 | Removed | `Definition` |
 | Inserted | `Definitions` |
 
+### 21 U.S.C. § 823
+
+> by striking “(g)(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment” and inserting “(g) Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment”;
+
+| | |
+|---|---|
+| Removed | `(g)(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment` |
+| Inserted | `(g) Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment` |
+
+### 21 U.S.C. § 823
+
+> by striking “(i) security of stocks” and inserting “(A) security of stocks”; and
+
+| | |
+|---|---|
+| Removed | `(i) security of stocks` |
+| Inserted | `(A) security of stocks` |
+
+### 21 U.S.C. § 823
+
+> by striking “(ii) the maintenance of records” and inserting “(B) the maintenance of records”.
+
+| | |
+|---|---|
+| Removed | `(ii) the maintenance of records` |
+| Inserted | `(B) the maintenance of records` |
+
+### 21 U.S.C. § 824
+
+> Subsections (a) and (d)(1) of section 304 of the Controlled Substances Act (21 U.S.C. 824) are each amended by striking “303(g)(1)” each place it appears and inserting “303(g)”.
+
+| | |
+|---|---|
+| Removed | `303(g)(1)` |
+| Inserted | `303(g)` |
+
+### 21 U.S.C. § 829a
+
+> in the matter preceding subparagraph (A), by striking “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 303(g)(2)” and inserting “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment”; and
+
+| | |
+|---|---|
+| Removed | `the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 303(g)(2)` |
+| Inserted | `the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment` |
+
+### 21 U.S.C. § 829a
+
+> by striking “and—” and all that follows through “is to be administered by injection or implantation;” and inserting “and is to be administered by injection or implantation;”.
+
+| | |
+|---|---|
+| Removed | `and—” and all that follows through “is to be administered by injection or implantation;` |
+| Inserted | `and is to be administered by injection or implantation;` |
+
+### 21 U.S.C. § 824
+
+> Section 520E–4(c) of the Public Health Service Act (42 U.S.C. 290bb–36d(c)) is amended by striking “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 303(g)(2)(B) of the Controlled Substances Act” and inserting “information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 202 of the Controlled Substances Act for the purpose of maintenance or detoxification treatment”.
+
+| | |
+|---|---|
+| Removed | `information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 303(g)(2)(B) of the Controlled Substances Act` |
+| Inserted | `information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 202 of the Controlled Substances Act for the purpose of maintenance or detoxification treatment` |
+
+### 42 U.S.C. § 290dd-3
+
+> Section 544(a)(3) of the Public Health Service Act (42 U.S.C. 290dd–3), as added by section 219(a)(2), is amended by striking “any practitioner dispensing narcotic drugs pursuant to section 303(g) of the Controlled Substances Act” and inserting “any practitioner dispensing narcotic drugs for the purpose of maintenance or detoxification treatment”.
+
+| | |
+|---|---|
+| Removed | `any practitioner dispensing narcotic drugs pursuant to section 303(g) of the Controlled Substances Act` |
+| Inserted | `any practitioner dispensing narcotic drugs for the purpose of maintenance or detoxification treatment` |
+
+### 42 U.S.C. § 1395l
+
+> Section 1833(bb)(3)(B) of the Social Security Act (42 U.S.C. 1395l(bb)(3)(B)) is amended by striking “first receives a waiver under section 303(g) of the Controlled Substances Act on or after January 1, 2019” and inserting “first begins prescribing narcotic drugs in schedule III, IV, or V of section 202 of the Controlled Substances Act for the purpose of maintenance or detoxification treatment on or after January 1, 2021”.
+
+| | |
+|---|---|
+| Removed | `first receives a waiver under section 303(g) of the Controlled Substances Act on or after January 1, 2019` |
+| Inserted | `first begins prescribing narcotic drugs in schedule III, IV, or V of section 202 of the Controlled Substances Act for the purpose of maintenance or detoxification treatment on or after January 1, 2021` |
+
+### 42 U.S.C. § 1395m
+
+> Section 1834(o)(3)(C)(ii) of the Social Security Act (42 U.S.C. 1395m(o)(3)(C)(ii)) is amended by striking “first receives a waiver under section 303(g) of the Controlled Substances Act on or after January 1, 2019” and inserting “first begins prescribing narcotic drugs in schedule III, IV, or V of section 202 of the Controlled Substances Act for the purpose of maintenance or detoxification treatment on or after January 1, 2021”.
+
+| | |
+|---|---|
+| Removed | `first receives a waiver under section 303(g) of the Controlled Substances Act on or after January 1, 2019` |
+| Inserted | `first begins prescribing narcotic drugs in schedule III, IV, or V of section 202 of the Controlled Substances Act for the purpose of maintenance or detoxification treatment on or after January 1, 2021` |
+
 ### 42 U.S.C. § 233
 
 > Section 224(q)(6) of the Public Health Service Act (42 U.S.C. 233(q)(6)) is amended by striking “October 1, 2022” and inserting “October 1, 2027”.
@@ -890,21 +1034,12 @@ to guess them.
 
 ### 42 U.S.C. § 294e-1
 
-> Section 756(f) of the Public Health Service Act (42 U.S.C. 294e–1(f)) is amended by striking “For each of fiscal years 2019 through 2023” and inserting “For each of fiscal years 2023 through 2027”.
+> in subsection (f), by striking “For each of fiscal years 2019 through 2023” and inserting “For each of fiscal years 2023 through 2027”.
 
 | | |
 |---|---|
 | Removed | `For each of fiscal years 2019 through 2023` |
 | Inserted | `For each of fiscal years 2023 through 2027` |
-
-### 42 U.S.C. § 294k
-
-> Section 760(g) of the Public Health Service Act (42 U.S.C. 294k(g)) is amended by striking “for each of fiscal years 2018 through 2022” and inserting “for each of fiscal years 2023 through 2027”.
-
-| | |
-|---|---|
-| Removed | `for each of fiscal years 2018 through 2022` |
-| Inserted | `for each of fiscal years 2023 through 2027` |
 
 ### 42 U.S.C. § 254c-19
 
@@ -980,7 +1115,7 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-34
 
-> by striking “tribes” each place it appears and inserting “Tribes”; and
+> by striking “tribes” and inserting “Tribes”; and
 
 | | |
 |---|---|
@@ -1016,7 +1151,7 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-36
 
-> by striking “tribe” each place it appears and inserting “Tribe”;
+> by striking “tribe” and inserting “Tribe”;
 
 | | |
 |---|---|
@@ -1070,12 +1205,12 @@ to guess them.
 
 ### 42 U.S.C. § 290bb-36
 
-> in subsection (l)(4), by striking “between 10 and 24 years of age” and inserting “up to age 24 years of age”; and
+> in subsection (l)(4), by striking “between 10 and 24 years of age” and inserting “up to 24 years of age”; and
 
 | | |
 |---|---|
 | Removed | `between 10 and 24 years of age` |
-| Inserted | `up to age 24 years of age` |
+| Inserted | `up to 24 years of age` |
 
 ### 42 U.S.C. § 290bb-36
 
@@ -1133,7 +1268,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 290aa` | add-at-end | Part A of title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb-31` | add-at-end | Subpart 3 of part B of title V of the Public Health Service Act (42 U.S.C. 290bb–31 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-13a` | insert | by inserting “, Indian Tribes and Tribal Organizations (as such terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act), and Urban Indian organizations (as such term is defined in section 4 of the In… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 247b-13a` | insert | by inserting “, Indian Tribes and Tribal organizations (as such terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act), and Urban Indian organizations (as such term is defined under the Federally Re… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 247b-13a` | replace | by striking “may give priority to States proposing to improve or enhance access to screening” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 247b-13a` | replace | by striking the period at the end of paragraph (1), as so designated, and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-13a` | insert | by inserting after such paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1146,10 +1281,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 247b-13a` | redesignate | by redesignating subsection (e) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-13a` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 243` | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 317L–1 (42 U.S.C. 247b–13a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa-0` | strike | by striking subsection (e)(3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa-0` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa` | insert | Part A of title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is amended by inserting after section 501A (42 U.S.C. 290aa–0) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290aa` | repeal | Section 6031 of the Helping Families in Mental Health Crisis Reform Act of 2016 (Division B of Public Law 114–255) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290aa` | repeal | Section 6031 of the Helping Families in Mental Health Crisis Reform Act of 2016 (Division B of Public Law 114–255) is repealed (and by conforming the item relating to such section in the table of contents in section 1(b)). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb-37` | amend | Section 520F of the Public Health Service Act (42 U.S.C. 290bb–37) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb-41` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 290bb-41` | replace | in subparagraph (B)(ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -1162,14 +1298,24 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300x-1` | replace | in subclause (IV), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300x-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300x-9` | add-at-end | Section 1920 of the Public Health Service Act (42 U.S.C. 300x–9), as amended by subsection (c), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Subpart 3 of part B of title V of the Public Health Service Act (42 U.S.C. 290bb—31 et seq.) is amended by inserting after section 520G (42 U.S.C. 290bb—38) the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 290aa-5a` | amend | Section 506A of the Public Health Service Act (42 U.S.C. 290aa–5a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb-2` | strike | in paragraph (3), by striking “in substance abuse”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 290bb-25b` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1521` | replace | by striking subsections (c) through (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1521` | amend | a complete description of the entity’s current initiatives, and how it will use this grant to enhance those initiatives by adding a focus on underage drinking prevention. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290bb-38` | strike | by striking “up to 125”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 290dd-3` | replace | Section 544(a) of the Public Health Service Act (42 U.S.C. 290dd–3(a)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290dd-3` | insert | in subparagraph (A), by inserting “, including patients prescribed with both an opioid and a benzodiazepine” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 290dd-3` | amend | Paragraph (5) of section 544(c) of the Public Health Service Act (42 U.S.C. 290dd–3(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290dd-3` | redesignate | by redesignating subsections (d) through (f) as subsections (e) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290dd-3` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290dd-3` | strike | Section 107 of the Comprehensive Addiction and Recovery Act of 2016 (Public Law 114–198) is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290ee` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290ee` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290ee` | amend | Paragraph (3) of section 545(d) of the Public Health Service Act (42 U.S.C. 290ee(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290ee-3` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | in the section heading, by striking “Demonstration”; | the bill names no machine-readable US Code section |
+| — | strike | in the section heading, by striking “Demonstration” (and by conforming the item relating to such section in the table of contents in section 1(b)); | the bill names no machine-readable US Code section |
 | — | amend | by amending the subsection heading to read as follows: “Grant program”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “demonstration”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (b), in the subsection heading, by striking “demonstration”; | the bill names no machine-readable US Code section |
@@ -1203,8 +1349,20 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300x-52` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300x-52` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | add-at-end | Section 302(e) of the Controlled Substances Act (21 U.S.C. 822(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 290bb-42` | amend | Section 520K of the Public Health Service Act (42 U.S.C. 290bb-42) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | redesignate | by redesignating subparagraphs (A), (B), and (C) as paragraphs (1), (2), and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395cc-6` | amend | in subparagraph (A), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395cc-6` | replace | in subparagraph (B), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395cc-6` | strike | by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | amend | in clause (i), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | strike | by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | redesignate | by redesignating clause (iii) as clause (ii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 290bb-42` | amend | Section 520K of the Public Health Service Act (42 U.S.C. 290bb–42) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 294e-1` | insert | in subsection (a)(1), by inserting “(which may include master’s and doctoral level programs)” after “occupational therapy”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 294k` | insert | Section 760(g) of the Public Health Service Act (42 U.S.C. 294k(g)) is amended by inserting “and $31,700,000 for each of fiscal years 2023 through 2027” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300gg-21` | add-at-end | Section 2722(a)(2) of the Public Health Service Act (42 U.S.C. 300gg–21(a)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-94` | add-at-end | Section 2794(c) of the Public Health Service Act (42 U.S.C. 300gg–94(c)) (as added by section 1003 of the Patient Protection and Affordable Care Act (Public Law 111–148)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254c-19` | insert | by inserting “or, in the case of a State that does not submit an application, a nonprofit entity that has the support of the State” after “450b))”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 254c-19` | insert | in subparagraph (G), by inserting “developmental-behavioral pediatricians,” after “adolescent psychiatrists,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 254c-19` | replace | in subparagraph (H), by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
