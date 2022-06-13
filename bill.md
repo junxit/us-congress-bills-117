@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 8026
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8026
+
+> To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the “Charles W. Lindberg Post Office”.
+
+## § 1. Charles W. Lindberg Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, shall be known and designated as the “Charles W. Lindberg Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Charles W. Lindberg Post Office”.
