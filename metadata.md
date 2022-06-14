@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 589
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 589
@@ -50,3 +50,7 @@ A resolution recognizing, honoring, and commending the women of Ukraine who have
 
 - 2022-04-07 — Introduced in Senate
 - 2022-04-07 — Referred to the Committee on Foreign Relations. (text: CR S2098-2099)
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.
