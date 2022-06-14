@@ -19,7 +19,3 @@ Section 1407 of title 28 of the United States Code is amended—
 
 - **(1)** in subsection (g) by inserting “or a State” after “United States”, and
 - **(2)** by striking subsection (h).
-
-## § 3. Effective date
-
-This Act and the amendments made by this Act, shall take effect on June 1, 2021.
