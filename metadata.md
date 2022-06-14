@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 540
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 540
@@ -30,3 +30,7 @@ A resolution supporting the goals of International Women's Day.
 
 - 2022-03-08 — Introduced in Senate
 - 2022-03-08 — Referred to the Committee on Foreign Relations. (text: CR S1063-1064)
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.
