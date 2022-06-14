@@ -1,7 +1,7 @@
 ---
 measure: S. 1787
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1787
@@ -36,3 +36,11 @@ State Antitrust Enforcement Venue Act of 2021
 - 2022-02-03 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2022-02-03 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2022-02-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 261.
+- 2022-06-14 — Amendment SA 5096 agreed to in Senate by Unanimous Consent.
+- 2022-06-14 — Amendment SA 5096 proposed by Senator Hassan for Senator Lee. (consideration: CR S2935; text: CR S2945) To strike the retroactive effective date.
+- 2022-06-14 — Measure laid before Senate by unanimous consent. (consideration: CR S2935-2936; text: CR S2936)
+- 2022-06-14 — Passed Senate with an amendment by Unanimous Consent.
+- 2022-06-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-06-14 — Senate amendment agreed to: Amendment SA 5096 agreed to in Senate by Unanimous Consent.
+- 2022-06-14 — Senate amendment proposed (on the floor): Amendment SA 5096 proposed by Senator Hassan for Senator Lee.(consideration: CR S2935; text: CR S2945)
+- 2022-06-14 — Senate amendment submitted
