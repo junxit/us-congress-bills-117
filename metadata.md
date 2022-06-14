@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1170
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1170
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2543) to amend the Federal Reserve
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-06-14 — [House 117-2-259](votes/house-117-2-0259.md) — On Ordering the Previous Question — **Passed** (216–199)
+- 2022-06-14 — [House 117-2-260](votes/house-117-2-0260.md) — On Agreeing to the Resolution — **Passed** (218–204)
+
 ## Actions
 
 - 2022-06-13 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2543) to amend the Federal Reserve
 - 2022-06-13 — Resolution provides for one hour of general debate on each bill and one motion to recommit. Rule also amends House Resolution 188 by striking "June 17, 2022" and inserting "June 22, 2022".
 - 2022-06-13 — The House Committee on Rules reported an original measure, H. Rept. 117-366, by Mr. DeSaulnier.
 - 2022-06-13 — The House Committee on Rules reported an original measure, H. Rept. 117-366, by Mr. DeSaulnier.
+- 2022-06-14 — Considered as privileged matter. (consideration: CR H5499-5506)
+- 2022-06-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 1170.
+- 2022-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-14 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 204 (Roll no. 260). (text: CR H5499)
+- 2022-06-14 — On ordering the previous question Agreed to by the Yeas and Nays: 216 - 199 (Roll no. 259). (consideration: CR H5505)
+- 2022-06-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 204 (Roll no. 260).(text: CR H5499)
