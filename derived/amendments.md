@@ -1,7 +1,7 @@
 ---
 measure: S. 1160
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,3 +37,12 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2291` | redesignate | in subparagraph (A)(iii), as redesignated by this paragraph, by striking the semicolon at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2291` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2291` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2291h` | redesignate | by redesignating the second paragraph (10) as paragraph (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2291h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2291` | replace | in subparagraph (C), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2291` | replace | in subparagraph (D), by striking the semicolon at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2291` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2291` | replace | in paragraph (7), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2291` | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
