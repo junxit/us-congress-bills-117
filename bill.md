@@ -1,0 +1,22 @@
+---
+legis-num: S. 4388
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4388
+
+> To amend title 10, United States Code, to waive cost-sharing under the TRICARE program for three mental health outpatient visits per year, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Military Families Mental Health Services Act”.
+
+## § 2. Waiver of cost-sharing for three mental health outpatient visits under the TRICARE program
+
+- **(a)** *TRICARE Select* Section 1075(c) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+  > - **(4)** Consistent with other provisions of this chapter and under requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits of a beneficiary each year.
+
+- **(b)** *TRICARE Prime* Section 1075a(a) of such title is amended by adding at the end the following new paragraph:
+  > - **(4)** Consistent with other provisions of this chapter and under requirements to be prescribed by the Secretary, the Secretary may waive cost-sharing requirements for the first three outpatient mental health visits of a beneficiary each year.
