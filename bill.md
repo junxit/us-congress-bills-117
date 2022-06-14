@@ -2,7 +2,7 @@
 legis-num: H.R. 6270
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6270
@@ -63,8 +63,8 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
     - **(B)** for the construction of private-use vertiports or associated infrastructure.
   - **(5)** *Grant timing* The Secretary may not issue a grant under this subsection until—
     - **(A)** the Administrator of the Federal Aviation Administration has—
-      - **(i)** certified 2 or more models of aircraft designed to provide AAM transportation under part 23, 25, 27, or 29 of title 14, Code of Federal Regulations; and
-      - **(ii)** published an advisory circular containing appropriate standards for vertiport design and performance characteristics and vertiport siting.
+      - **(i)** issued type certificates for 2 or more models of aircraft designed to provide AAM transportation; and
+      - **(ii)** published an advisory circular containing appropriate standards for vertiport design and performance characteristics and vertiport siting; and
     - **(B)** the Secretary has—
       - **(i)** determined that 2 or more AAM operators hold certificates under part 119 of title 14, Code of Federal Regulations, for such operators to perform air carrier operations covered under part 135 of such title; and
       - **(ii)** issued, to 2 or more air carriers formed to provide AAM transportation, certificates under chapter 411 of title 49, United States Code.

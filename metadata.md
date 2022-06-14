@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6270
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6270
@@ -70,3 +70,4 @@ AAIM Act
 - 2022-06-13 — Placed on the Union Calendar, Calendar No. 274.
 - 2022-06-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-362.
 - 2022-06-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-362.
+- 2022-06-14 — Received in the Senate.
