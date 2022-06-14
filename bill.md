@@ -1,0 +1,26 @@
+---
+legis-num: S. RES. 670
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 670
+
+> Encouraging the Secretary of the Air Force to designate the Maine Air National Guard 101st Air Refueling Wing as a center of excellence for additive manufacturing technology.
+
+## Preamble
+
+- Whereas the 101st Air Refueling Wing is home to four technicians certified to print airworthy parts, two-thirds of the entire uniformed force of certified technicians;
+- Whereas the 101st Air Refueling Wing is the only Air National Guard unit capable of printing airworthy parts, while also fielding the technicians certified to print airworthy parts;
+- Whereas the 101st Air Refueling Wing has created eight different tools for six different maintenance shops, enhancing aircrew maintenance efficiency and increasing aircraft readiness;
+- Whereas the 101st Air Refueling Wing has modeled and provided three training aids allowing complete comprehensive drill status guardsmen training, resulting in increased technician competency, and superior aircraft maintenance repairs;
+- Whereas the 101st Air Refueling Wing has the ability to model and prove a well-fitting part before machining, allowing for easier identification of errors, and preventing the duplication of non-usable parts, increasing aircraft readiness and reducing material waste and cost;
+- Whereas the 101st Air Refueling Wing is the only Air National Guard unit to have an authorized polymer printer in their possession;
+- Whereas the 101st Air Refueling Wing partners with the University of Maine Advanced Structures and Composites Department;
+- Whereas this allows both organizations to share the best practices and emerging technologies, while also allowing the 101st to perform strength testing of part candidates and receive feedback for redesign options;
+- Whereas the 101st Air Refueling Wing has created five jigs or fixtures which significantly aid aircrews in making repairs, while also decreasing aircraft downtime and repair inaccuracy;
+- Whereas the 101st Air Refueling Wing has modeled five aircraft parts as proofs of design before machining replacement parts, successfully identifying model errors and reducing material waste and cost; and
+- Whereas the Army Reserve 75th Innovation Command requested that the 101st Air Refueling Wing model and produce five parts as a pilot program connecting units with additive manufacturing stations capable of supporting modeling and printing requests: Now, therefore, be it
+
+That the Senate encourages the Secretary of the Air Force to designate the Maine Air National Guard 101st Air Refueling Wing at Bangor Air National Guard Base as a center of excellence for additive manufacturing technology.
