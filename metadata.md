@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7211
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7211
@@ -46,3 +46,7 @@ Small State and Rural Rescue Act
 - 2022-06-13 — Placed on the Union Calendar, Calendar No. 272.
 - 2022-06-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-360.
 - 2022-06-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 117-360.
+- 2022-06-14 — Considered as unfinished business. (consideration: CR H5531-5532)
+- 2022-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 269). (text: 6/13/2022 CR H5458-5459)
+- 2022-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 269).(text: 6/13/2022 CR H5458-5459)
