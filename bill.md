@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 124
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,6 +21,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on the night of August 2–3, 1944, the so-called “Gypsy Family Camp” where Romani people were interned at Auschwitz-Birkenau was liquidated, and in a single night, between 4,200 and 4,300 Romani men, women, and children were killed in gas chambers;
 - Whereas many countries are taking positive steps to remember and teach about the genocide of Roma by Nazi Germany and its Axis partners; and
 - Whereas the United States Congress held its first hearing to examine the situation of Roma in 1994: Now, therefore, be it
+- Whereas the ancestry of the Romani people, also called the Roma, can be traced to the Indian subcontinent;
+- Whereas Romani people have been a part of European immigration to the United States since the colonial period and particularly following the abolition of the enslavement of Romani people in the historic Romanian principalities;
+- Whereas Romani people live across the world and throughout the United States;
+- Whereas the Romani people have made distinct and important contributions in many fields, including agriculture, art, crafts, literature, medicine, military service, music, sports, and science;
+- Whereas, on April 8, 1971, the First World Romani Congress met in London, bringing Romani people together from across Europe and the United States with the goal of promoting transnational cooperation among Romani people in combating social marginalization and building a positive future for Romani people everywhere;
+- Whereas April 8 is therefore celebrated globally as International Roma Day;
+- Whereas Romani people were victims of genocide carried out by Nazi Germany and its Axis partners, and an estimated 200,000 to 500,000 Romani people were killed by Nazis and their allies across Europe during World War II;
+- Whereas, on the night of August 2–3, 1944, the so-called “Gypsy Family Camp” where Romani people were interned at Auschwitz-Birkenau was liquidated, and in a single night, between 4,200 and 4,300 Romani men, women, and children were killed in gas chambers;
+- Whereas many countries are taking positive steps to remember and teach about the genocide of Romani people by Nazi Germany and its Axis partners; and
+- Whereas the United States Congress held its first hearing to examine the situation of Romani people in 1994: Now, therefore, be it
 
 That the Senate—
 
