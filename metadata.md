@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4250
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4250
@@ -48,3 +48,7 @@ War Crimes Rewards Expansion Act
 - 2021-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 9 (Roll no. 299). (text: CR H5482)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 9 (Roll no. 299).(text: CR H5482)
 - 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.
