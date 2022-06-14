@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 646
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 646
@@ -16,7 +16,7 @@ A resolution expressing the Senate's support for Finland and Sweden's accession 
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (7)
+## Cosponsors (16)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -25,6 +25,15 @@ A resolution expressing the Senate's support for Finland and Sweden's accession 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 
 ## Committees (1)
 
@@ -34,3 +43,7 @@ A resolution expressing the Senate's support for Finland and Sweden's accession 
 
 - 2022-05-19 — Introduced in Senate
 - 2022-05-19 — Referred to the Committee on Foreign Relations. (text: CR S2625)
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with an amended preamble. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.

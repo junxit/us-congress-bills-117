@@ -25,6 +25,21 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, alongside a number of our European allies, Finland and Sweden have recently announced the expansion and reform of their militaries, efforts that can be maximized if channeled toward collective security through the NATO framework;
 - Whereas the Arctic region, which holds increasing importance for United States and European security, has already seen encroachments from Russia and China, and Sweden and Finland are uniquely poised to address these regional challenges and help NATO confront them; and
 - Whereas Russia has threatened Sweden and Finland with “serious military and political consequences should it choose to join NATO”: Now, therefore, be it
+- Whereas Sweden and Finland are substantial contributors to the international community and play important roles in the United Nations, the European Union, the Organization for Security Cooperation in Europe, and other international organizations;
+- Whereas, during the Cold War and since its end, Sweden and Finland sought to maintain peace in their region through policies of military non-alignment and neutral relations between Russia and the West, while nonetheless remaining true to their values and condemning the Russian government’s authoritarian acts;
+- Whereas the invasion of Ukraine by the Russian Federation on February 24, 2022, forced the transatlantic community to reconsider the geopolitical stability of their region;
+- Whereas NATO is the most successful political-military alliance in history and, guided by a set of common values, provides collective defense to nearly 1,000,000,000 people living in its member nations;
+- Whereas the Russian Federation’s invasion of Ukraine marks the largest military conflict in Europe since World War II, representing a dramatic shift for European security and requiring NATO to change its policies to increase, modernize, and enhance its force posture and to create more strategic depth to adequately confront the new challenges, specifically those posed by Russia and China;
+- Whereas Sweden and Finland have provided incredible support to NATO-led operations, such as the International Security Assistance Force in Afghanistan, KFOR in Kosovo, and peacekeeping operations in Bosnia and Herzegovina;
+- Whereas both Finland and Sweden have been model members of NATO’s Partnership Interoperability Initiative since its founding in 2014, and of NATO’s Partnership for Peace since its founding in 1994;
+- Whereas NATO has a range of capabilities that can enhance the ability of Sweden and Finland to defend and deter conflict in their region;
+- Whereas Sweden and Finland have well-developed professional militaries and sophisticated defense industries that can provide NATO with new capabilities to bolster collective defense;
+- Whereas Sweden and Finland have proven their willingness and capability to contribute to cooperative international security efforts by donating military and humanitarian assistance to Ukraine and imposing coordinated sanctions on Russia;
+- Whereas Russia's state-owned energy company Gazprom cut off natural gas exports to Finland and NATO allies, thereby further demonstrating Russia's use of gas exports to undermine transatlantic security and pressure United States allies and partners;
+- Whereas each prospective NATO member is expected to have a functioning democratic political system based on a market economy, fair treatment of minority populations, a commitment to resolve conflicts peacefully, an ability and willingness to make contribution to NATO operations, and a commitment to democratic civil-military relations and institutions;
+- Whereas, alongside a number of our European allies, Finland and Sweden have recently announced the expansion and reform of their militaries, efforts that can be maximized if channeled toward collective security through the NATO framework;
+- Whereas the Arctic region, which holds increasing importance for United States and European security, has already seen encroachments from Russia and China, and Sweden and Finland are uniquely poised to address these regional challenges and help NATO confront them; and
+- Whereas Russia has threatened Sweden and Finland with “serious military and political consequences should it choose to join NATO”: Now, therefore, be it
 
 That the Senate—
 
