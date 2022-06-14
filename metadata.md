@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4250
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4250
@@ -52,3 +52,12 @@ War Crimes Rewards Expansion Act
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.
+- 2022-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7267)
+- 2022-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-16 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-273.
+- 2022-12-27 — Became Public Law No: 117-273.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
