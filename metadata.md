@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7276
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7276
@@ -66,3 +66,7 @@ Ukraine Invasion War Crimes Deterrence and Accountability Act
 - 2022-04-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 121).(text: CR H4212-4213)
 - 2022-04-06 — The title of the measure was amended. Agreed to without objection.
 - 2022-04-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
