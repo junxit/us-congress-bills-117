@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 40
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 40
@@ -28,3 +28,7 @@ A concurrent resolution welcoming the Prime Minister of Greece to the United Sta
 
 - 2022-05-17 — Introduced in Senate
 - 2022-05-17 — Referred to the Committee on Foreign Relations. (text: CR S2550-2551)
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.
