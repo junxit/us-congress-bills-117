@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2773
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2773
@@ -232,3 +232,58 @@ Recovering America’s Wildlife Act of 2021
 - 2022-06-09 — Placed on the Union Calendar, Calendar No. 271.
 - 2022-06-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-359.
 - 2022-06-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-359.
+- 2022-06-13 — Rules Committee Resolution H. Res. 1170 Reported to House. Rule provides for consideration of H.R. 2543, H.R. 2773 and H.R. 7606. Resolution provides for one hour of general debate on each bill and one motion to recommit. Rule also amends House Resolution 188 by striking "June 17, 2022" and inserting "June 22, 2022".
+- 2022-06-14 — Amendment (A004) offered by Mr. Kildee. (consideration: CR H5523-5524, H5527-5528; text: CR H5523)
+- 2022-06-14 — Amendment (A005) offered by Mr. Butterfield. (consideration: CR H5524-5525, H5528; text: CR H5524)
+- 2022-06-14 — Amendment agreed to by House: On agreeing to the Butterfield amendment (A005) Agreed to by the Yeas and Nays: 216 - 206 (Roll no. 265).
+- 2022-06-14 — Amendment agreed to by House: On agreeing to the Dingell amendments (A002) Agreed to by the Yeas and Nays: 276 - 147, 1 Present (Roll no. 262).
+- 2022-06-14 — Amendment agreed to by House: On agreeing to the Dingell amendments (A003) Agreed to by the Yeas and Nays: 412 - 8 (Roll no. 263).
+- 2022-06-14 — Amendment agreed to by House: On agreeing to the Kildee amendment (A004) Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 264).
+- 2022-06-14 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-06-14 — Amendments en bloc (A002) offered by Mrs. Dingell. (consideration: CR H5520-5522, H5525-5526; text: CR H5520)
+- 2022-06-14 — Amendments en bloc (A003) offered by Mrs. Dingell. (consideration: CR H5522-5523, H5526-5527; text: CR H5522)
+- 2022-06-14 — Considered under the provisions of rule H. Res. 1170. (consideration: CR H5507-5530; text: CR H5507-5510)
+- 2022-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1170, the House proceeded with 10 minutes of debate on the Butterfield amendment No. 5.
+- 2022-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1170, the House proceeded with 10 minutes of debate on the Kildee amendment No. 4.
+- 2022-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1170, the House proceeded with 20 minutes of debate on the Dingell amendment en bloc No. 1.
+- 2022-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1170, the House proceeded with 20 minutes of debate on the Dingell amendment en bloc No. 2.
+- 2022-06-14 — DEBATE - The House proceeded with one hour of debate on H.R. 2773.
+- 2022-06-14 — House amendment agreed to: On agreeing to the Butterfield amendment (A005) Agreed to by the Yeas and Nays: 216 - 206 (Roll no. 265).
+- 2022-06-14 — House amendment agreed to: On agreeing to the Dingell amendments (A002) Agreed to by the Yeas and Nays: 276 - 147, 1 Present (Roll no. 262).
+- 2022-06-14 — House amendment agreed to: On agreeing to the Dingell amendments (A003) Agreed to by the Yeas and Nays: 412 - 8 (Roll no. 263).
+- 2022-06-14 — House amendment agreed to: On agreeing to the Kildee amendment (A004) Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 264).
+- 2022-06-14 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-14 — House amendment offered
+- 2022-06-14 — House amendment offered
+- 2022-06-14 — House amendment offered
+- 2022-06-14 — House amendment offered
+- 2022-06-14 — House amendment offered
+- 2022-06-14 — House amendment offered/reported by: Amendment (A004) offered by Mr. Kildee.
+- 2022-06-14 — House amendment offered/reported by: Amendment (A005) offered by Mr. Butterfield.
+- 2022-06-14 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mrs. Dingell.
+- 2022-06-14 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mrs. Dingell.
+- 2022-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-14 — Mr. Fulcher moved to recommit to the Committee on Natural Resources. (text: CR H5529)
+- 2022-06-14 — On agreeing to the Butterfield amendment (A005) Agreed to by the Yeas and Nays: 216 - 206 (Roll no. 265).
+- 2022-06-14 — On agreeing to the Dingell amendments (A002) Agreed to by the Yeas and Nays: 276 - 147, 1 Present (Roll no. 262).
+- 2022-06-14 — On agreeing to the Dingell amendments (A003) Agreed to by the Yeas and Nays: 412 - 8 (Roll no. 263).
+- 2022-06-14 — On agreeing to the Kildee amendment (A004) Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 264).
+- 2022-06-14 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-14 — On motion to recommit Failed by the Yeas and Nays: 202 - 220 (Roll no. 266).
+- 2022-06-14 — On passage Passed by the Yeas and Nays: 231 - 190 (Roll no. 267).
+- 2022-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Butterfield amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Westerman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dingell amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tiffany demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dingell amendment en bloc No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Dingell demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Westerman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 190 (Roll no. 267).
+- 2022-06-14 — Roll call votes on amendments in House
+- 2022-06-14 — Roll call votes on amendments in House
+- 2022-06-14 — Roll call votes on amendments in House
+- 2022-06-14 — Roll call votes on amendments in House
+- 2022-06-14 — Rule provides for consideration of H.R. 2543, H.R. 2773 and H.R. 7606. Resolution provides for one hour of general debate on each bill and one motion to recommit. Rule also amends House Resolution 188 by striking "June 17, 2022" and inserting "June 22, 2022".
+- 2022-06-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-06-14 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-06-14 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-06-14 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-06-14 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2022-06-14 — The previous question was ordered pursuant to the rule.
