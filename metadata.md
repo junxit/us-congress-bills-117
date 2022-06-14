@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 568
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 568
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of "Countering International Parent
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. McConnell, Mitch [R-KY] (M000355)
@@ -30,6 +30,8 @@ A resolution supporting the goals and ideals of "Countering International Parent
 - Sen. Tuberville, Tommy [R-AL] (T000278)
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Padilla, Alex [D-CA] (P000145)
 
 ## Committees (1)
 
@@ -39,3 +41,7 @@ A resolution supporting the goals and ideals of "Countering International Parent
 
 - 2022-03-30 — Introduced in Senate
 - 2022-03-30 — Referred to the Committee on Foreign Relations.
+- 2022-06-09 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.
