@@ -1,7 +1,7 @@
 ---
 measure: S. 516
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 516
@@ -45,3 +45,13 @@ Advanced Air Mobility Coordination and Leadership Act
 - 2022-06-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 30 (Roll no. 268). (text: 6/13/2022 CR H5454-5455)
 - 2022-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 30 (Roll no. 268).(text: 6/13/2022 CR H5454-5455)
+- 2022-06-15 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-09-21 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 516 by Unanimous Consent.
+- 2022-09-21 — Senate agreed to the House amendment to S. 516 by Unanimous Consent. (consideration: CR S4887)
+- 2022-09-22 — Message on Senate action sent to the House.
+- 2022-10-17 — Became Public Law No: 117-203.
+- 2022-10-17 — Became Public Law No: 117-203.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Signed by President.
+- 2022-10-17 — Signed by President.
