@@ -2,78 +2,82 @@
 legis-num: S. 516
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 516
 
-> To plan for and coordinate efforts to integrate advanced air mobility aircraft into the national airspace system, and for other purposes.
+That the bill from the Senate (S. 516) entitled “An Act to plan for and coordinate efforts to integrate advanced air mobility aircraft into the national airspace system, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Advanced Air Mobility Coordination and Leadership Act”.
+This Act may be cited as the “Advanced Air Mobility Coordination and Leadership Act”
 
 ## § 2. Advanced air mobility working group
 
 - **(a)** *In general* Not later than 120 days after the date of enactment of this Act, the Secretary of Transportation shall establish an advanced air mobility interagency working group (in this section referred to as the “working group”).
-- **(b)** *Sense of congress* It is the sense of Congress that Advanced Air Mobility (AAM) represents a key area of sustainable transportation and economic growth for the United States and globally, and that it is imperative that the United States take a leadership role in the adoption and furtherance of this technology. Therefore, given the path to initial operations is taking place utilizing today’s regulatory framework, it is critical that government agencies collaborate and focus on taking this vital industry to the next level through policy and investment in energy, infrastructure, security and transportation. The focus of the working group is interagency coordination to enable the maturation and growth of AAM.
-- **(c)** *Purpose* The purpose of the working group established under this section is to plan for and coordinate efforts related to safety, infrastructure, physical security and cybersecurity, and Federal investment necessary for maturation of the AAM ecosystem, particularly passenger-carrying aircraft, in the United States in order to—
-  - **(1)** further United States leadership;
-  - **(2)** grow new transportation options;
-  - **(3)** amplify economic activity and jobs;
-  - **(4)** advance environmental sustainability and new technologies; and
-  - **(5)** support emergency preparedness and competitiveness.
-- **(d)** *Membership* The working group shall be comprised of at least 1 representative of each of the following Federal departments and agencies:
-  - **(1)** Department of Transportation.
-  - **(2)** Federal Aviation Administration.
-  - **(3)** National Aeronautics and Space Administration.
-  - **(4)** Department of Commerce
-  - **(5)** Department of Defense.
-  - **(6)** Department of Energy.
-  - **(7)** Department of Homeland Security.
-  - **(8)** Department of Agriculture.
-  - **(9)** Department of Labor.
-  - **(10)** Federal Communications Commission.
-  - **(11)** Such other departments or agencies as the Secretary of Transportation determines appropriate.
-- **(e)** *Coordination* The working group shall engage with State, local, and Tribal governments, industry and labor stakeholders, stakeholder associations, and others determined appropriate by the Secretary of Transportation, including—
-  - **(1)** manufacturers of avionics, AAM use aircraft, propulsion systems, structures, and air traffic management systems;
-  - **(2)** air carriers, commercial operators, general aviation operators and future AAM operators;
-  - **(3)** airports;
-  - **(4)** fixed-based operators, as defined in FAA Advisory Circular 150/5190–7;
-  - **(5)** certified labor representatives for pilots associations, air traffic control specialists employed by the Federal Aviation Administration, and aviation safety inspectors;
-  - **(6)** State, local, and Tribal officials or public agencies, with representation from both urban and rural areas;
-  - **(7)** first responders;
-  - **(8)** groups representing environmental interests;
-  - **(9)** electric utilities, energy providers and market operators of electricity;
-  - **(10)** academia with experience working with industry on new technology and commercialization;
-  - **(11)** groups representing the telecommunications industry; and
-  - **(12)** aviation training and maintenance providers.
-- **(f)** *Review and examination* Not later than 1 year after the working group is established under subsection (a), the working group shall complete a review and examination of, at a minimum—
-  - **(1)** the steps that will mature AAM past initial operations;
-  - **(2)** the evaluation of air traffic control and management concepts that might be considered as part of evolving AAM to higher levels of traffic density;
+- **(b)** *Purpose* Advanced Air Mobility represents a key area of sustainable transportation and economic growth for the United States and it is imperative that the Federal Government foster leadership and interagency collaboration in the adoption and deployment of this technology. The purpose of the working group established under this section shall be to plan for and coordinate efforts related to safety, operations, infrastructure, physical security and cybersecurity, and Federal investment necessary for maturation of the AAM ecosystem in the United States, particularly passenger-carrying aircraft, in order to—
+  - **(1)** grow new transportation options;
+  - **(2)** amplify economic activity and jobs;
+  - **(3)** advance environmental sustainability and new technologies; and
+  - **(4)** support emergency preparedness and competitiveness.
+- **(c)** *Membership* Not later than 60 days after the establishment of the working group under subsection (a), the Secretary of Transportation shall—
+  - **(1)** appoint the Under Secretary of Transportation for Policy to chair the working group;
+  - **(2)** designate not less than 1 additional representative to participate on the working group from each of—
+    - **(A)** the Department of Transportation; and
+    - **(B)** the Federal Aviation Administration; and
+  - **(3)** invite the heads of each of the following departments or agencies to designate not less than 1 representative to participate on the working group, including—
+    - **(A)** the National Aeronautics and Space Administration;
+    - **(B)** the Department of Commerce;
+    - **(C)** the Department of Defense;
+    - **(D)** the Department of Energy;
+    - **(E)** the Department of Homeland Security;
+    - **(F)** the Department of Agriculture;
+    - **(G)** the Department of Labor;
+    - **(H)** the Federal Communications Commission; and
+    - **(I)** such other departments or agencies as the Secretary of Transportation determines appropriate.
+- **(d)** *Coordination*
+  - **(1)** *In general* The working group shall engage with State, local, and Tribal governments, aviation industry and labor stakeholders, stakeholder associations, and others determined appropriate by the Secretary of Transportation and the Administrator of the Federal Aviation Administration, including—
+    - **(A)** manufacturers of aircraft, avionics, propulsion systems, structures, and air traffic management systems;
+    - **(B)** commercial air carriers, commercial operators, unmanned aircraft system operators, and general aviation operators, including helicopter operators;
+    - **(C)** intended operators of AAM aircraft;
+    - **(D)** airports, heliports, fixed-base operators;
+    - **(E)** certified labor representatives for pilots associations, air traffic control specialists employed by the Federal Aviation Administration, aircraft mechanics, and aviation safety inspectors;
+    - **(F)** State, local, and Tribal officials or public agencies, with representation from both urban and rural areas;
+    - **(G)** first responders;
+    - **(H)** groups representing environmental interests;
+    - **(I)** electric utilities, energy providers and energy market operators;
+    - **(J)** academia with experience working with industry on new technology and commercialization;
+    - **(K)** groups representing the telecommunications industry; and
+    - **(L)** aviation training and maintenance providers.
+  - **(2)** *Advisory committees* The Secretary of Transportation and Administrator of the Federal Aviation Administration may use such Federal advisory committees as may be appropriate to coordinate with the entities listed in paragraph (1).
+- **(e)** *Review and examination* Not later than 1 year after the working group is established under subsection (a), the working group shall complete a review and examination of, at a minimum—
+  - **(1)** the steps that will mature AAM aircraft operations, concepts, and regulatory frameworks beyond initial operations;
+  - **(2)** the air traffic management and safety concepts that might be considered as part of evolving AAM to higher levels of traffic density;
   - **(3)** current Federal programs and policies that could be leveraged to advance the maturation of the AAM industry;
-  - **(4)** infrastructure, including aviation, surface, energy, and telecommunications infrastructure, physical security and cybersecurity, and utilities necessary to accommodate and support expanded operations of AAM after initial implementation;
-  - **(5)** steps needed to ensure a robust domestic supply chain;
-  - **(6)** anticipated benefits associated with AAM aircraft operations, including economic, environmental, emergency response, and transportation benefits;
+  - **(4)** infrastructure, including aviation, cybersecurity, telecommunication, multimodal, and utility infrastructure, necessary to accommodate and support expanded operations of AAM after initial implementation;
+  - **(5)** steps needed to ensure a robust and secure domestic supply chain;
+  - **(6)** anticipated benefits associated with AAM aircraft operations, including economic, environmental, emergency and natural disaster response, and transportation benefits;
   - **(7)** the interests, roles, and responsibilities of Federal, State, local, and Tribal governments affected by AAM aircraft operations; and
   - **(8)** other factors that may limit the full potential of the AAM industry, including community acceptance or restrictions of such operations.
-- **(g)** *AAM national strategy* Based on the review and examination performed under subsection (f), the working group shall develop an AAM National Strategy that includes—
-  - **(1)** recommendations regarding the safety, security, infrastructure, air traffic concepts, and other Federal investment or actions necessary to support the evolution of early AAM to higher levels of activity and societal benefit; and
-  - **(2)** a comprehensive plan detailing the roles and responsibilities of each Federal department and agency, and of State, local, and Tribal governments, necessary to facilitate implementing the recommendations developed under paragraph (1).
-- **(h)** *Report* Not later than 180 days after the completion of the review and examination performed under subsection (f), the working group shall submit to the appropriate committees of Congress a report—
-  - **(1)** detailing the review and examination performed under subsection (f); and
-  - **(2)** providing the AAM National Strategy, including the plan and associated recommendations, developed under subsection (g).
-- **(i)** *Evaluation of termination of working group* Not later than 30 days after the date on which the working group submits the report required under subsection (h), the Secretary of Transportation shall evaluate and decide whether to terminate the working group and shall notify the appropriate committees of Congress of such decision.
-- **(j)** *Definitions* In this section:
-  - **(1)** *Advanced air mobility; AAM* The terms advanced air mobility and AAM mean an air transportation system that moves people and cargo between places using innovative aircraft designs (such as vertical take-off and landing (VTOL)) and new technologies (such as electric or hybrid (fuel and electric) driven propulsion), which are integrated into existing airspace operations as well as operated in local, regional, intraregional, rural, and urban environments, and which may include remotely piloted or autonomous aircraft.
-  - **(2)** *Appropriate committees of congress* The term appropriate committees of Congress means—
-    - **(A)** the Committee on Commerce, Science, and Transportation of the Senate;
-    - **(B)** the Committee on Armed Services of the Senate;
-    - **(C)** the Committee on Appropriations of the Senate;
-    - **(D)** the Committee on Transportation and Infrastructure of the House of Representatives;
-    - **(E)** the Committee on Armed Services of the House of Representatives; and
-    - **(F)** the Committee on Appropriations of the House of Representatives.
-  - **(3)** *Vertical take-off and landing; VTOL* The terms vertical take-off and landing and VTOL mean an aircraft with lift/thrust units used to generate powered lift and control and with more than two lift/thrust units used to provide lift during vertical take-off or landing.
+- **(f)** *AAM national strategy* Based on the review and examination performed under subsection (e), the working group shall develop an AAM National Strategy that includes—
+  - **(1)** recommendations regarding the safety, operations, security, infrastructure, air traffic concepts, and other Federal investment or actions necessary to support the evolution of early AAM to higher levels of activity and societal benefit; and
+  - **(2)** a comprehensive plan detailing the roles and responsibilities of each Federal department and agency, and of State, local, and Tribal governments, necessary to facilitate or implement the recommendations developed under paragraph (1).
+- **(g)** *Report* Not later than 180 days after the completion of the review and examination performed under subsection (e), the working group shall submit to the appropriate committees of Congress a report—
+  - **(1)** detailing findings from the review and examination performed under subsection (e); and
+  - **(2)** providing the AAM National Strategy, including the plan and associated recommendations developed under subsection (f).
+- **(h)** *Evaluation of termination of working group* Not later than 30 days after the date on which the working group submits the report required under subsection (g), the Secretary of Transportation shall evaluate and decide whether to terminate the working group and shall notify the appropriate committees of Congress of such decision.
+- **(i)** *Definitions* For purposes of this section and section 3:
+  - **(1)** *Advanced air mobility; AAM* The terms “advanced air mobility” and “AAM” mean a transportation system that transports people and property by air between two points in the United States using aircraft with advanced technologies, including electric aircraft or electric vertical take-off and landing aircraft, in both controlled and uncontrolled airspace.
+  - **(2)** *Appropriate committees of congress* The term “appropriate committees of Congress” means—
+    - **(A)** the Committee on Commerce, Science, and Transportation of the Senate; and
+    - **(B)** the Committee on Transportation and Infrastructure of the House of Representatives.
+  - **(3)** *Electric aircraft* The term “electric aircraft” means an aircraft with a fully electric or hybrid (fuel and electric) driven propulsion system used for flight.
+  - **(4)** *Fixed-base operator* The term “fixed-base operator” means a business granted the right by an airport sponsor or heliport sponsor to operate on an airport or heliport and provide aeronautical services, including fueling and charging, aircraft hangaring, tiedown and parking, aircraft rental, aircraft maintenance, and flight instruction.
+  - **(5)** *State* The term “State” has the meaning given such term in section 47102 of title 49, United States Code.
+  - **(6)** *Vertical take-off and landing* The term “vertical take-off and landing” means an aircraft with lift/thrust units used to generate powered lift and control and with two or more lift/thrust units used to provide lift during vertical take-off or landing.
 
 ## § 3. GAO study and report
 
