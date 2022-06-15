@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7180
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7180
@@ -16,7 +16,7 @@ Brycen Gray and Ben Price COVID–19 Cognitive Research Act
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. Wild, Susan [D-PA-7] (W000826)
@@ -25,6 +25,8 @@ Brycen Gray and Ben Price COVID–19 Cognitive Research Act
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
 ## Committees (1)
 
@@ -35,3 +37,8 @@ Brycen Gray and Ben Price COVID–19 Cognitive Research Act
 - 2022-03-21 — Introduced in House
 - 2022-03-21 — Introduced in House
 - 2022-03-21 — Referred to the House Committee on Science, Space, and Technology.
+- 2022-05-17 — Committee Consideration and Mark-up Session Held.
+- 2022-05-17 — Ordered to be Reported by Voice Vote.
+- 2022-06-15 — Placed on the Union Calendar, Calendar No. 282.
+- 2022-06-15 — Reported by the Committee on Science, Space, and Technology. H. Rept. 117-371.
+- 2022-06-15 — Reported by the Committee on Science, Space, and Technology. H. Rept. 117-371.
