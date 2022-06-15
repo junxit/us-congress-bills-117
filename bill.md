@@ -43,6 +43,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(ii)** industry best practices;
   >       - **(iii)** risk-mitigation actions to prevent future bottlenecks and vulnerabilities at all levels of the agriculture and food system supply chain; and
   >       - **(iv)** legislative and regulatory actions that would positively impact the security and resilience of the agriculture and food system supply chain.
+  > - **(e)** *Termination* The Task Force shall terminate on the earlier of—
+  >   - **(1)** the date on which the report required by subsection (d) is submitted; or
+  >   - **(2)** September 30, 2023.
 
 - **(b)** *Technical amendment* Section 296(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 7014(b)) is amended by adding at the end the following:
   > - **(11)** The authority of the Secretary to establish in the Department the Agricultural and Food System Supply Chain Resilience and Crisis Response Task Force in accordance with section 229.
