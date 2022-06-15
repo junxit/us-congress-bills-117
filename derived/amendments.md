@@ -1,7 +1,7 @@
 ---
 measure: S. 1098
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 1087e` | replace | by striking “A borrower” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13925` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 12291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-3` | strike | by striking “or” at the end of item (bb); | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1078-3` | replace | by striking the period at the end of item (cc) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

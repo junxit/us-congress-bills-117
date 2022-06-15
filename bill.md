@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1098
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,33 +19,32 @@ This Act may be cited as the “Joint Consolidation Loan Separation Act”.
   - **(1)** by striking “A borrower” and inserting the following:
     > - **(1)** *In general* A borrower
 
-  - **(2)** in the first sentence, insert “(other than a Federal Direct Consolidation Loan separated from a joint consolidation loan under paragraph (2) of this subsection)” after “under this part”; and
-  - **(3)** by adding at the end the following:
+  - **(2)** by adding at the end the following:
     > - **(2)** *Separating joint consolidation loans*
-    >   - **(A)** *In general* A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of section 428C(a)(3) (as such subparagraph was in effect on June 30, 2006), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
+    >   - **(A)** *In general*
+    >     - **(i)** *Authorization* A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of section 428C(a)(3) (as such subparagraph was in effect on June 30, 2006), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
+    >     - **(ii)** *Eligibility for borrowers in default* Notwithstanding any other provision of this Act, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
     >   - **(B)** *Secretarial requirements* Notwithstanding section 428C(a)(3)(A) or any other provision of law, for each individual borrower who applies under subparagraph (A), the Secretary shall—
-    >     - **(i)** award a separate Federal Direct Consolidation Loan under this part that—
+    >     - **(i)** make a separate Federal Direct Consolidation Loan under this part that—
     >       - **(I)** shall be for an amount equal to the product of—
-    >         - **(aa)** the unpaid principal and accrued unpaid interest of the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
-    >         - **(bb)** the percentage of the joint consolidation loan attributable to the loans of the individual borrower for whom such separate consolidation loan is being made, as determined on the basis of the loan obligations of such borrower with respect to such joint consolidation loan (as of the date such joint consolidation loan was made); and
+    >         - **(aa)** the unpaid principal and accrued unpaid interest of the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made) and any outstanding charges and fees with respect to such loan; and
+    >         - **(bb)** the percentage of the joint consolidation loan attributable to the loans of the individual borrower for whom such separate consolidation loan is being made, as determined—
+    >           - **(AA)** on the basis of the loan obligations of such borrower with respect to such joint consolidation loan (as of the date such joint consolidation loan was made); or
+    >           - **(BB)** in the case in which both borrowers request, on the basis of proportions outlined in a divorce decree, court order, or settlement agreement; and
     >       - **(II)** has the same rate of interest as the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
-    >     - **(ii)** in order to discharge such individual borrower from any remaining obligation with respect to the percentage of the joint consolidation loan described in clause (i)(I)(bb)—
-    >       - **(I)** cancel the outstanding balance of interest and principal due on such percentage, in the case of such a loan held by the Secretary; and
-    >       - **(II)** through the holder of the loan, assume the obligation to repay the outstanding balance of interest and principal due on such percentage, in the case of such a loan made, insured, or guaranteed under part B;
-    >     - **(iii)** ensure that such individual borrower shall not be held liable for the repayment of the percentage of the joint consolidation loan that is not described in clause (i)(I)(bb);
-    >     - **(iv)** in a case in which a payment was made under section 455(m)(1)(A) on the joint consolidation loan during a period in which the individual borrower for whom such separate consolidation loan is being made was employed in a public service job described in section 455(m)(1)(B), treat such payment as if such payment were made on the separate consolidation loan; and
-    >     - **(v)** in a case in which a payment was made under an income contingent repayment plan or an income-based repayment plan described in subparagraph (D) or (E) of section 455(d)(1), respectively, on the joint consolidation loan, treat such payment as if such payment were made on such separate consolidation loan.
+    >     - **(ii)** in a timely manner, notify each individual borrower that the joint consolidation loan had been repaid and of the terms and conditions of their new loans.
     >   - **(C)** *Application for separate direct consolidation loan*
     >     - **(i)** *Joint application* Except as provided in clause (ii), to receive separate consolidation loans under this part, both individual borrowers in a married couple (or previously married couple) shall jointly apply under subparagraph (A).
     >     - **(ii)** *Separate application* An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
-    >       - **(I)** the individual borrower has experienced from the other individual borrower—
-    >         - **(aa)** domestic violence (as defined in section 40002(a) of the Violence Against Women Act of 1994 (42 U.S.C. 13925 (a))); or
-    >         - **(bb)** economic abuse (including behaviors that control such borrower’s ability to acquire, use, and maintain access to money, credit, or the joint financial obligations of both borrowers);
-    >       - **(II)** the individual borrower certifies, on a form approved by the Secretary, that such borrower is unable to reasonably reach or access the loan information of the other individual borrower; or
-    >       - **(III)** the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
+    >       - **(I)** the individual borrower certifies to the Secretary that such borrower—
+    >         - **(aa)** has experienced an act of domestic violence (as defined in section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) from the other individual borrower;
+    >         - **(bb)** has experienced economic abuse (as defined in section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) from the other individual borrower; or
+    >         - **(cc)** is unable to reasonably reach or access the loan information of the other individual borrower; or
+    >       - **(II)** the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
+    >     - **(iii)** *Remaining obligation from separate application* In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
 
 - **(b)** *Conforming amendment* Section 428C(a)(3)(B)(i)(V) of the Higher Education Act of 1965 (20 U.S.C. 1078–3(3)(B)(i)(V)) is amended—
   - **(1)** by striking “or” at the end of item (bb);
   - **(2)** by striking the period at the end of item (cc) and inserting “; or”; and
   - **(3)** by adding at the end the following:
-    > - **(dd)** for the purpose of separating a joint consolidation loan into 2 separate Federal Direct Consolidation Loans under section 455(g)(2), except that such separated Federal Direct Consolidation Loan may not consolidate such loan with the loans described in section 428C(a)(4).
+    > - **(dd)** for the purpose of separating a joint consolidation loan into 2 separate Federal Direct Consolidation Loans under section 455(g)(2).
