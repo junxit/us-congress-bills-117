@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2773
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2773
@@ -287,3 +287,4 @@ Recovering America’s Wildlife Act of 2021
 - 2022-06-14 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-06-14 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2022-06-14 — The previous question was ordered pursuant to the rule.
+- 2022-06-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.
