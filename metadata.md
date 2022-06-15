@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7211
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7211
@@ -26,9 +26,10 @@ Small State and Rural Rescue Act
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Small State and Rural Rescue Act
 - 2022-06-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-06-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 269). (text: 6/13/2022 CR H5458-5459)
 - 2022-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 269).(text: 6/13/2022 CR H5458-5459)
+- 2022-06-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
