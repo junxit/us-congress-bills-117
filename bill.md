@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 8083
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8083
+
+> To modify the requirements of the annual report on military and security developments involving the People’s Republic of China, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Assessing Chinese Special Operations Forces Act of 2022”.
+
+## § 2. Modification to annual report on military and security developments involving the People's Republic of China
+
+Section 1202(b) of the National Defense Authorization Act for Fiscal Year 2000 (10 U.S.C. 113 note) is amended as follows:
+
+- **(1)** In paragraph (5)—
+  - **(A)** in subparagraph (B)—
+    - **(i)** by striking “A summary” and inserting “a summary”; and
+    - **(ii)** by striking “; and” at the end and inserting a semicolon;
+  - **(B)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
+  - **(C)** by adding at the end the following new subparagraph:
+    > - **(D)** the doctrine, capabilities, organization, and operational employment of the People’s Liberation Army special operations forces.
+
+- **(2)** In paragraph (8), by adding at the end the following new subparagraph:
+  > - **(F)** The special operations capabilities.
