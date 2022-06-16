@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3952
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting after the first sentence the following: “The President shall, in appointing the Chief Scientist, give due consideration to any recommendations for appointments which may be submitted by the National Academies of Sciences, En… | the bill names no machine-readable US Code section |
-| — | insert | after “principal scientific advisor to the Administrator”, by inserting “on cross-cutting science and technology policy and strategy”; | the bill names no machine-readable US Code section |
-| — | insert | after “to the work of the Administration”, by inserting “, and who has produced work of scientific merit through an established record of distinguished service and achievement highly respected by the scientific community”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (d) of section 2 of Reorganization Plan No. 4 of 1970 (5 U.S.C. App) is amended to read as follows: | the bill names no machine-readable US Code section |
