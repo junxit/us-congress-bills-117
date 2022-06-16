@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7606
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+36 amendatory instructions. 2 executed, 34 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 3839aa-24
+
+> in the subsection heading, by striking “and advanced grazing management” and inserting “, advanced grazing management, and precision agriculture”;
+
+| | |
+|---|---|
+| Removed | `and advanced grazing management` |
+| Inserted | `, advanced grazing management, and precision agriculture` |
+
+### 16 U.S.C. § 3839aa-24
+
+> in paragraph (3), by striking “or advanced grazing management” and inserting “, advanced grazing management, or precision agriculture”.
+
+| | |
+|---|---|
+| Removed | `or advanced grazing management` |
+| Inserted | `, advanced grazing management, or precision agriculture` |
 
 ## Stated, not applied
 
@@ -34,3 +54,34 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 6916` | insert | The Department of Agriculture Reorganization Act of 1994 is amended by inserting after section 216 (7 U.S.C. 6916) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 7014` | add-at-end | Section 296(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 7014(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6925` | redesignate | Subtitle A of the Department of Agriculture Reorganization Act of 1994 is amended by redesignating the first section 225 (relating to Food Access Liaison) (7 U.S.C. 6925) as section 224A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 6931` | add-at-end | Subtitle B of title II of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6931 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 7014` | add-at-end | Section 296(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 7014(b)), as amended by section 101, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1621` | add-at-end | The Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1632b` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1632b` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1632b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | replace | by striking “(4) The Administrator, upon” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | insert | in the matter preceding subparagraph (A), by inserting “or more” after “10 percent”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 7545` | strike | in subparagraph (C), by striking “additional alcohol or”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 7545` | insert | in paragraph (5)(A), by inserting “or more” after “10 percent”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1924` | redesignate | in subsection (b)(3), by redesignating subparagraphs (F) and (G) as subparagraphs (G) and (H), respectively, and inserting after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1924` | strike | in paragraph (2), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1924` | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1924` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1924` | replace | in subsection (e), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1924` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1924` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1932` | strike | by striking “and” at the end of subparagraph (C); | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1932` | replace | by striking the period at the end of subparagraph (D) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1932` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3839aa-1` | insert | Section 1240A(6)(B)(v) of the Food Security Act of 1985 (16 U.S.C. 3839aa–1(6)(B)(v)) is amended by inserting “(including the adoption of precision agriculture practices and the acquisition of precision agriculture technology)” after “pl… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3839aa-2` | replace | by striking “A producer shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3839aa-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3839aa-2` | insert | Section 1240B(d)(7) of the Food Security Act of 1985 (16 U.S.C. 3839aa–2(d)(7)) is amended, in the subsection heading, by inserting “State-determined” before “high-priority”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3839aa-2` | add-at-end | Section 1240B(d) of the Food Security Act of 1985 (16 U.S.C. 3839aa–2(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3839aa-2` | insert | Section 1240B(j)(2)(A)(i) of the Food Security Act of 1985 (16 U.S.C. 3839aa–2(j)(3)(A)(i)) is amended by inserting “(which may include the adoption of precision agriculture practices and the acquisition of precision agriculture technolo… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3839aa-24` | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3839aa-24` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3839aa-24` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3842` | add-at-end | Section 1242(f) of the Food Security Act of 1985 (16 U.S.C. 3842(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
