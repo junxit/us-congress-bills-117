@@ -1,7 +1,7 @@
 ---
 measure: S. 2129
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2129
@@ -16,11 +16,13 @@ Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2021
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hagerty, Bill [R-TN] (H000601)
 
 ## Committees (1)
 
@@ -34,3 +36,5 @@ Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2021
 - 2021-10-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2021-10-28 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2021-10-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
+- 2022-06-16 — Passed Senate with an amendment by Voice Vote. (consideration: CR S3011-3013; text: CR S3011-3013)
+- 2022-06-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S3011-3013; text: CR S3011-3013)
