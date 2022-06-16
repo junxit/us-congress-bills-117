@@ -1,7 +1,7 @@
 ---
 measure: S. 3309
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3309
@@ -33,3 +33,14 @@ Securing Semiconductor Supply Chains Act of 2021
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2021-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2021-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.
+- 2022-05-17 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-109.
+- 2022-05-17 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-109.
+- 2022-06-16 — Amendment SA 5098 agreed to in Senate by Unanimous Consent.
+- 2022-06-16 — Amendment SA 5098 proposed by Senator Carper for Senator Peters. (consideration: CR S3009-3010; text: CR S3007-3008) In the nature of a substitute.
+- 2022-06-16 — Measure laid before Senate by unanimous consent. (consideration: CR S3009-3010)
+- 2022-06-16 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S3007-3008)
+- 2022-06-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S3007-3008)
+- 2022-06-16 — Senate amendment agreed to: Amendment SA 5098 agreed to in Senate by Unanimous Consent.
+- 2022-06-16 — Senate amendment proposed (on the floor): Amendment SA 5098 proposed by Senator Carper for Senator Peters.(consideration: CR S3009-3010; text: CR S3007-3008)
+- 2022-06-16 — Senate amendment submitted
+- 2022-06-16 — The committee substitute withdrawn by Unanimous Consent.
