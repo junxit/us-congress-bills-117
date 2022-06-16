@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3967
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3967
@@ -16,7 +16,7 @@ Honoring our PACT Act of 2022
 
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Cosponsors (100)
+## Cosponsors (115)
 
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
@@ -118,6 +118,21 @@ Honoring our PACT Act of 2022
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Bass, Karen [D-CA-37] (B001270)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (2)
 
@@ -223,3 +238,93 @@ Honoring our PACT Act of 2022
 - 2022-03-03 — The previous question was ordered pursuant to the rule.
 - 2022-05-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-05-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 388.
+- 2022-05-26 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S2729)
+- 2022-05-26 — Motion to proceed to consideration of measure made in Senate. (CR S2729)
+- 2022-06-07 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 86 - 12. Record Vote Number: 215. (CR S2801)
+- 2022-06-07 — Motion to proceed to measure considered in Senate. (CR S2801)
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-07 — Senate amendment submitted
+- 2022-06-08 — Amendment SA 5051 proposed by Senator Tester. (consideration: CR S2843; text: CR S2818-2834) In the nature of a substitute.
+- 2022-06-08 — Amendment SA 5065 proposed by Senator Schumer to Amendment SA 5051. (consideration: CR S2843; text: CR S2843) To add an effective date.
+- 2022-06-08 — Measure laid before Senate by motion.
+- 2022-06-08 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2022-06-08 — Motion to proceed to measure considered in Senate. (CR S2843)
+- 2022-06-08 — Senate amendment proposed (on the floor): Amendment SA 5051 proposed by Senator Tester.(consideration: CR S2843; text: CR S2818-2834)
+- 2022-06-08 — Senate amendment proposed (on the floor): Amendment SA 5065 proposed by Senator Schumer to Amendment SA 5051.
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-08 — Senate amendment submitted
+- 2022-06-09 — Amendment SA 5076 proposed by Senator Schumer to language proposed to be stricken by amendment no. 5051. (consideration: CR S2887; text: CR S2887) To add an effective date.
+- 2022-06-09 — Cloture motion on amendment SA 5051 presented in Senate.
+- 2022-06-09 — Cloture motion on the measure presented in Senate. (CR S2887)
+- 2022-06-09 — Considered by Senate.
+- 2022-06-09 — Considered by Senate.
+- 2022-06-09 — Considered by Senate. (consideration: CR S2875-2883, S2884-2887)
+- 2022-06-09 — Senate amendment proposed (on the floor): Amendment SA 5076 proposed by Senator Schumer to language proposed to be stricken by amendment no. 5051.
+- 2022-06-09 — Senate amendment submitted
+- 2022-06-13 — Cloture on amendment SA 5051 invoked in Senate by Yea-Nay Vote. 78 - 17. Record Vote Number: 225. (CR S2907)
+- 2022-06-13 — Considered by Senate.
+- 2022-06-13 — Considered by Senate. (consideration: CR S2899)
+- 2022-06-13 — Considered by Senate. (consideration: CR S2899)
+- 2022-06-13 — Considered by Senate. (consideration: CR S2899-2900, S2901-2908)
+- 2022-06-13 — Roll call votes on amendments in Senate: Cloture on amendment SA 5051 invoked in Senate by Yea-Nay Vote. 78 - 17. Record Vote Number: 225.(CR S2907)
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-13 — Senate amendment submitted
+- 2022-06-14 — Considered by Senate. (consideration: CR S2919)
+- 2022-06-14 — Considered by Senate. (consideration: CR S2919)
+- 2022-06-14 — Considered by Senate. (consideration: CR S2919)
+- 2022-06-14 — Considered by Senate. (consideration: CR S2919-2920, S2926-2927, S2932-2933)
+- 2022-06-14 — Senate amendment submitted
+- 2022-06-15 — Amendment SA 5051 agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 226.
+- 2022-06-15 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 76 - 23. Record Vote Number: 227. (CR S2951)
+- 2022-06-15 — Considered by Senate. (consideration: CR S2947)
+- 2022-06-15 — Considered by Senate. (consideration: CR S2947)
+- 2022-06-15 — Considered by Senate. (consideration: CR S2947)
+- 2022-06-15 — Considered by Senate. (consideration: CR S2947-2951, S2954, S2957-2958, S2976-2978)
+- 2022-06-15 — Proposed amendment SA 5065 withdrawn in Senate. (CR S2951)
+- 2022-06-15 — Proposed amendment SA 5076 withdrawn in Senate. (CR S2951)
+- 2022-06-15 — Roll call votes on amendments in Senate: Amendment SA 5051 agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 226.
+- 2022-06-15 — Senate amendment agreed to: Amendment SA 5051 agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 226.
+- 2022-06-16 — Considered by Senate. (consideration: CR S2983-2984, S2988-2991, S2999-3001, S3010-3011)
+- 2022-06-16 — Message on Senate action sent to the House.
+- 2022-06-16 — Passed Senate with an amendment by Yea-Nay Vote. 84 - 14. Record Vote Number: 230.
+- 2022-06-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 84 - 14. Record Vote Number: 230.
