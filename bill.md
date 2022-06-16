@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2129
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -32,7 +32,7 @@ This Act may be cited as the “Otto Warmbier Countering North Korean Censorship
 It is the policy of the United States—
 
 - **(1)** to provide the people of North Korea with access to a diverse range of fact-based information;
-- **(2)** to develop and implement novel means of communication and information sharing to ensure that audiences in North Korea can safely create, access, and share digital and non-digital news without fear of repressive censorship, surveillance, or penalties under law; and
+- **(2)** to develop and implement novel means of communication and information sharing that increase opportunities for audiences in North Korea to safely create, access, and share digital and non-digital news without fear of repressive censorship, surveillance, or penalties under law; and
 - **(3)** to foster and innovate new technologies to counter North Korea’s state-sponsored repressive surveillance and censorship by advancing internet freedom tools, technologies, and new approaches.
 
 ## § 4. United States strategy to combat North Korea’s repressive information environment
@@ -42,17 +42,19 @@ It is the policy of the United States—
   - **(1)** An assessment of the challenges to the free flow of information into North Korea created by the censorship and surveillance technology apparatus of the Government of North Korea.
   - **(2)** A detailed description of the agencies and other government entities, key officials, and security services responsible for the implementation of North Korea’s repressive laws regarding foreign media consumption.
   - **(3)** A detailed description of the agencies and other government entities and key officials of foreign governments that assist, facilitate, or aid North Korea’s repressive censorship and surveillance state.
-  - **(4)** An assessment of the feasibility of new public-private sponsorships to increase free expression, circumvent censorship, and obstruct repressive surveillance in North Korea.
+  - **(4)** A review of existing public-private partnerships that provide circumvention technology and an assessment of the feasibility and utility of new tools to increase free expression, circumvent censorship, and obstruct repressive surveillance in North Korea.
   - **(5)** A description of and funding levels required for current United States Government programs and activities to provide access for the people of North Korea to a diverse range of fact-based information.
-  - **(6)** Guidance for the relevant Federal agencies, including the Department of State, on how agencies should work together and with other federally funded entities like the United States Agency for Global Media, to combat North Korea’s repressive censorship and surveillance apparatus by utilizing all available means.
-  - **(7)** A detailed assessment of how the United States International Broadcasting Surge Capacity Fund authorized under section 316 of the United States International Broadcasting Act of 1994 (22 U.S.C. 6216) has operated to respond to crisis situations in the past, and how authority to transfer unobligated balances from expired accounts would help the United States Agency for Global Media in crisis situations in the future.
-  - **(8)** A detailed plan for how the authorization of appropriations under section 6 will operate alongside and augment existing programming from the relevant Federal agencies and facilitate the development of new tools to assist that programming.
+  - **(6)** An update of the plan required by section 104(a)(7)(A) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814(a)(7)(A)).
+  - **(7)** A description of Department of State programs and funding levels for programs that promote internet freedom in North Korea, including monitoring and evaluation efforts.
+  - **(8)** A description of grantee programs of the United States Agency for Global Media in North Korea that facilitate circumvention tools and broadcasting, including monitoring and evaluation efforts.
+  - **(9)** A detailed assessment of how the United States International Broadcasting Surge Capacity Fund authorized under section 316 of the United States International Broadcasting Act of 1994 (22 U.S.C. 6216) has operated to respond to crisis situations in the past, and how authority to transfer unobligated balances from expired accounts would help the United States Agency for Global Media in crisis situations in the future.
+  - **(10)** A detailed plan for how the authorization of appropriations under section 7 will operate alongside and augment existing programming from the relevant Federal agencies and facilitate the development of new tools to assist that programming.
 - **(c)** *Form of strategy* The strategy required by subsection (a) shall be submitted in unclassified form, but may include the matters required by paragraphs (2) and (3) of subsection (b) in a classified annex.
 
 ## § 5. Imposition of sanctions with respect to persons responsible for North Korea’s repressive censorship and surveillance state
 
-- **(a)** *In general* The President may impose the following sanctions with respect to each person identified under paragraph (2) or (3) of section 4(b):
-  - **(1)** *Blocking of property* The exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+- **(a)** *In general* The President may impose the following sanctions with respect to any foreign person that the President determines knowingly engaged in, facilitated, or was responsible for censorship by the Government of North Korea or the Workers’ Party of Korea identified under paragraph (2) or (3) of section 4(b):
+  - **(1)** *Blocking of property* The President may exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
   - **(2)** *Ineligibility for visas, admission, or parole*
     - **(A)** *Visas, admission, or parole* In the case of an alien, the alien may be—
       - **(i)** inadmissible to the United States;
@@ -81,15 +83,30 @@ It is the policy of the United States—
   - **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
     - **(A)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
-  - **(3)** *United states person* The term United States person means—
-    - **(A)** a United States citizen or an alien lawfully admitted to the United States for permanent residence; or
-    - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States.
+  - **(3)** *Foreign person* The term foreign person means any person that is not a United States person.
+  - **(4)** *United states person* The term United States person means—
+    - **(A)** a United States citizen or an alien lawfully admitted to the United States for permanent residence;
+    - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States; or
+    - **(C)** any person in the United States.
 
-## § 6. Promoting freedom of information and countering censorship and surveillance in North Korea
+## § 6. Report on enforcement of sanctions with respect to North Korea
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter through 2024, the Secretary of State and the Secretary of the Treasury shall jointly submit to the appropriate congressional committees (as defined in section 5(e)) a report on sanctions-related activities and enforcement undertaken by the United States Government with respect to North Korea during the period described in subsection (b) that includes—
+  - **(1)** an assessment of activities conducted by persons in North Korea or the Government of North Korea that would require mandatory designations pursuant to the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9201 et seq.); and
+  - **(2)** sanctions-related enforcement or other sanctions-related actions undertaken by the United States Government pursuant to that Act.
+- **(b)** *Period described* The period described in this subsection is—
+  - **(1)** in the case of the first report required by subsection (a), the period beginning on January 1, 2021, and ending on the date on which the report is required to be submitted; and
+  - **(2)** in the case of each subsequent report required by subsection (a), the one-year period preceding submission of the report.
+
+## § 7. Promoting freedom of information and countering censorship and surveillance in North Korea
 
 - **(a)** *Authorization of appropriations* There are authorized to be appropriated to the United States Agency for Global Media $10,000,000 for each of fiscal years 2022 through 2026 to provide increased broadcasting and grants for the following purposes:
   - **(1)** To promote the development of internet freedom tools, technologies, and new approaches, including both digital and non-digital means of information sharing related to North Korea.
   - **(2)** To explore public-private partnerships to counter North Korea’s repressive censorship and surveillance state.
   - **(3)** To develop new means to protect the privacy and identity of individuals receiving media from the United States Agency for Global Media and other outside media outlets from within North Korea.
   - **(4)** To bolster existing programming from the United States Agency for Global Media by restoring the broadcasting capacity of damaged antennas caused by Typhoon Yutu in 2018.
-- **(b)** *Annual reports* Not later than one year after the date of the enactment of this Act, and annually thereafter for the following 4 years, the Secretary of State, in consultation with the Chief Executive Officer of the United States Agency for Global Media, shall submit to Congress a report that describes the activities carried out using amounts authorized to be appropriated under subsection (a) during the year preceding submission of the report.
+- **(b)** *Annual reports* Section 104(a)(7)(B) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814(a)(7)(B)) is amended—
+  - **(1)** in the matter preceding clause (i)—
+    - **(A)** by striking “1 year after the date of the enactment of this paragraph” and inserting “September 30, 2022”; and
+    - **(B)** by striking “Broadcasting Board of Governors” and inserting “Chief Executive Officer of the United States Agency for Global Media”; and
+  - **(2)** in clause (i), by inserting after “this section” the following: “and sections 4 and 7 of the Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2021”.
