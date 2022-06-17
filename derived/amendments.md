@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7174
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 6 U.S.C. § 383
 
-> in the subsection heading, by striking “In general” and inserting “In general; Mission”;
+> in the subsection heading, by striking “In general” and inserting “In general; mission”;
 
 | | |
 |---|---|
 | Removed | `In general` |
-| Inserted | `In general; Mission` |
+| Inserted | `In general; mission` |
 
 ### 6 U.S.C. § 383
 
@@ -108,7 +108,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 383` | replace | by striking the second sentence and inserting “The Institute’s mission shall be to educate, train, and equip State, local, territorial, and Tribal law enforcement officers, prosecutors, judges, participants in the United States Secret Se… | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 383` | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 383` | replace | by striking subsection (b) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 383` | add-at-end | by adding at the end the following new sentence: “The Institute shall prioritize providing education and training to individuals from geographically diverse jurisdictions throughout the United States.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 383` | amend | by amending the heading to read as follows: “Cyber Fraud Task Forces”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 383` | add-at-end | by adding at the end the following new sentence: “The Institute shall prioritize providing education and training to individuals from geographically-diverse jurisdictions throughout the United States.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 383` | amend | by amending the heading to read as follows: “Cyber fraud task forces”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 383` | redesignate | by redesignating subsection (g), as redesignated pursuant to paragraph (2), as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1501` | redesignate | by inserting after subsection (f), as so redesignated, the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

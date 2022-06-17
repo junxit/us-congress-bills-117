@@ -17,26 +17,26 @@ This Act may be cited as the “National Computer Forensics Institute Reauthoriz
 
 - **(a)** *In general* Section 822 of the Homeland Security Act of 2002 (6 U.S.C. 383) is amended—
   - **(1)** in subsection (a)—
-    - **(A)** in the subsection heading, by striking “In general” and inserting “In general; Mission”;
+    - **(A)** in the subsection heading, by striking “In general” and inserting “In general; mission”;
     - **(B)** by striking “2022” and inserting “2032”; and
-    - **(C)** by striking the second sentence and inserting “The Institute’s mission shall be to educate, train, and equip State, local, territorial, and Tribal law enforcement officers, prosecutors, judges, participants in the United States Secret Service’s network of cyber fraud task forces, and other appropriate individuals regarding investigating and preventing cybersecurity incidents, electronic crimes, and related cybersecurity threats, including through the dissemination of homeland security information, in accordance with relevant Department guidance regarding privacy, civil rights, and civil liberties protections.”;
+    - **(C)** by striking the second sentence and inserting “The Institute’s mission shall be to educate, train, and equip State, local, territorial, and Tribal law enforcement officers, prosecutors, judges, participants in the United States Secret Service’s network of cyber fraud task forces, and other appropriate individuals regarding the investigation and prevention of cybersecurity incidents, electronic crimes, and related cybersecurity threats, including through the dissemination of homeland security information, in accordance with relevant Department guidance regarding privacy, civil rights, and civil liberties protections.”;
   - **(2)** by redesignating subsections (c) through (f) as subsections (d) through (g), respectively;
   - **(3)** by striking subsection (b) and inserting the following new subsections:
-    > - **(b)** *Curriculum* In furtherance of subsection (a), all activities of the Institute shall be conducted in accordance with relevant Federal law and policy regarding privacy, civil rights, and civil liberties protections, including best practices for safeguarding data privacy and fair information practice principles. Activities undertaken pursuant to subsection (a) shall relate to the following:
+    > - **(b)** *Curriculum* In furtherance of subsection (a), all education and training of the Institute shall be conducted in accordance with relevant Federal law and policy regarding privacy, civil rights, and civil liberties protections, including best practices for safeguarding data privacy and fair information practice principles. Education and training provided pursuant to subsection (a) shall relate to the following:
     >   - **(1)** Investigating and preventing cybersecurity incidents, electronic crimes, and related cybersecurity threats, including relating to instances involving illicit use of digital assets and emerging trends in cybersecurity and electronic crime.
     >   - **(2)** Conducting forensic examinations of computers, mobile devices, and other information systems.
     >   - **(3)** Prosecutorial and judicial considerations related to cybersecurity incidents, electronic crimes, related cybersecurity threats, and forensic examinations of computers, mobile devices, and other information systems.
     >   - **(4)** Methods to obtain, process, store, and admit digital evidence in court.
-    > - **(c)** *Research, development, and innovation* In furtherance of subsection (a), the Institute shall research, develop, and share innovative approaches to investigating cybersecurity incidents, electronic crimes, and related cybersecurity threats that prioritize best practices for forensic examinations of computers, mobile devices, and other information systems. Such innovative approaches may include training on methods to investigate ransomware and other threats involving the use of digital assets.
+    > - **(c)** *Research and development* In furtherance of subsection (a), the Institute shall research, develop, and share information relating to investigating cybersecurity incidents, electronic crimes, and related cybersecurity threats that prioritize best practices for forensic examinations of computers, mobile devices, and other information systems. Such information may include training on methods to investigate ransomware and other threats involving the use of digital assets.
 
   - **(4)** in subsection (d), as so redesignated—
     - **(A)** by striking “cyber and electronic crime and related threats is shared with State, local, tribal, and territorial law enforcement officers and prosecutors” and inserting “cybersecurity incidents, electronic crimes, and related cybersecurity threats is shared with recipients of education and training provided pursuant to subsection (a)”; and
-    - **(B)** by adding at the end the following new sentence: “The Institute shall prioritize providing education and training to individuals from geographically diverse jurisdictions throughout the United States.”;
+    - **(B)** by adding at the end the following new sentence: “The Institute shall prioritize providing education and training to individuals from geographically-diverse jurisdictions throughout the United States.”;
   - **(5)** in subsection (e), as so redesignated—
     - **(A)** by striking “State, local, tribal, and territorial law enforcement officers” and inserting “recipients of education and training provided pursuant to subsection (a)”; and
     - **(B)** by striking “necessary to conduct cyber and electronic crime and related threat investigations and computer and mobile device forensic examinations” and inserting “for investigating and preventing cybersecurity incidents, electronic crimes, related cybersecurity threats, and for forensic examinations of computers, mobile devices, and other information systems”;
   - **(6)** in subsection (f), as so redesignated—
-    - **(A)** by amending the heading to read as follows: “Cyber Fraud Task Forces”;
+    - **(A)** by amending the heading to read as follows: “Cyber fraud task forces”;
     - **(B)** by striking “Electronic Crime” and inserting “Cyber Fraud”;
     - **(C)** by striking “State, local, tribal, and territorial law enforcement officers” and inserting “recipients of education and training provided pursuant to subsection (a)”; and
     - **(D)** by striking “at” and inserting “by”;
@@ -44,11 +44,13 @@ This Act may be cited as the “National Computer Forensics Institute Reauthoriz
   - **(8)** by inserting after subsection (f), as so redesignated, the following new subsections:
     > - **(g)** *Expenses* The Director of the United States Secret Service may pay for all or a part of the education, training, or equipment provided by the Institute, including relating to the travel, transportation, and subsistence expenses of recipients of education and training provided pursuant to subsection (a).
     > - **(h)** *Annual reports to Congress* The Secretary shall include in the annual report required pursuant to section 1116 of title 31, United States Code, information regarding the activities of the Institute, including relating to the following:
-    >   - **(1)** Activities of the Institute, including identifying the jurisdictions with recipients of education and training provided pursuant to subsection (a) of this section during such year, the Institute’s operating budget for such year, and projected demands for education and training over the next five years.
-    >   - **(2)** Impacts of the Institute’s activities on jurisdictions’ capability to investigate and prevent cybersecurity incidents, electronic crimes, and related cybersecurity threats.
-    >   - **(3)** Any other issues determined relevant by the Secretary.
+    >   - **(1)** Activities of the Institute, including, where possible, an identification of jurisdictions with recipients of education and training provided pursuant to subsection (a) of this section during such year and information relating to the costs associated with such education and training.
+    >   - **(2)** Any information regarding projected future demand for such education and training.
+    >   - **(3)** Impacts of the Institute’s activities on jurisdictions’ capability to investigate and prevent cybersecurity incidents, electronic crimes, and related cybersecurity threats.
+    >   - **(4)** A description of the nomination process for State, local, territorial, and Tribal law enforcement officers, prosecutors, judges, participants in the United States Secret Service’s network of cyber fraud task forces, and other appropriate individuals to receive the education and training provided pursuant to subsection (a).
+    >   - **(5)** Any other issues determined relevant by the Secretary.
     > - **(i)** *Definitions* In this section—
-    >   - **(1)** *Cybersecurity threat* The term “cybersecurity threat” has the meaning given such term in section 102 of the Cybersecurity Act of 2015 (enacted as division N of the Consolidated Appropriations Act, 2016 (Public Law 114–113; 6 U.S.C. 1501)).
+    >   - **(1)** *Cybersecurity threat* The term “cybersecurity threat” has the meaning given such term in section 102 of the Cybersecurity Act of 2015 (enacted as division N of the Consolidated Appropriations Act, 2016 (Public Law 114–113; 6 U.S.C. 1501))
     >   - **(2)** *Incident* The term “incident” has the meaning given such term in section 2209(a).
     >   - **(3)** *Information system* The term “information system” has the meaning given such term in section 102 of the Cybersecurity Act of 2015 (enacted as division N of the Consolidated Appropriations Act, 2016 (Public Law 114–113; 6 U.S.C. 1501(9))).
 
@@ -60,4 +62,4 @@ This Act may be cited as the “National Computer Forensics Institute Reauthoriz
     - **(A)** Expanding the physical operations of the Institute.
     - **(B)** Expanding the availability of virtual education and training to all or a subset of potential recipients of education and training from the Institute.
     - **(C)** Some combination of the considerations set forth in subparagraphs (A) and (B).
-- **(e)** *Research and development* The Director of the United States Secret Service, in coordination with the Under Secretary for Science and Technology of the Department of Homeland Security, shall carry out research and development of systems and procedures to enhance the National Computer Forensics Institute’s capabilities and capacity to educate, train, equip, and disseminate information consistent with the Institute’s mission as set forth in subsection (a) of section 822 of the Homeland Security Act of 2002 (6 U.S.C. 383), as amended by subsection (a).
+- **(e)** *Research and development* The Director of the United States Secret Service may coordinate with the Under Secretary for Science and Technology of the Department of Homeland Security to carry out research and development of systems and procedures to enhance the National Computer Forensics Institute’s capabilities and capacity to carry out the Institute’s mission as set forth in subsection (a) of section 822 of the Homeland Security Act of 2002 (6 U.S.C. 383), as amended by subsection (a).
