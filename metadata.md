@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2543
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2543
@@ -24,9 +24,10 @@ Federal Reserve Racial and Economic Equity Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ Federal Reserve Racial and Economic Equity Act
 - 2022-06-15 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-06-15 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2022-06-15 — The previous question was ordered pursuant to the rule.
+- 2022-06-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
