@@ -1,7 +1,7 @@
 ---
 measure: S. 3511
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3511
@@ -28,3 +28,7 @@ Satellite Cybersecurity Act
 
 - 2022-01-13 — Introduced in Senate
 - 2022-01-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-03-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-122.
+- 2022-06-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-122.
+- 2022-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 428.
