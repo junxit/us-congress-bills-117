@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3285
 congress: 117
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3285
