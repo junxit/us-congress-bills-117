@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4176
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4176
@@ -16,7 +16,7 @@ LGBTQI+ Data Inclusion Act
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Cosponsors (78)
+## Cosponsors (128)
 
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 - Rep. Frankel, Lois [D-FL-21] (F000462)
@@ -96,6 +96,56 @@ LGBTQI+ Data Inclusion Act
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
 ## Committees (1)
 
@@ -106,3 +156,9 @@ LGBTQI+ Data Inclusion Act
 - 2021-06-25 — Introduced in House
 - 2021-06-25 — Introduced in House
 - 2021-06-25 — Referred to the House Committee on Oversight and Reform.
+- 2022-06-14 — Committee Consideration and Mark-up Session Held.
+- 2022-06-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 16.
+- 2022-06-21 — Placed on the Union Calendar, Calendar No. 289.
+- 2022-06-21 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-378.
+- 2022-06-21 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-378.
+- 2022-06-21 — Rules Committee Resolution H. Res. 1191 Reported to House. Rule provides for consideration of H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one hour of general debate on H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one motion to recommit each for H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides that proceedings may be postponed through July 15, 2022, on measures that were the object of motions to suspend the rules on the legislative days of June 21, 2022, June 22, 2022, June 23, 2022, or June 24, 2022, and on which the yeas and nays were ordered.
