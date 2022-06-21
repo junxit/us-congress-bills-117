@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7606
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7606
@@ -22,9 +22,10 @@ Meat and Poultry Special Investigator Act of 2022
 - Rep. Porter, Katie [D-CA-45] (P000618)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Meat and Poultry Special Investigator Act of 2022
 - 2022-06-16 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2022-06-16 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2022-06-16 — The previous question was ordered pursuant to the rule.
+- 2022-06-21 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
