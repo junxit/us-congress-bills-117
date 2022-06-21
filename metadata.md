@@ -1,7 +1,7 @@
 ---
 measure: S. 4353
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4353
@@ -28,3 +28,7 @@ RISE & SHINE Act
 
 - 2022-06-07 — Introduced in Senate
 - 2022-06-07 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-06-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with amendments favorably.
+- 2022-06-21 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with amendments. Without written report.
+- 2022-06-21 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with amendments. Without written report.
+- 2022-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 426.
