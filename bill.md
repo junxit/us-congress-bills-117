@@ -1,0 +1,174 @@
+---
+legis-num: H.R. 8152
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8152
+
+> To provide consumers with foundational data privacy rights, create strong oversight mechanisms, and establish meaningful enforcement.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “American Data Privacy and Protection Act”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Affirmative express consent*
+  - **(A)** *In general* The term “affirmative express consent” means an affirmative act by an individual that clearly communicates the individual’s freely given, specific, informed, and unambiguous authorization for an act or practice, in response to a specific request from a covered entity that meets the requirements of subparagraph (B).
+  - **(B)** *Request requirements* The requirements of this subparagraph with respect to a request from a covered entity to an individual are the following:
+    - **(i)** The request is provided to the individual in a clear and conspicuous standalone disclosure made through the primary medium used to offer the covered entity’s product or service.
+    - **(ii)** The request includes a description of the act or practice for which the individual’s consent is sought and—
+      - **(I)** clearly states the specific categories of covered data that the covered entity shall collect, process, and transfer for each act or practice;
+      - **(II)** clearly distinguishes between any act or practice which is necessary to fulfill a request of the individual and any act or practice which is for another purpose; and
+      - **(III)** includes a prominent heading and is written in easy-to-understand language that would enable a reasonable individual to identify and understand the processing purpose for which consent is sought and the covered data to be collected, processed, or transferred by the covered entity for such processing purpose.
+    - **(iii)** The request clearly explains the individual’s applicable rights related to consent.
+    - **(iv)** The request shall be made in a manner readily accessible to and usable by individuals with disabilities.
+    - **(v)** The request shall be made available to the public in each language in which the covered entity provides a product or service for which authorization is sought or in which the covered entity carries out any activity related to any product or service for which the covered data of the individual may be collected, processed, or transferred.
+  - **(C)** *Express consent required* A covered entity shall not infer that an individual has provided affirmative express consent to an act or practice from the inaction of the individual or the individual’s continued use of a service or product provided by the covered entity.
+  - **(D)** *Pretextual consent prohibited* A covered entity shall not obtain or attempt to obtain the affirmative express consent of an individual through—
+    - **(i)** the use of any false, fictitious, fraudulent, or materially misleading statement or representation; or
+    - **(ii)** the design, modification, or manipulation of any user interface with the purpose or substantial effect of obscuring, subverting, or impairing a reasonable individual’s autonomy, decision making, or choice to provide such consent or any covered data.
+- **(2)** *Algorithm* The term “algorithm” means a computational process that uses machine learning, natural language processing, artificial intelligence techniques, or other computational processing techniques of similar or greater complexity that makes a decision or facilitate human decision making with respect to covered data, including to determine the provision of products or services or to rank, order, promote, recommend, amplify, or similarly determine the delivery or display of information to an individual.
+- **(3)** *Biometric information*
+  - **(A)** *In general* The term “biometric information” means any covered data generated from the technological processing of an individual’s unique biological, physical, or physiological characteristics that is linked or reasonably linkable to an individual including—
+    - **(i)** fingerprints;
+    - **(ii)** voice prints;
+    - **(iii)** iris or retina scans;
+    - **(iv)** facial mapping or hand mapping, geometry, or templates; or
+    - **(v)** gait or personally identifying physical movements.
+  - **(B)** *Exclusion* The term “biometric information” does not include—
+    - **(i)** a digital or physical photograph;
+    - **(ii)** an audio or video recording; or
+    - **(iii)** data generated from a digital or physical photograph, or an audio or video recording that cannot be used to identify an individual.
+- **(4)** *Collect; collection* The terms “collect” and “collection” mean buying, renting, gathering, obtaining, receiving, accessing, or otherwise acquiring covered data by any means.
+- **(5)** *Commission* The term “Commission” means the Federal Trade Commission.
+- **(6)** *Common branding* The term “common branding” means a name, service mark, or trademark that is shared by 2 or more entities.
+- **(7)** *Control* The term “control” means, with respect to an entity—
+  - **(A)** ownership of, or the power to vote, more than 50 percent of the outstanding shares of any class of voting security of the entity;
+  - **(B)** control over the election of a majority of the directors of the entity (or of individuals exercising similar functions); or
+  - **(C)** the power to exercise a controlling influence over the management of the entity.
+- **(8)** *Covered data*
+  - **(A)** *In general* The term “covered data” means information that identifies or is linked or reasonably linkable, alone or in combination with other information, to an individual or a device that identifies or is linked or reasonably linkable to an individual, and may include derived data and unique identifiers.
+  - **(B)** *Exclusions* The term “covered data” does not include—
+    - **(i)** de-identified data;
+    - **(ii)** employee data;
+    - **(iii)** publicly available information; or
+    - **(iv)** inferences made exclusively from multiple independent sources of publicly available information that do not reveal sensitive covered data with respect to an individual.
+  - **(C)** *Employee data defined* For purposes of subparagraph (B), the term “employee data” means—
+    - **(i)** information relating to a job applicant collected by a covered entity acting as a prospective employer of such job applicant in the course of the application, or hiring process, provided that such information is collected, processed, or transferred by the prospective employer solely for purposes related to the employee’s status as a current or former job applicant of such employer;
+    - **(ii)** the business contact information of an employee, including the employee’s name, position or title, business telephone number, business address, or business email address that is provided to an employer by an employee who is acting in a professional capacity, provided that such information is collected, processed, or transferred solely for purposes related to such employee’s professional activities;
+    - **(iii)** emergency contact information collected by an employer that relates to an employee of that employer, provided that such information is collected, processed, or transferred solely for the purpose of having an emergency contact on file for the employee; or
+    - **(iv)** information relating to an employee (or a spouse, dependent, other covered family member, or beneficiary of such employee) that is necessary for the employer to collect, process, or transfer solely for the purpose of administering benefits to which such employee (or spouse, dependent, other covered family member, or beneficiary of such employee) is entitled on the basis of the employee’s position with that employer.
+- **(9)** *Covered entity*
+  - **(A)** The term “covered entity”—
+    - **(i)** means any entity or any person, other than an individual acting in a non-commercial context, that alone or jointly with others determines the purposes and means of collecting, processing, or transferring covered data and—
+      - **(I)** is subject to the Federal Trade Commission Act (15 U.S.C. 41 et seq.);
+      - **(II)** is a common carrier subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and all Acts amendatory thereof and supplementary thereto title II of the Communications Act of 1934 (47 U.S.C. 201–231) as currently enacted or subsequently amended; or
+      - **(III)** is an organization not organized to carry on business for their own profit or that of their members; and
+    - **(ii)** includes any entity or person that controls, is controlled by, or is under common control with another covered entity.
+  - **(B)** *Exclusions* The term “covered entity” does not include—
+    - **(i)** a governmental entity such as a body, authority, board, bureau, commission, district, agency, or political subdivision of the Federal, State, or local government; or
+    - **(ii)** a person or an entity that is collecting, processing, or transferring covered data on behalf of or a Federal, State, Tribal, territorial, or local government entity.
+- **(10)** *De-identified data* The term “de-identified data” means information that does not identify and is not linked or reasonably linkable to an individual or an individual’s device, regardless of whether the information is aggregated, provided that the covered entity—
+  - **(A)** takes reasonable technical, administrative, and physical measures to ensure that the information cannot, at any point, be used to re-identify any individual or device;
+  - **(B)** publicly commits in a clear and conspicuous manner—
+    - **(i)** to process and transfer the information solely in a de-identified form without any reasonable means for re-identification; and
+    - **(ii)** to not attempt to re-identify the information with any individual or device; and
+  - **(C)** contractually obligates any person or entity that receives the information from the covered entity to comply with all of the provisions of this paragraph.
+- **(11)** *Derived data* The term “derived data” means covered data that is created by the derivation of information, data, assumptions, correlations, inferences, predictions, or conclusions from facts, evidence, or another source of information or data about an individual or an individual’s device.
+- **(12)** *Device* The term “device” means any electronic equipment capable of transmitting or receiving covered data that is designed for use by one or more individuals.
+- **(13)** *Employee* The term “employee” means (regardless of whether such employee is paid, unpaid, or employed on a temporary basis) an employee, director, officer, staff member, an individual working as a contractor, trainee, volunteer, or intern of an employer.
+- **(14)** *Executive agency* The “Executive agency” has the meaning set forth in section 105 of title 5, United States Code.
+- **(15)** *Genetic information* The term “genetic information” means any covered data, regardless of its format, that concerns an individual’s genetic characteristics, including—
+  - **(A)** raw sequence data that results from the sequencing of an individual’s complete extracted or a portion of the extracted deoxyribonucleic acid (DNA); or
+  - **(B)** genotypic and phenotypic information that results from analyzing the raw sequence data.
+- **(16)** *Individual* The term “individual” means a natural person residing in the United States.
+- **(17)** *Large data holder* The term “large data holder” means a covered entity or service provider that, in the most recent calendar year—
+  - **(A)** had annual gross revenues of $250,000,000 or more; and
+  - **(B)** collected, processed, or transferred—
+    - **(i)** the covered data of more than 5,000,000 individuals or devices that identify or are linked or reasonably linkable to 1 or more individuals; and
+    - **(ii)** the sensitive covered data of more than 200,000 individuals or devices that identify or are linked or reasonably linkable to 1 or more individuals.
+  - **(C)** *Exclusions* The term “large data holder” does not include any instance where the covered entity or service provider would qualify as a large data holder solely on account of collecting, or processing—
+    - **(i)** personal email addresses;
+    - **(ii)** personal telephone numbers; or
+    - **(iii)** log-in information of an individual or device to allow the individual or device to log in to an account administered by the covered entity or service provider.
+  - **(D)** *Revenue* For purposes of this determining whether any covered entity or service provider is a large data holder, the term “revenue” as it relates to any covered entity or service provider that is not organized to carry on business for its own profit or that of its members, means the gross receipts the covered entity or service provider received in whatever form from all sources without subtracting any costs or expenses, and includes contributions, gifts, grants, dues or other assessments, income from investments, or proceeds from the sale of real or personal property.
+- **(18)** *Market research* The term “market research” means the collection, processing, or transfer of covered data as reasonably necessary and proportionate to investigate the market for or marketing of products, services, or ideas, where the covered data is not—
+  - **(A)** integrated into any product or service;
+  - **(B)** otherwise used to contact any individual or individual’s device; or
+  - **(C)** used to advertise or market to any individual or individual’s device.
+- **(19)** *Material* The term “material” means with respect to an act, practice, or representation of a covered entity (including a representation made by the covered entity in a privacy policy or similar disclosure to individuals), involving the collection, processing, or transfer of covered data that such act, practice, or representation is likely to affect an individual’s decision or conduct regarding a product or service.
+- **(20)** *Precise geolocation information*
+  - **(A)** *In general* The term “precise geolocation information” means information that reveals the past or present physical location of an individual, or device that identifies or is linked or reasonably linkable to 1 or more individuals, with sufficient precision to identify street level location information or an individual’s location within a range of 1,000 feet or less.
+  - **(B)** *Exclusion* The term “precise geolocation information” does not mean geolocation information identifiable solely from the visual content of an image.
+- **(21)** *Process* The term “process” means to conduct or direct any operation or set of operations performed on covered data including analyzing, organizing, structuring, retaining, storing, using, or otherwise handling covered data.
+- **(22)** *Processing purpose* The term “processing purpose” means a reason for which a covered entity collects, processes, or transfers covered data that is specific and granular enough for a reasonable individual to understand the material facts of how and why the covered entity collects, processes, or transfers the covered data.
+- **(23)** *Publicly available information*
+  - **(A)** *In general* The term “publicly available information” means any information that a covered entity has a reasonable basis to believe has been lawfully made available to the general public from—
+    - **(i)** Federal, State, or local government records provided that the covered entity collects, processes, and transfers such information in accordance with any restrictions or terms of use placed on the information by the relevant government entity;
+    - **(ii)** widely distributed media;
+    - **(iii)** a website or online service made available to all members of the public, for free or for a fee, including where all members of the public can log-in to the website or online service;
+    - **(iv)** a disclosure that has been made to the general public as required by Federal, State, or local law; or
+    - **(v)** a visual observation of an individual’s physical presence in a public place by another person, not including data collected by a device in the individual’s possession.
+  - **(B)** *Clarifications; limitations*
+    - **(i)** *Available to all members of the public* For purposes of this paragraph, information from a website or online service is not available to all members of the public if the individual who made the information available via the website or online service has restricted the information to a specific audience.
+    - **(ii)** *Other limitations* The term “publicly available information” does not include—
+      - **(I)** any obscene visual depiction (as defined for purposes of section 1460 of title 18, United States Code);
+      - **(II)** inferences made exclusively from multiple independent sources of publicly available information that do not reveal sensitive covered data with respect to an individual;
+      - **(III)** biometric information;
+      - **(IV)** publicly available information that has been combined with covered data;
+      - **(V)** genetic information; or
+      - **(VI)** known nonconsensual intimate images.
+- **(24)** *Sensitive covered data*
+  - **(A)** *In general* The term “sensitive covered data” means the following forms of covered data:
+    - **(i)** A government-issued identifier, such as a social security number, passport number, or driver’s license number, that is not required by law to be displayed in public.
+    - **(ii)** Any information that describes or reveals the past, present, or future physical health, mental health, disability, diagnosis, or healthcare condition or treatment of an individual.
+    - **(iii)** A financial account number, debit card number, credit card number, or information about income level or bank account balances.
+    - **(iv)** Biometric information.
+    - **(v)** Genetic information.
+    - **(vi)** Precise geolocation information.
+    - **(vii)** An individual’s private communications such as voicemails, emails, texts, direct messages, or mail, or information identifying the parties to such communications, voice communications, and any information that pertains to the transmission of such communications, including telephone numbers called, telephone numbers from which calls were placed, the time calls were made, call duration, and location information of the parties to the call, unless the covered entity is the sender or an intended recipient of the communication. Communications are not private for purposes of this paragraph if such communications are made from or to a device provided by an employer to an employee insofar as such employer provides conspicuous notice that it may access such communications.
+    - **(viii)** Account or device log-in credentials, or security or access codes for an account or device.
+    - **(ix)** Information identifying the sexual orientation or sexual behavior of an individual in a manner inconsistent with the individual’s reasonable expectation regarding disclosure of such information.
+    - **(x)** Calendar information, address book information, phone or text logs, photos, audio recordings, or videos maintained for private use by an individual, regardless of whether such information is stored on the individual’s device or in a separate location on an individual’s device, regardless of whether such information is backed up in a separate location.
+    - **(xi)** A photograph, film, video recording, or other similar medium that shows the naked or undergarment-clad private area of an individual.
+    - **(xii)** Information that reveals the video content or services requested or selected by an individual from a provider of broadcast television service, cable service, satellite service or streaming media service.
+    - **(xiii)** Information about an individual when the covered entity knows that the individual is under the age of 17.
+    - **(xiv)** Any other covered data collected, processed, or transferred for the purpose of identifying the above data types.
+  - **(B)** *Rulemaking* The Commission may commence a rulemaking pursuant to section 553 of title 5, United States Code, to include any additional category of covered data under this definition that may require a similar level of protection as the data listed in clauses (i) through (xvi) of subparagraph (A) as a result of any new method of collecting, processing, or transferring covered data.
+- **(25)** *Service provider* The term “service provider” means a person or entity that collects, processes, or transfers covered data on behalf of, and at the direction of, a covered entity and which receives covered data from or on behalf of a covered entity pursuant to a written contract, provided that the contract meets the requirements of section 302.
+- **(26)** *Service provider data* The term “service provider data” means covered data that is collected or processed by or has been transferred to a service provider by a covered entity for the purpose of allowing the service provider to perform a service or function on behalf of, and at the direction of, such covered entity.
+- **(27)** *State* The term “State” means any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+- **(28)** *State privacy authority*
+  - **(A)** *In general* The term “State Privacy Authority” means—
+    - **(i)** the chief consumer protection officer of a State; or
+    - **(ii)** a State consumer protection agency with expertise in data protection.
+- **(29)** *Substantial privacy risk* The term “substantial privacy risk” means the collection, processing, or transfer of covered data in a manner that may result in any reasonably foreseeable material physical injury, economic injury, highly offensive intrusion into the reasonable privacy expectations of an individual under the circumstances, or discrimination on the basis of race, color, religion, national origin, sex, or disability.
+- **(30)** *Targeted advertising* The term “targeted advertising”—
+  - **(A)** means displaying to an individual or device identified by a unique identifier an online advertisement or content that is selected based on known or predicted preferences, characteristics, or interests associated with the individual or a device identified by a unique identifier; and
+  - **(B)** does not include—
+    - **(i)** advertising or marketing to an individual or an individual’s device in response to the individual’s specific request for information or feedback;
+    - **(ii)** contextual advertising, which is when an advertisement is displayed based on the content or location in which the advertisement appears and does not vary based on who is viewing the advertisement; or
+    - **(iii)** processing covered data solely for measuring or reporting advertising or content, performance, reach, or frequency, including independent measurement.
+- **(31)** *Third party* The term “third party”—
+  - **(A)** means any person or entity that—
+    - **(i)** collects, processes, or transfers third-party data; and
+    - **(ii)** is not a service provider with respect to such data; and
+  - **(B)** does not include a person or entity that collects covered data from another entity if the 2 entities are related by common ownership or corporate control and share common branding, unless one of those is a large data holder or those entities are each related to a large data holder through common ownership or corporate control.
+- **(32)** *Third-party collecting entity*
+  - **(A)** *In general* The term “third-party collecting entity”—
+    - **(i)** means a covered entity whose principal source of revenue is derived from processing or transferring the covered data that the covered entity did not collect directly from the individuals linked or linkable to the covered data; and
+    - **(ii)** does not include a covered entity in so far as such entity processes employee data collected by and received from a third party concerning any individual who is an employee of the third party for the sole purpose of such third party providing benefits to the employee.
+  - **(B)** *Principal source of revenue defined* For purposes of this paragraph, “principal source of revenue” means, for the prior 12-month period, either—
+    - **(i)** more than 50 percent of all revenue of the covered entity; or
+    - **(ii)** obtaining revenue from processing or transferring the covered data of more than 5,000,000 individuals that the covered entity did not collect directly from the individuals to which the covered data pertains.
+  - **(C)** *Non-application to service providers* An entity shall not be considered to be a third-party collecting entity for purposes of this Act if the entity is acting as a service provider (as defined in this section).
+- **(33)** *Third-party data* The term “third-party data” means covered data that has been transferred to a third party by a covered entity.
+- **(34)** *Transfer* The term “transfer” means to disclose, release, share, disseminate, make available, or license in writing, electronically, or by any other means.
+- **(35)** *Unique identifier* The term “unique identifier” means an identifier to the extent that such identifier is reasonably linkable to an individual or device that identifies or is linked or reasonably linkable to 1 or more individuals, including a device identifier, an Internet Protocol address, cookies, beacons, pixel tags, mobile ad identifiers, or similar technology, customer number, unique pseudonym, or user alias, telephone numbers, or other forms of persistent or probabilistic identifiers that are linked or reasonably linkable to an individual or device.
+- **(36)** *Widely distributed media* The term “widely distributed media” means information that is available to the general public, including information from a telephone book or online directory, a television, internet, or radio program, the news media, or an internet site that is available to the general public on an unrestricted basis, but does not include an obscene visual depiction (as defined in section 1460 of title 18, United States Code).
