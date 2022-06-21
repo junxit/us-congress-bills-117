@@ -34,7 +34,7 @@ Section 2705(a) of title 18, United States Code, is amended to read as follows:
 >       - **(iii)** that notification of such customer or subscriber was delayed by court order;
 >       - **(iv)** the identity of the court that issued such order;
 >       - **(v)** the provision of law under which the order delaying notification was authorized; and
->       - **(vi)** that the governmental entity will, upon request by the customer or subscriber, provide the customer or subscriber with a copy of the information that was disclosed in response to the warrant, order, or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
+>       - **(vi)** that the governmental entity will, upon request by the customer or subscriber made within 180 days after receiving notification under this paragraph, provide the customer or subscriber with a copy of the information that was disclosed in response to the warrant, order, or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
 >   - **(5)** *Copy of information disclosed* Upon expiration of the period of delay of notification under paragraph (2) or (3) of this subsection, and at the request of the customer or subscriber made within 180 days of receiving notification under paragraph (4), the governmental entity shall promptly provide the customer or subscriber—
 >     - **(A)** with a description of the information disclosed and a copy of the information that was disclosed in response to the warrant, order, or subpoena; or
 >     - **(B)** in the event that no information was disclosed, with a written certification that no information was disclosed.
@@ -75,7 +75,7 @@ Section 2705(b) of title 18, United States Code, is amended to read as follows:
 >       - **(iii)** that notification of such customer or subscriber was precluded by court order;
 >       - **(iv)** of the identity of the court authorizing the preclusion of notice;
 >       - **(v)** of the provision of this chapter under which the preclusion of notice was authorized; and
->       - **(vi)** that the government will, upon request by the customer or subscriber, provide the customer or subscriber with a copy of the information that was disclosed in response to the warrant, order or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
+>       - **(vi)** that the government will, upon request by the customer or subscriber made within 180 days after receiving notification under this paragraph, provide the customer or subscriber with a copy of the information that was disclosed in response to the warrant, order or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
 >   - **(10)** *Copy of information disclosed* Upon expiration of the order precluding notice issued under paragraph (2) or (3) of this subsection, and at the request of the customer or subscriber made within 180 days of receiving notification under paragraph (9), the governmental entity shall promptly provide the customer or subscriber—
 >     - **(A)** with a copy of the information that was disclosed in response to the warrant, order or subpoena; or
 >     - **(B)** in the event that no information was disclosed, a written certification that no information was disclosed.
@@ -86,7 +86,7 @@ Section 2705 of title 18, United States Code, is amended by adding at the end th
 
 > - **(c)** *Annual report* On an annual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate, in a manner consistent with protection of national security, a report setting forth with respect to the preceding calendar year, for each Federal judicial district—
 >   - **(1)** the number of customers or subscribers with respect to whom, in that calendar year, a warrant, subpoena, or court order was issued pursuant to section 2703;
->   - **(2)** the aggregate number of applications requesting delay of notification pursuant to section 2705;
->   - **(3)** the aggregate number of such orders either granted, extended, or denied;
->   - **(4)** the aggregate number of such orders targeting a member of the news media, including any conduct related to activities protected under the First Amendment; and
->   - **(5)** the aggregate number of arrests, trials, and convictions, resulting from investigations in which such orders were obtained, including the offenses for which individuals were arrested, tried, or convicted.
+>   - **(2)** the aggregate number of applications requesting delay of notification pursuant to subsections (a)(1) and (b)(1);
+>   - **(3)** the aggregate number of orders under this section either granting, extending, or denying a request for delay of notification;
+>   - **(4)** the aggregate number of orders under this section affecting a member of the news media, including any conduct related to activities protected under the First Amendment; and
+>   - **(5)** the aggregate number of arrests, trials, and convictions, resulting from investigations in which orders under this section were obtained, including the offenses for which individuals were arrested, tried, or convicted.
