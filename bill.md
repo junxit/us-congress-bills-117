@@ -24,7 +24,7 @@ This Act may be cited as the “Industrial Control Systems Cybersecurity Trainin
   > - **(b)** *Requirements* In carrying out the Initiative, the Director shall—
   >   - **(1)** ensure the Initiative includes—
   >     - **(A)** virtual and in-person trainings and courses provided at no cost to participants;
-  >     - **(B)** training and courses available at different skill levels, including introductory level courses;
+  >     - **(B)** trainings and courses available at different skill levels, including introductory level courses;
   >     - **(C)** trainings and courses that cover cyber defense strategies for industrial control systems, including an understanding of the unique cyber threats facing industrial control systems and the mitigation of security vulnerabilities in industrial control systems technology; and
   >     - **(D)** appropriate consideration regarding the availability of trainings and courses in different regions of the United States; and
   >   - **(2)** engage in—
