@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4346
@@ -15,6 +15,10 @@ Chips and Science Act
 ## Sponsor
 
 - Rep. Ryan, Tim [D-OH-13] (R000577)
+
+## Cosponsors (1)
+
+- Sen. Warner, Mark R. [D-VA] (W000805)
 
 ## Committees (2)
 
@@ -76,3 +80,14 @@ Chips and Science Act
 - 2021-07-28 — The previous question was ordered pursuant to the rule.
 - 2021-07-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2021-07-29 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2022-06-22 — Amendment SA 5120 agreed to in Senate by Unanimous Consent.
+- 2022-06-22 — Amendment SA 5120 proposed by Senator Whitehouse for Senator Hagerty. (consideration: CR S3096-3097; text: S3096-3097) In the nature of a substitute.
+- 2022-06-22 — Measure laid before Senate by unanimous consent. (consideration: CR S3096-3097)
+- 2022-06-22 — Message on Senate action sent to the House.
+- 2022-06-22 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S3096-3097)
+- 2022-06-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-06-22 — Senate Committee on Appropriations discharged by Unanimous Consent.
+- 2022-06-22 — Senate Committee on Appropriations discharged by Unanimous Consent.
+- 2022-06-22 — Senate amendment agreed to: Amendment SA 5120 agreed to in Senate by Unanimous Consent.
+- 2022-06-22 — Senate amendment proposed (on the floor): Amendment SA 5120 proposed by Senator Whitehouse for Senator Hagerty.
+- 2022-06-22 — Senate amendment submitted
