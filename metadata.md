@@ -1,7 +1,7 @@
 ---
 measure: S. 3510
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3510
@@ -32,3 +32,5 @@ Disaster Resiliency Planning Act
 - 2022-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-117.
 - 2022-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-117.
 - 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.
+- 2022-06-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3096; text: CR S3096)
+- 2022-06-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

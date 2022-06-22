@@ -22,15 +22,16 @@ In this Act:
   - **(B)** the Committee on Oversight and Reform of the House of Representatives.
 - **(2)** *Agency* The term agency has the meaning given the term in section 306 of title 5, United States Code.
 - **(3)** *Director* The term Director means the Director of the Office of Management and Budget.
+- **(4)** *Real property* The term real property has the meaning given the term in section 1.856–10 of title 26, Code of Federal Regulations, or any successor thereto.
 
 ## § 3. Guidance
 
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Director shall establish guidance requiring the head of each agency to incorporate natural disaster resilience into asset management and investment decisions made by the agency.
-- **(b)** *Contents* The guidance required under subsection (a) shall direct each head of an agency to incorporate assessments of natural disaster risk information conducted by the agency, such as from vulnerability and other risk assessments, into asset management investment decisions made by the agency.
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Director shall establish guidance requiring the head of each agency to incorporate natural disaster resilience into real property asset management and investment decisions made by the agency.
+- **(b)** *Contents* The guidance required under subsection (a) shall direct each head of an agency to incorporate assessments of natural disaster risk information conducted by the agency, such as from vulnerability and other risk assessments, into real property asset management investment decisions made by the agency.
 - **(c)** *Modification* The Director may periodically update the guidance required under subsection (a) as the Director may determine necessary for the purpose of further enhancing natural disaster resilience.
 - **(d)** *Consultation* In developing the guidance required under subsection (a), the Director may consult with appropriate entities, including—
   - **(1)** the Comptroller General of the United States;
-  - **(2)** Administrator of the Federal Emergency Management Agency; and
+  - **(2)** the Administrator of the Federal Emergency Management Agency; and
   - **(3)** any other relevant entities, as determined by the Director.
 - **(e)** *Report*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Director shall submit to the appropriate congressional committees a report that describes the guidance required under subsection (a).
