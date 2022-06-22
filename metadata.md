@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7072
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7072
@@ -26,9 +26,10 @@ NDO Fairness Act
 - Rep. Stanton, Greg [D-AZ-9] (S001211)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ NDO Fairness Act
 - 2022-06-21 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
 - 2022-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5698-5699)
 - 2022-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-06-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
