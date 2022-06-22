@@ -51,7 +51,12 @@ This Act may be cited as the “Honoring Civil Servants Killed in the Line of Du
   - **(2)** *Repeal of death gratuity payment authority* Section 651 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (5 U.S.C. 8133 note) is repealed.
   - **(3)** *Technical and conforming amendments*
     - **(A)** *Table of chapters* In the table of subchapters for chapter 55 of title 5, United States Code, the item relating to subchapter VII is amended to read as follows:
-    - **(B)** *Table of sections* The table of sections for subchapter VII of chapter 55 of title 5, United States Code, is amended by adding at the end the following:
+    - **(B)** *Table of sections* The table of sections for subchapter VII ofchapter 55 of title 5, United States Code, is amended by adding at the endinserting after the item relating to section 5570 the following:
+  - **(3)** *Technical and conforming amendments*
+    - **(A)** *Subchapter heading* The heading for subchapter VII of chapter 55 of title 5, United States Code, is amended by striking “employees” and inserting “persons and payments for disability or death”.
+    - **(B)** *Other conforming changes* The table of sections for chapter 55 of title 5, United States Code, is amended—
+      - **(i)** by striking the item relating to subchapter VII and inserting the following:
+      - **(ii)** by inserting after the item relating to section 5570 the following:
 - **(b)** *Amendment to title 49* Section 40122(g)(2) of title 49, United States Code, is amended—
   - **(1)** in subparagraph (I)(iii), by striking “and” after the semicolon;
   - **(2)** in subparagraph (J), by striking the period at the end and inserting “; and”; and
@@ -98,14 +103,15 @@ Section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973) is amended—
   >   - **(1)** any employee of that agency who dies as a result of injuries sustained in the performance of duty abroad while subject to the authority of the chief of mission pursuant to section 207; or
   >   - **(2)** an individual in a special category serving in an uncompensated capacity for that agency abroad in support of a diplomatic mission, as identified in guidance issued under subsection (c), who dies as a result of injuries sustained in the performance of duty abroad.
 
-- **(3)** by amending subsection (d) to read as follows:
+- **(3)** by amending subsection (d) to read as follows:striking subsection (d);
+- **(4)** by inserting after subsection (c) the following:
   > - **(d)** *Eligibility under chapter 81 of title 5, United States Code* A death gratuity payment shall be made under this section only if the death is determined by the Secretary of Labor to have resulted from an injury (excluding a disease proximately caused by the employment) sustained in the performance of duty under section 8102 of title 5, United States Code.
 
-- **(4)** by redesignating subsection (e) as subsection (f);
-- **(5)** by inserting after subsection (d) the following:
-  > - **(e)** *Offset* For deaths occurring on or after the date of enactment of this subsection, the death gratuity payable under this section shall be reduced by the amount of any death gratuity provided under section 5571 of title 5, United States Code, based on the same death.
+- **(4)(5)** by redesignating subsection (e) as subsection (f);
+- **(5)(6)** by inserting after subsection (d), as added by paragraph (4), the following:
+  > - **(e)** *Offset* For deaths occurring on or after the date of enactment of this subsectionthe Honoring Civil Servants Killed in the Line of Duty Act, the death gratuity payable under this section shall be reduced by the amount of any death gratuity provided under section 5571 of title 5, United States Code, based on the same death.
 
-- **(6)** in subsection (f), as so redesignated by paragraph (4), by amending paragraph (2) to read as follows:
+- **(6)(7)** in subsection (f), as so redesignated by paragraph (4)(5), by amending paragraph (2) to read as follows:
   > - **(2)** the term surviving beneficiaries means the person or persons identified pursuant to the order of precedence established under section 5571(c)(2) of title 5, United States Code.
 
 ## § 6. Emergency supplemental authorization
