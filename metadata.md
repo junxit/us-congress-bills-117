@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3285
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3285
@@ -95,3 +95,14 @@ version: Referred in Senate
 - 2022-06-21 — Reported by the Committee on Judiciary. H. Rept. 117-380.
 - 2022-06-21 — Reported by the Committee on Judiciary. H. Rept. 117-380.
 - 2022-06-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9610)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-21 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-272.
+- 2022-12-27 — Became Public Law No: 117-272.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
