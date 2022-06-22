@@ -1,0 +1,38 @@
+---
+legis-num: S. 4441
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4441
+
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide for peer support specialists for claimants who are survivors of military sexual trauma, and for other purposes.
+
+## § 1. Improvements to the processing of claims by veterans for compensation for certain mental health conditions based on military sexual trauma
+
+- **(a)** *In general* Section 1166 of title 38, United States Code, is amended—
+  - **(1)** by striking “or air service” both places it appears and inserting “air, or space service”;
+  - **(2)** in subsection (a)—
+    - **(A)** in the heading, by striking “In general” and inserting “Processing”;
+    - **(B)** by inserting “(1)” before “The Secretary”; and
+    - **(C)** by adding at the end the following new paragraphs:
+      > - **(2)** A peer support specialist of the Department—
+      >   - **(A)** shall not be responsible for providing any assistance to a veteran regarding a claim described in paragraph (1), other than counseling services, guidance, and support, pursuant to duties determined by the Under Secretary for Health; and
+      >   - **(B)** shall not participate in the adjudication of such a claim.
+
+  - **(3)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
+  - **(4)** by inserting, after subsection (a), the following new subsection (b):
+    > - **(b)** *Referrals to MST coordinators* The Secretary shall include, in forms for claims described in subsection (a), an option for a veteran to elect to be referred to a military sexual trauma coordinator of the Veterans Health Administration at the facility of the Department nearest to the residence of such veteran.
+
+  - **(5)** in subsection (c), as redesignated—
+    - **(A)** by inserting “(1)” before “The Secretary”; and
+    - **(B)** by adding at the end the following new paragraphs:
+      > - **(2)** The Secretary shall ensure that peer support specialists of the Department receive annual training on how to provide peer support regarding military sexual trauma.
+      > - **(3)** The Secretary shall provide annual training, regarding the processing of claims described in subsection (a), to the following individuals:
+      >   - **(A)** Military sexual trauma coordinators of the Veterans Health Administration.
+      >   - **(B)** Peer support specialists of the Department.
+
+- **(b)** *Clerical amendments*
+  - **(1)** *Section heading* The heading of such section is amended by striking “Specialized teams to evaluate claims” and inserting “Claims”.
+  - **(2)** *Table of sections* The table of sections at the beginning of chapter 11 of such title is amended by striking the item relating to section 1166 and inserting the following:
