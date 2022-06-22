@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5585
@@ -102,3 +102,27 @@ ARPA–H Act
 - 2022-06-13 — Placed on the Union Calendar, Calendar No. 277.
 - 2022-06-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-365.
 - 2022-06-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-365.
+- 2022-06-21 — Rules Committee Resolution H. Res. 1191 Reported to House. Rule provides for consideration of H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one hour of general debate on H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one motion to recommit each for H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides that proceedings may be postponed through July 15, 2022, on measures that were the object of motions to suspend the rules on the legislative days of June 21, 2022, June 22, 2022, June 23, 2022, or June 24, 2022, and on which the yeas and nays were ordered.
+- 2022-06-22 — Amendment (A002) offered by Ms. Eshoo. (consideration: CR H5802-5803; text: CR H5802)
+- 2022-06-22 — Amendment agreed to by House: On agreeing to the Eshoo amendment (A002) Agreed to by the Yeas and Nays: 381 - 40 (Roll no. 287).
+- 2022-06-22 — Amendment reported by the House Committee on Rules.
+- 2022-06-22 — Considered as unfinished business. (consideration: CR H5808-5809)
+- 2022-06-22 — Considered under the provisions of rule H. Res. 1191. (consideration: CR H5795-5803; text: CR H5795-5798)
+- 2022-06-22 — DEBATE - Pursuant to the provisions of H. Res. 1170, the House proceeded with 10 minutes of debate on the Eshoo amendment No. 1.
+- 2022-06-22 — DEBATE - The House proceeded with one hour of debate on H.R. 5585.
+- 2022-06-22 — House amendment agreed to: On agreeing to the Eshoo amendment (A002) Agreed to by the Yeas and Nays: 381 - 40 (Roll no. 287).
+- 2022-06-22 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-06-22 — House amendment offered
+- 2022-06-22 — House amendment offered
+- 2022-06-22 — House amendment offered/reported by: Amendment (A002) offered by Ms. Eshoo.
+- 2022-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-22 — On agreeing to the Eshoo amendment (A002) Agreed to by the Yeas and Nays: 381 - 40 (Roll no. 287).
+- 2022-06-22 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-06-22 — On passage Passed by the Yeas and Nays: 336 - 85 (Roll no. 288).
+- 2022-06-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Eshoo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Boebert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 336 - 85 (Roll no. 288).
+- 2022-06-22 — Pursuant to clause 1(c) of rule XIX, the Chair announced that further proceedings on H.R. 5585 would be postponed.
+- 2022-06-22 — Pursuant to clause 1(c) of rule XIX, the Chair announced that further proceedings on H.R. 5585 would resume.
+- 2022-06-22 — Roll call votes on amendments in House
+- 2022-06-22 — Rule provides for consideration of H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one hour of general debate on H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one motion to recommit each for H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides that proceedings may be postponed through July 15, 2022, on measures that were the object of motions to suspend the rules on the legislative days of June 21, 2022, June 22, 2022, June 23, 2022, or June 24, 2022, and on which the yeas and nays were ordered.
+- 2022-06-22 — The previous question was ordered on the amendment (A002) pursuant to the rule.
