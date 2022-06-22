@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3285
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3285
@@ -71,9 +71,10 @@ version: Reported in House
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 - Rep. Jacobs, Sara [D-CA-53] (J000305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -93,3 +94,4 @@ version: Reported in House
 - 2022-06-21 — Placed on the Union Calendar, Calendar No. 291.
 - 2022-06-21 — Reported by the Committee on Judiciary. H. Rept. 117-380.
 - 2022-06-21 — Reported by the Committee on Judiciary. H. Rept. 117-380.
+- 2022-06-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
