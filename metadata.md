@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7777
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7777
@@ -16,9 +16,10 @@ Industrial Control Systems Cybersecurity Training Act
 
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Industrial Control Systems Cybersecurity Training Act
 - 2022-06-21 — Mr. Swalwell moved to suspend the rules and pass the bill, as amended.
 - 2022-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 47 (Roll no. 278). (text: CR H5690)
 - 2022-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 47 (Roll no. 278).
+- 2022-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
