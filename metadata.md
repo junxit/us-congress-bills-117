@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4881
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4881
@@ -56,3 +56,8 @@ Old Pascua Community Land Acquisition Act
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 45, 1 Present (Roll no. 346). (text: 11/1/2021 CR H6048-6049)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 45, 1 Present (Roll no. 346).(text: 11/1/2021 CR H6048-6049)
 - 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2021-11-17 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-115.
+- 2022-04-06 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-127.
+- 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-127.
+- 2022-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
