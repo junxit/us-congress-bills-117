@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4176
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4176
@@ -162,3 +162,48 @@ LGBTQI+ Data Inclusion Act
 - 2022-06-21 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-378.
 - 2022-06-21 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-378.
 - 2022-06-21 — Rules Committee Resolution H. Res. 1191 Reported to House. Rule provides for consideration of H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one hour of general debate on H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one motion to recommit each for H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides that proceedings may be postponed through July 15, 2022, on measures that were the object of motions to suspend the rules on the legislative days of June 21, 2022, June 22, 2022, June 23, 2022, or June 24, 2022, and on which the yeas and nays were ordered.
+- 2022-06-23 — Amendment (A002) offered by Ms. Jackson Lee. (consideration: CR H5862-5866; text: CR H5862)
+- 2022-06-23 — Amendment (A003) offered by Mrs. Maloney, Carolyn B. (consideration: CR H5866-5867; text: CR H5866)
+- 2022-06-23 — Amendment (A004) offered by Mrs. Maloney, Carolyn B. (consideration: CR H5867; text: CR H5867)
+- 2022-06-23 — Amendment agreed to by House: On agreeing to the Jackson Lee amendment (A002) Agreed to by the Yeas and Nays: 216 - 200 (Roll no. 293).
+- 2022-06-23 — Amendment agreed to by House: On agreeing to the Maloney, Carolyn B. amendment (A003) Agreed to by the Yeas and Nays: 213 - 201 (Roll no. 294).
+- 2022-06-23 — Amendment agreed to by House: On agreeing to the Maloney, Carolyn B. amendment (A004) Agreed to by voice vote.
+- 2022-06-23 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-06-23 — Considered as unfinished business. (consideration: CR H5867-5871)
+- 2022-06-23 — Considered under the provisions of rule H. Res. 1191. (consideration: CR H5856-5867)
+- 2022-06-23 — DEBATE - Pursuant to the provisions of H.Res. 1191, the House proceeded with 10 minutes of debate on the Carolyn B. Maloney amendment No. 2.
+- 2022-06-23 — DEBATE - Pursuant to the provisions of H.Res. 1191, the House proceeded with 10 minutes of debate on the Carolyn B. Maloney amendment No. 3.
+- 2022-06-23 — DEBATE - Pursuant to the provisions of H.Res. 1191, the House proceeded with 10 minutes of debate on the Jackson Lee amendment No. 1.
+- 2022-06-23 — DEBATE - The House proceeded with one hour of debate on H.R. 4176.
+- 2022-06-23 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A002) Agreed to by the Yeas and Nays: 216 - 200 (Roll no. 293).
+- 2022-06-23 — House amendment agreed to: On agreeing to the Maloney, Carolyn B. amendment (A003) Agreed to by the Yeas and Nays: 213 - 201 (Roll no. 294).
+- 2022-06-23 — House amendment agreed to: On agreeing to the Maloney, Carolyn B. amendment (A004) Agreed to by voice vote.
+- 2022-06-23 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-23 — House amendment offered
+- 2022-06-23 — House amendment offered
+- 2022-06-23 — House amendment offered
+- 2022-06-23 — House amendment offered
+- 2022-06-23 — House amendment offered/reported by: Amendment (A002) offered by Ms. Jackson Lee.
+- 2022-06-23 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Maloney, Carolyn B.
+- 2022-06-23 — House amendment offered/reported by: Amendment (A004) offered by Mrs. Maloney, Carolyn B.
+- 2022-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-23 — Mr. Biggs moved to recommit to the Committee on Oversight and Reform. (text: CR H5869)
+- 2022-06-23 — On agreeing to the Jackson Lee amendment (A002) Agreed to by the Yeas and Nays: 216 - 200 (Roll no. 293).
+- 2022-06-23 — On agreeing to the Maloney, Carolyn B. amendment (A003) Agreed to by the Yeas and Nays: 213 - 201 (Roll no. 294).
+- 2022-06-23 — On agreeing to the Maloney, Carolyn B. amendment (A004) Agreed to by voice vote.
+- 2022-06-23 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-06-23 — On motion to recommit Failed by the Yeas and Nays: 202 - 218 (Roll no. 295).
+- 2022-06-23 — On passage Passed by the Yeas and Nays: 220 - 201 (Roll no. 296). (text: CR H5856)
+- 2022-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carolyn B. Maloney amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-06-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 201 (Roll no. 296).
+- 2022-06-23 — Pursuant to clause 1(c) of rule 19, further proceedings on H.R. 4176 are postponed.
+- 2022-06-23 — Roll call votes on amendments in House
+- 2022-06-23 — Roll call votes on amendments in House
+- 2022-06-23 — Rule provides for consideration of H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one hour of general debate on H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one motion to recommit each for H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides that proceedings may be postponed through July 15, 2022, on measures that were the object of motions to suspend the rules on the legislative days of June 21, 2022, June 22, 2022, June 23, 2022, or June 24, 2022, and on which the yeas and nays were ordered.
+- 2022-06-23 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-06-23 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-06-23 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-06-23 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-06-23 — The previous question was ordered pursuant to the rule.
+- 2022-06-23 — The title of the measure was amended. Agreed to without objection.
