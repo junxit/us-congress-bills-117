@@ -1,7 +1,7 @@
 ---
 measure: S. 2938
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 2938
@@ -36,7 +36,7 @@ Bipartisan Safer Communities Act
 
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2022-03-30 — [House 117-2-95](votes/house-117-2-0095.md) — On Motion to Suspend the Rules and Pass — **Failed** (238–187)
 - 2022-05-18 — [House 117-2-212](votes/house-117-2-0212.md) — On Passage — **Passed** (230–190)
@@ -44,6 +44,7 @@ Bipartisan Safer Communities Act
 - 2022-06-23 — [Senate 117-2-240](votes/senate-117-2-0240.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–34)
 - 2022-06-23 — [Senate 117-2-241](votes/senate-117-2-0241.md) — On the Motion to Table — **Motion to Table Failed** (39–58)
 - 2022-06-23 — [Senate 117-2-242](votes/senate-117-2-0242.md) — On the Motion — **Motion Agreed to** (65–33)
+- 2022-06-24 — [House 117-2-299](votes/house-117-2-0299.md) — On Concurring in the Senate Amendments to the House Amendment — **Passed** (234–193)
 
 ## Actions
 
@@ -158,3 +159,15 @@ Bipartisan Safer Communities Act
 - 2022-06-23 — Senate amendment submitted
 - 2022-06-23 — Senate amendment submitted
 - 2022-06-23 — Senate concurred in the House amendment to S. 2938 with an amendment SA (5099), and an amendment to the title by Yea-Nay Vote. 65 - 33. Record Vote Number: 242. (text: 06/21/2022 CR S3034-3042)
+- 2022-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-24 — Mr. Nadler moved that the House agree to the Senate amendments to the House amendment. (consideration: CR H5895-5915)
+- 2022-06-24 — On motion that the House agree to the Senate amendments to the House amendment Agreed to by the Yeas and Nays: 234 - 193 (Roll no. 299). (text: CR H5895-5903)
+- 2022-06-24 — Presented to President.
+- 2022-06-24 — Presented to President.
+- 2022-06-24 — Pursuant to the provisions of H.Res. 1204, the House proceeded with one hour of debate on the Nadler motion that the House agree to the Senate amendments to the House amendment to S. 2938.
+- 2022-06-24 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments to the House amendment Agreed to by the Yeas and Nays: 234 - 193 (Roll no. 299).(text: CR H5895-5903)
+- 2022-06-24 — The previous question was ordered pursuant to the rule.
+- 2022-06-25 — Became Public Law No: 117-159.
+- 2022-06-25 — Became Public Law No: 117-159.
+- 2022-06-25 — Signed by President.
+- 2022-06-25 — Signed by President.
