@@ -1,0 +1,18 @@
+---
+legis-num: S. 4496
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4496
+
+> To amend the Water Resources Development Act of 2000 to modify the authorization of appropriations for the Las Vegas Wash program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Las Vegas Wash Program Extension Act”.
+
+## § 2. Authorization of appropriations for the Las Vegas Wash program
+
+Section 529(b)(3) of the Water Resources Development Act of 2000 (114 Stat. 2658; 119 Stat. 2255; 125 Stat. 865) is amended by striking “$30,000,000” and inserting “$55,000,000”.
