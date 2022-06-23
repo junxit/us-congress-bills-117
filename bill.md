@@ -2,46 +2,82 @@
 legis-num: S. 2089
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2089
 
-> To amend title 38, United States Code, to ensure that grants provided by the Secretary of Veterans Affairs for State veterans' cemeteries do not restrict States from authorizing the interment of certain deceased members of the reserve components of the Armed Forces in such cemeteries, and for other purposes.
+That the bill from the Senate (S. 2089) entitled “An Act to amend title 38, United States Code, to ensure that grants provided by the Secretary of Veterans Affairs for State veterans’ cemeteries do not restrict States from authorizing the interment of certain deceased members of the reserve components of the Armed Forces in such cemeteries, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Burial Equity for Guards and Reserves Act of 2021”.
+This Act may be cited as the “Keep Kids Fed Act of 2022”.
 
-## § 2. Prohibitions on restricting interment of certain individuals in certain State veterans' cemeteries
+## § 2. Support for child nutrition programs
 
-- **(a)** *Grants* Section 2408 of title 38, United States Code, is amended—
-  - **(1)** in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”;
-  - **(2)** by redesignating subsection (i) as subsection (k); and
-  - **(3)** by inserting after subsection (h) the following new subsections:
-    > - **(i)**
-    >   - **(1)** The Secretary may not establish a condition for a grant under this section that restricts the ability of a State receiving such a grant to inter in a veterans' cemetery owned by that State any individual described in paragraph (2) solely by reason of the ineligibility of such individual for burial in an open national cemetery under the control of the National Cemetery Administration under section 2402(a) of this title.
-    >   - **(2)** An individual described in this paragraph is the following:
-    >     - **(A)** Any member of a reserve component of the Armed Forces who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of such a reserve component.
-    >     - **(B)** Any member of the Army National Guard or the Air National Guard who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of the Army National Guard or the Air National Guard.
-    >     - **(C)** Any member of the Reserve Officers' Training Corps of the Army, Navy, or Air Force whose death occurs under conditions other than dishonorable while a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force.
-    >     - **(D)** Any spouse of any member described in subparagraphs (A) through (C).
-    >     - **(E)** Any minor child or unmarried adult child (as such terms are defined in section 2402(a) of this title) of any member described in subparagraphs (A) through (C).
-    > - **(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of individuals described in subsection (i)(2) is allowed.
+- **(a)** *In general*
+  - **(1)** *Temporary lunch reimbursement* Each lunch served under the school lunch program authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) shall receive an additional reimbursement in the amount of 40 cents.
+  - **(2)** *Temporary breakfast reimbursement* Each breakfast served under the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall receive an additional reimbursement in the amount of 15 cents.
+  - **(3)** *Limitation* The additional reimbursement amounts authorized under this subsection shall only be available for the school year beginning July 2022.
+  - **(4)** *Temporary guidelines* Notwithstanding any provision of the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), for the school year beginning July 2022, the income guidelines for determining eligibility for free lunch under the school lunch program authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and free breakfast under the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 9(b)(1)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(1)(B)).
+  - **(5)** *Appropriations*
+    - **(A)** *In general* There is appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this subsection.
+    - **(B)** *Disbursement* A State agency shall disburse funds made available under subparagraph (A) to school food authorities participating in the school meal programs described in paragraphs (1) and (2).
+- **(b)** *Extension of waivers* Section 2202 of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127) is amended—
+  - **(1)** in subsection (a)(1)—
+    - **(A)** in the matter preceding subparagraph (A), by inserting “due to the COVID–19 pandemic” after “(42 U.S.C. 1760(l))”;
+    - **(B)** in subparagraph (A), by striking “and” after the semicolon and inserting “or”; and
+    - **(C)** by striking subparagraph (B) and inserting the following:
+      > - **(B)** ensuring continuity of program operation under a qualified program.
 
-- **(b)** *Prohibition on enforcing certain conditions on grants for State veterans' cemeteries* The Secretary of Veterans Affairs may not enforce a condition on a grant described in subsection (i)(1) of section 2408 of title 38, United States Code, as added by subsection (a), that was established before the date of the enactment of this Act.
-- **(c)** *Plot allowances* Section 2303 of title 38, United States Code, is amended—
-  - **(1)** in subsection (b)—
-    - **(A)** by amending paragraph (1) to read as follows:
-      > - **(1)** the Secretary shall pay to the relevant State, agency, political subdivision, or tribal organization, as the case may be, the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran if the veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that—
-      >   - **(A)** is used solely for the interment of persons who are—
-      >     - **(i)** eligible for burial in a national cemetery;
-      >     - **(ii)** members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable; or
-      >     - **(iii)** described in section 2408(i)(2) of this title; and
-      >   - **(B)** is—
-      >     - **(i)** owned by a State or by an agency or political subdivision of a State; or
-      >     - **(ii)** on trust land owned by, or held in trust for, a tribal organization.
+  - **(2)** in subsection (d)—
+    - **(A)** by striking paragraph (2); and
+    - **(B)** by striking “the following:” in the matter preceding paragraph (1) and all that follows through “A summary” in paragraph (1) and inserting “a summary”; and
+  - **(3)** by striking subsection (e) and inserting the following:
+    > - **(e)** *Sunset*
+    >   - **(1)** *Nationwide waivers* The authority of the Secretary to establish or grant a waiver under subsection (a) shall expire on September 30, 2022.
+    >   - **(2)** *Waiver restriction* After June 30, 2022, a waiver established or granted under subsection (a) shall only apply to schools or summer food service program food service sites—
+    >     - **(A)** operating—
+    >       - **(i)** the qualified program described in subsection (f)(1)(D); or
+    >       - **(ii)** the option described in section 13(a)(8) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(a)(8)); and
+    >     - **(B)** not operating the qualified program described in subsection (f)(1)(A).
+    >   - **(3)** *Other waivers*
+    >     - **(A)** *Child and adult care food program waiver* The authority of the Secretary to establish or grant a waiver under subsection (b) shall expire on June 30, 2022.
+    >     - **(B)** *Meal pattern waiver* The authority of the Secretary to establish or grant a waiver under subsection (c) shall expire on June 30, 2023.
+    >   - **(4)** *Limitations* A waiver authorized by the Secretary under this section shall not be in effect after the date on which the authority of the Secretary to establish or grant that waiver under this subsection expires.
 
-    - **(B)** in paragraph (2), by inserting “tribal organization,” after “of a State,”; and
-  - **(2)** by adding at the end the following new subsection:
-    > - **(e)** In this section, the terms tribal organization and trust land have the meanings given those terms in section 3765 of this title.
+- **(c)** *Appropriation* There are appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to provide waivers under section 2202(a) of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127) that apply—
+  - **(1)** only during the months of May through September in 2022; and
+  - **(2)** to—
+    - **(A)** the summer food service program for children under section 13 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761); or
+    - **(B)** the option described in section 13(a)(8) of that Act (42 U.S.C. 1761(a)(8)).
+- **(d)** *Nationwide waiver for school year 2022–2023*
+  - **(1)** *In general* For purposes of school year 2022–2023, the Secretary of Agriculture may establish waivers under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l))—
+    - **(A)** on a nationwide basis; and
+    - **(B)** without regard to the requirements under paragraphs (1), (2), and (3) of such section that a State or eligible service provider shall submit an application for a waiver request.
+  - **(2)** *Sunset* A nationwide waiver established by the Secretary of Agriculture under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)) pursuant to paragraph (1) shall not be in effect after June 30, 2023.
+
+## § 3. Child and adult care food program
+
+- **(a)** *In general*
+  - **(1)** *Temporary additional reimbursement for 2022–2023 school year* Each meal and supplement served under the program authorized by section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) shall receive additional reimbursement in the amount of 10 cents.
+  - **(2)** *Limitation* The additional reimbursement amount authorized under paragraph (1) shall only be available for the school year beginning July 2022.
+- **(b)** *Tier determinations for 2022–2023 school year* For the school year beginning July 2022, a tier II family or group day care home described in subsection (f)(3)(A)(iii) of section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) shall be considered a tier I family or group day care home for purposes of the program authorized under that section.
+- **(c)** *Appropriations* There are appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this section.
+
+## § 4. Rescissions and sunset
+
+- **(a)** *Rescissions*
+  - **(1)** *USDA*
+    - **(A)** Of the unobligated balances from amounts made available to the Department of Agriculture in section 1001(a) of the American Rescue Plan Act of 2021 (7 U.S.C. 7501 note; Public Law 117–2), $1,000,000,000 are hereby permanently rescinded.
+    - **(B)** Of the unobligated balances from amounts made available to the Department of Agriculture in section 751 of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 134 Stat. 2105), $400,000,000 are hereby permanently rescinded.
+  - **(2)** *Department of Education* Of the unobligated balances from amounts made available to the Department of Education in section 2003 of title II of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 23) and allocated to institutions of higher education as defined in section 102(b) of the Higher Education Act of 1965 (20 U.S.C. 1002(b)), $400,000,000 are hereby permanently rescinded.
+  - **(3)** *SBA* Of the unobligated balances from amounts made available to the Small Business Administration in section 5005 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 91) and in section 323(d)(1)(H) of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 134 Stat. 2021) to carry out section 324 of such division of such Act (15 U.S.C. 9009a), $1,500,000,000 are hereby permanently rescinded.
+- **(b)** *Additional rescission* Of the unobligated balances from amounts made available to the Department of Agriculture under the heading “Agricultural Programs—Office of the Secretary” in title I of division B of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 505), $600,000,000 are hereby permanently rescinded.
+- **(c)** *Sunset* Section 756 of division N of the Consolidated Appropriations Act, 2021 (7 U.S.C. 2254c), is amended by striking “for fiscal year” and all that follows through “thereafter” and inserting “for each of fiscal years 2021 and 2022”.
+
+## § 5. Operationally ready
+
+The Secretary of Agriculture shall ensure that technical assistance is made available to States and school food authorities for purposes of assisting parents and school leaders with respect to the transition of operating school meal programs not pursuant to a waiver under section 2(d) or section 2202 of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127).
