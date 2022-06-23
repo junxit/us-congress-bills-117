@@ -1,7 +1,7 @@
 ---
 measure: S. 2938
 congress: 117
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # S. 2938
@@ -16,9 +16,21 @@ Bipartisan Safer Communities Act
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (13)
 
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -60,3 +72,80 @@ Bipartisan Safer Communities Act
 - 2022-05-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-05-18 — On passage Passed by the Yeas and Nays: 230 - 190, 1 Present (Roll no. 212). (text: 05/17/2022 CR H5089)
 - 2022-05-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 190, 1 Present (Roll no. 212).(text: 05/17/2022 CR H5089)
+- 2022-05-19 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-06-21 — Amendment SA 5099 proposed by Senator Schumer for Senator Murphy. (consideration: CR S3028; text: CR S3034-3042) To improve the bill.
+- 2022-06-21 — Amendment SA 5100 proposed by Senator Schumer to Amendment SA 5099. (consideration: CR S3028; text: CR S3028) To add an effective date.
+- 2022-06-21 — Amendment SA 5101 proposed by Senator Schumer. (consideration: CR S3028; text: CR S3028) To add an effective date.
+- 2022-06-21 — Amendment SA 5102 proposed by Senator Schumer to Amendment SA 5101 (the instructions of the motion to refer). (consideration: CR S3028; text: CR S3028) To modify the effective date.
+- 2022-06-21 — Amendment SA 5103 proposed by Senator Schumer to Amendment SA 5102. (consideration: CR S3028; text: CR S3028) To modify the effective date.
+- 2022-06-21 — Cloture motion on the motion to concur in the House amendment to S. 2938 with an amendment SA 5099 presented in Senate. (CR S3028)
+- 2022-06-21 — Measure laid before Senate by motion. (consideration: CR S3028)
+- 2022-06-21 — Motion by Senator Schumer to concur in the House amendment to S. 2938 with an amendment (SA 5099) made in Senate. (CR S3028)
+- 2022-06-21 — Motion by Senator Schumer to refer to Senate Committee on Environment and Public Works the House message to accompany S. 2938 with instructions to report back forthwith with the following amendment (SA 5101) made in Senate. (CR S3028)
+- 2022-06-21 — Motion to proceed to consideration of the House message to accompany S. 2938 agreed to in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 235.
+- 2022-06-21 — Senate amendment proposed (on the floor): Amendment SA 5099 proposed by Senator Schumer for Senator Murphy.
+- 2022-06-21 — Senate amendment proposed (on the floor): Amendment SA 5100 proposed by Senator Schumer to Amendment SA 5099.
+- 2022-06-21 — Senate amendment proposed (on the floor): Amendment SA 5101 proposed by Senator Schumer.
+- 2022-06-21 — Senate amendment proposed (on the floor): Amendment SA 5102 proposed by Senator Schumer to Amendment SA 5101 (the instructions of the motion to refer).
+- 2022-06-21 — Senate amendment proposed (on the floor): Amendment SA 5103 proposed by Senator Schumer to Amendment SA 5102.
+- 2022-06-21 — Senate amendment submitted
+- 2022-06-21 — Senate amendment submitted
+- 2022-06-21 — Senate amendment submitted
+- 2022-06-21 — Senate amendment submitted
+- 2022-06-21 — Senate amendment submitted
+- 2022-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S3045)
+- 2022-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S3045)
+- 2022-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S3045)
+- 2022-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S3045)
+- 2022-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S3045)
+- 2022-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S3045)
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-22 — Senate amendment submitted
+- 2022-06-23 — Amendment SA 5099 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 242.
+- 2022-06-23 — Amendment SA 5134 agreed to in Senate by Unanimous Consent.
+- 2022-06-23 — Amendment SA 5134 proposed by Senator Tester for Senator Murphy. (consideration: CR S3143; text: CR S3143) To amend the title.
+- 2022-06-23 — Cloture on the motion to concur in the House amendment to S. 2938 with an amendment SA 5099 invoked in Senate by Yea-Nay Vote. 65 - 34. Record Vote Number: 240.
+- 2022-06-23 — Considered by Senate (Message from the House considered). (consideration: CR S3104-3105)
+- 2022-06-23 — Considered by Senate (Message from the House considered). (consideration: CR S3104-3105)
+- 2022-06-23 — Considered by Senate (Message from the House considered). (consideration: CR S3104-3105)
+- 2022-06-23 — Considered by Senate (Message from the House considered). (consideration: CR S3104-3105)
+- 2022-06-23 — Considered by Senate (Message from the House considered). (consideration: CR S3104-3108, S3110-3137, S3137-3144)
+- 2022-06-23 — Considered by Senate (Message from the House considered). (consideration: CR S3143)
+- 2022-06-23 — Message on Senate action sent to the House.
+- 2022-06-23 — Motion by Senator Schumer to refer to Senate Committee on Environment and Public Works fell when cloture on the motion to concur in the House amendment to S. 2938 with an amendment SA 5099 was invoked in Senate.
+- 2022-06-23 — Motion to table amendment SA 5100 rejected in Senate by Yea-Nay Vote. 39 - 58. Record Vote Number: 241.
+- 2022-06-23 — Proposed amendment SA 5100 withdrawn in Senate.
+- 2022-06-23 — Resolving differences -- Senate actions: Senate concurred in the House amendment to S. 2938 with an amendment SA (5099), and an amendment to the title by Yea-Nay Vote. 65 - 33. Record Vote Number: 242.(text: 06/21/2022 CR S3034-3042)
+- 2022-06-23 — Roll call votes on amendments in Senate: Amendment SA 5099 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 242.
+- 2022-06-23 — SA 5101 fell when cloture on the motion to concur in the House amendment to S. 2938 with an amendment SA 5099 was invoked.
+- 2022-06-23 — SA 5102 fell when SA 5101 fell.
+- 2022-06-23 — SA 5103 fell when SA 5102 fell.
+- 2022-06-23 — Senate amendment agreed to: Amendment SA 5099 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 242.
+- 2022-06-23 — Senate amendment agreed to: Amendment SA 5134 agreed to in Senate by Unanimous Consent.
+- 2022-06-23 — Senate amendment proposed (on the floor): Amendment SA 5134 proposed by Senator Tester for Senator Murphy.
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate amendment submitted
+- 2022-06-23 — Senate concurred in the House amendment to S. 2938 with an amendment SA (5099), and an amendment to the title by Yea-Nay Vote. 65 - 33. Record Vote Number: 242. (text: 06/21/2022 CR S3034-3042)
