@@ -1,7 +1,7 @@
 ---
 measure: S. 3273
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3273
@@ -28,3 +28,8 @@ Agua Caliente Land Exchange Fee to Trust Confirmation Act
 
 - 2021-11-29 — Introduced in Senate
 - 2021-11-29 — Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S8782)
+- 2022-02-16 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-518.
+- 2022-04-06 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-125.
+- 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-125.
+- 2022-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
