@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5585
@@ -85,9 +85,10 @@ ARPA–H Act
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Brown, Shontel M. [D-OH-11] (B001313)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -126,3 +127,4 @@ ARPA–H Act
 - 2022-06-22 — Roll call votes on amendments in House
 - 2022-06-22 — Rule provides for consideration of H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one hour of general debate on H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides for one motion to recommit each for H.R. 4176, H.R. 5585 and H.R. 7666. Rule provides that proceedings may be postponed through July 15, 2022, on measures that were the object of motions to suspend the rules on the legislative days of June 21, 2022, June 22, 2022, June 23, 2022, or June 24, 2022, and on which the yeas and nays were ordered.
 - 2022-06-22 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-06-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
