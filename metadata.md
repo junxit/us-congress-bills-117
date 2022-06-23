@@ -1,7 +1,7 @@
 ---
 measure: S. 2089
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # S. 2089
@@ -61,3 +61,15 @@ Keep Kids Fed Act of 2022
 - 2022-06-23 — Senate amendment submitted
 - 2022-06-23 — Senate concurred in the House amendment to S.2089 with an amendment (SA 5133) by Unanimous Consent.
 - 2022-06-23 — The title of the measure was amended. Agreed to without objection.
+- 2022-06-24 — DEBATE - Pursuant to the provisions of H.Res. 1204, the House proceeded with 10 minutes of debate on the Scott (VA) motion that the House agree to the Senate amendment to the House amendment to S. 2089.
+- 2022-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-24 — Mr. Scott (VA) moved that the House agree to the Senate amendment to the House amendment. (consideration: CR H5892-5895)
+- 2022-06-24 — On motion that the House agree to the Senate amendment to the House amendment Agreed to by voice vote. (text: CR H5892-5893)
+- 2022-06-24 — Presented to President.
+- 2022-06-24 — Presented to President.
+- 2022-06-24 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment Agreed to by voice vote.
+- 2022-06-24 — The previous question was ordered pursuant to the rule.
+- 2022-06-25 — Became Public Law No: 117-158.
+- 2022-06-25 — Became Public Law No: 117-158.
+- 2022-06-25 — Signed by President.
+- 2022-06-25 — Signed by President.
