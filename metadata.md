@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7666
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7666
@@ -21,10 +21,11 @@ Restoring Hope for Mental Health and Well-Being Act of 2022
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -108,3 +109,4 @@ Restoring Hope for Mental Health and Well-Being Act of 2022
 - 2022-06-22 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2022-06-22 — The previous question was ordered on the amendment (A006) pursuant to the rule.
 - 2022-06-22 — The previous question was ordered pursuant to the rule.
+- 2022-06-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
