@@ -1,0 +1,37 @@
+---
+legis-num: S. 4461
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4461
+
+> To reauthorize the program for mental health awareness training grants, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanding Access to Mental Health Training Act”.
+
+## § 2. Reauthorization of mental health awareness training grants
+
+Section 520J(b) of the Public Health Service Act (42 U.S.C. 290bb–41(b)) is amended—
+
+- **(1)** in paragraph (1), by inserting “youth and their” after “to refer”;
+- **(2)** in paragraph (5)—
+  - **(A)** in subparagraph (A), by striking “; and” and inserting a semicolon;
+  - **(B)** in subparagraph (B)(ii), by striking the period and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(C)** suicide intervention and prevention, including recognizing warning signs and referring someone for help, including referrals for culturally and linguistically appropriates services.
+
+- **(3)** by redesignating paragraph (7) as paragraph (8);
+- **(4)** by inserting after paragraph (6) the following:
+  > - **(7)** *Technical assistance* The Secretary may provide technical assistance to grantees in carrying out this section, which may include assistance with—
+  >   - **(A)** program evaluation and improvement, as necessary;
+  >   - **(B)** dissemination and implementation of evidence-based programs;
+  >   - **(C)** operational and administrative activities;
+  >   - **(D)** data collection and reporting;
+  >   - **(E)** facilitating collaboration and information sharing among grantees; and
+  >   - **(F)** other activities as the Secretary determines appropriate.
+
+- **(5)** in paragraph (8), as so redesignated, by striking “$14,693,000 for each of fiscal years 2018 through 2022” and inserting “$54,963,000 for each of fiscal years 2023 through 2027”.
