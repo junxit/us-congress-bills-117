@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6411
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6411
@@ -74,3 +74,9 @@ STRONG Veterans Act of 2022
 - 2022-06-22 — Placed on the Union Calendar, Calendar No. 292.
 - 2022-06-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-382.
 - 2022-06-22 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-382.
+- 2022-06-23 — Considered under suspension of the rules. (consideration: CR H5845-5853)
+- 2022-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6411.
+- 2022-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-06-23 — Mr. Levin (CA) moved to suspend the rules and pass the bill, as amended.
+- 2022-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5845-5851)
+- 2022-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
