@@ -1,7 +1,7 @@
 ---
 measure: S. 2089
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+7 amendatory instructions. 3 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 1760
+
+> in subparagraph (A), by striking “and” after the semicolon and inserting “or”; and
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `or` |
+
+### 42 U.S.C. § 1760
+
+> by striking “the following:” in the matter preceding paragraph (1) and all that follows through “A summary” in paragraph (1) and inserting “a summary”; and
+
+| | |
+|---|---|
+| Removed | `the following:” in the matter preceding paragraph (1) and all that follows through “A summary` |
+| Inserted | `a summary` |
+
+### 7 U.S.C. § 2254c
+
+> Section 756 of division N of the Consolidated Appropriations Act, 2021 (7 U.S.C. 2254c), is amended by striking “for fiscal year” and all that follows through “thereafter” and inserting “for each of fiscal years 2021 and 2022”.
+
+| | |
+|---|---|
+| Removed | `for fiscal year” and all that follows through “thereafter` |
+| Inserted | `for each of fiscal years 2021 and 2022` |
 
 ## Stated, not applied
 
@@ -31,9 +60,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (d)(2), by striking “The Secretary may” and inserting “Except as provided in subsection (i), the Secretary may”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (i) as subsection (k); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (h) the following new subsections: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “tribal organization,” after “of a State,”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1760` | insert | in the matter preceding subparagraph (A), by inserting “due to the COVID–19 pandemic” after “(42 U.S.C. 1760(l))”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1760` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1760` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1761` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
