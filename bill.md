@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 8212
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8212
+
+> To rescind the Executive Order on Advancing Equality for Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex Individuals, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Child Abuse Act”.
+
+## § 2. Rescission
+
+- **(a)** *In general* The Executive order entitled “Executive Order on Advancing Equality for Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex Individuals”, signed on June 15, 2022, is rescinded and shall have no force or effect.
+- **(b)** *Effective date* This Act shall take effect as if enacted on June 15, 2022.
