@@ -1,7 +1,7 @@
 ---
 measure: S. 3846
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3846
@@ -45,3 +45,5 @@ Justice and Mental Health Collaboration Reauthorization Act of 2022
 - 2022-05-17 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2022-05-17 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2022-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
+- 2022-06-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3149; text: CR S3149)
+- 2022-06-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
