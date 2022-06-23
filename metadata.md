@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4881
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4881
@@ -61,3 +61,12 @@ Old Pascua Community Land Acquisition Act
 - 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-127.
 - 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-127.
 - 2022-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7291)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-275.
+- 2022-12-27 — Became Public Law No: 117-275.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
