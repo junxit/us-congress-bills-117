@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6493
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 8 executed, 9 stated and not applied.
+19 amendatory instructions. 9 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `that the institution will impose` |
 | Inserted | `of the policies of the institution regarding` |
 
-### 20 U.S.C. § 1011i
+### 42 U.S.C. § 247d
 
 > in the subsection heading, by striking “drug abuse” in the heading and inserting “substance misuse”;
 
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `drug abuse` |
 | Inserted | `substance misuse` |
 
-### 20 U.S.C. § 1011i
+### 42 U.S.C. § 247d
 
 > by striking “other organizations” and inserting “community-based organizations that partner with institutions of higher education”;
 
@@ -69,7 +69,7 @@ to guess them.
 | Removed | `other organizations` |
 | Inserted | `community-based organizations that partner with institutions of higher education` |
 
-### 20 U.S.C. § 1011i
+### 42 U.S.C. § 247d
 
 > by striking “programs of prevention, and education (including treatment-referral) to reduce and eliminate the illegal use of drugs and alcohol and the violence associated with such use” and inserting “evidence-based programs of alcohol and substance misuse prevention and education (including programs to improve access to treatment, referral for treatment services, or crisis intervention services) to eliminate illegal substance use, decrease substance misuse, and improve public health and safety”; and
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `programs of prevention, and education (including treatment-referral) to reduce and eliminate the illegal use of drugs and alcohol and the violence associated with such use` |
 | Inserted | `evidence-based programs of alcohol and substance misuse prevention and education (including programs to improve access to treatment, referral for treatment services, or crisis intervention services) to eliminate illegal substance use, decrease substance misuse, and improve public health and safety` |
 
-### 20 U.S.C. § 1011i
+### 42 U.S.C. § 247d
 
 > by striking “alcohol and drug abuse” and inserting “substance use disorder”;
 
@@ -89,7 +89,16 @@ to guess them.
 
 ### 20 U.S.C. § 1094
 
-> Section 487(a)(10) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(10)) is amended by striking “a drug abuse prevention program” and inserting “an alcohol and substance misuse prevention program in accordance with section 120”.
+> by striking “(10)” and inserting “(10)(A)”;
+
+| | |
+|---|---|
+| Removed | `(10)` |
+| Inserted | `(10)(A)` |
+
+### 20 U.S.C. § 1094
+
+> by striking “a drug abuse prevention program” and inserting “an alcohol and substance misuse prevention program in accordance with section 120”; and
 
 | | |
 |---|---|
@@ -111,6 +120,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300x-21` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300x-21` | redesignate | by redesignating paragraph (2) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300x-21` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1011i` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1011i` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1011i` | redesignate | by amending paragraph (6), as redesignated by subparagraph (C), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247d` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247d` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247d` | redesignate | by amending paragraph (6), as redesignated by subparagraph (C), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

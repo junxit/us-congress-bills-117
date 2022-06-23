@@ -34,7 +34,7 @@ Section 120 of the Higher Education Act of 1965 (20 U.S.C. 1011i) is amended—
   - **(B)** by redesignating paragraph (2) as paragraph (4); and
   - **(C)** by inserting after paragraph (1) the following:
     > - **(2)** *Interagency agreement* Not later than 180 days after the date of enactment of this paragraph, the Secretary shall enter into an interagency agreement with the Secretary of Health and Human Services to—
-    >   - **(A)** determine criteria that satisfy the requirement under subsection (a) that an institution of higher education has adopted and has implemented an evidence-based program described in such subsection;
+    >   - **(A)** develop best practices that inform criteria which satisfy the requirement under subsection (a) that an institution of higher education has adopted and has implemented an evidence-based program described in such subsection;
     >   - **(B)** establish a process for disseminating the best practices for adopting and implementing such an evidence-based program; and
     >   - **(C)** establish a process that promotes coordination and collaboration between institutions of higher education and the respective State agencies that administer the Substance Abuse Prevention and Treatment Block Grants pursuant to subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21).
     > - **(3)** *Guidance* Not later than 1 year after the date of the enactment of this paragraph, the Secretary shall, in coordination with the Secretary of Health and Human Services, issue guidance with respect to the criteria described in paragraph (2)(A).
@@ -52,7 +52,7 @@ Section 120 of the Higher Education Act of 1965 (20 U.S.C. 1011i) is amended—
     >   - **(B)** Promoting integration and collaboration in campus-based health services between primary care, substance use disorder services, and mental health services.
     >   - **(C)** Promoting integrated care services for students related to screening, diagnosis, prevention, and treatment of mental, behavioral, and substance use disorders.
     >   - **(D)** Providing re-entry assistance for students on academic probation due to their substance use disorder.
-    >   - **(E)** Preventing fatal and nonfatal o­ver­do­ses.
+    >   - **(E)** Preventing fatal and nonfatal overdoses, including restoring existing mental health and substance use disorder services after a natural disaster or public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d).
     >   - **(F)** Providing education to students, faculty, or other personnel on—
     >     - **(i)** recognizing the signs and symptoms of substance use disorder, and how to engage and support a person in a crisis situation;
     >     - **(ii)** resources available in the community, within the institution of higher education, and other relevant resources for individuals with a substance use disorder; and
@@ -63,8 +63,20 @@ Section 120 of the Higher Education Act of 1965 (20 U.S.C. 1011i) is amended—
 
 ## § 3. Program participation agreements
 
-Section 487(a)(10) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(10)) is amended by striking “a drug abuse prevention program” and inserting “an alcohol and substance misuse prevention program in accordance with section 120”.
+Section 487(a)(10) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(10)) is amended—
 
-## § 4. Applicability
+- **(1)** by striking “(10)” and inserting “(10)(A)”;
+- **(2)** by striking “a drug abuse prevention program” and inserting “an alcohol and substance misuse prevention program in accordance with section 120”; and
+- **(3)** by adding at the end the following:
+  > - **(B)** The institution shall be considered in compliance with the requirements of subparagraph (A) unless there is a showing that the institution knowing and willfully did not implement a prevention program described in such subparagraph.
 
-The amendments made by section 2(2) shall apply to institutions of higher education beginning on the date that is 2 years after the date of the enactment of this Act.
+## § 4. Report
+
+The Secretary of Education shall report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the efforts of the Secretary carried out under the amendments made by this Act, and best practices from institutions receiving a grant under section 120(e) of the Higher Education Act of 1965 (20 U.S.C. 1011i(e)), as amended by section 2 of this Act—
+
+- **(1)** not later than one year after the date of enactment of this Act; and
+- **(2)** three years after the date of enactment of this Act.
+
+## § 5. Applicability
+
+The amendments made by sections 2(2) and 3 shall apply to institutions of higher education beginning on the date that is 2 years after the date of the enactment of this Act.
