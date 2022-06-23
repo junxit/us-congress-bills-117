@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2938
-congress: 117th CONGRESS
+congress: One Hundred Seventeenth Congress of the United States of America
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2938
 
-That the Senate agree to the amendment of the House of Representatives to the bill (S. 2938) entitled “An Act to designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the ‘Joseph Woodrow Hatchett United States Courthouse and Federal Building’, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To make our communities safer.
 
 ## § 1. Joseph Woodrow Hatchett United States Courthouse and Federal Building
 
