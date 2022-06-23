@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1975
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1975
@@ -46,3 +46,8 @@ Pala Band of Mission Indians Land Transfer Act of 2021
 - 2021-11-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 342). (text: 11/1/2021 CR H6043)
 - 2021-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 25 (Roll no. 342).(text: 11/1/2021 CR H6043)
 - 2021-11-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2021-11-17 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-115.
+- 2022-04-06 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-126.
+- 2022-06-23 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-126.
+- 2022-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
