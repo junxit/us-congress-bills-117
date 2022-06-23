@@ -2,16 +2,12 @@
 legis-num: S. 2089
 congress: One Hundred Seventeenth Congress of the United States of America
 session: 2d Sess.
-chamber: In the Senate of the United States,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2089
 
-That the Senate agree to the amendment of the House of Representatives to the title of the bill (S. 2089) entitled “An Act to amend the Families First Coronavirus Response Act to extend child nutrition waiver authority, and for other purposes.”, and be it further
-
-That the Senate agree to the amendment of the House of Representatives to the text of the aforementioned bill with the following
-
-*In lieu of the matter proposed to be inserted, insert the following:*
+> To amend the Families First Coronavirus Response Act to extend child nutrition waiver authority, and for other purposes.
 
 ## § 1. Short title
 
