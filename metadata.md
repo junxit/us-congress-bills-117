@@ -1,7 +1,7 @@
 ---
 measure: S. 2089
 congress: 117
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # S. 2089

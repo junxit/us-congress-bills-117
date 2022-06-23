@@ -1,15 +1,17 @@
 ---
 legis-num: S. 2089
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 2d Sess.
+chamber: In the Senate of the United States,
 ---
 
 # S. 2089
 
-That the bill from the Senate (S. 2089) entitled “An Act to amend title 38, United States Code, to ensure that grants provided by the Secretary of Veterans Affairs for State veterans’ cemeteries do not restrict States from authorizing the interment of certain deceased members of the reserve components of the Armed Forces in such cemeteries, and for other purposes.”, do pass with the following
+That the Senate agree to the amendment of the House of Representatives to the title of the bill (S. 2089) entitled “An Act to amend the Families First Coronavirus Response Act to extend child nutrition waiver authority, and for other purposes.”, and be it further
 
-*Strike out all after the enacting clause and insert:*
+That the Senate agree to the amendment of the House of Representatives to the text of the aforementioned bill with the following
+
+*In lieu of the matter proposed to be inserted, insert the following:*
 
 ## § 1. Short title
 
@@ -18,11 +20,10 @@ This Act may be cited as the “Keep Kids Fed Act of 2022”.
 ## § 2. Support for child nutrition programs
 
 - **(a)** *In general*
-  - **(1)** *Temporary lunch reimbursement* Each lunch served under the school lunch program authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) shall receive an additional reimbursement in the amount of 40 cents.
-  - **(2)** *Temporary breakfast reimbursement* Each breakfast served under the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall receive an additional reimbursement in the amount of 15 cents.
+  - **(1)** *Temporary lunch reimbursement* Each lunch served under the school lunch program authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) shall receive additional reimbursement in the amount of 40 cents.
+  - **(2)** *Temporary breakfast reimbursement* Each breakfast served under the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall receive additional reimbursement in the amount of 15 cents.
   - **(3)** *Limitation* The additional reimbursement amounts authorized under this subsection shall only be available for the school year beginning July 2022.
-  - **(4)** *Temporary guidelines* Notwithstanding any provision of the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), for the school year beginning July 2022, the income guidelines for determining eligibility for free lunch under the school lunch program authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and free breakfast under the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall be 185 percent of the applicable family size income levels contained in the nonfarm income poverty guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 9(b)(1)(B) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(1)(B)).
-  - **(5)** *Appropriations*
+  - **(4)** *Appropriations*
     - **(A)** *In general* There is appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this subsection.
     - **(B)** *Disbursement* A State agency shall disburse funds made available under subparagraph (A) to school food authorities participating in the school meal programs described in paragraphs (1) and (2).
 - **(b)** *Extension of waivers* Section 2202 of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127) is amended—
@@ -53,8 +54,8 @@ This Act may be cited as the “Keep Kids Fed Act of 2022”.
   - **(2)** to—
     - **(A)** the summer food service program for children under section 13 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761); or
     - **(B)** the option described in section 13(a)(8) of that Act (42 U.S.C. 1761(a)(8)).
-- **(d)** *Nationwide waiver for school year 2022–2023*
-  - **(1)** *In general* For purposes of school year 2022–2023, the Secretary of Agriculture may establish waivers under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l))—
+- **(d)** *Nationwide waiver for school year 2022-2023*
+  - **(1)** *In general* For purposes of school year 2022-2023, the Secretary of Agriculture may establish waivers under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l))—
     - **(A)** on a nationwide basis; and
     - **(B)** without regard to the requirements under paragraphs (1), (2), and (3) of such section that a State or eligible service provider shall submit an application for a waiver request.
   - **(2)** *Sunset* A nationwide waiver established by the Secretary of Agriculture under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)) pursuant to paragraph (1) shall not be in effect after June 30, 2023.
@@ -62,9 +63,9 @@ This Act may be cited as the “Keep Kids Fed Act of 2022”.
 ## § 3. Child and adult care food program
 
 - **(a)** *In general*
-  - **(1)** *Temporary additional reimbursement for 2022–2023 school year* Each meal and supplement served under the program authorized by section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) shall receive additional reimbursement in the amount of 10 cents.
+  - **(1)** *Temporary additional reimbursement for 2022-2023 school year* Each meal and supplement served under the program authorized by section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) shall receive additional reimbursement in the amount of 10 cents.
   - **(2)** *Limitation* The additional reimbursement amount authorized under paragraph (1) shall only be available for the school year beginning July 2022.
-- **(b)** *Tier determinations for 2022–2023 school year* For the school year beginning July 2022, a tier II family or group day care home described in subsection (f)(3)(A)(iii) of section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) shall be considered a tier I family or group day care home for purposes of the program authorized under that section.
+- **(b)** *Tier determinations for 2022-2023 school year* For the school year beginning July 2022, a tier II family or group day care home described in subsection (f)(3)(A)(iii) of section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) shall be considered a tier I family or group day care home for purposes of the program authorized under that section.
 - **(c)** *Appropriations* There are appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this section.
 
 ## § 4. Rescissions and sunset
@@ -74,7 +75,7 @@ This Act may be cited as the “Keep Kids Fed Act of 2022”.
     - **(A)** Of the unobligated balances from amounts made available to the Department of Agriculture in section 1001(a) of the American Rescue Plan Act of 2021 (7 U.S.C. 7501 note; Public Law 117–2), $1,000,000,000 are hereby permanently rescinded.
     - **(B)** Of the unobligated balances from amounts made available to the Department of Agriculture in section 751 of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 134 Stat. 2105), $400,000,000 are hereby permanently rescinded.
   - **(2)** *Department of Education* Of the unobligated balances from amounts made available to the Department of Education in section 2003 of title II of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 23) and allocated to institutions of higher education as defined in section 102(b) of the Higher Education Act of 1965 (20 U.S.C. 1002(b)), $400,000,000 are hereby permanently rescinded.
-  - **(3)** *SBA* Of the unobligated balances from amounts made available to the Small Business Administration in section 5005 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 91) and in section 323(d)(1)(H) of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 134 Stat. 2021) to carry out section 324 of such division of such Act (15 U.S.C. 9009a), $1,500,000,000 are hereby permanently rescinded.
+  - **(3)** *SBA* Of the unobligated balances from amounts made available to the Small Business Administration in section 5005 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 91) and in section 323(d)(1)(H) of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 134 Stat. 2021) to carry out section 324 of such division of such Act (15 U.S.C. 9009a), $1,200,000,000 are hereby permanently rescinded.
 - **(b)** *Additional rescission* Of the unobligated balances from amounts made available to the Department of Agriculture under the heading “Agricultural Programs—Office of the Secretary” in title I of division B of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 505), $600,000,000 are hereby permanently rescinded.
 - **(c)** *Sunset* Section 756 of division N of the Consolidated Appropriations Act, 2021 (7 U.S.C. 2254c), is amended by striking “for fiscal year” and all that follows through “thereafter” and inserting “for each of fiscal years 2021 and 2022”.
 
