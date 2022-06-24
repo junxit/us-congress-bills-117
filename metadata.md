@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 117
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 4346
@@ -91,3 +91,4 @@ Chips and Science Act
 - 2022-06-22 — Senate amendment agreed to: Amendment SA 5120 agreed to in Senate by Unanimous Consent.
 - 2022-06-22 — Senate amendment proposed (on the floor): Amendment SA 5120 proposed by Senator Whitehouse for Senator Hagerty.
 - 2022-06-22 — Senate amendment submitted
+- 2022-06-24 — Pursuant to the provisions of H.Res. 1204, the House agreed to the Senate amendment with amendment. (consideration: CR H5891; text: CR H5891-5892)
