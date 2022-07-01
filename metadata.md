@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6845
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6845
@@ -29,3 +29,8 @@ Commercial Remote Sensing Amendment Act of 2022
 - 2022-02-25 — Introduced in House
 - 2022-02-25 — Introduced in House
 - 2022-02-25 — Referred to the House Committee on Science, Space, and Technology.
+- 2022-04-05 — Committee Consideration and Mark-up Session Held.
+- 2022-04-05 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-07-01 — Placed on the Union Calendar, Calendar No. 307.
+- 2022-07-01 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-399.
+- 2022-07-01 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-399.
