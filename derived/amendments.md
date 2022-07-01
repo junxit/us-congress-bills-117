@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6845
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,10 +34,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 60121(c) of title 51, United States Code, is amended by striking “120” and inserting “60”. | the bill names no machine-readable US Code section |
 | — | replace | Section 60126(a)(1)(E) of title 51, United States Code, is amended by striking “120” and inserting “60”. | the bill names no machine-readable US Code section |
 | — | replace | Section 60126(a)(2) of title 51, United States Code, is amended by striking “section 60122; and” and inserting “paragraphs (5) and (6) of section 60122(b);”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (3) as paragraph (4); | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (2), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (E), by inserting “and” at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 60126 of title 51, United States Code, is amended by striking subsection (c). | the bill names no machine-readable US Code section |
+| — | replace | Section 60126 of title 51, United States Code, is amended by striking “September 30, 2020” and inserting “September 30, 2030”. | the bill names no machine-readable US Code section |

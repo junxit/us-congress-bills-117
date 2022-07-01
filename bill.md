@@ -20,15 +20,14 @@ This Act may be cited as the “Commercial Remote Sensing Amendment Act of 2022�
   - **(2)** *Conforming amendment* Section 60126(a)(1)(E) of title 51, United States Code, is amended by striking “120” and inserting “60”.
 - **(b)** *Notifications* Section 60126(a)(2) of title 51, United States Code, is amended by striking “section 60122; and” and inserting “paragraphs (5) and (6) of section 60122(b);”.
 - **(c)** *Conditions* Section 60126(a) of title 51, United States Code, is amended—
-  - **(1)** by redesignating paragraph (3) as paragraph (4);
-  - **(2)** in paragraph (2), by striking “and” at the end; and
-  - **(3)** by inserting after paragraph (2) the following:
+  - **(1)** by redesignating paragraph (3) as paragraph (4); and
+  - **(2)** by inserting after paragraph (2) the following:
     > - **(3)** all terms, conditions, or restrictions placed on licensees pursuant to section 60122; and
 
 - **(d)** *Tiers* Section 60126(a)(1) of title 51, United States Code, is amended—
   - **(1)** in subparagraph (D), by striking “and” at the end;
   - **(2)** in subparagraph (E), by inserting “and” at the end; and
   - **(3)** by adding at the end the following:
-    > - **(F)** a list of all applications, listed by tier as defined in regulation, as well as the rationale for each tier categorization;
+    > - **(F)** a list of all applications submitted and licenses granted in accordance therewith, listed by tier as defined in regulation, as well as the rationale for each tier categorization;
 
-- **(e)** *Sunset* Section 60126 of title 51, United States Code, is amended by striking subsection (c).
+- **(e)** *Sunset* Section 60126 of title 51, United States Code, is amended by striking “September 30, 2020” and inserting “September 30, 2030”.
