@@ -191,3 +191,19 @@ The Agricultural Marketing Act of 1946 is amended—
     >     - **(B)** in the case of noncompliance by a covered packer in a given period, may allow the covered packer to remedy the noncompliance by purchasing the applicable shortfall in the approved pricing mechanism in 1 or more subsequent periods, subject to paragraph (2).
     >   - **(2)** *Nonremedy* The Secretary shall not allow a covered packer to remedy noncompliance under paragraph (1)(B) if the covered packer has a pattern or practice of noncompliance, as determined by the Secretary.
     > - **(e)** *Effect on premiums* Nothing in this section prohibits a formula marketing arrangement from including a premium in addition to the base price, including a premium for meat quality, consistency, breed, production method, branding, or any other value-added effort.
+
+## § 8. Alternative marketing arrangements feasibility report
+
+Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture, acting through the Administrator of the Agricultural Marketing Service, shall publish a report analyzing the feasibility of alternative marketing arrangements with a base price tied to the price of boxed beef, which shall include information on—
+
+- **(1)** the benefits and limitations of such alternative marketing arrangements;
+- **(2)** barriers limiting adoption of such alternative marketing arrangements;
+- **(3)** potential educational needs relating to the use of such alternative marketing arrangements for industry participants; and
+- **(4)** risk management needs to increase the adoption and facilitate the ongoing delivery of benefits of such alternative marketing arrangements to industry participants.
+
+## § 9. Modifications to livestock mandatory reporting regions
+
+Not later than 1 year after the date of enactment of this Act, the Secretary of Agriculture, acting through the Administrator of the Agricultural Marketing Service, shall realign the livestock mandatory reporting regions established pursuant to subtitle B of the Agricultural Marketing Act of 1946 (7 U.S.C. 1635 et seq.) by—
+
+- **(1)** modifying the existing Colorado cattle reporting region to include the State of Wyoming; and
+- **(2)** modifying the existing Iowa-Minnesota cattle reporting region to include the States of Illinois and South Dakota.
