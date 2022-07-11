@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 669
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 669
@@ -16,13 +16,14 @@ A resolution condemning the use of hunger as a weapon of war and recognizing the
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ A resolution condemning the use of hunger as a weapon of war and recognizing the
 
 - 2022-06-09 — Introduced in Senate
 - 2022-06-09 — Referred to the Committee on Foreign Relations. (text: CR S2897)
+- 2022-06-23 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-07-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2022-07-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2022-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.
