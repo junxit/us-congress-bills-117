@@ -1,0 +1,19 @@
+---
+legis-num: S. 4499
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4499
+
+> To prohibit any requirement that a member of the National Guard receive a vaccination against COVID–19.
+
+## § 1. Prohibitions on requirement that a member of the National Guard receive a vaccination against COVID–19
+
+- **(a)** *Prohibition on funding* No Federal funds may be used to require a member of the National Guard to receive a vaccination against COVID–19.
+- **(b)** *Prohibition on adverse action* The Secretary of Defense may not take any adverse action against a member of the National Guard because such member refuses to receive a vaccination against COVID–19.
+- **(c)** *Adverse action defined* In this section, the term adverse action includes the following:
+  - **(1)** Retaliation.
+  - **(2)** Punishment.
+  - **(3)** Disparate treatment.
