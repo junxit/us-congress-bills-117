@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6411
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6411
@@ -59,9 +59,10 @@ STRONG Veterans Act of 2022
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ STRONG Veterans Act of 2022
 - 2022-06-23 — Mr. Levin (CA) moved to suspend the rules and pass the bill, as amended.
 - 2022-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5845-5851)
 - 2022-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-07-11 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
