@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6493
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6493
@@ -28,9 +28,10 @@ Campus Prevention and Recovery Services for Students Act of 2022
 - Rep. Casten, Sean [D-IL-6] (C001117)
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Campus Prevention and Recovery Services for Students Act of 2022
 - 2022-06-23 — Placed on the Union Calendar, Calendar No. 294.
 - 2022-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-384.
 - 2022-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-384.
+- 2022-07-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
