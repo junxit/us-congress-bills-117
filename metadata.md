@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 674
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 674
@@ -16,9 +16,10 @@ A resolution celebrating the 75th anniversary of the Marshall Plan and recognizi
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution celebrating the 75th anniversary of the Marshall Plan and recognizi
 
 - 2022-06-14 — Introduced in Senate
 - 2022-06-14 — Referred to the Committee on Foreign Relations.
+- 2022-06-23 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-07-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-07-11 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2022-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.
