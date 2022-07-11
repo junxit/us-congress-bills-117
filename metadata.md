@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4176
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4176
@@ -147,9 +147,10 @@ LGBTQI+ Data Inclusion Act
 - Rep. Crow, Jason [D-CO-6] (C001121)
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -207,3 +208,4 @@ LGBTQI+ Data Inclusion Act
 - 2022-06-23 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2022-06-23 — The previous question was ordered pursuant to the rule.
 - 2022-06-23 — The title of the measure was amended. Agreed to without objection.
+- 2022-07-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
