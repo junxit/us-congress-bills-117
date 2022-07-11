@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6493
 congress: 117
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
