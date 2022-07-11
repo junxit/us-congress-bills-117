@@ -1,7 +1,7 @@
 ---
 measure: S. 3870
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3870
@@ -39,3 +39,8 @@ Meat and Poultry Special Investigator Act of 2022
 
 - 2022-03-17 — Introduced in Senate
 - 2022-03-17 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2022-04-26 — Committee on Agriculture, Nutrition, and Forestry. Hearings held.
+- 2022-06-22 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported with an amendment favorably.
+- 2022-07-11 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow with amendments. Without written report.
+- 2022-07-11 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow with amendments. Without written report.
+- 2022-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
