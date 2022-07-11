@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5407
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5407
@@ -42,9 +42,10 @@ Enhancing Mental Health and Suicide Prevention Through Campus Planning Act
 - Rep. Takano, Mark [D-CA-41] (T000472)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Enhancing Mental Health and Suicide Prevention Through Campus Planning Act
 - 2022-06-23 — Placed on the Union Calendar, Calendar No. 293.
 - 2022-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-383.
 - 2022-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-383.
+- 2022-07-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
