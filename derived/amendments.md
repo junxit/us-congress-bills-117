@@ -1,7 +1,7 @@
 ---
 measure: S. 4030
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
