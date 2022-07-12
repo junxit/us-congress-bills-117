@@ -13,36 +13,49 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Quantum Computing Cybersecurity Preparedness Act”.
 
-## § 2. Findings; sense of Congress
+## § 2. Findings; sense of congress
 
 - **(a)** *Findings* The Congress finds the following:
-  - **(1)** Cryptography is essential for our national security and the functioning of our economy.
+  - **(1)** Cryptography is essential for the national security of the United States and the functioning of the economy of the United States.
   - **(2)** The most widespread encryption protocols today rely on computational limits of classical computers to provide cybersecurity.
   - **(3)** Quantum computers might one day have the ability to push computational boundaries, allowing us to solve problems that have been intractable thus far, such as integer factorization, which is important for encryption.
-  - **(4)** The rapid progress of quantum computing suggests the potential for adversaries to steal sensitive encrypted data today using classical computers, and wait until sufficiently powerful quantum systems are available to decrypt it.
-- **(b)** *Sense of Congress* It is the sense of Congress that—
+  - **(4)** The rapid progress of quantum computing suggests the potential for adversaries of the United States to steal sensitive encrypted data today using classical computers, and wait until sufficiently powerful quantum systems are available to decrypt it.
+- **(b)** *Sense of congress* It is the sense of Congress that—
   - **(1)** a strategy for the migration of information technology systems of the Federal Government to post-quantum cryptography is needed; and
-  - **(2)** the Governmentwide and industrywide approach to post-quantum cryptography should prioritize developing applications, hardware intellectual property (IP), and software that can be easily updated to support developing cryptographic agility.
+  - **(2)** the Governmentwide and industrywide approach to post-quantum cryptography should prioritize developing applications, hardware intellectual property, and software that can be easily updated to support cryptographic agility.
 
-## § 3. Migration to post-quantum cryptography
+## § 3. Inventory of cryptographic systems; migration to post-quantum cryptography
 
-- **(a)** *Migration and assessment*
-  - **(1)** *Migration to post-quantum cryptography* Not later than 1 year after the date on which the Director of NIST has issued post-quantum cryptography standards, the Director of OMB, in consultation with the Chief Information Officers Council, shall begin to prioritize the migration to post-quantum cryptography and assessment of information technology systems of executive agencies that does not use post-quantum cryptography, including digital signatures.
-  - **(2)** *Designation of systems for migration* Not later than 1 year after the date on which post-quantum cryptography standards have been set by NIST and on an ongoing basis thereafter, the Director of OMB, in consultation with the Chief Information Officers Council, shall designate and prioritize for migration to post-quantum cryptography information technology systems of executive agencies based on the risk of systems that do not use post-quantum cryptography.
-- **(b)** *Report on post-Quantum cryptography* Not later than 1 year after the date of the enactment of this section, the Director of OMB shall submit to Congress a report on the following:
+- **(a)** *Inventory*
+  - **(1)** *Establishment* Not later than 180 days after the date of the enactment of this Act, the Director of OMB shall establish, by rule or binding guidance, a requirement for each executive agency to establish and maintain an inventory of each cryptographic system in use by the agency.
+  - **(2)** *Additional content in rule or binding guidance* In the rule or binding guidance established by paragraph (1), the Director of OMB shall include, in addition to the requirement described under such paragraph—
+    - **(A)** a description of information technology to be prioritized for migration to post-quantum cryptography;
+    - **(B)** a description of the information required to be reported pursuant to subsection (b); and
+    - **(C)** a process for evaluating progress on migrating information technology to post-quantum cryptography, which shall be automated to the greatest extent practicable.
+  - **(3)** *Periodic updates* The Director of OMB shall update the rule or binding guidance established by paragraph (1) as the Director determines necessary.
+- **(b)** *Agency reports* Not later than 1 year after the date of the enactment of this Act, and on an ongoing basis thereafter, the head of each executive agency shall provide to the Director of OMB, the Director of CISA, and the National Cyber Director an inventory of all information technology in use by the executive agency that is vulnerable to decryption by quantum computers.
+- **(c)** *Migration and assessment*
+  - **(1)** *Migration to post-quantum cryptography* Not later than 1 year after the date on which the Director of NIST has issued post-quantum cryptography standards, the Director of OMB shall issue guidance requiring each executive agency to develop a plan, including interim benchmarks, to migrate information technology of the agency to post-quantum cryptography.
+  - **(2)** *Designation of systems for migration* Not later than 90 days after the date on which the guidance required by paragraph (1) has been issued, the Director of OMB shall issue guidance for agencies to—
+    - **(A)** designate information technology to be migrated to post-quantum cryptography; and
+    - **(B)** prioritize information technology designated under subparagraph (A), on the basis of the amount of risk posed by decryption by quantum computers to such technology, for migration to post-quantum cryptography.
+- **(d)** *Interoperability* The Director of OMB shall ensure that the designations and prioritizations made under subsection (c)(2) are assessed and coordinated to ensure interoperability.
+- **(e)** *Report on post-quantum cryptography* Not later than 15 months after the date of the enactment of this Act, the Director of OMB shall submit to Congress a report on the following:
   - **(1)** A strategy to address the risk posed by the vulnerabilities of information technology systems of executive agencies to weakened encryption due to the potential and possible capability of a quantum computer to breach such encryption.
-  - **(2)** The funding necessary to secure such information technology systems from the threat posed by adversarial access to quantum computers.
-  - **(3)** A description and analysis of ongoing coordination efforts, including any framework and timeline, with international standards development organizations and consortia (such as the International Organization for Standardization) to develop standards for post-quantum cryptography, including any Federal Information Processing Standards developed under chapter 35 of title 44, United States Code.
-- **(c)** *Report on migration to post-Quantum cryptography in information technology systems* Not later than 1 year after the date on which the Director of NIST has issued post-quantum cryptography standards, and annually thereafter until the date that is 9 years after the date on which such standards are issued, the Director of OMB shall submit to Congress a report on the progress of the Federal Government in transitioning to post-quantum cryptography standards.
-- **(d)** *Definitions* In this section:
-  - **(1)** *Classical computer* The term “classical computer” means a device that accepts digital data and manipulates the information based on a program or sequence of instructions for how data is to be processed and encodes information in binary bits that can either be 0s or 1s.
-  - **(2)** *Director of NIST* The term “Director of NIST” means the Director of the National Institute for Standards and Technology.
-  - **(3)** *Director of OMB* The term “Director of OMB” means the Director of the Office of Management and Budget.
-  - **(4)** *Executive agency* The term “executive agency” has the meaning given the term “Executive agency” in section 105 of title 5, United States Code.
-  - **(5)** *Information technology* The term “information technology” has the meaning given that term in section 11101 of title 40, United States Code.
-  - **(6)** *Post-quantum cryptography* The term “post-quantum cryptography” means a cryptographic system that—
+  - **(2)** The amount of funding needed by executive agencies to secure such information technology systems from the risk posed by an adversary of the United States using a quantum computer to breach the encryption of information technology systems.
+  - **(3)** A description of Federal civilian executive branch coordination efforts led by the National Institute of Standards and Technology, including timelines, to develop standards for post-quantum cryptography, including any Federal Information Processing Standards developed under chapter 35 of title 44, United States Code, as well as standards developed through voluntary, consensus standards bodies such as the International Organization for Standardization.
+- **(f)** *Report on migration to post-quantum cryptography in information technology systems* Not later than 1 year after the date on which the Director of OMB issues guidance under subsection (c)(2), and annually thereafter until the date that is 5 years after the date on which post-quantum cryptographic standards are issued, the Director of OMB shall submit to Congress, with the report submitted pursuant to section 3553(c) of title 44, United States Code, a report on the progress of executive agencies in adopting post-quantum cryptography standards.
+- **(g)** *Definitions* In this Act:
+  - **(1)** *Classical computer* The term classical computer means a device that accepts digital data and manipulates the information based on a program or sequence of instructions for how data is to be processed and encodes information in binary bits that can either be 0s or 1s.
+  - **(2)** *Director of nist* The term Director of NIST means the Director of the National Institute of Standards and Technology.
+  - **(3)** *Director of omb* The term Director of OMB means the Director of the Office of Management and Budget.
+  - **(5)** *Executive agency* The term executive agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
+  - **(6)** *Information technology* The term information technology has the meaning given that term in section 3502 of title 44, United States Code.
+  - **(7)** *Post-quantum cryptography* The term post-quantum cryptography means a cryptographic system that—
     - **(A)** is secure against decryption attempts using a quantum computer or classical computer; and
     - **(B)** can interoperate with existing communications protocols and networks.
-  - **(7)** *Quantum computer* The term “quantum computer” means a device for computation that uses quantum mechanics like superposition and entanglement to perform computational operations on data.
-  - **(8)** *Superposition* The term “superposition” refers to the ability of quantum systems to exist in two or more states simultaneously.
-  - **(9)** *Entanglement* The term “entanglement” is a property where two or more quantum objects in a system can be intrinsically linked such that the measurement of one dictates the possible measurement outcomes for another, regardless of how far apart the objects are.
+  - **(8)** *Quantum computer* The term quantum computer means a computer that uses the collective properties of quantum states to perform calculations.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
