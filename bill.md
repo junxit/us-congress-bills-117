@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 521
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “First Responder Fair Return for Employees on Their Initial Retirement Earned Act of 2021” or the “First Responder Fair RETIRE Act”.
+This Act may be cited as the “First Responder Fair Return for Employees on Their Initial Retirement Earned Act” or the “First Responder Fair RETIRE Act”.
 
 ## § 2. Sense of Congress
 
@@ -135,3 +135,7 @@ It is the sense of Congress that—
 - **(f)** *Effective date; applicability* The amendments made by this Act—
   - **(1)** shall take effect on the date of enactment of this Act; and
   - **(2)** shall apply to an individual who suffers an illness or injury described in section 8336(c)(3)(A)(i)(II) or section 8412(d)(2)(A)(i)(II) of title 5, United States Code, as amended by this section, section 302(d)(1)(A)(ii) of the Central Intelligence Agency Retirement Act, as amended by this section, or section 806(a)(6)(D)(i)(I)(bb) of the Foreign Service Act of 1980, as amended by this section, on or after the date that is 2 years after the date of enactment of this Act.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
