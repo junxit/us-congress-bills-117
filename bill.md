@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3544
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,29 +11,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Computers for Veterans and Students Act of 2021” or the “COVS Act”.
+This Act may be cited as the “Computers for Veterans and Students Act of 2022” or the “COVS Act”.
 
 ## § 2. Findings
 
 Congress finds the following:
 
 - **(1)** Access to computers and computer technology is indispensable for success in the 21st century. Millions of Americans do not regularly use a computer and research shows that substantial disparities remain in both internet use and the quality of access with the digital divide concentrated among older, less educated, less affluent populations, especially veterans, low-income students, and senior citizens.
-- **(2)** The COVID–19 pandemic has highlighted the gap between those with computer access and those without. Millions of students, their families, and workers from across the economy were unable to do schoolwork, work remotely from home, or be able to connect to loved ones and their communities because of the digital divide.
-- **(3)** Any Federal program that distributes retired Federal computers to a public school, an educational nonprofit, or a nonprofit computer refurbisher for repair and distribution would benefit from a partnership with a nonprofit organization, whose mission is bridging the digital divide.
+- **(2)** The COVID–19 pandemic has highlighted the gap between those with computer access and those without. Millions of students, their families, and workers from across the economy were unable to do schoolwork, work remotely from home, or connect to loved ones and their communities because of the digital divide.
+- **(3)** Any Federal program that distributes surplus Federal computers to a public school, an educational nonprofit, or a nonprofit computer refurbisher for repair and distribution would benefit from a partnership with a nonprofit organization, whose mission is bridging the digital divide.
 
 ## § 3. Refurbishment and distribution of surplus computers and technology equipment
 
-- **(a)** *GSA transfer* On a quarterly basis, the Administrator shall transfer to participating nonprofit computer refurbishers surplus computer or technology equipment that has been declared repairable as follows:
-  - **(1)** 40 percent for repair and distribution in accordance with subsection (c)(1).
-  - **(2)** 60 percent for repair and transfer in accordance with subsection (c)(2).
-- **(b)** *Partnership* The Administrator may establish a partnership with private entities to—
+- **(a)** *GSA transfer*
+  - **(1)** *In general* Not later than 30 days after State agencies for surplus property have been given an opportunity to review surplus computer or technology equipment that has been determined to be repairable, the Administrator shall transfer to participating nonprofit computer refurbishers such equipment with full title to such equipment, for repair and distribution in accordance with subsection (c)(1).
+  - **(2)** *Information on equipment refurbished* A nonprofit computer refurbisher that receives surplus computer or technology equipment under this subsection shall provide the Administrator with any information the Administrator determines to be necessary for required reporting, including information about the distribution of such equipment.
+- **(b)** *Partnership* The Administrator may establish a partnership with non-governmental entities, at no cost, to—
   - **(1)** facilitate the identification of nonprofit computer refurbishers and the distribution of surplus computer or technology equipment under this section; and
   - **(2)** facilitate the participation of nonprofit computer refurbishers under this section.
 - **(c)** *Repair and distribution*
-  - **(1)** *Distribution to bridge the digital divide* A nonprofit computer refurbisher that receives equipment under subsection (a)(1) shall repair and distribute such equipment to an educational institution, a veteran, an individual with a disability, a low-income individual, a student, or a senior in need that is residing or based in the United States.
-  - **(2)** *Distribution to State agencies through GSA* A nonprofit computer refurbisher that receives equipment under subsection (a)(2) shall repair and return the equipment to the Administrator for transfer under section 549 of title 40, United States Code.
-  - **(3)** *Inability to be reused* A nonprofit computer refurbisher shall transfer to the Administrator any equipment received under this subsection that is not possible to repair for reclassification under section 102–36.240 of title 41, Code of Federal Regulations.
-  - **(4)** *Training programs* Any nonprofit computer refurbisher that receives any equipment under subsection (a)(1) shall offer training programs on the use of computers and technology equipment for any of the following:
+  - **(1)** *Distribution to bridge the digital divide* A nonprofit computer refurbisher that receives equipment under subsection (a) shall repair and distribute such equipment to an educational institution, a veteran, an individual with a disability, a low-income individual, a student, or a senior in need that is residing or based in the United States.
+  - **(2)** *Training programs* Any nonprofit computer refurbisher that receives any equipment under subsection (a) shall offer training programs on the use of computers and technology equipment for any of the following:
     - **(A)** Educational institutions.
     - **(B)** Veterans.
     - **(C)** Individuals with disabilities.
@@ -41,29 +39,34 @@ Congress finds the following:
     - **(E)** Students.
     - **(F)** Seniors.
 - **(d)** *Reports required* Not later than 1 year after the date of the enactment of this Act, and every 2 years thereafter for the next 4 years, the Administrator shall submit to Congress a report on the efforts of the Administrator under this Act.
-- **(e)** *Definitions* In this section:
+- **(e)** *Agency reports* Not later than 5 years after the date of the enactment of this Act, and annually thereafter, the head of each Federal agency shall make a report available to the public on the number of repairable computers that were sent to recycling, abandoned, or destroyed.
+- **(f)** *Rule of construction* Nothing in this section may be construed to supersede the requirements of the Stevenson-Wydler Technology Innovation Act of 1980 (Public Law 96–480; 15 U.S.C. 3701 et seq.).
+- **(g)** *Definitions* In this section:
   - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
-  - **(2)** *Digital divide* The term digital divide means the gap between those who have an internet-connected computer and the skills to use the computer and those who do not. Principle barriers to closing this gap include access to devices, affordability, digital literacy, and access to broadband.
+  - **(2)** *Digital divide* The term digital divide means the gap between those who have an internet-connected computer and the skills to use the computer and those who do not.
   - **(3)** *Educational institution* The term educational institution means—
-    - **(A)** any public or private child care center, preschool, elementary school, secondary school, accredited institution of vocational or professional education, or institution of higher education; and
-    - **(B)** in the case of an accredited institution of vocational or professional education or an institution of higher education composed of more than one school, college, or department that is administratively a separate unit, each such school, college, or department.
+    - **(A)** any public or private child care center, preschool, elementary school, secondary school, accredited institution of vocational or professional education, or institution of higher education;
+    - **(B)** in the case of an accredited institution of vocational or professional education or an institution of higher education composed of more than one school, college, or department that is administratively a separate unit, each such school, college, or department; and
+    - **(C)** a home school (whether treated as a home school or a private school for purposes of applicable State law).
   - **(4)** *Federal agency* The term Federal agency has the meaning given the term federal agency in section 102 of title 40, United States Code.
   - **(5)** *Disability* The term disability has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
   - **(6)** *Institution of higher education* The term institution of higher education has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
   - **(7)** *Low-income individuals* The term low income individual has the meaning given such term in section 351 of the Small Business Investment Act of 1958 (15 U.S.C. 689).
   - **(8)** *Nonprofit computer refurbisher* The term nonprofit computer refurbisher means a nonprofit organization that primarily works to improve access to information and communication technology in their mission to bridge the digital divide.
   - **(9)** *Nonprofit organization* The term nonprofit organization means an organization that is described under section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
-  - **(10)** *Repairable* The term repairable means property that is unusable but can be economically repaired.
+  - **(10)** *Repairable* The term repairable means property that is unusable in its current state but can be economically repaired.
   - **(11)** *Secondary school* The term secondary school has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965.
   - **(12)** *Senior* The term senior means an individual who is 65 years of age or older.
   - **(13)** *Senior in need* The term senior in need means a senior who experiences cultural, social, or geographical isolation that—
     - **(A)** restricts the ability of the senior to perform normal daily tasks; or
     - **(B)** threatens the capacity of the senior to live independently.
-  - **(14)** *Student* The term student means any individual enrolled in an educational institution, but not a public or private child care center.
-  - **(15)** *Surplus computer or technology equipment* The term surplus computer or technology equipment means computer or technology equipment that is property as described under section 549(b)(2) of title 40, United States Code.
-  - **(16)** *Technology equipment* The term technology equipment means any physical asset related to a computer or information technology, including any peripheral component, tablet, communication device (such as a router, server, or cell phone), printer, scanner, uninterruptible power source, cable, or connection.
-  - **(17)** *Veteran* The term veteran has the meaning given that term in section 101 of title 38, United States Code.
+  - **(14)** *State agency for surplus property* The term State agency for surplus property has the meaning given the term state agency under section 549 of title 40, United States Code.
+  - **(15)** *Student* The term student means any individual enrolled in an educational institution, but not a public or private child care center.
+  - **(16)** *Surplus computer or technology equipment* The term surplus computer or technology equipment means computer or technology equipment that is property described under section 549(b)(2) of title 40, United States Code.
+  - **(17)** *Technology equipment* The term technology equipment means any physical asset related to a computer or information technology, including any peripheral component, tablet, communication device (such as a router, server, or cell phone), printer, scanner, uninterruptible power source, cable, or connection.
+  - **(18)** *Veteran* The term veteran has the meaning given that term in section 101 of title 38, United States Code.
+- **(h)** *Regulations* The Administrator may issue regulations that are necessary and appropriate to implement this section.
 
-## § 4. Authorization of appropriations
+## § 4. Determination of budgetary effects
 
-There are authorized to be appropriated such funds as are necessary to carry out this Act.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
