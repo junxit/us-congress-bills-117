@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4622
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4622
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 226 Nor
 
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 - Rep. Ryan, Tim [D-OH-13] (R000577)
@@ -31,6 +31,8 @@ To designate the facility of the United States Postal Service located at 226 Nor
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Carey, Mike [R-OH-15] (C001126)
 
 ## Committees (1)
 
@@ -41,3 +43,11 @@ To designate the facility of the United States Postal Service located at 226 Nor
 - 2021-07-22 — Introduced in House
 - 2021-07-22 — Introduced in House
 - 2021-07-22 — Referred to the House Committee on Oversight and Reform.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-07-12 — Considered under suspension of the rules. (consideration: CR H5965)
+- 2022-07-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4622.
+- 2022-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5965)
+- 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
