@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1095
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1095
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 101 Sou
 
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 
-## Cosponsors (36)
+## Cosponsors (51)
 
 - Rep. Garamendi, John [D-CA-3] (G000559)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
@@ -54,6 +54,21 @@ To designate the facility of the United States Postal Service located at 101 Sou
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Garcia, Mike [R-CA-25] (G000061)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
+- Rep. Issa, Darrell E. [R-CA-50] (I000056)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Obernolte, Jay [R-CA-8] (O000019)
+- Rep. McCarthy, Kevin [R-CA-23] (M001165)
+- Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
 ## Committees (1)
 
@@ -64,3 +79,11 @@ To designate the facility of the United States Postal Service located at 101 Sou
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Introduced in House
 - 2021-02-18 — Referred to the House Committee on Oversight and Reform.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-07-12 — Considered under suspension of the rules. (consideration: CR H5962)
+- 2022-07-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1095.
+- 2022-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5962)
+- 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
