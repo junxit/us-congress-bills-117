@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 653
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 653
@@ -54,3 +54,7 @@ A resolution recognizing the significance of Asian/Pacific American Heritage Mon
 
 - 2022-05-26 — Introduced in Senate
 - 2022-05-26 — Referred to the Committee on the Judiciary.
+- 2022-07-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3243; text: 5/26/2022 CR S2757-2758)
+- 2022-07-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3243; text: 5/26/2022 CR S2757-2758)
+- 2022-07-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-07-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
