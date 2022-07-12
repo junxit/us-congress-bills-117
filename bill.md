@@ -2,7 +2,7 @@
 legis-num: H. RES. 1168
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1168
@@ -37,5 +37,5 @@ That the House of Representatives—
 - **(1)** urges the President to prioritize and implement trade programs with the Caribbean region that promote sustainable and resilient economic development;
 - **(2)** commits to engaging directly with diverse stakeholders from the Caribbean, including CARICOM Trade Ministers, policymakers, as well as labor, business, and civil society representatives, to dialogue and develop a shared multilateral trade agenda;
 - **(3)** affirms trade and tariff preference programs that strengthen the economic relationship between the Caribbean and the United States and produce economic benefits for people of all racial, ethnic, gender, ability, economic, linguistic, and religious backgrounds;
-- **(4)** recognizes the importance of further enhancing trade programs between the Caribbean and the United States; and
+- **(4)** encourages further enhancing trade programs between the Caribbean and the United States; and
 - **(5)** supports critical trade policies and preference programs, such as HELP and HOPE II, and further commits to strengthen those policies to ensure they advance sustainable economic development, produce positive economic benefits in Haiti, the Caribbean, and the United States, and protect our most vulnerable communities.
