@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1193
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1193
@@ -229,3 +229,7 @@ Cardiovascular Advances in Research and Opportunities Legacy Act
 - 2021-12-08 — The title of the measure was amended. Agreed to without objection.
 - 2021-12-09 — Received in the Senate.
 - 2022-05-25 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-06-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2022-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.
