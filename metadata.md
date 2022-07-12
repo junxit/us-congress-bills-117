@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 42
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 42
@@ -39,3 +39,11 @@ A concurrent resolution authorizing the use of the rotunda of the Capitol on Thu
 - 2022-07-12 — Introduced in Senate
 - 2022-07-12 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S3243-3244; text: CR S3243)
 - 2022-07-12 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3243-3244; text: CR S3243)
+- 2022-07-13 — Considered by unanimous consent. (consideration: CR H6025)
+- 2022-07-13 — Held at the desk.
+- 2022-07-13 — Message on Senate action sent to the House.
+- 2022-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-13 — Mr. Takano asked unanimous consent to take from the Speaker's table and consider.
+- 2022-07-13 — On agreeing to the resolution Agreed to without objection. (text: CR H6025)
+- 2022-07-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6025)
+- 2022-07-13 — Received in the House.
