@@ -1,7 +1,7 @@
 ---
 measure: S. 3470
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3470
@@ -34,3 +34,20 @@ End Human Trafficking in Government Contracts Act of 2022
 - 2022-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 384.
 - 2022-07-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3278; text: CR S3278)
 - 2022-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-07-14 — Held at the desk.
+- 2022-07-14 — Message on Senate action sent to the House.
+- 2022-07-14 — Received in the House.
+- 2022-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-28 — Considered under suspension of the rules. (consideration: CR H8143-8144)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on S. 3470.
+- 2022-09-28 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-09-29 — Considered as unfinished business. (consideration: CR H8271-8272)
+- 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 463). (text: CR H8143)
+- 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 463).
+- 2022-10-17 — Became Public Law No: 117-211.
+- 2022-10-17 — Became Public Law No: 117-211.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Signed by President.
+- 2022-10-17 — Signed by President.
