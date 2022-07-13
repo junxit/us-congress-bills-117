@@ -1,7 +1,7 @@
 ---
 measure: S. 4348
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4348
@@ -28,3 +28,7 @@ FDASLA Act of 2022
 
 - 2022-05-26 — Introduced in Senate
 - 2022-05-26 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-06-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-07-13 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2022-07-13 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
+- 2022-07-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
