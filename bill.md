@@ -2,33 +2,19 @@
 legis-num: S. 3373
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3373
 
-> To improve the Iraq and Afghanistan Service Grant and the Children of Fallen Heroes Grant.
+That the bill from the Senate (S. 3373) entitled “An Act to improve the Iraq and Afghanistan Service Grant and the Children of Fallen Heroes Grant.”, do pass with the following
 
-## § 1. Short title
+*Strike out all after the enacting clause and insert:*
 
-This Act may be cited as the “Protecting Our Gold Star Families Education Act”.
+## § 1. Short title; references to title 38, United States Code; table of contents
 
-## § 2. Improving Iraq and Afghanistan Service Grant and Children of Fallen Heroes Grant
-
-- **(a)** *Technical amendment relating to Iraq and Afghanistan Service Grant and Children of Fallen Heroes Grant* Part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as amended by section 703 of the FAFSA Simplification Act (title VII of division FF of Public Law 116–260), is amended—
-  - **(1)** in section 401—
-    - **(A)** in subsection (c)—
-      - **(i)** in paragraph (2)—
-        - **(I)** by striking subparagraph (A); and
-        - **(II)** by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively;
-      - **(ii)** in paragraph (3)(A), by striking “(2)(B)(i)” and inserting “(2)(A)(i)”;
-      - **(iii)** by redesignating paragraph (5) as paragraph (7); and
-      - **(iv)** by inserting after paragraph (4) the following:
-        > - **(5)** *Prevention of double benefits* No eligible student described in paragraph (2) may concurrently receive a grant under both this subsection and subsection (b).
-        > - **(6)** *Terms and conditions* The Secretary shall award grants under this subsection in the same manner and with the same terms and conditions, including the length of the period of eligibility, as the Secretary awards Federal Pell Grants under subsection (b), except that—
-        >   - **(A)** the award rules and determination of need applicable to the calculation of Federal Pell Grants under subsection (b)(1) shall not apply to grants made under this subsection; and
-        >   - **(B)** the maximum period determined under subsection (d)(5) shall be determined by including all grants made under this section received by the eligible student and all grants so received under subpart 10 before the effective date of this subsection.
-
-  - **(2)** by striking section 420R (20 U.S.C. 1070h).
-- **(b)** *Effective date* The amendments made by subsection (a) shall take effect as if included in section 703 of the FAFSA Simplification Act (title VII of division FF of Public Law 116–260) and subject to the effective date of section 701(b) of such Act.
-- **(c)** *Transition* The Secretary shall take such steps as are necessary to transition from the Iraq and Afghanistan Service Grant program under subpart 10 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070h), as in effect on the day before the effective date of this section, and the provision of Federal Pell Grants under section 401(c) of the Higher Education Act of 1965 (20 U.S.C. 1070a(c)), as amended by the FAFSA Simplification Act and this Act.
+- **(a)** *Short title* This Act may be cited as the “Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022” or the “Honoring our PACT Act of 2022”.
+- **(b)** *Matters relating to amendments to title 38, United States Code*
+  - **(1)** *References* Except as otherwise expressly provided, when in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 38, United States Code.
+  - **(2)** *Amendments to tables of contents* Except as otherwise expressly provided, when an amendment made by this Act to title 38, United States Code, adds a section or larger organizational unit to that title or amends the designation or heading of a section or larger organizational unit in that title, that amendment also shall have the effect of amending any table of sections in that title to alter the table to conform to the changes made by the amendment.
+- **(c)** *Table of contents* The table of contents for this Act is as follows:
