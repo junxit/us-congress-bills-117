@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5809
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5809
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 1801 To
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 1801 To
 - 2022-07-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2022-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5964)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
