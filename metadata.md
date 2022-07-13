@@ -1,7 +1,7 @@
 ---
 measure: H.R. 521
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 521
@@ -45,11 +45,12 @@ First Responder Fair RETIRE Act
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Accountability Committee
 - House — Foreign Affairs Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ First Responder Fair RETIRE Act
 - 2022-07-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
 - 2022-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 301). (text: CR H5955-5957)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 301).
+- 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
