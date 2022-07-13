@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 638
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 638
@@ -36,3 +36,5 @@ A resolution commending the Government and people of the Republic of Moldova for
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.
+- 2022-07-13 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote.(consideration: CR S3278-3279; text: 5/17/2022 CR S2548-2549)
+- 2022-07-13 — Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote. (consideration: CR S3278-3279; text: 5/17/2022 CR S2548-2549)
