@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7289
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7289
@@ -16,9 +16,15 @@ Federal PFAS Research Evaluation Act
 
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Gallagher, Mike [R-WI-8] (G000579)
 
 ## Committees (1)
 
@@ -29,3 +35,8 @@ Federal PFAS Research Evaluation Act
 - 2022-03-30 — Introduced in House
 - 2022-03-30 — Introduced in House
 - 2022-03-30 — Referred to the House Committee on Science, Space, and Technology.
+- 2022-05-17 — Committee Consideration and Mark-up Session Held.
+- 2022-05-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-07-13 — Placed on the Union Calendar, Calendar No. 313.
+- 2022-07-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-406.
+- 2022-07-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-406.
