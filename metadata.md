@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4622
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4622
@@ -53,3 +53,14 @@ To designate the facility of the United States Postal Service located at 226 Nor
 - 2022-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5965)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7282)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-274.
+- 2022-12-27 — Became Public Law No: 117-274.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
