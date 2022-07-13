@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3373
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3373
 
-That the bill from the Senate (S. 3373) entitled “An Act to improve the Iraq and Afghanistan Service Grant and the Children of Fallen Heroes Grant.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To improve the Iraq and Afghanistan Service Grant and the Children of Fallen Heroes Grant.
 
 ## § 1. Short title; references to title 38, United States Code; table of contents
 
