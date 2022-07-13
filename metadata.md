@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7174
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7174
@@ -43,6 +43,10 @@ National Computer Forensics Institute Reauthorization Act of 2022
 - House — Judiciary Committee
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2022-07-13 — [House 117-2-305](votes/house-117-2-0305.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–16)
+
 ## Actions
 
 - 2022-03-18 — Introduced in House
@@ -60,3 +64,11 @@ National Computer Forensics Institute Reauthorization Act of 2022
 - 2022-06-17 — Placed on the Union Calendar, Calendar No. 287.
 - 2022-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-376, Part I.
 - 2022-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-376, Part I.
+- 2022-06-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-06-21 — Considered under suspension of the rules. (consideration: CR H5691-5693)
+- 2022-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7174.
+- 2022-06-21 — Mr. Swalwell moved to suspend the rules and pass the bill, as amended.
+- 2022-07-13 — Considered as unfinished business. (consideration: CR H6286)
+- 2022-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 305). (text: 06/21/2022 CR H5691-5692)
+- 2022-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 305).
