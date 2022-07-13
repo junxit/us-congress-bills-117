@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6538
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6538
@@ -16,7 +16,7 @@ Active Shooter Alert Act of 2022
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Cosponsors (61)
+## Cosponsors (62)
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
@@ -79,6 +79,7 @@ Active Shooter Alert Act of 2022
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -98,3 +99,22 @@ Active Shooter Alert Act of 2022
 - 2022-06-21 — Placed on the Union Calendar, Calendar No. 290.
 - 2022-06-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-379.
 - 2022-06-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-379.
+- 2022-06-22 — Considered as unfinished business. (consideration: CR H5809-5810; text: CR H5701-5702)
+- 2022-06-22 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 259 - 162 (Roll no. 289).
+- 2022-06-22 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 259 - 162 (Roll no. 289).
+- 2022-07-13 — Amendment reported by the House Committee on Rules.
+- 2022-07-13 — Considered as unfinished business. (consideration: CR H6287-6288)
+- 2022-07-13 — Considered under the provisions of rule H. Res. 1224. (consideration: CR H5993-6001)
+- 2022-07-13 — DEBATE - The House proceeded with one hour of debate on H.R. 6538.
+- 2022-07-13 — DEBATE - The House resumed with debate on H.R. 6538.
+- 2022-07-13 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-13 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-07-13 — On passage Passed by the Yeas and Nays: 260 - 169 (Roll no. 307). (text: CR H5993-5994)
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6538, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 260 - 169 (Roll no. 307).(text: CR H5993-5994)
+- 2022-07-13 — Rule H. Res. 1224 passed House.
+- 2022-07-13 — Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
+- 2022-07-13 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
+- 2022-07-13 — The previous question was ordered pursuant to the rule.
