@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7900
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7900
@@ -51,3 +51,529 @@ National Defense Authorization Act for Fiscal Year 2023
 - 2022-07-01 — Placed on the Union Calendar, Calendar No. 305.
 - 2022-07-01 — Reported (Amended) by the Committee on Armed Services. H. Rept. 117-397.
 - 2022-07-01 — Reported (Amended) by the Committee on Armed Services. H. Rept. 117-397.
+- 2022-07-07 — Supplemental report filed by the Committee on Armed Services, H. Rept. 117-397, Part II.
+- 2022-07-07 — Supplemental report filed by the Committee on Armed Services, H. Rept. 117-397, Part II.
+- 2022-07-07 — Without objection, the Committee on Armed Services was authorized to file a supplemental report on the bill, H.R. 7900.
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — 
+- 2022-07-13 — Amendment (A002) offered by Mr. Schiff. (consideration: CR H6228-6229, H6290; text: CR H6228)
+- 2022-07-13 — Amendment (A003) offered by Mr. Jones. (consideration: CR H6229-6230, H6290-6291; text: CR H6229)
+- 2022-07-13 — Amendment (A004) offered by Ms. Schakowsky. (consideration: CR H6230-6231, H6291-6292; text: CR H6230)
+- 2022-07-13 — Amendment (A005) offered by Mr. Kim (NJ). (consideration: CR H6232-6233, H6292-6293; text: CR H6232)
+- 2022-07-13 — Amendment (A007) offered by Ms. Escobar. (consideration: CR H6265-6266, H6293; text: CR H6265)
+- 2022-07-13 — Amendment (A008) offered by Mr. Khanna. (consideration: CR H6266-6267, H6293-6294; text: CR H6266-6267)
+- 2022-07-13 — Amendment (A009) offered by Ms. Lee (CA). (consideration: CR H6267-6269, H6294-6295; text: CR H6268)
+- 2022-07-13 — Amendment (A010) offered by Ms. Lee (CA). (consideration: CR H6269-6270, H6295; text: CR H6269)
+- 2022-07-13 — Amendment (A011) offered by Ms. Jayapal. (consideration: CR H6270-6271, H6295-6296; text: CR H6270)
+- 2022-07-13 — Amendment (A012) offered by Mr. Smith (WA). (consideration: CR H6271-6274, H6296-6297; text: CR H6271-6272)
+- 2022-07-13 — Amendment (A013) offered by Mr. Foster. (consideration: CR H6274-6275, H6297-6298; text: CR H6274)
+- 2022-07-13 — Amendment (A014) offered by Mr. Garamendi. (consideration: CR H6275-6276, H6298; text: CR H6275)
+- 2022-07-13 — Amendment (A015) offered by Ms. Tlaib. (consideration: CR H6276-6278, H6298-6299; text: CR H6277)
+- 2022-07-13 — Amendment (A016) offered by Ms. Norton. (consideration: CR H6278-6280, H6299-6300; text: CR H6278-6279)
+- 2022-07-13 — Amendment (A017) offered by Ms. Sanchez. (consideration: CR H6280-6281, H6300-6301; text: CR H6280)
+- 2022-07-13 — Amendment (A018) offered by Mr. Schneider. (consideration: CR H6281-6282, H6301; text: CR H6281)
+- 2022-07-13 — Amendment (A019) offered by Miss Rice (NY). (consideration: CR H6282-6283, H6301-6302; text: CR H6282-6283)
+- 2022-07-13 — Amendment (A020) offered by Mr. Aguilar. (consideration: CR H6284; text: CR H6284)
+- 2022-07-13 — Amendment (A021) offered by Mrs. Torres (CA). (consideration: CR H6284-6285; text: CR H6284-6285)
+- 2022-07-13 — Amendment (A022) offered by Ms. Speier. (consideration: CR H6302-6303; text: CR H6302-6303)
+- 2022-07-13 — Amendment (A023) offered by Mr. Levin (MI). (consideration: CR H6303-6305; text: CR H6303-6304)
+- 2022-07-13 — Amendment (A024) offered by Ms. Speier. (consideration: CR H6305-6306; text: CR H6305)
+- 2022-07-13 — Amendment (A028) offered by Mr. Bowman. (consideration: CR H6448-6449; text: CR H6448)
+- 2022-07-13 — Amendment (A029) offered by Mr. Keating. (consideration: CR H6449-6451; text: CR H6449-6450)
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Escobar amendment (A007) Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 314).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Foster amendment (A013) Agreed to by the Yeas and Nays: 216 - 209 (Roll no. 320).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Jones amendment (A003) Agreed to by the Yeas and Nays: 221 - 207 (Roll no. 311).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Khanna amendment (A008) Agreed to by the Yeas and Nays: 215 - 212 (Roll no. 315).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Kim (NJ) amendment (A005) Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 313).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Norton amendment (A016) Agreed to by the Yeas and Nays: 218 - 209 (Roll no. 323).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Rice (NY) amendment (A019) Agreed to by the Yeas and Nays: 220 - 205 (Roll no. 326).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Schakowsky amendment (A004) Agreed to by the Yeas and Nays: 220 - 209 (Roll no. 312).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Schiff amendment (A002) Agreed to by the Yeas and Nays: 218 - 207 (Roll no. 310).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Schneider amendment (A018) Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 325).
+- 2022-07-13 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A006) Agreed to by voice vote.
+- 2022-07-13 — Amendment failed by House: On agreeing to the Garamendi amendment (A014) Failed by the Yeas and Nays: 118 - 309 (Roll no. 321).
+- 2022-07-13 — Amendment failed by House: On agreeing to the Jayapal amendment (A011) Failed by the Yeas and Nays: 155 - 272 (Roll no. 318).
+- 2022-07-13 — Amendment failed by House: On agreeing to the Lee (CA) amendment (A009) Failed by the Yeas and Nays: 78 - 350 (Roll no. 316).
+- 2022-07-13 — Amendment failed by House: On agreeing to the Lee (CA) amendment (A010) Failed by the Yeas and Nays: 151 - 277 (Roll no. 317).
+- 2022-07-13 — Amendment failed by House: On agreeing to the Sanchez amendment (A017) Failed by the Yeas and Nays: 207 - 219 (Roll no. 324).
+- 2022-07-13 — Amendment failed by House: On agreeing to the Smith (WA) amendment (A012) Failed by the Yeas and Nays: 208 - 221 (Roll no. 319).
+- 2022-07-13 — Amendment failed by House: On agreeing to the Tlaib amendment (A015) Failed by the Yeas and Nays: 156 - 270 (Roll no. 322).
+- 2022-07-13 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-07-13 — Amendments en bloc (A006) offered by Mr. Smith (WA). (consideration: CR H6233-6265; text: CR H6233-6263)
+- 2022-07-13 — Amendments en bloc (A025) offered by Mr. Smith (WA). (consideration: CR H6306-6333, H6339-6340; text: CR H6306-6328)
+- 2022-07-13 — Amendments en bloc (A026) offered by Mr. Smith (WA). (consideration: CR H6340-6356; text: CR H6340-6355)
+- 2022-07-13 — Amendments en bloc (A027) offered by Mr. Smith (WA). (consideration: CR H6356-6448; text: CR H6356-6446)
+- 2022-07-13 — Considered as unfinished business. (consideration: CR H6290-6302)
+- 2022-07-13 — Considered as unfinished business. (consideration: CR H6302-6330, H6339-6508)
+- 2022-07-13 — Considered under the provisions of rule H. Res. 1224. (consideration: CR H6025-6285; text: CR H6025-6218)
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Aguilar amendment No. 33.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Bowman amendment No. 384.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Escobar amendment No. 8.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Foster amendment No. 18.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Garamendi amendment No. 19.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Jayapal amendment No. 15.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Jones amendment No. 2.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Keating amendment No. 391.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Khanna amendment No. 12.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Kim (NJ) amendment No. 4.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Lee (CA) amendment No. 13.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Lee (CA) amendment No. 14.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Levin (MI) amendment No. 79.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Norton amendment No. 25.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Rice (NY) amendment No. 32.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Sanchez amendment No. 29.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Schakowsky amendment No. 3.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Schiff amendment No. 1.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Schneider amendment No. 31.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Smith (WA) amendment No. 16.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Speier amendment No. 49.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Speier amendment No. 81.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Tlaib amendment No. 20.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Torres (CA) amendment No. 48.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 30 minutes of debate on the Smith (WA) amendment en bloc No. 1.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 2.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 3.
+- 2022-07-13 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 4.
+- 2022-07-13 — DEBATE - The House proceeded with one hour of debate on H.R. 7900.
+- 2022-07-13 — DEBATE - The House resumed with debate on the Smith (WA) amendment en bloc No. 2.
+- 2022-07-13 — House amendment agreed to: On agreeing to the Escobar amendment (A007) Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 314).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Foster amendment (A013) Agreed to by the Yeas and Nays: 216 - 209 (Roll no. 320).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Jones amendment (A003) Agreed to by the Yeas and Nays: 221 - 207 (Roll no. 311).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Khanna amendment (A008) Agreed to by the Yeas and Nays: 215 - 212 (Roll no. 315).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Kim (NJ) amendment (A005) Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 313).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Norton amendment (A016) Agreed to by the Yeas and Nays: 218 - 209 (Roll no. 323).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Rice (NY) amendment (A019) Agreed to by the Yeas and Nays: 220 - 205 (Roll no. 326).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-07-13 — House amendment agreed to: On agreeing to the Schakowsky amendment (A004) Agreed to by the Yeas and Nays: 220 - 209 (Roll no. 312).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Schiff amendment (A002) Agreed to by the Yeas and Nays: 218 - 207 (Roll no. 310).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Schneider amendment (A018) Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 325).
+- 2022-07-13 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A006) Agreed to by voice vote.
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Garamendi amendment (A014) Failed by the Yeas and Nays: 118 - 309 (Roll no. 321).
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Jayapal amendment (A011) Failed by the Yeas and Nays: 155 - 272 (Roll no. 318).
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A009) Failed by the Yeas and Nays: 78 - 350 (Roll no. 316).
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A010) Failed by the Yeas and Nays: 151 - 277 (Roll no. 317).
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Sanchez amendment (A017) Failed by the Yeas and Nays: 207 - 219 (Roll no. 324).
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A012) Failed by the Yeas and Nays: 208 - 221 (Roll no. 319).
+- 2022-07-13 — House amendment not agreed to: On agreeing to the Tlaib amendment (A015) Failed by the Yeas and Nays: 156 - 270 (Roll no. 322).
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered
+- 2022-07-13 — House amendment offered/reported by: Amendment (A002) offered by Mr. Schiff.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A003) offered by Mr. Jones.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A004) offered by Ms. Schakowsky.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A005) offered by Mr. Kim (NJ).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A007) offered by Ms. Escobar.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A008) offered by Mr. Khanna.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A009) offered by Ms. Lee (CA).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A010) offered by Ms. Lee (CA).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A011) offered by Ms. Jayapal.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A012) offered by Mr. Smith (WA).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A013) offered by Mr. Foster.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A014) offered by Mr. Garamendi.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A015) offered by Ms. Tlaib.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A016) offered by Ms. Norton.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A017) offered by Ms. Sanchez.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A018) offered by Mr. Schneider.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A019) offered by Miss Rice (NY).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A020) offered by Mr. Aguilar.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A021) offered by Mrs. Torres (CA).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A022) offered by Ms. Speier.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A023) offered by Mr. Levin (MI).
+- 2022-07-13 — House amendment offered/reported by: Amendment (A024) offered by Ms. Speier.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A028) offered by Mr. Bowman.
+- 2022-07-13 — House amendment offered/reported by: Amendment (A029) offered by Mr. Keating.
+- 2022-07-13 — House amendment offered/reported by: Amendments en bloc (A006) offered by Mr. Smith (WA).
+- 2022-07-13 — House amendment offered/reported by: Amendments en bloc (A025) offered by Mr. Smith (WA).
+- 2022-07-13 — House amendment offered/reported by: Amendments en bloc (A026) offered by Mr. Smith (WA).(consideration: CR H6340-6356; text: CR H6340-6355)
+- 2022-07-13 — House amendment offered/reported by: Amendments en bloc (A027) offered by Mr. Smith (WA).
+- 2022-07-13 — On agreeing to the Escobar amendment (A007) Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 314).
+- 2022-07-13 — On agreeing to the Foster amendment (A013) Agreed to by the Yeas and Nays: 216 - 209 (Roll no. 320).
+- 2022-07-13 — On agreeing to the Garamendi amendment (A014) Failed by the Yeas and Nays: 118 - 309 (Roll no. 321).
+- 2022-07-13 — On agreeing to the Jayapal amendment (A011) Failed by the Yeas and Nays: 155 - 272 (Roll no. 318).
+- 2022-07-13 — On agreeing to the Jones amendment (A003) Agreed to by the Yeas and Nays: 221 - 207 (Roll no. 311).
+- 2022-07-13 — On agreeing to the Khanna amendment (A008) Agreed to by the Yeas and Nays: 215 - 212 (Roll no. 315).
+- 2022-07-13 — On agreeing to the Kim (NJ) amendment (A005) Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 313).
+- 2022-07-13 — On agreeing to the Lee (CA) amendment (A009) Failed by the Yeas and Nays: 78 - 350 (Roll no. 316).
+- 2022-07-13 — On agreeing to the Lee (CA) amendment (A010) Failed by the Yeas and Nays: 151 - 277 (Roll no. 317).
+- 2022-07-13 — On agreeing to the Norton amendment (A016) Agreed to by the Yeas and Nays: 218 - 209 (Roll no. 323).
+- 2022-07-13 — On agreeing to the Rice (NY) amendment (A019) Agreed to by the Yeas and Nays: 220 - 205 (Roll no. 326).
+- 2022-07-13 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-07-13 — On agreeing to the Sanchez amendment (A017) Failed by the Yeas and Nays: 207 - 219 (Roll no. 324).
+- 2022-07-13 — On agreeing to the Schakowsky amendment (A004) Agreed to by the Yeas and Nays: 220 - 209 (Roll no. 312).
+- 2022-07-13 — On agreeing to the Schiff amendment (A002) Agreed to by the Yeas and Nays: 218 - 207 (Roll no. 310).
+- 2022-07-13 — On agreeing to the Schneider amendment (A018) Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 325).
+- 2022-07-13 — On agreeing to the Smith (WA) amendment (A012) Failed by the Yeas and Nays: 208 - 221 (Roll no. 319).
+- 2022-07-13 — On agreeing to the Smith (WA) amendments (A006) Agreed to by voice vote.
+- 2022-07-13 — On agreeing to the Tlaib amendment (A015) Failed by the Yeas and Nays: 156 - 270 (Roll no. 322).
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Aguilar amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bowman amendment No. 384, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gohmert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Escobar amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment No. 18, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 19, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment No. 15, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jones amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Posey demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Khanna amendment No. 12, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kim (NJ) amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Waltz demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment No. 13, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment No. 14, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Levin (MI) amendment No. 79, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gohmert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norton amendment No. 25, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Clyde demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rice (NY) amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanchez amendment No. 29, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schakowsky amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Posey demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Posey demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schneider amendment No. 31, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment No. 16, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Wittman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) en bloc No. 2, the Chair put the question on agreeing to the en bloc amendment and by voice vote, announced that the ayes had prevailed. Mr. Gohmert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) en bloc No. 3, the Chair put the question on agreeing to the en bloc amendment and by voice vote, announced that the ayes had prevailed. Mr. Gohmert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) en bloc No. 4, the Chair put the question on agreeing to the en bloc amendment and by voice vote, announced that the ayes had prevailed. Mr. Gohmert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment No. 49, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment No. 81, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced. %kp1
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tlaib amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Torres (CA) amendment No. 48, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7900 was postponed until a time to be announced.
+- 2022-07-13 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7900 was postponed until a time to be announced.
+- 2022-07-13 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration on H.R. 7900.
+- 2022-07-13 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration on H.R. 7900.
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Roll call votes on amendments in House
+- 2022-07-13 — Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
+- 2022-07-13 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
+- 2022-07-13 — Smith (WA) amendment (A025) modified by unanimous consent. Mr. Smith (WA) asked unanimous consent to modify amendment No. 113 in en bloc No. 2 of House Report 117-405. Agreed to without objection. (text as modified: CR H6328-6330)
+- 2022-07-13 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A006) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A007) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A008) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A009) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A010) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A011) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A012) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A013) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A014) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A015) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A016) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A017) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A018) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A019) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A020) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A021) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A022) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A023) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A024) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A025) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A026) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A027) pursuant to the rule.
+- 2022-07-13 — The previous question was ordered on the amendment (A028) pursuant to the rule.
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — 
+- 2022-07-14 — Amendment (A030) offered by Ms. Jayapal. (consideration: CR H6451-6454; text: CR H6451-6452)
+- 2022-07-14 — Amendment (A031) offered by Ms. Speier. (consideration: CR H6454-6455; text: CR H6454)
+- 2022-07-14 — Amendment (A032) offered by Mr. Pallone. (consideration: CR H6455-6456; text: CR H6455)
+- 2022-07-14 — Amendment (A033) offered by Ms. Ross. (consideration: CR H6456-6457; text: CR H6456)
+- 2022-07-14 — Amendment (A034) offered by Mr. Garamendi. (consideration: CR H6457-6458; text: CR H6457)
+- 2022-07-14 — Amendment (A035) offered by Mr. Langevin. (consideration: CR H6458-6460; text: CR H6458-6459)
+- 2022-07-14 — Amendment (A036) offered by Mr. Schiff. (consideration: CR H6460; text: CR H6460)
+- 2022-07-14 — Amendment (A037) offered by Mr. Green, Al (TX). (consideration: CR H6461-6467; text: CR H6461-6466)
+- 2022-07-14 — Amendment (A038) offered by Mr. Schiff. (consideration: CR H6467-6468; text: CR H6267)
+- 2022-07-14 — Amendment (A039) offered by Mr. Connolly. (consideration: CR H6468-6469; text: CR H6468)
+- 2022-07-14 — Amendment (A040) offered by Mr. Neguse. (consideration: CR H6469-6480; text: CR H6469-6479)
+- 2022-07-14 — Amendment (A041) offered by Ms. DeGette. (consideration: CR H6480-6506; text: CR H6480-6505)
+- 2022-07-14 — Amendment (A042) offered by Mr. Evans. (consideration: CR H6505-6507; text: CR H6505-6507)
+- 2022-07-14 — Amendment (A043) offered by Mr. Connolly. (consideration: CR H6507-6508; text: CR H6508)
+- 2022-07-14 — Amendment (A044) offered by Mr. Smith (WA). (consideration: CR H6514-6583; text: CR H6514-6582)
+- 2022-07-14 — Amendment (A045) offered by Ms. Meng. (consideration: CR H6583-6584; text: CR H6584)
+- 2022-07-14 — Amendment (A046) offered by Mr. Takano. (consideration: CR H6584-6585; text: CR H6584)
+- 2022-07-14 — Amendment (A047) offered by Ms. Wild. (consideration: CR H6585-6586; text: CR H6585)
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Aguilar amendment (A020) Agreed to by the Yeas and Nays: 217 - 206 (Roll no. 327).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Connolly amendment (A039) Agreed to by the Yeas and Nays: 215 - 201 (Roll no. 344).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the DeGette amendment (A041) Agreed to by the Yeas and Nays: 219 - 207 (Roll no. 346).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Evans amendment (A042) Agreed to by the Yeas and Nays: 220 - 206 (Roll no. 347).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Green, Al (TX) amendment (A037) Agreed to by the Yeas and Nays: 216 - 208 (Roll no. 343).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Langevin amendment Agreed to by the Yeas and Nays: 226 - 201 (Roll no. 341).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Levin (MI) amendment (A023) Agreed to by the Yeas and Nays: 233 - 196 (Roll no. 330).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Meng amendment (A045) Agreed to by the Yeas and Nays: 243 - 187 (Roll no. 349).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Neguse amendment (A040) Agreed to by the Yeas and Nays: 214 - 201 (Roll no. 345).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Pallone amendment (A032) Agreed to by the Yeas and Nays: 244 - 179 (Roll no. 339).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Ross amendment (A033) Agreed to by voice vote.
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Schiff amendment (A036) Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 342).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Smith (WA) amendment (A044) Agreed to by voice vote.
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A025) as modified Agreed to by the Yeas and Nays: 330 - 99 (Roll no. 332).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A026) Agreed to by the Yeas and Nays: 362 - 64 (Roll no. 333).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Smith (WA) amendments (A027) Agreed to by the Yeas and Nays: 277 - 150 (Roll no. 334).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Speier amendment (A022) Agreed to by the Yeas and Nays: 216 - 211 (Roll no. 329).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Speier amendment (A024) Agreed to by the Yeas and Nays: 226 - 203 (Roll no. 331).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Speier amendment (A031) Agreed to by the Yeas and Nays: 222 - 195 (Roll no. 338).
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Takano amendment (A046) Agreed to by voice vote.
+- 2022-07-14 — Amendment agreed to by House: On agreeing to the Wild amendment (A047) Agreed to by voice vote.
+- 2022-07-14 — Amendment failed by House: On agreeing to the Bowman amendment (A028) Failed by the Yeas and Nays: 155 - 273 (Roll no. 335).
+- 2022-07-14 — Amendment failed by House: On agreeing to the Connolly amendment (A043) Failed by the Yeas and Nays: 170 - 257 (Roll no. 348).
+- 2022-07-14 — Amendment failed by House: On agreeing to the Garamendi amendment (A034) Failed by the Yeas and Nays: 195 - 232 (Roll no. 340).
+- 2022-07-14 — Amendment failed by House: On agreeing to the Jayapal amendment (A030) Failed by the Yeas and Nays: 207 - 219 (Roll no. 337).
+- 2022-07-14 — Amendment failed by House: On agreeing to the Keating amendment (A029) Failed by the Yeas and Nays: 208 - 217 (Roll no. 336).
+- 2022-07-14 — Amendment failed by House: On agreeing to the Torres (CA) amendment (A021) Failed by the Yeas and Nays: 209 - 217 (Roll no. 328).
+- 2022-07-14 — By unanimous consent, the Schiff amendment was withdrawn. (consideration: CR H6586)
+- 2022-07-14 — Considered as unfinished business. (consideration: CR H6514-6600)
+- 2022-07-14 — Considered as unfinished business. (consideration: CR H6600-6605)
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Al Green amendment No. 448.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Connolly amendment No. 454.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Connolly amendment No. 495.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the DeGette amendment No. 456.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Evans amendment No. 461.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Garamendi amendment No. 410.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Jayapal amendment No. 392.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Langevin amendment No. 426.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Meng amendment No. 587.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Neguse amendment No. 455.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Pallone amendment No. 399.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Ross amendment No. 406.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Schiff amendment No. 447.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Schiff amendment No. 451.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Speier amendment No. 395.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Takano amendment No. 637.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Wild amendment No. 650.
+- 2022-07-14 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 30 minutes of debate on the Smith (WA) en bloc No. 5.
+- 2022-07-14 — House amendment agreed to: On agreeing to the Aguilar amendment (A020) Agreed to by the Yeas and Nays: 217 - 206 (Roll no. 327).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Connolly amendment (A039) Agreed to by the Yeas and Nays: 215 - 201 (Roll no. 344).
+- 2022-07-14 — House amendment agreed to: On agreeing to the DeGette amendment (A041) Agreed to by the Yeas and Nays: 219 - 207 (Roll no. 346).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Evans amendment (A042) Agreed to by the Yeas and Nays: 220 - 206 (Roll no. 347).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Green, Al (TX) amendment (A037) Agreed to by the Yeas and Nays: 216 - 208 (Roll no. 343).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by the Yeas and Nays: 226 - 201 (Roll no. 341).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A023) Agreed to by the Yeas and Nays: 233 - 196 (Roll no. 330).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Meng amendment (A045) Agreed to by the Yeas and Nays: 243 - 187 (Roll no. 349).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Neguse amendment (A040) Agreed to by the Yeas and Nays: 214 - 201 (Roll no. 345).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Pallone amendment (A032) Agreed to by the Yeas and Nays: 244 - 179 (Roll no. 339).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Ross amendment (A033) Agreed to by voice vote.
+- 2022-07-14 — House amendment agreed to: On agreeing to the Schiff amendment (A036) Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 342).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Smith (WA) amendment (A044) Agreed to by voice vote.
+- 2022-07-14 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A025) as modified Agreed to by the Yeas and Nays: 330 - 99 (Roll no. 332).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A026) Agreed to by the Yeas and Nays: 362 - 64 (Roll no. 333).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A027) Agreed to by the Yeas and Nays: 277 - 150 (Roll no. 334).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Speier amendment (A022) Agreed to by the Yeas and Nays: 216 - 211 (Roll no. 329).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Speier amendment (A024) Agreed to by the Yeas and Nays: 226 - 203 (Roll no. 331).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Speier amendment (A031) Agreed to by the Yeas and Nays: 222 - 195 (Roll no. 338).
+- 2022-07-14 — House amendment agreed to: On agreeing to the Takano amendment (A046) Agreed to by voice vote.
+- 2022-07-14 — House amendment agreed to: On agreeing to the Wild amendment (A047) Agreed to by voice vote.
+- 2022-07-14 — House amendment not agreed to: On agreeing to the Bowman amendment (A028) Failed by the Yeas and Nays: 155 - 273 (Roll no. 335).
+- 2022-07-14 — House amendment not agreed to: On agreeing to the Connolly amendment (A043) Failed by the Yeas and Nays: 170 - 257 (Roll no. 348).
+- 2022-07-14 — House amendment not agreed to: On agreeing to the Garamendi amendment (A034) Failed by the Yeas and Nays: 195 - 232 (Roll no. 340).
+- 2022-07-14 — House amendment not agreed to: On agreeing to the Jayapal amendment (A030) Failed by the Yeas and Nays: 207 - 219 (Roll no. 337).
+- 2022-07-14 — House amendment not agreed to: On agreeing to the Keating amendment (A029) Failed by the Yeas and Nays: 208 - 217 (Roll no. 336).
+- 2022-07-14 — House amendment not agreed to: On agreeing to the Torres (CA) amendment (A021) Failed by the Yeas and Nays: 209 - 217 (Roll no. 328).
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered
+- 2022-07-14 — House amendment offered/reported by: Amendment (A030) offered by Ms. Jayapal.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A031) offered by Ms. Speier.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A032) offered by Mr. Pallone.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A033) offered by Ms. Ross.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A034) offered by Mr. Garamendi.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A035) offered by Mr. Langevin.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A036) offered by Mr. Schiff.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A037) offered by Mr. Green, Al (TX).
+- 2022-07-14 — House amendment offered/reported by: Amendment (A038) offered by Mr. Schiff.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A039) offered by Mr. Connolly.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A040) offered by Mr. Neguse.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A041) offered by Ms. DeGette.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A042) offered by Mr. Evans.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A043) offered by Mr. Connolly.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A044) offered by Mr. Smith (WA).
+- 2022-07-14 — House amendment offered/reported by: Amendment (A045) offered by Ms. Meng.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A046) offered by Mr. Takano.
+- 2022-07-14 — House amendment offered/reported by: Amendment (A047) offered by Ms. Wild.
+- 2022-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-14 — On agreeing to the Aguilar amendment (A020) Agreed to by the Yeas and Nays: 217 - 206 (Roll no. 327). (consideration: CR H6587)
+- 2022-07-14 — On agreeing to the Bowman amendment (A028) Failed by the Yeas and Nays: 155 - 273 (Roll no. 335). (consideration: CR H6592-6593)
+- 2022-07-14 — On agreeing to the Connolly amendment (A039) Agreed to by the Yeas and Nays: 215 - 201 (Roll no. 344). (consideration: CR H6599-6600)
+- 2022-07-14 — On agreeing to the Connolly amendment (A043) Failed by the Yeas and Nays: 170 - 257 (Roll no. 348). (consideration: CR H6603-6604)
+- 2022-07-14 — On agreeing to the DeGette amendment (A041) Agreed to by the Yeas and Nays: 219 - 207 (Roll no. 346). (consideration: CR H6601-6602)
+- 2022-07-14 — On agreeing to the Evans amendment (A042) Agreed to by the Yeas and Nays: 220 - 206 (Roll no. 347). (consideration: CR H6602-6603)
+- 2022-07-14 — On agreeing to the Garamendi amendment (A034) Failed by the Yeas and Nays: 195 - 232 (Roll no. 340). (consideration: CR H6596-6597)
+- 2022-07-14 — On agreeing to the Green, Al (TX) amendment (A037) Agreed to by the Yeas and Nays: 216 - 208 (Roll no. 343). (consideration: CR H6599)
+- 2022-07-14 — On agreeing to the Jayapal amendment (A030) Failed by the Yeas and Nays: 207 - 219 (Roll no. 337). (consideration: CR H6594-6595)
+- 2022-07-14 — On agreeing to the Keating amendment (A029) Failed by the Yeas and Nays: 208 - 217 (Roll no. 336). (consideration: CR H6593-6594)
+- 2022-07-14 — On agreeing to the Langevin amendment Agreed to by the Yeas and Nays: 226 - 201 (Roll no. 341). (consideration: CR H6597-6598)
+- 2022-07-14 — On agreeing to the Levin (MI) amendment (A023) Agreed to by the Yeas and Nays: 233 - 196 (Roll no. 330). (consideration: CR H6589)
+- 2022-07-14 — On agreeing to the Meng amendment (A045) Agreed to by the Yeas and Nays: 243 - 187 (Roll no. 349). (consideration: CR H6604)
+- 2022-07-14 — On agreeing to the Neguse amendment (A040) Agreed to by the Yeas and Nays: 214 - 201 (Roll no. 345). (consideration: CR H6600-6601)
+- 2022-07-14 — On agreeing to the Pallone amendment (A032) Agreed to by the Yeas and Nays: 244 - 179 (Roll no. 339). (consideration: CR H6595-6596)
+- 2022-07-14 — On agreeing to the Ross amendment (A033) Agreed to by voice vote.
+- 2022-07-14 — On agreeing to the Schiff amendment (A036) Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 342). (consideration: CR H6598-6599)
+- 2022-07-14 — On agreeing to the Smith (WA) amendment (A044) Agreed to by voice vote.
+- 2022-07-14 — On agreeing to the Smith (WA) amendments (A025) as modified Agreed to by the Yeas and Nays: 330 - 99 (Roll no. 332). (consideration: CR H6590-6591)
+- 2022-07-14 — On agreeing to the Smith (WA) amendments (A026) Agreed to by the Yeas and Nays: 362 - 64 (Roll no. 333). (consideration: CR H6591-6592)
+- 2022-07-14 — On agreeing to the Smith (WA) amendments (A027) Agreed to by the Yeas and Nays: 277 - 150 (Roll no. 334). (consideration: CR H6592)
+- 2022-07-14 — On agreeing to the Speier amendment (A022) Agreed to by the Yeas and Nays: 216 - 211 (Roll no. 329). (consideration: CR H6588-6589)
+- 2022-07-14 — On agreeing to the Speier amendment (A024) Agreed to by the Yeas and Nays: 226 - 203 (Roll no. 331). (consideration: CR H6589-6590)
+- 2022-07-14 — On agreeing to the Speier amendment (A031) Agreed to by the Yeas and Nays: 222 - 195 (Roll no. 338). (consideration: CR H6595)
+- 2022-07-14 — On agreeing to the Takano amendment (A046) Agreed to by voice vote.
+- 2022-07-14 — On agreeing to the Torres (CA) amendment (A021) Failed by the Yeas and Nays: 209 - 217 (Roll no. 328). (consideration: CR H6587-6588)
+- 2022-07-14 — On agreeing to the Wild amendment (A047) Agreed to by voice vote.
+- 2022-07-14 — On passage Passed by the Yeas and Nays: 329 - 101 (Roll no. 350).
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Al Green amendment No. 448, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Graves (LA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment No. 454, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice (GA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment No. 495, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Burchett demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Degette amendment No. 456, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Westerman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Evans amendment No. 461, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 410, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gohmert demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment No. 392, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Keating amendment No. 391, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment No. 426, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. McClintock demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meng amendment No. 587, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Bost demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neguse amendment No. 455, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Westerman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment No. 399, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Sessions demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment No. 447, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment No. 451, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Burchett demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment No. 395, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7900 was postponed until a time to be announced.
+- 2022-07-14 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7900 was postponed until a time to be announced.
+- 2022-07-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 329 - 101 (Roll no. 350).
+- 2022-07-14 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration on H.R. 7900.
+- 2022-07-14 — Pursuant to clause 1(c) of Rule XIX, the House resumed with further consideration of H.R. 7900.
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — Roll call votes on amendments in House
+- 2022-07-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 7900.
+- 2022-07-14 — The previous question was ordered on the amendment (A029) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A030) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A031) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A032) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A033) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A034) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A035) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A036) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A037) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A038) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A039) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A040) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A041) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A042) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A043) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A044) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A045) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A046) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered on the amendment (A047) pursuant to the rule.
+- 2022-07-14 — The previous question was ordered pursuant to the rule.
+- 2022-07-14 — The title of the measure was amended. Agreed to without objection.
+- 2022-07-14 — VACATING THE YEAS AND NAYS ON AMENDMENT NO. 451 - Mr. Malinowski asked unanimous consent that the ordering of the yeas and nays on amendment numbered 451 printed in Part A of House Report 117-405 be vitiated to the end that the amendment be withdrawn. Agreed to without objection.
