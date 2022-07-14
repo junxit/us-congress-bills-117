@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 59
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, on September 21, 2021, some members of the military reportedly attempted a coup d’état against the transitional government, which failed to depose the government but succeeded in precipitating the most serious political crisis of the transition period;
 - Whereas, on October 21, 2021, hundreds of thousands of people across Sudan demonstrated in support of democratic civilian rule, to counter a smaller protest days prior demanding the military take complete control of the government;
 - Whereas, on October 25, 2021, Lieutenant General Burhan, with the support of General Mohamed Hamdan Dagalo, also known as “Hemedti”, seized control of the government, deployed the military to the streets of Khartoum and Omdurman, and arrested and detained Prime Minister Hamdok and other civilian officials;
-- Whereas the African Union Peace and Security Council convened on October 27, 2021, strongly condemned the coup, reaffirmed the mandate of the CLTG, and subsequently suspended Sudan from the regional body “with immediate effect … until the effective restoration” of the CLTG;
+- Whereas the African Union Peace and Security Council convened on October 27, 2021, strongly condemned the coup, reaffirmed the mandate of the CLTG, and subsequently suspended Sudan from the regional body “with immediate effect * * * until the effective restoration” of the CLTG;
 - Whereas the actions of Lieutenant General Burhan and the Sudanese military violate Sudan’s Constitutional Charter and threaten to plunge Sudan into isolation and instability;
 - Whereas the United States Government publicly condemned the coup, suspended its foreign assistance to Sudan, and urged Lieutenant General Burhan and his accomplices to restore the CLTG and return Sudan to the path to democracy; and
 - Whereas, the Troika (the United States, United Kingdom, Norway), the European Union, and Switzerland “continue to recognize the Prime Minister and his cabinet as the constitutional leaders of the transitional government” and “confirm once again the international calls for the immediate return to the roadmap for democratic transition of Sudan”: Now, therefore, be it
