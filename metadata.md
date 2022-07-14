@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 98
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 98
@@ -25,3 +25,4 @@ Directing the Secretary of the Senate to make a correction in the enrollment of 
 - 2022-07-13 — Mr. Takano asked unanimous consent to consider as introduced.
 - 2022-07-13 — On agreeing to the resolution Agreed to without objection. (text: CR H6025)
 - 2022-07-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2022-07-14 — Received in the Senate.
