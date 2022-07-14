@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2107
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,100 +13,124 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Nation’s Oldest Port National Heritage Area Act”.
 
-## § 2. Congressional findings
+## § 2. Definitions
 
-Congress finds the following:
+In this Act:
 
-- **(1)** The Nation’s Oldest Port region of northeast Florida holds a mosaic of cultures and maritime heritage that includes Native Americans, whose heritage reaches back some 9,000 years, and the descendants of European and American explorers and settlers, who shaped the region, its land, customs, and traditions from 1513 to the present day and have made indelible contributions to American and World history.
-- **(2)** The Nation’s Oldest Port region expresses a combination of cultures, maritime heritage, Atlantic and World history, cultural diversity, traditions, arts, architecture, transportation corridors, and coastal and ocean resources that makes this geographic area a unique and distinctive coastal landscape in the United States.
-- **(3)** The area contains the Nation’s Oldest Port, and a series of interconnected waterways that include the St. Mary’s River, the St. Johns River, Tolomato and Matanzas Rivers, Pellicer Creek watershed, and the numerous diverse and spectacular historic, cultural, natural, scenic and recreational resources, including the designated national treasures of Timucuan Ecological and Historical Preserve, Guana Tolomato Matanzas National Estuarine Research Reserve, the Castillo de San Marcos National Monument, and Fort Matanzas National Monument.
-- **(4)** There is broad support expressed as resolutions, letters, and in public meetings from local governments, State parks, and many local planning and community groups, chambers of commerce, business associations, museums, historical societies and associations, nature conservation groups, agricultural interests, private property owners, and other interested individuals to establish a National Heritage Area to coordinate and to assist in the preservation, interpretation, promotion, and enjoyment of these resources.
-- **(5)** Establishment of a National Heritage Area in northeast Florida would assist local communities, residents, and property owners in preserving these unique and nationally distinctive cultural, historical, and natural resources.
+- **(1)** *National heritage area* The term “National Heritage Area” means the Nation’s Oldest Port National Heritage Area established by section 3(a).
+- **(2)** *Local coordinating entity* The term “local coordinating entity” means the local coordinating entity for the National Heritage Area.
+- **(3)** *Management plan* The term “management plan” means the management plan for the National Heritage Area required under section 5(a).
+- **(4)** *Map* The term “map” means the map entitled “Nation’s Oldest Port National Heritage Area Proposed Boundary Map”, numbered 524/173745 and dated October 2020.
+- **(5)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(6)** *State* The term “State” means the State of Florida.
 
-## § 3. Definitions
+## § 3. Establishment of the nation’s oldest port national heritage area
 
-As used in this Act:
+- **(a)** *In general* There is established the Nation’s Oldest Port National Heritage Area in the State of Florida, to consist of natural watersheds in Nassau, Duval, St. Johns, and Flagler counties in the State, as generally depicted on the map.
+- **(b)** *Local coordinating entity* The Nation’s Oldest Port Heritage Area Alliance, Inc., shall serve as the local coordinating entity for the National Heritage Area.
 
-- **(1)** *Heritage Area* The term heritage area means the Nation’s Oldest Port National Heritage Area.
-- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(3)** *Coordinating entity* The term coordinating entity means the Nation’s Oldest Port Heritage Area Alliance, Inc.
+## § 4. Administration
 
-## § 4. Nation’s oldest port national heritage area
+- **(a)** *Authorities* For purposes of carrying out the management plan for the National Heritage Area, the Secretary acting through the local coordinating entity may use amounts made available under this Act—
+  - **(1)** to make grants to the State or a political subdivision of the State, Indian Tribes, nonprofit organizations, and other persons;
+  - **(2)** to enter into cooperative agreements with, or provide technical assistance to, the State or a political subdivision of the State, Indian Tribes, nonprofit organizations, and other interested parties;
+  - **(3)** to hire and compensate staff, which shall include individuals with expertise in natural, cultural, and historical resources protection and heritage programming;
+  - **(4)** to obtain money or services from any source, including any money or services that are provided under any other Federal law or program, provided that any money specifically authorized for National Heritage areas shall be subject to a 50 percent cost-share requirement;
+  - **(5)** to contract for goods or services; and
+  - **(6)** to undertake or be a catalyst for any other activity that furthers the purposes of the National Heritage Area and is consistent with the approved management plan.
+- **(b)** *Duties* The local coordinating entity for the National Heritage Area shall—
+  - **(1)** in accordance with section 5, prepare and submit a management plan for the National Heritage Area to the Secretary;
+  - **(2)** assist Federal agencies, the State or a political subdivision of the State, Indian Tribes, regional planning organizations, nonprofit organizations, and other interested parties in carrying out the approved management plan by—
+    - **(A)** carrying out programs and projects that recognize, protect, and enhance important resource values in the National Heritage Area;
+    - **(B)** establishing and maintaining interpretive exhibits and programs in the National Heritage Area;
+    - **(C)** developing recreational, interpretive, and educational opportunities in the National Heritage Area;
+    - **(D)** increasing public awareness of, and appreciation for, natural, historical, scenic, and cultural resources of the National Heritage Area;
+    - **(E)** protecting and restoring historic sites and buildings in the National Heritage Area that are consistent with the themes of the National Heritage Area;
+    - **(F)** ensuring that clear, consistent, and appropriate signs identifying points of public access and sites of interest are posted throughout the National Heritage Area; and
+    - **(G)** promoting a wide range of partnerships among the Federal Government, State, Tribal, and local governments, organizations, and individuals to further the purposes of the National Heritage Area;
+  - **(3)** consider the interests of diverse units of government, businesses, organizations, and individuals in the National Heritage Area in the preparation and implementation of the management plan;
+  - **(4)** conduct meetings open to the public not less frequently than semiannually regarding the development and implementation of the management plan; and
+  - **(5)** for any year that Federal funds have been received under this Act—
+    - **(A)** submit to the Secretary an annual report that describes the activities, expenses, and income of the local coordinating entity (including grants to any other entities during the year that the report is made);
+    - **(B)** make available to the Secretary for audit all records relating to the expenditure of the funds and any matching funds; and
+    - **(C)** encourage by appropriate means economic viability that is consistent with the National Heritage Area.
+- **(c)** *Prohibition on the acquisition of real property* The local coordinating entity shall not use Federal funds to acquire real property or any interest in real property.
 
-- **(a)** *Establishment* There is hereby established the Nation’s Oldest Port National Heritage Area in the State of Florida.
-- **(b)** *Boundaries* The heritage area shall include natural watersheds in Nassau, Duval, St. Johns, and Flagler counties, Florida, as depicted on the map, entitled “Nation’s Oldest Port National Heritage Area”, numbered __, and dated __.
-- **(c)** *Coordinating entity*
-  - **(1)** *In general* The Nation’s Oldest Port Heritage Area Alliance, Inc., a nonprofit organization which is exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986, chartered in the State of Florida, shall serve as the coordinating entity for the heritage area.
-  - **(2)** *Board of Directors* The board of directors of the coordinating entity shall be—
-    - **(A)** selected in accordance with the bylaws of the coordinating entity, which have been approved by the heritage area working group; and
-    - **(B)** responsible for planning, fundraising, staff oversight, and final selection of projects and programs supported by the heritage area.
-  - **(3)** *Committees* The board of directors may establish committees to—
-    - **(A)** advise and assist the board of directors of the coordinating entity;
-    - **(B)** represent a broad range of local interests, such as municipalities, culture, arts, architecture, agriculture, archaeology, historic preservation, maritime heritage, nature conservation, education, parks, outdoor recreation, tourism, economic development, lodging, restaurants, transportation, private landowners, and water quality;
-    - **(C)** review and suggest projects and programs for funding and other assistance from the heritage area; and
-    - **(D)** identify potential partnerships between the heritage area and government agencies, nonprofits, the private sector, and other local stakeholders to help achieve long-term goals.
-- **(d)** *Authorities of local coordinating entity* The local coordinating entity may, for purposes of preparing and implementing the management plan—
-  - **(1)** prepare reports, studies, interpretive exhibits and programs, historic preservation projects, and other activities recommended in the management plan for the Heritage Area;
-  - **(2)** make grants to the State, political subdivisions of the State, nonprofit organizations, and other persons;
-  - **(3)** enter into cooperative agreements with the State, political subdivisions of the State, nonprofit organizations, and other organizations;
-  - **(4)** hire and compensate staff;
-  - **(5)** obtain funds or services from any source, including funds and services provided under any Federal program or law, in which case the Federal share of the cost of any activity assisted using Federal funds provided for National Heritage Areas shall not be more than 50 percent; and
-  - **(6)** contract for goods and services.
+## § 5. Management plan
 
-## § 5. Authority and duties of the coordinating entity
+- **(a)** *In general* Not later than 3 years after the date of enactment of this Act, the local coordinating entity of the National Heritage Area shall submit to the Secretary for approval a proposed management plan for the National Heritage Area.
+- **(b)** *Requirements* The management plan shall—
+  - **(1)** incorporate an integrated and cooperative approach for the protection, enhancement, and interpretation of the natural, cultural, historic, scenic, and recreational resources of the National Heritage Area;
+  - **(2)** take into consideration Federal, State, local, and Tribal plans and treaty rights;
+  - **(3)** include—
+    - **(A)** an inventory of—
+      - **(i)** the resources located in the National Heritage Area; and
+      - **(ii)** any other property in the National Heritage Area that—
+        - **(I)** is related to the themes of the National Heritage Area; and
+        - **(II)** should be preserved, restored, managed, or maintained because of the significance of the property;
+    - **(B)** comprehensive policies, strategies, and recommendations for the conservation, funding, management, and development of the National Heritage Area;
+    - **(C)** a description of activities that the Federal Government, State, Tribal, and local governments, private organizations, and individuals have agreed to carry out to protect the natural, historical, cultural, scenic, and recreational resources of the National Heritage Area;
+    - **(D)** a program of implementation for the management plan by the local coordinating entity that includes a description of—
+      - **(i)** actions to facilitate ongoing collaboration among partners to promote plans for resource protection, restoration, and construction; and
+      - **(ii)** specific commitments for implementation that have been made by the local coordinating entity or any unit of government, organization, or individual for the first 5 years of operation;
+    - **(E)** the identification of sources of funding for carrying out the management plan;
+    - **(F)** analysis and recommendations for means by which Federal, State, local, and Tribal programs, including the role of the National Park Service in the National Heritage Area, may best be coordinated to carry out this Act; and
+    - **(G)** an interpretive plan for the National Heritage Area; and
+  - **(4)** recommend policies and strategies for resource management that consider and detail the application of appropriate land and water management techniques, including the development of intergovernmental and interagency cooperative agreements to protect the natural, historical, cultural, educational, scenic, and recreational resources of the National Heritage Area.
+- **(c)** *Deadline* If a proposed management plan is not submitted to the Secretary by the date that is 3 years after the date of enactment of this Act, the local coordinating entity shall be ineligible to receive additional funding under this Act until the date on which the Secretary approves the management plan.
+- **(d)** *Approval or disapproval of management plan*
+  - **(1)** *In general* Not later than 180 days after the date of receipt of the management plan required under this section, the Secretary, in consultation with State and Tribal governments, shall approve or disapprove the management plan.
+  - **(2)** *Criteria for approval* In determining whether to approve the management plan, the Secretary shall consider whether—
+    - **(A)** the local coordinating entity is representative of the diverse interests of the National Heritage Area, including Federal, State, Tribal, and local governments, natural and historic resource protection organizations, educational institutions, businesses, and recreational organizations;
+    - **(B)** the local coordinating entity has afforded adequate opportunity, including public hearings, for public and governmental involvement in the preparation of the management plan; and
+    - **(C)** the resource protection and interpretation strategies contained in the management plan, if implemented, would adequately protect the natural, historical, and cultural resources of the National Heritage Area.
+  - **(3)** *Action following disapproval* If the Secretary disapproves the management plan under paragraph (1), the Secretary shall—
+    - **(A)** advise the local coordinating entity in writing of the reasons for the disapproval;
+    - **(B)** make recommendations for revisions to the management plan; and
+    - **(C)** not later than 180 days after the receipt of any proposed revision of the management plan from the local coordinating entity, approve or disapprove the proposed revision.
+  - **(4)** *Amendments*
+    - **(A)** *In general* The Secretary shall approve or disapprove each amendment of the management plan that the Secretary determines make a substantial change to the management plan.
+    - **(B)** *Use of funds* The local coordinating entity shall not use Federal funds to carry out any amendment to the management plan until the Secretary has approved the amendment.
 
-- **(a)** *Management plan*
-  - **(1)** *Requirement for plan* Not later than 3 years after the date on which funds are first made available to carry out this Act, the coordinating entity shall develop and forward to the Secretary a management plan for the heritage area. The management plan shall, at a minimum—
-    - **(A)** provide recommendations for the conservation, funding, management, and development of the resources of the heritage area;
-    - **(B)** identify sources of funding for the heritage area;
-    - **(C)** include an inventory of the cultural, historical, archaeological, natural, and recreational resources of the heritage area;
-    - **(D)** provide recommendations for educational and interpretive programs to inform the public about the resources of the heritage area; and
-    - **(E)** include an analysis of ways in which local, State, Federal, and tribal programs may best be coordinated to promote the purposes of this Act.
-  - **(2)** *Fiscal agent* The St. Augustine Lighthouse and Museum has been designated as the fiscal agent for the heritage area. As such, the St. Augustine Lighthouse and Museum shall receive 10 percent of funding received by the heritage area for the initial 5 years of the existence of the heritage area to partially offset costs incurred by the St Augustine Lighthouse and Museum during the formation of the heritage area.
-  - **(3)** *Cooperative development and implementation* The coordinating entity shall develop and implement the management plan in cooperation with affected communities and local governments and shall provide for public involvement in the development and implementation of the management plan.
-  - **(4)** *Effect of noncompliance* If the coordinating entity fails to submit a management plan to the Secretary as required by paragraph (1), the heritage area shall no longer be eligible to receive Federal funding under this Act until such time as a plan is submitted to the Secretary.
-  - **(5)** *Timeline for approval of plan* The Secretary shall approve or disapprove the management plan not later than 180 days after the date of its submission. If the Secretary disapproves the management plan, the Secretary shall advise the coordinating entity in writing of the reasons therefore and shall make recommendations for revisions to the plan.
-  - **(6)** *Revisions to plan* The coordinating entity shall periodically review the management plan and submit to the Secretary any recommendations for proposed revisions to the management plan. Any major revisions to the management plan must be approved by the Secretary.
-  - **(7)** *Approval of revisions* The Secretary shall review and approve or disapprove substantial amendments to the management plan in accordance with paragraph (5).
-- **(b)** *Authority To provide assistance* The coordinating entity may make grants and provide technical assistance to local governments, and other public and private entities to carry out the management plan.
-- **(c)** *Duties* The coordinating entity shall—
-  - **(1)** give priority in implementing actions set forth in the management plan;
-  - **(2)** coordinate with Tribal and local governments to better enable them to adopt policies consistent with the goals of the management plan;
-  - **(3)** encourage, by appropriate means, economic viability in the heritage area consistent with the goals of the management plan; and
-  - **(4)** assist Tribal and local governments, nonprofit organizations, and private landowners in—
-    - **(A)** establishing and maintaining interpretive exhibits in the heritage area;
-    - **(B)** developing outdoor recreational resources in the heritage area;
-    - **(C)** increasing public awareness of, and appreciation for, the natural, cultural, historical, archaeological, scenic, and outdoor recreational resources and sites in the heritage area;
-    - **(D)** the preservation and rehabilitation of historic structures, archaeological sites, and natural resources related to the heritage area;
-    - **(E)** promoting cultural, traditional, and nature-themed events and attractions in the heritage area; and
-    - **(F)** carrying out other actions that the coordinating entity determines appropriate to fulfill the purposes of this Act, consistent with the management plan.
-- **(d)** *Prohibition on acquiring real property* The coordinating entity may not use Federal funds received under this Act to acquire real property or an interest in real property.
-- **(e)** *Public meetings* The coordinating entity shall hold public meetings at least annually regarding the implementation of the management plan.
-- **(f)** *Annual reports and audits*
-  - **(1)** *Annual reports* For any year in which the management entity receives Federal funds under this Act, the coordinating entity shall submit an annual report to the Secretary setting forth accomplishments, expenses and income, and each entity to which any grant was made by the management entity.
-  - **(2)** *Audit* The management entity shall make available to the Secretary for audit all records relating to the expenditure of Federal funds and any matching funds. The management entity shall also require, for all agreements authorizing expenditure of Federal funds by other organizations, that the receiving organization make available to the Secretary for audit all records concerning the expenditure of those funds.
+## § 6. Relationship to other Federal agencies
 
-## § 6. Duties of the secretary
+- **(a)** *In general* Nothing in this Act affects the authority of a Federal agency to provide technical or financial assistance under any other law.
+- **(b)** *Consultation and coordination* The head of any Federal agency planning to conduct activities that may have an impact on the National Heritage Area is encouraged to consult and coordinate the activities with the Secretary and the local coordinating entity to the maximum extent practicable.
+- **(c)** *Other federal agencies* Nothing in this Act—
+  - **(1)** modifies, alters, or amends any law or regulations authorizing a Federal agency to manage Federal land under the jurisdiction of the Federal agency;
+  - **(2)** limits the discretion of a Federal land manager to implement an approved land use plan within the boundaries of the National Heritage Area; or
+  - **(3)** modifies, alters, or amends any authorized use of Federal land under the jurisdiction of a Federal agency.
 
-- **(a)** *Technical and financial assistance* The Secretary may, upon request of the coordinating entity, provide technical and financial assistance to develop and implement the management plan.
-- **(b)** *Priority* In providing assistance under subsection (a), the Secretary shall give priority to actions that facilitate—
-  - **(1)** the conservation and promotion of the significant natural, cultural, historical, archaeological, scenic, and outdoor recreational resources of the heritage area; and
-  - **(2)** the provision of educational, interpretive, and recreational opportunities consistent with the resources and associated values of the heritage area.
+## § 7. Private property and regulatory protections
 
-## § 7. Private property protection
+Nothing in this Act—
 
-- **(a)** *Access to private property* Nothing in this Act shall be construed to—
-  - **(1)** require any private property owner to permit public access, including Federal, State, or local government access, to such private property; or
-  - **(2)** modify any provision of Federal, State, or local law with regard to public access to or use of private lands.
-- **(b)** *Liability* Designation of the heritage area shall not be considered to create any liability, or to have any effect on any liability under any other law, of any private property owner with respect to any persons injured on such private property.
-- **(c)** *Recognition of authority To control land use* Nothing in this Act shall be construed to modify, enlarge, or diminish any authority of Federal, State, Tribal, or local governments to regulate land use.
-- **(d)** *Trust responsibilities* Nothing in this Act shall diminish the Federal Government’s trust responsibilities or government-to-government obligations to a federally recognized Indian Tribe.
-- **(e)** *Tribal lands* Nothing in this Act shall restrict or limit a federally recognized Indian Tribe from protecting cultural or religious sites on tribal lands.
-- **(f)** *Participation of private property owners in heritage area* Nothing in this Act shall be construed to require the owner of any private property located within the boundaries of the heritage area to participate in or be associated with the heritage area.
-- **(g)** *Effect of establishment* The boundaries designated for the heritage area represent the area within which Federal funds appropriated for the purpose of this Act shall be expended. The establishment of the heritage area and its boundaries shall not be construed to provide any non-existing regulatory authority on land use or water use within the heritage area or its viewshed by the Secretary or the coordinating entity.
-- **(h)** *Notification and consent of property owners required* No privately owned property shall be preserved, conserved, or promoted by the management plan for the heritage area until the owner of that private property has been notified in writing by the coordinating entity and has given written consent for such preservation, conservation, or promotion to the coordinating entity.
-- **(i)** *Landowner withdrawal* Any owner of private property located within the boundary of the heritage area shall have their property immediately removed from inclusion in the heritage area by submitting a written request to the coordinating entity.
+- **(1)** abridges the rights of any property owner (whether public or private), including the right to refrain from participating in any plan, project, program, or activity conducted within the National Heritage Area;
+- **(2)** requires any property owner—
+  - **(A)** to permit public access (including access by Federal, State, or local agencies) to the property of the property owner; or
+  - **(B)** to modify public access or use of property of the property owner under any other Federal, State, or local law;
+- **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, Tribal, or local agency;
+- **(4)** conveys any land use or other regulatory authority to the local coordinating entity;
+- **(5)** authorizes or implies the reservation or appropriation of water or water rights;
+- **(6)** enlarges or diminishes the treaty rights of any Indian Tribe within the National Heritage Area;
+- **(7)** diminishes—
+  - **(A)** the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting, within the National Heritage Area; or
+  - **(B)** the authority of Indian Tribes to regulate members of Indian Tribes with respect to fishing, hunting, and gathering in the exercise of treaty rights; or
+- **(8)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
-## § 8. Sunset
+## § 8. Evaluation and report
 
-The authority of the Secretary to provide assistance under this Act terminates on the date that is 15 years after the date of the enactment of this Act.
+- **(a)** *In general* For the National Heritage Area, not later than 3 years before the date specified under section 9, the Secretary shall—
+  - **(1)** conduct an evaluation of the accomplishments of the National Heritage Area; and
+  - **(2)** prepare a report in accordance with subsection (c).
+- **(b)** *Evaluation* An evaluation conducted under subsection (a)(1) shall—
+  - **(1)** assess the progress of the local coordinating entity with respect to—
+    - **(A)** accomplishing the purposes of the National Heritage Area; and
+    - **(B)** achieving the goals and objectives of the approved management plan for the National Heritage Area;
+  - **(2)** analyze the investments of the Federal Government, State, Tribal, and local governments, and private entities in the National Heritage Area to determine the impact of the investments; and
+  - **(3)** review the management structure, partnership relationships, and funding of the National Heritage Area for purposes of identifying the critical components for sustainability of the National Heritage Area.
+- **(c)** *Report* Based on the evaluation conducted under subsection (a)(1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that includes recommendations for the future role of the National Park Service, if any, with respect to the National Heritage Area.
+
+## § 9. Termination of authority
+
+The authority of the Secretary to provide assistance under this Act terminates on the date that is 15 years after the date of enactment of this Act.
