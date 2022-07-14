@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7174
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7174
@@ -38,10 +38,11 @@ National Computer Forensics Institute Reauthorization Act of 2022
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ National Computer Forensics Institute Reauthorization Act of 2022
 - 2022-07-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 305). (text: 06/21/2022 CR H5691-5692)
 - 2022-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 16 (Roll no. 305).
+- 2022-07-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
