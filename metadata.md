@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5659
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5659
@@ -80,3 +80,13 @@ To designate the facility of the United States Postal Service located at 1961 No
 - 2021-10-21 — Introduced in House
 - 2021-10-21 — Introduced in House
 - 2021-10-21 — Referred to the House Committee on Oversight and Reform.
+- 2021-12-02 — Committee Consideration and Mark-up Session Held.
+- 2021-12-02 — Ordered to be Reported by Unanimous Consent.
+- 2022-07-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-12 — Considered under suspension of the rules. (consideration: CR H5962-5963)
+- 2022-07-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5659.
+- 2022-07-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-07-14 — Considered as unfinished business. (consideration: CR H6611)
+- 2022-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 348 - 63, 5 Present (Roll no. 358). (text: 07/12/2022 CR H5963)
+- 2022-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 348 - 63, 5 Present (Roll no. 358).
