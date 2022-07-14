@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6538
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6538
@@ -81,9 +81,10 @@ Active Shooter Alert Act of 2022
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -118,3 +119,4 @@ Active Shooter Alert Act of 2022
 - 2022-07-13 — Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
 - 2022-07-13 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
 - 2022-07-13 — The previous question was ordered pursuant to the rule.
+- 2022-07-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
