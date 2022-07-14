@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3222
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3222
@@ -16,7 +16,7 @@ Alabama Black Belt National Heritage Area Act
 
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Cosponsors (7)
+## Cosponsors (13)
 
 - Rep. Carl, Jerry L. [R-AL-1] (C001054)
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
@@ -25,6 +25,12 @@ Alabama Black Belt National Heritage Area Act
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Moore, Barry [R-AL-2] (M001212)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Costa, Jim [D-CA-16] (C001059)
 
 ## Committees (1)
 
@@ -35,3 +41,11 @@ Alabama Black Belt National Heritage Area Act
 - 2021-05-13 — Introduced in House
 - 2021-05-13 — Introduced in House
 - 2021-05-13 — Referred to the House Committee on Natural Resources.
+- 2021-06-14 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-06-15 — Subcommittee Hearings Held.
+- 2021-10-13 — Committee Consideration and Mark-up Session Held.
+- 2021-10-13 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2021-10-13 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-07-14 — Placed on the Union Calendar, Calendar No. 318.
+- 2022-07-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-411.
+- 2022-07-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-411.
