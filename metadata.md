@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1286
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1286
@@ -16,7 +16,7 @@ Southern Campaign of the Revolution National Heritage Corridor Act of 2021
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -28,6 +28,7 @@ Southern Campaign of the Revolution National Heritage Corridor Act of 2021
 - Rep. Price, David E. [D-NC-4] (P000523)
 - Rep. Bishop, Dan [R-NC-9] (B001311)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 
 ## Committees (1)
 
@@ -38,3 +39,11 @@ Southern Campaign of the Revolution National Heritage Corridor Act of 2021
 - 2021-02-24 — Introduced in House
 - 2021-02-24 — Introduced in House
 - 2021-02-24 — Referred to the House Committee on Natural Resources.
+- 2021-03-25 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-06-15 — Subcommittee Hearings Held.
+- 2021-10-13 — Committee Consideration and Mark-up Session Held.
+- 2021-10-13 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2021-10-13 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-07-14 — Placed on the Union Calendar, Calendar No. 315.
+- 2022-07-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-408.
+- 2022-07-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-408.
