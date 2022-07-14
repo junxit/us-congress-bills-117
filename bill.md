@@ -2,7 +2,7 @@
 legis-num: H. RES. 892
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 892
@@ -13,11 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas, in August 2020, Rwandan political activist Paul Rusesabagina, a United States lawful permanent resident and a Presidential Medal of Freedom Honoree, was extrajudicially transferred from Texas to Kigali, Rwanda, by way of the United Arab Emirates, and subjected to an enforced disappearance for three days before the Government of the Republic of Rwanda acknowledged his detention, during which time he was reportedly tortured;
 - Whereas, in December 2020, more than 36 Members of Congress wrote to President Paul Kagame to urge him to return Paul Rusesabagina to the United States and expressed grave concern with the manner in which the Government of Rwanda extrajudicially transferred Mr. Rusesabagina from the United Arab Emirates to Rwanda and then immediately placed him in solitary confinement and charged him with multiple crimes;
-- Whereas, on February 11, 2021, the European Parliament adopted a resolution on “Rwanda, the case of Paul Rusesabagina”, which in part “[e]xpresses deep concern about the violations of Mr Rusesabagina’s rights; urges the Rwandan authorities to allow Mr Rusesabagina to undergo a fair and public hearing by a competent, independent and impartial tribunal applying international human rights standards …”;
-- Whereas the American Bar Association’s Center for Human Rights’ June 2021 report “The Case of Paul Rusesabagina” concluded that, “it is clear that Mr. Rusesabagina’s fair trial rights – in particular his right to confidential communication, his right to the presumption of innocence, and his right to prepare his defense – have been violated, potentially to the irreparable prejudice of the defense, calling into question the fairness of any potential convicting verdict”;
+- Whereas, on February 11, 2021, the European Parliament adopted a resolution on “Rwanda, the case of Paul Rusesabagina”, which in part “[e]xpresses deep concern about the violations of Mr Rusesabagina’s rights; urges the Rwandan authorities to allow Mr Rusesabagina to undergo a fair and public hearing by a competent, independent and impartial tribunal applying international human rights standards * * *”;
+- Whereas the American Bar Association’s Center for Human Rights’ June 2021 report “The Case of Paul Rusesabagina” concluded that, “it is clear that Mr. Rusesabagina’s fair trial rights—in particular his right to confidential communication, his right to the presumption of innocence, and his right to prepare his defense—have been violated, potentially to the irreparable prejudice of the defense, calling into question the fairness of any potential convicting verdict”;
 - Whereas, on September 20, 2021, the High Court of Rwanda convicted Paul Rusesabagina of terrorism-related offences and he was sentenced to 25 years in prison;
 - Whereas United States Department of State Spokesman Ned Price announced on September 20, 2021, that the United States Government is “concerned by the Government of Rwanda’s conviction of U.S. lawful permanent resident Paul Rusesabagina” and stated that the “reported lack of fair trial guarantees calls into question the fairness of the verdict”;
-- Whereas, on October 7, 2021, the European Parliament adopted a resolution on “The case of Paul Rusesabagina in Rwanda”, which “[c]alls for the immediate release of Mr Rusesabagina on humanitarian grounds and for his repatriation without prejudice to his guilt or innocence; demands that the EU Delegation to Rwanda and the diplomatic representations of the Member States strongly convey this request in their exchanges with the Rwandan authorities”; and
+- Whereas, on October 7, 2021, the European Parliament adopted a resolution on “The case of Paul Rusesabagina in Rwanda”, which “[c]alls for the immediate release of Mr Rusesabagina on humanitarian grounds and for his repatriation without prejudice to his guilt or innocence; demands that the EU Delegation to Rwanda and the diplomatic representations of the Member States strongly convey this request in their exchanges with the Rwandan authorities”;
+- Whereas on May 19, 2022, the Department of State determined that Paul Rusesabagina was “wrongfully detained”, and that “the determination took into account the totality of the circumstances, notably the lack of fair trial guarantees during his trial”, pursuant to the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act (Public Law 116–260); and
 - Whereas Paul Rusesabagina is a cancer survivor and suffers from a cardiovascular disorder and his family states that he has missed multiple medical appointments, including cancer screenings: Now, therefore, be it
 
 That the House of Representatives—
