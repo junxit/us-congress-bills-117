@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5274
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5274
@@ -28,10 +28,11 @@ PREVENT ACT of 2021
 - Rep. Miller-Meeks, Mariannette [R-IA-2] (M001215)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ PREVENT ACT of 2021
 - 2022-07-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 429 - 0 (Roll no. 306). (text: 06/21/2022 CR H5693)
 - 2022-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 429 - 0 (Roll no. 306).
+- 2022-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
