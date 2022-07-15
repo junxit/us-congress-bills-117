@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ensuring Access to Abortion Act of 2022”.
+This Act may be cited as the “Ensuring Women’s Right to Reproductive Freedom Act”.
 
 ## § 2. Interference with interstate abortion services prohibited
 
