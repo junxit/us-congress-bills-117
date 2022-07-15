@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8351
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8351
@@ -16,7 +16,7 @@ Formula Act
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Cosponsors (17)
+## Cosponsors (28)
 
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
@@ -35,6 +35,17 @@ Formula Act
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Smith, Jason [R-MO-8] (S001195)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
 
 ## Committees (1)
 
@@ -45,3 +56,11 @@ Formula Act
 - 2022-07-13 — Introduced in House
 - 2022-07-13 — Introduced in House
 - 2022-07-13 — Referred to the House Committee on Ways and Means.
+- 2022-07-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-15 — Considered as unfinished business. (consideration: CR H6663-6664)
+- 2022-07-15 — Considered under suspension of the rules. (consideration: CR H6629-6631)
+- 2022-07-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8351.
+- 2022-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-15 — Mr. Blumenauer moved to suspend the rules and pass the bill.
+- 2022-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 363). (text: CR H6629)
+- 2022-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 363).
