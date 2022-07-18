@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7693
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7693
@@ -16,7 +16,7 @@ National Park Foundation Reauthorization Act of 2022
 
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Cosponsors (32)
+## Cosponsors (52)
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
@@ -50,6 +50,26 @@ National Park Foundation Reauthorization Act of 2022
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Meijer, Peter [R-MI-3] (M001186)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Obernolte, Jay [R-CA-8] (O000019)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
 
 ## Committees (1)
 
@@ -60,3 +80,14 @@ National Park Foundation Reauthorization Act of 2022
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Referred to the House Committee on Natural Resources.
+- 2022-05-12 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-07-13 — Committee Consideration and Mark-up Session Held.
+- 2022-07-13 — Ordered to be Reported by Unanimous Consent.
+- 2022-07-13 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-07-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-18 — Considered under suspension of the rules. (consideration: CR H6698-6699)
+- 2022-07-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7693.
+- 2022-07-18 — Mr. Huffman moved to suspend the rules and pass the bill.
+- 2022-07-18 — Placed on the Union Calendar, Calendar No. 325.
+- 2022-07-18 — Reported by the Committee on Natural Resources. H. Rept. 117-418.
+- 2022-07-18 — Reported by the Committee on Natural Resources. H. Rept. 117-418.
