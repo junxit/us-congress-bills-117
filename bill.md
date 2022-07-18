@@ -1,0 +1,37 @@
+---
+legis-num: H. RES. 1230
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1230
+
+> Adopting changes to the standing rules, and for other purposes.
+
+## § 1. Separate order
+
+On any legislative day through the remainder of the One Hundred Seventeenth Congress, the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
+
+## § 2. Changes to the standing rules
+
+- **(a)** *Privileged reports by the Committee on Rules* Clause 6(a) of rule XIII is amended—
+  - **(1)** in subparagraph (2), by striking “; or” and inserting a semicolon;
+  - **(2)** by redesignating subparagraph (3) as subparagraph (4); and
+  - **(3)** by inserting after subparagraph (2) the following new subparagraph:
+    > - **(3)** when the proposed text of such a report has been made available to Members, Delegates, and the Resident Commissioner prior to the convening of that legislative day; or
+
+- **(b)** *Suspensions* Clause 1(a) of rule XV is amended by striking the second sentence.
+
+## § 3. Remote voting by proxy
+
+Section 3(s) of House Resolution 8 is amended—
+
+- **(1)** in paragraph (2), by striking “and”;
+- **(2)** in paragraph (3), by striking the period and inserting “; and”; and
+- **(3)** by adding at the end the following new paragraphs:
+  > - **(4)** any reference to “the House” in sections 1(a) and 2(a)(2)(B) shall be construed to include a reference to the Committee of the Whole House on the State of the Union;
+  > - **(5)** section 3(a)(1) shall not apply; and
+  > - **(6)** for purposes of sections 1, 2, and 3 and regulations issued pursuant to section 6, the term Members shall include Delegates and the Resident Commissioner and the term state shall include territories and the District of Columbia, except that—
+  >   - **(A)** nothing in this paragraph authorizes Delegates or the Resident Commissioner to cast a vote in the House or record their presence in the House; and
+  >   - **(B)** Delegates and the Resident Commissioner may only be designated as a proxy by a Delegate or the Resident Commissioner.
