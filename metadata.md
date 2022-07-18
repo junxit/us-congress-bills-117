@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8297
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8297
@@ -227,3 +227,4 @@ Ensuring Access to Abortion Act of 2022
 - 2022-07-15 — Rule provides for consideration of H.R. 7900, S. 3373, H.R. 8296, H.R. 8297 and H.R. 6538 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
 - 2022-07-15 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-07-15 — The previous question was ordered pursuant to the rule.
+- 2022-07-18 — Received in the Senate.
