@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7337
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7337
@@ -40,9 +40,10 @@ Access for Veterans to Records Act
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Access for Veterans to Records Act
 - 2022-07-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 356). (text: 07/12/2022 CR H5951)
 - 2022-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 21 (Roll no. 356).
+- 2022-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
