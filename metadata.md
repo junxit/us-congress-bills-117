@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 59
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 59
@@ -50,3 +50,4 @@ Condemning the October 25, 2021, military coup in Sudan and standing with the pe
 - 2022-07-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 7 (Roll no. 352). (text: 06/21/2022 CR H5709-5710)
 - 2022-07-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 7 (Roll no. 352).
+- 2022-07-18 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
