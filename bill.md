@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6337
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,24 +17,34 @@ This Act may be cited as the “Biking on Long-Distance Trails Act”.
 
 In this Act:
 
-- **(1)** *Federal land* The term Federal land means—
-  - **(A)** land under the jurisdiction of the Secretary; and
-  - **(B)** National Forest System land.
-- **(2)** *Long-distance bike trail* The term long-distance bike trail means a continuous route, consisting of 1 or more trails, that—
-  - **(A)** is not less than 80 miles in length on Federal land;
-  - **(B)** to the maximum extent practicable, makes use of existing trails and roads; and
-  - **(C)** may be used for mountain biking, road biking, touring, or gravel biking.
-- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(4)** *Secretary concerned* The term Secretary concerned means—
-  - **(A)** the Secretary, with respect to land under the jurisdiction of the Secretary; or
-  - **(B)** the Secretary of Agriculture, with respect to National Forest System land.
+- **(1)** *Federal recreational lands* The term “Federal recreational lands” has the meaning given the term “Federal recreational lands and waters” in section 802(5) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801(5)).
+- **(2)** *Long-distance bike trail* The term “long-distance bike trail” means a continuous route, consisting of 1 or more trails or rights-of-way, that—
+  - **(A)** is not less than 80 miles in length;
+  - **(B)** primarily makes use of dirt or natural surface trails;
+  - **(C)** may require connections along paved or other improved roads;
+  - **(D)** does not include Federal recreational lands where mountain biking or related activities are not consistent with management requirements for those Federal recreational lands; and
+  - **(E)** to the maximum extent practicable, makes use of trails and roads that were on Federal recreational lands on or before the date of the enactment of this Act.
+- **(3)** *Secretaries* The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
+- **(4)** *Secretary concerned* The term “Secretary concerned” means the following:
+  - **(A)** The Secretary of the Interior, with respect to Federal recreational lands under the jurisdiction of that Secretary.
+  - **(B)** The Secretary of Agriculture, with respect to Federal recreational lands under the jurisdiction of that Secretary.
 
-## § 3. Long-distance bike trails on federal land
+## § 3. Long-distance bike trails on Federal recreational lands
 
-- **(a)** *Identification of long-Distance trails* The Secretaries concerned shall—
-  - **(1)** identify not fewer than 10 long-distance bike trails, consistent with management requirements for the Federal land identified that make use of trails and roads in existence on the date of enactment of this Act; and
-  - **(2)**
-    - **(A)** identify not fewer than 10 areas in which there is an opportunity to develop or complete long-distance bike trails, consistent with the management requirements for the Federal land identified; and
-    - **(B)** coordinate with stakeholders on the feasibility of, and identifying any resources necessary for, completing the development of the trails identified under subparagraph (A).
-- **(b)** *Maps, signage, and promotional materials* For any long-distance bike trail identified under subsection (a), the Secretary concerned may publish and distribute maps, install signage, and issue promotional materials.
-- **(c)** *Report* Not later than 2 years after the date of enactment of this Act, the Secretaries concerned, in partnership with interested organizations, shall prepare and publish a report that lists the trails identified under subsection (a).
+- **(a)** *Identification of long-distance trails* Not later than 18 months after the date of the enactment of this Act, the Secretaries shall identify—
+  - **(1)** not fewer than 10 long-distance bike trails that make use of trails and roads in existence on the date of the enactment of this Act; and
+  - **(2)** not fewer than 10 areas in which there is an opportunity to develop or complete a trail that would qualify as a long-distance bike trail.
+- **(b)** *Public comment* The Secretaries shall—
+  - **(1)** develop a process to allow members of the public to comment regarding the identification of trails and areas under subsection (a); and
+  - **(2)** consider the identification, development, and completion of long-distance bike trails in a geographically equitable manner.
+- **(c)** *Maps, signage, and promotional materials* For any long-distance bike trail identified under subsection (a), the Secretary concerned may—
+  - **(1)** publish and distribute maps, install signage, and issue promotional materials; and
+  - **(2)** coordinate with stakeholders to leverage any non-Federal resources necessary for the stewardship, development, or completion of trails.
+- **(d)** *Report* Not later than 2 years after the date of the enactment of this Act, the Secretaries, in partnership with interested organizations, shall prepare and publish a report that lists the trails identified under subsection (a), including a summary of public comments received in accordance with the process developed under subsection (b).
+- **(e)** *Conflict avoidance with other uses* The Secretary concerned shall ensure that each long-distance bike trail or area identified under subsection (a)—
+  - **(1)** does not conflict with—
+    - **(A)** the uses, before the date of the enactment of this Act, of any trail or road that is part of that long-distance bike trail;
+    - **(B)** multiple-use areas where biking, hiking, horseback riding, or use by pack and saddle stock are existing uses on the date of the enactment of this Act;
+    - **(C)** the purposes for which any trail was or is established under the National Trails System Act (16 U.S.C. 1241 et seq.); and
+    - **(D)** any area managed under the Wilderness Act (16 U.S.C. 1131 et seq.); and
+  - **(2)** complies with land use and management plans of the Federal recreational lands that are part of that long-distance bike trail.
