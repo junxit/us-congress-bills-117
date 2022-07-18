@@ -1,7 +1,7 @@
 ---
 measure: H.R. 203
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 203
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 4020 Br
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ To designate the facility of the United States Postal Service located at 4020 Br
 - 2022-07-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 35, 4 Present (Roll no. 357). (text: 07/12/2022 CR H5959)
 - 2022-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 35, 4 Present (Roll no. 357).
+- 2022-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
