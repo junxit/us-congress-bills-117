@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1934
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1934
@@ -26,9 +26,10 @@ Promoting United States International Leadership in 5G Act of 2021
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Promoting United States International Leadership in 5G Act of 2021
 - 2022-07-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 20 (Roll no. 351). (text: 06/21/2022 CR H5707-5708)
 - 2022-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 20 (Roll no. 351).
+- 2022-07-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
