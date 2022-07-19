@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7693
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7693
@@ -91,3 +91,7 @@ National Park Foundation Reauthorization Act of 2022
 - 2022-07-18 — Placed on the Union Calendar, Calendar No. 325.
 - 2022-07-18 — Reported by the Committee on Natural Resources. H. Rept. 117-418.
 - 2022-07-18 — Reported by the Committee on Natural Resources. H. Rept. 117-418.
+- 2022-07-19 — Considered as unfinished business. (consideration: CR H6867-6868)
+- 2022-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 22 (Roll no. 378). (text: 7/18/2022 CR H6698)
+- 2022-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 22 (Roll no. 378).
