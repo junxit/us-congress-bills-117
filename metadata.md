@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3222
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3222
@@ -49,3 +49,10 @@ Alabama Black Belt National Heritage Area Act
 - 2022-07-14 — Placed on the Union Calendar, Calendar No. 318.
 - 2022-07-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-411.
 - 2022-07-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-411.
+- 2022-07-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-18 — Considered under suspension of the rules. (consideration: CR H6691-6693; text: CR H6691-6693)
+- 2022-07-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3222.
+- 2022-07-18 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
+- 2022-07-19 — Passed/agreed to in House: Pursuant to section 9 of H. Res. 1232, and the motion offered by Ms. DeLauro, the following bills passed under suspension of the rules: H.R. 1286, as amended; H.R. 2024, as amended; H.R. 3222, as amended; H.R. 6337, as amended; and H.R. 7002, as amended.
+- 2022-07-19 — Pursuant to section 9 of H. Res. 1232, and the motion offered by Ms. DeLauro, the following bills passed under suspension of the rules: H.R. 1286, as amended; H.R. 2024, as amended; H.R. 3222, as amended; H.R. 6337, as amended; and H.R. 7002, as amended. (consideration: CR H6859-6865; text: CR H6862-6864)
+- 2022-07-19 — Pursuant to the provisions of H. Res. 1232, proceedings on H.R. 3222 are considered vacated.
