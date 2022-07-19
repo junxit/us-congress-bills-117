@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8351
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8351
@@ -65,3 +65,12 @@ Formula Act
 - 2022-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 363). (text: CR H6629)
 - 2022-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 363).
 - 2022-07-19 — Received in the Senate, read twice.
+- 2022-07-21 — Became Public Law No: 117-160.
+- 2022-07-21 — Became Public Law No: 117-160.
+- 2022-07-21 — Message on Senate action sent to the House.
+- 2022-07-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S3593-3594)
+- 2022-07-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-07-21 — Presented to President.
+- 2022-07-21 — Presented to President.
+- 2022-07-21 — Signed by President.
+- 2022-07-21 — Signed by President.
