@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8351
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8351
@@ -64,3 +64,4 @@ Formula Act
 - 2022-07-15 — Mr. Blumenauer moved to suspend the rules and pass the bill.
 - 2022-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 363). (text: CR H6629)
 - 2022-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 363).
+- 2022-07-19 — Received in the Senate, read twice.
