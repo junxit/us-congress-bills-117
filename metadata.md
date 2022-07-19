@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7025
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7025
@@ -28,6 +28,10 @@ Advancing Human Rights-Centered International Conservation Act of 2022
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2022-07-19 — [House 117-2-377](votes/house-117-2-0377.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (379–43)
+
 ## Actions
 
 - 2022-03-09 — Introduced in House
@@ -45,3 +49,7 @@ Advancing Human Rights-Centered International Conservation Act of 2022
 - 2022-07-18 — Placed on the Union Calendar, Calendar No. 324.
 - 2022-07-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-417.
 - 2022-07-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-417.
+- 2022-07-19 — Considered as unfinished business. (consideration: CR H6866-6867)
+- 2022-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 43 (Roll no. 377). (text: 7/18/2022 CR H6696-6698)
+- 2022-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 43 (Roll no. 377).
