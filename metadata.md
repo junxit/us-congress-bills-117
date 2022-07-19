@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8404
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8404
@@ -16,7 +16,7 @@ Respect for Marriage Act
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
-## Cosponsors (160)
+## Cosponsors (189)
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
@@ -178,6 +178,35 @@ Respect for Marriage Act
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
 ## Committees (1)
 
@@ -188,3 +217,14 @@ Respect for Marriage Act
 - 2022-07-18 — Introduced in House
 - 2022-07-18 — Introduced in House
 - 2022-07-18 — Referred to the House Committee on the Judiciary.
+- 2022-07-19 — Considered as unfinished business. (consideration: CR H6859)
+- 2022-07-19 — Considered under the provisions of rule H. Res. 1232. (consideration: CR H6719-6728)
+- 2022-07-19 — DEBATE - The House proceeded with one hour of debate on H.R. 8404.
+- 2022-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-19 — On passage Passed by the Yeas and Nays: 267 - 157 (Roll no. 373). (text: CR H6719)
+- 2022-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8404, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 267 - 157 (Roll no. 373).(text: CR H6719)
+- 2022-07-19 — Rule H. Res. 1232 passed House.
+- 2022-07-19 — Rule provides for consideration of H.R. 8294, H.R. 8373 and H.R. 8404. Provides for one of hour of general debate on each bill as well as one motion to recommit. Amendments are made in order. Resolution also provides for en bloc suspension authority. H. Res. 1230 is considered adopted.
+- 2022-07-19 — Rules Committee Resolution H. Res. 1232 Reported to House. Rule provides for consideration of H.R. 8294, H.R. 8373 and H.R. 8404. Provides for one of hour of general debate on each bill as well as one motion to recommit. Amendments are made in order. Resolution also provides for en bloc suspension authority. H. Res. 1230 is considered adopted.
+- 2022-07-19 — The previous question was ordered pursuant to the rule.
