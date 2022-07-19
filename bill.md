@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1286
 
-> To establish in the States of North Carolina and South Carolina the Southern Campaign of the Revolution National Heritage Corridor, and for other purposes.
+> To establish the Southern Campaign of the Revolution National Heritage Corridor, and for other purposes.
 
 ## § 1. Short title
 
