@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1230
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1230
@@ -25,3 +25,5 @@ Adopting changes to the standing rules, and for other purposes.
 - 2022-07-18 — Introduced in House
 - 2022-07-18 — Introduced in House
 - 2022-07-18 — Referred to the House Committee on Rules.
+- 2022-07-19 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1232, H. Res. 1230 is considered passed House.
+- 2022-07-19 — Pursuant to the provisions of H. Res. 1232, H. Res. 1230 is considered passed House. (consideration: CR H6711-6718; text: CR H6719)
