@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4586
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,6 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Risk-Based Credit Examination Act”.
 
-## § 2. Risk-Based Examinations of Nationally Recognized Statistical Rating Organizations
+## § 2. Conduct of risk-based examinations of nationally recognized statistical rating organizations
 
-Section 15E(p)(3)(B) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7(p)(3)(B)) is amended in the matter preceding clause (i), by inserting “, as appropriate, ” after “Each examination under subparagraph (A) shall include”.
+Section 15E(p)(3)(B) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7(p)(3)(B)) is amended in the matter preceding clause (i), by inserting “, as appropriate,” after “Each examination under subparagraph (A) shall include”.
