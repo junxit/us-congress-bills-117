@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6337
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6337
@@ -29,10 +29,11 @@ Biking on Long-Distance Trails Act
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Biking on Long-Distance Trails Act
 - 2022-07-19 — Passed/agreed to in House: Pursuant to section 9 of H. Res. 1232, and the motion offered by Ms. DeLauro, the following bills passed under suspension of the rules: H.R. 1286, as amended; H.R. 2024, as amended; H.R. 3222, as amended; H.R. 6337, as amended; and H.R. 7002, as amended.
 - 2022-07-19 — Pursuant to section 9 of H. Res. 1232, and the motion offered by Ms. DeLauro, the following bills passed under suspension of the rules: H.R. 1286, as amended; H.R. 2024, as amended; H.R. 3222, as amended; H.R. 6337, as amended; and H.R. 7002, as amended. (consideration: CR H6859-6865; text: CR H6864)
 - 2022-07-19 — Pursuant to the provisions of H. Res. 1232, proceedings on H.R. 6337 are considered vacated.
+- 2022-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
