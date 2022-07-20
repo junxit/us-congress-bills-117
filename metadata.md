@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 706
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 706
@@ -95,3 +95,7 @@ A resolution remembering former Prime Minister of Japan Shinzo Abe.
 
 - 2022-07-13 — Introduced in Senate
 - 2022-07-13 — Referred to the Committee on Foreign Relations.
+- 2022-07-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3529; text: 07/13/2022 CR S3276)
+- 2022-07-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3529; text: 07/13/2022 CR S3276)
+- 2022-07-20 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2022-07-20 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
