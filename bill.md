@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 8435
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8435
+
+> To provide for near-term actions to preserve the Colorado River system and to amend the Infrastructure Investment and Jobs Act to expedite measures for drought response.
+
+## § 1. Short title
+
+This Act may be cited as the “Colorado River Drought Response Act”.
+
+## § 2. Near-term actions to preserve Colorado River system
+
+In addition to the amounts otherwise available and consistent with contractual arrangements and applicable State and Federal law, there is authorized to be appropriated to the Secretary of the Interior $500,000,000, for the period of fiscal years 2023 through 2026, to use available legal authorities to reduce the near-term likelihood of Lake Mead and Lake Powell declining to critically low water elevations.
+
+## § 3. Expedited measures for drought response
+
+- **(a)** *Expedited program implementation* Section 40905(h) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3205(h); 135 Stat. 1124) is amended by striking “Not later than 1 year after the date of enactment of this Act” and inserting “Not later than August 31, 2022”.
+- **(b)** *Establishment of program* Section 40907(b) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3207(b); 135 Stat. 1125) is amended by striking “Not later than 1 year after the date of enactment of this Act” and inserting “Not later than August 31, 2022”.
