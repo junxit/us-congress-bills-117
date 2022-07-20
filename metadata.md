@@ -1,7 +1,7 @@
 ---
 measure: S. 3895
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3895
@@ -37,3 +37,5 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
+- 2022-07-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3535; text: CR S3535)
+- 2022-07-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
