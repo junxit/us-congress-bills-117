@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2024
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2024
@@ -16,9 +16,10 @@ Southern Maryland National Heritage Area Act
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Southern Maryland National Heritage Area Act
 - 2022-07-19 — Passed/agreed to in House: Pursuant to section 9 of H. Res. 1232, and the motion offered by Ms. DeLauro, the following bills passed under suspension of the rules: H.R. 1286, as amended; H.R. 2024, as amended; H.R. 3222, as amended; H.R. 6337, as amended; and H.R. 7002, as amended.
 - 2022-07-19 — Pursuant to section 9 of H. Res. 1232, and the motion offered by Ms. DeLauro, the following bills passed under suspension of the rules: H.R. 1286, as amended; H.R. 2024, as amended; H.R. 3222, as amended; H.R. 6337, as amended; and H.R. 7002, as amended. (consideration: CR H6859-6865; text: CR H6861-6862)
 - 2022-07-19 — Pursuant to the provisions of H. Res. 1232, proceedings on H.R. 2024 are considered vacated.
+- 2022-07-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
