@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7196
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 11383` | add-at-end | Subsection (a) of section 423 of subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11383(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 11383` | add-at-end | Subsection (a) of section 423 of subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11383(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
