@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 686
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 686
@@ -46,3 +46,7 @@ A resolution designating July 23, 2022, as "National Day of the American Cowboy"
 
 - 2022-06-22 — Introduced in Senate
 - 2022-06-22 — Referred to the Committee on the Judiciary.
+- 2022-07-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3528-3529; text: 06/22/2022 CR S3079)
+- 2022-07-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3528-3529; text: 06/22/2022 CR S3079)
+- 2022-07-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-07-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
