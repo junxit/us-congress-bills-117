@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7025
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7025
@@ -24,9 +24,10 @@ Advancing Human Rights-Centered International Conservation Act of 2022
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Advancing Human Rights-Centered International Conservation Act of 2022
 - 2022-07-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 43 (Roll no. 377). (text: 7/18/2022 CR H6696-6698)
 - 2022-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 43 (Roll no. 377).
+- 2022-07-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
