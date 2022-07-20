@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6528
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6528
@@ -25,3 +25,8 @@ Housing Temperature Safety Act of 2022
 - 2022-01-28 — Introduced in House
 - 2022-01-28 — Introduced in House
 - 2022-01-28 — Referred to the House Committee on Financial Services.
+- 2022-06-22 — Committee Consideration and Mark-up Session Held.
+- 2022-06-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2022-07-20 — Placed on the Union Calendar, Calendar No. 328.
+- 2022-07-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-422.
+- 2022-07-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-422.
