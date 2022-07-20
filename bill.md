@@ -15,7 +15,7 @@ This Act may be cited as the “Flexibility in Addressing Rural Homelessness Act
 
 ## § 2. Eligible activities under continuum of care program
 
-Subsection (a) of section 423 of subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11383(a)) is amended by adding at the end the following new paragraph:
+Subsection (a) of section 423 of subtitle C of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11383(a)) is amended by adding at the end the following:
 
 > - **(13)** Projects in rural areas that consist of one or more of the following activities:
 >   - **(A)** Payment of short-term emergency lodging, including in motels or shelters, directly or through vouchers.
