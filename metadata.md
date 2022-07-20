@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7693
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7693
@@ -95,3 +95,4 @@ National Park Foundation Reauthorization Act of 2022
 - 2022-07-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 22 (Roll no. 378). (text: 7/18/2022 CR H6698)
 - 2022-07-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 22 (Roll no. 378).
+- 2022-07-20 — Received in the Senate.
