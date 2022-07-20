@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7195
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7195
@@ -29,3 +29,8 @@ To provide for certain whistleblower incentives and protections.
 - 2022-03-24 — Introduced in House
 - 2022-03-24 — Introduced in House
 - 2022-03-24 — Referred to the House Committee on Financial Services.
+- 2022-06-22 — Committee Consideration and Mark-up Session Held.
+- 2022-06-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2022-07-20 — Placed on the Union Calendar, Calendar No. 329.
+- 2022-07-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-423.
+- 2022-07-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-423.
