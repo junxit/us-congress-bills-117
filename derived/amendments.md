@@ -1,7 +1,7 @@
 ---
 measure: S. 3895
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 4 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 22 U.S.C. § 6435
-
-> Section 205(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2019 through 2022” and inserting “2023 and 2024”.
-
-| | |
-|---|---|
-| Removed | `2019 through 2022` |
-| Inserted | `2023 and 2024` |
-
-### 22 U.S.C. § 6436
-
-> Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2022” and inserting “September 30, 2024”.
-
-| | |
-|---|---|
-| Removed | `September 30, 2022` |
-| Inserted | `September 30, 2024` |
 
 ### 22 U.S.C. § 6435
 

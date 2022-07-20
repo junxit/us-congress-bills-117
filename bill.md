@@ -15,5 +15,5 @@ This Act may be cited as the “United States Commission on International Religi
 
 ## § 2. United States Commission on International Religious Freedom
 
-- **(a)** *Authorization of appropriations* Section 205(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2019 through 2022” and inserting “2023 and 2024”.
+- **(a)** *Authorization of appropriations* Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2019 through 2022” and inserting “2023 and 2024”.
 - **(b)** *Extension of authorization* Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2022” and inserting “September 30, 2024”.
