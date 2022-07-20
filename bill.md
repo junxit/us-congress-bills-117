@@ -12,8 +12,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas sarcoma is a rare cancer of the bones or connective tissues, such as nerves, muscles, joints, fat, and blood vessels, that can arise nearly anywhere in the body;
-- Whereas, in the United States—(1)about 16,000 individuals are diagnosed with sarcoma each year;(2)approximately 7,000 individuals die from sarcoma each year; and(3)about 50,000 individuals struggle with sarcoma at any 1 time;
-- Whereas, each year, about 1 percent of cancers diagnosed in adults and around 20 percent of cancers diagnosed in children are sarcoma;
+- Whereas, in the United States—(1)about 16,000 individuals are diagnosed with sarcoma each year;(2)approximately 7,200 individuals die from sarcoma each year; and(3)about 50,000 individuals struggle with sarcoma at any given time;
+- Whereas, each year, about 1 percent of cancers diagnosed in adults and around 15 percent of cancers diagnosed in children are sarcoma;
 - Whereas more than 70 subtypes of sarcoma have been identified;
 - Whereas the potential causes of sarcoma are not well understood;
 - Whereas treatment for sarcoma can include surgery, radiation therapy, or chemotherapy;
