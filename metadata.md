@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4586
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4586
@@ -29,3 +29,8 @@ Risk-Based Credit Examination Act
 - 2021-07-20 — Introduced in House
 - 2021-07-20 — Introduced in House
 - 2021-07-20 — Referred to the House Committee on Financial Services.
+- 2022-06-22 — Committee Consideration and Mark-up Session Held.
+- 2022-06-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2022-07-20 — Placed on the Union Calendar, Calendar No. 327.
+- 2022-07-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-421.
+- 2022-07-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-421.
