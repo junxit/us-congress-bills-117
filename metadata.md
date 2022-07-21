@@ -1,7 +1,7 @@
 ---
 measure: S. 3502
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3502
@@ -28,3 +28,7 @@ Achieving Equity in Disaster Response, Recovery, and Resilience Act of 2022
 
 - 2022-01-13 — Introduced in Senate
 - 2022-01-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-02-02 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-133.
+- 2022-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-133.
+- 2022-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
