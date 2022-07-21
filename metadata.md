@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 568
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 568
@@ -45,3 +45,5 @@ A resolution supporting the goals and ideals of "Countering International Parent
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.
+- 2022-07-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S3602; text: 03/30/2022 CR S1869)
+- 2022-07-21 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S3602; text: 03/30/2022 CR S1869)
