@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 589
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 589
@@ -16,7 +16,7 @@ A resolution recognizing, honoring, and commending the women of Ukraine who have
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (23)
+## Cosponsors (28)
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
@@ -41,6 +41,11 @@ A resolution recognizing, honoring, and commending the women of Ukraine who have
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -54,3 +59,5 @@ A resolution recognizing, honoring, and commending the women of Ukraine who have
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.
+- 2022-07-21 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S3602-3603; text: CR S3602-3603)
+- 2022-07-21 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S3602-3603; text: CR S3602-3603)
