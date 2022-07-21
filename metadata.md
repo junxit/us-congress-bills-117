@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3771
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3771
@@ -16,7 +16,7 @@ South Asian Heart Health Awareness and Research Act of 2022
 
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
 
-## Cosponsors (19)
+## Cosponsors (32)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Chu, Judy [D-CA-27] (C001080)
@@ -37,6 +37,19 @@ South Asian Heart Health Awareness and Research Act of 2022
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 - Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 
 ## Committees (1)
 
@@ -47,3 +60,11 @@ South Asian Heart Health Awareness and Research Act of 2022
 - 2021-06-08 — Introduced in House
 - 2021-06-08 — Introduced in House
 - 2021-06-08 — Referred to the House Committee on Energy and Commerce.
+- 2021-06-09 — Referred to the Subcommittee on Health.
+- 2022-05-11 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2022-05-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2022-05-18 — Committee Consideration and Mark-up Session Held.
+- 2022-05-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 24.
+- 2022-07-21 — Placed on the Union Calendar, Calendar No. 333.
+- 2022-07-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-427.
+- 2022-07-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-427.
