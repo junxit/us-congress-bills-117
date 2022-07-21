@@ -1,7 +1,7 @@
 ---
 measure: S. 4320
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4320
@@ -24,3 +24,7 @@ Secure Embassy Construction and Counterterrorism Act of 2022
 
 - 2022-05-26 — Introduced in Senate
 - 2022-05-26 — Read twice and referred to the Committee on Foreign Relations.
+- 2022-07-19 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2022-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
