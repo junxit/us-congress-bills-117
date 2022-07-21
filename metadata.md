@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4693
@@ -142,3 +142,7 @@ Global Malnutrition Prevention and Treatment Act of 2021
 - 2022-04-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 44 (Roll no. 137).
 - 2022-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 44 (Roll no. 137).
 - 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-07-19 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
