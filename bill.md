@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3771
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “South Asian Heart Health Awareness and Research Act of 2021”.
+This Act may be cited as the “South Asian Heart Health Awareness and Research Act of 2022”.
 
 ## § 2. Heart health promotion grants
 
@@ -19,13 +19,13 @@ Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by
 
 > ## § 317V. Heart health promotion grants
 >
-> - **(a)** *In general* The Secretary shall make grants to States for the purpose of promoting awareness of the increasing prevalence of heart disease, including, where appropriate, its relationship to type 2 diabetes, in communities disproportionately affected by heart disease such as South Asian communities in the United States.
+> - **(a)** *In general* The Secretary may make grants to States for the purpose of promoting awareness of the increasing prevalence of heart disease, including, where appropriate, its relationship to type 2 diabetes, in communities disproportionately affected by heart disease such as South Asian communities in the United States.
 > - **(b)** *Use of funds* A State that receives a grant under subsection (a) shall use such grant funds—
->   - **(1)** to develop culturally appropriate materials on evidence-based topics such as nutrition education, optimal diet plans, and programs for regular exercise;
+>   - **(1)** to develop culturally appropriate materials on evidence-based heart health promotion topics, such as nutrition education, optimal diet plans, and programs for regular exercise;
 >   - **(2)** to support heart health promotion activities of community organizations that work with or serve communities disproportionately affected by heart disease, such as South Asian communities in the United States; or
->   - **(3)** to support conferences or workshops on research practices, methodology, and design to include more members of communities disproportionately affected by heart disease, such as South Asian communities in the United States, in scientific studies.
-> - **(c)** *Annual report to congress* Not later than 180 days after the date of the enactment of the South Asian Heart Health Awareness and Research Act of 2021, and annually thereafter, the Secretary shall submit to Congress a report on outreach efforts and data relating to heart disease in communities disproportionately affected by heart disease, such as South Asian communities in the United States.
-> - **(d)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2022 through 2026.
+>   - **(3)** to support, with respect to research conducted relating to heart disease, conferences and workshops on how practices, methodologies, and designs of such research should be changed to include in such research more members of communities disproportionately affected by heart disease, such as South Asian communities in the United States.
+> - **(c)** *Annual report to congress* Not later than 180 days after the date of the enactment of the South Asian Heart Health Awareness and Research Act of 2022, and annually thereafter, the Secretary shall submit to Congress a report on outreach efforts and data relating to heart disease in communities disproportionately affected by heart disease, such as South Asian communities in the United States.
+> - **(d)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2023 through 2027.
 
 ## § 3. Heart health research
 
@@ -36,4 +36,4 @@ Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is a
 > - **(a)** *In general* The Secretary may—
 >   - **(1)** conduct or support research and related activities regarding cardiovascular disease, type 2 diabetes, and other heart health-related ailments among at-risk populations, including South Asian communities in the United States; and
 >   - **(2)** establish an internet clearinghouse to catalog existing evidence-based heart health research and treatment options for communities disproportionately affected by heart disease, such as South Asian communities in the United States, to prevent, treat, or reverse heart disease and diabetes.
-> - **(b)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2022 through 2026.
+> - **(b)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2023 through 2027.
