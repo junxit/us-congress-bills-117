@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8404
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8404
@@ -228,3 +228,5 @@ Respect for Marriage Act
 - 2022-07-19 — Rule provides for consideration of H.R. 8294, H.R. 8373 and H.R. 8404. Provides for one of hour of general debate on each bill as well as one motion to recommit. Amendments are made in order. Resolution also provides for en bloc suspension authority. H. Res. 1230 is considered adopted.
 - 2022-07-19 — Rules Committee Resolution H. Res. 1232 Reported to House. Rule provides for consideration of H.R. 8294, H.R. 8373 and H.R. 8404. Provides for one of hour of general debate on each bill as well as one motion to recommit. Amendments are made in order. Resolution also provides for en bloc suspension authority. H. Res. 1230 is considered adopted.
 - 2022-07-19 — The previous question was ordered pursuant to the rule.
+- 2022-07-20 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-07-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
