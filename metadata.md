@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6899
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6899
@@ -56,3 +56,7 @@ Russia and Belarus SDR Exchange Prohibition Act of 2022
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 162). (text: 05/10/2022 CR H4754)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 162).
 - 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2022-07-19 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
