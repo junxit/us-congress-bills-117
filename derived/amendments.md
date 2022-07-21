@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
