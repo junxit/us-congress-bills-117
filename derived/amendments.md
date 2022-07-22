@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 2 executed, 6 stated and not applied.
+10 amendatory instructions. 3 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,16 +26,25 @@ to guess them.
 
 ### 42 U.S.C. § 282a
 
-> by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”;
+> by striking “to the Common Fund” and inserting “to the Division of Program Coordination, Planning, and Strategic Initiatives”;
 
 | | |
 |---|---|
-| Removed | `the Common Fund` |
-| Inserted | `the Division of Program Coordination, Planning, and Strategic Initiatives` |
+| Removed | `to the Common Fund` |
+| Inserted | `to the Division of Program Coordination, Planning, and Strategic Initiatives` |
+
+### 42 U.S.C. § 282a
+
+> in each of paragraphs (1)(A) and (2)(C) of section 402A(c) (42 U.S.C. 282a(c)), by striking “section 402(b)(7)(B)” and inserting “section 402(b)(7)(B)(i)”; and
+
+| | |
+|---|---|
+| Removed | `section 402(b)(7)(B)` |
+| Inserted | `section 402(b)(7)(B)(i)` |
 
 ### 42 U.S.C. § 282
 
-> Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
+> in section 402(b)(7)(B)(ii) (42 U.S.C. 282(b)(7)(B)(ii)), by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
 
 | | |
 |---|---|
@@ -51,9 +60,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 78dd-1` | add-at-end | Section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 282a` | strike | in the heading, by striking “10-year”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 282a` | strike | by striking “10-Year”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 282a` | insert | by inserting before the period the following: “, and amounts transferred into the Pediatric Research Initiative Fund under section 30A(h) of the Securities Exchange Act of 1934”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9008` | strike | Section 9008(i)(2) of the Internal Revenue Code of 1986 is amended by striking “10-year”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 282` | insert | Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by inserting “and shall prioritize such pediatric research that does not duplicate existing research activities of the National Institutes … | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 282a` | strike | by striking “10-year”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 282a` | strike | by striking “through Common Fund”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 282a` | strike | by striking “10-Year”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 282a` | strike | by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 282a` | insert | by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2023 through 2027”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9008` | strike | Section 9008(i)(2) of the Internal Revenue Code of 1986 is amended by striking “10 year”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 282` | insert | Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by inserting “and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the Nat… | the bill quotes the text inserted but describes where it goes |

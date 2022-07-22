@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 623
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,31 +13,29 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Gabriella Miller Kids First Research Act 2.0”.
 
-## § 2. Transfer of funds to the Pediatric Research Initiative
+## § 2. Funding for the Pediatric Research Initiative
 
-Section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) is amended by adding at the end the following:
+- **(a)** *Public Health Service Act* The Public Health Service Act (42 U.S.C. 201 et seq.) is amended—
+  - **(1)** in section 402A(a)(2) (42 U.S.C. 282a(a)(2))—
+    - **(A)** in the heading—
+      - **(i)** by striking “10-year”; and
+      - **(ii)** by striking “through Common Fund”;
+    - **(B)** by striking “to the Common Fund” and inserting “to the Division of Program Coordination, Planning, and Strategic Initiatives”;
+    - **(C)** by striking “10-Year”;
+    - **(D)** by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and
+    - **(E)** by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2023 through 2027”;
+  - **(2)** in each of paragraphs (1)(A) and (2)(C) of section 402A(c) (42 U.S.C. 282a(c)), by striking “section 402(b)(7)(B)” and inserting “section 402(b)(7)(B)(i)”; and
+  - **(3)** in section 402(b)(7)(B)(ii) (42 U.S.C. 282(b)(7)(B)(ii)), by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
+- **(b)** *Internal Revenue Code of 1986* Section 9008(i)(2) of the Internal Revenue Code of 1986 is amended by striking “10 year”.
 
-> - **(h)** *Transfer of amounts*
->   - **(1)** *In general* Except as provided under section 21F(g)(3), the Secretary of the Treasury shall transfer to the Pediatric Research Initiative Fund described in section 9008(i)(2) of the Internal Revenue Code of 1986 (the “Fund”), an amount equal to the sum of all civil monetary sanctions, including penalties, disgorgement, and interest, recovered under this section, section 13(b)(2), or section 32(c), including pursuant to any settlement agreement or other resolution with the Commission, from persons—
->     - **(A)** registered under section 510(b)(1) or section 510(i)(1)(A)(i) of the Federal Food, Drug, and Cosmetic Act;
->     - **(B)** that produce, manufacture, sell, transport, or distribute dietary supplements (as defined in section 201(ff) of the Federal Food, Drug, and Cosmetic Act); or
->     - **(C)** that produce, manufacture, sell, transport, or distribute cosmetics (as defined in section 201(i) of the Federal Food, Drug, and Cosmetic Act).
->   - **(2)** *Exception for funds to be paid to harmed investors* Paragraph (1) shall not apply to any monetary sanction collected by the Commission in any judicial or administrative action brought by the Commission under the securities laws that is added to a disgorgement fund or other fund under section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246).
->   - **(3)** *Application* Amounts transferred to the Fund under this subsection shall—
->     - **(A)** be transferred in the manner described under section 9601 of the Internal Revenue Code of 1986; and
->     - **(B)** be available as described in section 9008(i)(2) of such Code.
+## § 3. Coordination of NIH funding for pediatric research
 
-## § 3. Funding for the Pediatric Research Initiative
+- **(a)** *Sense of Congress* It is the sense of the Congress that the Director of the National Institutes of Health should continue to oversee and coordinate research that is conducted or supported by the National Institutes of Health for research on pediatric cancer and other pediatric diseases and conditions, including through the Pediatric Research Initiative Fund.
+- **(b)** *Avoiding duplication* Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by inserting “and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the National Institutes of Health” before “; and”.
 
-- **(a)** Section 402A(a)(2) of the Public Health Service Act (42 U.S.C. 282a(a)(2)) is amended—
-  - **(1)** in the heading, by striking “10-year”;
-  - **(2)** by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”;
-  - **(3)** by striking “10-Year”; and
-  - **(4)** by inserting before the period the following: “, and amounts transferred into the Pediatric Research Initiative Fund under section 30A(h) of the Securities Exchange Act of 1934”.
-- **(b)** Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
-- **(c)** Section 9008(i)(2) of the Internal Revenue Code of 1986 is amended by striking “10-year”.
+## § 4. Report on progress and investments in pediatric research
 
-## § 4. Coordination of NIH funding for pediatric research
+Not later than 5 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a report that—
 
-- **(a)** *Sense of Congress* It is the sense of the Congress that the Director of the National Institutes of Health should oversee and coordinate research that is conducted or supported by the National Institutes of Health for research on pediatric cancer and other pediatric diseases and conditions, including through the Pediatric Research Initiative Fund.
-- **(b)** *Avoiding duplication* Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by inserting “and shall prioritize such pediatric research that does not duplicate existing research activities of the National Institutes of Health” before “; and”.
+- **(1)** details pediatric research projects and initiatives receiving funds allocated pursuant to section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)); and
+- **(2)** summarizes advancements made in pediatric research with funds allocated pursuant to section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)).
