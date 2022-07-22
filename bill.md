@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 263
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,12 +21,10 @@ This Act may be cited as the “Big Cat Public Safety Act”.
     > - **(a)** *Breed* The term “breed” means to facilitate propagation or reproduction (whether intentionally or negligently), or to fail to prevent propagation or reproduction.
 
 - **(b)** *Conforming amendments*
-  - **(1)** *Consolidated Farm and Rural Development Act* Section 349(a)(3) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1997(a)(3)) is amended by striking “section 2(a)” and inserting “section 2(b)”.
-  - **(2)** *Lacey Act Amendments of 1981*
-    - **(A)** Section 3(e)(2)(C) of the Lacey Act Amendments of 1981 (16 U.S.C. 3372(e)(2)(C)) is amended—
-      - **(i)** in clause (ii), by striking “section 2(g)” and inserting “section 2(h)”; and
-      - **(ii)** in clause (iii), by striking “section 2(g)” and inserting “section 2(h)”.
-    - **(B)** Section 7(c) of the Lacey Act Amendments of 1981 (16 U.S.C. 3376(c)) is amended by striking “section 2(f)(2)(A)” and inserting “section 2(g)(2)(A)”.
+  - **(1)** *Consolidated Farm and Rural Development Act* Section 349(a)(3) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1997(a)(3)) is amended—
+    - **(A)** by striking “section 2(a)” and inserting “section 2”; and
+    - **(B)** by striking “3371(a)” and inserting “3371”.
+  - **(2)** *Lacey Act Amendments of 1981* Section 7(c) of the Lacey Act Amendments of 1981 (16 U.S.C. 3376(c)) is amended by striking “section 2(f)(2)(A)” and inserting “section 2(g)(2)(A)”.
 
 ## § 3. Prohibitions
 
@@ -40,7 +38,9 @@ Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
   - **(B)** in paragraph (4), by striking “(1) through (3)” and inserting “(1) through (3) or subsection (e)”; and
 - **(2)** by amending subsection (e) to read as follows:
   > - **(e)** *Captive wildlife offense*
-  >   - **(1)** *In general* It is unlawful for any person to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce, or to breed or possess, any prohibited wildlife species.
+  >   - **(1)** *In general* Except as provided in paragraph (2), it is unlawful for any person to—
+  >     - **(A)** import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce; or
+  >     - **(B)** breed or possess;
   >   - **(2)** *Limitation on application* Paragraph (1) does not apply to—
   >     - **(A)** an entity exhibiting animals to the public under a Class C license from the Department of Agriculture, or a Federal facility registered with the Department of Agriculture that exhibits animals, if such entity or facility holds such license or registration in good standing and if the entity or facility—
   >       - **(i)** does not allow any individual to come into direct physical contact with a prohibited wildlife species, unless that individual is—
@@ -49,7 +49,7 @@ Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
   >         - **(III)** directly supporting conservation programs of the entity or facility, the contact is not in the course of commercial activity (which may be evidenced by advertisement or promotion of such activity or other relevant evidence), and the contact is incidental to humane husbandry conducted pursuant to a species-specific, publicly available, peer-edited population management and care plan that has been provided to the Secretary with justifications that the plan—
   >           - **(aa)** reflects established conservation science principles;
   >           - **(bb)** incorporates genetic and demographic analysis of a multi-institution population of animals covered by the plan; and
-  >           - **(cc)** promotes animal welfare by ensuring that the frequency of breeding is appropriate for the species;
+  >           - **(cc)** promotes animal welfare by ensuring that the frequency of breeding is appropriate for the species; and
   >       - **(ii)** ensures that during public exhibition of a lion (Panthera leo), tiger (Panthera tigris), leopard (Panthera pardus), snow leopard (Uncia uncia), jaguar (Panthera onca), cougar (Puma concolor), or any hybrid thereof, the animal is at least 15 feet from members of the public unless there is a permanent barrier sufficient to prevent public contact;
   >     - **(B)** a State college, university, or agency, or a State-licensed veterinarian;
   >     - **(C)** a wildlife sanctuary that cares for prohibited wildlife species, and—
@@ -74,7 +74,7 @@ Section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372) is amended—
   - **(2)** in paragraph (1)(B), by inserting “(e),” after “(d),”;
   - **(3)** in paragraph (2), by inserting “(e),” after “(d),”; and
   - **(4)** by adding at the end the following:
-    > - **(4)** Any person who knowingly violates subsection (e) of section 3 shall be fined not more than $20,000, or imprisoned for not more than five years, or both. Each violation shall be a separate offense and the offense is deemed to have been committed in the district where the violation first occurred, and in any district in which the defendant may have taken or been in possession of the prohibited wildlife species.
+    > - **(4)** Any person who knowingly violates section 3(e) shall be fined not more than $20,000, or imprisoned for not more than 5 years, or both. Each violation shall be a separate offense and the offense is deemed to have been committed in the district where the violation first occurred, and in any district in which the defendant may have taken or been in possession of the prohibited wildlife species.
 
 ## § 5. Forfeiture of prohibited wildlife species
 
