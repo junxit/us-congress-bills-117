@@ -1,7 +1,7 @@
 ---
 measure: H.R. 263
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 5 executed, 14 stated and not applied.
+18 amendatory instructions. 4 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,21 @@ to guess them.
 
 ### 7 U.S.C. § 1997
 
-> Section 349(a)(3) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1997(a)(3)) is amended by striking “section 2(a)” and inserting “section 2(b)”.
+> by striking “section 2(a)” and inserting “section 2”; and
 
 | | |
 |---|---|
 | Removed | `section 2(a)` |
-| Inserted | `section 2(b)` |
+| Inserted | `section 2` |
 
-### 16 U.S.C. § 3372
+### 7 U.S.C. § 1997
 
-> in clause (ii), by striking “section 2(g)” and inserting “section 2(h)”; and
-
-| | |
-|---|---|
-| Removed | `section 2(g)` |
-| Inserted | `section 2(h)` |
-
-### 16 U.S.C. § 3372
-
-> in clause (iii), by striking “section 2(g)” and inserting “section 2(h)”.
+> by striking “3371(a)” and inserting “3371”.
 
 | | |
 |---|---|
-| Removed | `section 2(g)` |
-| Inserted | `section 2(h)` |
+| Removed | `3371(a)` |
+| Inserted | `3371` |
 
 ### 16 U.S.C. § 3376
 
