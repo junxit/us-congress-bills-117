@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2814
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Equal Access to Justice for Victims of Gun Violence Act”.
+This Act may be cited as the “Equal Access to Justice for Victims of Gun Violence Act of 2022”.
 
 ## § 2. Repeal of certain provisions of the Protection of Lawful Commerce in Arms Act
 
