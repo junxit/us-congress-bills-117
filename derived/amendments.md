@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6552
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-40 amendatory instructions. 21 executed, 19 stated and not applied.
+30 amendatory instructions. 18 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,33 +32,6 @@ to guess them.
 |---|---|
 | Removed | `Grants to assist in the recognition of trafficking` |
 | Inserted | `Frederick douglass human trafficking prevention education grants` |
-
-### 42 U.S.C. § 671
-
-> in paragraph (9)(C)(i)(I), by striking “sex trafficking victim” and inserting “sex or labor trafficking victim”;
-
-| | |
-|---|---|
-| Removed | `sex trafficking victim` |
-| Inserted | `sex or labor trafficking victim` |
-
-### 42 U.S.C. § 671
-
-> in paragraph (34), by striking “sex trafficking victims” each place it appears and inserting “sex or labor trafficking victims”;
-
-| | |
-|---|---|
-| Removed | `sex trafficking victims` |
-| Inserted | `sex or labor trafficking victims` |
-
-### 42 U.S.C. § 671
-
-> in subparagraph (35)(A)(iii), by striking “possible sex trafficking victim” and inserting “possible sex or labor trafficking victim”; and
-
-| | |
-|---|---|
-| Removed | `possible sex trafficking victim` |
-| Inserted | `possible sex or labor trafficking victim` |
 
 ### 22 U.S.C. § 7114
 
@@ -226,15 +199,8 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 7104` | insert | in clause (ii), by inserting “, linguistically accessible, and culturally responsive” after “age-appropriate”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7104` | insert | in the heading of subparagraph (C), by inserting “for frederick douglass human trafficking prevention education grants” after “Program requirements”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7104` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7104` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 115(h) of the Justice for Victims of Trafficking Act of 2015 is amended by striking “2020” and inserting “2031”. | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 7102` | add-at-end | Subchapter I of chapter 57 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7102` | add-at-end | The table of sections for subchapter I of chapter 57 of title 5, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 671` | replace | in paragraph (35)(B), by striking the semicolon at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 675` | amend | Paragraph (9) of section 475 of such Act (42 U.S.C. 675) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 21503` | add-at-end | Section 4(e)(3) of the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders (34 U.S.C. 21503(e)(3)) is amended by adding at the end the following new sub… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 21503` | insert | Section 4(f)(2) of the International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders (34 U.S.C. 21503(f)) is amended by inserting “or would have to register if th… | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 212b` | add-at-end | Section 240(b) of Public Law 110–457 (22 U.S.C. 212b(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7107` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7107` | insert | in clause (ii), by inserting “in the year following such waiver under subparagraph (D)(ii)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7107` | strike | In paragraph (3)(B), in the matter preceding clause (i), by striking “clauses (i), (ii), and (iii) of”. | the bill quotes the text struck but describes what replaces it |
