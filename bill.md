@@ -34,3 +34,10 @@ This Act may be cited as the “Promoting New and Diverse Depository Institution
   - **(2)** *Community development financial institution* The term community development financial institution has the meaning given in section 103 of the Riegle Community Development and Regulatory Improvement Act of 1994.
   - **(3)** *Federal banking regulators* The term Federal banking regulators means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration, and the Director of the Bureau of Consumer Financial Protection.
   - **(4)** *Minority depository institution* The term minority depository institution has the meaning given in section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+- **(e)** *Reduction*
+  - **(1)** *In general* Subparagraph (A) of section 7(a)(3) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by reducing the dollar figure described in such subparagraph by $5,000,000.
+  - **(2)** *Effective date* The amendment made by paragraph (1) shall take effect on September 30, 2022.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4590
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4590
@@ -39,3 +39,9 @@ Promoting New and Diverse Depository Institutions Act
 - 2022-01-20 — Placed on the Union Calendar, Calendar No. 163.
 - 2022-01-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-229.
 - 2022-01-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 117-229.
+- 2022-07-26 — Considered under suspension of the rules. (consideration: CR H7150-7152)
+- 2022-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4590.
+- 2022-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7150-7151)
+- 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7150-7151)
