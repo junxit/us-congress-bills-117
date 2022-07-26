@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8294
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8294
@@ -16,9 +16,10 @@ Transportation, Housing and Urban Development, and Related Agencies Appropriatio
 
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Actions
 
@@ -128,3 +129,4 @@ Transportation, Housing and Urban Development, and Related Agencies Appropriatio
 - 2022-07-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8294.
 - 2022-07-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-07-20 — The previous question was ordered pursuant to the rule.
+- 2022-07-26 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
