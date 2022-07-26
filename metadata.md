@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4227
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4227
@@ -25,3 +25,10 @@ To require the Securities and Exchange Commission to revise the definition of a 
 - 2021-06-29 — Introduced in House
 - 2021-06-29 — Introduced in House
 - 2021-06-29 — Referred to the House Committee on Financial Services.
+- 2022-07-26 — Considered under suspension of the rules. (consideration: CR H7152-7153)
+- 2022-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4227.
+- 2022-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7152)
+- 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7152)
+- 2022-07-26 — The title of the measure was amended. Agreed to without objection.
