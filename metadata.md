@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1254
 congress: 117
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 1254
