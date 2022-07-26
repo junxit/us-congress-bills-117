@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7289
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7289
@@ -40,3 +40,11 @@ Federal PFAS Research Evaluation Act
 - 2022-07-13 — Placed on the Union Calendar, Calendar No. 313.
 - 2022-07-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-406.
 - 2022-07-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 117-406.
+- 2022-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-26 — Considered as unfinished business. (consideration: CR H7142-7143)
+- 2022-07-26 — Considered under suspension of the rules. (consideration: CR H7092-7095)
+- 2022-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7289.
+- 2022-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-26 — Mr. Beyer moved to suspend the rules and pass the bill, as amended.
+- 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 62 (Roll no. 389). (text: CR H7092-7093)
+- 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 62 (Roll no. 389).(text: CR H7092-7093)
