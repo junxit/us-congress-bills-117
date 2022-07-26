@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1057
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,16 +11,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National World War II Memorial Commemorative Coin Act”.
+This Act may be cited as the “Greatest Generation Commemorative Coin Act”.
 
 ## § 2. Findings
 
 The Congress finds the following:
 
 - **(1)** The National World War II Memorial was dedicated in Washington, DC, on May 29, 2004, and is located on the east end of the Reflecting Pool on the National Mall, opposite the Lincoln Memorial and west of the Washington Monument.
-- **(2)** The dedication of the National World War II Memorial was the culmination of a 17-year effort that started when the Memorial was authorized by an Act of Congress signed into law on May 25, 1993. Construction began September 4, 2001, after several years of fundraising and public hearings.
+- **(2)** The dedication of the National World War II Memorial was the culmination of a 17-year effort that started on December 10, 1987 when the World War II Memorial Act was first introduced in the House of Representatives, and was authorized by an Act of Congress signed into law on May 25, 1993. Construction began September 4, 2001, after several years of fundraising and public hearings.
 - **(3)** Opening to the public on April 29, 2004, the World War II Memorial is the first national memorial dedicated to all who served during World War II and acknowledges the commitment and achievement of the entire Nation.
-- **(4)** The Memorial honors the 16,000,000 who served in the Armed Forces of the United States during World War II, the more than 400,000 who died, and the millions who supported the war effort from home.
+- **(4)** The Memorial honors the more than 16,000,000 who served in the Armed Forces of the United States during World War II, the more than 400,000 who died, and the millions who supported the war effort from home.
 - **(5)** It is a monument to the spirit, sacrifice, and commitment of the American people to the common defense of the Nation and to the broader causes of peace and freedom from tyranny throughout the world.
 - **(6)** Today, the Memorial is a top destination for millions of annual visitors from all over the country and the world. For many young visitors, their visit to the Memorial is a first glimpse to a grateful Nation’s remembrance of the sacrifices made by the World War II generation.
 - **(7)** For World War II veterans, the Memorial is a special destination, a rendezvous point, and a gathering place for reunions and commemoration programs.
@@ -45,22 +45,22 @@ The Congress finds the following:
 - **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
 - **(c)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
 
-## § 4. Design of coins
+## § 4. Designs of coins
 
 - **(a)** *Design requirements*
-  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the National World War II Memorial and the service and sacrifice of American soldiers and civilians during World War II.
+  - **(1)** *In general* The designs of the coins minted under this Act shall be emblematic of the National World War II Memorial and the service and sacrifice of American soldiers and civilians during World War II.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2023”; and
+    - **(B)** an inscription of the year “2024”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
-- **(b)** *Selection* The design for the coins minted under this Act shall be—
+- **(b)** *Selection* The designs for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary after consultation with the Commission of Fine Arts and the Friends of the National World War II Memorial; and
   - **(2)** reviewed by the Citizens Coinage Advisory Committee.
 
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2023.
+- **(b)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2024.
 
 ## § 6. Sale of coins
 
