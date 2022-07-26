@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1808
@@ -16,7 +16,7 @@ Assault Weapons Ban of 2022
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Cosponsors (194)
+## Cosponsors (212)
 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -212,6 +212,24 @@ Assault Weapons Ban of 2022
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
 ## Committees (1)
 
@@ -222,3 +240,10 @@ Assault Weapons Ban of 2022
 - 2021-03-11 — Introduced in House
 - 2021-03-11 — Introduced in House
 - 2021-03-11 — Referred to the House Committee on the Judiciary.
+- 2021-05-18 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2022-07-20 — Committee Consideration and Mark-up Session Held.
+- 2022-07-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 18.
+- 2022-07-20 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2022-07-26 — Placed on the Union Calendar, Calendar No. 346.
+- 2022-07-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-442.
+- 2022-07-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-442.
