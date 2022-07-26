@@ -75,7 +75,7 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(2)** *Report on evaluations* Not later than 180 days after the completion of the evaluation under paragraph (1), the Director shall submit to Congress and make widely available to the public a report that includes—
     - **(A)** the results of the evaluation; and
     - **(B)** any recommendations for administrative and legislative action that could optimize the effectiveness of the grants awarded under this section.
-- **(i)** *Authorization of appropriations* For each of fiscal years 2022 through 2026, there are authorized out of funds appropriated to the National Science Foundation, $10,000,000 to carry out the activities under this section.
+- **(i)** *Authorization of appropriations* For each of fiscal years 2023 through 2027, there are authorized to be appropriated to the National Science Foundation $10,000,000 to carry out the activities under this section.
 
 ## § 3. NASEM report on mathematical and statistical modeling education in prekindergarten through 12th grade
 
@@ -91,4 +91,4 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(1)** the results of the study conducted under subsection (a);
   - **(2)** recommendations to modernize the processes described in subsection (a)(1); and
   - **(3)** recommendations for such legislative and administrative action as NASEM, or such other appropriate entity, determines appropriate.
-- **(d)** *Authorization of appropriations* For the fiscal year 2022, there are authorized out of funds appropriated to the National Science Foundation, $1,000,000 to carry out the activities under this section.
+- **(d)** *Authorization of appropriations* For fiscal year 2023, there are authorized to be appropriated to the National Science Foundation $1,000,000 to carry out the activities under this section.
