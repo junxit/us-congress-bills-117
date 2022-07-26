@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7180
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7180
@@ -42,3 +42,11 @@ Brycen Gray and Ben Price COVID–19 Cognitive Research Act
 - 2022-06-15 — Placed on the Union Calendar, Calendar No. 282.
 - 2022-06-15 — Reported by the Committee on Science, Space, and Technology. H. Rept. 117-371.
 - 2022-06-15 — Reported by the Committee on Science, Space, and Technology. H. Rept. 117-371.
+- 2022-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-26 — Considered as unfinished business. (consideration: CR H7144-7145)
+- 2022-07-26 — Considered under suspension of the rules. (consideration: CR H7101-7103)
+- 2022-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7180.
+- 2022-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-26 — Mr. Beyer moved to suspend the rules and pass the bill.
+- 2022-07-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 69 (Roll no. 391). (text: CR H7101)
+- 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 69 (Roll no. 391).(text: CR H7101)
