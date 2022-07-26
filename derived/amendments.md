@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6845
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
