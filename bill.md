@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Safeguarding Treatment for the Restoration of Ecosystems from Abandoned Mines Act” or the “STREAM Act”.
 
-## § 2. Activities eligible for grants from the Abandoned Mine Reclamation Fund
+## § 2. Activities that are eligible for grants from the Abandoned Mine Reclamation Fund
 
 Section 40701(c) of the Infrastructure Investment and Jobs Act (30 U.S.C. 1231a(c)) is amended—
 
