@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 310
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,15 +25,25 @@ Congress makes the following findings:
 ## § 2. Congressional gold medal
 
 - **(a)** *Award authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the posthumous award, on behalf of the Congress, of a single gold medal of appropriate design collectively in commemoration of Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.
-- **(b)** *Design and striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall strike the gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+- **(b)** *Design and striking* For the purposes of the award referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall strike the gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary. The Secretary is authorized to create designs for the medal that, if the Secretary deems it appropriate, include images of, and inscriptions of the names of, Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith.
 - **(c)** *Central intelligence agency museum*
   - **(1)** *In general* Following the award of the gold medal under subsection (a), the gold medal shall be given to the Central Intelligence Agency Museum, where it shall be displayed as appropriate and made available for research.
   - **(2)** *Sense of Congress* It is the sense of Congress that the Central Intelligence Agency Museum should make the gold medal received under paragraph (1) available for display elsewhere, particularly at other appropriate locations associated with Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith.
 
 ## § 3. Duplicate medals
 
-Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+The Secretary may strike and sell duplicates in bronze of the gold medal struck pursuant to section 2, at a price sufficient to cover the cost thereof, including labor, materials, dies, use of machinery, and overhead expenses.
 
-## § 4. National medals
+## § 4. Status of medals
 
-Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+- **(a)** *National medals* The medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+- **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+
+## § 5. Authority to use fund amounts; proceeds of sale
+
+- **(a)** *Authority to use fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the costs of the medals struck under this Act.
+- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals authorized under section 4 shall be deposited into the United States Mint Public Enterprise Fund.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
