@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3962
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Securing and Enabling Commerce Using Remote and Electronic Notarization Act of 2021”.
+This Act may be cited as the “Securing and Enabling Commerce Using Remote and Electronic Notarization Act of 2022” or the “SECURE Notarization Act of 2022”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Communication technology* The term communication technology, with respect to a notarization, means an electronic device or process that allows the notary public performing the notarization and a remotely located individual to communicate with each other simultaneously by sight and sound during the notarization.
+- **(1)** *Communication technology* The term communication technology, with respect to a notarization, means an electronic device or process that allows the notary public performing the notarization, a remotely located individual, and (if applicable) a credible witness to communicate with each other simultaneously by sight and sound during the notarization.
 - **(2)** *Electronic; electronic record; electronic signature; information; person; record* The terms electronic, electronic record, electronic signature, information, person, and record have the meanings given those terms in section 106 of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006).
 - **(3)** *Law* The term law includes any statute, regulation, rule, or rule of law.
 - **(4)** *Notarial officer* The term notarial officer means—
@@ -76,7 +76,7 @@ In this Act:
             - **(AA)** is in the physical presence of the notary public or the remotely located individual; or
             - **(BB)** appears personally before the notary public and the remotely located individual by using communication technology;
           - **(bb)** has personal knowledge of the identity of the remotely located individual; and
-          - **(cc)** has been identified by the notary public under clause (i) or subclause (I) of this clause;
+          - **(cc)** has been identified by the notary public in the same manner as specified for identification of a remotely located individual under clause (i) or subclause (I) of this clause;
     - **(B)** either directly or through an agent—
       - **(i)** create an audio and visual recording of the performance of the notarization; and
       - **(ii)** notwithstanding any resignation from, or revocation, suspension, or termination of, the notary public’s commission or appointment, retain the recording created under clause (i) as a notarial record—
@@ -85,7 +85,7 @@ In this Act:
             - **(AA)** that specified period; or
             - **(BB)** 5 years after the date on which the recording is created; or
           - **(bb)** if no applicable law of the notary public’s State specifies a period of retention, 10 years after the date on which the recording is created; and
-        - **(II)** if any applicable law of the notary public’s State govern the content, manner or place of retention, security, use, effect, or disclosure of such recording or any information contained in the recording, in accordance with those laws; and
+        - **(II)** if any applicable law of the notary public’s State governs the content, manner or place of retention, security, use, effect, or disclosure of the recording or any information contained in the recording, in accordance with that law; and
     - **(C)** if the notarization is performed with respect to a tangible or electronic record, take reasonable steps to confirm that the record before the notary public is the same record with respect to which the remotely located individual made a statement or on which the individual executed a signature.
   - **(3)** If a guardian, conservator, executor, personal representative, administrator, or similar fiduciary or successor is appointed for or on behalf of a notary public or a deceased notary public under applicable law, that person shall retain the recording under paragraph (2)(B)(ii), unless—
     - **(A)** another person is obligated to retain the recording under applicable law of the notary public’s State; or
@@ -124,7 +124,7 @@ In this Act:
   - **(1)** A notary public of that State.
   - **(2)** A judge, clerk, or deputy clerk of a court of that State.
 
-## § 6. Recognition by state of notarizations performed under authority of another State
+## § 6. Recognition by State of notarizations performed under authority of another State
 
 - **(a)** *Recognition of validity* Each State shall recognize as valid under the laws of that State any notarization performed by a notarial officer of any other State if—
   - **(1)** the notarization is valid under the laws of the notarial officer’s State or under this Act; and
@@ -139,7 +139,7 @@ In this Act:
     - **(A)** an individual in the physical presence of the notarial officer; or
     - **(B)** a remotely located individual.
 - **(c)** *Presumption of genuineness* In a determination of the validity of a notarization for the purposes of subsection (a), the signature and title of an individual performing a notarization shall be prima facie evidence in any State court or judicial proceeding that the signature is genuine and that the individual holds the designated title.
-- **(d)** *Conclusive evidence of authority* In a determination of the validity of a notarization for the purposes of subsection (a), the signature and title of the following notarial officers of a State conclusively establish the authority of the officer to perform the notarization:
+- **(d)** *Conclusive evidence of authority* In a determination of the validity of a notarization for the purposes of subsection (a), the signature and title of the following notarial officers of a State shall conclusively establish the authority of the officer to perform the notarization:
   - **(1)** A notary public of that State.
   - **(2)** A judge, clerk, or deputy clerk of a court of that State.
 
@@ -153,7 +153,7 @@ Nothing in this Act may be construed to require a notary public to perform a not
 
 ## § 8. Validity of notarizations; rights of aggrieved persons not affected; State laws on the practice of law not affected
 
-- **(a)** *Validity not affected* The failure of a notary public to meet a requirement under section 3 or 4 in the performance of a notarization, or the failure of a notarization to conform to a requirement under section 3 or 4, shall not invalidate or impair the recognition of the notarization.
+- **(a)** *Validity not affected* The failure of a notary public to meet a requirement under section 3 or 4 in the performance of a notarization, or the failure of a notarization to conform to a requirement under section 3 or 4, shall not invalidate or impair the validity or recognition of the notarization.
 - **(b)** *Rights of aggrieved persons* The validity and recognition of a notarization under this Act may not be construed to prevent an aggrieved person from seeking to invalidate a record or transaction that is the subject of a notarization or from seeking other remedies based on State or Federal law other than this Act for any reason not specified in this Act, including on the basis—
   - **(1)** that a person did not, with present intent to authenticate or adopt a record, execute a signature on the record;
   - **(2)** that an individual was incompetent, lacked authority or capacity to authenticate or adopt a record, or did not knowingly and voluntarily authenticate or adopt a record; or
@@ -162,10 +162,10 @@ Nothing in this Act may be construed to require a notary public to perform a not
 
 ## § 9. Exception to preemption
 
-- **(a)** *In general* A State law may modify, limit, or supersede the provisions of section 3, or subsections (a) or (b) of section 4, with respect to State law only if that State law—
+- **(a)** *In general* A State law may modify, limit, or supersede the provisions of section 3, or subsection (a) or (b) of section 4, with respect to State law only if that State law—
   - **(1)** either—
-    - **(A)** constitutes an enactment or adoption of the Revised Uniform Law on Notarial Acts, as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 2018, except that a modification to such Law enacted or adopted by a State shall be preempted to the extent such modification—
-      - **(i)** is inconsistent with a provision of section 3 or subsections (a) or (b) of section 4, as applicable; or
+    - **(A)** constitutes an enactment or adoption of the Revised Uniform Law on Notarial Acts, as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 2018 or the Revised Uniform Law on Notarial Acts, as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 2021, except that a modification to such Law enacted or adopted by a State shall be preempted to the extent such modification—
+      - **(i)** is inconsistent with a provision of section 3 or subsection (a) or (b) of section 4, as applicable; or
       - **(ii)** would not be permitted under subparagraph (B); or
     - **(B)** specifies additional or alternative procedures or requirements for the performance of notarizations with respect to electronic records or for remotely located individuals, if those additional or alternative procedures or requirements—
       - **(i)** are consistent with section 3 and subsections (a) and (b) of section 4; and
