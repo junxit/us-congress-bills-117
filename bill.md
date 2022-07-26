@@ -1,0 +1,17 @@
+---
+legis-num: H. RES. 1284
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1284
+
+> Of inquiry directing the Secretary of Health and Human Services to provide certain documentation to the House of Representatives relating to the negotiation of prices for prescription drugs under the Medicare prescription drug program.
+
+That the Secretary of Health and Human Services (referred to herein as the “Secretary”) is directed to furnish to the House of Representatives, not later than 14 days after adoption of this resolution, copies of any document, record, audio recording, memorandum, call log, correspondence (electronic or otherwise), or other communication in the Secretary’s possession, or any portion of any document, record, audio recording, memorandum, call log, correspondence (electronic or otherwise), or other communication in the Secretary’s possession, that refers or relates to any of the following:
+
+- **(1)** Communications by staff of the White House with any group or expert that is not staff of the White House regarding the implications of imposing a 95 percent excise tax on drug manufacturers that fail to comply with price setting negotiations with the Secretary under the Medicare prescription drug program under part D of title XVIII of the Social Security Act and the potential loss of the development of future drugs and cures.
+- **(2)** Internal communications among staff of the White House regarding the implications described in paragraph (1) and the potential loss of development described in such paragraph.
+- **(3)** Communications by staff of the White House with any group or expert that is not staff of the White House regarding the implications of establishing inflation penalties under the Medicare prescription drug program under such part D on launch prices for future prescription drugs.
+- **(4)** Internal communications among staff of the White House regarding the implications described in paragraph (3).
