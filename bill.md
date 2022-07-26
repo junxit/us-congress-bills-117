@@ -35,3 +35,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Updating term* Section 102(16) of the Controlled Substances Act (21 U.S.C. 802(16)) is amended—
   - **(1)** in subparagraph (A), by striking “the term marihuana means” and inserting “the terms marihuana and marijuana mean”; and
   - **(2)** in subparagraph (B), by striking “The term marihuana does not” and inserting “The terms marihuana and marijuana do not”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
