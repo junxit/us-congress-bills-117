@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7132
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7132
@@ -16,9 +16,16 @@ Safe Connections Act of 2022
 
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Cosponsors (1)
+## Cosponsors (8)
 
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
 
 ## Committees (1)
 
@@ -29,3 +36,15 @@ Safe Connections Act of 2022
 - 2022-03-17 — Introduced in House
 - 2022-03-17 — Introduced in House
 - 2022-03-17 — Referred to the House Committee on Energy and Commerce.
+- 2022-03-18 — Referred to the Subcommittee on Communications and Technology.
+- 2022-06-15 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 29 - 0 .
+- 2022-06-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2022-07-13 — Committee Consideration and Mark-up Session Held.
+- 2022-07-13 — Ordered to be Reported by the Yeas and Nays: 53 - 0.
+- 2022-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-26 — Considered under suspension of the rules. (consideration: CR H7103-7106)
+- 2022-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7132.
+- 2022-07-26 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
+- 2022-07-26 — Placed on the Union Calendar, Calendar No. 342.
+- 2022-07-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-438.
+- 2022-07-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-438.

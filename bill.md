@@ -55,7 +55,7 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
 >   - **(1)** *In general* Not later than 2 business days after receiving a completed line separation request from a survivor pursuant to subsection (c), a covered provider shall, as applicable, with respect to a shared mobile service contract under which the survivor and the abuser each use a line—
 >     - **(A)** separate the line of the survivor, and the line of any individual in the care of the survivor, from the shared mobile service contract; or
 >     - **(B)** separate the line of the abuser from the shared mobile service contract.
->   - **(2)** *Limitations on penalties, fees, and other requirements* Except as provided in paragraphs (5) through (8), a covered provider may not make separation of a line from a shared mobile service contract under paragraph (1) contingent on any requirement other than the requirements under subsection (c), including—
+>   - **(2)** *Limitations on penalties, fees, and other requirements* Except as provided in paragraphs (5) through (7), a covered provider may not make separation of a line from a shared mobile service contract under paragraph (1) contingent on any requirement other than the requirements under subsection (c), including—
 >     - **(A)** payment of a fee, penalty, or other charge;
 >     - **(B)** maintaining contractual or billing responsibility of a separated line with the provider;
 >     - **(C)** approval of separation by the primary account holder, if the primary account holder is not the survivor;
@@ -65,12 +65,12 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
 >     - **(G)** any other limitation or requirement not listed under subsection (c).
 >   - **(3)** *Rule of construction* Nothing in paragraph (2) shall be construed to require a covered provider to provide a rate plan for the primary account holder that is not otherwise commercially available.
 >   - **(4)** *Remote option* A covered provider shall offer a survivor the ability to submit a line separation request under subsection (c) through secure remote means that are easily navigable, provided that remote options are commercially available and technically feasible.
->   - **(5)** *Responsibility for transferred telephone numbers* Notwithstanding paragraph (2), beginning on the date on which a covered provider transfers billing responsibilities for and rights to a telephone number or numbers to a survivor under paragraph (1)(A) in response to a line separation request submitted by the survivor under subsection (c), unless ordered otherwise by a court, the survivor shall assume financial responsibility, including for monthly service costs, for the transferred telephone number or numbers.
+>   - **(5)** *Responsibility for transferred telephone numbers* Notwithstanding paragraph (2), beginning on the date on which a covered provider transfers billing responsibilities for and use of a telephone number or numbers to a survivor under paragraph (1)(A) in response to a line separation request submitted by the survivor under subsection (c), unless ordered otherwise by a court, the survivor shall assume financial responsibility, including for monthly service costs, for the transferred telephone number or numbers.
 >   - **(6)** *Responsibility for transferred telephone numbers from a survivor's account* Notwithstanding paragraph (2), upon the transfer of a telephone number under paragraph (1)(B) in response to a line separation request submitted by a survivor under subsection (c), the survivor shall have no further financial responsibilities to the transferring covered provider for the services provided by the transferring covered provider for the telephone number or for any mobile device associated with the telephone number.
 >   - **(7)** *Responsibility for mobile device* Notwithstanding paragraph (2), beginning on the date on which a covered provider transfers billing responsibilities for and rights to a telephone number or numbers to a survivor under paragraph (1)(A) in response to a line separation request submitted by the survivor under subsection (c), unless otherwise ordered by a court, the survivor shall not assume financial responsibility for any mobile device associated with the separated line, unless the survivor purchased the mobile device, or affirmatively elects to maintain possession of the mobile device.
 >   - **(8)** *Notice to survivor* If a covered provider separates a line from a shared mobile service contract under paragraph (1) and the primary account holder is not the survivor, the covered provider shall notify the survivor of the date on which the covered provider intends to give any formal notice to the primary account holder.
 > - **(c)** *Line separation request*
->   - **(1)** *In general* A survivor shall submit to the covered provider a line separation request that—
+>   - **(1)** *In general* In the case of a survivor seeking to separate a line from a shared mobile service contract, the survivor shall submit to the covered provider a line separation request that—
 >     - **(A)** verifies that an individual who uses a line under the shared mobile service contract has committed or allegedly committed a covered act against the survivor or an individual in the survivor’s care, by providing—
 >       - **(i)** a copy of a signed affidavit from a licensed medical or mental health care provider, licensed military medical or mental health care provider, licensed social worker, victim services provider, or licensed military victim services provider, or an employee of a court, acting within the scope of that person’s employment; or
 >       - **(ii)** a copy of a police report, statements provided by police, including military police, to magistrates or judges, charging documents, protective or restraining orders, military protective orders, or any other official record that documents the covered act;
@@ -88,7 +88,7 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
 >       - **(ii)** notify the survivor, or designated representative of the survivor, of the inability of the covered provider to complete the line separation.
 >   - **(3)** *Enhanced protections under State law* This subsection shall not affect any law or regulation of a State providing communications protections for survivors (or any similar category of individuals) that has less stringent requirements for providing evidence of a covered act (or any similar category of conduct) than this subsection.
 > - **(d)** *Confidential and secure treatment of personal information*
->   - **(1)** *In general* Notwithstanding section 222(b), a covered provider and any officer, director, employee, vendor, or agent thereof shall treat any information submitted by a survivor under subsection (c) as confidential and securely dispose of the information not later than 90 days after receiving the information.
+>   - **(1)** *In general* Notwithstanding section 222(c)(2), a covered provider and any officer, director, employee, vendor, or agent thereof shall treat any information submitted by a survivor under subsection (c) as confidential and securely dispose of the information not later than 90 days after receiving the information.
 >   - **(2)** *Rule of construction* Nothing in paragraph (1) shall be construed to prohibit a covered provider from maintaining, for longer than the period specified in that paragraph, a record that verifies that a survivor fulfilled the conditions of a line separation request under subsection (c).
 > - **(e)** *Availability of information to consumers* A covered provider shall make information about the options and process described in subsections (b) and (c) readily available to consumers—
 >   - **(1)** on the website and the mobile application of the provider;
@@ -100,7 +100,7 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
 >     - **(A)** notify the survivor who submitted the request of that infeasibility—
 >       - **(i)** at the time of the request; or
 >       - **(ii)** in the case of a survivor who has submitted the request using remote means, not later than 2 business days after receiving the request; and
->     - **(B)** provide the survivor with information about other alternatives to submitting a line separation request, including starting a new contract.
+>     - **(B)** provide the survivor with information about other alternatives to submitting a line separation request, including starting a new line of service.
 > - **(g)** *Liability protection*
 >   - **(1)** *In general* A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims deriving from an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
 >   - **(2)** *Commission authority* Nothing in this subsection shall limit the authority of the Commission to enforce this section or any rules or regulations promulgated by the Commission pursuant to this section.
@@ -112,9 +112,10 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
   - **(2)** the term appropriate congressional committees means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives;
   - **(3)** the term Commission means the Federal Communications Commission;
   - **(4)** the term covered hotline means a hotline related to domestic violence, dating violence, sexual assault, stalking, sex trafficking, severe forms of trafficking in persons, or any other similar act;
-  - **(5)** the term designated program means the program designated by the Commission under subsection (c)(3)(A)(i) to provide emergency communications support to survivors;
-  - **(6)** the term Lifeline program means the program set forth in subpart E of part 54 of title 47, Code of Federal Regulations (or any successor regulation); and
-  - **(7)** the term text message has the meaning given the term in section 227(e) of the Communications Act of 1934 (47 U.S.C. 227(e)).
+  - **(5)** the term designated program means the program designated by the Commission under subsection (b)(2)(A)(i) to provide emergency communications support to survivors;
+  - **(6)** the term Lifeline program means the program set forth in subpart E of part 54 of title 47, Code of Federal Regulations (or any successor regulation);
+  - **(7)** the term text message has the meaning given the term in section 227(e)(8) of the Communications Act of 1934 (47 U.S.C. 227(e)(8)); and
+  - **(8)** the term “voice service” has the meaning given such term in section 4(a) of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act (47 U.S.C. 227b(a)).
 - **(b)** *Rulemakings*
   - **(1)** *Line separations*
     - **(A)** *In general* Not later than 18 months after the date of enactment of this Act, the Commission shall adopt rules to implement section 345 of the Communications Act of 1934, as added by section 4 of this Act.
@@ -123,8 +124,8 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
       - **(ii)** account security and fraud detection;
       - **(iii)** account billing procedures;
       - **(iv)** procedures for notification of survivors about line separation processes;
-      - **(v)** notice to account holders;
-      - **(vi)** situations in which a covered provider cannot operationally or technically separate a telephone number or numbers from a shared service plan such that the provider cannot effectuate a line separation request;
+      - **(v)** notice to primary account holders;
+      - **(vi)** situations in which a covered provider cannot operationally or technically separate a telephone number or numbers from a shared mobile service contract such that the provider cannot effectuate a line separation request;
       - **(vii)** the requirements for remote submission of a line separation request, including how that option facilitates submission of verification information and meets the other requirements of section 345 of the Communications Act of 1934, as added by section 4 of this Act;
       - **(viii)** feasibility of remote options for small covered providers;
       - **(ix)** implementation timelines, including those for small covered providers;
@@ -146,29 +147,29 @@ Part I of title III of the Communications Act of 1934 (47 U.S.C. 301 et seq.) is
       - **(ii)** assess the detection and elimination of fraud, waste, and abuse with respect to the support described in clause (i); and
       - **(iii)** submit to the appropriate congressional committees a report that includes the evaluation and assessment described in clauses (i) and (ii), respectively.
     - **(D)** *Rule of construction* Nothing in this paragraph shall be construed to limit the ability of a survivor who meets the requirements under section 345(c)(1) of the Communications Act of 1934, as added by section 4 of this Act, to participate in the designated program indefinitely if the survivor otherwise qualifies for the designated program under the rules of the designated program.
-    - **(E)** *Notification* A provider of wireless communications services that receives a line separation request pursuant to section 345 of the Communications Act of 1934, as added by section 4 of this Act, shall inform the survivor who submitted the request of—
+    - **(E)** *Notification* A covered provider that receives a line separation request pursuant to section 345 of the Communications Act of 1934, as added by section 4 of this Act, shall inform the survivor who submitted the request of—
       - **(i)** the existence of the designated program;
       - **(ii)** who qualifies to participate in the designated program under the rules adopted under subparagraph (A) that are specially applicable to survivors; and
       - **(iii)** how to participate in the designated program under the rules described in clause (ii).
   - **(3)** *Hotline calls*
     - **(A)** *In general* Not later than 180 days after the date of enactment of this Act, the Commission shall commence a rulemaking proceeding to consider whether to, and how the Commission should—
-      - **(i)** establish, and update on a monthly basis, a central database of covered hotlines to be used by providers of wireless communications services or wireline voice services; and
-      - **(ii)** require providers of wireless communications services or wireline voice services to omit from consumer-facing logs of calls or text messages any records of calls or text messages to covered hotlines in the central database described in clause (i), while maintaining internal records of those calls and messages.
+      - **(i)** establish, and update on a monthly basis, a central database of covered hotlines to be used by a covered provider or a wireline provider of voice service; and
+      - **(ii)** require a covered provider or a wireline provider of voice service to omit from consumer-facing logs of calls or text messages any records of calls or text messages to covered hotlines in the central database described in clause (i), while maintaining internal records of those calls and messages.
     - **(B)** *Considerations* The rulemaking conducted under subparagraph (A) shall include consideration of—
       - **(i)** the ability of law enforcement agencies or survivors to access a log of calls or text messages in a criminal investigation or civil proceeding;
-      - **(ii)** the ability of providers of wireless communication services or wireline voice services to—
+      - **(ii)** the ability of a covered provider or a wireline provider of voice service to—
         - **(I)** identify logs that are consumer-facing; and
         - **(II)** omit certain consumer-facing logs, while maintaining internal records of such calls and text messages; and
-      - **(iii)** any other factors associated with the implementation of clauses (i) and (ii) to protect survivors of domestic violence, including factors that may impact smaller providers.
+      - **(iii)** any other factors associated with the implementation of clauses (i) and (ii) to protect survivors, including factors that may impact smaller providers.
     - **(C)** *No effect on law enforcement* Nothing in subparagraph (A) shall be construed to—
       - **(i)** limit or otherwise affect the ability of a law enforcement agency to access a log of calls or text messages in a criminal investigation; or
       - **(ii)** alter or otherwise expand provider requirements under the Communications Assistance for Law Enforcement Act (Public Law 103–414; 108 Stat. 4279) or the amendments made by that Act.
-    - **(D)** *Compliance* If the Commission establishes a central database through the rulemaking under subparagraph (A) and a covered provider updates its own databases to match the central database not less frequently than once every 30 days, no cause of action shall lie or be maintained in any court against the covered provider or its officers, employees, or agents for claims deriving from omission from consumer-facing logs of calls or text messages any records of calls or text messages to covered hotlines in the central database.
+    - **(D)** *Compliance* If the Commission establishes a central database through the rulemaking under subparagraph (A) and a covered provider updates its own databases to match the central database not less frequently than once every 30 days, no cause of action shall lie or be maintained in any court against the covered provider or its officers, employees, or agents for claims deriving from omission from consumer-facing logs of calls or text messages of any records of calls or text messages to covered hotlines in the central database.
 
 ## § 6. Effective date
 
-The requirements under section 345 of the Communications Act of 1934, as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(2) of this Act.
+The requirements under section 345 of the Communications Act of 1934, as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(1) of this Act.
 
 ## § 7. Savings clause
 
-Nothing in this Act or the amendments made by this Act shall be construed to abrogate, limit, or otherwise affect the provisions set forth in the Communications Assistance for Law Enforcement Act (Public Law 103–414; 108 Stat. 4279) and the amendments made by that Act, any authority granted to the Commission pursuant to that Act or the amendments made by that Act, or any regulations promulgated by the Commission pursuant to that Act or the amendments made by that Act.
+Nothing in this Act or the amendments made by this Act shall be construed to abrogate, limit, or otherwise affect the provisions set forth in the Communications Assistance for Law Enforcement Act (Public Law 103–414; 108 Stat. 4279) and the amendments made by that Act, any authority granted to the Federal Communications Commission pursuant to that Act or the amendments made by that Act, or any regulations promulgated by the Federal Communications Commission pursuant to that Act or the amendments made by that Act.
