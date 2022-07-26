@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5093
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5093
@@ -25,3 +25,11 @@ Wind River Administrative Site Conveyance Act
 - 2021-08-24 — Introduced in House
 - 2021-08-24 — Introduced in House
 - 2021-08-24 — Referred to the House Committee on Natural Resources.
+- 2021-08-26 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-03-01 — Subcommittee Hearings Held.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-04-06 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-07-26 — Placed on the Union Calendar, Calendar No. 338.
+- 2022-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-434.
+- 2022-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-434.
