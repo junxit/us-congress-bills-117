@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1842
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1842
@@ -335,3 +335,10 @@ Harriet Tubman Bicentennial Commemorative Coin Act
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7147-7148)
 - 2022-07-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S3736)
 - 2022-07-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S3736)
+- 2022-07-28 — Message on Senate action sent to the House.
+- 2022-08-02 — Presented to President.
+- 2022-08-02 — Presented to President.
+- 2022-08-03 — Became Public Law No: 117-163.
+- 2022-08-03 — Became Public Law No: 117-163.
+- 2022-08-03 — Signed by President.
+- 2022-08-03 — Signed by President.
