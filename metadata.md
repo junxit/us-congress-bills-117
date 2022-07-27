@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7624
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7624
@@ -64,3 +64,10 @@ Spectrum Innovation Act of 2022
 - 2022-07-22 — Placed on the Union Calendar, Calendar No. 335.
 - 2022-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-429.
 - 2022-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-429.
+- 2022-07-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-26 — Considered under suspension of the rules. (consideration: CR H7106-7112)
+- 2022-07-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7624.
+- 2022-07-26 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
+- 2022-07-27 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended.(consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7106-7110)
+- 2022-07-27 — Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended. (consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7106-7110)
+- 2022-07-27 — Pursuant to the provisions of H. Res. 1254, proceedings on H.R. 7624 are considered vacated.
