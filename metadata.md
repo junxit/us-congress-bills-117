@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1057
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1057
@@ -337,3 +337,5 @@ Greatest Generation Commemorative Coin Act
 - 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7153-7154)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7153-7154)
+- 2022-07-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S3736)
+- 2022-07-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S3736)
