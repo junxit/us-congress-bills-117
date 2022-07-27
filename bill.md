@@ -63,3 +63,12 @@ This Act may be cited as the “Susan Muffley Act of 2022”.
       - **(ii)** such taxpayer is an eligible participant,
       - **(iii)** the surviving spouse of such eligible participant is entitled to a survivor benefit from the corporation with respect to such eligible participant, and
       - **(iv)** such surviving spouse elects (at such time and in such manner as the Secretary may provide) the application of this subparagraph,
+
+## § 3. Pension variable rate premium payment acceleration
+
+Notwithstanding section 4007(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1307(a)) and section 4007.11 of title 29, Code of Federal Regulations, any additional premium determined under subparagraph (E) of section 4006(a)(3) of such Act (29 U.S.C. 1306(a)(3)) the due date for which is (but for this section) after September 15, 2032, and before November 1, 2032, shall be due not later than September 15, 2032.
+
+## § 4. Pension benefit guaranty corporation report
+
+- **(a)** *Request for information* Not later than 1 year after the date of enactment of this Act, the Director of the Pension Benefit Guaranty Corporation shall issue a request for information to the public regarding ways to ensure the long-term solvency of the Pension Benefit Guaranty Corporation’s insurance programs.
+- **(b)** *Report to Congress* Not later than 2 years after the date of enactment of this Act, the Director of the Pension Benefit Guaranty Corporation shall, taking into consideration the information received in the request for information described in subsection (a), submit a report, which shall include recommendations on how to ensure the long-term solvency of the Pension Benefit Guaranty Corporation’s insurance programs, to the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate.
