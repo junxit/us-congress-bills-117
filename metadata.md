@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 117
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4346
@@ -16,8 +16,28 @@ Chips and Science Act
 
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 
-## Cosponsors (1)
+## Cosponsors (21)
 
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 
 ## Committees (2)
@@ -92,3 +112,90 @@ Chips and Science Act
 - 2022-06-22 — Senate amendment proposed (on the floor): Amendment SA 5120 proposed by Senator Whitehouse for Senator Hagerty.
 - 2022-06-22 — Senate amendment submitted
 - 2022-06-24 — Pursuant to the provisions of H.Res. 1204, the House agreed to the Senate amendment with amendment. (consideration: CR H5891; text: CR H5891-5892)
+- 2022-07-11 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2022-07-19 — Amendment SA 5135 proposed by Senator Schumer. (consideration: CR S3362; text: CR S3387-3496) To improve the bill.
+- 2022-07-19 — Amendment SA 5136 proposed by Senator Schumer to Amendment SA 5135. (consideration: CR S3362; text: CR S3496) To add an effective date.
+- 2022-07-19 — Amendment SA 5137 proposed by Senator Schumer. (consideration: CR S3362; text: CR S3496) To add an effective date.
+- 2022-07-19 — Amendment SA 5138 proposed by Senator Schumer to Amendment SA 5137 (the instructions of the motion to refer). (consideration: CR S3362; text: CR S3496) To modify the effective date.
+- 2022-07-19 — Measure laid before Senate by motion. (consideration: CR S3362)
+- 2022-07-19 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) made in Senate. (CR S3362)
+- 2022-07-19 — Motion by Senator Schumer to refer to Senate Committee on Commerce, Science, and Transportation the House message to accompany H.R. 4346 with instructions to report back forthwith with the following amendment (SA 5137) made in Senate. (CR S3362)
+- 2022-07-19 — Motion to proceed to consideration of the House message to accompany H.R. 4346 agreed to in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 261.
+- 2022-07-19 — Senate amendment proposed (on the floor): Amendment SA 5135 proposed by Senator Schumer.
+- 2022-07-19 — Senate amendment proposed (on the floor): Amendment SA 5136 proposed by Senator Schumer to Amendment SA 5135.
+- 2022-07-19 — Senate amendment proposed (on the floor): Amendment SA 5137 proposed by Senator Schumer.
+- 2022-07-19 — Senate amendment proposed (on the floor): Amendment SA 5138 proposed by Senator Schumer to Amendment SA 5137 (the instructions of the motion to refer).
+- 2022-07-19 — Senate amendment submitted
+- 2022-07-19 — Senate amendment submitted
+- 2022-07-19 — Senate amendment submitted
+- 2022-07-19 — Senate amendment submitted
+- 2022-07-20 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) presented in Senate. (CR S3527)
+- 2022-07-20 — Considered by Senate (Message from the House considered). (consideration: CR S3527)
+- 2022-07-20 — Considered by Senate (Message from the House considered). (consideration: CR S3527)
+- 2022-07-20 — Considered by Senate (Message from the House considered). (consideration: CR S3527)
+- 2022-07-20 — Considered by Senate (Message from the House considered). (consideration: CR S3527)
+- 2022-07-20 — Considered by Senate (Message from the House considered). (consideration: CR S3527)
+- 2022-07-20 — Senate amendment submitted
+- 2022-07-20 — Senate amendment submitted
+- 2022-07-20 — Senate amendment submitted
+- 2022-07-21 — Considered by Senate (Message from the House considered). (consideration: CR S3582)
+- 2022-07-21 — Considered by Senate (Message from the House considered). (consideration: CR S3582)
+- 2022-07-21 — Considered by Senate (Message from the House considered). (consideration: CR S3582)
+- 2022-07-21 — Considered by Senate (Message from the House considered). (consideration: CR S3582)
+- 2022-07-21 — Considered by Senate (Message from the House considered). (consideration: CR S3582)
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-21 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-25 — Senate amendment submitted
+- 2022-07-26 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) invoked in Senate by Yea-Nay Vote. 64 - 32. Record Vote Number: 268. (CR S3665)
+- 2022-07-26 — Considered by Senate (Message from the House considered).
+- 2022-07-26 — Considered by Senate (Message from the House considered). (consideration: CR S3665)
+- 2022-07-26 — Considered by Senate (Message from the House considered). (consideration: CR S3665)
+- 2022-07-26 — Motion by Senator Schumer to refer to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 5137) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) in Senate.
+- 2022-07-26 — Motion to waive section 404(a) of S. Con. Res. 13, 111th Congress, as amended by S. Con. Res. 11, 114th Congress, with respect to amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 63 - 32. Record Vote Number: 269.
+- 2022-07-26 — Point of order that the amendment violates section 404(a) of S. Con. Res. 13, 111th Congress, as amended by S. Con. Res. 11, 114th Congress, raised in Senate with respect to amendment SA 5135.
+- 2022-07-26 — Roll call votes on amendments in Senate: Motion to waive section 404(a) of S. Con. Res. 13, 111th Congress, as amended by S. Con. Res. 11, 114th Congress, with respect to amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 63 - 32. Record Vote Number: 269.
+- 2022-07-26 — SA 5137 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135).
+- 2022-07-26 — SA 5138 (the instructions of the motion to refer) fell when SA 5137 fell.
+- 2022-07-26 — Senate amendment submitted
+- 2022-07-27 — Amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
+- 2022-07-27 — Considered by Senate (Message from the House considered). (consideration: CR S3707)
+- 2022-07-27 — Considered by Senate (Message from the House considered). (consideration: CR S3707)
+- 2022-07-27 — Considered by Senate (Message from the House considered). (consideration: S3707¿3715)
+- 2022-07-27 — Message on Senate action sent to the House.
+- 2022-07-27 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 270.
+- 2022-07-27 — Point of order that the amendment violates section 4106 of H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 5135.
+- 2022-07-27 — Proposed amendment SA 5136 withdrawn in Senate.
+- 2022-07-27 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
+- 2022-07-27 — Roll call votes on amendments in Senate: Amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
+- 2022-07-27 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 270.
+- 2022-07-27 — Senate amendment agreed to: Amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
+- 2022-07-27 — Senate concurred in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
