@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4040
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 3 executed, 15 stated and not applied.
+14 amendatory instructions. 12 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,111 @@ to guess them.
 
 ### 42 U.S.C. § 1395m
 
-> in clause (i), in the matter preceding subclause (I), by striking “clause (ii)” and inserting “clauses (ii) and (iii)”; and
+> by striking “With” and inserting “In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, with”; and
 
 | | |
 |---|---|
-| Removed | `clause (ii)` |
-| Inserted | `clauses (ii) and (iii)` |
+| Removed | `With` |
+| Inserted | `In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, with` |
 
 ### 42 U.S.C. § 1395m
 
-> in paragraph (1), by striking “(described in section 1842(b)(18)(C))” and inserting “(defined in paragraph (4)(E))”; and
+> by striking “that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “that are furnished during the period beginning on the first day after the end of such emergency period and ending December 31, 2024”; and
 
 | | |
 |---|---|
-| Removed | `(described in section 1842(b)(18)(C))` |
-| Inserted | `(defined in paragraph (4)(E))` |
+| Removed | `that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)` |
+| Inserted | `that are furnished during the period beginning on the first day after the end of such emergency period and ending December 31, 2024` |
 
 ### 42 U.S.C. § 1395m
 
-> in subparagraph (A), in the matter preceding clause (i), by striking “During” and inserting “Beginning on the first day of”; and
+> by striking “With” and inserting “In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, with”; and
 
 | | |
 |---|---|
-| Removed | `During` |
-| Inserted | `Beginning on the first day of` |
+| Removed | `With` |
+| Inserted | `In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, with` |
+
+### 42 U.S.C. § 1395m
+
+> by striking “that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “that are furnished during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
+
+| | |
+|---|---|
+| Removed | `that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)` |
+| Inserted | `that are furnished during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024` |
+
+### 42 U.S.C. § 1395m
+
+> Section 1834(m)(4)(E) of the Social Security Act (42 U.S.C. 1395m(m)(4)(E)) is amended by striking “and, for the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “and, in the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, for the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
+
+| | |
+|---|---|
+| Removed | `and, for the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)` |
+| Inserted | `and, in the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, for the period beginning on the first day after the end of such emergency period and ending on December 31, 2024` |
+
+### 42 U.S.C. § 1395m
+
+> Section 1834(m)(8)(A) of the Social Security Act (42 U.S.C. 1395m(m)(8)(A)) is amended by striking “during the 151-day period beginning on the first day after the end of such emergency period” and inserting “in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
+
+| | |
+|---|---|
+| Removed | `during the 151-day period beginning on the first day after the end of such emergency period` |
+| Inserted | `in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024` |
+
+### 42 U.S.C. § 1395m
+
+> Section 1834(m)(7)(B)(i) of the Social Security Act (42 U.S.C. 1395m(m)(7)(B)(i)) is amended, in the matter preceding subclause (I), by striking “on or after the day that is the 152nd day after the end of the period at the end of the emergency sentence described in section 1135(g)(1)(B))” and inserting “on or after January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))”.
+
+| | |
+|---|---|
+| Removed | `on or after the day that is the 152nd day after the end of the period at the end of the emergency sentence described in section 1135(g)(1)(B))` |
+| Inserted | `on or after January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))` |
+
+### 42 U.S.C. § 1395m
+
+> in paragraph (2), by striking “prior to the day that is the 152nd day after the end of the emergency period described in section 1135(g)(1)(B))” and inserting “prior to January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))”.
+
+| | |
+|---|---|
+| Removed | `prior to the day that is the 152nd day after the end of the emergency period described in section 1135(g)(1)(B))` |
+| Inserted | `prior to January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))` |
+
+### 42 U.S.C. § 1395m
+
+> in subparagraph (B), by striking “prior to the day that is the 152nd day after the end of the emergency period described in section 1135(g)(1)(B))” and inserting “prior to January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))”.
+
+| | |
+|---|---|
+| Removed | `prior to the day that is the 152nd day after the end of the emergency period described in section 1135(g)(1)(B))` |
+| Inserted | `prior to January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))` |
+
+### 42 U.S.C. § 1395m
+
+> Section 1834(m)(9) of the Social Security Act (42 U.S.C. 1395m(m)(9)) is amended by striking “The Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of the date of the enactment of this paragraph that are furnished via an audio-only telecommunications system during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, the Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) that are furnished via an audio-only communications system during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
+
+| | |
+|---|---|
+| Removed | `The Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of the date of the enactment of this paragraph that are furnished via an audio-only telecommunications system during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)` |
+| Inserted | `In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, the Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) that are furnished via an audio-only communications system during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024` |
+
+### 42 U.S.C. § 1395f
+
+> Section 1814(a)(7)(D)(i)(II) of the Social Security Act (42 U.S.C. 1395f(a)(7)(D)(i)(II)) is amended by striking “and during the 151-day period beginning on the first day after the end of such emergency period” and inserting “and, in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period described in such section 1135(g)(1)(B) and ending on December 31, 2024”.
+
+| | |
+|---|---|
+| Removed | `and during the 151-day period beginning on the first day after the end of such emergency period` |
+| Inserted | `and, in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period described in such section 1135(g)(1)(B) and ending on December 31, 2024` |
+
+### 42 U.S.C. § 1395jjj
+
+> Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395jjj(b)(1)) is amended by striking “$7,500,000,000” and inserting “$5,153,000,000”.
+
+| | |
+|---|---|
+| Removed | `$7,500,000,000` |
+| Inserted | `$5,153,000,000` |
 
 ## Stated, not applied
 
@@ -60,18 +141,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(m)(4)(C) of the Social Security Act (42 U.S.C. 1395m(m)(4)(C)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in clause (i), in the matter preceding subclause (I), by inserting “and clause (iii)” after “and (7)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in clause (ii)(X), by inserting “prior to the first day after the end of the emergency period described in section 1135(g)(1)(B)” before the period; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in paragraph (5), by inserting “and prior to the first day after the end of the emergency period described in section 1135(g)(1)(B)” after “January 1, 2019,”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in paragraph (6)(A), by inserting “and prior to the first day after the end of the emergency period described in section 1135(g)(1)(B),” after “January 1, 2019,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | in paragraph (7), by inserting “and prior to the first day after the end of the emergency period described in section 1135(g)(1)(B),” after “July 1, 2019,”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | replace | by striking “practitioner.—The term” and inserting “practitioner.— | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(m)(4) of the Social Security Act (42 U.S.C. 1395m(m)(4)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | strike | in the header, by striking “during emergency period”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395m` | strike | in subparagraph (B)(i), by striking “during such emergency period”. | the bill quotes the text struck but describes what replaces it |
-| — | replace | in subparagraph (I), by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (J), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395m` | strike | in the heading, by striking “to hospice patients”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395m` | strike | in the heading, by striking “to hospice patients”; and | the bill quotes the text struck but describes what replaces it |
