@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6528
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6528
@@ -16,9 +16,10 @@ Housing Temperature Safety Act of 2022
 
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Housing Temperature Safety Act of 2022
 - 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7149)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7149)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
