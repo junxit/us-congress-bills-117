@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1256
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1256
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 263) to amend the Lacey Act Amendm
 - 2022-07-26 — Resolution provides for one hour of general debate and one motion to recommit on each bill. H. Res. 517 is considered adopted.
 - 2022-07-26 — The House Committee on Rules reported an original measure, H. Rept. 117-444, by Mrs. Torres (CA).
 - 2022-07-26 — The House Committee on Rules reported an original measure, H. Rept. 117-444, by Mrs. Torres (CA).
+- 2022-07-27 — Considered as privileged matter. (consideration: CR H7177-7182)
+- 2022-07-27 — DEBATE - The House proceeded with one hour of debate on H. Res. 1256.
+- 2022-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-27 — On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 207 (Roll no. 395). (text: CR H7177-7178)
+- 2022-07-27 — On ordering the previous question Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 394).
+- 2022-07-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 218 - 207 (Roll no. 395).(text: CR H7177-7178)
