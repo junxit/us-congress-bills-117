@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7289
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7289
@@ -26,9 +26,10 @@ Federal PFAS Research Evaluation Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Federal PFAS Research Evaluation Act
 - 2022-07-26 — Mr. Beyer moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 62 (Roll no. 389). (text: CR H7092-7093)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 62 (Roll no. 389).(text: CR H7092-7093)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
