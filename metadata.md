@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 517
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 517
@@ -16,7 +16,7 @@ Original Slavery Remembrance Day Resolution of 2021
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (77)
+## Cosponsors (137)
 
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
@@ -95,6 +95,66 @@ Original Slavery Remembrance Day Resolution of 2021
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 
 ## Committees (1)
 
@@ -106,3 +166,5 @@ Original Slavery Remembrance Day Resolution of 2021
 - 2021-07-01 — Introduced in House
 - 2021-07-01 — Referred to the House Committee on Oversight and Reform.
 - 2021-07-01 — Sponsor introductory remarks on measure. (CR H3591-3594)
+- 2022-07-27 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1256, H. Res. 517 is considered passed House.(consideration: CR H7182-7184; text: CR H7183-7184)
+- 2022-07-27 — Pursuant to the provisions of H. Res. 1256, H. Res. 517 is considered passed House. (consideration: CR H7182-7184; text: CR H7183-7184)
