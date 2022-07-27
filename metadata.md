@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 623
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 623
@@ -33,3 +33,5 @@ A resolution calling on the Secretary of State to designate the Russian Federati
 - 2022-07-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-07-11 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
+- 2022-07-27 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S3736-3737; text: CR S3736-3737)
+- 2022-07-27 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S3736-3737; text: CR S3736-3737)
