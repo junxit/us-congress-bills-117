@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8454
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8454
@@ -49,3 +49,12 @@ Medical Marijuana and Cannabidiol Research Expansion Act
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 95 (Roll no. 392). (text: CR H7120-7122)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 95 (Roll no. 392).(text: CR H7120-7122)
 - 2022-07-27 — Received in the Senate, read twice.
+- 2022-11-16 — Passed Senate without amendment by Voice Vote. (consideration: CR S6746-6747)
+- 2022-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-11-17 — Message on Senate action sent to the House.
+- 2022-11-29 — Presented to President.
+- 2022-11-29 — Presented to President.
+- 2022-12-02 — Became Public Law No: 117-215.
+- 2022-12-02 — Became Public Law No: 117-215.
+- 2022-12-02 — Signed by President.
+- 2022-12-02 — Signed by President.
