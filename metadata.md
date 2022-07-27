@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6845
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6845
@@ -20,9 +20,10 @@ Commercial Remote Sensing Amendment Act of 2022
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Commercial Remote Sensing Amendment Act of 2022
 - 2022-07-26 — Mr. Beyer moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7089)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7089)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
