@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6552
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6552
@@ -28,13 +28,14 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (5)
+## Committees (6)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
 - House — Oversight and Accountability Committee
 - House — Ways and Means Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - 2022-07-26 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 20 (Roll no. 388). (text: CR H7083-7085)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 20 (Roll no. 388).(text: CR H7083-7085)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
