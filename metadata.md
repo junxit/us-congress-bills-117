@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8454
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8454
@@ -48,3 +48,4 @@ Medical Marijuana and Cannabidiol Research Expansion Act
 - 2022-07-26 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 95 (Roll no. 392). (text: CR H7120-7122)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 95 (Roll no. 392).(text: CR H7120-7122)
+- 2022-07-27 — Received in the Senate, read twice.
