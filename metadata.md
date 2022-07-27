@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3771
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3771
@@ -68,3 +68,27 @@ South Asian Heart Health Awareness and Research Act of 2022
 - 2022-07-21 — Placed on the Union Calendar, Calendar No. 333.
 - 2022-07-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-427.
 - 2022-07-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-427.
+- 2022-07-26 — Rules Committee Resolution H. Res. 1254 Reported to House. Rule provides for consideration of H.R. 3771, H.R. 5118 and H.R. 6929. Rule provides for consideration under structured rules for H.R. 3771, H.R. 5118 and H.R. 6929, and provides for one hour of general debate on each bill.
+- 2022-07-27 — Amendment (A002) offered by Mr. Pallone. (consideration: CR H7188-7189; text: CR H7188)
+- 2022-07-27 — Amendment agreed to by House: On agreeing to the Pallone amendment (A002) Agreed to by voice vote.
+- 2022-07-27 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-07-27 — Considered as unfinished business. (consideration: CR H7220-7221)
+- 2022-07-27 — Considered under the provisions of rule H. Res. 1254. (consideration: CR H7185-7189; text: CR H7185)
+- 2022-07-27 — DEBATE - Pursuant to the provisions of H. Res. 1254, the House proceeded with 10 minutes of debate on the Pallone Part A amendment No. 1.
+- 2022-07-27 — DEBATE - The House proceeded with one hour of debate on H.R. 3771.
+- 2022-07-27 — House amendment agreed to: On agreeing to the Pallone amendment (A002) Agreed to by voice vote.
+- 2022-07-27 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-07-27 — House amendment offered
+- 2022-07-27 — House amendment offered
+- 2022-07-27 — House amendment offered/reported by: Amendment (A002) offered by Mr. Pallone.
+- 2022-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-27 — Mrs. Miller-Meeks moved to recommit to the Committee on Energy and Commerce.
+- 2022-07-27 — On agreeing to the Pallone amendment (A002) Agreed to by voice vote.
+- 2022-07-27 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-07-27 — On motion to recommit Failed by the Yeas and Nays: 198 - 225 (Roll no. 397).
+- 2022-07-27 — On passage Passed by recorded vote: 237 - 192 (Roll no. 398).
+- 2022-07-27 — POSTPONED PROCEEDINGS - The Chair put the question on the Miller-Meeks motion to recommit and by voice vote, announced that the noes had prevailed. Mrs. Miller-Meeks demanded the yeas and nays and the Chair postponed further proceedings on the motion to recommit until a time to be announced.
+- 2022-07-27 — Passed/agreed to in House: On passage Passed by recorded vote: 237 - 192 (Roll no. 398).
+- 2022-07-27 — Rule provides for consideration of H.R. 3771, H.R. 5118 and H.R. 6929. Rule provides for consideration under structured rules for H.R. 3771, H.R. 5118 and H.R. 6929, and provides for one hour of general debate on each bill.
+- 2022-07-27 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-07-27 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
