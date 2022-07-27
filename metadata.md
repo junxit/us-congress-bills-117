@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7180
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7180
@@ -28,9 +28,10 @@ Brycen Gray and Ben Price COVID–19 Cognitive Research Act
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Brycen Gray and Ben Price COVID–19 Cognitive Research Act
 - 2022-07-26 — Mr. Beyer moved to suspend the rules and pass the bill.
 - 2022-07-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 69 (Roll no. 391). (text: CR H7101)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 69 (Roll no. 391).(text: CR H7101)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
