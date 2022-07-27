@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4590
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4590
@@ -24,9 +24,10 @@ Promoting New and Diverse Depository Institutions Act
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Promoting New and Diverse Depository Institutions Act
 - 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7150-7151)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7150-7151)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
