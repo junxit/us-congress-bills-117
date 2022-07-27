@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4346
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4346
 
-That the Senate agree to the amendment of the House to the amendment of the Senate to the bill (H.R. 4346) entitled “An Act making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes. ”, do pass with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the House to the amendment of the Senate, insert the following:*
+> Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes.
 
 ## § 1. Table of contents
 

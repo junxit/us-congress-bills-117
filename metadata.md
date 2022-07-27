@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4346
@@ -199,3 +199,16 @@ Chips and Science Act
 - 2022-07-27 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 270.
 - 2022-07-27 — Senate amendment agreed to: Amendment SA 5135 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
 - 2022-07-27 — Senate concurred in the House amendment to the Senate amendment to H.R. 4346 with an amendment (SA 5135) by Yea-Nay Vote. 64 - 33. Record Vote Number: 271.
+- 2022-07-28 — DEBATE - The House proceeded with one hour of debate on the Johnson (TX) motion to concur in the Senate amendment to the House amendment to the Senate amendment to H.R. 4346.
+- 2022-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-28 — Ms. Johnson (TX) moved that the House agree to the Senate amendment to the House amendment to the Senate amendment.
+- 2022-07-28 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 243 - 187, 1 Present (Roll no. 404). (text: CR H7273-7374)
+- 2022-07-28 — Pursuant to the provisions of H.Res. 1289, Ms. Johnson (TX) moved that the House concur in the Senate amendment to the House amendment to the Senate amendment to H.R. 4346. (consideration: CR H7273-7387)
+- 2022-07-28 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 243 - 187, 1 Present (Roll no. 404).
+- 2022-07-28 — The previous question was ordered pursuant to the rule.
+- 2022-08-02 — Presented to President.
+- 2022-08-02 — Presented to President.
+- 2022-08-09 — Became Public Law No: 117-167.
+- 2022-08-09 — Became Public Law No: 117-167.
+- 2022-08-09 — Signed by President.
+- 2022-08-09 — Signed by President.
