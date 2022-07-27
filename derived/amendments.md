@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 3 executed, 7 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -65,5 +65,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 282a` | strike | by striking “10-Year”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 282a` | strike | by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 282a` | insert | by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2023 through 2027”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9008` | strike | Section 9008(i)(2) of the Internal Revenue Code of 1986 is amended by striking “10 year”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 282` | insert | Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by inserting “and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the Nat… | the bill quotes the text inserted but describes where it goes |

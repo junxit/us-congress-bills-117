@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 623
 
-> To require certain civil penalties to be transferred to a fund through which amounts are made available for the Gabriella Miller Kids First Pediatric Research Program at the National Institutes of Health, and for other purposes.
+> To extend the Gabriella Miller Kids First Pediatric Research Program at the National Institutes of Health, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,18 +15,18 @@ This Act may be cited as the “Gabriella Miller Kids First Research Act 2.0”.
 
 ## § 2. Funding for the Pediatric Research Initiative
 
-- **(a)** *Public Health Service Act* The Public Health Service Act (42 U.S.C. 201 et seq.) is amended—
-  - **(1)** in section 402A(a)(2) (42 U.S.C. 282a(a)(2))—
-    - **(A)** in the heading—
-      - **(i)** by striking “10-year”; and
-      - **(ii)** by striking “through Common Fund”;
-    - **(B)** by striking “to the Common Fund” and inserting “to the Division of Program Coordination, Planning, and Strategic Initiatives”;
-    - **(C)** by striking “10-Year”;
-    - **(D)** by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and
-    - **(E)** by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2023 through 2027”;
-  - **(2)** in each of paragraphs (1)(A) and (2)(C) of section 402A(c) (42 U.S.C. 282a(c)), by striking “section 402(b)(7)(B)” and inserting “section 402(b)(7)(B)(i)”; and
-  - **(3)** in section 402(b)(7)(B)(ii) (42 U.S.C. 282(b)(7)(B)(ii)), by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
-- **(b)** *Internal Revenue Code of 1986* Section 9008(i)(2) of the Internal Revenue Code of 1986 is amended by striking “10 year”.
+The Public Health Service Act (42 U.S.C. 201 et seq.) is amended—
+
+- **(1)** in section 402A(a)(2) (42 U.S.C. 282a(a)(2))—
+  - **(A)** in the heading—
+    - **(i)** by striking “10-year”; and
+    - **(ii)** by striking “through Common Fund”;
+  - **(B)** by striking “to the Common Fund” and inserting “to the Division of Program Coordination, Planning, and Strategic Initiatives”;
+  - **(C)** by striking “10-Year”;
+  - **(D)** by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and
+  - **(E)** by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2023 through 2027”;
+- **(2)** in each of paragraphs (1)(A) and (2)(C) of section 402A(c) (42 U.S.C. 282a(c)), by striking “section 402(b)(7)(B)” and inserting “section 402(b)(7)(B)(i)”; and
+- **(3)** in section 402(b)(7)(B)(ii) (42 U.S.C. 282(b)(7)(B)(ii)), by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
 
 ## § 3. Coordination of NIH funding for pediatric research
 
