@@ -37,9 +37,15 @@ This Act may be cited as the “Institute for Telecommunication Sciences Codific
   >       - **(v)** promote activities relating to access to Federal spectrum by non-Federal users and the sharing of Federal spectrum between Federal and non-Federal users; and
   >       - **(vi)** conduct such other activities as determined necessary by the Assistant Secretary.
   >     - **(B)** *Additional functions* The Assistant Secretary may delegate to ITS any of the functions assigned to the Assistant Secretary under section 103(b)(1).
-  >   - **(3)** *Agreements and transactions* The Assistant Secretary, acting through the head of ITS, may enter into such agreements, including contracts, cooperative agreements, and interagency agreements, as may be necessary to carry out the functions described in paragraph (2).
-  >   - **(4)** *Funds from Federal and non-Federal entities* In addition to such other sums as may be made available to carry out this section, the Assistant Secretary, acting through the head of ITS may accept, hold, administer, and use funds from any Federal entity or non-Federal entity, including a State government, local government, or private sector entity, for ITS to perform analysis or conduct a technical study on behalf of such entity.
-  >   - **(5)** *Federal spectrum defined* In this subsection, the term Federal spectrum means frequencies assigned on a primary basis to a Federal entity (as defined in section 113(l) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(l))).
+  >   - **(3)** *Agreements and transactions* In carrying out the functions described in paragraph (2), the Assistant Secretary, acting through the head of ITS, may enter into agreements as provided under the following authorities:
+  >     - **(A)** Sections 11 and 12 of the Stevenson–Wydler Technology Innovation Act of 1980.
+  >     - **(B)** Section 1535 of title 31, United States Code.
+  >     - **(C)** Sections 207 and 209 of title 35, United States Code.
+  >     - **(D)** Section 103(b)(2) of this Act.
+  >     - **(E)** Section 113(g) of this Act.
+  >     - **(F)** The first undesignated section of Public Law 91–412.
+  >     - **(G)** As authorized in any other Federal statute.
+  >   - **(4)** *Federal spectrum defined* In this subsection, the term Federal spectrum means frequencies assigned on a primary basis to a Federal entity (as defined in section 113(l)).
   > - **(b)** *Emergency communication and tracking technologies initiative*
   >   - **(1)** *Establishment* The Assistant Secretary, acting through the head of ITS, shall establish an initiative to support the development of emergency communication and tracking technologies for use in locating trapped individuals in confined spaces, such as underground mines, and other shielded environments, such as high-rise buildings or collapsed structures, where conventional radio communication is limited.
   >   - **(2)** *Activities* In order to carry out this subsection, the Assistant Secretary, acting through the head of ITS, shall work with private sector entities and the heads of appropriate Federal agencies, to—

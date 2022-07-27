@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4990
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4990
@@ -37,3 +37,9 @@ ITS Codification Act
 - 2022-07-26 — Placed on the Union Calendar, Calendar No. 341.
 - 2022-07-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-437.
 - 2022-07-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-437.
+- 2022-07-27 — Considered under suspension of the rules. (consideration: CR H7184-7185)
+- 2022-07-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4990.
+- 2022-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-27 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2022-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7184)
+- 2022-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7184)
