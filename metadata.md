@@ -1,7 +1,7 @@
 ---
 measure: S. 4359
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4359
@@ -62,3 +62,20 @@ Senator Johnny Isakson VA Regional Office Act of 2022
 - 2022-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3735)
 - 2022-07-27 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3734-3736)
 - 2022-07-27 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S3734-3736)
+- 2022-07-28 — Held at the desk.
+- 2022-07-28 — Message on Senate action sent to the House.
+- 2022-07-28 — Received in the House.
+- 2022-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8459-8461)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on S. 4359.
+- 2022-11-14 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2022-11-17 — Considered as unfinished business. (consideration: CR H8575)
+- 2022-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2, 2 Present (Roll no. 483). (text: 11/14/2022 CR H8459-8460)
+- 2022-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2, 2 Present (Roll no. 483).
+- 2022-12-05 — Presented to President.
+- 2022-12-05 — Presented to President.
+- 2022-12-09 — Became Public Law No: 117-227.
+- 2022-12-09 — Became Public Law No: 117-227.
+- 2022-12-09 — Signed by President.
+- 2022-12-09 — Signed by President.
