@@ -1,7 +1,7 @@
 ---
 measure: H.R. 310
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 310
@@ -331,3 +331,14 @@ To posthumously award the Congressional Gold Medal, collectively, to Glen Dohert
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7129)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7129)
 - 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2022-12-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7083)
+- 2022-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7083)
+- 2022-12-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2022-12-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2022-12-09 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-21 — Became Public Law No: 117-256.
+- 2022-12-21 — Became Public Law No: 117-256.
+- 2022-12-21 — Signed by President.
+- 2022-12-21 — Signed by President.
