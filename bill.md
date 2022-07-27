@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4040
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,59 +11,53 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Advancing Telehealth Beyond COVID–19 Act of 2021”.
+This Act may be cited as the “Advancing Telehealth Beyond COVID–19 Act of 2022”.
 
-## § 2. Extending Medicare telehealth flexibilities
+## § 2. Removing geographic requirements and expanding originating sites for telehealth services
 
-- **(a)** *Expanding access to telehealth services*
-  - **(1)** *In general* Section 1834(m)(4)(C) of the Social Security Act (42 U.S.C. 1395m(m)(4)(C)) is amended by adding at the end the following new clause:
-    > - **(iii)** *Expanding access to telehealth services* With respect to telehealth services furnished beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B), the term originating site means any site at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, including the home of an individual.
+Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended—
 
-  - **(2)** *Conforming amendments* Such section is amended—
-    - **(A)** in paragraph (2)(B)—
-      - **(i)** in clause (i), in the matter preceding subclause (I), by striking “clause (ii)” and inserting “clauses (ii) and (iii)”; and
-      - **(ii)** by adding at the end the following new clause:
-        > - **(iii)** *No facility fee for new sites* With respect to telehealth services furnished on or after the date of enactment of this clause, a facility fee shall only be paid under this subparagraph to an originating site that is described in paragraph (4)(C)(ii) (other than subclause (X) of such paragraph).
+- **(1)** in paragraph (2)(B)(iii)—
+  - **(A)** by striking “With” and inserting “In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, with”; and
+  - **(B)** by striking “that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “that are furnished during the period beginning on the first day after the end of such emergency period and ending December 31, 2024”; and
+- **(2)** in paragraph (4)(C)(iii)—
+  - **(A)** by striking “With” and inserting “In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, with”; and
+  - **(B)** by striking “that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “that are furnished during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
 
-    - **(B)** in paragraph (4)(C)—
-      - **(i)** in clause (i), in the matter preceding subclause (I), by inserting “and clause (iii)” after “and (7)”; and
-      - **(ii)** in clause (ii)(X), by inserting “prior to the first day after the end of the emergency period described in section 1135(g)(1)(B)” before the period;
-    - **(C)** in paragraph (5), by inserting “and prior to the first day after the end of the emergency period described in section 1135(g)(1)(B)” after “January 1, 2019,”;
-    - **(D)** in paragraph (6)(A), by inserting “and prior to the first day after the end of the emergency period described in section 1135(g)(1)(B),” after “January 1, 2019,”; and
-    - **(E)** in paragraph (7), by inserting “and prior to the first day after the end of the emergency period described in section 1135(g)(1)(B),” after “July 1, 2019,”.
-- **(b)** *Expanding practitioners eligible To furnish telehealth services* Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended—
-  - **(1)** in paragraph (1), by striking “(described in section 1842(b)(18)(C))” and inserting “(defined in paragraph (4)(E))”; and
-  - **(2)** in paragraph (4)(E)—
-    - **(A)** by striking “practitioner.—The term” and inserting “practitioner.—
-      > - **(A)** *In general* Subject to subparagraph (B), the term
+## § 3. Expanding practitioners eligible to furnish telehealth services
 
-    - **(B)** by adding at the end the following new subparagraph:
-      > - **(B)** *Expansion* The Secretary, after consulting with stakeholders regarding services that are clinically appropriate, may expand the types of practitioners who may furnish telehealth services to include any health care professional that is eligible to bill the program under this title for their professional services.
+Section 1834(m)(4)(E) of the Social Security Act (42 U.S.C. 1395m(m)(4)(E)) is amended by striking “and, for the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “and, in the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, for the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
 
-- **(c)** *Allowing for the furnishing of audio-only telehealth services* Section 1834(m)(4) of the Social Security Act (42 U.S.C. 1395m(m)(4)) is amended by adding at the end the following new subparagraph:
-  > - **(G)** *Telecommunications system*
-  >   - **(i)** *In general* The term “telecommunications system” includes, in the case of a specified telehealth service (as defined in clause (ii)) furnished to an individual, a communications system consisting only of audio capabilities.
-  >   - **(ii)** *Specified telehealth service defined* The term “specified telehealth service” means a telehealth service consisting of—
-  >     - **(I)** evaluation and management services;
-  >     - **(II)** mental and behavioral health services;
-  >     - **(III)** substance use disorder services; or
-  >     - **(IV)** any other service specified by the Secretary.
+## § 4. Extending telehealth services for federally qualified health centers and rural health clinics
 
-## § 3. Making permanent the ability of federally qualified health centers and rural health clinics to furnish telehealth services under the Medicare program
+Section 1834(m)(8)(A) of the Social Security Act (42 U.S.C. 1395m(m)(8)(A)) is amended by striking “during the 151-day period beginning on the first day after the end of such emergency period” and inserting “in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
 
-Section 1834(m)(8) of the Social Security Act (42 U.S.C. 1395m(m)(8)) is amended—
+## § 5. Delaying the in-person requirements under medicare for mental health services furnished through telehealth and telecommunications technology
 
-- **(1)** in the header, by striking “during emergency period”;
-- **(2)** in subparagraph (A), in the matter preceding clause (i), by striking “During” and inserting “Beginning on the first day of”; and
-- **(3)** in subparagraph (B)(i), by striking “during such emergency period”.
+- **(a)** *Delay in requirements for mental health services furnished through telehealth* Section 1834(m)(7)(B)(i) of the Social Security Act (42 U.S.C. 1395m(m)(7)(B)(i)) is amended, in the matter preceding subclause (I), by striking “on or after the day that is the 152nd day after the end of the period at the end of the emergency sentence described in section 1135(g)(1)(B))” and inserting “on or after January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))”.
+- **(b)** *Mental health visits furnished by rural health clinics* Section 1834(y) of the Social Security Act (42 U.S.C. 1395m(y)) is amended—
+  - **(1)** in the heading, by striking “to hospice patients”; and
+  - **(2)** in paragraph (2), by striking “prior to the day that is the 152nd day after the end of the emergency period described in section 1135(g)(1)(B))” and inserting “prior to January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))”.
+- **(c)** *Mental health visits furnished by federally qualified health centers* Section 1834(o)(4) of the Social Security Act (42 U.S.C. 1395m(o)(4) is amended—
+  - **(1)** in the heading, by striking “to hospice patients”; and
+  - **(2)** in subparagraph (B), by striking “prior to the day that is the 152nd day after the end of the emergency period described in section 1135(g)(1)(B))” and inserting “prior to January 1, 2025 (or, if later, the first day after the end of the emergency period described in section 1135(g)(1)(B))”.
 
-## § 4. Clarification for fraud and abuse laws regarding technologies provided to beneficiaries
+## § 6. Allowing for the furnishing of audio-only telehealth services
 
-Section 1128A(i)(6) of the Social Security Act (42 U.S.C. 1320a–7a(i)(6)) is amended—
+Section 1834(m)(9) of the Social Security Act (42 U.S.C. 1395m(m)(9)) is amended by striking “The Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of the date of the enactment of this paragraph that are furnished via an audio-only telecommunications system during the 151-day period beginning on the first day after the end of the emergency period described in section 1135(g)(1)(B)” and inserting “In the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, the Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) that are furnished via an audio-only communications system during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024”.
 
-- **(1)** in subparagraph (I), by striking “; or” and inserting a semicolon;
-- **(2)** in subparagraph (J), by striking the period at the end and inserting “; or”; and
-- **(3)** by adding at the end the following new subparagraph:
-  > - **(K)** the provision of technologies (as defined by the Secretary) on or after the date of the enactment of this subparagraph, by a provider of services or supplier (as such terms are defined for purposes of title XVIII) directly to an individual who is entitled to benefits under part A of title XVIII, enrolled under part B of such title, or both, for the purpose of furnishing telehealth services, remote patient monitoring services, or other services furnished through the use of technology (as defined by the Secretary), if—
-  >   - **(i)** the technologies are not offered as part of any advertisement or solicitation; and
-  >   - **(ii)** the provision of the technologies meets any other requirements set forth in regulations promulgated by the Secretary.
+## § 7. Use of telehealth to conduct face-to-face encounter prior to recertification of eligibility for hospice care during emergency period
+
+Section 1814(a)(7)(D)(i)(II) of the Social Security Act (42 U.S.C. 1395f(a)(7)(D)(i)(II)) is amended by striking “and during the 151-day period beginning on the first day after the end of such emergency period” and inserting “and, in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period described in such section 1135(g)(1)(B) and ending on December 31, 2024”.
+
+## § 8. Funding from medicare improvement fund
+
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395jjj(b)(1)) is amended by striking “$7,500,000,000” and inserting “$5,153,000,000”.
+
+## § 9. Program instruction authority
+
+Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including amendments made by, sections 2 through 7 through program instruction or otherwise.
+
+## § 10. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
