@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4227
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4227
@@ -16,9 +16,10 @@ To require the Securities and Exchange Commission to revise the definition of a 
 
 - Rep. Hollingsworth, Trey [R-IN-9] (H001074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To require the Securities and Exchange Commission to revise the definition of a 
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7152)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7152)
 - 2022-07-26 — The title of the measure was amended. Agreed to without objection.
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
