@@ -173,3 +173,7 @@ The requirements under section 345 of the Communications Act of 1934, as added b
 ## § 7. Savings clause
 
 Nothing in this Act or the amendments made by this Act shall be construed to abrogate, limit, or otherwise affect the provisions set forth in the Communications Assistance for Law Enforcement Act (Public Law 103–414; 108 Stat. 4279) and the amendments made by that Act, any authority granted to the Federal Communications Commission pursuant to that Act or the amendments made by that Act, or any regulations promulgated by the Federal Communications Commission pursuant to that Act or the amendments made by that Act.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
