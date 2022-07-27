@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3588
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3588
@@ -24,9 +24,10 @@ Mathematical and Statistical Modeling Education Act
 - Rep. Ellzey, Jake [R-TX-6] (E000071)
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Mathematical and Statistical Modeling Education Act
 - 2022-07-26 — Mr. Beyer moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 323 - 92 (Roll no. 390). (text: CR H7098-7100)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 323 - 92 (Roll no. 390).(text: CR H7098-7100)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
