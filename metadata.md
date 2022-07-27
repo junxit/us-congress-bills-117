@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5128
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5128
@@ -24,9 +24,10 @@ Expanding Access to Capital for Rural Job Creators Act
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Expanding Access to Capital for Rural Job Creators Act
 - 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2022-07-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7131)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7131)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
