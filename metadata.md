@@ -1,7 +1,7 @@
 ---
 measure: H.R. 310
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 310
@@ -314,9 +314,10 @@ To posthumously award the Congressional Gold Medal, collectively, to Glen Dohert
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -329,3 +330,4 @@ To posthumously award the Congressional Gold Medal, collectively, to Glen Dohert
 - 2022-07-26 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2022-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7129)
 - 2022-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7129)
+- 2022-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
