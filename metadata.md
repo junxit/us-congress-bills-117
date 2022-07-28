@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4990
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4990
@@ -20,9 +20,10 @@ ITS Codification Act
 
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ ITS Codification Act
 - 2022-07-27 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2022-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7184)
 - 2022-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7184)
+- 2022-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
