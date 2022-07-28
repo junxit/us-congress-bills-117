@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7132
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7132
@@ -52,3 +52,12 @@ Safe Connections Act of 2022
 - 2022-07-27 — Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended. (consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7103-7105)
 - 2022-07-27 — Pursuant to the provisions of H. Res. 1254, proceedings on H.R. 7132 are considered vacated.
 - 2022-07-28 — Received in the Senate, read twice.
+- 2022-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6770)
+- 2022-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6770)
+- 2022-11-25 — Message on Senate action sent to the House.
+- 2022-12-02 — Presented to President.
+- 2022-12-02 — Presented to President.
+- 2022-12-07 — Became Public Law No: 117-223.
+- 2022-12-07 — Became Public Law No: 117-223.
+- 2022-12-07 — Signed by President.
+- 2022-12-07 — Signed by President.
