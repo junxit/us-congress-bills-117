@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3771
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3771
@@ -51,9 +51,10 @@ South Asian Heart Health Awareness and Research Act of 2022
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -92,3 +93,4 @@ South Asian Heart Health Awareness and Research Act of 2022
 - 2022-07-27 — Rule provides for consideration of H.R. 3771, H.R. 5118 and H.R. 6929. Rule provides for consideration under structured rules for H.R. 3771, H.R. 5118 and H.R. 6929, and provides for one hour of general debate on each bill.
 - 2022-07-27 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-07-27 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
+- 2022-07-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
