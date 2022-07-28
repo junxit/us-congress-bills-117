@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3952
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
