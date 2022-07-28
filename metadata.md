@@ -1,7 +1,7 @@
 ---
 measure: S. 4490
 congress: 117
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 4490
@@ -23,11 +23,15 @@ Digital Citizenship and Media Literacy Act
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
 - 2022-06-23 — Introduced in Senate
 - 2022-06-23 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-07-28 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2022-07-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2022-07-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
