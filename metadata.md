@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6929
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6929
@@ -91,3 +91,4 @@ Susan Muffley Act of 2022
 - 2022-07-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 254 - 175 (Roll no. 396).
 - 2022-07-27 — Rule provides for consideration of H.R. 3771, H.R. 5118 and H.R. 6929. Rule provides for consideration under structured rules for H.R. 3771, H.R. 5118 and H.R. 6929, and provides for one hour of general debate on each bill.
 - 2022-07-27 — The previous question was ordered on the amendment (A002) and the bill pursaunt to the rule.
+- 2022-07-28 — Received in the Senate.
