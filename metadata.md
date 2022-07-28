@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3952
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3952
@@ -32,10 +32,11 @@ NOAA Chief Scientist Act
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Carter, Troy [D-LA-2] (C001125)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ NOAA Chief Scientist Act
 - 2022-07-27 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended.(consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7095)
 - 2022-07-27 — Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended. (consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7095)
 - 2022-07-27 — Pursuant to the provisions of H. Res. 1254, proceedings on H.R. 3952 are considered vacated.
+- 2022-07-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
