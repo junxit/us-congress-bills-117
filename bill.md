@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Department of Homeland Security Seal Protection Act”.
+This Act may be cited as the “Department of Homeland Security Seal Protection Act of 2022”.
 
 ## § 2. Prohibition on misuse of the Department of Homeland Security seal
 
