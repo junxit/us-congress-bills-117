@@ -36,7 +36,7 @@ This Act may be cited as the “Recycling and Composting Accountability Act”.
   - **(5)** *Composting facility* The term composting facility means a location, structure, or device that transforms compostable materials into compost.
   - **(6)** *Indian Tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
   - **(7)** *Materials recovery facility*
-    - **(A)** *In general* The term materials recovery facility means a dedicated recycling facility where primarily residential recyclables, which are diverted from disposal by the generator and collected separately from municipal solid waste, are mechanically or manually sorted into commodities for further processing into specification-grade commodities for sale to end users.
+    - **(A)** *In general* The term materials recovery facility means a dedicated facility where primarily residential recyclable materials, which are diverted from disposal by the generator and collected separately from municipal solid waste, are mechanically or manually sorted into commodities for further processing into specification-grade commodities for sale to end users.
     - **(B)** *Exclusion* The term materials recovery facility does not include a solid waste management facility that may process municipal solid waste to remove recyclable materials.
   - **(8)** *Recyclable material* The term recyclable material means a material that is obsolete, previously used, off-specification, surplus, or incidentally produced for processing into a specification-grade commodity for which a circular market currently exists or is being developed.
   - **(9)** *Recycling* The term recycling means the series of activities—
@@ -52,22 +52,22 @@ This Act may be cited as the “Recycling and Composting Accountability Act”.
 
 It is the sense of Congress that—
 
-- **(1)** recycling conserves resources, protects the environment, and is important to the United States economy;
-- **(2)** the United States recycling infrastructure encompasses each of the entities that collect, process, broker, and consume recyclable materials sourced from commercial, industrial, and residential sources;
-- **(3)** the residential segment of the United States recycling infrastructure is facing challenges from—
-  - **(A)** confusion over what materials are recyclable materials;
+- **(1)** recycling and composting conserve resources, protect the environment, and are important to the United States economy;
+- **(2)** the United States recycling and composting infrastructure encompass each of the entities that collect, process, broker, and consume recyclable materials and compostable materials sourced from commercial, industrial, institutional, and residential sources;
+- **(3)** the residential segment of the United States recycling and composting infrastructure is facing challenges from—
+  - **(A)** confusion over what materials are recyclable materials or compostable materials;
   - **(B)** reduced export markets;
-  - **(C)** growing, but still limited, domestic end markets;
-  - **(D)** an ever-changing and heterogeneous supply stream; and
-  - **(E)** in some areas, a recycling infrastructure in need of revitalization; and
-- **(4)** in an effort to address those challenges, the United States must use a combination of tactics to improve recycling and composting in the United States.
+  - **(C)** growing, but still limited, domestic end markets; and
+  - **(D)** an ever-changing and heterogeneous supply stream;
+- **(4)** in some areas, recycling and composting infrastructure is in need of revitalization; and
+- **(5)** in an effort to address those challenges, the United States must use a combination of tactics to improve recycling and composting in the United States.
 
 ## § 4. Report on composting infrastructure capabilities
 
 The Administrator, in consultation with States, units of local government, and Indian Tribes, shall—
 
-- **(1)** prepare a report describing the capability of the United States to implement a national residential composting strategy for compostable materials for the purposes of reducing contamination rates for residential recycling, including—
-  - **(A)** an evaluation of existing Federal, State, and local laws that may present barriers to implementation of a national residential composting strategy;
+- **(1)** prepare a report describing the capability of the United States to implement a national composting strategy for compostable materials for the purposes of reducing contamination rates for recycling, including—
+  - **(A)** an evaluation of existing Federal, State, and local laws that may present barriers to implementation of a national composting strategy;
   - **(B)**
     - **(i)** an evaluation of existing composting programs of States, units of local government, and Indian Tribes; and
     - **(ii)** a description of best practices based on those programs;
@@ -96,7 +96,7 @@ Not later than 1 year after the date of enactment of this Act, and annually ther
     - **(B)** a description of the materials that each materials recovery facility can process, including—
       - **(i)** in the case of plastic, a description of—
         - **(I)** the types of accepted resin, if applicable; and
-        - **(II)** the container type, such as a jug, a carton, or film;
+        - **(II)** the packaging or product format, such as a jug, a carton, or film;
       - **(ii)** food packaging and service ware, such as a bottle, cutlery, or a cup;
       - **(iii)** paper;
       - **(iv)** aluminum, such as an aluminum beverage can, food can, aerosol can, or foil;
@@ -111,8 +111,9 @@ Not later than 1 year after the date of enactment of this Act, and annually ther
   - **(3)** the types and forms of materials accepted by each community curbside recycling, drop-off recycling, or composting program;
   - **(4)** the number of individuals with access to recycling and composting services to at least the extent of access to disposal services;
   - **(5)** the number of individuals with barriers to accessing recycling and composting services to at least the extent of access to disposal services;
-  - **(6)** the inbound contamination and capture rates of community curbside recycling, drop-off recycling, or composting programs; and
-  - **(7)** where applicable, other available recycling or composting programs within a community, including store drop-offs.
+  - **(6)** the inbound contamination and capture rates of community curbside recycling, drop-off recycling, or composting programs;
+  - **(7)** where applicable, other available recycling or composting programs within a community, including store drop-offs; and
+  - **(8)** the average cost to States, units of local government, and Indian Tribes of recycling and composting programs.
 - **(c)** *Standardization of recycling reporting rates*
   - **(1)** *Collection of rates*
     - **(A)** *In general* The Administrator may use amounts made available under section 9 to biannually collect from each State the nationally standardized rate of recyclable materials in that State that have been successfully diverted from the waste stream and brought to a materials recovery facility or composting facility.
@@ -143,7 +144,7 @@ Not later than 1 year after the date of enactment of this Act, and annually ther
 The Administrator shall—
 
 - **(1)** in consultation with States, units of local government, and Indian Tribes, develop, based on the results of the studies, reports, inventory, and data determined under sections 4 through 7, and provide to States, units of local government, and Indian Tribes best practices that the States, units of local government, and Indian Tribes may use to enhance recycling and composting, including—
-  - **(A)** labeling techniques for containers of waste, compost, and recycling, with the goal of creating consistent, readily available, and understandable labeling across jurisdictions;
+  - **(A)** labeling techniques for containers of waste, compostable materials, and recycling, with the goal of creating consistent, readily available, and understandable labeling across jurisdictions;
   - **(B)** pamphlets or other literature readily available to constituents;
   - **(C)** primary and secondary school educational resources on recycling;
   - **(D)** web and media-based campaigns; and

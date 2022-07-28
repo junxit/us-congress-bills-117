@@ -1,7 +1,7 @@
 ---
 measure: S. 3743
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3743
@@ -16,7 +16,7 @@ Recycling and Composting Accountability Act
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (9)
+## Cosponsors (11)
 
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -27,6 +27,8 @@ Recycling and Composting Accountability Act
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -40,3 +42,8 @@ Recycling and Composting Accountability Act
 - 2022-04-28 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
 - 2022-04-28 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
 - 2022-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
+- 2022-07-28 — Held at the desk.
+- 2022-07-28 — Message on Senate action sent to the House.
+- 2022-07-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3752-3755; text: CR S3753-3755)
+- 2022-07-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-07-28 — Received in the House.
