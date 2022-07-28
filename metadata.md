@@ -1,7 +1,7 @@
 ---
 measure: S. 3369
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3369
@@ -38,3 +38,8 @@ Max Cleland VA Medical Center Act
 
 - 2021-12-09 — Introduced in Senate
 - 2021-12-09 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-07-28 — Message on Senate action sent to the House.
+- 2022-07-28 — Passed Senate without amendment by Unanimous Consent. (text: CR S3789-3790)
+- 2022-07-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-07-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-07-28 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3789-3790)
