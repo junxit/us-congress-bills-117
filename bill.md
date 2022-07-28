@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 8587
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8587
+
+> To amend the Child Nutrition Act of 1966 to require that State agencies contract with more than one infant formula manufacturer under the special supplemental program for women, infants, and children, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Newborn Formula Access for a Nutritious Tomorrow Act of 2022” or the “INFANT Act of 2022”.
+
+## § 2. Increasing infant formula manufacturer contracts under WIC program
+
+Section 17 of the Child Nutrition Act of 1966 (7 U.S.C. 1431) is amended—
+
+- **(1)** in subsection (b)(17), by striking “selects a single source (a single infant formula manufacturer) offering the lowest price, as determined by the submission of sealed bids, for a product for which bids are sought for use in the program authorized by this section” and inserting “selects, in accordance with subsection (h)(8)(iii), infant formula manufacturers, as determined by the submission of sealed bids, for a product for which bids are sought for use in the program authorized by this section”; and
+- **(2)** in subsection (h)(8)(A)—
+  - **(A)** by amending clause (iii) to read as follows:
+    > - **(iii)** *Competitive bidding system* A State agency using a competitive bidding system for infant formula shall award contracts to—
+    >   - **(I)** at least 2 manufacturers, under which no manufacturer may receive a contract for more than 70 percent of the infant formula for which the State agency contracts in a year; and
+    >   - **(II)** bidders offering the lowest net price for a specific infant formula for which manufacturers submit a bid unless the State agency demonstrates to the satisfaction of the Secretary that the weighted average retail price for different brands of infant formula in the State does not vary by more than 5 percent.
+
+  - **(B)** by striking clauses (v) and (vi) and redesignating clauses (vii) through (x) as (v) through (viii), respectively.
