@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4040
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4040
@@ -28,10 +28,11 @@ Advancing Telehealth Beyond COVID–19 Act of 2021
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Advancing Telehealth Beyond COVID–19 Act of 2021
 - 2022-07-27 — Rule provides for consideration of H.R. 263 and H.R. 4040. Resolution provides for one hour of general debate and one motion to recommit on each bill. H. Res. 517 is considered adopted.
 - 2022-07-27 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-07-27 — The previous question was ordered pursuant to the rule.
+- 2022-07-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
