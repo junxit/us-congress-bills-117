@@ -48,3 +48,7 @@ In this Act:
 - **(h)** *Use of land*
   - **(1)** *In general* The lands and related infrastructure conveyed under subsection (a) shall be maintained by the County pursuant to standards established by the Secretary of the Interior under section 306101 of title 54, United States Code.
   - **(2)** *Reversion* If any portion of the land conveyed under subsection (a) is used in a manner that is inconsistent with the use described in paragraph (1), the land shall, at the discretion of the Secretary, revert to the United States.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

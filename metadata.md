@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5093
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5093
@@ -33,3 +33,9 @@ Wind River Administrative Site Conveyance Act
 - 2022-07-26 — Placed on the Union Calendar, Calendar No. 338.
 - 2022-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-434.
 - 2022-07-26 — Reported by the Committee on Natural Resources. H. Rept. 117-434.
+- 2022-07-28 — Considered under suspension of the rules. (consideration: CR H7399-7400)
+- 2022-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5093.
+- 2022-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-28 — Mr. Lowenthal moved to suspend the rules and pass the bill, as amended.
+- 2022-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7399)
+- 2022-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
