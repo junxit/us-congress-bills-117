@@ -1,7 +1,7 @@
 ---
 measure: S. 3742
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3742
@@ -16,7 +16,7 @@ Recycling Infrastructure and Accessibility Act of 2022
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -27,6 +27,11 @@ Recycling Infrastructure and Accessibility Act of 2022
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -40,3 +45,8 @@ Recycling Infrastructure and Accessibility Act of 2022
 - 2022-04-28 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2022-04-28 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2022-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 357.
+- 2022-07-28 — Held at the desk.
+- 2022-07-28 — Message on Senate action sent to the House.
+- 2022-07-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3755-3756; text: CR S3755-3756)
+- 2022-07-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-07-28 — Received in the House.
