@@ -1,7 +1,7 @@
 ---
 measure: H.R. 623
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 623
@@ -129,10 +129,11 @@ Gabriella Miller Kids First Research Act 2.0
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 - Rep. LaTurner, Jake [R-KS-2] (L000266)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -159,3 +160,4 @@ Gabriella Miller Kids First Research Act 2.0
 - 2022-07-27 — Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended. (consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7124-7125)
 - 2022-07-27 — Pursuant to the provisions of H. Res. 1254, proceedings on H.R. 623 are considered vacated.
 - 2022-07-27 — The title of the measure was amended. Agreed to without objection.
+- 2022-07-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
