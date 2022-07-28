@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4551
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
