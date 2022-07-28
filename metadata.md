@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1289
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1289
@@ -27,3 +27,9 @@ Providing for consideration of the Senate amendment to the House amendment to th
 - 2022-07-27 — Rule provides for consideration of the Senate amendment to the House amendment to the Senate amendment to H.R. 4346. The motion shall be debatable for one hour, the previous question shall be ordered on the motion without intervening motion. The rule also provides for proceedings during the period from August 1, 2022 through September 12, 2022.
 - 2022-07-27 — The House Committee on Rules reported an original measure, H. Rept. 117-445, by Mr. Morelle.
 - 2022-07-27 — The House Committee on Rules reported an original measure, H. Rept. 117-445, by Mr. Morelle.
+- 2022-07-28 — Considered as privileged matter. (consideration: CR H7265-7273)
+- 2022-07-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 1289.
+- 2022-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-28 — On agreeing to the resolution Agreed to by the Yeas and Nays: 216 - 208 (Roll no. 403). (text: CR H7265)
+- 2022-07-28 — On ordering the previous question Agreed to by the Yeas and Nays: 218 - 208 (Roll no. 402).
+- 2022-07-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 216 - 208 (Roll no. 403).
