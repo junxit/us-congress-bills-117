@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5313
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5313
@@ -77,3 +77,12 @@ Reese's Law
 - 2022-07-27 — Pursuant to section 5 of H. Res. 1254, and the motion offered by Mr. Kildee, the following bills passed under suspension of the rules: H.R. 623, as amended; H.R. 3952, as amended; H.R. 3962, as amended; H.R. 4551; H.R. 5313, as amended; H.R. 6933; H.R. 7132, as amended; H.R. 7361; H.R. 7569; H.R. 7624, as amended; H.R. 7733, as amended; and H.R. 7981, as amended. (consideration: CR H7197-7211, H7219-7220, H7223-7237; text: 07/26/2022 CR H7112-7113)
 - 2022-07-27 — Pursuant to the provisions of H. Res. 1254, proceedings on H.R. 5313 are considered vacated.
 - 2022-07-28 — Received in the Senate, read twice.
+- 2022-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3857)
+- 2022-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3857)
+- 2022-08-03 — Message on Senate action sent to the House.
+- 2022-08-15 — Presented to President.
+- 2022-08-15 — Presented to President.
+- 2022-08-16 — Became Public Law No: 117-171.
+- 2022-08-16 — Became Public Law No: 117-171.
+- 2022-08-16 — Signed by President.
+- 2022-08-16 — Signed by President.
