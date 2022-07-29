@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 1302
+congress: 117th CONGRESS
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 1302
+
+> Providing for consideration of the bill (H.R. 1808) to regulate assault weapons, to ensure that the right to keep and bear arms is not unlimited, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1808) to regulate assault weapons, to ensure that the right to keep and bear arms is not unlimited, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–60, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; and (2) one motion to recommit.
