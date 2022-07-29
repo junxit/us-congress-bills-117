@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1808
@@ -247,3 +247,20 @@ Assault Weapons Ban of 2022
 - 2022-07-26 — Placed on the Union Calendar, Calendar No. 346.
 - 2022-07-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-442.
 - 2022-07-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-442.
+- 2022-07-29 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-07-29 — Considered under the provisions of rule H. Res. 1302. (consideration: CR H7499-7527)
+- 2022-07-29 — DEBATE - The House proceeded with one hour of debate on H.R. 1808.
+- 2022-07-29 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-07-29 — House amendment offered
+- 2022-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-29 — Mr. Fitzgerald moved to recommit to the Committee on the Judiciary.
+- 2022-07-29 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2022-07-29 — On motion to recommit Failed by the Yeas and Nays: 207 - 220 (Roll no. 409).
+- 2022-07-29 — On passage Passed by the Yeas and Nays: 217 - 213 (Roll no. 410). (text: CR H7499-7511)
+- 2022-07-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 213 (Roll no. 410).
+- 2022-07-29 — Rule H. Res. 1302 passed House.
+- 2022-07-29 — Rule provides for consideration of H.R. 1808 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
+- 2022-07-29 — Rules Committee Resolution H. Res. 1302 Reported to House. Rule provides for consideration of H.R. 1808 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
+- 2022-07-29 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1808.
+- 2022-07-29 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-07-29 — The previous question was ordered pursuant to the rule.

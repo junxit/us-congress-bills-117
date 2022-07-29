@@ -43,7 +43,7 @@ This Act may be cited as the “Assault Weapons Ban of 2022”.
   >       - **(IV)** The capacity to accept a detachable ammunition feeding device at some location outside of the pistol grip.
   >       - **(V)** A semiautomatic version of an automatic firearm.
   >       - **(VI)** A manufactured weight of 50 ounces or more when unloaded.
-  >       - **(VII)** A buffer tube, stabilizing brace or similar component that protrudes horizontally behind the pistol grip.
+  >       - **(VII)** A buffer tube, stabilizing brace or similar component that protrudes horizontally behind the pistol grip, and is designed or redesigned to allow or facilitate a firearm to be fired from the shoulder.
   >   - **(E)** A semiautomatic pistol with a fixed ammunition feeding device that has the capacity to accept more than 15 rounds.
   >   - **(F)** A semiautomatic shotgun that—
   >     - **(i)** has the capacity to accept a detachable ammunition feeding device or a fixed ammunition feeding device that has the capacity to accept more than 5 rounds; and
@@ -202,7 +202,7 @@ This Act may be cited as the “Assault Weapons Ban of 2022”.
   >     - **(vi)** Striker 12.
   >   - **(K)** All belt-fed semiautomatic firearms, including TNW M2HB and FN M2495.
   >   - **(L)** Any combination of parts from which a firearm described in subparagraphs (A) through (K) can be assembled.
-  >   - **(M)** The frame or receiver of a rifle or shotgun described in subparagraph (A), (B), (C), (F), (G), (H), (J), or (K).
+  >   - **(M)** The frame or receiver of a rifle or shotgun described in subparagraph (G), (H), (J), or (K).
   > - **(41)** The term large capacity ammunition feeding device—
   >   - **(A)** means a magazine, belt, drum, feed strip, or similar device, including any such device joined or coupled with another in any manner, that has an overall capacity of, or that can be readily restored, changed, or converted to accept, more than 15 rounds of ammunition; and
   >   - **(B)** does not include an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition.
@@ -241,14 +241,20 @@ This Act may be cited as the “Assault Weapons Ban of 2022”.
     >     - **(C)** is an antique firearm, as defined in section 921 of this title; or
     >     - **(D)** is only capable of firing rimfire ammunition.
     >   - **(4)** Paragraph (1) shall not apply to—
-    >     - **(A)** the importation for, manufacture for, sale to, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, or a sale or transfer to or possession by a qualified law enforcement officer employed by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, for purposes of law enforcement (whether on or off duty), or a sale or transfer to or possession by a campus law enforcement officer for purposes of law enforcement (whether on or off duty);
-    >     - **(B)** the importation for, or sale or transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
-    >     - **(C)** the possession, by an individual who is retired in good standing from service with a law enforcement agency and is not otherwise prohibited from receiving a firearm, of a semiautomatic assault weapon—
+    >     - **(A)** the importation for, manufacture for, sale to, transfer to, or possession by—
+    >       - **(i)** the United States, or a department or agency of the United States; or
+    >       - **(ii)** a State, or a department, agency, or political subdivision of a State;
+    >     - **(B)** the sale to, transfer to, or possession by a qualified law enforcement officer employed by—
+    >       - **(i)** the United States, or a department or agency of the United States; or
+    >       - **(ii)** a State, or a department, agency, or political subdivision of a State,
+    >     - **(C)** the sale to, transfer to, or possession by a campus law enforcement officer for purposes of law enforcement (whether on or off duty);
+    >     - **(D)** the importation for, or sale or transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
+    >     - **(E)** the possession, by an individual who is retired in good standing from service with a law enforcement agency and is not otherwise prohibited from receiving a firearm, of a semiautomatic assault weapon—
     >       - **(i)** sold or transferred to the individual by the agency upon such retirement; or
     >       - **(ii)** that the individual purchased, or otherwise obtained, for official use before such retirement;
-    >     - **(D)** the importation, sale, manufacture, transfer, or possession of a semiautomatic assault weapon by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Attorney General; or
-    >     - **(E)** the importation, sale, manufacture, transfer, or possession of a firearm specified in Appendix A to this section, as such firearm was manufactured on the date of introduction of the Assault Weapons Ban of 2022.
-    >   - **(5)** For purposes of paragraph (4)(A), the term campus law enforcement officer means an individual who is—
+    >     - **(F)** the importation, sale, manufacture, transfer, or possession of a semiautomatic assault weapon by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Attorney General; or
+    >     - **(G)** the importation, sale, manufacture, transfer, or possession of a firearm specified in Appendix A to this section, as such firearm was manufactured on the date of introduction of the Assault Weapons Ban of 2022.
+    >   - **(5)** For purposes of paragraph (4)(C), the term campus law enforcement officer means an individual who is—
     >     - **(A)** employed by a private institution of higher education that is eligible for funding under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.);
     >     - **(B)** responsible for the prevention or investigation of crime involving injury to persons or property, including apprehension or detention of persons for such crimes;
     >     - **(C)** authorized by Federal, State, or local law to carry a firearm, execute search warrants, and make arrests; and
@@ -258,13 +264,19 @@ This Act may be cited as the “Assault Weapons Ban of 2022”.
     >   - **(1)** It shall be unlawful for a person to import, sell, manufacture, transfer, or possess, in or affecting interstate or foreign commerce, a large capacity ammunition feeding device.
     >   - **(2)** Paragraph (1) shall not apply to the possession of any large capacity ammunition feeding device otherwise lawfully possessed on or before the date of enactment of the Assault Weapons Ban of 2022.
     >   - **(3)** Paragraph (1) shall not apply to—
-    >     - **(A)** the importation for, manufacture for, sale to, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, or a sale or transfer to or possession by a qualified law enforcement officer employed by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State for purposes of law enforcement (whether on or off duty), or a sale or transfer to or possession by a campus law enforcement officer for purposes of law enforcement (whether on or off duty);
-    >     - **(B)** the importation for, or sale or transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
-    >     - **(C)** the possession, by an individual who is retired in good standing from service with a law enforcement agency and is not otherwise prohibited from receiving ammunition, of a large capacity ammunition feeding device—
+    >     - **(A)** the importation for, manufacture for, sale to, transfer to, or possession by—
+    >       - **(i)** the United States, or a department or agency of the United States; or
+    >       - **(ii)** a State, or a department, agency, or political subdivision of a State;
+    >     - **(B)** the sale to, transfer to, or possession by a qualified law enforcement officer employed by—
+    >       - **(i)** the United States, or a department or agency of the United States; or
+    >       - **(ii)** a State, or a department, agency, or political subdivision of a State,
+    >     - **(C)** the sale to, transfer to, or possession by a campus law enforcement officer for purposes of law enforcement (whether on or off duty);
+    >     - **(D)** the importation for, or sale or transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
+    >     - **(E)** the possession, by an individual who is retired in good standing from service with a law enforcement agency and is not otherwise prohibited from receiving ammunition, of a large capacity ammunition feeding device—
     >       - **(i)** sold or transferred to the individual by the agency upon such retirement; or
     >       - **(ii)** that the individual purchased, or otherwise obtained, for official use before such retirement; or
-    >     - **(D)** the importation, sale, manufacture, transfer, or possession of any large capacity ammunition feeding device by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Attorney General.
-    >   - **(4)** For purposes of paragraph (3)(A), the term campus law enforcement officer means an individual who is—
+    >     - **(F)** the importation, sale, manufacture, transfer, or possession of any large capacity ammunition feeding device by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Attorney General.
+    >   - **(4)** For purposes of paragraph (4)(C), the term campus law enforcement officer means an individual who is—
     >     - **(A)** employed by a private institution of higher education that is eligible for funding under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.);
     >     - **(B)** responsible for the prevention or investigation of crime involving injury to persons or property, including apprehension or detention of persons for such crimes;
     >     - **(C)** authorized by Federal, State, or local law to carry a firearm, execute search warrants, and make arrests; and
