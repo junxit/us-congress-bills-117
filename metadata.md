@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1302
 congress: 117
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 1302
