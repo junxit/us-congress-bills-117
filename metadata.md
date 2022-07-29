@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7283
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7283
@@ -48,3 +48,11 @@ STREAM Act
 - 2022-07-26 — Placed on the Union Calendar, Calendar No. 339.
 - 2022-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-435.
 - 2022-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-435.
+- 2022-07-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-07-28 — Considered under suspension of the rules. (consideration: CR H7395-7399)
+- 2022-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7283.
+- 2022-07-28 — Mr. Lowenthal moved to suspend the rules and pass the bill, as amended.
+- 2022-07-29 — Considered as unfinished business. (consideration: CR H7532-7533)
+- 2022-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 9 (Roll no. 416). (text: 7/28/2022 CR H7395)
+- 2022-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 9 (Roll no. 416).
