@@ -1,7 +1,7 @@
 ---
 measure: H.R. 263
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 263
@@ -294,3 +294,17 @@ Big Cat Public Safety Act
 - 2022-07-22 — Placed on the Union Calendar, Calendar No. 334.
 - 2022-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-428.
 - 2022-07-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-428.
+- 2022-07-26 — Rules Committee Resolution H. Res. 1256 Reported to House. Rule provides for consideration of H.R. 263 and H.R. 4040. Resolution provides for one hour of general debate and one motion to recommit on each bill. H. Res. 517 is considered adopted.
+- 2022-07-28 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-07-28 — Considered under the provisions of rule H. Res. 1256. (consideration: CR H7388-7395)
+- 2022-07-28 — DEBATE - The House proceeded with one hour of debate on H.R. 263.
+- 2022-07-28 — DEBATE - The House resumed with debate on H.R. 263.
+- 2022-07-28 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-07-28 — House amendment offered
+- 2022-07-28 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-07-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 263, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Westerman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-07-28 — Rule provides for consideration of H.R. 263 and H.R. 4040. Resolution provides for one hour of general debate and one motion to recommit on each bill. H. Res. 517 is considered adopted.
+- 2022-07-29 — Considered as unfinished business. (consideration: CR H7531-7532)
+- 2022-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-07-29 — On passage Passed by the Yeas and Nays: 278 - 134 (Roll no. 415). (text: 7/28/2022 CR H7388)
+- 2022-07-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 278 - 134 (Roll no. 415).
