@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 8626
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8626
+
+> To amend title 10, United States Code, to direct the Secretary concerned to carry out training on the consequences of committing a crime in preseparation counseling of the Transition Assistance Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Crime Doesn’t Pay Act of 2022”.
+
+## § 2. Training on consequences of committing a crime in preseparation counseling of the Transition Assistance Program
+
+- **(a)** *Establishment* Subsection (b) of section 1142 of title 10, United States Code, is amended by adding at the end the following new paragraph:
+  > - **(20)** Training regarding the consequences to such a member who is convicted of a crime, specifically regarding the loss of benefits from the Federal Government to such member.
+
+- **(b)** *Implementation date* The Secretary concerned shall carry out paragraph (20) of such subsection, as added by subsection (a), not later than one year after the date of the enactment of this Act.
+- **(c)** *Development* The Secretary of Defense shall develop the training under such paragraph.
+- **(d)** *Progress briefing* Not later than 180 days after the enactment of this Act, the Secretary of Defense shall provide a briefing to the Committees on Armed Services of the Senate and House of Representatives regarding progress of the Secretary in preparing the training under such paragraph.
