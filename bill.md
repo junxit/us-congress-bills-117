@@ -13,23 +13,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Preventing Organizational Conflicts of Interest in Federal Acquisition Act”.
 
-## § 2. Findings
+## § 2. Preventing organizational conflicts of interest in federal acquisition
 
-Congress makes the following findings:
-
-- **(1)** The Federal Government’s reliance on contractors for mission support services can create the potential for conflicts of interest related to impaired objectivity or undue influence due to contractor business relationships with regulated or other entities.
-- **(2)** Comptroller General bid protest decisions in recent years have shown failures in proper identification and mitigation of organizational conflicts of interest. These decisions focus on the issue of “impaired objectivity” in contract support, or a situation in which a contractor is unable to provide impartial recommendations and advice to the Government due to competing interests of the contractor.
-- **(3)** Prior efforts by the Administrator for Federal Procurement Policy and the Director of the Office of Government Ethics, undertaken pursuant to the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417), have determined that changes are needed to the Federal Acquisition Regulation to prevent and mitigate conflicts of interest in Federal contracting.
-- **(4)** Protecting against conflicts of interest in Federal acquisition is vital to the integrity of Government operations.
-
-## § 3. Preventing organizational conflicts of interest in Federal acquisition
-
-- **(a)** *In general* Not later than 18 months after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall—
-  - **(1)** identify contracting methods, types, and services that raise heightened concerns for potential organizational conflicts of interest beyond those currently addressed in the Federal Acquisition Regulation; and
-  - **(2)** revise the Federal Acquisition Regulation to—
-    - **(A)** address organizational conflicts of interest with sufficiently rigorous, comprehensive, and consistent governmentwide policy and guidance to prevent or effectively mitigate such conflicts of interest in Federal acquisition;
-    - **(B)** provide and update definitions related to organizational conflicts of interest, to include contractor relationships with public, private, domestic, and foreign entities that may cause contract support to be subject to potential conflicts of interest, including undue influence;
-    - **(C)** provide executive agencies with solicitation provisions and contract clauses that require contractors to disclose information relevant to potential organizational conflicts of interest and limit future contracting with respect to potential conflicts of interest with the work to be performed under the awarded contract, for agency use as needed;
-    - **(D)** require executive agencies to tailor the solicitation and contract clauses described in subparagraph (C) as necessary to provide specifics on information required to be disclosed and limitations on future contracting based on the potential for conflict with the work to be performed under the awarded contract; and
-    - **(E)** require executive agencies to establish or update agency conflict of interest procedures to implement the Federal Acquisition Regulation revisions made under this section, and periodically assess and update these agency procedures as needed to address agency-specific conflict of interest issues.
+- **(a)** *In general* Not later than 18 months after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation—
+  - **(1)** to provide and update—
+    - **(A)** definitions related to specific types of organizational conflicts of interest, including unequal access to information, impaired objectivity, and biased ground rules;
+    - **(B)** definitions, guidance, and illustrative examples related to relationships of contractors with public, private, domestic, and foreign entities that may cause contract support to be subject to potential organizational conflicts of interest, including undue influence; and
+    - **(C)** illustrative examples of situations related to the potential organizational conflicts of interest identified under this paragraph, including an example of the awarding by a Federal regulatory agency of a contract for consulting services to a contractor if employees of the contractor performing work under such contract are permitted by the contractor to simultaneously perform work under a contract for a private sector client under the regulatory purview of such agency;
+  - **(2)** to provide executive agencies with solicitation provisions and contract clauses to avoid or mitigate organizational conflicts of interest, for agency use as needed, that require contractors to disclose information relevant to potential organizational conflicts of interest and limit future contracting with respect to potential conflicts of interest with the work to be performed under awarded contracts;
+  - **(3)** to allow executive agencies to tailor such solicitation provisions and contract clauses as necessary to address risks associated with conflicts of interest and other considerations that may be unique to the executive agency;
+  - **(4)** to require executive agencies—
+    - **(A)** to establish or update as needed agency conflict of interest procedures to implement the revisions to the Federal Acquisition Regulation made under this section; and
+    - **(B)** to periodically assess and update such procedures as needed to address agency-specific conflict of interest issues; and
+  - **(5)** to update the procedures set forth in section 9.506 of the Federal Acquisition Regulation to permit contracting officers to take into consideration professional standards and procedures to prevent organizational conflicts of interest to which an offeror or contractor is subject.
 - **(b)** *Executive agency defined* In this section, the term executive agency has the meaning given the term in section 133 of title 41, United States Code.
