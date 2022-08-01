@@ -1,7 +1,7 @@
 ---
 measure: H.R. 263
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 263
@@ -308,3 +308,4 @@ Big Cat Public Safety Act
 - 2022-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-29 — On passage Passed by the Yeas and Nays: 278 - 134 (Roll no. 415). (text: 7/28/2022 CR H7388)
 - 2022-07-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 278 - 134 (Roll no. 415).
+- 2022-08-01 — Received in the Senate, read twice.
