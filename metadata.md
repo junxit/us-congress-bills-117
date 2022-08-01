@@ -1,7 +1,7 @@
 ---
 measure: H.R. 263
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 263
@@ -309,3 +309,12 @@ Big Cat Public Safety Act
 - 2022-07-29 — On passage Passed by the Yeas and Nays: 278 - 134 (Roll no. 415). (text: 7/28/2022 CR H7388)
 - 2022-07-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 278 - 134 (Roll no. 415).
 - 2022-08-01 — Received in the Senate, read twice.
+- 2022-12-06 — Passed Senate without amendment by Voice Vote. (consideration: CR S7005-7006)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-12-07 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-243.
+- 2022-12-20 — Became Public Law No: 117-243.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
