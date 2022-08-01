@@ -1,7 +1,7 @@
 ---
 measure: S. 4003
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4003
@@ -16,7 +16,7 @@ Law Enforcement De-Escalation Training Act of 2022
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (19)
+## Cosponsors (21)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Cassidy, Bill [R-LA] (C001075)
@@ -37,6 +37,8 @@ Law Enforcement De-Escalation Training Act of 2022
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -50,3 +52,12 @@ Law Enforcement De-Escalation Training Act of 2022
 - 2022-06-14 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.
+- 2022-08-01 — Amendment SA 5189 agreed to in Senate by Unanimous Consent.
+- 2022-08-01 — Amendment SA 5189 proposed by Senator Schumer for Senator Cornyn. (consideration: CR S3832-3835; text: CR S3811-3814) In the nature of a substitute.
+- 2022-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S3829-3835)
+- 2022-08-01 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S3832-3835)
+- 2022-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S3832-3835)
+- 2022-08-01 — Senate amendment agreed to: Amendment SA 5189 agreed to in Senate by Unanimous Consent.
+- 2022-08-01 — Senate amendment proposed (on the floor): Amendment SA 5189 proposed by Senator Schumer for Senator Cornyn.
+- 2022-08-01 — Senate amendment submitted
+- 2022-08-01 — The committee substitute withdrawn by Unanimous Consent.
