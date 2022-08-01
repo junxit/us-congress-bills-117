@@ -1,0 +1,18 @@
+---
+legis-num: S. 4697
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4697
+
+> To require limitations on research on potential pandemic pathogens of concern.
+
+## § 1. Short title
+
+This Act may be cited as the “Securing America’s Federally-funded Extramural Risky Research Act” or the “SAFE Risky Research Act”.
+
+## § 2. Limitations on countries of concern conducting certain research
+
+Beginning not later than 60 days after the date of the enactment of this Act, the Secretary shall prohibit federally-funded research conducted in a foreign institution involving pathogens of pandemic potential or biological agents or toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act (42 U.S.C. 262a(a)(1)) located in a country of concern, in the estimation of the Director of National Intelligence or the head of another relevant Federal department or agency, as appropriate, in consultation with the Secretary of Health and Human Services.
