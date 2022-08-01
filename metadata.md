@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7283
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7283
@@ -56,3 +56,4 @@ STREAM Act
 - 2022-07-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 9 (Roll no. 416). (text: 7/28/2022 CR H7395)
 - 2022-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 9 (Roll no. 416).
+- 2022-08-01 — Received in the Senate.
