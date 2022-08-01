@@ -1,7 +1,7 @@
 ---
 measure: S. 3860
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3860
@@ -16,7 +16,7 @@ Invest to Protect Act of 2022
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
-## Cosponsors (16)
+## Cosponsors (18)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
@@ -34,6 +34,8 @@ Invest to Protect Act of 2022
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -47,3 +49,12 @@ Invest to Protect Act of 2022
 - 2022-06-14 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
+- 2022-08-01 — Amendment SA 5188 agreed to in Senate by Unanimous Consent.
+- 2022-08-01 — Amendment SA 5188 proposed by Senator Schumer for Senator Cortez Masto. (consideration: CR S3828; text: CR S3810-3811) In the nature of a substitute.
+- 2022-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S3827-3829)
+- 2022-08-01 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S3828-3829)
+- 2022-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S3828-3829)
+- 2022-08-01 — Senate amendment agreed to: Amendment SA 5188 agreed to in Senate by Unanimous Consent.
+- 2022-08-01 — Senate amendment proposed (on the floor): Amendment SA 5188 proposed by Senator Schumer for Senator Cortez Masto.
+- 2022-08-01 — Senate amendment submitted
+- 2022-08-01 — The committee substitute withdrawn by Unanimous Consent.
