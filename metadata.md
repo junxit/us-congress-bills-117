@@ -1,7 +1,7 @@
 ---
 measure: S. 3905
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3905
@@ -41,3 +41,22 @@ Preventing Organizational Conflicts of Interest in Federal Acquisition Act
 - 2022-08-01 — Senate amendment agreed to: Amendment SA 5187 agreed to in Senate by Unanimous Consent.
 - 2022-08-01 — Senate amendment proposed (on the floor): Amendment SA 5187 proposed by Senator Schumer for Senator Peters.
 - 2022-08-01 — Senate amendment submitted
+- 2022-08-02 — Held at the desk.
+- 2022-08-02 — Message on Senate action sent to the House.
+- 2022-08-02 — Received in the House.
+- 2022-12-14 — Considered as unfinished business. (consideration: CR H9840-9841)
+- 2022-12-14 — Considered under the provisions of rule H. Res. 1518. (consideration: CR H9745-9752)
+- 2022-12-14 — DEBATE - The House proceeded with one hour of debate on S. 3905.
+- 2022-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-14 — On passage Passed by the Yeas and Nays: 219 - 205 (Roll no. 524). (text: CR H9837)
+- 2022-12-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 3905, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Keller demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-12-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 205 (Roll no. 524).
+- 2022-12-14 — Rule provides for consideration of H.R. 1948, S. 3905 and S. 4003. Rule provides for one hour of general debate each for H.R. 1948, S. 3905, S. 4003. Rule provides for one hour of general debate on the Senate amendment to H.R. 1437. Rule provides that H. Res. 1516 and H. Con. Res. 124 are adopted. Rule provides that the House shall be considered to have taken from the Speaker's table H.R. 2617, with the Senate amendments thereto, to have concurred in the Senate amendments numbered 1, 2, 3, and 5, and to have concurred in the Senate amendment numbered 4 with an amendment consisting of the text of Rules Committee Print 117-73.
+- 2022-12-14 — Rules Committee Resolution H. Res. 1518 Reported to House. Rule provides for consideration of H.R. 1948, S. 3905 and S. 4003. Rule provides for one hour of general debate each for H.R. 1948, S. 3905, S. 4003. Rule provides for one hour of general debate on the Senate amendment to H.R. 1437. Rule provides that H. Res. 1516 and H. Con. Res. 124 are adopted. Rule provides that the House shall be considered to have taken from the Speaker's table H.R. 2617, with the Senate amendments thereto, to have concurred in the Senate amendments numbered 1, 2, 3, and 5, and to have concurred in the Senate amendment numbered 4 with an amendment consisting of the text of Rules Committee Print 117-73.
+- 2022-12-14 — The previous question was ordered pursuant to the rule.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-324.
+- 2022-12-27 — Became Public Law No: 117-324.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
