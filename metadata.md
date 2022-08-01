@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1808
@@ -231,9 +231,10 @@ Assault Weapons Ban of 2022
 - Rep. Harder, Josh [D-CA-10] (H001090)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -264,3 +265,4 @@ Assault Weapons Ban of 2022
 - 2022-07-29 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1808.
 - 2022-07-29 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-07-29 — The previous question was ordered pursuant to the rule.
+- 2022-08-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
