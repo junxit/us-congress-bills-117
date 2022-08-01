@@ -1,7 +1,7 @@
 ---
 measure: S. 4003
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4003
@@ -16,7 +16,7 @@ Law Enforcement De-Escalation Training Act of 2022
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Cassidy, Bill [R-LA] (C001075)
@@ -39,6 +39,7 @@ Law Enforcement De-Escalation Training Act of 2022
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Kelly, Mark [D-AZ] (K000377)
 - Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -61,3 +62,30 @@ Law Enforcement De-Escalation Training Act of 2022
 - 2022-08-01 — Senate amendment proposed (on the floor): Amendment SA 5189 proposed by Senator Schumer for Senator Cornyn.
 - 2022-08-01 — Senate amendment submitted
 - 2022-08-01 — The committee substitute withdrawn by Unanimous Consent.
+- 2022-08-02 — Held at the desk.
+- 2022-08-02 — Message on Senate action sent to the House.
+- 2022-08-02 — Received in the House.
+- 2022-11-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-29 — Considered as unfinished business. (consideration: CR H8642)
+- 2022-11-29 — Considered under suspension of the rules. (consideration: CR H8612-8618; text: CR H8612-8615)
+- 2022-11-29 — DEBATE - The House proceeded with forty minutes of debate on S. 4003.
+- 2022-11-29 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 247 - 160, 1 Present (Roll no. 486).
+- 2022-11-29 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2022-11-29 — On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 247 - 160, 1 Present (Roll no. 486).
+- 2022-12-14 — Considered as unfinished business. (consideration: CR H9841)
+- 2022-12-14 — Considered under the provisions of rule H. Res. 1518. (consideration: CR H9745-9752)
+- 2022-12-14 — DEBATE - The House proceeded with one hour of debate on S. 4003.
+- 2022-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-14 — On passage Passed by the Yeas and Nays: 264 - 162 (Roll no. 525). (text: CR H9831-9834)
+- 2022-12-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 4003, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Biggs demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-12-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 264 - 162 (Roll no. 525).
+- 2022-12-14 — Rule H. Res. 1518 passed House.
+- 2022-12-14 — Rule provides for consideration of H.R. 1948, S. 3905 and S. 4003. Rule provides for one hour of general debate each for H.R. 1948, S. 3905, S. 4003. Rule provides for one hour of general debate on the Senate amendment to H.R. 1437. Rule provides that H. Res. 1516 and H. Con. Res. 124 are adopted. Rule provides that the House shall be considered to have taken from the Speaker's table H.R. 2617, with the Senate amendments thereto, to have concurred in the Senate amendments numbered 1, 2, 3, and 5, and to have concurred in the Senate amendment numbered 4 with an amendment consisting of the text of Rules Committee Print 117-73.
+- 2022-12-14 — Rules Committee Resolution H. Res. 1518 Reported to House. Rule provides for consideration of H.R. 1948, S. 3905 and S. 4003. Rule provides for one hour of general debate each for H.R. 1948, S. 3905, S. 4003. Rule provides for one hour of general debate on the Senate amendment to H.R. 1437. Rule provides that H. Res. 1516 and H. Con. Res. 124 are adopted. Rule provides that the House shall be considered to have taken from the Speaker's table H.R. 2617, with the Senate amendments thereto, to have concurred in the Senate amendments numbered 1, 2, 3, and 5, and to have concurred in the Senate amendment numbered 4 with an amendment consisting of the text of Rules Committee Print 117-73.
+- 2022-12-14 — The previous question was ordered pursuant to the rule.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-325.
+- 2022-12-27 — Became Public Law No: 117-325.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
