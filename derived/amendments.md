@@ -1,7 +1,7 @@
 ---
 measure: H.R. 263
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
