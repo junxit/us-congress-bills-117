@@ -1,7 +1,7 @@
 ---
 measure: S. 2151
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2151
@@ -43,3 +43,5 @@ A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provid
 - 2022-06-14 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
+- 2022-08-01 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3826; text: CR S3826)
+- 2022-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3826; text: CR S3826)
