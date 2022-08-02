@@ -1,7 +1,7 @@
 ---
 measure: S. 3662
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3662
@@ -32,3 +32,7 @@ Preventing PFAS Runoff at Airports Act
 
 - 2022-02-16 — Introduced in Senate
 - 2022-02-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-03-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-08-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-138.
+- 2022-08-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-138.
+- 2022-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 462.
