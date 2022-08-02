@@ -1,0 +1,20 @@
+---
+legis-num: S. 4707
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4707
+
+> To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Buckeye Trail as a national scenic trail, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Buckeye National Scenic Trail Feasibility Study Act of 2022”.
+
+## § 2. Buckeye National Scenic Trail Feasibility Study
+
+Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following:
+
+> - **(48)** *Buckeye Trail* The Buckeye Trail, a system of trails creating a loop extending approximately 1,454 miles from Lake Erie to the Ohio River, through the farmland of northwest Ohio, the hills of Appalachia, the Black Hand sandstone cliffs of the Hocking Hills region, and the Bluegrass region of southwest Ohio.
