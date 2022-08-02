@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5118
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5118
@@ -85,3 +85,4 @@ Continental Divide Trail Completion Act
 - 2022-07-29 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-07-29 — The previous question was ordered pursuant to the rule.
 - 2022-07-29 — The title of the measure was amended. Agreed to without objection.
+- 2022-08-02 — Received in the Senate.
