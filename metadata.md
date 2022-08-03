@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7900
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7900
@@ -577,3 +577,5 @@ National Defense Authorization Act for Fiscal Year 2023
 - 2022-07-14 — The previous question was ordered pursuant to the rule.
 - 2022-07-14 — The title of the measure was amended. Agreed to without objection.
 - 2022-07-14 — VACATING THE YEAS AND NAYS ON AMENDMENT NO. 451 - Mr. Malinowski asked unanimous consent that the ordering of the yeas and nays on amendment numbered 451 printed in Part A of House Report 117-405 be vitiated to the end that the amendment be withdrawn. Agreed to without objection.
+- 2022-07-28 — Received in the Senate.
+- 2022-08-03 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.
