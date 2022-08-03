@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5376
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5376
@@ -57,3 +57,6 @@ Inflation Reduction Act of 2022
 - 2021-11-19 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration of H.R. 5376.
 - 2021-11-19 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2021-11-19 — The previous question was ordered pursuant to the rule.
+- 2022-08-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-08-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
+- 2022-08-03 — Senate amendment submitted
