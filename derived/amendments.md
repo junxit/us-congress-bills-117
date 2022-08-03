@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5376
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,478 amendatory instructions. 415 executed, 1,063 stated and not applied.
+1,478 amendatory instructions. 423 executed, 1,055 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1104,6 +1104,24 @@ to guess them.
 | Removed | `paragraph (15) or (35)` |
 | Inserted | `paragraph (15), (35), or (40)` |
 
+### 26 U.S.C. § 8169
+
+> Section 8169 of such title is amended by striking “December 31, 2023” and inserting “September 30, 2026”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2023` |
+| Inserted | `September 30, 2026` |
+
+### 26 U.S.C. § 3307
+
+> by striking “No funds” and inserting “(A) No funds”;
+
+| | |
+|---|---|
+| Removed | `No funds` |
+| Inserted | `(A) No funds` |
+
 ### 26 U.S.C. § 6103
 
 > Section 6103(p)(4) of such Code is amended by striking “or (22)” in the matter preceding subparagraph (A) and in subparagraph (F)(ii) and inserting “(22), or (23)”.
@@ -1418,6 +1436,60 @@ to guess them.
 |---|---|
 | Removed | `gives adequate consideration to` |
 | Inserted | `is in` |
+
+### 26 U.S.C. § 133301
+
+> in paragraph (1), by striking “eligible institutions” and inserting “eligible entities”; and
+
+| | |
+|---|---|
+| Removed | `eligible institutions` |
+| Inserted | `eligible entities` |
+
+### 26 U.S.C. § 133301
+
+> in the matter preceding subparagraph (A), by striking “eligible institution” and inserting “eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `eligible institution` |
+| Inserted | `eligible entity` |
+
+### 26 U.S.C. § 133301
+
+> by striking “$1,000,000” and inserting “$2,500,000”;
+
+| | |
+|---|---|
+| Removed | `$1,000,000` |
+| Inserted | `$2,500,000` |
+
+### 26 U.S.C. § 133301
+
+> by striking “(B)” and inserting “(B)(i) in the case of an eligible institution,”;
+
+| | |
+|---|---|
+| Removed | `(B)` |
+| Inserted | `(B)(i) in the case of an eligible institution,` |
+
+### 26 U.S.C. § 133301
+
+> by striking “eligible institution” each place it appears and inserting “eligible entity”; and
+
+| | |
+|---|---|
+| Removed | `eligible institution` |
+| Inserted | `eligible entity` |
+
+### 26 U.S.C. § 133301
+
+> In subsection (d), by striking “eligible institution” each place it appears and inserting “eligible entity”.
+
+| | |
+|---|---|
+| Removed | `eligible institution` |
+| Inserted | `eligible entity` |
 
 ### 19 U.S.C. § 2401a
 
@@ -4008,10 +4080,10 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 694c` | strike | in section 412(a) (15 U.S.C. 694c(a)), in the third sentence, by striking “, excluding administrative expenses,”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 631` | redesignate | by redesignating section 49 (15 U.S.C. 631 note) as section 54; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45D` | insert | by inserting after section 48 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | The Small Business Act is amended by inserting after section 49, as added by section 100201 of this title, the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 100201` | insert | The Small Business Act is amended by inserting after section 49, as added by section 100201 of this title, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 653` | add-at-end | Section 26 of the Small Business Act (15 U.S.C. 653) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7 of the Small Business Act (15 U.S.C. 636) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | The Small Business Act is amended by inserting after section 50, as added by section 100202 of this title, the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 100202` | insert | The Small Business Act is amended by inserting after section 50, as added by section 100202 of this title, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 662` | strike | in subclause (II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 662` | amend | in subclause (III), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 662` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4025,8 +4097,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | insert | in paragraph (26), by inserting “(except for those collected under paragraph (39))” after “profits”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7(a) of the Small Business Act (15 U.S.C. 636(a)), as amended by section 100502, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | The Small Business Act is amended by inserting after section 51, as added by section 100301 of this title, the following: | the bill names no machine-readable US Code section |
-| — | insert | The Small Business Act is amended by inserting after section 52, as added by subsection (a), the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 100301` | insert | The Small Business Act is amended by inserting after section 51, as added by section 100301 of this title, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 100301` | insert | The Small Business Act is amended by inserting after section 52, as added by subsection (a), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 1 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -4035,15 +4107,13 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (2) of section 8162(a) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 8169 of such title is amended by striking “December 31, 2023” and inserting “September 30, 2026”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “No funds” and inserting “(A) No funds”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or any major medical facility lease”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “or lease”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Subparagraph (B) of paragraph (3) of such subsection is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | repeal | Effective upon the date of execution of the final lease award for leases described in subsection (d), subsections (a) through (e) of this section and the amendments made by those subsections are repealed and any provision of law amended … | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 8169` | amend | Paragraph (2) of section 8162(a) of title 38, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3307` | strike | by striking “or any major medical facility lease”; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 3307` | strike | by striking “or lease”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 3307` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3307` | amend | Subparagraph (B) of paragraph (3) of such subsection is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3307` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3307` | repeal | Effective upon the date of execution of the final lease award for leases described in subsection (d), subsections (a) through (e) of this section and the amendments made by those subsections are repealed and any provision of law amended … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6103` | add-at-end | The Social Security Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 653` | add-at-end | Section 453(j) of the Social Security Act (42 U.S.C. 653(j)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6103` | add-at-end | Section 6103(l) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -4122,18 +4192,12 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2371-2372` | redesignate | by redesignating sections 271 and 272 as sections 279 and 279A, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2371-2372` | insert | by inserting before subchapter B (as designated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2371-2372` | replace | The table of contents for the Trade Act of 1974 is amended by striking the items relating to chapter 4 of title II and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in paragraph (1), by striking “eligible institutions” and inserting “eligible entities”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “eligible institution” and inserting “eligible entity”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “$1,000,000” and inserting “$2,500,000”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “(B)” and inserting “(B)(i) in the case of an eligible institution,”; | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | In subsection (b), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “eligible institution” each place it appears and inserting “eligible entity”; and | the bill names no machine-readable US Code section |
-| — | strike | in subclause (I), by striking “and” at the end; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | In subsection (d), by striking “eligible institution” each place it appears and inserting “eligible entity”. | the bill names no machine-readable US Code section |
-| — | redesignate | By redesignating subsection (e) as subsection (h) and inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 133301` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 133301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 133301` | add-at-end | In subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 133301` | strike | in subclause (I), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 133301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 133301` | redesignate | By redesignating subsection (e) as subsection (h) and inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2401` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2401` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2401` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
