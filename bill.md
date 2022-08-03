@@ -1,0 +1,24 @@
+---
+legis-num: S. 4751
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4751
+
+> To revise the definition of a broker for purposes of certain reporting requirements with respect to digital asset transfers under the Internal Revenue Code of 1986, and for other purposes.
+
+## § 1. Information reporting for brokers and digital assets
+
+- **(a)** *Clarification of definition of broker* Subparagraph (D) of section 6045(c)(1) of the Internal Revenue Code of 1986, as added by section 80603(a)(3) of the Infrastructure Investment and Jobs Act (Public Law 117–58), is amended by striking “is responsible for regularly providing any service effectuating” and inserting “regularly effectuates”.
+- **(b)** *Rules of construction* Section 80603 of the Infrastructure Investment and Jobs Act is amended by striking subsection (d) and inserting the following:
+  > - **(d)** *Rules of construction*
+  >   - **(1)** *Definition of broker* Nothing in this section or the amendments made by this section shall be construed to create any inference that a person described in section 6045(c)(1)(D) of the Internal Revenue Code of 1986, as added by this section, includes any person solely engaged in the business of—
+  >     - **(A)** validating distributed ledger transactions, without providing other functions or services, or
+  >     - **(B)** selling hardware or software for which the sole function is to permit persons to control private keys which are used for accessing digital assets on a distributed ledger.
+  >   - **(2)** *Brokers and treatment of digital assets* Nothing in this section or the amendments made by this section shall be construed to create any inference, for any period prior to the effective date of such amendments, with respect to—
+  >     - **(A)** whether any person is a broker under section 6045(c)(1) of the Internal Revenue Code of 1986, or
+  >     - **(B)** whether any digital asset is property which is a specified security under section 6045(g)(3)(B) of such Code.
+
+- **(c)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of section 80603 of the Infrastructure Investment and Jobs Act.
