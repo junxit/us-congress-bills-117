@@ -1,7 +1,7 @@
 ---
 measure: S. 4458
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4458
@@ -35,3 +35,17 @@ Ensuring the Best Schools for Veterans Act of 2022
 - 2022-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S4034)
 - 2022-08-04 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4034)
 - 2022-08-04 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4034)
+- 2022-08-08 — Message on Senate action sent to the House.
+- 2022-08-09 — Held at the desk.
+- 2022-08-09 — Received in the House.
+- 2022-08-12 — Considered by unanimous consent. (consideration: CR H7704-7705)
+- 2022-08-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-08-12 — Mr. Takano asked unanimous consent to take from the Speaker's table and consider.
+- 2022-08-12 — On passage Passed without objection. (text: CR H7704-7705)
+- 2022-08-12 — Passed/agreed to in House: On passage Passed without objection.
+- 2022-08-23 — Presented to President.
+- 2022-08-23 — Presented to President.
+- 2022-08-26 — Became Public Law No: 117-174.
+- 2022-08-26 — Became Public Law No: 117-174.
+- 2022-08-26 — Signed by President.
+- 2022-08-26 — Signed by President.
