@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5809
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5809
@@ -90,3 +90,7 @@ To designate the facility of the United States Postal Service located at 1801 To
 - 2022-07-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5964)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 474.
