@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5093
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5093
@@ -16,9 +16,10 @@ Wind River Administrative Site Conveyance Act
 
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Wind River Administrative Site Conveyance Act
 - 2022-07-28 — Mr. Lowenthal moved to suspend the rules and pass the bill, as amended.
 - 2022-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7399)
 - 2022-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-08-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
