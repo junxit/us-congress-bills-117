@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3508
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3508
@@ -66,3 +66,7 @@ To designate the facility of the United States Postal Service located at 39 West
 - 2022-05-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 3, 2 Present (Roll no. 177). (text: 05/10/2022 CR H4790)
 - 2022-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 3, 2 Present (Roll no. 177).(text: 05/10/2022 CR H4790)
 - 2022-05-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2022-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
