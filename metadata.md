@@ -1,7 +1,7 @@
 ---
 measure: H.R. 700
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 700
@@ -61,3 +61,12 @@ To designate the facility of the United States Postal Service located at 303 Eas
 - 2022-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-08-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.
+- 2022-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7008-7009)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-07 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-19 — Became Public Law No: 117-231.
+- 2022-12-19 — Became Public Law No: 117-231.
+- 2022-12-19 — Signed by President.
+- 2022-12-19 — Signed by President.
