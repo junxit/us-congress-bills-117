@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 55
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 55
@@ -79,3 +79,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2022-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.
 - 2022-08-03 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2022-08-03 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-08-04 — Measure laid before Senate by unanimous consent.
+- 2022-08-04 — Passed Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 283. (consideration: CR S4004-4013; text: CR S4004)
+- 2022-08-04 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 283.(consideration: CR S4004-4013; text: CR S4004)
