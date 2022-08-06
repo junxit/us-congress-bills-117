@@ -31,6 +31,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** recognizes the significant contributions to the United States of citizens of Hellenic heritage;
-- **(2)** commemorates the 100th Anniversary of the founding of the American Hellenic Educational Progressive Association, applauds its mission, and commends the many charitable contributions of its members to communities in the United States and around the world; and
-- **(3)** requests the President to issue a proclamation recognizing the 100th Anniversary and many accomplishments of the American Hellenic Educational Progressive Association.
+- **(1)** recognizes the significant contributions to the United States of citizens of Hellenic heritage; and
+- **(2)** commemorates the 100th Anniversary of the founding of the American Hellenic Educational Progressive Association, applauds its mission, and commends the many charitable contributions of its members to communities in the United States and around the world.
