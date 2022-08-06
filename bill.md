@@ -30,5 +30,9 @@ This Act may be cited as the “Planning for Animal Wellness Act” or the “PA
 - **(d)** *Duties* The working group shall—
   - **(1)** encourage and foster collaborative efforts among individuals and entities working to address the needs of household pets, service and assistance animals, and captive animals, as appropriate, in emergency and disaster preparedness, response, and recovery; and
   - **(2)** review best practices and Federal guidance, as of the date of enactment of this Act, on congregate and noncongregate sheltering and evacuation planning relating to the needs of household pets, service and assistance animals, and captive animals, as appropriate, in emergency and disaster preparedness, response, and recovery.
-- **(e)** *Guidance determination* Not later than 1 year after the date of enactment of this Act, the working group shall determine whether the best practices and Federal guidance described in subsection (d)(2) are sufficient.
-- **(f)** *New guidance* Not later than 540 days after the date of enactment of this Act, if the Administrator, in consultation with the working group, determines that the best practices and Federal guidance described in paragraph subsection (d)(2) are insufficient, the Administrator, in consultation with the working group, shall publish updated Federal guidance.
+- **(e)** *No compensation* The members of the working group shall serve on the working group on a voluntary basis.
+- **(f)** *Guidance determination* Not later than 1 year after the date of enactment of this Act, the working group shall determine whether the best practices and Federal guidance described in subsection (d)(2) are sufficient.
+- **(g)** *New guidance* Not later than 540 days after the date of enactment of this Act, if the Administrator, in consultation with the working group, determines that the best practices and Federal guidance described in subsection (d)(2) are insufficient, the Administrator, in consultation with the working group, shall publish updated Federal guidance.
+- **(h)** *Sunset*
+  - **(1)** *In general* Subject to paragraph (2), the working group shall terminate on the date that is 4 years after the date of enactment of this Act.
+  - **(2)** *Extension* The Administrator may extend the date described in paragraph (1) if the Administrator determines an extension is appropriate.
