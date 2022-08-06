@@ -1,7 +1,7 @@
 ---
 measure: S. 3115
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
