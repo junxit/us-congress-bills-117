@@ -1,7 +1,7 @@
 ---
 measure: S. 4205
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4205
@@ -35,3 +35,19 @@ PAW Act
 - 2022-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
 - 2022-08-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4165)
 - 2022-08-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4165)
+- 2022-08-08 — Message on Senate action sent to the House.
+- 2022-08-09 — Held at the desk.
+- 2022-08-09 — Received in the House.
+- 2022-09-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-13 — Considered under suspension of the rules. (consideration: CR H7758-7759; text: CR H7758-7759)
+- 2022-09-13 — DEBATE - The House proceeded with forty minutes of debate on S. 4205.
+- 2022-09-13 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2022-09-14 — Passed/agreed to in House: Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205.
+- 2022-09-14 — Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205. (consideration: CR H7814-7822; text: CR H7814)
+- 2022-09-14 — Pursuant to the provisions of H. Res. 1339, proceedings on S. 4205 are considered vacated.
+- 2022-10-17 — Became Public Law No: 117-212.
+- 2022-10-17 — Became Public Law No: 117-212.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Presented to President.
+- 2022-10-17 — Signed by President.
+- 2022-10-17 — Signed by President.
