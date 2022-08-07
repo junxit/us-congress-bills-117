@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5376
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `any prices charged` |
 | Inserted | `subject to clause (ii)(V), any prices charged` |
 
-### 26 U.S.C. § 11001
+### 26 U.S.C. § 52
 
 > in section 1196(a)(7), by striking “section 1192(d)(2)(B)” and inserting “subsections (d)(2)(B) and (f)(1)(C) of section 1192”;
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `and (DD)` |
 | Inserted | `(DD)` |
 
-### 26 U.S.C. § 11101
+### 42 U.S.C. § 1396r-8
 
 > Section 1847A(c)(3) of the Social Security Act (42 U.S.C. 1395w–3a(c)(3)), as amended by section 11101(c)(1), is amended by striking “subsection (i) or section 1927” and inserting “subsection (i), section 1927, or section 1860D–14B”.
 
@@ -1745,12 +1745,12 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 52` | add-at-end | in paragraph (1), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 52` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 52` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 11001` | insert | in the matter preceding subparagraph (A), by inserting “, and for section 1192(f),” after “section 1194(f))”; | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 11001` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 11001` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 11001` | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 11001` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 11001` | insert | in section 1198(b)(2), by inserting “the application of section 1192(f),” after “section 1192(e)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 52` | insert | in the matter preceding subparagraph (A), by inserting “, and for section 1192(f),” after “section 1194(f))”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 52` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 52` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 52` | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 52` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 52` | insert | in section 1198(b)(2), by inserting “the application of section 1192(f),” after “section 1192(e)”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 275` | add-at-end | Subtitle D of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 275` | insert | Section 275(a)(6) of the Internal Revenue Code of 1986 is amended by inserting “50A,” after “46,”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 275` | add-at-end | The table of chapters for subtitle D of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
