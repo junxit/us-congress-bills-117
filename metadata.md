@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5376
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5376
@@ -582,3 +582,16 @@ Inflation Reduction Act of 2022
 - 2022-08-07 — Senate amendment submitted
 - 2022-08-07 — Senate struck the language on page 43, lines 3-8, page 1, lines 3-5, page 547, line 18 through page 548, line 25, and page 689, lines 8-16 of amendment SA 5194, as modified.
 - 2022-08-07 — Senate struck the language on page 744, line 7, through page 755, line 4, of amendment SA 5194, as modified.
+- 2022-08-08 — Message on Senate action sent to the House.
+- 2022-08-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-08-12 — Mr. Yarmuth moved that the House agree to the Senate amendment. (consideration: CR H7577-7704)
+- 2022-08-12 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 420). (text: CR H7577-7646)
+- 2022-08-12 — Pursuant to the provisions of H.Res.1316, House proceeded with 3 hours of debate on the Yarmuth motion to agree to the Senate amendment to H.R. 5376.
+- 2022-08-12 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 420).
+- 2022-08-12 — The previous question was ordered pursuant to the rule.
+- 2022-08-15 — Presented to President.
+- 2022-08-15 — Presented to President.
+- 2022-08-16 — Became Public Law No: 117-169.
+- 2022-08-16 — Became Public Law No: 117-169.
+- 2022-08-16 — Signed by President.
+- 2022-08-16 — Signed by President.
