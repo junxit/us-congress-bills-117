@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5376
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5376
@@ -16,9 +16,77 @@ Inflation Reduction Act of 2022
 
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 
-## Committees (1)
+## Cosponsors (64)
+
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -60,3 +128,457 @@ Inflation Reduction Act of 2022
 - 2022-08-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-08-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
 - 2022-08-03 — Senate amendment submitted
+- 2022-08-04 — Committee on Banking, Housing, and Urban Affairs. Hearings held.
+- 2022-08-06 — Amendment SA 5194 proposed by Senator Schumer. (consideration: CR S4070-4144, S4201; text as modified: CR S4070-4144) In the nature of a substitute.
+- 2022-08-06 — Amendment SA 5210 proposed by Senator Sanders to Amendment SA 5194. (consideration: CR S4145, S4170; text: CR S4145) To establish a cap on costs for covered prescription drugs under Medicare parts B and D.
+- 2022-08-06 — Measure laid before Senate by motion. (consideration: CR S4070-4152, S4154-4164, S4168-4201)
+- 2022-08-06 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 287. (CR S4070)
+- 2022-08-06 — Point of order that the amendment violates section 313(b)(1)(C) of the CBA raised in Senate with respect to amendment SA 5210.
+- 2022-08-06 — Senate amendment proposed (on the floor): Amendment SA 5194 proposed by Senator Schumer.
+- 2022-08-06 — Senate amendment proposed (on the floor): Amendment SA 5210 proposed by Senator Sanders to Amendment SA 5194.
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-06 — Senate amendment submitted
+- 2022-08-07 — Amendment SA 5194 as modified agreed to in Senate by Voice Vote.
+- 2022-08-07 — Amendment SA 5194, as modified, 4 points of order en bloc that: page 43, lines 3-8, page 1, lines 3-5, and page 547, line 18 through page 548, line 25, violates section 313(b)(1)(A), and page 689, lines 8-16 violates section 313(b)(1)(D) ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5208 not agreed to in Senate by Yea-Nay Vote. 1 - 97. Record Vote Number: 308.
+- 2022-08-07 — Amendment SA 5208 proposed by Senator Sanders to Amendment SA 5194. (consideration: CR S4187-4190; text: CR S4187-4189) To extend the special rules for the child tax credit that applied for 2021 and to increase the corporate tax rate.
+- 2022-08-07 — Amendment SA 5209 not agreed to in Senate by Yea-Nay Vote. 1 - 98. Record Vote Number: 299.
+- 2022-08-07 — Amendment SA 5209 proposed by Senator Sanders to Amendment SA 5194. (consideration: CR S4181-4182; text: CR S4234-4237) To establish a Civilian Climate Corps.
+- 2022-08-07 — Amendment SA 5210 ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5211 not agreed to in Senate by Yea-Nay Vote. 3 - 97. Record Vote Number: 292.
+- 2022-08-07 — Amendment SA 5211 proposed by Senator Sanders to Amendment SA 5194. (consideration: CR S4172-4177; text as modified: CR S4172-4177) To provide coverage for dental and oral health care, hearing care, and vision care under the Medicare program.
+- 2022-08-07 — Amendment SA 5262 proposed by Senator Warnock to Amendment SA 5194. (consideration: CR S4190-4191; text: CR S4250-4252) To make health care coverage available to low-income adults in States that have not expanded Medicaid.
+- 2022-08-07 — Amendment SA 5262 ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5263 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 309.
+- 2022-08-07 — Amendment SA 5263 proposed by Senator Cruz to Amendment SA 5194. (consideration: CR S4190; text: CR S4190) To strike the $80,000,000,000 slush fund for the Internal Revenue Service to prevent the hiring of 87,000 new Internal Revenue Service employees that will surveil and audit the private account information and transaction data of innocent Americans and small businesses.
+- 2022-08-07 — Amendment SA 5265 proposed by Senator Cruz to Amendment SA 5194. (consideration: CR S4191-4192; text: CR S4191) To provide for certain conditions on the export to China of crude oil from the Strategic Petroleum Reserve.
+- 2022-08-07 — Amendment SA 5265 ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5281 not agreed to in Senate by Yea-Nay Vote. 1 - 99. Record Vote Number: 312.
+- 2022-08-07 — Amendment SA 5281 proposed by Senator Sanders to Amendment SA 5194. (consideration: CR S4192; text: CR S4257-4292) To modify the bill.
+- 2022-08-07 — Amendment SA 5301 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 289.
+- 2022-08-07 — Amendment SA 5301 proposed by Senator Graham to Amendment SA 5194. (consideration: CR S4170-4171; text: CR S4170) To strike a tax increase that would result in higher consumer prices for gasoline, heating oil, and other energy sources for Americans earning less than $400,000 per year.
+- 2022-08-07 — Amendment SA 5316 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 305.
+- 2022-08-07 — Amendment SA 5316 proposed by Senator Lee to Amendment SA 5194. (consideration: CR S4185-4186; text: CR S4185) To reduce funding for home energy performance-based, whole-house rebates and to provide funding for supplemental payments under the payments in lieu of taxes program.
+- 2022-08-07 — Amendment SA 5382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 293.
+- 2022-08-07 — Amendment SA 5382 proposed by Senator Capito to Amendment SA 5194. (consideration: CR S4178; text: CR S4178) To strike provisions concerning funding for certain activities under the Clean Air Act.
+- 2022-08-07 — Amendment SA 5383 proposed by Senator Capito to Amendment SA 5194. (consideration: CR S4182-4183; text: CR S4331-4334) To expedite consideration of permits and provide regulatory certainty for infrastructure and energy projects.
+- 2022-08-07 — Amendment SA 5383 ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5384 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 294.
+- 2022-08-07 — Amendment SA 5384 proposed by Senator Lankford to Amendment SA 5194. (consideration: CR S4178-4179; text: CR S4179) To provide additional funding for implementation of title 42.
+- 2022-08-07 — Amendment SA 5385 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 313.
+- 2022-08-07 — Amendment SA 5385 proposed by Senator Kennedy to Amendment SA 5194. (consideration: CR S4192-4193; text: CR S4192-4193) To provide for discounted insulin for low- and middle-income Americans.
+- 2022-08-07 — Amendment SA 5387 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 303.
+- 2022-08-07 — Amendment SA 5387 proposed by Senator Kennedy to Amendment SA 5194. (consideration: CR S4184; text: CR S4184) To require oil and gas lease sales in the outer Continental Shelf.
+- 2022-08-07 — Amendment SA 5389 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 298.
+- 2022-08-07 — Amendment SA 5389 proposed by Senator Marshall to Amendment SA 5194. (consideration: CR S4181; text: CR S4181) To protect patient access to current and future treatments for a range of serious conditions, such as cancer, Alzheimer's disease, HIV/AIDS, Parkinson's disease, and sickle cell disease, among numerous others.
+- 2022-08-07 — Amendment SA 5404 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 296.
+- 2022-08-07 — Amendment SA 5404 proposed by Senator Crapo to Amendment SA 5194. (consideration: CR S4180; text: CR S4180) To prevent the use of additional Internal Revenue Service Funds from being used for audits of taxpayers with taxable incomes below $400,000 in order to protect low- and middle-income earning American taxpayers from an onslaught of audits from an army of new Internal Revenue Service auditors funded by an unprecedented, nearly $80,000,000,000, infusion of new funds.
+- 2022-08-07 — Amendment SA 5409 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 291.
+- 2022-08-07 — Amendment SA 5409 proposed by Senator Barrasso to Amendment SA 5194. (consideration: CR S4172; text: CR S4172) To require certain additional onshore oil and gas lease sales in certain states.
+- 2022-08-07 — Amendment SA 5418 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 306.
+- 2022-08-07 — Amendment SA 5418 proposed by Senator Shelby to Amendment SA 5194. (consideration: CR S4186; text: CR S4186) To end the President's War on Coal through the approval of coal leases.
+- 2022-08-07 — Amendment SA 5421 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 301.
+- 2022-08-07 — Amendment SA 5421 proposed by Senator Grassley to Amendment SA 5194. (consideration: CR S4183; text: CR S4339-4341) To amend the Internal Revenue Code of 1986 to modify the maximum capital gains tax rate, to provide a partial exclusion for interest received by individuals, to provide inflation adjustments for certain tax benefits, and for other purposes.
+- 2022-08-07 — Amendment SA 5435 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 320.
+- 2022-08-07 — Amendment SA 5435 proposed by Senator Sullivan to Amendment SA 5194. (consideration: CR S4197; text: CR S4197) To replace the funding for the Office of the Chief Readiness Support Officer with a $500,000,000 appropriation for the construction or improvement of primary pedestrian fencing and barriers along the southwest border.
+- 2022-08-07 — Amendment SA 5469 proposed by Senator Hassan to Amendment SA 5194. (consideration: CR S4171; text: CR S4171) To eliminate the reinstatement of Superfund taxes.
+- 2022-08-07 — Amendment SA 5469 ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5472 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 323.
+- 2022-08-07 — Amendment SA 5472 proposed by Senator Thune to Amendment SA 5194. (consideration: CR S4199-4200; text: CR S4199) To remove harmful small business taxes, and for other purposes.
+- 2022-08-07 — Amendment SA 5480 proposed by Senator Tester to Amendment SA 5194. (consideration: CR S4179-4180; text: CR S4179) To establish a procedure for terminating a determination by Surgeon General to suspend certain entries and imports from designated places.
+- 2022-08-07 — Amendment SA 5480 ruled out of order by the chair.
+- 2022-08-07 — Amendment SA 5487 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 321.
+- 2022-08-07 — Amendment SA 5487 proposed by Senator Daines for Senator Graham to Amendment SA 5194. (consideration: CR S4198-4199; text: CR S4397-4399) Of a perfecting nature.
+- 2022-08-07 — Amendment SA 5488 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 324.
+- 2022-08-07 — Amendment SA 5488 proposed by Senator Warner to Amendment SA 5194. (consideration: CR S4200-4201; text: CR S4200) To strike the extension of the limitation on State and local taxes and extend the limitation on excess business losses of noncorporate taxpayers, and for other purposes.
+- 2022-08-07 — Motion by Senator Blackburn to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 318. (CR S4196)
+- 2022-08-07 — Motion by Senator Collins to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 302. (CR S4183-4184)
+- 2022-08-07 — Motion by Senator Cruz to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 315. (CR S4194)
+- 2022-08-07 — Motion by Senator Cruz to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 316. (CR S4194-4195)
+- 2022-08-07 — Motion by Senator Hagerty to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 322. (CR S4199)
+- 2022-08-07 — Motion by Senator Hoeven to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 317. (CR S4195)
+- 2022-08-07 — Motion by Senator Rubio to commit to Senate Committee on Health, Education, Labor, and Pensions with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 319. (CR S4196-4197)
+- 2022-08-07 — Motion by Senator Rubio to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 304. (CR S4184-4185)
+- 2022-08-07 — Motion by Senator Scott FL, to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 297. (CR S4180)
+- 2022-08-07 — Motion by Senator Scott SC, to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 307. (CR S4186)
+- 2022-08-07 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5194, as modified, rejected in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 314.
+- 2022-08-07 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5210 rejected in Senate by Yea-Nay Vote. 1 - 99. Record Vote Number: 288.
+- 2022-08-07 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5262 rejected in Senate by Yea-Nay Vote. 5 - 94. Record Vote Number: 310.
+- 2022-08-07 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5265 rejected in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 311.
+- 2022-08-07 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5469 rejected in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 290.
+- 2022-08-07 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5480 rejected in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 295.
+- 2022-08-07 — Motion to waive waive all applicable budgetary discipline with respect to amendment SA 5383 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 300.
+- 2022-08-07 — Passed Senate with an amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 325.
+- 2022-08-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 325.
+- 2022-08-07 — Point of order en bloc: page 43, lines 3-8, page 1, lines 3-5, and page 547, line 18 through page 548, line 25, violate section 313(b)(1)(A). Page 689, lines 8-16 violates section 313(b)(1)(D) raised in Senate with respect to amendment SA 5194, as modified.
+- 2022-08-07 — Point of order that the amendment violates section 313 (b)(1)(A) of the CBA raised in Senate with respect to amendment SA 5480.
+- 2022-08-07 — Point of order that the amendment violates section 313(b)(1)(C) of the CBA raised in Senate with respect to amendment SA 5262.
+- 2022-08-07 — Point of order that the amendment violates section 313(b)(1)(D) of the CBA raised in Senate with respect to amendment SA 5383.
+- 2022-08-07 — Point of order that the amendment violates section 4106, H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 5265.
+- 2022-08-07 — Point of order that the amendment violates section 4106, H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 5469.
+- 2022-08-07 — Point of order that the language on page 744, line 7, through page 755, line 4, violates 313(b)(1)(D) of the CBA raised in Senate with respect to amendment SA 5194, as modified.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5208 not agreed to in Senate by Yea-Nay Vote. 1 - 97. Record Vote Number: 308.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5209 not agreed to in Senate by Yea-Nay Vote. 1 - 98. Record Vote Number: 299.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5211 not agreed to in Senate by Yea-Nay Vote. 3 - 97. Record Vote Number: 292.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5263 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 309.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5281 not agreed to in Senate by Yea-Nay Vote. 1 - 99. Record Vote Number: 312.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5301 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 289.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5316 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 305.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 293.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5384 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 294.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5385 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 313.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5387 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 303.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5389 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 298.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5404 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 296.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5409 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 291.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5418 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 306.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5421 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 301.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5435 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 320.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5472 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 323.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5487 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 321.
+- 2022-08-07 — Roll call votes on amendments in Senate: Amendment SA 5488 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 324.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5194, as modified, rejected in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 314.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5210 rejected in Senate by Yea-Nay Vote. 1 - 99. Record Vote Number: 288.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5262 rejected in Senate by Yea-Nay Vote. 5 - 94. Record Vote Number: 310.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5265 rejected in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 311.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5469 rejected in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 290.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5480 rejected in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 295.
+- 2022-08-07 — Roll call votes on amendments in Senate: Motion to waive waive all applicable budgetary discipline with respect to amendment SA 5383 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 300.
+- 2022-08-07 — Senate amendment agreed to: Amendment SA 5194 as modified agreed to in Senate by Voice Vote.
+- 2022-08-07 — Senate amendment agreed to: Amendment SA 5472 agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 323.
+- 2022-08-07 — Senate amendment agreed to: Amendment SA 5488 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 324.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5208 not agreed to in Senate by Yea-Nay Vote. 1 - 97. Record Vote Number: 308.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5209 not agreed to in Senate by Yea-Nay Vote. 1 - 98. Record Vote Number: 299.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5211 not agreed to in Senate by Yea-Nay Vote. 3 - 97. Record Vote Number: 292.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5263 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 309.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5281 not agreed to in Senate by Yea-Nay Vote. 1 - 99. Record Vote Number: 312.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5301 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 289.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5316 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 305.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 293.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5384 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 294.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5385 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 313.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5387 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 303.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5389 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 298.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5404 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 296.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5409 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 291.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5418 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 306.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5421 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 301.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5435 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 320.
+- 2022-08-07 — Senate amendment not agreed to: Amendment SA 5487 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 321.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5208 proposed by Senator Sanders to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5209 proposed by Senator Sanders to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5211 proposed by Senator Sanders to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5262 proposed by Senator Warnock to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5263 proposed by Senator Cruz to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5265 proposed by Senator Cruz to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5281 proposed by Senator Sanders to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5301 proposed by Senator Graham to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5316 proposed by Senator Lee to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5382 proposed by Senator Capito to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5383 proposed by Senator Capito to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5384 proposed by Senator Lankford to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5385 proposed by Senator Kennedy to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5387 proposed by Senator Kennedy to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5389 proposed by Senator Marshall to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5404 proposed by Senator Crapo to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5409 proposed by Senator Barrasso to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5418 proposed by Senator Shelby to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5421 proposed by Senator Grassley to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5435 proposed by Senator Sullivan to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5469 proposed by Senator Hassan to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5472 proposed by Senator Thune to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5480 proposed by Senator Tester to Amendment SA 5194.
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5487 proposed by Senator Daines for Senator Graham to Amendment SA 5194.(consideration: CR S4198-4199; text: CR S4397-4399)
+- 2022-08-07 — Senate amendment proposed (on the floor): Amendment SA 5488 proposed by Senator Warner to Amendment SA 5194.
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate amendment submitted
+- 2022-08-07 — Senate struck the language on page 43, lines 3-8, page 1, lines 3-5, page 547, line 18 through page 548, line 25, and page 689, lines 8-16 of amendment SA 5194, as modified.
+- 2022-08-07 — Senate struck the language on page 744, line 7, through page 755, line 4, of amendment SA 5194, as modified.
