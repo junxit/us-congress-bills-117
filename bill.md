@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 8714
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8714
+
+> To amend the Immigration and Nationality Act to halt the issuance of immigrant and nonimmigrant visas to nationals of recalcitrant countries, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Alien Criminal Expulsion Act” or the “ACE Act”.
+
+## § 2. Mandatory suspension of all visas
+
+Section 243(d) of the Immigration and Nationality Act (8 U.S.C. 1253(d)) is amended—
+
+- **(1)** by striking “Attorney General” each place it appears and inserting “Secretary of Homeland Security”;
+- **(2)** by striking “or nonimmigrant visas, or both,” and inserting “and nonimmigrant visas”; and
+- **(3)** by striking “notifies the Secretary” and inserting “and the Secretary of State notify Congress”.
