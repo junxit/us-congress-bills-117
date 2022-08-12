@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 1316
+congress: 117th CONGRESS
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 1316
+
+> Providing for consideration of the Senate amendment to the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con. Res. 14.
+
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 5376) to provide for reconciliation pursuant to title II of S. Con. Res. 14, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on the Budget or his designee that the House concur in the Senate amendment. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for three hours equally divided among and controlled by the respective chairs and ranking minority members of the Committees on the Budget, Energy and Commerce, and Ways and Means, or their respective designees. The previous question shall be considered as ordered on the motion to its adoption without intervening motion.
