@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 8733
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8733
+
+> To require the Secretary of the Army to include communities affected by major disasters in the definition of an economically disadvantaged community, and for other purposes.
+
+## § 1. Definition of economically disadvantaged community
+
+- **(a)** *In general* In carrying out section 160 of the Water Resources Development Act of 2020 (33 U.S.C. 2201 note), the Secretary of the Army shall include in the definition of “economically disadvantaged community” any area that is designated as eligible to receive assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) as a result of a major disaster declaration under section 401 of such Act (42 U.S.C. 5170).
+- **(b)** *Applicability* An area described in subsection (a) may only be included in the definition of “economically disadvantaged community” during the 5-year period beginning on the date on which a major disaster with respect to such area is declared.
