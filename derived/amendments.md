@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4606
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 9 executed, 10 stated and not applied.
+20 amendatory instructions. 10 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,7 +80,7 @@ to guess them.
 
 ### 42 U.S.C. § 16393
 
-> in subsection (e) (as so redesignated), by striking “for activities under this section” and inserting “for activities under subsection (b)” and inserting at the end “and for activities under subsection (c) $25,000,000 for each of fiscal years 2022 through 2026”.
+> in subsection (e) (as so redesignated), by striking “for activities under this section” and inserting “for activities under subsection (b)” and inserting before the period at the end “and for activities under subsection (c) $25,000,000 for each of fiscal years 2022 through 2026”.
 
 | | |
 |---|---|
@@ -105,6 +105,15 @@ to guess them.
 | Removed | `this paragraph` |
 | Inserted | `the Energizing Technology Transfer Act` |
 
+### 42 U.S.C. § 16351
+
+> Section 108(b) of the Department of Energy Research and Innovation Act is amended in subsection (b) by striking “this Act” each place it appears and inserting “the Energizing Technology Transfer Act”.
+
+| | |
+|---|---|
+| Removed | `this Act` |
+| Inserted | `the Energizing Technology Transfer Act` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -123,4 +132,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 3710a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16391` | add-at-end | Section 1001(a) of the Energy Policy Act of 2005 (42 U.S.C. 16391) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16396` | add-at-end | Section 1008 of the Energy Policy Act of 2005 (42 U.S.C. 16396) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16351` | strike | Section 108 of the Department of Energy Research and Innovation Act is amended in subparagraph (b) by striking “this Act” everywhere it appears and replacing with “the Energizing Technology Transfer Act”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16396` | redesignate | Section 1008 of the Energy Policy Act of 2005 (42 U.S.C. 16396) is amended by redesignating the second subsection (e) (relating to authorization of appropriations) as subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
