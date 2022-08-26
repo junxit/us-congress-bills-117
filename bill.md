@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8749
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8749
+
+> To repeal the methane emissions and waste reduction incentive program for petroleum and natural gas systems.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting the Permian Basin Act of 2022”.
+
+## § 2. Repeal
+
+Section 136 of the Clean Air Act (relating to methane emissions and waste reduction incentive program for petroleum and natural gas systems) is repealed.
