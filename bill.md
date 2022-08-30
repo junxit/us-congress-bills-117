@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 8762
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8762
+
+> To restrict the possession, use, and acquisition of firearms and ammunition by the Internal Revenue Service.
+
+## § 1. Restriction on possession, use, and acquisition of firearms and ammunition by the Internal Revenue Service
+
+- **(a)** *Restriction on possession and use of firearms* Any officer or employee of the Internal Revenue Service hired after the date of the enactment of this Act—
+  - **(1)** shall not be in possession of a firearm while performing official duties, and
+  - **(2)** shall not receive training in use of a firearm in connection with such duties.
+- **(b)** *Prohibition on acquisition of firearms and ammunition* The Internal Revenue Service shall not, after the date of the enactment of this Act, acquire any firearm or ammunition.
