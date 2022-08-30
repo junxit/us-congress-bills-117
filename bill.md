@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 8753
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8753
+
+> To amend the Carl D. Perkins Career and Technical Education Act of 2006 to update certain requirements related to innovation and modernization grants, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Critical Health Careers Act of 2022”.
+
+## § 2. Priority for innovation and modernization grants
+
+Section 114(e)(4) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2324(e)(4)) is amended—
+
+- **(1)** by striking “will predominantly” and inserting the following:
+  > - **(A)** will predominantly
+
+- **(2)** by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(B)** are focused on developing and credentialing students served by such entities, institutions, or recipients in health and biotechnology careers, including careers as a nurse, nursing assistant, physical or occupational therapy assistant, physician assistant, clinical laboratory technician, clinical research associate, pharmacy technician, psychiatric technician, paramedic, ultrasound or MRI technician, and dental hygienist or assistant.
