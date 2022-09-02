@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 302
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Preventing a Patronage System Act” or the “PPSA Act”.
+This Act may be cited as the “Preventing a Patronage System Act of 2021” or the “PPSA Act of 2021”.
 
 ## § 2. Limitations on exception of competitive service positions
 
