@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8656
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8656
@@ -158,3 +158,12 @@ To designate the clinic of the Department of Veterans Affairs in Mishawaka, Indi
 - 2022-08-12 — On passage Passed without objection. (text: CR H7705)
 - 2022-08-12 — Passed/agreed to in House: On passage Passed without objection.
 - 2022-09-06 — Received in the Senate, read twice.
+- 2022-09-08 — Message on Senate action sent to the House.
+- 2022-09-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4520)
+- 2022-09-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-22 — Presented to President.
+- 2022-09-22 — Presented to President.
+- 2022-09-30 — Became Public Law No: 117-179.
+- 2022-09-30 — Became Public Law No: 117-179.
+- 2022-09-30 — Signed by President.
+- 2022-09-30 — Signed by President.
