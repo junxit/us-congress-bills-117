@@ -1,7 +1,7 @@
 ---
 measure: S. 958
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 958
@@ -37,3 +37,5 @@ Maximizing Outcomes through Better Investments in Lifesaving Equipment for (MOBI
 - 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
 - 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
 - 2022-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.
+- 2022-09-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4444; text: CR S4444)
+- 2022-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
