@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8656
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8656
@@ -157,3 +157,4 @@ To designate the clinic of the Department of Veterans Affairs in Mishawaka, Indi
 - 2022-08-12 — Mr. Takano asked unanimous consent to discharge from committee and consider.
 - 2022-08-12 — On passage Passed without objection. (text: CR H7705)
 - 2022-08-12 — Passed/agreed to in House: On passage Passed without objection.
+- 2022-09-06 — Received in the Senate, read twice.
