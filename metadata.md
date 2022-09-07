@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 737
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 737
@@ -28,3 +28,7 @@ A resolution designating August 10, 2022, as "Toxic Exposure Awareness Day".
 
 - 2022-08-02 — Introduced in Senate
 - 2022-08-02 — Referred to the Committee on the Judiciary.
+- 2022-09-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4488; text: 08/02/2022 CR S3866-3867)
+- 2022-09-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4488; text: 08/02/2022 CR S3866-3867)
+- 2022-09-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-09-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
