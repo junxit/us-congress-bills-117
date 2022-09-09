@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8326
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 2 executed, 10 stated and not applied.
+13 amendatory instructions. 2 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -58,6 +58,7 @@ complete account of the bill's effect, which it is not.
 | `13 U.S.C. § 13` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `13 U.S.C. § 13` | replace | The table of sections for subchapter II of chapter 1 of such title is amended by striking the item relating to section 21 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `13 U.S.C. § 13` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating subsection (g) as subsection (h); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (g) as subsection (i); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (h), as so redesignated, by inserting “Definition.—” before “As used in”. | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (i), as so redesignated, by inserting “Definition.—” before “As used in”. | the bill names no machine-readable US Code section |
+| — | insert | Section 141 of title 13, United States Code, as amended by section 3, is further amended by inserting after subsection (g) the following: | the bill names no machine-readable US Code section |
