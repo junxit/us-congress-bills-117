@@ -23,7 +23,7 @@ This Act may be cited as the “Ensuring a Fair and Accurate Census Act”.
     > - **(b)** On the date that the estimate of costs are submitted to the President under subsection (a), the Secretary shall submit such estimate to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committees on the Budget of the House of Representatives and the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
 
   - **(2)** *Clerical amendment* The table of sections for such subchapter is amended by inserting after the item relating to section 13 the following new item:
-- **(b)** *For-Cause removal of Director; duties* Section 21 of title 13, United States Code, is amended—
+- **(b)** *For-cause removal of Director; duties* Section 21 of title 13, United States Code, is amended—
   - **(1)** in subsection (b)(3), by inserting after “the President” the following: “only for inefficiency, neglect of duty, or malfeasance in office”; and
   - **(2)** by amending subsection (c) to read as follows:
     > - **(c)** *Duties*
@@ -55,7 +55,7 @@ This Act may be cited as the “Ensuring a Fair and Accurate Census Act”.
 
 Section 141 of title 13, United States Code, is amended—
 
-- **(1)** by redesignating subsection (g) as subsection (h);
+- **(1)** by redesignating subsection (g) as subsection (i); and
 - **(2)** by inserting after subsection (f) the following:
   > - **(g)** *Limitations and requirements*
   >   - **(1)** *Notice to Congress of subjects, types of information, and questions* In the 2030 decennial census of population and each decennial census thereafter, the Secretary may not include any subject, type of information, or question that was not submitted to Congress in accordance with subsection (f).
@@ -68,4 +68,20 @@ Section 141 of title 13, United States Code, is amended—
   >     - **(A)** *In general* The Secretary, upon the date of submission of the report required by subsection (f)(2), shall submit, to the committees of Congress having legislative jurisdiction over the census, a certification stating that any question that has not appeared on the previous two decennial censuses has been researched, studied, and tested according to established statistical policies and procedures.
   >     - **(B)** *GAO review* Not later than 6 months after the Secretary submits a certification under paragraph (2), the Comptroller General of the United States shall review such certification and submit a report to Congress on whether the questions to be included in the census have been researched, studied, and tested according to established statistical policies and procedures.
 
-- **(3)** in subsection (h), as so redesignated, by inserting “Definition.—” before “As used in”.
+- **(3)** in subsection (i), as so redesignated, by inserting “Definition.—” before “As used in”.
+
+## § 4. Decennial census lifecycle cost estimates
+
+Section 141 of title 13, United States Code, as amended by section 3, is further amended by inserting after subsection (g) the following:
+
+> - **(h)** *Lifecycle costs*
+>   - **(1)** *Estimate* Not later than January 1, 2026, and every ten years thereafter, the Director shall transmit to the chairs of the committees described in paragraph (3) a lifecycle cost estimate for the decennial census of population first occurring after the date of such transmittal. Such estimate shall include the following with respect to such lifecycle:
+>     - **(A)** An estimate of costs by each fiscal year.
+>     - **(B)** Estimates of capital versus operating expenses.
+>     - **(C)** Staffing projections for each year.
+>     - **(D)** Assumptions about response rates, wages, and other economic variables.
+>   - **(2)** *Update* On the date the President submits the annual budget under section 1105(a) of title 31 during any calendar year a decennial of census of population is taken under this section, and on the date such annual budget is submitted during the immediately preceding four calendar years, the Director shall transmit a report describing any changes to the applicable lifecycle estimate transmitted under paragraph (1). Such report shall include the following:
+>     - **(A)** The basis for any such changes.
+>     - **(B)** Projected impacts on response rates, staffing requirements, or costs throughout the lifecycle.
+>     - **(C)** An explanation of any differences in budgetary resources between the amount requested in the President’s annual budget request and the lifecycle cost estimate, as updated by this paragraph.
+>   - **(3)** *Committees* The committees described in this paragraph are the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
