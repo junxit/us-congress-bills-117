@@ -1,7 +1,7 @@
 ---
 measure: S. 3092
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3092
@@ -16,9 +16,15 @@ FIRE Act
 
 - Sen. Padilla, Alex [D-CA] (P000145)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
 
 ## Committees (1)
 
@@ -28,3 +34,7 @@ FIRE Act
 
 - 2021-10-27 — Introduced in Senate
 - 2021-10-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-02-02 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper for Senator Peters with an amendment in the nature of a substitute. With written report No. 117-144.
+- 2022-09-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper for Senator Peters with an amendment in the nature of a substitute. With written report No. 117-144.
+- 2022-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 482.
