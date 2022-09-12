@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5641
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 5189
 
-> in subsection (a) by striking “$35,000” each place it appears and inserting “$1,000,000”; and
+> in subsection (a), by striking “$35,000” each place it appears and inserting “$1,000,000”; and
 
 | | |
 |---|---|
@@ -42,5 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5189` | insert | in the heading by inserting “AND REPORT” after “REVIEW”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5189` | insert | in the heading, by inserting “AND REPORT” after “REVIEW”“and report” after “Review”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5189` | insert | by inserting “and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding such review, including any re… | the bill quotes the text inserted but describes where it goes |
