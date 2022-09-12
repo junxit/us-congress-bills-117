@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 44
 congress: 117
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 44
