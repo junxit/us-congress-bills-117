@@ -1,7 +1,7 @@
 ---
 measure: S. 471
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 8401(20) of title 5, United States Code, is amended by striking “, and who (in the case” and all that follows through “2004”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “term Member has” and inserting the following: “term ‘Member’— | the bill names no machine-readable US Code section |
+| — | replace | by striking “term Member has the same meaning as provided in” and inserting the following: “term ‘Member’— | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, subject to subparagraph (B),” after “except that”; | the bill names no machine-readable US Code section |
 | — | amend | by adding “and” after the semicolon at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
