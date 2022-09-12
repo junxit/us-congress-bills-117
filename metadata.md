@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5641
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5641
@@ -50,3 +50,7 @@ Small Project Efficient and Effective Disaster Recovery Act
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 114). (text: CR H4175)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 114).(text: CR H4175)
 - 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2022-09-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper for Senator Peters with amendments. With written report No. 117-145.
+- 2022-09-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper for Senator Peters with amendments. With written report No. 117-145.
+- 2022-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
