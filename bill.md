@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1066
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,13 @@ This Act may be cited as the “Wildfire Recovery Act”.
 
 ## § 2. Fire management assistance cost share
 
-Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended by adding at the end the following:
+- **(a)** *In general* Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended—
+  - **(1)** by redesignating subsection (e) as subsection (f); and
+  - **(2)** by inserting after subsection (d) the following:
+    > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
 
-> - **(f)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost, as set forth in the regulations, of such assistance.
+- **(b)** *Applicability* The amendment made by subsection (a) shall only apply to amounts appropriated on or after the date of enactment of this Act.
 
 ## § 3. Rulemaking
 
-Not later than 1 year after the date of enactment of this Act, the President, acting through the Administrator of the Federal Emergency Management Agency and in consultation with the heads of relevant Federal departments and agencies, including the Department of Agriculture and the Department of Interior, shall conduct and complete a rulemaking to develop guidelines and a rule that establishes thresholds for cases in which the Federal cost share for section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187) may be increased. Such thresholds shall use a fire-specific metric to determine fire damage referred to in subsection (a) of such section, and recommend a Federal cost share adjustment for fire damage that meets the established thresholds. The Administrator shall follow all notice and comment requirements set forth in section 553 of title 5, United States Code, for such rulemaking.
+Not later than 3 years after the date of enactment of this Act, the President, acting through the Administrator of the Federal Emergency Management Agency, shall conduct and complete a rulemaking to provide criteria for the circumstances under which the Administrator may recommend the President increase the Federal cost share for section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187). Such criteria shall include a threshold metric that assesses the financial impact to a State or local government from responding to a fire for which fire management assistance is being provided.
