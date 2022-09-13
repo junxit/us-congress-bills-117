@@ -11,21 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting the Health and Wellness of Babies and Pregnant Women Act of 2022”.
+This Act may be cited as the “Pregnant Women in Custody Act”.
 
-## § 2. Data collection
+## § 2. Definitions
 
-- **(a)** *In general* Beginning not later than 1 year after the date of the enactment of this Act, pursuant to the authority under section 302 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10132), the Director of the Bureau of Justice Statistics shall include in the National Prisoner Statistics Program and Annual Survey of Jails statistics relating to the health needs of incarcerated pregnant women in the criminal justice system at the Federal, State, tribal, and local levels, including—
-  - **(1)** demographic and other information about incarcerated women who are pregnant, in labor, or in postpartum recovery, including the race, ethnicity, and age of the pregnant woman;
+In this Act:
+
+- **(1)** *In custody* The term “in custody”, with respect to an individual, means that the individual is under the supervision of a Federal, State, Tribal, or local correctional facility, including a pretrial, juvenile, medical, or mental health facility and a facility operated under a contract with the Federal Government or a State, Tribal, or local government.
+- **(2)** *Other pregnancy outcome* The term “other pregnancy outcome” means a pregnancy that ends in stillbirth, miscarriage, or ectopic pregnancy.
+- **(3)** *Postpartum recovery* The term “postpartum recovery” has the meaning given that term in section 4051(c) of title 18, United States Code, as added by this Act.
+- **(4)** *Restraints* The term “restraints” means any physical or mechanical device used to control the movement of an incarcerated pregnant woman’s body, limbs, or both.
+- **(5)** *Restrictive housing* The term “restrictive housing” has the meaning given that term in section 4322 of title 18, United States Code, as added by this Act.
+
+## § 3. Data collection
+
+- **(a)** *In general* Beginning not later than 1 year after the date of enactment of this Act, pursuant to the authority under section 302 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10132), the Director of the Bureau of Justice Statistics shall include in the National Prisoner Statistics Program and Annual Survey of Jails statistics relating to the health needs of incarcerated pregnant women in the criminal justice system at the Federal, State, Tribal, and local levels, including—
+  - **(1)** demographic and other information about incarcerated women who are pregnant, in labor, or in postpartum recovery, including the race, ethnicity, and age of the woman;
   - **(2)** the provision of pregnancy care and services provided for such women, including—
     - **(A)** whether prenatal, delivery, and post-delivery check-up visits were scheduled and provided;
-    - **(B)** whether a social worker, psychologist, doula or other support person, or pregnancy or parenting program was offered and provided during pregnancy and delivery;
-    - **(C)** whether a nursery or residential program to keep mothers and infants together post-delivery was offered and whether such a nursery or residential program was provided;
-    - **(D)** the number of days the mother stayed in the hospital post-delivery;
-    - **(E)** the number of days the infant remained with the mother post-delivery; and
-    - **(F)** the number of days the infant remained in the hospital after the mother was discharged;
-  - **(3)** the location of the nearest hospital with a licensed obstetrician-gynecologist in proximity to where the inmate is housed and the length of travel required to transport the inmate;
-  - **(4)** whether a written policy or protocol is in place to respond to unexpected childbirth, labor, deliveries, and medical complications related to the pregnancies of incarcerated pregnant women and for incarcerated pregnant women experiencing labor or medical complications related to pregnancy outside of a hospital;
+    - **(B)** whether a social worker, psychologist, doula or other support person was offered and provided during pregnancy and delivery and post-delivery;
+    - **(C)** whether a pregnancy or parenting program was offered and provided during pregnancy;
+    - **(D)** whether a nursery or residential program to keep mothers and infants together post-delivery was offered and whether such a nursery or residential program was provided;
+    - **(E)** the number of days the mother stayed in the hospital post-delivery;
+    - **(F)** the number of days the infant remained with the mother post-delivery; and
+    - **(G)** the number of days the infant remained in the hospital after the mother was discharged;
+  - **(3)** the location of the nearest hospital with a licensed obstetrician-gynecologist in proximity to where the incarcerated pregnant woman is housed and the length of travel required to transport the woman;
+  - **(4)** whether a written policy or protocol is in place—
+    - **(A)** to respond to unexpected childbirth, labor, deliveries, or medical complications related to the pregnancies of incarcerated pregnant women; and
+    - **(B)** for incarcerated pregnant women experiencing labor or medical complications related to pregnancy outside of a hospital;
   - **(5)** the number of incarcerated women who are determined by a health care professional to have a high-risk pregnancy;
   - **(6)** the total number of incarcerated pregnant women and the number of incarcerated women who became pregnant while incarcerated;
   - **(7)** the number of incidents in which an incarcerated woman who is pregnant, in labor, or in postpartum recovery is placed in restrictive housing, the reason for such restriction or placement, and the circumstances under which each incident occurred, including the duration of time in restrictive housing, during—
@@ -35,185 +48,171 @@ This Act may be cited as the “Protecting the Health and Wellness of Babies and
     - **(D)** postpartum recovery; and
     - **(E)** the 6-month period after delivery; and
   - **(8)** the disposition of the custody of the infant post-delivery.
-- **(b)** *Personally identifiable information* Data collected under this paragraph may not contain any personally identifiable information of any incarcerated pregnant woman.
+- **(b)** *Personally identifiable information* Data collected under this section may not contain any personally identifiable information of any incarcerated pregnant woman or woman in postpartum recovery.
 
-## § 3. Care for federally incarcerated women related to pregnancy and childbirth
+## § 4. Care for federally incarcerated women related to pregnancy and childbirth
 
-- **(a)** *In general* The Director of the Bureau of Prisons shall ensure that appropriate services and programs are provided to women in custody, to address the health and safety needs of such women related to pregnancy and childbirth. The warden of each Bureau of Prisons facility that houses women shall ensure that these services and programs are implemented for women in custody at that facility.
-- **(b)** *Services and programs provided* The Director of the Bureau of Prisons shall ensure that the following services and programs are available to women in custody:
-  - **(1)** *Access to complete appropriate health services for the life cycle of women* The Director of the Bureau of Prisons shall provide to each woman in custody who is of reproductive age pregnancy testing, contraception, and testing for sexually transmitted diseases and provide each woman with the option to decline such services.
-  - **(2)** *Compliance with protocols relating to health of a pregnant woman* On confirmation of the pregnancy of a woman in custody by clinical diagnostics and assessment, the chief health care professional of a Bureau of Prisons facility that houses women shall ensure that a summary of all appropriate protocols directly pertaining to the safety and well-being of the woman are provided to the woman and that such protocols are complied with, including an assessment of undue safety risks and necessary changes to accommodate the woman where and when appropriate, as it relates to—
-    - **(A)** housing or transfer to a lower bunk for safety reasons;
-    - **(B)** appropriate bedding or clothing to respond to a woman’s changing physical requirements and the temperature in housing units;
-    - **(C)** regular access to water and bathrooms;
-    - **(D)** a diet that complies with the nutritional standards established by the Secretary of Agriculture and the Secretary of Health and Human Services in the Dietary Guidelines for Americans report published pursuant to section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341(a)(3)), and that includes—
-      - **(i)** any appropriate dietary supplement, including prenatal vitamins;
-      - **(ii)** timely and regular nutritious meals;
-      - **(iii)** additional caloric content in meals provided;
-      - **(iv)** a prohibition on withholding food from an incarcerated pregnant woman or serving any food that is used as a punishment, including nutraloaf or any food similar to nutraloaf that is not considered a nutritious meal; and
-      - **(v)** such other modifications to the diet of the woman as the Director of the Bureau of Prisons determines to be necessary after consultation with the Secretary of Health and Human Services and consideration of such recommendations as the Secretary may provide;
-    - **(E)** modified recreation and transportation, in accordance with standards within the obstetrical and gynecological care community, to prevent overexertion or prolonged periods of inactivity; and
-    - **(F)** such other changes to living conditions as the Director of the Bureau of Prisons may require after consultation with the Secretary of Health and Human Services and consideration of such recommendations as the Secretary may provide.
+- **(a)** *In general* The Director of the Bureau of Prisons shall ensure that appropriate services and programs, as described in subsection (b), are provided to women in custody, to address the health and safety needs of such women related to pregnancy and childbirth. The warden of each Bureau of Prisons facility that houses women shall ensure that these services and programs are implemented for women in custody at that facility.
+- **(b)** *Services and programs provided* The services and programs described in this subsection are the following:
+  - **(1)** *Access to complete appropriate health services for the life cycle of women* The Director of the Bureau of Prisons—
+    - **(A)** shall provide to each woman in custody—
+      - **(i)** pregnancy testing and testing for sexually transmitted diseases; and
+      - **(ii)** the option to decline such testing; and
+    - **(B)** at an inmate’s request, shall provide contraception.
+  - **(2)** *Compliance with protocols relating to health of a pregnant woman* On confirmation of the pregnancy of a woman in custody by clinical diagnostics and assessment, the chief health care professional of the Bureau of Prisons facility in which the woman is housed shall ensure that—
+    - **(A)** a summary of all appropriate protocols directly pertaining to the safety and well-being of the woman are provided to the woman;
+    - **(B)** such protocols are complied with; and
+    - **(C)** such protocols include an assessment of undue safety risks and necessary changes to accommodate the woman where and when appropriate, as it relates to—
+      - **(i)** housing or transfer to a lower bunk for safety reasons;
+      - **(ii)** appropriate bedding or clothing to respond to the woman’s changing physical requirements and the temperature in housing units;
+      - **(iii)** regular access to water and bathrooms;
+      - **(iv)** a diet that—
+        - **(I)** complies with the nutritional standards established by the Secretary of Agriculture and the Secretary of Health and Human Services in the Dietary Guidelines for Americans report published pursuant to section 301(a)(3) of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341(a)(3)); and
+        - **(II)** includes—
+          - **(aa)** any appropriate dietary supplement, including prenatal vitamins;
+          - **(bb)** timely and regular nutritious meals;
+          - **(cc)** additional caloric content in meals provided;
+          - **(dd)** a prohibition on withholding food from the woman or serving any food that is used as a punishment, including nutraloaf or any food similar to nutraloaf that is not considered a nutritious meal; and
+          - **(ee)** such other modifications to the diet of the woman as the Director of the Bureau of Prisons determines to be necessary after consultation with the Secretary of Health and Human Services and consideration of such recommendations as the Secretary may provide;
+      - **(v)** modified recreation and transportation, in accordance with standards within the obstetrical and gynecological care community, to prevent overexertion or prolonged periods of inactivity; and
+      - **(vi)** such other changes to living conditions as the Director of the Bureau of Prisons may require after consultation with the Secretary of Health and Human Services and consideration of such recommendations as the Secretary may provide.
   - **(3)** *Education and support services*
-    - **(A)** *Pregnancy in custody* In the case of a woman who is pregnant at intake or who becomes pregnant while in custody, that woman shall, at intake or not later than 48 hours after pregnancy is confirmed, as appropriate, receive prenatal education, counseling, and birth support services provided by a provider trained to provide such services, including—
+    - **(A)** *Pregnancy in custody* A woman who is pregnant at intake or who becomes pregnant while in custody shall, not later than 14 days after the pregnant woman notifies a Bureau of Prisons official of the pregnancy, receive prenatal education, counseling, and birth support services provided by a provider trained to provide such services, including—
       - **(i)** information about the parental rights of the woman, including the right to place the child in kinship care, and notice of the rights of the child;
       - **(ii)** information about family preservation support services that are available to the woman;
-      - **(iii)** information about the nutritional standards referred to in paragraph (2)(D);
+      - **(iii)** information about the nutritional standards referred to in paragraph (2)(C)(iv);
       - **(iv)** information pertaining to the health and safety risks of pregnancy, childbirth, and parenting, including postpartum depression;
-      - **(v)** information on breastfeeding, lactation, and breast health;
+      - **(v)** information on breast-feeding, lactation, and breast health;
       - **(vi)** appropriate educational materials, resources, and services related to pregnancy, childbirth, and parenting;
       - **(vii)** information and notification services for incarcerated parents regarding the risk of debt repayment obligations associated with their child’s participation in social welfare programs, including assistance under any State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or benefits under the supplemental nutrition assistance program, as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), or any State program carried out under that Act; and
-      - **(viii)** information from the Office of Child Support Enforcement of the Department of Health and Human Services regarding seeking or modifying child support while incarcerated, including how to participate in the Bureau of Prison’s Inmate Financial Responsibility Program under subpart B of title 28, Code of Federal Regulations (or any successor program).
-    - **(B)** *Birth while in custody or prior to custody* In the case of a woman who gave birth in custody or who experienced any other pregnancy outcome during the 6-month period immediately preceding intake, that woman shall receive counseling provided by a licensed or certified provider trained to provide such services, including—
+      - **(viii)** information from the Office of Child Support Enforcement of the Department of Health and Human Services regarding seeking or modifying child support while incarcerated, including how to participate in the Bureau of Prison’s Inmate Financial Responsibility Program under subpart B of part 545 of title 28, Code of Federal Regulations (or any successor program).
+    - **(B)** *Birth while in custody or prior to custody* A woman who, while in custody or during the 6-month period immediately preceding intake, gave birth or experienced any other pregnancy outcome shall receive counseling provided by a licensed or certified provider trained to provide such services, including—
       - **(i)** information about the parental rights of the woman, including the right to place the child in kinship care, and notice of the rights of the child; and
       - **(ii)** information about family preservation support services that are available to the woman.
-  - **(4)** *Testing* Not later than 1 day after an incarcerated woman notifies an employee of the Bureau of Prisons that the woman may be pregnant, a Bureau of Prisons healthcare care professional shall administer a pregnancy test to determine whether the woman is pregnant.
-  - **(5)** *Evaluations* Each woman in custody who is pregnant or whose pregnancy results in a birth or any other pregnancy outcome during the 6-month period immediately preceding intake or any time in custody thereafter shall be evaluated not later than 4 days after intake or confirmation of pregnancy through evidence-based screening and assessment for substance use disorders or mental health conditions, including postpartum depression or depression related to a pregnancy outcome or early child care. Screening shall include identification of any of the following risk factors:
-    - **(A)** An existing mental or physical health condition or substance use disorder.
-    - **(B)** Being underweight or overweight.
-    - **(C)** Multiple births or a previous still birth.
-    - **(D)** A history of preeclampsia.
-    - **(E)** A previous Caesarean section.
-    - **(F)** A previous miscarriage.
-    - **(G)** Being older than 35 or younger than 15.
-    - **(H)** Being diagnosed with the human immunodeficiency virus, hepatitis, diabetes, or hypertension.
-    - **(I)** Such other risk factors as the chief health care professional of a Bureau of Prisons facility that houses women may determine to be appropriate.
-  - **(6)** *Unexpected births rulemaking* Not later than 180 days after the date of enactment of this Act, the Attorney General shall make rules establishing procedures for responding to unexpected childbirth deliveries, labor complications, and medical complications related to pregnancy if a woman in custody is unable to access a hospital in a timely manner.
-  - **(7)** *Treatment* In the case of any woman in custody who, after an evaluation under paragraph (4), is diagnosed as having a substance use disorder or a mental health disorder, that woman shall be entitled to treatment in accordance with the following:
-    - **(A)** Treatment shall include participation in a support group, including a 12-step program, such as Alcoholics Anonymous, Narcotics Anonymous, and Cocaine Anonymous or a comparable nonreligious program.
-    - **(B)** Treatment may include psychosocial interventions and medication.
-    - **(C)** In the case that adequate treatment cannot be provided to a woman in custody in a Bureau of Prisons facility, the Director of the Bureau of Prisons shall transfer the woman to a residential reentry program that offers such treatment pursuant to section 508 of the Public Health Service Act (42 U.S.C. 290bb–1).
-    - **(D)** To the extent practicable, treatment for substance use disorders provided pursuant to this section shall be conducted in a licensed hospital.
+  - **(4)** *Evaluations*
+    - **(A)** *In general* Each woman in custody who is pregnant or whose pregnancy results in a birth or any other pregnancy outcome during the 6-month period immediately preceding intake or any time in custody thereafter shall be evaluated as soon as practicable after intake or confirmation of pregnancy through evidence-based screening and assessment for substance use disorders or mental health conditions, including postpartum depression or depression related to pregnancy, birth, or any other pregnancy outcome or early child care.
+    - **(B)** *Risk factors* Screening under subparagraph (A) shall include identification of any of the following risk factors:
+      - **(i)** An existing mental or physical health condition or substance use disorder.
+      - **(ii)** Being underweight or overweight.
+      - **(iii)** Multiple births or a previous still birth.
+      - **(iv)** A history of preeclampsia.
+      - **(v)** A previous Caesarean section.
+      - **(vi)** A previous miscarriage.
+      - **(vii)** Being older than 35 or younger than 15.
+      - **(viii)** Being diagnosed with the human immunodeficiency virus, hepatitis, diabetes, or hypertension.
+      - **(ix)** Such other risk factors as the chief health care professional of the Bureau of Prisons facility that house the woman may determine to be appropriate.
+  - **(5)** *Unexpected births rulemaking* The Director of the Bureau of Prisons shall provide services to respond to unexpected childbirth deliveries, labor complications, and medical complications related to pregnancy if a woman in custody is unable to access a hospital in a timely manner in accordance with rules promulgated by the Attorney General, which shall be promulgated not later than 180 days after the date of enactment of this Act.
+  - **(6)** *Treatment* The Director of the Bureau of Prisons shall use best efforts to provide a woman in custody who is pregnant and diagnosed with having a substance use disorder or a mental health disorder with appropriate evidence-based treatment.
 
-## § 4. Use of restrictive housing and restraints on incarcerated pregnant women during pregnancy, labor, and postpartum recovery prohibited
+## § 5. Use of restrictive housing on incarcerated pregnant women during pregnancy, labor, and postpartum recovery prohibited
 
 - **(a)** *In general* Section 4322 of title 18, United States Code, is amended to read as follows:
-  > ## § 4322. Use of restraints and restrictive housing on incarcerated women during the period of pregnancy, labor, and postpartum recovery prohibited and to improve pregnancy care for women in Federal prisons
+  > ## § 4322. Use of restrictive housing on incarcerated women during the period of pregnancy, labor, and postpartum recovery prohibited
   >
-  > - **(a)** *Prohibition* Except as provided in subsection (b), beginning on the date on which pregnancy is confirmed by a health care professional and ending not earlier than 12 weeks after delivery, an incarcerated woman in the custody of the Bureau of Prisons, or in the custody of the United States Marshals Service pursuant to section 4086, shall not be placed in restraints or held in restrictive housing.
+  > - **(a)** *Prohibition* Except as provided in subsection (b), during the period beginning on the date on which pregnancy is confirmed by a health care professional and ending not earlier than 12 weeks after delivery, an incarcerated woman in the custody of the Bureau of Prisons, or in the custody of the United States Marshals Service pursuant to section 4086, shall not be held in restrictive housing.
   > - **(b)** *Exceptions*
-  >   - **(1)** *Use of restraints* The prohibition under subsection (a) shall not apply if the senior Bureau of Prisons official or United States Marshals Service official overseeing women’s health and services and a health care professional responsible for the health and safety of the incarcerated woman determines that the use of restraints is appropriate for the medical safety of the woman, and the health care professional reviews such determination not later than every 6 hours after such use is initially approved until such use is terminated.
-  >   - **(2)** *Situational use* The individualized determination described under paragraph (1) shall only apply to a specific situation and must be reaffirmed through the same process to use restraints again in any future situation involving the same woman.
-  >   - **(3)** *Access to care* Immediately upon the cessation of the use of restraints or restrictive housing as outlined in this subsection, the Director of the Bureau of Prisons or the United States Marshal Service shall provide the incarcerated woman with immediate access to physical and mental health assessments and all recommended treatment.
-  >   - **(4)** *Response to behavioral risks in the Bureau of Prisons*
-  >     - **(A)** *Restrictive housing* The prohibition under subsection (a) relating to restrictive housing shall not apply if the Director of the Bureau of Prisons or a senior Bureau of Prisons official overseeing women’s health and services, in consultation with senior officials in health services, makes an individualized determination that restrictive housing is required as a temporary response to behavior that poses a serious and immediate risk of physical harm.
-  >     - **(B)** *Review* The official who makes a determination under subparagraph (A) shall review such determination every 4 hours for the purpose of removing an incarcerated woman as quickly as feasible from restrictive housing.
-  >     - **(C)** *Restrictive housing plan* The official who makes a determination under subparagraph (A) shall develop an individualized plan to move an incarcerated woman to less restrictive housing within a reasonable amount of time, not to exceed 2 days.
-  >     - **(D)** *Monitoring* An incarcerated woman who is placed in restrictive housing pursuant to this paragraph shall be—
-  >       - **(i)** monitored every hour;
-  >       - **(ii)** placed in a location visible to correctional officers; and
-  >       - **(iii)** prohibited from being placed in solitary confinement if the incarcerated woman is in her third trimester.
+  >   - **(1)** *Restrictive housing* Subject to paragraph (4), the prohibition under subsection (a) relating to restrictive housing shall not apply if the Director of the Bureau of Prisons or a senior Bureau of Prisons official overseeing women’s health and services, in consultation with senior officials in health services, makes an individualized determination that restrictive housing is required as a temporary response to behavior that poses a serious and immediate risk of physical harm.
+  >   - **(2)** *Review* The official who makes a determination under subparagraph (A) shall review such determination daily for the purpose of removing an incarcerated woman as quickly as feasible from restrictive housing.
+  >   - **(3)** *Restrictive housing plan* The official who makes a determination under subparagraph (A) shall develop an individualized plan to move an incarcerated woman to less restrictive housing within a reasonable amount of time.
+  >   - **(4)** *Prohibition on solitary confinement* An incarcerated woman who is placed in restrictive housing under this subsection may not be placed in solitary confinement if the incarcerated woman is in her third trimester.
   > - **(c)** *Reports*
-  >   - **(1)** *Report to the director and health care professional after the use of restraints* If an official identified in subsection (b)(1) or a correctional officer uses restraints on an incarcerated woman under subsection (b), that official (or an officer or marshal designated by that official) or correctional officer shall submit, not later than 30 days after placing the woman in restraints, to the Director of the Bureau of Prisons or the Director of the U.S. Marshal Service, as applicable, a written report which describes the facts and circumstances surrounding the use of restraints, and includes each of the following:
-  >     - **(A)** A description of all attempts to use alternative interventions and sanctions before the restraints were used.
-  >     - **(B)** A description of the circumstances that led to the use of restraints.
-  >     - **(C)** Strategies the facility is putting in place to identify more appropriate alternative interventions should a similar situation arise again.
-  >   - **(2)** *Report to Congress* Beginning on the date that is 6 months after the date of enactment of the Protecting the Health and Wellness of Babies and Pregnant Women Act of 2022, and every 6 months thereafter for a period of 10 years, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on—
-  >     - **(A)** the reasoning upon which the determination to use restraints was made;
-  >     - **(B)** the details of the use of restraints, including the type of restraints used and length of time during which restraints were used; and
-  >     - **(C)** any resulting physical effects on the prisoner observed by or known to the corrections official or United States Marshal, as applicable.
-  >   - **(3)** *Report to the director and health care professional after placement in restrictive housing* If an official identified in subsection (b)(3), correctional officer, or United States Marshal places or causes an incarcerated woman to be placed in restrictive housing under such subsection, that official, correctional officer, or United States Marshal shall submit, not later than 30 days after placing or causing the placement of the incarcerated woman in restrictive housing, to the Director of the Bureau of Prisons or the Director of the United States Marshals Service, as applicable, and to the health care professional responsible for the health and safety of the woman, a written report which describes the facts and circumstances surrounding the restrictive housing placement, and includes the following:
+  >   - **(1)** *Report to directors and health care professional after placement in restrictive housing* Not later than 30 days after the date on which an incarcerated woman is placed in restrictive housing under subsection (b), the applicable official identified in subsection (b)(1), correctional officer, or United States Marshal shall submit to the Director of the Bureau of Prisons or the Director of the United States Marshals Service, as applicable, and to the health care professional responsible for the health and safety of the woman, a written report which describes the facts and circumstances surrounding the restrictive housing placement, and includes the following:
   >     - **(A)** The reasoning upon which the determination for the placement was made.
   >     - **(B)** The details of the placement, including length of time of placement and how frequently and how many times the determination was made subsequent to the initial determination to continue the restrictive housing placement.
   >     - **(C)** A description of all attempts to use alternative interventions and sanctions before the restrictive housing was used.
   >     - **(D)** Any resulting physical effects on the woman observed by or reported by the health care professional responsible for the health and safety of the woman.
   >     - **(E)** Strategies the facility is putting in place to identify more appropriate alternative interventions should a similar situation arise again.
-  >   - **(4)** *Report to Congress* Beginning on the date that is 6 months after the date of enactment of the Protecting the Health and Wellness of Babies and Pregnant Women Act of 2022, and every 6 months thereafter for a period of 10 years, the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the information described in paragraph (3).
-  > - **(d)** *Notice* Not later than 24 hours after the confirmation of an incarcerated woman’s pregnancy by a health care professional, that woman shall be notified, orally and in writing, by an appropriate health care professional, correctional officer, or United States Marshal, as applicable—
-  >   - **(1)** of the restrictions on the use of restraints and restrictive housing placements under this section;
-  >   - **(2)** of the incarcerated woman’s right to make a confidential report of a violation of restrictions on the use of restraints or restrictive housing placement; and
+  >   - **(2)** *Report to congress* Not later than 180 days after the date of enactment of the Pregnant Women in Custody Act, and every 180 days thereafter for a period of 10 years, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the placement of incarcerated women in restrictive housing under subsection (b), which shall include the information described in paragraph (1).
+  > - **(d)** *Notice* Not later than 24 hours after the confirmation of the pregnancy of an incarcerated woman by a health care professional, that woman shall be notified, orally and in writing, by an appropriate health care professional, correctional officer, or United States Marshal, as applicable—
+  >   - **(1)** of the restrictions on the use of restrictive housing placements under this section;
+  >   - **(2)** of the right of the incarcerated woman to make a confidential report of a violation of restrictions on the use of restrictive housing placement; and
   >   - **(3)** that the facility staff have been advised of all rights of the incarcerated woman under subsection (a).
-  > - **(e)** *Violation reporting process* Not later than 180 days after the date of enactment of this Act, the Director of the Bureau of Prisons and the Director of the United States Marshals Service shall establish processes through which an incarcerated person may report a violation of this section.
-  > - **(f)** *Notification of rights* The warden of the Bureau of Prisons facility where a pregnant woman is in custody shall notify necessary facility staff of the pregnancy and of the incarcerated pregnant woman's rights under subsection (a).
-  > - **(g)** *Retaliation* It shall be unlawful for any Bureau of Prisons or United States Marshal Service employee to retaliate against an incarcerated person for reporting under the provisions of subsection (e) a violation of subsection (a).
-  > - **(h)** *Education* Not later than 90 days after the date of enactment of the Protecting the Health and Wellness of Babies and Pregnant Women Act of 2022, the Director of the Bureau of Prisons and the Director of the United States Marshals Service shall each develop education guidelines regarding the physical and mental health needs of incarcerated pregnant women, and the use of restraints and restrictive housing placements on incarcerated women during the period of pregnancy, labor, and postpartum recovery, and shall incorporate such guidelines into appropriate education programs.
-  > - **(i)** *Definition* In this section:
-  >   - **(1)** *Restraints* The term restraints means any physical or mechanical device used to control the movement of an incarcerated pregnant woman’s body, limbs, or both.
-  >   - **(2)** *Restrictive housing* The term restrictive housing means any type of detention that involves—
-  >     - **(A)** removal from the general inmate population, whether voluntary or involuntary;
-  >     - **(B)** placement in a locked room or cell, whether alone or with another inmate; and
-  >     - **(C)** inability to leave the room or cell for the vast majority of the day.
+  > - **(e)** *Violation reporting process* Not later than 180 days after the date of enactment of the Pregnant Women in Custody Act, the Director of the Bureau of Prisons and the Director of the United States Marshals Service shall establish processes through which an incarcerated person may report a violation of this section.
+  > - **(f)** *Notification of rights* The warden of the Bureau of Prisons facility where a pregnant woman is in custody shall notify necessary facility staff of the pregnancy and of the rights of the incarcerated pregnant woman under subsection (a).
+  > - **(g)** *Retaliation* It shall be unlawful for any Bureau of Prisons or United States Marshals Service employee to retaliate against an incarcerated person for reporting under the processes established under subsection (e) a violation of subsection (a).
+  > - **(h)** *Education* Not later than 90 days after the date of enactment of the Pregnant Women in Custody Act, the Director of the Bureau of Prisons and the Director of the United States Marshals Service shall each—
+  >   - **(1)** develop education guidelines regarding the physical and mental health needs of incarcerated pregnant women, and the use of restrictive housing placements on incarcerated women during the period of pregnancy, labor, and postpartum recovery; and
+  >   - **(2)** incorporate such guidelines into appropriate education programs.
+  > - **(i)** *Definition* In this section, the term “restrictive housing” means any type of detention that involves—
+  >   - **(1)** removal from the general inmate population, whether voluntary or involuntary;
+  >   - **(2)** placement in a locked room or cell, whether alone or with another inmate; and
+  >   - **(3)** inability to leave the room or cell for the vast majority of the day.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 317 of title 18, United States Code, is amended by amending the item relating to section 4322 to read as follows:
+- **(b)** *Clerical amendment* The table of sections for chapter 317 of title 18, United States Code, is amended by striking the item relating to section 4322 and inserting the following:
 
-## § 5. Treatment of women with high-risk pregnancies
+## § 6. Treatment of women with high-risk pregnancies
 
 - **(a)** *In general* Chapter 303 of title 18, United States Code, is amended by adding at the end the following:
-  > ## § 4051. Treatment of incarcerated pregnant women
+  > ## § 4052. Treatment of incarcerated pregnant women
   >
-  > - **(a)** *High-Risk pregnancy health care* The Director of the Bureau of Prisons shall ensure that each incarcerated pregnant woman receives health care appropriate for a high-risk pregnancy, including obstetrical and gynecological care, during pregnancy and post-partum recovery.
+  > - **(a)** *High-Risk pregnancy health care* The Director of the Bureau of Prisons shall ensure that each incarcerated pregnant woman receives an evaluation to determine if the pregnancy is high-risk and, if so, receives healthcare appropriate for a high-risk pregnancy, including obstetrical and gynecological care, during pregnancy and postpartum recovery.
   > - **(b)** *High-Risk pregnancies*
-  >   - **(1)** *In general* The Director of the Bureau of Prisons shall transfer any incarcerated woman, who is determined by a health care professional to have a high-risk pregnancy and who agrees to be transferred, to a Residential Reentry Center with adequate health care during her pregnancy and post-partum recovery.
-  >   - **(2)** *Priority* The Residential Reentry Center to which an incarcerated pregnant woman is transferred pursuant to paragraph (1) shall be in a geographical location that is close to the family members of the incarcerated pregnant woman. In the case that a Residential Reentry Center is unavailable, the incarcerated pregnant woman shall be transferred to alternative housing, including housing with a family member.
-  >   - **(3)** *Transportation* To transport an incarcerated pregnant woman to a Residential Reentry Center, the Director of the Bureau of Prisons shall provide to the woman a mode of transportation that has been approved by the woman’s health care professional, at no expense to the woman.
-  >   - **(4)** *Monitoring* In the case that an incarcerated pregnant woman transferred to alternative housing pursuant to this section is monitored electronically, an ankle monitor may not be used on the woman, unless there is no feasible alternative for monitoring the woman.
-  >   - **(5)** *Service of sentence* Any time accrued at a Residential Reentry Center or alternative housing as a result of a transfer made pursuant to this section shall be credited toward service of the incarcerated pregnant woman’s sentence.
-  >   - **(6)** *Credit for pretrial custody* In the case of an incarcerated pregnant woman, any time accrued in pretrial custody shall be credited toward service of the woman’s sentence.
+  >   - **(1)** *In general* The Director of the Bureau of Prisons shall transfer to a Residential Reentry Center with adequate health care during her pregnancy and postpartum recovery any incarcerated woman who—
+  >     - **(A)** is determined by a health care professional to have a high-risk pregnancy; and
+  >     - **(B)** agrees to be transferred.
+  >   - **(2)** *Priority* The Residential Reentry Center to which an incarcerated pregnant woman is transferred under paragraph (1) shall, to the extent practicable, be in a geographical location that is close to the family members of the incarcerated pregnant woman.
+  >   - **(3)** *Transportation* To transport an incarcerated pregnant woman to a Residential Reentry Center, the Director of the Bureau of Prisons shall provide to the woman a mode of transportation that a healthcare professional has determined to be safe for transporting the pregnant woman.
+  >   - **(4)** *Service of sentence* Any time accrued at a Residential Reentry Center or alternative housing as a result of a transfer made under this section shall be credited toward service of the incarcerated pregnant woman’s sentence.
   > - **(c)** *Definitions* In this section:
-  >   - **(1)** *Family member* The term family member means any individual related by blood or affinity whose close association with the incarcerated pregnant woman is the equivalent of a family relationship, including a parent, sibling, child, or individual standing in loco parentis.
-  >   - **(2)** *Residential Reentry Center* The term Residential Reentry Center means a Bureau of Prisons contracted residential reentry center.
-  >   - **(3)** *Health care professional*
-  >     - **(A)** *In general* The term health care professional means—
-  >       - **(i)** a doctor of medicine or osteopathy who is authorized to practice medicine or surgery by the State in which the doctor practices;
-  >       - **(ii)** any physician’s assistant or nurse practitioner who is supervised by a doctor of medicine or osteopathy described in clause (i); or
-  >       - **(iii)** any other person determined by the Secretary to be capable of providing health care services.
-  >     - **(B)** *Other health care services* A person is capable of providing health care services if the person is—
-  >       - **(i)** a podiatrist, dentist, clinical psychologist, optometrist, or chiropractor (limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist) authorized to practice in the State and performing within the scope of their practice as defined under State law;
-  >       - **(ii)** a nurse practitioner, nurse-midwife, clinical social worker, or physician’s assistant who is authorized to practice under State law and who is performing within the scope of their practice as defined under State law; and
-  >       - **(iii)** any health care professional from whom an employer or the employer's group health plan's benefits manager will accept certification of the existence of a serious health condition to substantiate a claim for benefits.
-  >     - **(C)** *Authorized to practice in the State* The term authorized to practice in the State means that a professional must be authorized to diagnose and treat physical or mental health conditions under the laws of the State in which the professional practices and where the facility is located.
-  >   - **(4)** *High-risk pregnancy* The term high-risk pregnancy means, with respect to an incarcerated woman, that the pregnancy threatens the health or life of the woman or pregnancy, as determined by a health care professional.
-  >   - **(5)** *Post-partum recovery* The term post-partum recovery means the 3-month period beginning on the date on which an incarcerated pregnant woman gives birth.
+  >   - **(1)** *Health care professional* The term “health care professional” means—
+  >     - **(A)** a doctor of medicine or osteopathy who is authorized to diagnose and treat physical or mental health conditions under the laws of the State in which the doctor practices and where the facility is located;
+  >     - **(B)** any physician’s assistant or nurse practitioner who is supervised by a doctor of medicine or osteopathy described in subparagraph (A); or
+  >     - **(C)** any other person determined by the Director of the Bureau of Prisons to be capable of providing health care services.
+  >   - **(2)** *High-risk pregnancy* The term “high-risk pregnancy” means, with respect to an incarcerated woman, that the pregnancy threatens the health or life of the woman or pregnancy, as determined by a health care professional.
+  >   - **(3)** *Postpartum recovery* The term “postpartum recovery” means the 3-month period beginning on the date on which an incarcerated pregnant woman gives birth, or longer as determined by a health care professional following delivery, and shall include the entire period that the incarcerated pregnant woman is in the hospital or infirmary.
+  >   - **(4)** *Residential reentry center* The term “Residential Reentry Center” means a Bureau of Prisons contracted residential reentry center.
 
 - **(b)** *Conforming amendment* The table of sections for chapter 303 of title 18, United States Code, is amended by adding at the end the following:
 
-## § 6. Exemption of incarcerated pregnant women from the requirements for suits by prisoners
+## § 7. Reporting requirement regarding claims filed by pregnant inmates
 
-Section 7 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997e) is amended—
+The Director of the Federal Bureau of Prisons shall make publicly available on the website of the Federal Bureau of Prisons on an annual basis the following information:
 
-- **(1)** in subsection (a), by inserting after the period at the end the following: “This subsection shall not apply with respect to an incarcerated pregnant woman who brings an action relating to or affecting the woman’s pregnancy.”; and
-- **(2)** in subsection (d)(1), insert “, except an incarcerated pregnant woman,” before “who is confined”.
-
-## § 7. Definitions
-
-In this Act:
-
-- **(1)** *In custody* The term in custody means, with respect to an individual, that the individual is under the supervision of a Federal, State, tribal or local correctional facility, including pretrial and contract facilities, and juvenile or medical or mental health facilities.
-- **(2)** *Other pregnancy outcome* The term other pregnancy outcome means a pregnancy that ends in stillbirth, miscarriage, or ectopic pregnancy.
-- **(3)** *Postpartum recovery* The term postpartum recovery means the 12-week period, or longer as determined by the health care professional responsible for the health and safety of the incarcerated pregnant woman, following delivery, and shall include the entire period that the incarcerated pregnant woman is in the hospital or infirmary.
-- **(4)** *Restraints* The term restraints means any physical or mechanical device used to control the movement of an incarcerated pregnant woman’s body, limbs, or both.
-- **(5)** *Restrictive housing* The term restrictive housing means any type of detention that involves—
-  - **(A)** removal from the general inmate population, whether voluntary or involuntary;
-  - **(B)** placement in a locked room or cell, whether alone or with another inmate; and
-  - **(C)** inability to leave the room or cell for the vast majority of the day.
+- **(1)** The total number of Administrative Remedy appeals related to pregnant inmates that were filed during the previous year.
+- **(2)** The total number of institution-level Requests for Administrative Remedy related to pregnant inmates that were filed during the previous year.
+- **(3)** The total number of informal requests for administrative remedy related to pregnant inmates that were filed during the previous year.
+- **(4)** The total number of requests or appeals related to pregnant inmates during the previous year that were not resolved before the inmate gave birth or that were mooted because the inmate’s pregnancy ended.
+- **(5)** The average amount of time that each category of request or appeal took to resolve during the previous year.
+- **(6)** The shortest and longest amounts of time that a request or appeal in each category that was resolved in the last year took to resolve.
 
 ## § 8. Education and technical assistance
 
 The Director of the National Institute of Corrections shall provide education and technical assistance, in conjunction with the appropriate public agencies, at State and local correctional facilities that house women and facilities in which incarcerated women go into labor and give birth, in order to educate the employees of such facilities, including health personnel, on the dangers and potential mental health consequences associated with the use of restrictive housing and restraints on incarcerated women during pregnancy, labor, and postpartum recovery, and on alternatives to the use of restraints and restrictive housing placement.
 
-## § 9. Bureau of Prisons staff and U.S. Marshals training
+## § 9. Bureau of prisons staff and united states marshals training
 
-- **(a)** *Bureau of prisons training* Beginning not later than 180 days after the date of enactment of this Act, and biannually thereafter, the Director of the Bureau of Prisons shall train each correctional officer at any Bureau of Prisons women’s facility to carry out the requirements of this Act.
-- **(b)** *New hires* Beginning not later than 180 days after the date of enactment of this Act, the Director of the Bureau of Prisons shall train any newly hired correctional officer at a Bureau of Prisons facility that houses women to carry out the requirements of this Act not later than 30 days after the date on which the officer is hired.
-- **(c)** *U.S. Marshal training* Beginning not later than 180 days after the date of enactment of this Act, and biannually thereafter, the Director of the U.S. Marshals Service shall ensure that each Deputy U.S. Marshal is trained pursuant to the guidelines described in subsection (d). Newly hired deputies shall receive such training not later than 30 days after the date on which such deputy starts employment.
-- **(d)** *Guidelines* The Director of the Bureau of Prisons and the United States Marshals Service shall each develop guidelines on the treatment of incarcerated women during pregnancy, labor, and postpartum recovery and incorporate such guidelines in the training required under this section. Such guidelines shall include guidance on—
-  - **(1)** the transportation of incarcerated pregnant women;
-  - **(2)** housing of incarcerated pregnant women;
-  - **(3)** nutritional requirements for incarcerated pregnant women; and
-  - **(4)** the right of a health care professional to request that restraints not be used.
+- **(a)** *Bureau of prisons training*
+  - **(1)** *In general*
+    - **(A)** *Initial training* Not later than 180 days after the date of enactment of this Act, the Director of the Bureau of Prisons shall provide training to carry out the requirements of this Act and the amendments made by this Act to each correctional officer at any Bureau of Prisons facility that houses women who is employed on the date of enactment of this Act.
+    - **(B)** *Subsequent training* After the initial training provided under subparagraph (A), the Director of the Bureau of Prisons shall provide training to carry out the requirements of this Act and the amendments made by this Act twice each year to each correctional officer at any Bureau of Prisons facility that houses women.
+  - **(2)** *New hires*
+    - **(A)** *Definition* In this paragraph, the term “covered new correctional officer” means an individual appointed to a position as a correctional officer at a Bureau of Prisons facility that houses women on or after the date that is 180 days after the date of enactment of this Act.
+    - **(B)** *Training* The Director of the Bureau of Prisons shall train each covered new correctional officer to carry out the requirements of this Act and the amendments made by this Act not later than 30 days after the date on which the covered new correctional officer is appointed.
+- **(b)** *United states marshals training*
+  - **(1)** *In general* On and after the date that is 180 days after the date of enactment of this Act, the Director of the United States Marshals Service shall ensure that each Deputy United States Marshal has received trained pursuant to the guidelines described in subsection (c).
+  - **(2)** *New hires*
+    - **(A)** *Definition* In this paragraph, the term “new Deputy United States Marshal” means an individual appointed to a position as a Deputy United States Marshal after the date of enactment of this Act.
+    - **(B)** *Training* Not later than 30 days after the date on which a new Deputy United States Marshal is appointed, the new Deputy United States Marshal shall receive training pursuant to the guidelines described in subsection (c).
+- **(c)** *Guidelines*
+  - **(1)** *In general* The Director of the Bureau of Prisons and the United States Marshals Service shall each develop guidelines on the treatment of incarcerated women during pregnancy, labor, and postpartum recovery and incorporate such guidelines in the training required under this section.
+  - **(2)** *Contents* The guidelines developed under paragraph (1) shall include guidance on—
+    - **(A)** the transportation of incarcerated pregnant women;
+    - **(B)** housing of incarcerated pregnant women;
+    - **(C)** nutritional requirements for incarcerated pregnant women; and
+    - **(D)** the right of a health care professional to request that restraints not be used.
 
 ## § 10. GAO study on State and local correctional facilities
 
-The Comptroller General of the United States shall conduct a study of services and protections provided for pregnant incarcerated women in local and State correctional settings, including policies on obstetrical and gynecological care, education on nutrition, health and safety risks associated with pregnancy, mental health and substance use treatment, access to prenatal and post-delivery support services and programs, the use of restraints and restrictive housing placement, and the extent to which the intent of such policies are fulfilled.
+The Comptroller General of the United States shall conduct a study of services and protections provided for pregnant incarcerated women in local and State correctional settings, including—
 
-## § 11. PWIC grant program
+- **(1)** policies on—
+  - **(A)** obstetrical and gynecological care;
+  - **(B)** education on nutritional issues and health and safety risks associated with pregnancy;
+  - **(C)** mental health and substance use treatment;
+  - **(D)** access to prenatal and post-delivery support services and programs; and
+  - **(E)** the use of restraints and restrictive housing placement; and
+- **(2)** the extent to which the intent of such policies is fulfilled.
 
-Part E of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10151 et seq.) is amended by adding at the end the following:
+## § 11. Determination of budgetary effects
 
-## § 12. Placement in prerelease custody
-
-Section 3624(c)(1) of title 18, United States Code, is amended by adding at the end the following: “Notwithstanding any other provision of this paragraph, in the case of a pregnant woman in custody, if that woman’s due date is within the final year of her term of imprisonment, that woman may be placed into prerelease custody beginning not earlier than the date that is 2 months prior to that woman’s due date.”.
-
-## § 13. Determination of Budgetary Effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
