@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5774
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -53,3 +53,9 @@ Section 408(c) of the Robert T. Stafford Disaster Relief and Emergency Assistanc
 ## § 4. Review by Comptroller General
 
 Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct a review on the fiscal controls by States that receive funds under section 431 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act and shall make recommendations to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+## § 5. Duplication of benefits
+
+Section 312(b)(4) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155(b)(4)) is amended by adding at the end the following:
+
+> - **(D)** *Limitation on use of income criteria* In carrying out subparagraph (A), the President may not impose additional income criteria on a potential grant recipient who has accepted a qualified disaster loan in determining eligibility for duplications of benefit relief.
