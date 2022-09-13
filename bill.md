@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5315
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,51 +15,59 @@ This Act may be cited as the “Drone Infrastructure Inspection Grant Act”.
 
 ## § 2. Drone infrastructure inspection grant program
 
-- **(a)** *Authority* The Secretary of Transportation shall establish a drone infrastructure inspection grant program to make grants to governmental entities to facilitate the use of eligible small unmanned aircraft systems to increase efficiency, reduce costs, improve worker safety, and reduce carbon emissions related to the inspection, repair, modernization, and construction of critical infrastructure.
-- **(b)** *Use of grant amounts* Amounts from a grant under this section may be used to—
+- **(a)** *Authority* The Secretary of Transportation shall establish a drone infrastructure inspection grant program to make grants to governmental entities to facilitate the use of eligible small unmanned aircraft systems to increase efficiency, reduce costs, improve worker and community safety, reduce carbon emissions, or meet other priorities (as determined by the Secretary) related to critical infrastructure projects.
+- **(b)** *Use of grant amounts* A governmental entity may use a grant provided under this section to—
   - **(1)** purchase or lease eligible small unmanned aircraft systems;
-  - **(2)** contract for services performed with an eligible small unmanned aircraft system; and
-  - **(3)** support the governmental entity’s small unmanned aircraft system program’s management capability.
-- **(c)** *Eligibility* To be eligible to receive a grant under this section, a governmental entity shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require.
-- **(d)** *Selection of applicants* In the selection of applicants for grants under this section, the Secretary shall prioritize projects that propose to—
-  - **(1)** use the grant for critical infrastructure projects in historically disadvantaged communities; or
-  - **(2)** address a significant safety risk in critical infrastructure inspection, maintenance, rehabilitation, or construction projects.
-- **(e)** *Report to Congress* Not later than 1 year after the first grant awards are made under this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that evaluates the program carried out under this section, including—
+  - **(2)** support operational capabilities of eligible small unmanned aircraft systems by the governmental entity;
+  - **(3)** contract for services performed with an eligible small unmanned aircraft system in circumstances in which the governmental entity does not have the resources or expertise to safely carry out or assist in carrying out the activities described under subsection (a); and
+  - **(4)** support the program management capability of the governmental entity to use an eligible small unmanned aircraft system.
+- **(c)** *Eligibility* To be eligible to receive a grant under this section, a governmental entity shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require, including an assurance that the governmental entity or its contractor will comply with relevant federal regulations.
+- **(d)** *Selection of applicants* In selecting an applicant for a grant under this section, the Secretary shall prioritize projects that propose to—
+  - **(1)** carry out a critical infrastructure project in a historically disadvantaged community; or
+  - **(2)** address a safety risk in the inspection, operation, maintenance, repair, modernization, or construction of an element of critical infrastructure.
+- **(e)** *Limitation* Nothing in this section shall be construed as to interfere with an agreement between a governmental entity and a labor union.
+- **(f)** *Report to congress* Not later than 1 year after the first grant is provided under this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that evaluates the program carried out under this section, including—
   - **(1)** a description of the number of grants awarded;
   - **(2)** the amount of each grant;
   - **(3)** the activities funded under this section; and
   - **(4)** the effectiveness of such funded activities in meeting the objectives described in subsection (a).
-- **(f)** *Funding*
+- **(g)** *Funding*
   - **(1)** *Federal share*
     - **(A)** *In general* Except as provided in subparagraph (B), the Federal share of the cost of a project carried out using a grant under this section shall not exceed 80 percent of the total project cost.
     - **(B)** *Waiver* The Secretary may increase the Federal share requirement under subparagraph (A) to up to 100 percent for a project carried out using a grant under this section by a governmental entity if such entity—
       - **(i)** submits a written application to the Secretary requesting an increase in the Federal share; and
-      - **(ii)** demonstrates, to the Secretary’s satisfaction, that the additional assistance is necessary to facilitate the acceptance and full use of a grant under this section, such as alleviating economic hardship, meeting additional workforce needs, or such other uses that the Secretary determines to be appropriate.
+      - **(ii)** demonstrates that the additional assistance is necessary to facilitate the acceptance and full use of a grant under this section, such as alleviating economic hardship, meeting additional workforce needs, or such other uses that the Secretary determines to be appropriate.
   - **(2)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
-    - **(A)** $50,000,000 for fiscal year 2022; and
-    - **(B)** $50,000,000 for fiscal year 2023.
-- **(g)** *Definitions* In this section:
-  - **(1)** *Critical infrastructure* The term “critical infrastructure” has the meaning given the term in section 1016(e) of the Critical Infrastructures Protection Act of 2001 (42 U.S.C. 5195c(e)) that is a bridge, road, dam, electric grid infrastructure, water infrastructure, or other related infrastructure.
-  - **(2)** *Eligible small unmanned aircraft system* The term “eligible small unmanned aircraft system” means a small unmanned aircraft system that is manufactured or assembled by a company domiciled in the United States that is not subject to influence or control by the Government of the People’s Republic of China.
-  - **(3)** *Governmental entity* The term “governmental entity” means—
-    - **(A)** a State or political subdivision thereof;
-    - **(B)** a unit of local government;
-    - **(C)** a Tribal government,
-    - **(D)** a metropolitan planning organization; or
-    - **(E)** a combination of the entities in subparagraphs (A) through (D) in a region or geographic area.
-  - **(4)** *Small unmanned aircraft; unmanned aircraft; unmanned aircraft system* The terms “small unmanned aircraft”, “unmanned aircraft”, and “unmanned aircraft system” have the meanings given such terms in section 44801 of title 49, United States Code.
-  - **(5)** *State* The term “State” means each State, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+    - **(A)** $50,000,000 for fiscal year 2023; and
+    - **(B)** $50,000,000 for fiscal year 2024.
 
 ## § 3. Drone education and workforce training grant program
 
-- **(a)** *Authority* The Secretary of Transportation shall establish a drone education and training grant program to make grants to educational institutions for workforce training for small unmanned aircraft system technology.
+- **(a)** *Authority* The Secretary of Transportation shall establish a drone education and training grant program to make grants to educational institutions for workforce training for eligible small unmanned aircraft system technology.
 - **(b)** *Use of grant amounts* Amounts from a grant under this section shall be used in furtherance of activities authorized under sections 631 and 632 of the FAA Reauthorization Act 2018 (49 U.S.C. 40101 note).
-- **(c)** *Eligibility* To be eligible to receive a grant under this section, an educational institution shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require,
+- **(c)** *Eligibility* To be eligible to receive a grant under this section, an educational institution shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require.
 - **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
-  - **(1)** $50,000,000 for fiscal year 2022; and
-  - **(2)** $50,000,000 for fiscal year 2023.
-- **(e)** *Definitions* In this section:
-  - **(1)** *Educational institution* The term “educational institution” means an institution of higher education as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001) that—
-    - **(A)** is designated by the Secretary of Transportation as a Community and Technical College Center of Excellence in Small Unmanned Aircraft System Technology Training under section 631(a) of the FAA Reauthorization Act of 2018 (49 U.S.C. 40101 note); or
-    - **(B)** has an agreement in effect with the Administrator of the Federal Aviation Administration under the collegiate training initiative program relating to unmanned aircraft systems under section 632 of the FAA Reauthorization Act of 2018 (49 U.S.C. 40101 note).
-  - **(2)** *Small unmanned aircraft; unmanned aircraft; unmanned aircraft system* The terms “small unmanned aircraft”, “unmanned aircraft”, and “unmanned aircraft system” have the meanings given such terms in section 44801 of title 49, United States Code.
+  - **(1)** $50,000,000 for fiscal year 2023; and
+  - **(2)** $50,000,000 for fiscal year 2024.
+
+## § 4. Definitions
+
+In this Act:
+
+- **(1)** *Critical infrastructure* The term “critical infrastructure” has the meaning given such term in section 1016(e) of the Critical Infrastructures Protection Act of 2001 (42 U.S.C. 5195c(e)).
+- **(2)** *Critical infrastructure project* The term “critical infrastructure project” means a project for the inspection, operation, maintenance, repair, modernization, or construction of an element of critical infrastructure, including mitigating environmental hazards to such infrastructure.
+- **(3)** *Covered foreign entity* The term “covered foreign entity” means an entity—
+  - **(A)** included on the Consolidated Screening List or Entity List as designated by the Secretary of Commerce;
+  - **(B)** domiciled in the People’s Republic of China or the Russian Federation;
+  - **(C)** subject to influence or control by the government of the People’s Republic of China or by the Russian Federation; or
+  - **(D)** is a subsidiary or affiliate of an entity described in subparagraphs (A) through (C).
+- **(4)** *Educational institution* The term “educational institution” means an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that participates in a program authorized under sections 631 and 632 of the FAA Reauthorization Act of 2018 (49 U.S.C. 40101 note).
+- **(5)** *Element of critical infrastructure* The term “element of critical infrastructure” means a critical infrastructure facility or asset, including public bridges, tunnels, roads, highways, dams, electric grid, water infrastructure, communication systems, pipelines, or other related facilities or assets, as defined by the Secretary.
+- **(6)** *Eligible small unmanned aircraft system* The term “eligible small unmanned aircraft system” means a small unmanned aircraft system manufactured or assembled by a company that is domiciled in the United States and is not a covered foreign entity.
+- **(7)** *Governmental entity* The term “governmental entity” means—
+  - **(A)** a State, the District of Columbia, the Commonwealth of Puerto Rico, a territory of the United States, or a political subdivision thereof;
+  - **(B)** a unit of local government;
+  - **(C)** a Tribal Government;
+  - **(D)** a metropolitan planning organization; or
+  - **(E)** a combination of the entities described in subparagraphs (A) through (D).
+- **(8)** *Small unmanned aircraft; unmanned aircraft; unmanned aircraft system* The terms “small unmanned aircraft”, “unmanned aircraft”, and “unmanned aircraft system” have the meanings given such terms in section 44801 of title 49, United States Code.
