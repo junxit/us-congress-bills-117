@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5650
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5650
@@ -36,3 +36,11 @@ To designate the facility of the United States Postal Service located at 16605 E
 - 2021-10-20 — Introduced in House
 - 2021-10-20 — Introduced in House
 - 2021-10-20 — Referred to the House Committee on Oversight and Reform.
+- 2021-12-02 — Committee Consideration and Mark-up Session Held.
+- 2021-12-02 — Ordered to be Reported by Unanimous Consent.
+- 2022-09-13 — Considered under suspension of the rules. (consideration: CR H7773)
+- 2022-09-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5650.
+- 2022-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-13 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2022-09-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7773)
+- 2022-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
