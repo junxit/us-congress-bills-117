@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8260
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8260
@@ -16,7 +16,7 @@ Faster Payments to Veterans' Survivors Act of 2022
 
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 
-## Cosponsors (29)
+## Cosponsors (43)
 
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
@@ -47,6 +47,20 @@ Faster Payments to Veterans' Survivors Act of 2022
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
 
 ## Committees (1)
 
@@ -57,3 +71,14 @@ Faster Payments to Veterans' Survivors Act of 2022
 - 2022-07-01 — Introduced in House
 - 2022-07-01 — Introduced in House
 - 2022-07-01 — Referred to the House Committee on Veterans' Affairs.
+- 2022-07-14 — Referred to the Subcommittee on Oversight and Investigations.
+- 2022-07-18 — Subcommittee on Oversight and Investigations Discharged.
+- 2022-07-19 — Committee Consideration and Mark-up Session Held.
+- 2022-07-19 — Ordered to be Reported by Voice Vote.
+- 2022-09-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-13 — Considered under suspension of the rules. (consideration: CR H7770-7772; text: CR H7770-7771)
+- 2022-09-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8260.
+- 2022-09-13 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2022-09-13 — Placed on the Union Calendar, Calendar No. 360.
+- 2022-09-13 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-463.
+- 2022-09-13 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-463.
