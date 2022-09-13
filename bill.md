@@ -1,0 +1,14 @@
+---
+legis-num: S. 4830
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4830
+
+> To reaffirm actions taken by the Secretary of the Interior for the benefit of Indian Tribes, and for other purposes.
+
+## § 1. Ratification and confirmation of actions
+
+Any action taken by the Secretary of the Interior pursuant to the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”) (48 Stat. 984, chapter 576; 25 U.S.C. 5101 et seq.), for any Indian Tribe that was federally recognized on the date of the action is ratified and confirmed, to the extent such action is subjected to challenge based on whether the Indian Tribe was federally recognized or under Federal jurisdiction on June 18, 1934, as if the action had, by prior Act of Congress, been specifically authorized and directed.
