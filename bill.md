@@ -15,12 +15,11 @@ This Act may be cited as the “Wildfire Recovery Act”.
 
 ## § 2. Fire management assistance cost share
 
-- **(a)** *In general* Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended—
-  - **(1)** by redesignating subsection (e) as subsection (f); and
-  - **(2)** by inserting after subsection (d) the following:
-    > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
+Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended—
 
-- **(b)** *Applicability* The amendment made by subsection (a) shall only apply to amounts appropriated on or after the date of enactment of this Act.
+- **(1)** by redesignating subsection (e) as subsection (f); and
+- **(2)** by inserting after subsection (d) the following:
+  > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
 
 ## § 3. Rulemaking
 
