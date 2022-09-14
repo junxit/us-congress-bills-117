@@ -34,8 +34,9 @@ This Act may be cited as the “National Aviation Preparedness Plan Act of 2022�
   - **(4)** the labor organization certified under section 7111 of title 5, United States Code, as the exclusive bargaining representative of air traffic controllers of the Federal Aviation Administration;
   - **(5)** the labor organization certified under such section as the exclusive bargaining representative of airway transportation systems specialists and aviation safety inspectors of the Federal Aviation Administration;
   - **(6)** trade associations representing air carriers and airports;
-  - **(7)** aircraft manufacturing companies; and
-  - **(8)** such other stakeholders as the Secretary considers appropriate.
+  - **(7)** aircraft manufacturing companies;
+  - **(8)** general aviation; and
+  - **(9)** such other stakeholders as the Secretary considers appropriate.
 - **(d)** *Report* Not later than 30 days after the plan is developed under subsection (a), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes such plan.
 - **(e)** *Review of plan* Not later than 1 year after the date on which a report is submitted under subsection (d), and again not later than 5 years thereafter, the Secretary shall review the plan included in such report and, after consultation with aviation industry and labor stakeholders, make changes by rule as the Secretary considers appropriate.
 - **(f)** *GAO study* Not later than 18 months after the date of enactment of this Act, the Comptroller General shall conduct and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study assessing the national aviation preparedness plan developed under subsection (a), including—

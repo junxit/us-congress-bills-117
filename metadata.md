@@ -1,7 +1,7 @@
 ---
 measure: H.R. 884
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 884
@@ -52,3 +52,7 @@ National Aviation Preparedness Plan Act of 2022
 - 2022-09-13 — Placed on the Union Calendar, Calendar No. 355.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-458.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-458.
+- 2022-09-14 — Considered as unfinished business. (consideration: CR H7822-7823)
+- 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 133 (Roll no. 427). (text: 9/13/2022 CR H7752-7753)
+- 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 133 (Roll no. 427).
