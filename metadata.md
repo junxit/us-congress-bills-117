@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1339
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1339
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 302) to impose limits on excepting
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-09-14 — [House 117-2-424](votes/house-117-2-0424.md) — On Ordering the Previous Question — **Passed** (213–206)
+- 2022-09-14 — [House 117-2-425](votes/house-117-2-0425.md) — On Agreeing to the Resolution — **Passed** (219–209)
+
 ## Actions
 
 - 2022-09-13 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 302) to impose limits on excepting
 - 2022-09-13 — Rule provides for one hour of general debate each for H.R. 302, H.R. 2988, and H.R. 8326. Rule also provides for one motion to recommit on each bill.
 - 2022-09-13 — The House Committee on Rules reported an original measure, H. Rept. 117-464, by Mr. Raskin.
 - 2022-09-13 — The House Committee on Rules reported an original measure, H. Rept. 117-464, by Mr. Raskin.
+- 2022-09-14 — Considered as privileged matter. (consideration: CR H7804-7813)
+- 2022-09-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 1339.
+- 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-14 — On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 425). (text: CR H7804-7805)
+- 2022-09-14 — On ordering the previous question Agreed to by the Yeas and Nays: 213 - 206 (Roll no. 424).
+- 2022-09-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 425).
