@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5952
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5952
@@ -45,3 +45,12 @@ To designate the facility of the United States Postal Service located at 123 Eas
 - 2022-09-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7772)
 - 2022-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-09-14 — Received in the Senate, read twice.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7282-7283)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-285.
+- 2022-12-27 — Became Public Law No: 117-285.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
