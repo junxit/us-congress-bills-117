@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5916
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding paragraph (1), by striking “in writing” and inserting “in writing, including an electronic request submitted through the website established under subsection (b),”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “in writing” and inserting “in writing, including an electronic request submitted through the website or online tool established under subsection (b),”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(a) In general.—” before “Except”; | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
