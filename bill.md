@@ -13,9 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Improving Access to the VA Home Loan Benefit Act of 2022”.
 
-## § 2. Update of appraisal requirements for certain loans guaranteed by the Department of Veterans Affairs
+## § 2. Recommendations for improving appraisal delivery times
 
-- **(a)** *Updated regulations required* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe updated regulations or program requirements to clarify when an appraisal is required, how an appraisal is to be conducted, and who is eligible to conduct an appraisal for a loan guaranteed by the Department of Veterans Affairs under chapter 37 of title 38, United States Code, for any purpose described in section 3710(a) of such title.
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives recommendations for improving the delivery times for appraisals for loans guaranteed by the Department of Veterans Affairs.
+
+## § 3. Update of appraisal requirements for certain loans guaranteed by the Department of Veterans Affairs
+
+- **(a)** *Updated regulations required* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe updated regulations or program requirements to clarify when an appraisal is required, how an appraisal is to be conducted, and who is eligible to conduct an appraisal for a loan guaranteed by the Department of Veterans Affairs under chapter 37 of title 38, United States Code, for any purpose described in section 3710(a) of such title. In prescribing updated regulations or program requirements under this section, the Secretary shall take into consideration the recommendations of the Secretary submitted under section 2.
 - **(b)** *Waiver of requirement for certain properties* In prescribing updated regulations or program requirements under subsection (a), the Secretary shall consider making changes applicable to—
   - **(1)** certification requirements for appraisers;
   - **(2)** minimum property requirements;
@@ -26,3 +30,7 @@ This Act may be cited as the “Improving Access to the VA Home Loan Benefit Act
 - **(c)** *Desk top appraisals* In prescribing updated regulations or program guidance under subsection (a), the Secretary shall provide guidance for the use of the authority under section 3731(b)(3) of title 38, United States Code, taking into consideration—
   - **(1)** situations in which the use of such authority would provide for cost savings for the borrower; and
   - **(2)** situations in which a traditional appraisal requirement could cause a delay substantial enough to jeopardize the ability of a borrower to complete a transaction.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
