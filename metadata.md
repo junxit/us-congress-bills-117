@@ -1,7 +1,7 @@
 ---
 measure: S. 4235
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4235
@@ -28,3 +28,7 @@ A bill to amend the Controlled Substances Act to fix a technical error in the de
 
 - 2022-05-17 — Introduced in Senate
 - 2022-05-17 — Read twice and referred to the Committee on the Judiciary.
+- 2022-09-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4624-4625; text: CR S4625)
+- 2022-09-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
