@@ -59,8 +59,12 @@ This Act may be cited as the “Faster Payments to Veterans’ Survivors Act of 
   - **(4)** ensuring the Department has sufficient dedicated staff whose primary responsibilities are identifying, locating, and paying hard-to-find beneficiaries, with the goal of disbursing by not later than two years after the date of the enactment of this Act, all funds that, as of the date of the enactment of this Act, are owed to a beneficiary of a life insurance policy issued under chapter 19 of title 38, United States Code.
 - **(b)** *Sense of Congress* It is the sense of Congress that the Secretary of Veterans Affairs should work with interagency partners to determine the types of records, reports, and other materials that may be required to identify, locate, and disburse undisbursed life insurance benefits to hard-to-find beneficiaries.
 - **(c)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the progress of the Secretary in carrying out this section.
-- **(d)** *Undisbursed funds defined* The term “undisbursed life insurance benefits”—
+- **(d)** *Undisbursed life insurance benefits defined* The term “undisbursed life insurance benefits”—
   - **(1)** means any amount of money that is owed to a beneficiary of a life insurance policy issued under chapter 19 of title 38, United States Code, and that has not been disbursed for a period of two years or longer; and
   - **(2)** does not include any amount of money that—
     - **(A)** has not been disbursed due to a contested claim; or
     - **(B)** is in dispute by two or more parties over who is the entitled beneficiary.
+
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
