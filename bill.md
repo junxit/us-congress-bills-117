@@ -29,7 +29,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Extension of time limitations for use of entitlement
 
-- **(a)** *Montgomery GI bill* Section 3031 of title 38, United States Code, is amended by adding at the end the following new subsection:
+- **(a)** *Montgomery gi bill* Section 3031 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(i)** In the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual’s chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, such 10-year period—
   >   - **(1)** shall not run during the period the individual is so prevented from pursuing such program; and
   >   - **(2)** shall again begin running on the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter.
@@ -47,7 +47,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(c)** *Vocational rehabilitation and training*
   - **(1)** *Period for use* Section 3103 of such title is amended—
-    - **(A)** in subsection (a), by striking “or (e)” and inserting “(e), or (g)”; and
+    - **(A)** in subsection (a), by striking “or (g)” and inserting “(g), or (h)”; and
     - **(B)** by adding at the end the following new subsection:
       > - **(h)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the twelve-year period of eligibility prescribed in subsection (a) due to an emergency situation, such twelve-year period—
       >   - **(1)** shall not run during the period the individual is so prevented from participating such program; and
@@ -81,7 +81,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 4. Extension of payment of vocational rehabilitation subsistence allowances
 
 - **(a)** *In general* Section 3104 of title 38, United States Code, is amended by adding at the end the following new subsection:
-  > - **(f)** In the case of any veteran whom the Secretary of Veterans Affairs determines is satisfactorily following a program of employment services provided under subsection (a)(5) during the period of an emergency situation, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of this title for full-time training for the type of program that the veteran was pursuing, for two additional months, if the Secretary determines that the veteran is negatively affected by the emergency situation.
+  > - **(e)** In the case of any veteran whom the Secretary of Veterans Affairs determines is satisfactorily following a program of employment services provided under subsection (a)(5) during the period of an emergency situation, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of this title for full-time training for the type of program that the veteran was pursuing, for two additional months, if the Secretary determines that the veteran is negatively affected by the emergency situation.
 
 - **(b)** *Conforming repeal* Section 8 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) is repealed.
 
@@ -133,13 +133,196 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Permanent applicability* Section 3699(b)(1) of title 38, United States Code, is amended—
   - **(1)** in subparagraph (A), by striking “or” at the end;
-  - **(2)** in subparagraph (B)(ii), by striking “and” at the end and inserting “or”; and
+  - **(2)** in subparagraph (B)(ii), by striking “and” at the end and inserting “or” ; and
   - **(3)** by adding at the end the following new subparagraph:
     > - **(C)** the temporary closure of an educational institution or training establishment or the temporary closure or termination of a course or program of education by reason of an emergency situation; and
 
 - **(b)** *Conforming repeal* Section 5 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) is repealed.
 
-## § 9. Emergency designations
+## § 9. Department of Veterans Affairs approval of certain study-abroad programs
 
-- **(a)** *In general* This Act is designated as an emergency requirement pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(g)).
-- **(b)** *Designation in senate* In the Senate, this Act is designated as an emergency requirement pursuant to section 4112(a) of H. Con. Res. 71 (115th Congress), the concurrent resolution on the budget for fiscal year 2018.
+- **(a)** *In general* Section 3680A(f) of title 38, United States Code, is amended—
+  - **(1)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively;
+  - **(2)** by striking “The Secretary” and inserting “(1) Except as provided in paragraph (2), the Secretary”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(2)**
+    >   - **(A)** In the case of a covered study-abroad course, the Secretary may approve the course for a period of not more than five years, if the contract or other written agreement under which the course is offered provides that—
+    >     - **(i)** the educational institution that offers a course that is approved under this chapter agrees to—
+    >       - **(I)** assume responsibility for the quality and content of the covered study-abroad course; and
+    >       - **(II)** serve as the certifying official for the course for purposes of this chapter; and
+    >     - **(ii)** the educational institution that offers the covered study-abroad course agrees to seek the approval of the course under this chapter by not later than five years after the date of the agreement.
+    >   - **(B)** In this paragraph, the term “covered study-abroad course” means a course that—
+    >     - **(i)** is provided as a part of a program of education offered by an educational institution under a contract or other written agreement by another educational institution that offers a course that is approved under this chapter;
+    >     - **(ii)** is provided at a location in a foreign country; and
+    >     - **(iii)** has not been approved under this chapter.
+
+- **(b)** *Treatment of certain courses* In the case of any covered study-abroad course, under the meaning given such term in subparagraph (B) of paragraph (2) of subsection (f) of section 3680A of title 38, United States Code, as added by subsection (a), that is being offered under a contract or other written agreement as of the date of the enactment of this Act, the Secretary of Veterans Affairs may approve such course under such paragraph (2) for the five-year period beginning on the date of the enactment of this Act, if such contract or other written agreement meets the criteria provided in subparagraph (A) of such paragraph.
+
+## § 10. Eligibility for educational assistance under Department of Veterans Affairs Post-9/11 Educational Assistance Program of certain individuals who receive sole survivorship discharges
+
+- **(a)** *Short title* This section may be cited as the “Sgt. Wolf Kyle Weninger Veterans Education Fairness Act of 2022”.
+- **(b)** *Eligibility* Subsection (b)(2) of section 3311 of title 38, United States Code, is amended—
+  - **(1)** in the matter preceding subparagraph (A), by striking “who”;
+  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii);
+  - **(3)** by inserting before clause (i), as so redesignated, the following new subparagraph (A):
+    > - **(A)** who—
+
+  - **(4)** in clause (ii), as so redesignated—
+    - **(A)** by striking “subparagraph (A)” and inserting “clause (i)”; and
+    - **(B)** by striking the period and inserting “or by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10); or”; and
+  - **(5)** by adding at the end the following new subparagraph (B):
+    > - **(B)** who—
+    >   - **(i)** commencing on or after September 11, 2001, completes at least 30 continuous days of service described in subsection (d) (1) or (2); and
+    >   - **(ii)** after completion of service described in clause (i), is discharged or released by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10).
+
+- **(c)** *Conforming amendment* Subsection (d) of such section is amended by striking “The following” and inserting “Except as provided in subsection (b)(2)(B), the following”.
+
+## § 11. Uniform application for Department of Veterans Affairs approval of courses of education
+
+- **(a)** *In general* Subchapter I of chapter 36 of title 38, United States Code, is amended by inserting after section 3672 the following new section:
+  > ## § 3672A. Uniform application
+  >
+  > - **(a)** *In general*
+  >   - **(1)** The Secretary, in partnership with State approving agencies, educational institutions, and training establishments, shall require the use of a uniform application by any educational institution or training establishment seeking the approval of a new course of education under this chapter.
+  >   - **(2)** The Secretary shall maintain one uniform application for institutions of higher learning and one such application for other educational institutions and training establishments.
+  >   - **(3)** In the case of any State that uses approval criteria not covered by a uniform application under this section, the State approving agency for that State shall require the use of the uniform application and may require the submittal of additional information.
+  > - **(b)** *Requirements* The uniform application required under subsection (a) shall meet the following requirements:
+  >   - **(1)** A requirement that the appropriate executive of the educational institution or training establishment seeking the approval of a course of education attests on behalf of the educational institution or training establishment that the educational institution or training establishment—
+  >     - **(A)** is in compliance with all applicable laws and regulations relating to the approval of courses of education under this chapter; and
+  >     - **(B)** during the five-year period preceding the date of the application—
+  >       - **(i)** has not been subject to, or been party to a contract with any individual or entity that has been subject to, any adverse administrative or judicial action that—
+  >         - **(I)** related to the instruction or training, including with respect to the quality of education, provided by the institution or establishment; and
+  >         - **(II)** resulted in a fine or penalty in an amount equal to or more than five percent of the amount of funding provided to the institution or establishment under title IV of the Higher Education Act of 1965 for the fiscal year preceding the year in which the application is submitted; or
+  >       - **(ii)** has not employed an individual, or been party to a contract with any individual or entity, that has been convicted of a Federal fraud charge related to the instruction or training provided by the institution or establishment.
+  >   - **(2)** In the case of any educational institution or training establishment that is not participating in title IV of the Higher Education Act of 1965, a requirement for the inclusion of—
+  >     - **(A)** a copy of—
+  >       - **(i)** the articles of incorporation filed on behalf of the institution or establishment or proof of licensing to operate as an educational institution or training establishment in the State where the institution or establishment is located; and
+  >       - **(ii)** the financial position of the institution or establishment, as prepared by an appropriate third-party entity; or
+  >     - **(B)** other adequate evidence, as determined by the Secretary, that the institution or establishment is authorized to provide post-secondary education or training in the State where the institution or establishment is located.
+  >   - **(3)** In the case of any course of education that is offered by an educational institution or training establishment that has never offered a course of education that was approved under this chapter, a requirement for the inclusion of information about the course of education covered by the application, including—
+  >     - **(A)** the number of students who have entered and graduated from the course during the preceding two-year period; and
+  >     - **(B)** if available, the cohort default rate for funds provided to the institution or establishment under title IV of the Higher Education Act of 1965.
+  >   - **(4)** In the case of any educational institution or training establishment that is not an institution of higher learning, a requirement for the inclusion of—
+  >     - **(A)** a list of individuals who will serve as fully qualified instructors for the course of education, as of the date of the application, and an attestation that such individuals—
+  >       - **(i)** have a degree or other training, as appropriate, in the field of the course;
+  >       - **(ii)** effectively teach the skills offered under the course; and
+  >       - **(iii)** have demonstrated relevant industry experience in the field of the course; and
+  >     - **(B)** a list of individuals who will serve as career services employees for students enrolled in the course and an attestation that such individuals are skilled at identifying professions in the relevant industry that are in need of new employees to hire, tailoring the course of education to meet market needs, and identifying the employers likely to hire graduates.
+  > - **(c)** *Requirements for State approving agencies* During the approval process with respect to a uniform application submitted by an educational institution or training establishment, a State approving agency, or the Secretary when acting in the role of a State approving agency, shall contact the Secretary of Education to determine whether the course of education subject to such approval process has withdrawn, or been denied or suspended, from receiving for benefits under title IV of the Higher Education Act of 1965.
+  > - **(d)** *Appropriate executive* In this section, the appropriate executive of an educational institution or training establishment is a senior executive official, senior administrator, owner, or operator designated by the institution or establishment.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 3672 the following new item:
+- **(c)** *Applicability* The application required by section 3672A of title 38, United States Code, as added by subsection (a), shall—
+  - **(1)** be developed by not later than October 1, 2023; and
+  - **(2)** be required for the approval of any new course of education proposed on or after that day.
+
+## § 12. Notice requirements for Department of Veterans Affairs education surveys
+
+- **(a)** *Risk-based survey* Section 3673A of title 38, United States Code, is amended by adding at the end the following new subsection:
+  > - **(d)** *Notice* To the maximum amount feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than one business day of notice to an educational institution before conducting a targeted risk-based survey of the institution under this section.
+
+- **(b)** *Compliance surveys* Section 3693 of title 38, United States Code, is amended—
+  - **(1)** by redesignating subsection (c) as subsection (d); and
+  - **(2)** by inserting after subsection (b) the following new subsection (c):
+    > - **(c)** To the maximum extent feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than ten business days of notice to an educational institution or training establishment before conducting a compliance survey of the institution or establishment under this section.
+
+## § 13. Exception to requirement to submit verification of enrollment of certain individuals
+
+Section 3313(l) of title 38, United States Code, is amended—
+
+- **(1)** in paragraph (1), by striking “The Secretary” and inserting “Except as provided in paragraph (4), the Secretary”; and
+- **(2)** by striking paragraph (4) and inserting the following new paragraph (4):
+  > - **(4)** *Exception* An educational institution is not required to submit verification of an individual under paragraph (1)(A) if—
+  >   - **(A)** the individual is enrolled in a course or program of education offered by the educational institution on at least a full-time basis before the date on which the individual is able to withdraw from the course or program of education without penalty;
+  >   - **(B)** the educational institution charges the same amount of tuition and fees for students who are enrolled on a full-time basis and students who are enrolled on a more-than-full-time basis; and
+  >   - **(C)** the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.
+
+## § 14. Expansion of eligibility for self-employment assistance under veteran readiness and employment program
+
+- **(a)** *Expansion of eligibility* Paragraph (12) of subsection (a) of section 3104 of title 38, United States Code, is amended to read as follows:
+  > - **(12)** Such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for a veteran to begin self-employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.
+
+- **(b)** *Priority* Subsection (c)(1) of such section is amended by inserting before the first period the following: “, including with respect to providing priority for services under subsection (a)(12) to veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment”.
+- **(c)** *Technical amendments* Section 3117 of such title is amended—
+  - **(1)** in subsection (a)(2)(C), by striking “this clause” and inserting “this subparagraph”; and
+  - **(2)** in subsection (b)—
+    - **(A)** in paragraph (1), by striking “insure” and inserting “ensure”; and
+    - **(B)** in paragraph (2), by striking “clause” both places it appears and inserting “paragraph”.
+
+## § 15. Possible definitions of certain terms relating to educational assistance
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing possible definitions of the Secretary for each of the following terms:
+
+- **(1)** Student services.
+- **(2)** Marketing.
+- **(3)** Classroom instruction.
+
+## § 16. Department of Veterans Affairs loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “January 19, 2031”.
+
+## § 17. Termination of certain consumer contracts by servicemembers and dependents who enter into contracts after receiving military orders for permanent change of station but then receive stop movement orders due to an emergency situation
+
+- **(a)** *In general* Section 305A of the Servicemembers Civil Relief Act (50 U.S.C. 3956) is amended—
+  - **(1)** in the section heading, by striking “telephone, multichannel video programming, and internet access service” and inserting “certain consumer”;
+  - **(2)** in subsection (a)—
+    - **(A)** in the heading, by adding “or dependent of a servicemember” at the end;
+    - **(B)** in paragraph (1)—
+      - **(i)** by striking “after the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract.” and inserting “after—”; and
+      - **(ii)** by adding at the end the following:
+        > - **(A)** the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract; or
+        > - **(B)** the date the servicemember, while in military service, receives military orders for a permanent change of station, thereafter enters into the contract, and then receives a stop movement order issued by the Secretary of Defense or the Secretary of Homeland Security in response to a local, national, or global emergency, effective for an indefinite period or for a period of not less than 30 days, that prevents the servicemember from using the services provided under the contract.
+
+    - **(C)** in paragraph (4), by adding at the end the following new subparagraph:
+      > - **(D)** The spouse or dependent of a servicemember, described in paragraph (1)(B), who accompanies such servicemember during the period of relocation.
+
+  - **(3)** by striking subsection (b) and inserting the following:
+    > - **(b)** *Covered contracts* A contract described in this subsection is a contract—
+    >   - **(1)** for—
+    >     - **(A)** commercial mobile service;
+    >     - **(B)** telephone exchange service;
+    >     - **(C)** internet access service;
+    >     - **(D)** multichannel video programming service;
+    >     - **(E)** a gym membership or fitness program; or
+    >     - **(F)** home security services; and
+    >   - **(2)** entered into by a servicemember before receiving the military orders referred to in subsection (a)(1).
+
+  - **(4)** in subsection (g)—
+    - **(A)** by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and
+    - **(B)** by inserting, after paragraph (1), the following new paragraph (2):
+      > - **(2)** The terms “military orders” and “permanent change of station” have the meanings given such terms in section 305.
+
+- **(b)** *Retroactive application* The amendments made by this section shall apply to stop movement orders issued on or after March 1, 2020.
+
+## § 18. Residence for tax purposes
+
+Section 511(a) of the Servicemembers Civil Relief Act (50 U.S.C. 4001(a)) is amended by striking paragraph (2) and inserting the following:
+
+> - **(2)** *Spouses* A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember's military orders.
+> - **(3)** *Election* For any taxable year of the marriage, a servicemember and the spouse of such servicemember may elect to use for purposes of taxation, regardless of the date on which the marriage of the servicemember and the spouse occurred, any of the following:
+>   - **(A)** The residence or domicile of the servicemember.
+>   - **(B)** The residence or domicile of the spouse.
+>   - **(C)** The permanent duty station of the servicemember.
+
+## § 19. Portability of professional licenses of members of the uniformed services and their spouses
+
+- **(a)** *In general* Title VII of the Servicemembers Civil Relief Act (50 U.S.C. 4021 et seq.) is amended by inserting after section 705 (50 U.S.C. 4025) the following new section:
+  > ## § 705A. Portability of professional licenses of servicemembers and their spouses
+  >
+  > - **(a)** *In general* In any case in which a servicemember or the spouse of a servicemember has a covered license and such servicemember or spouse relocates his or her residency because of military orders for military service to a location that is not in the jurisdiction of the licensing authority that issued the covered license, such covered license shall be considered valid at a similar scope of practice and in the discipline applied for in the jurisdiction of such new residency for the duration of such military orders if such servicemember or spouse—
+  >   - **(1)** provides a copy of such military orders to the licensing authority in the jurisdiction in which the new residency is located;
+  >   - **(2)** remains in good standing with—
+  >     - **(A)** the licensing authority that issued the covered license; and
+  >     - **(B)** every other licensing authority that has issued to the servicemember or the spouse of a servicemember a license valid at a similar scope of practice and in the discipline applied in the jurisdiction of such licensing authority;
+  >   - **(3)** submits to the authority of the licensing authority in the new jurisdiction for the purposes of standards of practice, discipline, and fulfillment of any continuing education requirements.
+  > - **(b)** *Interstate licensure compacts* If a servicemember or spouse of a servicemember is licensed and able to operate in multiple jurisdictions through an interstate licensure compact, with respect to services provided in the jurisdiction of the interstate licensure compact by a licensee covered by such compact, the servicemember or spouse of a servicemember shall be subject to the requirements of the compact or the applicable provisions of law of the applicable State and not this section.
+  > - **(c)** *Covered license defined* In this section, the term “covered license” means a professional license or certificate—
+  >   - **(1)** that is in good standing with the licensing authority that issued such professional license or certificate;
+  >   - **(2)** that the servicemember or spouse of a servicemember has actively used during the two years immediately preceding the relocation described in subsection (a); and
+  >   - **(3)** that is not a license to practice law.
+
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 705 the following new item:
+
+## § 20. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
