@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3173
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1395w-22` | add-at-end | Section 1852 of the Social Security Act (42 U.S.C. 1395w–22) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-22` | insert | Section 1852(g)(1)(A) of the Social Security Act (42 U.S.C. 1395w–22(g)(1)(A)) is amended by inserting “(including any decision made with respect to a prior authorization request for such service)” after “section”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-22` | insert | in paragraph (1)(A), by inserting “and in accordance with paragraph (6)” after “paragraph (3)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-22` | insert | in paragraph (3)(B)(iii), by inserting “(or, subject to subsection (o), with respect to prior authorization requests submitted on or after the first day of the third plan year beginning after the date of the enactment of the Improving Se… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-22` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
