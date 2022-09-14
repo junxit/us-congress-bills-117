@@ -2,7 +2,7 @@
 legis-num: H. RES. 1339
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1339
@@ -31,7 +31,7 @@ At the conclusion of consideration of the bill for amendment the Committee shall
 
 ## § 6.
 
-At any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 8326) to amend title 13, United States Code, to improve the operations of the Bureau of the Census, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Oversight and Reform or their respective designees. After general debate the bill shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee on Oversight and Reform now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-64, modified by the amendment printed in part D of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted in the House and in the Committee of the Whole. The bill, as amended, shall be considered as the original bill for the purpose of further amendment under the five-minute rule and shall be considered as read. All points of order against provisions in the bill, as amended, are waived.
+At any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 8326) to amend title 13, United States Code, to improve the operations of the Bureau of the Census, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Oversight and Reform or their respective designees. After general debate the bill shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee on Oversight and Reform now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–64, modified by the amendment printed in part D of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted in the House and in the Committee of the Whole. The bill, as amended, shall be considered as the original bill for the purpose of further amendment under the five-minute rule and shall be considered as read. All points of order against provisions in the bill, as amended, are waived.
 
 ## § 7.
 
