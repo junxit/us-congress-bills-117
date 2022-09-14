@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1468
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1468
@@ -37,3 +37,6 @@ Securities and Exchange Commission Real Estate Leasing Authority Revocation Act
 - 2022-09-13 — Placed on the Union Calendar, Calendar No. 359.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-462.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-462.
+- 2022-09-14 — Passed/agreed to in House: Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205.
+- 2022-09-14 — Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205. (consideration: CR H7814-7822; text: CR H7814)
+- 2022-09-14 — Pursuant to the provisions of H. Res. 1339, proceedings on H.R. 1468 are considered vacated.
