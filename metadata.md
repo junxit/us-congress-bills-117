@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5315
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 5315
@@ -55,3 +55,4 @@ Drone Infrastructure Inspection Grant Act
 - 2022-09-13 — Placed on the Union Calendar, Calendar No. 357.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-460.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-460.
+- 2022-09-14 — Received in the Senate.
