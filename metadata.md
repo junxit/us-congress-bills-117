@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1066
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1066
@@ -82,3 +82,4 @@ Wildfire Recovery Act
 - 2022-09-13 — Placed on the Union Calendar, Calendar No. 356.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-459.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-459.
+- 2022-09-14 — Received in the Senate.

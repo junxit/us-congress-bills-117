@@ -2,7 +2,7 @@
 legis-num: H.R. 1066
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1066
@@ -15,11 +15,12 @@ This Act may be cited as the “Wildfire Recovery Act”.
 
 ## § 2. Fire management assistance cost share
 
-Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended—
+- **(a)** *In general* Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended—
+  - **(1)** by redesignating subsection (e) as subsection (f); and
+  - **(2)** by inserting after subsection (d) the following:
+    > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
 
-- **(1)** by redesignating subsection (e) as subsection (f); and
-- **(2)** by inserting after subsection (d) the following:
-  > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
+- **(b)** *Applicability* The amendment made by subsection (a) shall only apply to amounts appropriated on or after the date of enactment of this Act.
 
 ## § 3. Rulemaking
 
