@@ -1,7 +1,7 @@
 ---
 measure: S. 4057
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4057
@@ -37,3 +37,5 @@ Strategic EV Management Act of 2022
 - 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-139.
 - 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-139.
 - 2022-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
+- 2022-09-14 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4624)
+- 2022-09-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
