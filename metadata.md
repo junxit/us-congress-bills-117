@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5774
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5774
@@ -43,3 +43,7 @@ Expediting Disaster Recovery Act
 - 2022-09-13 — Placed on the Union Calendar, Calendar No. 358.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-461.
 - 2022-09-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-461.
+- 2022-09-14 — Considered as unfinished business. (consideration: CR H7823-7824)
+- 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 428). (text: 9/13/2022 CR H7753-7754)
+- 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 428).
