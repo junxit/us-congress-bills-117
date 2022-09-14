@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5774
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 3 executed, 3 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 5174
-
-> in subparagraph (A)(i) by striking “to a safe and sanitary living or functioning condition” and inserting “to ensure that their home is habitable during longer term recovery”;
-
-| | |
-|---|---|
-| Removed | `to a safe and sanitary living or functioning condition` |
-| Inserted | `to ensure that their home is habitable during longer term recovery` |
 
 ### 42 U.S.C. § 5174
 
@@ -61,5 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5174` | strike | in subparagraph (A)(i) by striking “to a safe and sanitary living or functioning condition”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5174` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5155` | add-at-end | Section 312(b)(4) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155(b)(4)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

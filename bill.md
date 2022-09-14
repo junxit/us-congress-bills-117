@@ -18,7 +18,7 @@ This Act may be cited as the “Expediting Disaster Recovery Act”.
 - **(a)** *In general* Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act is amended by adding at the end the following:
   > ## § 431. Unmet needs assistance
   >
-  > - **(a)** *In general* After the declaration of a major disaster, the President may direct the Administrator of the Federal Emergency Management Agency to provide, subject to amounts made available from appropriations, assistance necessary for meeting unmet needs as a result of such disaster.
+  > - **(a)** *In general* After the declaration of a major disaster, the President may direct the Administrator of the Federal Emergency Management Agency to provide to the State, subject to amounts made available from appropriations, assistance necessary for meeting unmet needs as a result of such disaster.
   > - **(b)** *Funding*
   >   - **(1)** *Amount of funding* Subject to appropriations and not later than 30 days after a declaration is made under section 401, the President acting through the Administrator may allocate an amount that equals up to 10 percent of the estimated aggregate amount of the grants to be made pursuant to sections 406 and 408 for the major disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this Act.
   >   - **(2)** *Estimated aggregate amount* Not later than 180 days after each major disaster declaration pursuant to this Act, the estimated aggregate amount of grants for purposes of paragraph (1) shall be determined by the President and such estimated amount need not be reduced, increased, or changed due to variations in estimates.
@@ -40,15 +40,15 @@ This Act may be cited as the “Expediting Disaster Recovery Act”.
 
 ## § 3. Repair and rebuilding
 
-Section 408(c) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174) is amended—
+- **(a)** *In general* Section 408(c) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174) is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** in subparagraph (A)(i) by striking “to a safe and sanitary living or functioning condition”;
+    - **(B)** in subparagraph (B) by striking “A recipient of” and inserting “(i) Evidence of other means of assistance.—A recipient of”; and
+    - **(C)** by adding at the end the following:
+      > - **(ii)** *Coordination with other assistance* Assistance allowed under this paragraph may be used in coordination with other sources for the repair and rebuilding of an owner-occupied residence.
 
-- **(1)** in paragraph (2)—
-  - **(A)** in subparagraph (A)(i) by striking “to a safe and sanitary living or functioning condition” and inserting “to ensure that their home is habitable during longer term recovery”;
-  - **(B)** in subparagraph (B) by striking “A recipient of” and inserting “(i) Evidence of other means of assistance.—A recipient of”; and
-  - **(C)** by adding at the end the following:
-    > - **(ii)** *Coordination with other assistance* Assistance allowed under this paragraph may be used in coordination with other sources for the repair and rebuilding of an owner-occupied residence.
-
-- **(2)** in paragraph (4) by striking “in cases in which” and all that follows through the end of the paragraph and inserting “if the President considers it a cost effective alternative to other housing solutions, including the costs associated with temporary housing provided under this section, and long-term rebuilding costs associated with section 431.”.
+  - **(2)** in paragraph (4) by striking “in cases in which” and all that follows through the end of the paragraph and inserting “if the President considers it a cost effective alternative to other housing solutions, including the costs associated with temporary housing provided under this section, and long-term rebuilding costs associated with section 431.”.
+- **(b)** *Applicability* This section and the amendments made by this section shall apply to funds appropriated on or after the date of enactment of this Act.
 
 ## § 4. Review by Comptroller General
 
