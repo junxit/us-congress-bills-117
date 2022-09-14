@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4819
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 16274a
+
+> in subsection (d)(1), by striking “$30,000,000” and inserting “$45,000,000”.
+
+| | |
+|---|---|
+| Removed | `$30,000,000` |
+| Inserted | `$45,000,000` |
 
 ## Stated, not applied
 
@@ -36,3 +47,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16274` | redesignate | by redesignating paragraphs (5) through (8) as paragraphs (6) through (9), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16274` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1001` | redesignate | by amending paragraph (9), as redesignated by paragraph (1) of this subsection, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274a` | insert | in subsection (b)(2), after “engineering”, by inserting “, which may include nontechnical nuclear research”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16271` | insert | in subsection (c), by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

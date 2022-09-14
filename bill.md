@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4819
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,7 +29,7 @@ The purposes of this Act are—
 Section 954(a) of the Energy Policy Act of 2005 (42 U.S.C. 16274(a)) is amended—
 
 - **(1)** in paragraph (2), by amending subparagraph (D) to read as follows:
-  > - **(D)** promote collaborations, partnerships, and knowledge sharing between institutions of higher education, National Laboratories, industry, and associated labor unions; and
+  > - **(D)** promote collaborations, partnerships, and knowledge sharing between institutions of higher education, National Laboratories, other Federal agencies, industry, and associated labor unions; and
 
 - **(2)** by amending paragraph (4) to read as follows:
   > - **(4)** *Strengthening University Research and Training Reactors and Associated Infrastructure*
@@ -67,7 +67,8 @@ Section 954(a) of the Energy Policy Act of 2005 (42 U.S.C. 16274(a)), as amended
   >       - **(IV)** EPSCoR universities;
   >       - **(V)** junior or community colleges; and
   >       - **(VI)** associate-degree-granting colleges.
-  >   - **(D)** *Authorization of appropriations* Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
+  >   - **(D)** *Fuel requirements* New research reactors established under subparagraph (B) shall not use high-enriched uranium, as defined in section 2001 of division Z of the Consolidated Appropriations Act of 2021.
+  >   - **(E)** *Authorization of appropriations* Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
   >     - **(i)** $10,000,000 for fiscal year 2022;
   >     - **(ii)** $45,000,000 for fiscal year 2023;
   >     - **(iii)** $60,000,000 for fiscal year 2024;
@@ -88,3 +89,13 @@ Section 954(a) of the Energy Policy Act of 2005 (42 U.S.C. 16274(a)), as amended
   >   - **(E)** *Historically black college or university* The term “historically Black college or university” has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
   >   - **(F)** *Minority-serving institution* The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institutions, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in section 371 of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
   >   - **(G)** *Tribal college or university* The term “Tribal college or university” has the meaning given such term in section 316 of the Higher Education Act of 1965 (20 U.S.C. 1059c).
+
+## § 5. Science education and human resources scholarships, fellowships, and research and development projects
+
+- **(a)** *In general* The purpose of this section is to support a diverse workforce for the complex landscape associated with effective and equitable development of advanced nuclear energy technologies, including interdisciplinary research to enable positive impacts and avoid potential negative impacts across the lifespan of nuclear energy technologies.
+- **(b)** *Nontechnical nuclear research* Section 313 of the Omnibus Appropriations Act, 2009 (Public Law 111–8; 42 U.S.C. 16274a) is amended:
+  - **(1)** in subsection (b)(2), after “engineering”, by inserting “, which may include nontechnical nuclear research”;
+  - **(2)** in subsection (c), by inserting after paragraph (2) the following:
+    > - **(3)** *Nontechnical nuclear research* The term “nontechnical nuclear research” means research with specializations such as social sciences or law that can support an increase in community engagement, participation, and confidence in nuclear energy systems, including the navigation of the licensing required for advanced reactor deployment, aligned with the objectives in section 951(a)(2) of the Energy Policy Act of 2005 (42 U.S.C. 16271(a)(2)).
+
+  - **(3)** in subsection (d)(1), by striking “$30,000,000” and inserting “$45,000,000”.
