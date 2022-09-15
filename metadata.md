@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3173
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3173
@@ -368,3 +368,4 @@ Improving Seniors’ Timely Access to Care Act of 2021
 - 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2022-09-14 — Subcommittee Consideration and Mark-up Session Held.
 - 2022-09-14 — The Chair announced the Speaker's designation, pursuant to clause 7(a)(1) of rule XV, of H. R. 3173 as the measure on the Consensus Calendar to be considered this week.
+- 2022-09-15 — Received in the Senate.
