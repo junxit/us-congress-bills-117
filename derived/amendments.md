@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8326
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 2 executed, 11 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,8 +53,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `13 U.S.C. § 13` | insert | Subchapter I of chapter 1 of title 13, United States Code, is amended by inserting after section 13 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `13 U.S.C. § 13` | insert | The table of sections for such subchapter is amended by inserting after the item relating to section 13 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `13 U.S.C. § 13` | insert | in subsection (b)(3), by inserting after “the President” the following: “only for inefficiency, neglect of duty, or malfeasance in office”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `13 U.S.C. § 13` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `13 U.S.C. § 13` | amend | Section 21(c) of title 13, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `13 U.S.C. § 13` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `13 U.S.C. § 13` | replace | The table of sections for subchapter II of chapter 1 of such title is amended by striking the item relating to section 21 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `13 U.S.C. § 13` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

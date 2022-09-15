@@ -19,25 +19,28 @@ This Act may be cited as the “Ensuring a Fair and Accurate Census Act”.
   - **(1)** *In general* Subchapter I of chapter 1 of title 13, United States Code, is amended by inserting after section 13 the following:
     > ## § 14. Budget requests
     >
-    > - **(a)** With respect to the budget request of the Bureau for fiscal year 2027 and each fiscal year thereafter submitted to the President for inclusion in the annual budget submission under section 1105(a) of title 31, the Secretary shall include in such request the estimated costs of carrying out the duties of the Bureau during the five-year period beginning on the fiscal year covered by such request.
-    > - **(b)** On the date that the estimate of costs are submitted to the President under subsection (a), the Secretary shall submit such estimate to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committees on the Budget of the House of Representatives and the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
+    > - **(a)** With respect to the budget request of the Bureau for fiscal year 2027 and each fiscal year thereafter submitted to the President for inclusion in the annual budget submission under section 1105(a) of title 31, the Director shall include in such request to the Secretary the estimated costs of carrying out the duties of the Bureau during the five-year period beginning on the fiscal year covered by such request.
+    > - **(b)** On the date that the estimate of costs is submitted to the Secretary under subsection (a), the Director shall submit such estimate to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committees on the Budget of the House of Representatives and the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
 
   - **(2)** *Clerical amendment* The table of sections for such subchapter is amended by inserting after the item relating to section 13 the following new item:
-- **(b)** *For-cause removal of Director; duties* Section 21 of title 13, United States Code, is amended—
-  - **(1)** in subsection (b)(3), by inserting after “the President” the following: “only for inefficiency, neglect of duty, or malfeasance in office”; and
-  - **(2)** by amending subsection (c) to read as follows:
-    > - **(c)** *Duties*
-    >   - **(1)** *In general* The Director shall perform such duties as may be imposed upon the Director by law, regulations, or orders of the Secretary. The Director shall report directly to the Deputy Secretary of Commerce.
-    >   - **(2)** *Decennial census* Any operational, statistical, or technical decision for any decennial census of population may be made only by the Director.
+- **(b)** *Duties* Section 21(c) of title 13, United States Code, is amended to read as follows:
+  > - **(c)** *Duties*
+  >   - **(1)** *In general* The Director shall perform such duties as may be imposed upon the Director by law, regulations, or orders of the Secretary. The Director shall report directly to the Deputy Secretary of Commerce.
+  >   - **(2)** *Decennial census* Any operational, statistical, or technical decision for any decennial census of population may be made only by the Director.
 
 - **(c)** *Advisory committees; Deputy Director*
   - **(1)** *In general* Section 21 of title 13, United States Code, as amended by subsection (b), is further amended—
     - **(A)** in the section heading, by striking “duties” and inserting “Deputy Director; advisory committees”; and
     - **(B)** by adding at the end the following:
       > - **(d)** *Deputy Director*
-      >   - **(1)** *In general* There shall be in the Bureau a single Deputy Director of the Bureau, to be appointed by the Director. The position of Deputy Director shall be a career reserved position (as that term is defined in section 3132(a)(8) of title 5). The Deputy Director shall be selected from among any career appointee (as that term is defined in section 3132(a)(4) of such title) at any agency. The individual appointed to the position of Deputy Director shall possess knowledge of, or experience in, the work of the Bureau, and possess experience in relevant fields, including demography, economics, survey methodology, statistics, or data science.
+      >   - **(1)** *In general* There shall be in the Bureau a single Deputy Director of the Bureau, to be appointed by the Director. The position of Deputy Director shall be a career reserved position (as that term is defined in section 3132(a)(8) of title 5). The Deputy Director shall be selected from among any career appointee (as that term is defined in section 3132(a)(4) of such title) at any agency. The individual appointed to the position of Deputy Director shall be made from individuals who have a demonstrated ability in managing large organizations and experience in the collection, analysis, and use of statistical data.
       >   - **(2)** *Functions* The Deputy Director shall perform such functions as the Director shall designate. During any absence or disability of the Director, the Deputy Director shall act as Director.
       >   - **(3)** *Vacancy* In the event of a vacancy in the office of Director, or when the Director is absent or unable to serve, the Deputy Director shall act as Director until a Director is appointed. If no individual is serving as Deputy Director, the highest level career employee of the Bureau shall act as Director until a Deputy Director or Director is appointed. This paragraph shall serve as the exclusive means of designating an acting Director.
+      >   - **(4)** *Census equity official* The Deputy Director shall appoint an employee within the Bureau, who shall report directly to the Deputy Director, and who shall be responsible for optimizing racial and ethnic equity in the decennial census of population, including by—
+      >     - **(A)** enhancing outreach to, and collaborating with, organizations and stakeholders that have demonstrated their influence with racial and ethnic communities that historically have had census participation rates that are lower than those of the overall population;
+      >     - **(B)** maximizing participation among racial and ethnic demographic cohorts that have historically had census participation rates that are lower than those of the overall population;
+      >     - **(C)** rectifying the undercount of cohorts of the population that have been undercounted in recent decennial census counts; and
+      >     - **(D)** any other strategies, initiatives, activities, or operations that would optimize such equity.
       > - **(e)** *Advisory committees*
       >   - **(1)** *General authority* In accordance with the Federal Advisory Committee Act (5 U.S.C. App.), and subject to paragraph (2), the Director may establish advisory committees to provide advice with respect to the mission of the Bureau. Members of any such committee, including a committee established under paragraph (2), shall serve without compensation, but shall be entitled to transportation expenses and per diem in lieu of subsistence in accordance with section 5703 of title 5.
       >   - **(2)** *Specific advisory committees*
@@ -49,7 +52,7 @@ This Act may be cited as the “Ensuring a Fair and Accurate Census Act”.
 - **(d)** *Position requirements* Section 22 of title 13, United States Code, is amended—
   - **(1)** by striking “All permanent” and inserting “(a) In general.—All permanent”; and
   - **(2)** by adding at the end the following:
-    > - **(b)** *Positions* Each position within the Bureau shall be a career position within the civil service, except for the position of the Director and not more than two other positions.
+    > - **(b)** *Positions* Each position within the Bureau shall be a career position within the civil service, except for the position of the Director and not more than three other positions.
 
 ## § 3. Limitations and requirements for the decennial census
 
@@ -62,7 +65,7 @@ Section 141 of title 13, United States Code, is amended—
   >   - **(2)** *Biannual reports*
   >     - **(A)** *Submission to congress* Not later than April 1 of the calendar year beginning after the date of enactment of the Ensuring a Fair and Accurate Census Act and biannually thereafter, the Secretary shall submit to Congress a report that—
   >       - **(i)** describes each component of the operational plan for the subsequent decennial census of population; and
-  >       - **(ii)** includes a detailed statement on the status of all research, testing, and operations that are part of the Bureau’s comprehensive plan for the decennial census.
+  >       - **(ii)** includes a detailed statement on the status of all research, testing, and operations that are part of the Bureau’s comprehensive plan for the decennial census, and including a detailed statement on the status of any initiatives, developments, and operations within the purview of the official appointed by the Deputy Director under section 21(d)(4).
   >     - **(B)** *Internet publication* On the date on which the Secretary submits a report under subparagraph (A), the Secretary shall publish the report on the public internet website of the Bureau.
   >   - **(3)** *Secretary certification*
   >     - **(A)** *In general* The Secretary, upon the date of submission of the report required by subsection (f)(2), shall submit, to the committees of Congress having legislative jurisdiction over the census, a certification stating that any question that has not appeared on the previous two decennial censuses has been researched, studied, and tested according to established statistical policies and procedures.
@@ -85,3 +88,11 @@ Section 141 of title 13, United States Code, as amended by section 3, is further
 >     - **(B)** Projected impacts on response rates, staffing requirements, or costs throughout the lifecycle.
 >     - **(C)** An explanation of any differences in budgetary resources between the amount requested in the President’s annual budget request and the lifecycle cost estimate, as updated by this paragraph.
 >   - **(3)** *Committees* The committees described in this paragraph are the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
+
+## § 5. Report on local-level data and local field operations
+
+Not later than 180 days after the date of the enactment of this Act, the Director of the Bureau of the Census shall submit to Congress a report that—
+
+- **(1)** reviews the Bureau’s current processes for consulting and engaging with jurisdictions and local partners in conducting the decennial census, including as it relates to preventing and addressing inaccuracies;
+- **(2)** provides an update on the Bureau’s progress in implementing several of the Government Accountability Office’s recommendations as it relates to the collection and utilization of local-level data and coordination of local field operations; and
+- **(3)** outlines additional resources needed to support and improve the Bureau’s capacity to conduct an accurate count of the Nation’s population.
