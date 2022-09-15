@@ -1,0 +1,18 @@
+---
+legis-num: H.J. RES. 96
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 96
+
+> Approving the location of a memorial to commemorate America’s commitment to a free press by honoring journalists who sacrificed their lives in service to that cause.
+
+## Preamble
+
+- Whereas section 8908(b)(1) of title 40, United States Code, provides that the location of a commemorative work in Area I, as depicted on the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003, shall be deemed to be authorized only if a recommendation for the location is approved by law not later than 150 calendar days after the date on which Congress is notified of the recommendation;
+- Whereas Public Law 116–253 authorized the Fallen Journalists Memorial Foundation to establish a memorial on Federal land in the District of Columbia to commemorate America’s commitment to a free press by honoring journalists who sacrificed their lives in service to that cause; and
+- Whereas the Secretary of the Interior has notified Congress of the determination of the Secretary of the Interior that the memorial should be located in area I: Now, therefore, be it
+
+That the location of a commemorative work to commemorate America’s commitment to a free press by honoring journalists who sacrificed their lives in service to that cause within Area I, as depicted on the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003, is approved.
