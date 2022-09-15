@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8260
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8260
@@ -86,3 +86,12 @@ Faster Payments to Veterans' Survivors Act of 2022
 - 2022-09-14 — Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205. (consideration: CR H7814-7822; text: CR H7820-7821)
 - 2022-09-14 — Pursuant to the provisions of H. Res. 1339, proceedings on H.R. 8260 are considered vacated.
 - 2022-09-15 — Received in the Senate, read twice.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7302)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-313.
+- 2022-12-27 — Became Public Law No: 117-313.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
