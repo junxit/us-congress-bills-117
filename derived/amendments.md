@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2988
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-37 amendatory instructions. 4 executed, 33 stated and not applied.
+41 amendatory instructions. 4 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -70,8 +70,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | in clause (xi), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (xii) as clause (xiii); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (xii) as clause (xiv); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the clause (xi) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 2302(a)(2)(A) of title 5, United States Code, as amended by paragraph (1), is further amended by inserting after clause (xii) the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (D), by adding “or” after the semicolon at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -85,10 +86,13 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3071` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3071` | add-at-end | Section 7703(a) of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3071` | insert | by inserting “subsection (b)(9)(A)(i), (B), (C), (D), or (E), subsection (b)(13), or subsection (g),” after “subsection (b)(8),”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3071` | insert | by inserting after “title 31” the following: “, a commissioned officer or applicant for employment in the Public Health Service, an officer or applicant for employment in the commissioned officer corps of the National Oceanic and Atmosph… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3071` | insert | by inserting after “title 31” the following: “, a commissioned officer or applicant for employment in the Public Health Service, and an officer or applicant for employment in the commissioned officer corps of the National Oceanic and Atm… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3071` | strike | by striking paragraph (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3071` | redesignate | by redesignating paragraphs (9) through (26) as paragraphs (8) through (25), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3071` | strike | in subsection (b), by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3071` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3071` | replace | in subparagraph (B), by striking the semicolon at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3071` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in paragraph (4), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2302 of title 5, United States Code, as amended by section 2(c)(1), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
