@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 755
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 755
@@ -34,3 +34,7 @@ A resolution recognizing September 11, 2022, as a "National Day of Service and R
 
 - 2022-09-08 — Introduced in Senate
 - 2022-09-08 — Referred to the Committee on the Judiciary.
+- 2022-09-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4804; text: 09/08/2022 CR S4516-4517)
+- 2022-09-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4804; text: 09/08/2022 CR S4516-4517)
+- 2022-09-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-09-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
