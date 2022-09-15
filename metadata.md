@@ -1,7 +1,7 @@
 ---
 measure: S. 4428
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4428
@@ -28,3 +28,7 @@ Taiwan Policy Act of 2022
 
 - 2022-06-16 — Introduced in Senate
 - 2022-06-16 — Read twice and referred to the Committee on Foreign Relations.
+- 2022-09-14 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-15 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2022-09-15 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2022-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.

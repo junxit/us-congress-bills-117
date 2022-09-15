@@ -1,7 +1,7 @@
 ---
 measure: S. 4428
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 3 executed, 7 stated and not applied.
+29 amendatory instructions. 5 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,24 @@ to guess them.
 | Removed | `$200,000,000` |
 | Inserted | `$500,000,000 for any of the fiscal years 2023, 2024, or 2025.` |
 
+### 22 U.S.C. § 2321j
+
+> Section 516(c)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j(c)(2)) is amended by striking “and to the Philippines” and inserting “, to the Philippines, and to Taiwan”.
+
+| | |
+|---|---|
+| Removed | `and to the Philippines` |
+| Inserted | `, to the Philippines, and to Taiwan` |
+
+### 22 U.S.C. § 2321j
+
+> Section 514(b)(2)(A) of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j(b)(2)(A)) is amended by striking “$200,000,000” and all that follows and inserting “$500,000,000 for any of the fiscal years 2023, 2024, or 2025.”.
+
+| | |
+|---|---|
+| Removed | `$200,000,000` |
+| Inserted | `$500,000,000 for any of the fiscal years 2023, 2024, or 2025.` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -67,3 +85,20 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2321j` | insert | in section 516(c)(2) (22 U.S.C. 2321j(c)(2)), by inserting “to Taiwan,” after “major non-NATO allies on such southern and southeastern flank,”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2321k` | add-at-end | Section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 2(a) of the Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act of 2019 (Public Law 116–135) (relating to diplomatic relations with Taiwan) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 3301` | insert | Section 2(b)(5) of the Taiwan Relations Act (22 U.S.C. 3301(b)(5)) is amended by inserting “and to implement a strategy to deny and deter acts of coercion or aggression by the People's Liberation Army” after “to maintain a sufficient sel… | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 3302` | insert | Section 3(a) of the Taiwan Relations Act (22 U.S.C. 3302(a)) is amended by inserting “and to implement a strategy to deny and deter acts of coercion or aggression by the People’s Liberation Army” after “to maintain a sufficient self-defe… | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 3303` | add-at-end | Section 4 of the Taiwan Relations Act (22 U.S.C. 3303) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2321h` | insert | in section 514(c)(2) (22 U.S.C. 2321h(c)(2)), by inserting “Taiwan,” after “Thailand,”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2321j` | insert | in section 516(c)(2) (22 U.S.C. 2321j(c)(2)), by inserting “to Taiwan,” after “major non-NATO allies on such southern and southeastern flank,”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Section 2(a) of the Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act of 2019 (Public Law 116–135) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in section 2(5), by striking “and Kiribati” and inserting “Kiribati, and Nicaragua,”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “should be” and inserting “is”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “1 year after the date of the enactment of this Act, and annually thereafter for five years, the Secretary of State shall report” and inserting “90 days after the date of the enactment of the Taiwan Policy … | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
