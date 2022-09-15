@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7846
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7846
@@ -44,3 +44,12 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2022
 - 2022-09-14 — Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205. (consideration: CR H7814-7822; text: CR H7819)
 - 2022-09-14 — Pursuant to the provisions of H. Res. 1339, proceedings on H.R. 7846 are considered vacated.
 - 2022-09-15 — Received in the Senate, read twice.
+- 2022-09-22 — Passed Senate without amendment by Voice Vote. (consideration: CR S5031)
+- 2022-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5031)
+- 2022-09-27 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-191.
+- 2022-10-10 — Became Public Law No: 117-191.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
