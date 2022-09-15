@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 302
@@ -49,3 +49,24 @@ PPSA Act of 2021
 - 2022-09-02 — Placed on the Union Calendar, Calendar No. 352.
 - 2022-09-02 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-455.
 - 2022-09-02 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 117-455.
+- 2022-09-13 — Rules Committee Resolution H. Res. 1339 Reported to House. Rule provides for consideration of H.R. 302, H.R. 2988 and H.R. 8326. Rule provides for one hour of general debate each for H.R. 302, H.R. 2988, and H.R. 8326. Rule also provides for one motion to recommit on each bill.
+- 2022-09-15 — Amendment (A002) offered by Mr. Hice (GA). (consideration: CR H7854-7856; text: CR H7854-7855)
+- 2022-09-15 — Amendment failed by House: On agreeing to the Hice (GA) amendment (A002) Failed by the Yeas and Nays: 204 - 226 (Roll no. 431).
+- 2022-09-15 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-09-15 — Considered under the provisions of rule H. Res. 1339. (consideration: CR H7848-7857)
+- 2022-09-15 — DEBATE - Pursuant to H. Res. 1339, the House proceeded with 10 minutes of debate on the Hice (GA) Part A amendment No. 1.
+- 2022-09-15 — DEBATE - The House proceeded with one hour of debate on H.R. 302.
+- 2022-09-15 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-09-15 — House amendment not agreed to: On agreeing to the Hice (GA) amendment (A002) Failed by the Yeas and Nays: 204 - 226 (Roll no. 431).
+- 2022-09-15 — House amendment offered
+- 2022-09-15 — House amendment offered
+- 2022-09-15 — House amendment offered/reported by: Amendment (A002) offered by Mr. Hice (GA).
+- 2022-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-15 — On agreeing to the Hice (GA) amendment (A002) Failed by the Yeas and Nays: 204 - 226 (Roll no. 431).
+- 2022-09-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-09-15 — On passage Passed by the Yeas and Nays: 225 - 204 (Roll no. 432). (text: CR H7848)
+- 2022-09-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 204 (Roll no. 432).
+- 2022-09-15 — Roll call votes on amendments in House
+- 2022-09-15 — Rule provides for consideration of H.R. 302, H.R. 2988 and H.R. 8326. Rule provides for one hour of general debate each for H.R. 302, H.R. 2988, and H.R. 8326. Rule also provides for one motion to recommit on each bill.
+- 2022-09-15 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2022-09-15 — The previous question was ordered pursuant to the rule.
