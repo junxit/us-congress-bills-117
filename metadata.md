@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5774
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5774
@@ -47,3 +47,4 @@ Expediting Disaster Recovery Act
 - 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 428). (text: 9/13/2022 CR H7753-7754)
 - 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 20 (Roll no. 428).
+- 2022-09-15 — Received in the Senate.
