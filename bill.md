@@ -18,13 +18,16 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
 - **(a)** *Investigations as personnel actions*
   - **(1)** *In general* Section 2302(a)(2)(A) of title 5, United States Code, is amended—
     - **(A)** in clause (xi), by striking “and” at the end;
-    - **(B)** by redesignating clause (xii) as clause (xiii); and
+    - **(B)** by redesignating clause (xii) as clause (xiv); and
     - **(C)** by inserting after the clause (xi) the following:
       > - **(xii)** for purposes of subsection (b)(8)—
       >   - **(I)** the commencement, expansion, or extension of an investigation, but not including any investigation that is ministerial or nondiscretionary (including a ministerial or nondiscretionary investigation described in section 1213) or any investigation that is conducted by an Inspector General of an entity of the Government of an employee not employed by the office of that Inspector General; and
-      >   - **(II)** a referral to an Inspector General of an entity of the Government, except for a referral that is ministerial or nondiscretionary; and
+      >   - **(II)** a referral to an Inspector General of an entity of the Government, except for a referral that is ministerial or nondiscretionary;
 
   - **(2)** *Application* The amendment made by paragraph (1) shall apply to any investigation opened, or referral made, as described under clause (xii) of section 2302(a)(2)(A) of title 5, United States Code, as added by such paragraph, on or after the date of enactment of this Act.
+  - **(3)** *Security clearances* Section 2302(a)(2)(A) of title 5, United States Code, as amended by paragraph (1), is further amended by inserting after clause (xii) the following:
+    > - **(xiii)** a suspension, revocation, denial, or other determination relating to a security clearance or any other access determination made by an agency; and
+
 - **(b)** *Right to petition Congress*
   - **(1)** *In general* Section 2302(b)(9) of title 5, United States Code, is amended—
     - **(A)** in subparagraph (C), by striking “or” at the end;
@@ -107,6 +110,9 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
       - **(ii)** In the case of an individual described in clause (i) whose duly submitted claim to the Board was made not later than 180 days before the date of enactment of this Act, such individual may only bring an action before a United States district court as described in section 1221(i)(2) of title 5, United States Code, (as added by subparagraph (A) if that individual—
         - **(I)** provides written notice to the Office of Special Counsel and the Merit Systems Protection Board not later than 90 days after the date of enactment of this Act; and
         - **(II)** brings such action not later than 20 days after providing such notice.
+    - **(C)** *GAO report* Not later than 4 years after the date of enactment of this Act, the Comptroller General shall—
+      - **(i)** conduct a study on actions brought before Federal court pursuant to paragraph (2) of section 1221(i) of title 5, United States Code (as added by subparagraph (A) of this paragraph) that, at the minimum, examines the timeliness of Merit Systems Protection Board whistleblower complaint rulings, the rates of individuals opting for a district court trial under such paragraph, and recommendations for the Board to make improvements to its whistleblower claim review process; and
+      - **(ii)** submit a report on such study to Congress and publish such report on the Government Accountability Office’s public website.
 - **(d)** *Recipients of whistleblower disclosures* Section 2302(b)(8)(B) of title 5, United States Code, is amended by striking “or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures” and inserting “the Inspector General of an agency, a supervisor in the employee’s direct chain of command up to and including the head of the employing agency, or to an employee designated by any of the aforementioned individuals for the purpose of receiving such disclosures”.
 - **(e)** *Attorney fees*
   - **(1)** *In general* Section 7703(a) of title 5, United States Code, is amended by adding at the end the following:
@@ -114,9 +120,9 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
 
   - **(2)** *Application* In addition to any proceeding brought by an employee, former employee, or applicant for employment on or after the date of enactment of this Act to a Federal court under section 7703 of title 5, United States Code, the amendment made by paragraph (1) shall apply to any proceeding brought by an employee, former employee, or applicant for employment under such section before the date of enactment of this Act with respect to which the applicable Federal court has not issued a final decision.
 - **(f)** *Extending Whistleblower Protection Act to certain employees*
-  - **(1)** *In general* Section 2302(a)(2)(A) of title 5, United States Code, is amended in the matter following clause (xiii)—
+  - **(1)** *In general* Section 2302(a)(2)(A) of title 5, United States Code, is amended in the matter following clause (xiv)—
     - **(A)** by inserting “subsection (b)(9)(A)(i), (B), (C), (D), or (E), subsection (b)(13), or subsection (g),” after “subsection (b)(8),”; and
-    - **(B)** by inserting after “title 31” the following: “, a commissioned officer or applicant for employment in the Public Health Service, an officer or applicant for employment in the commissioned officer corps of the National Oceanic and Atmospheric Administration, and a noncareer appointee in the Senior Executive Service”.
+    - **(B)** by inserting after “title 31” the following: “, a commissioned officer or applicant for employment in the Public Health Service, and an officer or applicant for employment in the commissioned officer corps of the National Oceanic and Atmospheric Administration.”.
   - **(2)** *Conforming amendments* Section 261 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3071) is amended—
     - **(A)** in subsection (a)—
       - **(i)** by striking paragraph (8); and
@@ -128,6 +134,11 @@ This Act may be cited as the “Whistleblower Protection Improvement Act of 2021
 - **(g)** *Relief*
   - **(1)** *In general* Section 7701(b)(2)(A) of title 5, United States Code, is amended by striking “upon the making of the decision” and inserting “upon making of the decision, necessary to make the employee whole as if there had been no prohibited personnel practice, including training, seniority and promotions consistent with the employee’s prior record”.
   - **(2)** *Application* In addition to any appeal made on or after the date of enactment of this Act to the Merit Systems Protection Board under section 7701 of title 5, United States Code, the amendment made by paragraph (1) shall apply to any appeal made under such section before the date of enactment of this Act with respect to which the Board has not issued a final decision.
+- **(h)** *IG semiannual reports* Section 5(a)(20) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
+  - **(1)** in subparagraph (A), by striking “and” at the end;
+  - **(2)** in subparagraph (B), by striking the semicolon at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(C)** the number of instances in which the Office did not make a determination regarding whether there were reasonable grounds to believe that a prohibited personnel practice had occurred, existed, or was to be taken within 240 days after receiving a whistleblower retaliation complaint;
 
 ## § 4. Classifying certain furloughs as adverse personnel actions
 
@@ -183,3 +194,11 @@ Title 5, United States Code, is amended—
 - **(5)** in section 7515(a)(2), by striking “paragraph (8), (9), or (14) of section 2302(b)” and inserting “paragraph (8), (9), (13), or (14) of section 2302(b) or section 2302(g)”;
 - **(6)** in section 7701(c)(2)(B), by inserting “or section 2302(g)” after “section 2302(b)”; and
 - **(7)** in section 7703(b)(1)(B), by striking “section 2302(b)(8), or 2302(b)(9)(A)(i), (B), (C), or (D)” and inserting “section 2302(b)(8), section 2302(b)(9)(A)(i), (B), (C), (D), or (E), section 2302(b)(13), or section 2302(g)”.
+
+## § 7. Inspector General whistleblower information collection systems
+
+- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Inspector General of each Federal agency and each designated Federal entity (as those terms are defined in sections 12(5) and 8G, respectively, of the Inspector General Act of 1978) shall establish and thereafter maintain a mechanism for the inspector general to receive anonymous whistleblower information (including fraud, waste, and abuse).
+- **(b)** *Requirements*
+  - **(1)** *Anonymity* Any whistleblower mechanism established under subsection (a) by an inspector general shall maintain total anonymity for any individual who submits information through such mechanism.
+  - **(2)** *Acceptable systems* In order to maintain anonymity, any such mechanism may not include the use of any computer or telephone systems in collecting such information, but may include the use of the United States mail, physical receptacles for receiving information, or any other system that can assure anonymity.
+  - **(3)** *Rule of construction* Nothing in this section shall be construed to limit or otherwise prohibit an inspector general from using computer or telephone systems when carrying out any other program, project, or activity not authorized by this section.
