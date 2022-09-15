@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5865
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5865
@@ -71,3 +71,4 @@ To designate the facility of the United States Postal Service located at 4110 Bl
 - 2022-09-14 — Passed/agreed to in House: Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205.
 - 2022-09-14 — Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205. (consideration: CR H7814-7822; text: CR H7821)
 - 2022-09-14 — Pursuant to the provisions of H. Res. 1339, proceedings on H.R. 5865 are considered vacated.
+- 2022-09-15 — Received in the Senate, read twice.
