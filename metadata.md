@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4330
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4330
@@ -40,3 +40,9 @@ PRESS Act
 - 2022-06-07 — Placed on the Union Calendar, Calendar No. 268.
 - 2022-06-07 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-354.
 - 2022-06-07 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-354.
+- 2022-09-19 — Considered under suspension of the rules. (consideration: CR H7927-7930)
+- 2022-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4330.
+- 2022-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-19 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
+- 2022-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7927-7928)
+- 2022-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
