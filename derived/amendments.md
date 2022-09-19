@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7566
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 20 U.S.C. § 1001
+
+> in subsection (b), by striking “individual who has not attained the age of 18 years” and inserting “minor”; and
+
+| | |
+|---|---|
+| Removed | `individual who has not attained the age of 18 years` |
+| Inserted | `minor` |
 
 ## Stated, not applied
 
@@ -31,5 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1001` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
