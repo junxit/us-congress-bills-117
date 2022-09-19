@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stop Human Trafficking in School Zones Act”.
+This Act may be cited as the “No Trafficking Zones Act” or the “NTZ Act”.
 
 ## § 2. Findings
 
@@ -33,5 +33,26 @@ Section 1591 of title 18, United States Code, is amended—
 - **(1)** by redesignating subsection (e) as subsection (f); and
 - **(2)** by inserting after subsection (d) the following:
   > - **(e)**
-  >   - **(1)** Whoever violates subsection (a) in a school zone (as such term is defined in section 921), or on, or within 1,000 feet of, a premises on which a school-sponsored activity is taking place, shall, in addition the punishment otherwise provided under this section, be imprisoned for not more than 5 years.
-  >   - **(2)** In this subsection, the term “school-sponsored activity” means any activity that is produced, financed, arranged, supervised or coordinated by a school, district personnel, or State or local educational agency or is under the jurisdiction of a State or local educational agency.
+  >   - **(1)** Whoever violates subsection (a) in a school zone, or on, or within 1,000 feet of, a premises on which a school-sponsored activity is taking place, or on, or within 1,000 feet of a premises owned by an institution of higher education, shall, in addition to the punishment otherwise provided under this section, be imprisoned for not more than 5 years.
+  >   - **(2)** In this subsection:
+  >     - **(A)** The term “school zone” has the meaning given such term in section 921.
+  >     - **(B)** The term “school-sponsored activity” means any activity that is produced, financed, arranged, supervised, or coordinated by a school or a State educational agency or local educational agency or is under the jurisdiction of a State educational agency or local educational agency.
+  >     - **(C)** The terms “State educational agency” and “local educational agency” have the meanings given those terms under section 8101 of the Elementary and Secondary Education Act of 1965.
+  >     - **(D)** The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+## § 4. Increased punishment for coercion and enticement in school zones
+
+Section 2422 of title 18, United States Code, is amended—
+
+- **(1)** in subsection (b), by striking “individual who has not attained the age of 18 years” and inserting “minor”; and
+- **(2)** by adding at the end the following:
+  > - **(c)**
+  >   - **(1)** Whoever violates subsection (a) or (b) knowing, or having reasonable cause to believe, that the violation is committed against a minor who is enrolled in school and is, at the time of the violation, in a school zone or on, or within 1,000 feet of, a premises on which a school-sponsored activity is taking place, or against a person who is enrolled in an institution of higher education and is, at the time of the violation on or within 1,000 feet of a premises owned by the institution of higher education, shall, in addition to the punishment otherwise provided under this section, be imprisoned for not more than 5 years.
+  >   - **(2)** Paragraph (1) shall not apply in a case in which a minor’s presence on, or within 1,000 feet of, the premises on which a school-sponsored activity is taking place is not related to such school-sponsored activity, or the person’s presence on or within 1,000 feet of the premises owned by the institution of higher education is not related to their enrollment at such institution.
+  > - **(d)** In this section:
+  >   - **(1)** The term “minor” means an individual who has not attained 18 years of age.
+  >   - **(2)** The term “school” means a public, parochial, or private school that provides elementary or secondary education.
+  >   - **(3)** The term “school zone” has the meaning given such term in section 921.
+  >   - **(4)** The term “school-sponsored activity” means any activity that is produced, financed, arranged, supervised, or coordinated by a school or a State educational agency or local educational agency or is under the jurisdiction of a State educational agency or local educational agency.
+  >   - **(5)** The terms “State educational agency” and “local educational agency” have the meanings given those terms under section 8101 of the Elementary and Secondary Education Act of 1965.
+  >   - **(6)** The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
