@@ -18,9 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Section 3 of the Peace Corps Act (22 U.S.C. 2502) is amended—
 
-- **(1)** in subsection (b)—
-  - **(A)** in paragraph (1), by striking “$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003” and inserting “$450,000,000 for each of fiscal years 2021 and 2022, $500,000,000 for fiscal year 2023, and $550,000,000 for fiscal year 2024”; and
-  - **(B)** in paragraph (2), by striking “that fiscal year and the subsequent fiscal year” and inserting “obligation and expenditure through the end of the subsequent fiscal year”;
+- **(1)** in subsection (b)(1), by striking “$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003” and inserting “$430,500,000 for each of fiscal years 2023 and 2024”;
 - **(2)** by redesignating subsection (h) as subsection (e); and
 - **(3)** by adding at the end the following new subsection:
   > - **(f)** In recognition of the transformative power of internet access in international development efforts, and, as exemplified by its virtual service pilot initiative, the Peace Corps shall be administered to—
@@ -272,7 +270,7 @@ The Peace Corps Act (22 U.S.C. 2501 et seq.) is amended—
   - **(2)** *Elements* The report required by paragraph (1) shall include the following:
     - **(A)** Information relating to examinations, counseling, and other mental health care services provided by the Peace Corps to returned volunteers in the six months following the end of the term of service of such volunteers.
     - **(B)** Recommendations relating to—
-      - **(i)** better protection of patient confidentially for returned Peace Corps volunteers for mental health care services;
+      - **(i)** better protection of patient confidentiality for returned Peace Corps volunteers for mental health care services;
       - **(ii)** improved access to mental health providers that will accept payment from the Peace Corps; and
       - **(iii)** whether such mental health care services for returned volunteers would be better provided under the Short-term Health Insurance For Transition and Travel (SHIFTT) plan or a similar commercially available insurance plan to be paid for by the Peace Corps.
 - **(c)** *Report on mental health evaluation standards* Not later than one year after the date of the enactment of this Act, the Director of the Peace Corps shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the guidelines and standards used to evaluate the mental health of Peace Corps applicants prior to service. Such report shall include—
@@ -291,12 +289,17 @@ The Peace Corps Act (22 U.S.C. 2501 et seq.) is amended—
     > - **(d)** *Reports* On an annual basis for the duration of its mandate, the Council shall submit to the Director, the Committee on Foreign Relations and the Committee on Appropriations of the Senate, and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on its findings based on the reviews conducted pursuant to subsection (c) and shall include relevant recommendations. Such reports shall be made publicly available.
 
   - **(2)** in subsection (g), by striking “October 1, 2023” and inserting “October 1, 2025”.
+- **(f)** *Report on Pacific Islands region* Not later than 180 days after the date of the enactment of this Act, the Director of the Peace Corps shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on—
+  - **(1)** the presence of the Peace Corps in the Pacific Islands region; and
+  - **(2)** a strategy to expand such presence, as practicable, including—
+    - **(A)** outcomes of consultations with regional allies and partners on areas in which cooperation can reduce factors limiting Peace Corps expansion; and
+    - **(B)** timelines for expanding and reopening country programs in the Pacific Islands region.
 
 ## § 16. Workers compensation for Peace Corps volunteers
 
 - **(a)** *In general* Section 8142 of title 5, United States Code, is amended—
   - **(1)** in subsection (c)—
-    - **(A)** in paragraph (1), by striking “GS–7” and inserting “GS–11”;
+    - **(A)** in paragraph (1), by striking “GS–7” and inserting “GS–7, step 5”;
     - **(B)** by striking paragraph (2); and
     - **(C)** by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and
   - **(2)** in subsection (d)(1), by striking “subsection (c)(3)” and inserting “subsection (c)(2)”.
@@ -353,7 +356,7 @@ The Peace Corps Act (22 U.S.C. 2501 et seq.) is amended—
 - **(13)** in section 23, by striking “Universal Military Training and Service Act” and inserting “Military Selective Service Act (50 U.S.C. 3801 et seq.)”;
 - **(14)** in section 24, by striking—
   - **(A)** “his” and inserting “the volunteer’s”; and
-  - **(B)** “he” each place it appears and inserting “the volunteer”; and
+  - **(B)** “he” each place it appears and inserting “the volunteer”;
 - **(15)** in section 26 (as amended by section 13 of this Act)—
   - **(A)** in paragraph (4), by striking “which he or she” and inserting “which the medical officer”;
   - **(B)** by further redesignating paragraphs (2) through (9) (as so redesignated by section 13) as paragraphs (3) through (10), respectively;
@@ -363,4 +366,12 @@ The Peace Corps Act (22 U.S.C. 2501 et seq.) is amended—
   - **(D)** in paragraph (7), as so redesignated, by striking “5(m)” and inserting “5(n)”; and
   - **(E)** in paragraph (10), as so redesignated—
     - **(i)** by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving such subparagraphs, as so redesignated, 2 ems to the left; and
-    - **(ii)** in subparagraph (A), as so redesignated, by striking “section 5(f)” and inserting “section 5(e)”.
+    - **(ii)** in subparagraph (A), as so redesignated, by striking “section 5(f)” and inserting “section 5(e)”; and
+- **(16)** in section 301, by striking “Sec. 301. (a) The Congress” and inserting the following:
+  > ## § 301. Voluntary Service Programs
+  >
+  > - **(a)** The Congress
+
+## § 18. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

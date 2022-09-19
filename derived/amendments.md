@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1456
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-108 amendatory instructions. 58 executed, 50 stated and not applied.
+108 amendatory instructions. 57 executed, 51 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 2502
 
-> in paragraph (1), by striking “$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003” and inserting “$450,000,000 for each of fiscal years 2021 and 2022, $500,000,000 for fiscal year 2023, and $550,000,000 for fiscal year 2024”; and
+> in subsection (b)(1), by striking “$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003” and inserting “$430,500,000 for each of fiscal years 2023 and 2024”;
 
 | | |
 |---|---|
 | Removed | `$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003` |
-| Inserted | `$450,000,000 for each of fiscal years 2021 and 2022, $500,000,000 for fiscal year 2023, and $550,000,000 for fiscal year 2024` |
-
-### 22 U.S.C. § 2502
-
-> in paragraph (2), by striking “that fiscal year and the subsequent fiscal year” and inserting “obligation and expenditure through the end of the subsequent fiscal year”;
-
-| | |
-|---|---|
-| Removed | `that fiscal year and the subsequent fiscal year` |
-| Inserted | `obligation and expenditure through the end of the subsequent fiscal year` |
+| Inserted | `$430,500,000 for each of fiscal years 2023 and 2024` |
 
 ### 22 U.S.C. § 2504
 
@@ -539,7 +530,7 @@ to guess them.
 
 ### 22 U.S.C. § 2501
 
-> in subparagraph (A), as so redesignated, by striking “section 5(f)” and inserting “section 5(e)”.
+> in subparagraph (A), as so redesignated, by striking “section 5(f)” and inserting “section 5(e)”; and
 
 | | |
 |---|---|
@@ -594,7 +585,7 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1101` | redesignate | by redesignating paragraphs (5) through (8) as paragraphs (6) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2507d` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in paragraph (1), by striking “GS–7” and inserting “GS–11”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “GS–7” and inserting “GS–7, step 5”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(1), by striking “subsection (c)(3)” and inserting “subsection (c)(2)”. | the bill names no machine-readable US Code section |
@@ -605,3 +596,4 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2501` | strike | in section 24, by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2501` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2501` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving such subparagraphs, as so redesignated, 2 ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2501` | replace | in section 301, by striking “Sec. 301. (a) The Congress” and inserting the following: | the bill quotes the text struck but describes what replaces it |
