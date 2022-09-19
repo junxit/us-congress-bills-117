@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4009
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Georgetown Waterfront Enslaved Voyages Memorial Act”.
+This Act may be cited as the “Enslaved Voyages Memorial Act”.
 
 ## § 2. Authorization to establish commemorative work
 
-- **(a)** *In general* The Georgetown African American Historic Landmark Project and Tour may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the enslaved individuals, whose identities may be known or unknown, who disembarked at Georgetown Waterfront after enduring the Middle Passage.
+- **(a)** *In general* The Georgetown African American Historic Landmark Project and Tour may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the enslaved individuals, whose identities may be known or unknown, who endured the Middle Passage.
 - **(b)** *Compliance with standards for commemorative works* The establishment of the commemorative work under this section shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
 - **(c)** *Prohibition on the use of Federal funds*
   - **(1)** *In general* Federal funds may not be used to pay any expense of the establishment of the commemorative work under this section.
