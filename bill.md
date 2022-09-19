@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 820
 
-> To establish the New Philadelphia National Historic Site in the State of Illinois as a unit of the National Park System, and for other purposes.
+> To establish the New Philadelphia National Historical Park in the State of Illinois as a unit of the National Park System, and for other purposes.
 
 ## § 1. Short title
 
