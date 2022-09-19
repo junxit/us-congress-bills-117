@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8907
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8907
+
+> To amend the Violent Crime Control and Law Enforcement Act of 1994, to reauthorize the Missing Americans Alert Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Kevin and Avonte's Law Reauthorization Act of 2022”.
+
+## § 2. Reauthorization of the Missing Americans Alert Program
+
+Section 240001(d) of the Violent Crime Control and Law Enforcement Act of 1994 (34 U.S.C. 12621(d)) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
