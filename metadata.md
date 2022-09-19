@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 302
@@ -35,9 +35,10 @@ PPSA Act of 2021
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 - Rep. Doyle, Michael F. [D-PA-18] (D000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ PPSA Act of 2021
 - 2022-09-15 — Rule provides for consideration of H.R. 302, H.R. 2988 and H.R. 8326. Rule provides for one hour of general debate each for H.R. 302, H.R. 2988, and H.R. 8326. Rule also provides for one motion to recommit on each bill.
 - 2022-09-15 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2022-09-15 — The previous question was ordered pursuant to the rule.
+- 2022-09-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
