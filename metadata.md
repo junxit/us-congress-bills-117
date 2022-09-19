@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1456
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1456
@@ -156,3 +156,11 @@ Peace Corps Reauthorization Act of 2022
 - 2022-09-09 — Placed on the Union Calendar, Calendar No. 354.
 - 2022-09-09 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-457, Part I.
 - 2022-09-09 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 117-457, Part I.
+- 2022-09-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-19 — Considered as unfinished business. (consideration: CR H7946-7947)
+- 2022-09-19 — Considered under suspension of the rules. (consideration: CR H7886-7893)
+- 2022-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1456.
+- 2022-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-19 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
+- 2022-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 125 (Roll no. 440). (text: CR H7886-7891)
+- 2022-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 125 (Roll no. 440).(text: CR H7886-7891)
