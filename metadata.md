@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2988
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2988
@@ -48,9 +48,10 @@ Whistleblower Protection Improvement Act of 2021
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Whistleblower Protection Improvement Act of 2021
 - 2022-09-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2988.
 - 2022-09-15 — The previous question was ordered pursuant to the rule.
 - 2022-09-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to an amendment, which had been debated earlier and on which further proceedings had been postponed.
+- 2022-09-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
