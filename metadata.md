@@ -1,7 +1,7 @@
 ---
 measure: H.R. 884
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 884
@@ -32,9 +32,10 @@ National Aviation Preparedness Plan Act of 2022
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,5 @@ National Aviation Preparedness Plan Act of 2022
 - 2022-09-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 133 (Roll no. 427). (text: 9/13/2022 CR H7752-7753)
 - 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 133 (Roll no. 427).
+- 2022-09-15 — Received in the Senate.
+- 2022-09-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
