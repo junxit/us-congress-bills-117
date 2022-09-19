@@ -1,7 +1,7 @@
 ---
 measure: S. 1198
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,11 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 63 of title 38, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | insert | by inserting before section 6301 the following: | the bill names no machine-readable US Code section |
-| — | replace | in sections 6301, 6303, 6304, 6305, 6306, and 6307, by striking “this chapter” each place it appears and inserting “this subchapter”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the item relating to section 6301 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new items: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 63 of title 38, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
 | — | insert | by inserting before section 6301 the following: | the bill names no machine-readable US Code section |
 | — | replace | in sections 6301, 6303, 6304, 6305, 6306, and 6307, by striking “this chapter” each place it appears and inserting “this subchapter”. | the bill names no machine-readable US Code section |

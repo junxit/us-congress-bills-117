@@ -1,7 +1,7 @@
 ---
 measure: S. 1198
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1198
@@ -37,3 +37,23 @@ Solid Start Act of 2022
 - 2022-08-04 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2022-08-04 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2022-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 478.
+- 2022-09-08 — Message on Senate action sent to the House.
+- 2022-09-08 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4519; text: CR S4519)
+- 2022-09-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2022-09-09 — Held at the desk.
+- 2022-09-09 — Received in the House.
+- 2022-09-15 — Senate requests return of papers with respect to S. 1198 by Unanimous Consent.
+- 2022-09-19 — Amendment SA 5505 proposed by Senator Schumer for Senator Tester. (consideration: CR S4812; text: CR S4812) In the nature of a substitute.
+- 2022-09-19 — Amendment SA 5505, under the order of 9/15/22, agreed to in Senate by Unanimous Consent.
+- 2022-09-19 — Measure laid before Senate by unanimous consent. (consideration: CR S4812)
+- 2022-09-19 — Message on Senate action sent to the House.
+- 2022-09-19 — Papers returned to Senate
+- 2022-09-19 — Passed Senate, under the order of 9/15/22, with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4812)
+- 2022-09-19 — Passed/agreed to in Senate: Passed Senate, under the order of 9/15/22, with an amendment by Unanimous Consent.
+- 2022-09-19 — Senate amendment agreed to: Amendment SA 5505, under the order of 9/15/22, agreed to in Senate by Unanimous Consent.
+- 2022-09-19 — Senate amendment proposed (on the floor): Amendment SA 5505 proposed by Senator Schumer for Senator Tester.
+- 2022-09-19 — Senate amendment submitted
+- 2022-09-19 — Senate request return of papers
+- 2022-09-19 — Senate vitiated previous passage, under the order of 9/15/22. (CR S4812)
+- 2022-09-19 — The committee substitute, under the order of 9/15/22, withdrawn by Unanimous Consent.
+- 2022-09-19 — UNANIMOUS CONSENT REQUEST RETURN OF PAPERS - That the Secretary of the Senate be directed to request the House of Representatives to return to the Senate the bill (S. 1198) entitled "An Act to amend title 38, United States Code, to improve and expand the Solid State program of the Department of Veterans Affairs, and for other purposes. Agreed to without objection.
