@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7698
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7698
@@ -16,7 +16,7 @@ To designate the outpatient clinic of the Department of Veterans Affairs in Vent
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Cosponsors (51)
+## Cosponsors (52)
 
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
@@ -69,6 +69,7 @@ To designate the outpatient clinic of the Department of Veterans Affairs in Vent
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
+- Rep. Conway, Connie [R-CA-22] (C001128)
 
 ## Committees (1)
 
@@ -79,3 +80,10 @@ To designate the outpatient clinic of the Department of Veterans Affairs in Vent
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Referred to the House Committee on Veterans' Affairs.
+- 2022-06-07 — Referred to the Subcommittee on Health.
+- 2022-09-19 — Considered under suspension of the rules. (consideration: CR H7940-7942)
+- 2022-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7698.
+- 2022-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-19 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2022-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7940)
+- 2022-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
