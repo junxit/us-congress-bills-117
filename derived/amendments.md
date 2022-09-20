@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6734
 congress: 117
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 16 U.S.C. § 742f
 
-> Section 7(g) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f) is amended by striking “2018 through 2022” and inserting “2022 through 2026”.
+> Section 7(g) of the Fish and Wildlife Act of 1956 (16 U.S.C. 742f) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
 
 | | |
 |---|---|
 | Removed | `2018 through 2022` |
-| Inserted | `2022 through 2026` |
+| Inserted | `2023 through 2027` |
