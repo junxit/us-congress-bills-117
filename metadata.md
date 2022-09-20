@@ -1,7 +1,7 @@
 ---
 measure: S. 4254
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4254
@@ -16,7 +16,7 @@ Disclosing Foreign Influence in Lobbying Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Sasse, Ben [R-NE] (S001197)
@@ -24,6 +24,7 @@ Disclosing Foreign Influence in Lobbying Act
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -33,3 +34,7 @@ Disclosing Foreign Influence in Lobbying Act
 
 - 2022-05-18 — Introduced in Senate
 - 2022-05-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-09-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-150.
+- 2022-09-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-150.
+- 2022-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 491.
