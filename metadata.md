@@ -1,7 +1,7 @@
 ---
 measure: S. 3884
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3884
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2022-04-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-04-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 327.
+- 2022-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4876; text: CR S4876)
+- 2022-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
