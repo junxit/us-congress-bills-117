@@ -24,14 +24,14 @@ It is the sense of Congress that—
 
 ## § 3. Report on untrusted telecommunications equipment or services in countries with collective defense agreement with United States
 
-- **(a)** *Report* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for two years, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the prevalence of untrusted telecommunications equipment or services in the networks of United States allies and partners.
+- **(a)** *Report* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for two years, the Secretary of State, in consultation with the Assistant Secretary of Commerce for Communications and Information, shall submit to the Committees on Foreign Affairs and Energy and Commerce of the House of Representatives and the Committees on Foreign Relations and Commerce, Science, and Transportation of the Senate a report on the prevalence of untrusted telecommunications equipment or services in the networks of United States allies and partners.
 - **(b)** *Matters* The report under subsection (a) shall enumerate each United States ally or partner with respect to which the United States has entered into a collective defense agreement and include, for each such country, the following:
   - **(1)** A description of the presence, or lack thereof, of untrusted telecommunications equipment or services in any 5G network of the country.
   - **(2)** If any untrusted telecommunications equipment or service is present in such a network—
     - **(A)** an enumeration of any mobile carriers that are using the untrusted telecommunications equipment or service present, and any mobile carriers that are not;
     - **(B)** a determination of whether the untrusted telecommunications equipment or service present is in the core or periphery of the network; and
-    - **(C)** any plans to rip and replace the untrusted telecommunications equipment or service present with a trusted telecommunications equipment or service.
-  - **(3)** A description of any plans by network operators to use untrusted telecommunications equipment or services in the deployment of Open Radio Access Network (Open RAN) technology, or any successor to such technology, or in future 6G networks.
+    - **(C)** any plans by the United States ally or partner, or the individual mobile carrier, to rip and replace the untrusted telecommunications equipment or service present with a trusted telecommunications equipment or service.
+  - **(3)** A description of any plans by network operators to use untrusted communications equipment or services in the deployment of Open Radio Access Network (Open RAN) technology, or any successor to such technology, or in future 6G networks.
 
 ## § 4. Report on covered telecommunications equipment or services in United States embassies
 
@@ -47,12 +47,12 @@ It is the sense of Congress that—
       - **(iii)** information on any waivers that have been granted to an entity under subsection (d) of such section 889 for equipment, systems, or services used at United States embassies, including a justification of why each waiver was granted and any other information required pursuant to paragraph (1)(B) of such subsection; and
       - **(iv)** for any entity that has sought a waiver specified in clause (iii), the implementation status of the phase-out plan of the entity submitted by the entity pursuant to subsection (d) of such section 889.
     - **(B)** Information regarding the extent to which the digital devices of United States embassy staff and personnel are serviced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of either such entity), or any other entity headquartered in the People’s Republic of China, and an assessment of the likelihood of the intelligence services of the People’s Republic of China gaining access to the contents and data of the digital devices used by United States embassy personnel as a result of any such servicing.
-    - **(C)** Any other information regarding ongoing efforts to safeguard the telecommunications security of United States embassies.
+    - **(C)** Any other information regarding ongoing efforts to safeguard the communications security of United States embassies.
   - **(3)** *Form* The report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
 ## § 5. Supporting trusted telecommunications
 
-- **(a)** *In general* The Secretary of State shall select for the provision of support under this section telecommunications infrastructure projects that have the potential, as determined by the Secretary, to promote the national security of the United States and meet such other requirements as the Secretary may prescribe.
+- **(a)** *In general* The Secretary of State, in consultation with the Assistant Secretary of Commerce for Communications and Information, shall select for the provision of support under this section telecommunications infrastructure projects that have the potential, as determined by the Secretary, to promote the national security of the United States and meet such other requirements as the Secretary may prescribe.
 - **(b)** *Diplomatic and political support* The Secretary of State shall provide to each project selected under subsection (a), as appropriate, diplomatic and political support, including by using the diplomatic and political influence and expertise of the Department of State to build the capacity of countries to resolve any impediments to the development of the project.
 - **(c)** *Early stage project support* The Director of the United States Trade and Development Agency should provide, as appropriate, early-stage project support with respect to projects selected under subsection (a).
 
@@ -70,10 +70,10 @@ It is the sense of Congress that—
   >   - **(4)** *Public disclosure of information* Upon receiving a notice under paragraph (3) that an annual or quarterly report includes a disclosure of an activity described in paragraph (1), the Commission shall promptly—
   >     - **(A)** transmit the report to—
   >       - **(i)** the President;
-  >       - **(ii)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
-  >       - **(iii)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+  >       - **(ii)** the Committees on Foreign Affairs, Energy and Commerce, and Financial Services of the House of Representatives; and
+  >       - **(iii)** the Committees on Foreign Relations, Commerce, Science, and Transportation, and Banking, Housing, and Urban Affairs of the Senate; and
   >     - **(B)** make the information provided in the disclosure and the notice available to the public by posting the information on the Internet website of the Commission.
-  >   - **(5)** *Covered telecommunications equipment or service defined* In this subsection, the term “covered telecommunications equipment or service” has the meaning given that term under section 7 of the Countering Untrusted Telecommunications Abroad Act.
+  >   - **(5)** *Covered telecommunications equipment or service defined* In this subsection, the term “covered telecommunications equipment or service” has the meaning given to the term “covered communications equipment or service” in section 9 of the Secure and Trusted Communications Network Act of 2019 (47 U.S.C. 1608).
 
 - **(b)** *Effective date* The amendment made by subsection (a) shall take effect with respect to reports required to be filed with the Securities and Exchange Commission after the date that is 180 days after the date of the enactment of this Act.
 
@@ -81,10 +81,5 @@ It is the sense of Congress that—
 
 In this Act:
 
-- **(1)** *Covered telecommunications equipment or service; untrusted telecommunications equipment or service* The terms “covered telecommunications equipment or service” and “untrusted telecommunications equipment or service” mean any telecommunications equipment or service produced or provided by any of the following:
-  - **(A)** Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of either such entity).
-  - **(B)** Any entity that the Secretary of State reasonably believes to be an entity owned or controlled by the People’s Republic of China or the Russian Federation.
-- **(2)** *Telecommunications equipment or service* The term “telecommunications equipment or service” means any of the following:
-  - **(A)** Hardware or software used by a telecommunications carrier or internet service provider.
-  - **(B)** Data storage or cloud computing services used by an issuer that is required to file an annual or quarterly report under section 13(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a)).
-- **(3)** *Trusted telecommunications equipment or service* The term “trusted telecommunications equipment or service” means any telecommunications equipment or service that is not a covered telecommunications equipment or service.
+- **(1)** *Covered telecommunications equipment or service; untrusted telecommunications equipment or service* The terms “covered telecommunications equipment or service” and “untrusted telecommunications equipment or service” have the meaning given to the term “covered communications equipment or service” in section 9 of the Secure and Trusted Communications Network Act of 2019 (47 U.S.C. 1608).
+- **(2)** *Trusted telecommunications equipment or service* The term “trusted telecommunications equipment or service” means any telecommunications equipment or service that is not a covered telecommunications equipment or service.
