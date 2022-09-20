@@ -25,69 +25,39 @@ It is the sense of Congress as follows:
 
 ## § 3. Strategy for securing global telecommunications infrastructure
 
-- **(a)** *Strategy required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall develop and submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a strategy, to be known as the “Strategy to Secure Global Telecommunications Infrastructure” (referred to in this Act as the “Strategy”), to promote the use of secure telecommunication infrastructure worldwide.
-- **(b)** *Consultation required* The Secretary of State shall consult with the President of the Export-Import Bank of the United States, the Chief Executive Officer of the Development Finance Corporation, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the Chair of the Federal Communications Commission, and the Secretary of Commerce, in developing the Strategy, which shall consist of an approach led by the Department of State using the policy tools, and informed by the technical expertise, of the other Federal entities so consulted to achieve the goal described in subsection (a).
+- **(a)** *Strategy required* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall develop and submit to the Committees on Foreign Affairs of the House of Representatives and Energy and Commerce and the Committees on Foreign Relations and Commerce, Science, and Transportation and of the Senate a strategy, to be known as the “Strategy to Secure Global Telecommunications Infrastructure” (referred to in this Act as the “Strategy”), to promote the use of secure telecommunication infrastructure in countries other than the United States.
+- **(b)** *Consultation required* The Secretary of State shall consult with the President of the Export-Import Bank of the United States, the Chief Executive Officer of the Development Finance Corporation, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the Chair of the Federal Communications Commission, and the Assistant Secretary of Commerce for Communications and Information, in developing the Strategy, which shall consist of an approach led by the Department of State using the policy tools, and informed by the technical expertise, of the other Federal entities so consulted to achieve the goal described in subsection (a).
 - **(c)** *Elements* The Strategy shall also include sections on each of the following:
-  - **(1)** Mobile networks, including a description of efforts to—
+  - **(1)** Mobile networks, including a description of efforts by countries other than the United States to—
     - **(A)** promote trusted Open RAN technologies while protecting against any security risks posed by untrusted vendors in Open RAN networks;
     - **(B)** use financing mechanisms to assist “rip-and-replace” projects and to incentivize countries to choose trusted equipment vendors;
-    - **(C)** bolster multilateral cooperation, especially with developing countries and emerging economies, to promote the deployment of trusted wireless networks worldwide;
-    - **(D)** collaborate with trusted private sector companies to counter Chinese market leadership in the telecom equipment industry; and
-    - **(E)** review the feasibility of using low-Earth orbit satellites as a way to provide internet access.
+    - **(C)** bolster multilateral cooperation, especially with developing countries and emerging economies, to promote the deployment of trusted wireless networks worldwide; and
+    - **(D)** collaborate with trusted private sector companies to counter Chinese market leadership in the telecom equipment industry.
   - **(2)** Data centers, including a description of efforts to—
-    - **(A)** collaborate with trusted private sector companies to counter the growing market share of untrusted Chinese companies and to maintain and promote United States market leadership in the cloud computing and data center businesses;
-    - **(B)** utilize financing mechanisms to incentivize countries to choose trusted data center providers; and
-    - **(C)** bolster multilateral cooperation, especially with developing countries and emerging economies, to promote the deployment of trusted data centers worldwide.
+    - **(A)** utilize financing mechanisms to incentivize countries other than the United States to choose trusted data center providers; and
+    - **(B)** bolster multilateral cooperation, especially with developing countries and emerging economies, to promote the deployment of trusted data centers worldwide.
   - **(3)** Sixth (and future) generation technologies (6G), including a description of efforts to—
-    - **(A)** promote United States leadership in 6G standards-setting processes;
-    - **(B)** deepen cooperation with like-minded countries to promote United States and allied market leadership in 6G networks and technologies; and
-    - **(C)** increase buy-in from developing countries and emerging countries on United States and allied 6G standards and trusted technologies.
-  - **(4)** Low-Earth orbit satellites, aerostats, and stratospheric balloons, including a description of efforts to—
-    - **(A)** develop the capabilities to rapidly deliver wireless internet anywhere on the planet; and
-    - **(B)** work with trusted private sector companies to retain the ability to quickly provide internet connection in response to emergency situations.
+    - **(A)** deepen cooperation with like-minded countries to promote United States and allied market leadership in 6G networks and technologies; and
+    - **(B)** increase buy-in from developing countries and emerging countries on trusted technologies.
+  - **(4)** Low-Earth orbit satellites, aerostats, and stratospheric balloons, including a description of efforts to work with trusted private sector companies to retain the ability to quickly provide internet connection in response to emergency situations.
 
-## § 4. International digital economic and telecommunication advisory committee
+## § 4. Report on malign influence at the International Telecommunication Union
 
-- **(a)** *In general* There is established in the Department of State an International Digital Economic and Telecommunication Advisory Committee (“IDET”).
-- **(b)** *Purpose* The IDET shall seek to advise the Secretary of State on the formulation of United States strategies, policies, positions, and proposals on policy matters relevant to digital economy, digital connectivity, economic aspects of emerging digital technologies, telecommunications, and communications and information policy. Such advice shall include matters related to United States participation in the International Telecommunication Union (ITU), the Inter-American Telecommunication Commission of the Organization of American States, the Organization for Economic Cooperation and Development, the Telecommunications and Information Working Group of the Asia Pacific Economic Cooperation Forum, the Group of Seven, the Digital Economy Task Force of the Goup of Twenty, and other relevant telecommunications standards-setting bodies.
-- **(c)** *Chair and membership*
-  - **(1)** *In general* The Secretary of State shall designate an employee of the Department of State to serve as the Chair of the IDET.
-  - **(2)** *Members* The Chair shall appoint not fewer than 20 members to the IDET who meet the qualifications listed in paragraph (3).
-  - **(3)** *Qualifications for members* Members of the IDET shall be appointed from among individuals who are citizens or legal permanent residents of the United States. To ensure diversity of advice, the IDET may not include more than one representative of any one particular United States organization during any period in which the IDET consists of 20 members or fewer. Together, the members should represent a balance of interests and diverse viewpoints and have substantial expertise addressing these policy issues, participating in United States preparatory activities for conferences and meetings of international organizations, and serving on United States delegations.
-  - **(4)** *Organizations represented* Members of the IDET shall include representatives of the following—
-    - **(A)** interested government agencies, whose representatives shall serve as ex officio members;
-    - **(B)** United States organizations, including associations and scientific or industrial organizations that are engaged in the study of telecommunications or in the design or manufacture of equipment intended for telecommunications services;
-    - **(C)** civil society;
-    - **(D)** academia; and
-    - **(E)** organizations, institutions, or entities with specific interest in digital economy, digital connectivity, economic aspects of digital technologies, and communications and information policy matters.
-  - **(5)** *Removal* The Chair may remove any member for any reason.
-- **(e)** *Subcommittees*
-  - **(1)** *Private sector subcommittee*
-    - **(A)** *Purpose* The Chair shall establish a permanent private sector subcommittee to provide the perspective and expertise of private industry so that an understanding of market forces, technical realities, bidding environments, and industry equities informs the recommendations of the IDET.
-    - **(B)** *Leadership* The Chair shall appoint a chair of the permanent subcommittee from among the members of the IDET.
-    - **(C)** *Membership* The subcommittee’s membership should represent the range of private sector entities in critical telecommunications infrastructure and technology.
-  - **(2)** *Authorization* The Chair may establish such other subcommittees as the Chair may determine appropriate to provide advice to the IDET on strategic planning and other communications and information policy issues. Such subcommittees shall provide advice only to the IDET and shall not provide advice directly to the Secretary of State.
-  - **(3)** *Membership* Membership of subcommittees shall not be limited to a prescribed number and may include more than one member from one agency or organization designated for the subcommittee.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated $250,000 to carry out this section.
-
-## § 5. Report on malign influence at the International Telecommunication Union
-
-- **(a)** *Report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall develop and submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on Russian and Chinese strategies and efforts—
+- **(a)** *Report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall develop and submit to the Committees on Foreign Affairs and Energy and Commerce of the House of Representatives and the Committees on Foreign Relations and Commerce, Science, and Transportation the Senate a report on Russian and Chinese strategies and efforts—
   - **(1)** to expand the mandate of the International Telecommunication Union (ITU) to cover internet governance policy; and
   - **(2)** to advance other actions favorable to authoritarian interests and/or hostile to fair, industry-led processes.
 - **(b)** *Elements* The report required by subsection (a) shall also identify efforts by China and Russia—
   - **(1)** to increase the ITU’s jurisdiction over internet governance and to propose internet governance standards at the ITU;
-  - **(2)** to leverage their private sectors to advance their national interests through the ITU, including—
+  - **(2)** to leverage their private sector actors to advance their national interests through the ITU, including—
     - **(A)** encouraging Chinese and Russian companies to leverage their market power to pressure other member countries to deliver favorable decisions on ITU elections; and
     - **(B)** China’s efforts to leverage Huawei’s role as the primary telecommunications equipment and services provider for many developing countries to compel such countries to deliver favorable decisions on standards proposals, election victories, candidate selection, and other levers of power at the ITU; and
   - **(3)** to use the influence of Chinese and Russian nationals serving in the ITU to advantage the companies, standards decisions, and candidates that advance the CCP and Kremlin’s interests.
 - **(c)** *Form* The report required by this section shall be submitted in unclassified form, but may include a classified annex.
 
-## § 6. Report on multilateral coordination
+## § 5. Report on multilateral coordination
 
-Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in coordination with the President of the Export-Import Bank of the United States, the Administrator for the United States Agency on International Development, and the Chief Executive Officer of the Development Finance Corporation, shall develop and submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report that identifies opportunities for greater collaboration with allies and partners to promote secure information and communications technology infrastructure, including through—
+Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in coordination with the President of the Export-Import Bank of the United States, the Administrator for the United States Agency on International Development, the Chief Executive Officer of the Development Finance Corporation, the Chair of the Federal Communications Commission, and the Assistant Secretary of Commerce for Communications and Information, shall develop and submit to the Committees on Foreign Affairs and Energy and Commerce and of the House of Representatives and the Committees Foreign Relations and on Commerce, Science, and Transportation and of the Senate a report that identifies opportunities for greater collaboration with allies and partners to promote secure information and communications technology infrastructure in countries other than the United States, including through—
 
 - **(1)** joint financing efforts to help trusted vendors win bids to build out information and communications technology (ICT) infrastructure;
-- **(2)** incorporating ICT focuses into allies’ and partners’ international development finance initiatives;
-- **(3)** establishing working groups focused on promoting trusted ICT in international standard-setting bodies; and
-- **(4)** diplomatic coordination to emphasize the importance of secure telecommunications infrastructure to countries using untrusted providers.
+- **(2)** incorporating ICT focuses into allies’ and partners’ international development finance initiatives; and
+- **(3)** diplomatic coordination to emphasize the importance of secure telecommunications infrastructure to countries using untrusted providers.
