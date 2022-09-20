@@ -1,7 +1,7 @@
 ---
 measure: S. 4553
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4553
@@ -32,3 +32,5 @@ Extension of Department of Homeland Security Other Transaction Authority Act of 
 - 2022-09-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-149.
 - 2022-09-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-149.
 - 2022-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.
+- 2022-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4877; text: CR S4877)
+- 2022-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
