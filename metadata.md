@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5641
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5641
@@ -56,3 +56,17 @@ Small Project Efficient and Effective Disaster Recovery Act
 - 2022-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
 - 2022-09-20 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4876-4877; text: CR S4877)
 - 2022-09-20 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2022-09-21 — Message on Senate action sent to the House.
+- 2022-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed. (text: CR H8168)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendments to H.R. 5641.
+- 2022-09-28 — Mr. Carson moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H8167-8168)
+- 2022-09-29 — Passed/agreed to in House: Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
+- 2022-09-29 — Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
+- 2022-09-29 — Pursuant to the provisions of H. Res. 1396, proceedings on H.R. 5641 are considered vacated.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-189.
+- 2022-10-10 — Became Public Law No: 117-189.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
+- 2022-11-17 — Star Print ordered on the reported bill.
