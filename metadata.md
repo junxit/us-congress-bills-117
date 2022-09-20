@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7181
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7181
@@ -34,10 +34,11 @@ Human Trafficking Prevention Act of 2022
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Judiciary Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Human Trafficking Prevention Act of 2022
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 371.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-477, Part I.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-477, Part I.
+- 2022-09-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
