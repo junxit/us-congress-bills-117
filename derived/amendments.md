@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7338
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2708` | add-at-end | Section 36(e)(6) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708(e)(6)) is amended by adding at the end the following new sentence: “Not later than 15 days before making a reward in a form that includes cryptocurren… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2708` | add-at-end | Subsection (e) of section 36 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

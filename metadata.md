@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7338
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7338
@@ -31,3 +31,13 @@ To require congressional notification prior to payments of Department of State r
 - 2022-03-31 — Introduced in House
 - 2022-03-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-03-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-04-05 — Committee Consideration and Mark-up Session Held.
+- 2022-04-05 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-09-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-19 — Considered under suspension of the rules. (consideration: CR H7904-7906)
+- 2022-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7338.
+- 2022-09-19 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
+- 2022-09-20 — Passed/agreed to in House: Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended.
+- 2022-09-20 — Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended. (consideration: CR H7984-7992; text: CR H7986-7987)
+- 2022-09-20 — Pursuant to the provisions of H. Res. 1361, proceedings on H.R. 7338 are considered vacated.
+- 2022-09-20 — The title of the measure was amended. Agreed to without objection.
