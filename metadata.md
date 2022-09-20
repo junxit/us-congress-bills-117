@@ -1,7 +1,7 @@
 ---
 measure: S. 3884
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3884
@@ -34,3 +34,18 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2022-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 327.
 - 2022-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4876; text: CR S4876)
 - 2022-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-21 — Held at the desk.
+- 2022-09-21 — Message on Senate action sent to the House.
+- 2022-09-21 — Received in the House.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8489)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on S. 3884.
+- 2022-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8489)
+- 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-11-28 — Presented to President.
+- 2022-11-28 — Presented to President.
+- 2022-12-02 — Became Public Law No: 117-218.
+- 2022-12-02 — Became Public Law No: 117-218.
+- 2022-12-02 — Signed by President.
+- 2022-12-02 — Signed by President.
