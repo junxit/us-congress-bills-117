@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5641
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5641
@@ -54,3 +54,5 @@ Small Project Efficient and Effective Disaster Recovery Act
 - 2022-09-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper for Senator Peters with amendments. With written report No. 117-145.
 - 2022-09-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper for Senator Peters with amendments. With written report No. 117-145.
 - 2022-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
+- 2022-09-20 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S4876-4877; text: CR S4877)
+- 2022-09-20 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
