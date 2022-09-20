@@ -1,7 +1,7 @@
 ---
 measure: S. 4552
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4552
@@ -28,3 +28,8 @@ Extension of Authority to Acquire Innovative Commercial Items Act of 2022
 
 - 2022-07-19 — Introduced in Senate
 - 2022-07-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4877; text: CR S4877)
+- 2022-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-09-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
