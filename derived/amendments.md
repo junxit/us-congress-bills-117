@@ -1,7 +1,7 @@
 ---
 measure: S. 4254
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in paragraph (6), by striking “and” at the end; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7), by striking “the offense.” and inserting the following: | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 1603` | strike | in paragraph (6), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 1603` | replace | in paragraph (7), by striking “the offense.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
