@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7618
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 7618
@@ -71,3 +71,4 @@ To designate the Kol Israel Foundation Holocaust Memorial in Bedford Heights, Oh
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 366.
 - 2022-09-19 — Reported by the Committee on Natural Resources. H. Rept. 117-470.
 - 2022-09-19 — Reported by the Committee on Natural Resources. H. Rept. 117-470.
+- 2022-09-20 — Received in the Senate.
