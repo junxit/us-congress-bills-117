@@ -1,7 +1,7 @@
 ---
 measure: H.R. 820
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 820
@@ -22,9 +22,10 @@ New Philadelphia National Historic Site Act
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ New Philadelphia National Historic Site Act
 - 2022-09-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-471.
 - 2022-09-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-471.
 - 2022-09-19 — The title of the measure was amended. Agreed to without objection.
+- 2022-09-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

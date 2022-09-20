@@ -2,12 +2,12 @@
 legis-num: H.R. 820
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 820
 
-> To establish the New Philadelphia National Historical Park in the State of Illinois as a unit of the National Park System, and for other purposes.
+> To establish the New Philadelphia National Historic Site in the State of Illinois as a unit of the National Park System, and for other purposes.
 
 ## § 1. Short title
 
