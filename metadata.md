@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6734
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6734
@@ -47,3 +47,4 @@ Keep America’s Refuges Operational Act of 2022
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 365.
 - 2022-09-19 — Reported by the Committee on Natural Resources. H. Rept. 117-469.
 - 2022-09-19 — Reported by the Committee on Natural Resources. H. Rept. 117-469.
+- 2022-09-20 — Received in the Senate.
