@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7698
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7698
@@ -88,3 +88,12 @@ To designate the outpatient clinic of the Department of Veterans Affairs in Vent
 - 2022-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7940)
 - 2022-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-09-20 — Received in the Senate, read twice.
+- 2022-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5164)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-11 — Became Public Law No: 117-199.
+- 2022-10-11 — Became Public Law No: 117-199.
+- 2022-10-11 — Signed by President.
+- 2022-10-11 — Signed by President.
