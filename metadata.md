@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1240
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1240
@@ -16,7 +16,7 @@ Requesting the President, and directing the Secretary of State, to transmit to t
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (13)
+## Cosponsors (17)
 
 - Rep. Tenney, Claudia [R-NY-22] (T000478)
 - Rep. Perry, Scott [R-PA-10] (P000605)
@@ -31,6 +31,10 @@ Requesting the President, and directing the Secretary of State, to transmit to t
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Barr, Andy [R-KY-6] (B001282)
 
 ## Committees (1)
 
@@ -41,3 +45,9 @@ Requesting the President, and directing the Secretary of State, to transmit to t
 - 2022-07-20 — Introduced in House
 - 2022-07-20 — Introduced in House
 - 2022-07-20 — Referred to the House Committee on Foreign Affairs.
+- 2022-09-14 — Committee Consideration and Mark-up Session Held.
+- 2022-09-15 — Committee Consideration and Mark-up Session Held.
+- 2022-09-15 — Ordered to be Reported Adversely (Amended) by the Yeas and Nays: 25 - 23.
+- 2022-09-20 — Placed on the House Calendar, Calendar No. 102.
+- 2022-09-20 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-480.
+- 2022-09-20 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-480.
