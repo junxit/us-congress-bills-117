@@ -1,7 +1,7 @@
 ---
 measure: S. 4899
 congress: 117
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 4899
