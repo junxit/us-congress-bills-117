@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7566
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7566
@@ -21,9 +21,10 @@ NTZ Act
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ NTZ Act
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 369.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-475.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-475.
+- 2022-09-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
