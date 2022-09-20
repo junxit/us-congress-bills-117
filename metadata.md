@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1456
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1456
@@ -164,3 +164,4 @@ Peace Corps Reauthorization Act of 2022
 - 2022-09-19 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
 - 2022-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 125 (Roll no. 440). (text: CR H7886-7891)
 - 2022-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 125 (Roll no. 440).(text: CR H7886-7891)
+- 2022-09-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.
