@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6353
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6353
@@ -24,9 +24,10 @@ National Service Animals Memorial Act
 - Rep. Levin, Mike [D-CA-49] (L000593)
 - Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ National Service Animals Memorial Act
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 364.
 - 2022-09-19 — Reported by the Committee on Natural Resources. H. Rept. 117-468.
 - 2022-09-19 — Reported by the Committee on Natural Resources. H. Rept. 117-468.
+- 2022-09-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
