@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3034
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3034
@@ -20,9 +20,10 @@ To amend title 28, United States Code, to provide an additional place for holdin
 
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend title 28, United States Code, to provide an additional place for holdin
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 370.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-476.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-476.
+- 2022-09-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
