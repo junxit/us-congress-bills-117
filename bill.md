@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 558
 congress: 117th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 558
@@ -12,33 +12,33 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas, in April 1983, a Hizballah terror attack against the United States Embassy in Beirut killed 63 people;
-- Whereas, in October 1983, a Hizballah terror attack against the United States and French barracks of the Multinational Force in Lebanon killed 241 American and 58 French soldiers;
-- Whereas, in July 2012, a Hizballah terror attack, carried out by an operative with French citizenship, in Burgas, Bulgaria, killed 5 Israeli tourists and 1 Bulgarian;
+- Whereas, in October 1983, a Hizballah terror attack against the United States Marine barracks in Beirut, Lebanon, killed 241 American and 58 French servicemembers supporting the Multinational Force peacekeeping mission;
+- Whereas, in July 2012, a Hizballah terror attack, carried out by an operative with dual Lebanese-French citizenship, in Burgas, Bulgaria, killed 5 Israeli tourists and 1 Bulgarian;
 - Whereas, in March 2013, a Swedish-Lebanese Hizballah operative in Cyprus was convicted of planning terror attacks against Israeli tourists;
 - Whereas, in June 2015, a Hizballah operative was sentenced to 6 years in prison after he stockpiled more than 8 tons of ammonium nitrate in Cyprus;
-- Whereas, in December 2015, the Hizballah International Financing Prevention Act of 2015 (Public Law 114–102) was signed into law in the United States, broadening financial sector sanctions against Hizballah to compel foreign financial institutions to refrain from supporting the terrorist group;
-- Whereas, in May 2018, the Department of the Treasury imposed sanctions on Mohammad Ibrahim Bazzi, a Hizballah financier, and blacklisted 5 of his companies, including Belgian energy services conglomerate Global Trading Group;
+- Whereas the Hizballah International Financing Prevention Act of 2015 (Public Law 114–102) and the Hizballah International Financing Prevention Amendments Act of 2018 (Public Law 115–272) broadened financial sector sanctions against Hizballah to compel foreign financial institutions to refrain from supporting the terrorist group;
+- Whereas, in May 2018, the Department of the Treasury imposed sanctions on Abdullah Safi-Al-Din, Hizballah’s representative to Iran, Mohammad Ibrahim Bazzi, a Hizballah financier, and blacklisted 5 of Bazzi’s companies, including Belgian energy services conglomerate Global Trading Group NV;
 - Whereas, in October 2018, French police raided the Islamic Zahra Centre on suspicion of supporting Hizballah, freezing the organization’s funds, and seizing illegal weapons;
-- Whereas, in September 2020, 4 former leaders of the Zahra Centre were arrested on suspicion of continuing to run the association;
-- Whereas, in July 2019, the Department of the Treasury listed 2 Hizballah-backed members of Lebanese Parliament, Amin Sherri and Mohammad Raad, to the terror blacklist, stating that Hizballah uses its parliamentary power to advance its violent activities;
-- Whereas, in April 2020, Germany investigated over 1,050 people with suspected links to Hizballah;
+- Whereas, in September 2020, 4 former leaders of the Zahra Centre France were arrested on suspicion of continuing to run the association;
+- Whereas, in July 2019, the Department of the Treasury designated 2 Hizballah-backed members of Lebanese Parliament, Amin Sherri and Muhammad Hasan Ra’d, and Hizballah security official Wafiq Safa, stating that Hizballah uses its operatives in parliament to advance its violent activities;
+- Whereas, as of April 2020, Germany believed there to be 1,050 people with suspected links to Hizballah in the country;
 - Whereas Europol’s June 2020 European Union Terrorism Situation and Trend Report outlined that Hizballah is “suspected of trafficking diamonds and drugs and of money laundering via the trade in second-hand cars”, and the report also stated that “investigations face the difficulty of demonstrating that the funds collected are channeled to the military wing of the organization”;
-- Whereas United States-led Operations Cassandra and Cedar exposed the criminal-business wing of Hizballah via the External Security Organization Business Affairs Component (BAC);
-- Whereas, during Operation Cassandra, Hizballah elements involved in drug trafficking were arrested in the United States, South America, and several European countries, including France, Belgium, Germany, and Italy;
-- Whereas Hizballah’s criminal activity in Europe is run by the BAC, which reports to the External Security Or­ga­ni­sa­tion, a.k.a. Unit 910, or the Islamic Jihad Organization (IJO), and Abdallah Safieddine, Hizballah’s representative in Iran, is also involved in this activity;
+- Whereas United States-led Project Cassandra and Operation Cedar exposed the criminal-business wing of Hizballah, the Business Affairs Component (BAC) of Hezbollah’s External Security Organization;
+- Whereas, during Project Cassandra, Hizballah elements involved in drug trafficking were arrested in the United States, South America, and several European countries, including France, Belgium, Germany, and Italy;
+- Whereas Hizballah’s criminal activity in Europe is run by the BAC, which reports to the External Security Organisation, also known as Unit 910, or the Islamic Jihad Organization, and Abdallah Safieddine, Hizballah’s representative in Iran, is also involved in this activity;
 - Whereas, in August 2020, United Nations Secretary General Guterres called on Lebanon to disarm Hizballah, citing the terror group’s persistent violation of Resolution 1701 (2006);
 - Whereas Iran is the prime sponsor of Hizballah, harboring, financing, training, and arming the group;
 - Whereas the Department of the Treasury and Department of State estimate that Iran provides as much as $700,000,000 per year to Hizballah in the form of financial and logistical support, weapons, and training;
 - Whereas Hizballah now has an arsenal of approximately 150,000 missiles and rockets, many of which can reach deep into Israel;
 - Whereas Hizballah fighters have been supporting the Assad regime in Syria, often leading operations in the conflict which has left more than 500,000 dead;
-- Whereas Hizballah’s destabilizing actions in Syria has fueled a migrant crisis that has brought over 700,000 refugees to Europe;
-- Whereas Hizballah trains and provides weapons for Shiite militias in Iraq and Yemen, further destabilizing the region and perpetuating violence in those countries;
+- Whereas Hizballah’s destabilizing actions in Syria have contributed to a migrant crisis that has brought over 700,000 refugees to Europe;
+- Whereas Hizballah trains and provides weapons for militias in Iraq and Yemen, further destabilizing the region and perpetuating violence in those countries;
 - Whereas Hizballah activities continue to plague Lebanon with profound economic and political instability and violence;
-- Whereas, in August 2020, 200 Lebanese people died when a massive stockpile of ammonium nitrate exploded in Beirut’s port;
-- Whereas the Lebanese Armed Forces, the legitimate security establishment of the country as outlined in United Nations Security Council Resolution 1701 (2006), are struggling to control the flow of weapons and Hizballah fighters at Lebanon’s borders;
+- Whereas, in August 2020, at least 220 people died and thousands more were injured when a massive stockpile of ammonium nitrate exploded in Beirut’s port;
+- Whereas Hizballah’s cross border illicit arms and drugs trafficking undermines the Lebanese Armed Forces, the legitimate security establishment of the country as outlined in United Nations Security Council Resolution 1701 (2006);
 - Whereas, in October 2012, Hizballah Deputy Secretary General Naim Qassem stated that “[Hizballah does not] have a military wing and a political one … Every element of Hizballah, from commanders to members as well as our various capabilities, are in the service of the resistance”;
-- Whereas, as of March 2021, the United States, Germany, the United Kingdom, the Netherlands, Estonia, Latvia, Lithuania, Slovenia, Serbia, and Kosovo have designated Hizballah in its entirety as a terror organization;
-- Whereas, in March 2016, the Gulf Cooperation Council, the bloc of 6 Gulf Arab nations, formally branded Hizballah, in its entirety, a terrorist organization, and the League of Arab States shortly thereafter adopted the same designation;
+- Whereas the United States, Germany, the United Kingdom, the Netherlands, Estonia, Latvia, Lithuania, Slovenia, Serbia, and Kosovo, among others, have designated Hizballah in its entirety as a terror organization;
+- Whereas, in March 2016, the Gulf Cooperation Council formally branded Hizballah, in its entirety, a terrorist organization, and the League of Arab States shortly thereafter adopted the same designation;
 - Whereas the Department of the Treasury has diligently added persons and entities to the list of Specially Designated Global Terrorists who have provided material support to the Hizballah terrorist organization, thereby hampering its financing and logistical capabilities;
 - Whereas the European Union, in July 2013, designated Hizballah’s so-called “military wing”, but not the organization as a whole, as a terrorist organization;
 - Whereas, despite restrictions put on Hizballah since the designation of its military wing, the group continues to conduct illicit narcotrafficking, money laundering, and weapons trafficking throughout Europe and the world; and
@@ -46,7 +46,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** applauds and expresses support for the continued, increased cooperation between the United States and the European Union in thwarting Hizballah’s criminal and terrorist activities;
+- **(1)** applauds and expresses support for the continued, increased cooperation between the United States and the European Union (EU) in thwarting Hizballah’s criminal and terrorist activities;
 - **(2)** supports transcontinental efforts within Europe to share intelligence information among police and security services to facilitate greater cooperation in tracking, apprehending, and prosecuting terrorists, foreign fighters, and potential offenders;
 - **(3)** encourages the European Union to implement sanctions against Hizballah-affiliated terrorists in tandem with the United States;
 - **(4)** recommends greater civil society engagement in both the United States and Europe to underscore Hizballah’s malign regional influence; and
