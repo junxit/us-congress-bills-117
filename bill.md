@@ -31,4 +31,4 @@ Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by
 
 ## § 4. Effect on management
 
-This Act and the amendments made by this Act shall not interfere with the current management of the area of the Little Manatee River described in section 5(a)(_) of the Wild and Scenic Rivers Act, nor shall the fact that such area is listed for study under the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.) be used as justification for more restrictive management until Congress acts on the study recommendations.
+This Act and the amendments made by this Act shall not interfere with the current management of the area of the Little Manatee River described in section 5(a)(_) of the Wild and Scenic Rivers Act, nor shall the fact that such area is listed for study under the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.) be used as justifica-tion for more restrictive management until Congress acts on the study recommendations.

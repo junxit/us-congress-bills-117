@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4358
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4358
@@ -44,3 +44,6 @@ Little Manatee Wild and Scenic River Act
 - 2022-09-19 — Placed on the Union Calendar, Calendar No. 368.
 - 2022-09-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-472.
 - 2022-09-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-472.
+- 2022-09-20 — Passed/agreed to in House: Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended.
+- 2022-09-20 — Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended. (consideration: CR H7984-7992; text: CR H7985)
+- 2022-09-20 — Pursuant to the provisions of H. Res. 1361, proceedings on H.R. 4358 are considered vacated.
