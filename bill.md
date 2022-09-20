@@ -17,27 +17,27 @@ This Act may be cited as the “Upholding the Dayton Peace Agreement Through San
 
 It is the policy of the United States—
 
-- **(1)** to support Bosnia and Herzegovina’s sovereignty, territorial integrity, multi-ethnic character and the prosperity of the Republika Srpska entity, the Federation of Bosnia and Herzegovina entity, and the Brcko District within one Bosnia and Herzegovina;
-- **(2)** to support Bosnia and Herzegovina’s progress towards Euro-Atlantic integration;
+- **(1)** to support Bosnia and Herzegovina’s sovereignty, territorial integrity, and multi-ethnic character;
+- **(2)** to back and bolster Bosnia and Herzegovina’s progress towards Euro-Atlantic integration;
 - **(3)** to encourage officials in Bosnia and Herzegovina to resume institutional participation at all levels of government to advance functionality and common-sense reforms for greater prosperity and for Bosnia and Herzegovina to obtain European Union candidate status;
-- **(4)** to call on Bosnia and Herzegovina to implement the rulings of the European Court of Human Rights;
-- **(5)** to encourage robust participation in the October 2, 2022, general elections in Bosnia and Herzegovina;
-- **(6)** to support the robust use of targeted sanctions against persons who undermine the Dayton Peace Agreement and democratic institutions, including by blocking, boycotting or not recognizing the results of elections, in Bosnia and Herzegovina to support peace and stability in that country;
+- **(4)** to push Bosnia and Herzegovina to implement the rulings of the European Court of Human Rights;
+- **(5)** to advocate for robust participation in the October 2, 2022, general elections in Bosnia and Herzegovina;
+- **(6)** to utilize targeted sanctions against persons who undermine the Dayton Peace Agreement and democratic institutions, including by blocking, boycotting or not recognizing the results of elections, in Bosnia and Herzegovina to support peace and stability in that country;
 - **(7)** to urge the European Union to join the United States and United Kingdom in sanctioning Milorad Dodik, a member of the Presidency of Bosnia and Herzegovina, for his actions that undermine the stability and territorial integrity of Bosnia and Herzegovina;
 - **(8)** to expose and condemn the Government of Russia for its role in fueling instability in Bosnia and Herzegovina and undermining the Dayton Peace Agreement, the role of the Office of the High Representative, and the European Union Force in BiH’s Operation Althea;
 - **(9)** to work with other regional States, including Serbia and Croatia, to support the territorial integrity and stability of Bosnia and Herzegovina; and
-- **(10)** to encourage the United States to use its voice and vote at the United Nations, the Peace Implementation Council and its Steering Board, and other relevant international bodies to support the Office of the High Representative.
+- **(10)** to use its voice and vote at the United Nations, the Peace Implementation Council and its Steering Board, and other relevant international bodies to support the Office of the High Representative.
 
 ## § 3. Imposition of sanctions with respect to foreign persons undermining the Dayton Peace Agreement or threatening the security of Bosnia and Herzegovina
 
 - **(a)** *Imposition of sanctions*
-  - **(1)** *List required* Not later than 30 days after the date of the enactment of this Act, and every 90 days thereafter, the President shall submit to the appropriate congressional committees a list of foreign persons that are determined—
-    - **(A)** to be responsible for or complicit in, or to have directly or indirectly engaged in, any action or policy that threatens the peace, security, stability, or territorial integrity of Bosnia and Herzegovina, including actions that seek to undermine the authority of Bosnia and Herzegovina’s State-level institutions, such as forming illegal parallel institutions or actions that threaten the Office of the High Representative;
+  - **(1)** *List required* Not later than 90 days after the date of the enactment of this Act, and annually thereafter for five years, the President shall submit to the appropriate congressional committees a list of foreign persons that are determined—
+    - **(A)** to be responsible for or complicit in, or to have directly or indirectly engaged in, any action or policy that threatens the peace, security, stability, or territorial integrity of Bosnia and Herzegovina, including actions that seek to undermine the authority of Bosnia and Herzegovina’s state-level institutions, such as forming illegal parallel institutions or actions that threaten the Office of the High Representative;
     - **(B)** to be responsible for or complicit in, or to have directly or indirectly engaged in, any action or policy that undermines democratic processes or institutions in Bosnia and Herzegovina;
     - **(C)** to be responsible for or complicit in, or to have directly or indirectly engaged in, or to have attempted, a violation of, or an act that has obstructed or threatened the implementation of, the Dayton Peace Agreement or the Conclusions of the Peace Implementation Conference Council held in London in December 1995, including the decisions or conclusions of the Office of the High Representative, the Peace Implementation Council, or its Steering Board;
     - **(D)** to be a member, official, or senior leader of an illegal parallel institution or any other institution that engages in activities described in subparagraph (A), (B) or (C), as determined by the Secretary of State;
     - **(E)** to be responsible for or complicit in, or to have directly or indirectly engaged in, or attempted to engage in, corruption related to Bosnia and Herzegovina, including corruption by, on behalf of, or otherwise related to the government in Bosnia and Herzegovina, or a current or former government official at any level of government in Bosnia and Herzegovina, such as the misappropriation of public assets, expropriation of private assets for personal gain or political purposes, corruption related to government contracts or the extraction of natural resources or bribery;
-    - **(F)** to be an adult family member of any foreign person described in subparagraph (A), (B), (C), (D), or (E);
+    - **(F)** to be an adult family member of any foreign person described in subparagraph (A), (B), (C), (D), or (E) unless they have condemned the sanctionable activity and taken tangible steps to oppose the activity;
     - **(G)** to have knowingly facilitated a significant transaction or transactions for or on behalf of a foreign person described in subparagraph (A), (B), (C), (D), or (E);
     - **(H)** to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, a foreign person described in subparagraph (A), (B), (C), (D), or (E); or
     - **(I)** to have knowingly materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, a foreign person described in subparagraph (A), (B), (C), (D), or (E).
@@ -51,14 +51,19 @@ It is the policy of the United States—
       - **(ii)** ineligible for a visa or travel to the United States; and
       - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
     - **(B)** *Current visas revoked*
-      - **(i)** *In general* The visa or other documentation issued to an alien on the list required by subsection (a)(1) shall be revoked, regardless of when such visa or other documentation is or was issued.
-      - **(ii)** *Effect of revocation* A visa or other entry documentation revoked under clause (i) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), no longer be valid for travel to the United States.
+      - **(i)** *In general* The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), revoke any visa or other entry documentation issued to an alien on the list required by subsection (a)(1) regardless of when the visa or other entry documentation is issued.
+      - **(ii)** *Effect of revocation* A visa or other entry documentation revoked under clause (i) shall—
+        - **(I)** take effect immediately; and
+        - **(II)** automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
 - **(d)** *Exceptions*
   - **(1)** *Exception for intelligence, law enforcement, and national security activities* Sanctions under this section shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States.
   - **(2)** *Exception to comply with united nations headquarters agreement* Sanctions under subsection (c)(2) shall not apply with respect to the admission of an alien to the United States if the admission of the alien is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
-- **(e)** *Waiver*
-  - **(1)** *In general* The President may, on a case-by-case basis and for periods not to exceed 180 days each, waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees not later than 15 days before such waiver is to take effect that the waiver is vital to the national security interests of the United States.
-  - **(2)** *Sunset* The authority to issue a waiver under paragraph (1) shall terminate on the date that is 2 years after the date of enactment of this Act.
+  - **(3)** *Exception relating to the provision of humanitarian assistance* Sanctions under this section may not be imposed with respect to transactions or the facilitation of transactions for—
+    - **(A)** the sale of agricultural commodities, food, medicine, or medical devices;
+    - **(B)** the provision of humanitarian assistance;
+    - **(C)** financial transactions relating to humanitarian assistance or for humanitarian purposes; and
+    - **(D)** transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes.
+- **(e)** *Waiver* The President may, on a case-by-case basis and for periods not to exceed 180 days each, waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees not later than 15 days before such waiver is to take effect that the waiver is vital to the national interest of the United States.
 - **(f)** *Regulations*
   - **(1)** *In general* The President shall, not later than 180 days after the date of the enactment of this Act, prescribe regulations as necessary for the implementation of this Act.
   - **(2)** *Notification to Congress* Not later than 10 days before the prescription of regulations under paragraph (1), the President shall notify the appropriate congressional committees regarding the proposed regulations and the provisions of this Act that the regulations are implementing.
@@ -68,15 +73,21 @@ It is the policy of the United States—
   - **(1)** credible information exists that the foreign person did not engage in the activity for which sanctions were imposed;
   - **(2)** the foreign person has been prosecuted appropriately for the activity for which sanctions were imposed; or
   - **(3)** the foreign person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activity for which sanctions were imposed, and has credibly committed to not engage in an activity described in subsection (a)(1) in the future.
+- **(j)** *Sunset* The authority to impose sanctions under this section shall terminate on the date that is five years after the date of enactment of this Act.
 
 ## § 4. Consideration of certain information in imposing sanctions
 
-Not later than 60 days after receiving a request from the chairman and ranking member of one of the appropriate congressional committees with respect to whether a person, foreign person, or foreign financial institution, as the case may be, meets the criteria of a person described in this Act, Executive Order 14033 (86 Fed. Reg. 31079; relating to blocking property and suspending entry into the United States of certain persons contributing to the destabilizing situation in the Western Balkans), or any Executive order issued pursuant to this Act or under the Balkans regulatory regime, the President shall—
+- **(a)** *In general* Not later than 60 days after receiving a request from the chairman and ranking member of one of the appropriate congressional committees with respect to whether a person, foreign person, or foreign financial institution, as the case may be, meets the criteria described in this Act, Executive Order 14033 (86 Fed. Reg. 31079; relating to blocking property and suspending entry into the United States of certain persons contributing to the destabilizing situation in the Western Balkans), or any Executive order issued pursuant to this Act or under the Balkans regulatory regime, the President shall—
+  - **(1)** determine if the person, foreign person, or foreign financial institution, as the case may be, meets such criteria; and
+  - **(2)** submit a classified or unclassified report to such chairman and ranking member with respect to such determination that includes a statement of whether or not the President imposed or intends to impose sanctions with respect to such person, foreign person, or foreign financial institution.
+- **(b)** *Sunset* This section shall terminate on the date that is five years after the date of enactment of this Act.
 
-- **(1)** determine if the person, foreign person, or foreign financial institution, as the case may be, meets such criteria; and
-- **(2)** submit a classified or unclassified report to such chairman and ranking member with respect to such determination that includes a statement of whether or not the President imposed or intends to impose sanctions with respect to such person, foreign person, or foreign financial institution.
+## § 5. Exception for importation of goods
 
-## § 5. Definitions
+- **(a)** *Exception relating to importation of goods* The authorities and requirements to impose sanctions under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+- **(b)** *Good defined* In this section, the term “good” means any article, natural or man-made substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+
+## § 6. Definitions
 
 In this Act:
 
@@ -88,10 +99,14 @@ In this Act:
 - **(4)** *Dayton Peace Agreement* The term “Dayton Peace Agreement”, also known as the “Dayton Accords”, means the General Framework Agreement for Peace in Bosnia and Herzegovina, initialed by the parties in Dayton, Ohio, on November 21, 1995, and signed in Paris on December 14, 1995.
 - **(5)** *Foreign financial institution* The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury by regulation.
 - **(6)** *Foreign person* The term “foreign person” means a person that is not a United States person.
-- **(7)** *Illegal parallel institution* The term “illegal parallel institution” means an agency, structure, or instrumentality at the Republika Srpska entity level that disrupts the authority of the State-level institutions of Bosnia and Herzegovina and undermines its constitutional order.
+- **(7)** *Illegal parallel institution* The term “illegal parallel institution” means an agency, structure, or instrumentality at the Republika Srpska entity level that disrupts the authority of the state-level institutions of Bosnia and Herzegovina and undermines its constitutional order.
 - **(8)** *Knowingly* The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 - **(9)** *Person* The term “person” means an individual or entity.
 - **(10)** *United States person* The term “United States person” means—
   - **(A)** a United States citizen or an alien lawfully admitted to the United States for permanent residence;
   - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
   - **(C)** any person in the United States.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
