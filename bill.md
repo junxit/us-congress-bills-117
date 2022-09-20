@@ -17,41 +17,204 @@ This Act may be cited as the “Corruption, Overthrowing Rule of Law, and Ruinin
 
 - **(a)** *Determination with respect to imposition of sanctions* Not later than 30 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a determination, including a detailed justification, of whether any person listed in subsection (b) meets the criteria for the imposition of sanctions under provisions of law that authorize the imposition of sanctions relating to corruption or human rights violations.
 - **(b)** *Persons listed* The persons listed in this subsection, which include Russian persons and current and former Russian government officials, are the following:
-  - **(1)** Roman Abramovich, businessman.
-  - **(2)** Denis Bortnikov, Deputy President and Chairman of the Management Board of VTB Bank.
-  - **(3)** Andrey Kostin, President and Chairman of the Management Board of VTB Bank.
-  - **(4)** Dmitry Patrushev, Minister of Agriculture.
-  - **(5)** Igor Shuvalov, Chairman of the State Development Corporation VEB.
-  - **(6)** Alisher Usmanov, businessman.
-  - **(7)** Oleg Deripaska, businessman.
-  - **(8)** Alexei Miller, Chairman of the Management Committee of Gazprom.
-  - **(9)** Igor Sechin, Chairman of the Management Board of Rosneft.
-  - **(10)** Gennady Timchenko, businessman.
-  - **(11)** Nikolai Tokarev, Chairman of Transneft.
-  - **(12)** Andrey Vorobyev, Governor of the Moscow Region XIII.
-  - **(13)** Mikhail Murashko, Minister of Health.
-  - **(14)** Vladimir Solovyev, media personality.
-  - **(15)** Alexander Bastrykin, Head of the Investigative Committee.
-  - **(16)** Alexander Bortnikov, Director of the Federal Security Service (FSB).
-  - **(17)** Konstantin Ernst, Chief Executive Officer of Channel One TV station.
-  - **(18)** Victor Gavrilov, Head of the Department of Transport of the Economic Security Service.
-  - **(19)** Dmitry Ivanov, Head of Chelyabinsk FSB.
-  - **(20)** Alexander Kalashnikov, Director of the Federal Penitentiary Service (FSIN).
-  - **(21)** Sergei Kirienko, First Deputy Head of the Presidential Administration.
-  - **(22)** Elena Morozova, Judge of Khimki District Court.
-  - **(23)** Denis Popov, Chief Prosecutor of Moscow.
-  - **(24)** Margarita Simonyan, Editor-in-Chief of RT.
-  - **(25)** Igor Yanchuk, Head of the Khimki Police Department.
-  - **(26)** Victor Zolotov, Director of the National Guard.
-  - **(27)** Alexander Beglov, Governor of St. Petersburg.
-  - **(28)** Yuri Chaika, former Prosecutor General.
-  - **(29)** Andrei Kartapolov, Deputy Defense Minister.
-  - **(30)** Pavel Krasheninnikov, Parliamentarian and former Justice Minister.
-  - **(31)** Mikhail Mishustin, Prime Minister of Russia.
-  - **(32)** Ella Pamfilova, Head of Central Electoral Commission.
-  - **(33)** Dmitry Peskov, Presidential Press Secretary.
-  - **(34)** Sergei Sobyanin, Mayor of Moscow.
-  - **(35)** Anton Vaino, Head of the Presidential Administration.
+  - **(1)** Roman Arkadyevich Abramovich.
+  - **(2)** Konstantin Lvovich Ernst.
+  - **(3)** Victor Evdokimovich Gavrilov.
+  - **(4)** Dmitry Ivanov.
+  - **(5)** Pavel Vladimirovich Krasheninnikov.
+  - **(6)** Elena Evgenievna Morozova.
+  - **(7)** Mikhail Albertovich Murashko.
+  - **(8)** Ella Alexandrovna Pamfilova.
+  - **(9)** Dmitry Nikolayevich Patrushev.
+  - **(10)** Denis Gennadievich Popov.
+  - **(11)** Margarita Simonovna Simonyan.
+  - **(12)** Vladimir Roudolfovitch Solovyev.
+  - **(13)** Andrey Yuryevich Vorobyev.
+  - **(14)** Igor Vladimirovich Yanchuk.
+  - **(15)** Victoria Valerievna Abramchenko.
+  - **(16)** Maxim Alekseevich Akimov.
+  - **(17)** Igor Olegovich Aleshin.
+  - **(18)** Sergey Vladimirovich Aleksandrovsky.
+  - **(19)** Anton Andreyevich Alikhanov.
+  - **(20)** Igor Alekseevich Altushkin.
+  - **(21)** Ekaterina Sergeevna Andreeva.
+  - **(22)** Dmitry Vasilievich Aristov.
+  - **(23)** Roman Evgenievich Artyukhin.
+  - **(24)** Zaur Asevovich Askenderov.
+  - **(25)** Pavel Alekseevich Astakhov.
+  - **(26)** Ludmila Valentinovna Babushkina.
+  - **(27)** Igor Vyacheslavovich Barinov.
+  - **(28)** Victor Fedorovich Basargin.
+  - **(29)** Marat Alimzhanovich Basharov.
+  - **(30)** Nikolay Viktorovich Baskov.
+  - **(31)** Andrey Removich Belousov.
+  - **(32)** Yuri Ivanovich Borisov.
+  - **(33)** Larisa Igorevna Brycheva.
+  - **(34)** Igor Yurievich Bryntsalov.
+  - **(35)** Petr Pavlovich Biryukov.
+  - **(36)** Yury Alexandrovich Burlachko.
+  - **(37)** Igor Yurievich Chaika.
+  - **(38)** Alexey Olegovich Chekunkov.
+  - **(39)** Elena Evgenievna Chernyakova.
+  - **(40)** Yulia Dmitrievna Chicherina.
+  - **(41)** Yuri Anatolyevich Chikhanchin.
+  - **(42)** Artur Nikolaevich Chilingarov.
+  - **(43)** Vladimir Viktorovich Chistyukhin.
+  - **(44)** Sergey Alekseevich Dankvert.
+  - **(45)** Adam Sultanovich Delimkhanov.
+  - **(46)** Evgeny Ivanovich Ditrikh.
+  - **(47)** Zarina Valeryevna Doguzova.
+  - **(48)** Alexey Alexandrovich Druzhinin.
+  - **(49)** Dmitry Petrovich Dyuzhev.
+  - **(50)** Daniil Vyacheslavovich Egorov.
+  - **(51)** Ilya Vladimirovich Eliseev.
+  - **(52)** Alexander Vladimirovich Emelianenko.
+  - **(53)** Marina Valentinovna Entaltseva.
+  - **(54)** Ksenia Valentinovna Yudaeva
+  - **(55)** Valery Alexandrovich Fadeev.
+  - **(56)** Valery Nikolaevich Falkov.
+  - **(57)** Valery Valerievich Fedorov.
+  - **(58)** Aram Ashotovich Gabrelyanov.
+  - **(59)** Oleg Mikhailovich Gazmanov.
+  - **(60)** Valery Abisalovich Gergiev.
+  - **(61)** Dmitry Yurievich Gogin.
+  - **(62)** Tatiana Alexeyevna Golikova.
+  - **(63)** Olga Yurievna Golodets.
+  - **(64)** Vasily Yuryevich Golubev.
+  - **(65)** Alexander Nikolaevich Gorbenko.
+  - **(66)** Dmitry Vladimirovich Gorelov.
+  - **(67)** Viktor Petrovich Goremykin.
+  - **(68)** Vladimir Mikhailovich Gundyaev.
+  - **(69)** Oleg Vladimirovich Ilyinikh.
+  - **(70)** Yury Olegovich Isaev.
+  - **(71)** Alexander Valentinovich Ishchenko.
+  - **(72)** Mikhail Yuryevich Ivankov.
+  - **(73)** Alexander Sergeevich Kalinin.
+  - **(74)** Natalya Ivanovna Kasperskaya.
+  - **(75)** Evgeny Valentinovich Kaspersky.
+  - **(76)** Sergey Alexandrovich Karaganov.
+  - **(77)** Alexander Gennadievich Khloponin.
+  - **(78)** Viktor Borisovich Khristenko.
+  - **(79)** Eduard Yuryevich Khudainatov.
+  - **(80)** Andrey Stepanovich Kigim.
+  - **(81)** Sergey Georgievich Kireev.
+  - **(82)** Dmitry Mikhailovich Kirillov.
+  - **(83)** Philip Bedrosovich Kirkorov.
+  - **(84)** Vladislav Nikolaevich Kitaev.
+  - **(85)** German Sergeevich Klimenko.
+  - **(86)** Franz Adamovich Klintsevich.
+  - **(87)** Anton Anatolyevich Kobyakov.
+  - **(88)** Dmitry Viktorovich Kochnev.
+  - **(89)** Victor Anatolievich Koksharov.
+  - **(90)** Petr Viktorovich Kolbin.
+  - **(91)** Ekaterina Vladimirovna Kolokoltseva.
+  - **(92)** Alexander Sergeevich Kolpakov.
+  - **(93)** Veniamin Ivanovich Kondratyev.
+  - **(94)** Aleksandr Vladimirovich Konovalov.
+  - **(95)** Alexander Nikolaevich Konovalov.
+  - **(96)** Boris Nikolaevich Korobets.
+  - **(97)** Anton Olegovich Kotykov.
+  - **(98)** Alexander Alexandrovich Kozlov.
+  - **(99)** Sergey Sergeevich Kravtsov.
+  - **(100)** Svetlana Aleksandrovna Krivonogih.
+  - **(101)** Nikolai Mikhailovich Kropachev.
+  - **(102)** Alexey Leonidovich Kudrin.
+  - **(103)** Andrey Vasilievich Lavrishchev.
+  - **(104)** Alexander Vladimirovich Lazarev.
+  - **(105)** Artemy Andreyevich Lebedev.
+  - **(106)** Vyacheslav Mikhailovich Lebedev.
+  - **(107)** Igor Evgenievich Levitin.
+  - **(108)** Alexandra Yuryevna Levitskaya.
+  - **(109)** Alexey Evgenievich Likhachev.
+  - **(110)** Maxim Stanislavovich Liksutov.
+  - **(111)** Andrei Yurievich Lipov.
+  - **(112)** Olga Borisovna Lyubimova.
+  - **(113)** Magomedsalam Magomedalievich Magomedov.
+  - **(114)** Iskander Kakhramonovich Makhmudov.
+  - **(115)** Pavel Viktorovich Malkov.
+  - **(116)** Ziyad Manasir.
+  - **(117)** Denis Valentinovich Manturov.
+  - **(118)** Vladimir Lvovich Mashkov.
+  - **(119)** Oleg Vasilievich Matytsin.
+  - **(120)** Vladimir Rostislavovich Medinsky.
+  - **(121)** Sergey Alimovich Melikov.
+  - **(122)** Andrey Nikolaevich Metelsky.
+  - **(123)** Nikita Sergeevich Mikhalkov.
+  - **(124)** Garry Vladimirovich Minkh.
+  - **(125)** Rustam Nurgaliyevich Minnikhanov.
+  - **(126)** Dmitry Yuryevich Mironov.
+  - **(127)** Yekatrina Mikhailovna Mizulina.
+  - **(128)** Artur Alekseevich Muravyov.
+  - **(129)** Anzor Akhmedovich Muzaev.
+  - **(130)** Elvira Sakhipzadovna Nabiullina.
+  - **(131)** Alexander Vasilievich Neudko.
+  - **(132)** Alexander Valentinovich Novak.
+  - **(133)** Roman Vitalyevich Novikov.
+  - **(134)** Ivan Ivanovich Okhlobystin.
+  - **(135)** Vladimir Evgenevich Ostrovenko.
+  - **(136)** Ella Alexandrovna Pamfilova.
+  - **(137)** Evgeny Ignatievich Petrov.
+  - **(138)** Andrey Andreevich Pisarev.
+  - **(139)** Oleg Anatolyevich Plokhoi.
+  - **(140)** Nikolay Radievich Podguzov.
+  - **(141)** Alexey Petrovich Polikashin.
+  - **(142)** Georgy Sergeyevich Poltavchenko.
+  - **(143)** Yana Evgenyevna Poplavskaya.
+  - **(144)** Denis Gennadievich Popov.
+  - **(145)** Anna Yuryevna Popova.
+  - **(146)** Mikhail Evgenievich Porechenkov.
+  - **(147)** Kristina Andreevna Potupchik.
+  - **(148)** Alexander Valerievich Potapov.
+  - **(149)** Iosif Igorevich Prigozhin.
+  - **(150)** Evgeny Alexandrovich Primakov.
+  - **(151)** Svetlana Gennadievna Radionova.
+  - **(152)** Anastasia Vladimirovna Rakova.
+  - **(153)** Nikolay Vyacheslavovich Rastorguev.
+  - **(154)** Ksenia Denisovna Razuvaeva.
+  - **(155)** Alexey Evgenievich Repik.
+  - **(156)** Maxim Valeryevich Rumyantsev.
+  - **(157)** Konstantin Igorevich Rykov.
+  - **(158)** Dmitry Vadimovich Sablin.
+  - **(159)** Victor Antonovich Sadovnichy.
+  - **(160)** Alla Vladimirovna Samoilova.
+  - **(161)** Vladimir Viktorovich Selin.
+  - **(162)** Natalya Alexeevna Sergunina.
+  - **(163)** Maksut Igorevich Shadaev.
+  - **(164)** Anton Pavlovich Shalaev.
+  - **(165)** Alexey Valerievich Shaposhnikov.
+  - **(166)** Maxim Alekseevich Shaskolsky.
+  - **(167)** Karen Georgievich Shakhnazarov.
+  - **(168)** Ilya Vasilievich Shestakov.
+  - **(169)** Inna Konstantinovna Shevchenko.
+  - **(170)** Mikhail Viktorovich Shmakov.
+  - **(171)** Nikolay Grigoryevich Shulginov.
+  - **(172)** Igor Anatolyevich Shumakov.
+  - **(173)** Olga Nikolaevna Skorobogatova.
+  - **(174)** Konstantin Evgenyevich Skrypnyk.
+  - **(175)** Oleg Aleksandrovich Skufinsky.
+  - **(176)** Vyacheslav Mikhailovich Skvortsov.
+  - **(177)** Veronika Igorevna Skvortsova.
+  - **(178)** Ivan Vasilyevich Sovetnikov.
+  - **(179)** Dmitry Albertovich Tayursky.
+  - **(180)** Valentina Vladimirovna Tereshkova.
+  - **(181)** Valery Vladimirovich Tikhonov.
+  - **(182)** Boris Yurievich Titov.
+  - **(183)** Konstantin Borisovich Tolkachev.
+  - **(184)** Vladimir Ilyich Tolstoy.
+  - **(185)** Igor Vasilyevich Tonkovidov.
+  - **(186)** Alexander Vyacheslavovich Trembitsky.
+  - **(187)** Nikolai Nikolaevich Tsukanov.
+  - **(188)** Dmitry Vladislavovich Tulin.
+  - **(189)** Alexander Evgenyevich Udodov.
+  - **(190)** Yury Viktorovich Ushakov.
+  - **(191)** Ruben Karlenovich Vardanyan.
+  - **(192)** Irina Alexandrovna Viner-Usmanova.
+  - **(193)** Vadim Vladimirovich Yakovenko.
+  - **(194)** Igor Khanukovich Yusufov.
+  - **(195)** Valery Dmitrievich Zorkin.
+  - **(196)** Roman Viktorovich Zolotov.
+  - **(197)** Yuri Sergeevich Zubov.
+  - **(198)** Viktor Alexeevich Zubkov.
 - **(c)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
