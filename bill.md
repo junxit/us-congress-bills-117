@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “READ Act Reathorization Act of 2022”.
+This Act may be cited as the “READ Act Reauthorization Act of 2022”.
 
 ## § 2. Reauthorization
 
