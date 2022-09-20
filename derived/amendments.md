@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7566
 congress: 117
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
