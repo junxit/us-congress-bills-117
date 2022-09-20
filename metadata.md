@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7181
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7181
@@ -63,3 +63,14 @@ Human Trafficking Prevention Act of 2022
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-477, Part I.
 - 2022-09-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-477, Part I.
 - 2022-09-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7267-7268)
+- 2022-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2022-12-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2022-12-16 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-301.
+- 2022-12-27 — Became Public Law No: 117-301.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
