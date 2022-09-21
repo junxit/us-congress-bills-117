@@ -1,7 +1,7 @@
 ---
 measure: S. 1222
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1222
@@ -28,3 +28,8 @@ Bonneville Shoreline Trail Advancement Act
 
 - 2021-04-20 — Introduced in Senate
 - 2021-04-20 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-06-16 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2022-05-03 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-153.
+- 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-153.
+- 2022-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.
