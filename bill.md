@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 1378
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1378
+
+> Of inquiry requesting the President and directing the Secretary of Agriculture to transmit, respectively, certain documents to the House of Representatives relating to Resolution Copper mine.
+
+That the President is requested, and the Secretary of Agriculture is directed, to transmit, respectively, to the House of Representatives, not later than 14 days after the date of the adoption of this resolution, copies of all documents, memoranda, advisory legal opinions, notes from meetings, audio recordings, records (including telephone and electronic mail records), correspondence, and other communications, or any portion of any such communications, to the extent that any such one or more items are within the possession of the President or the Secretary of Agriculture, respectively, and refer to Resolution Copper mine.
