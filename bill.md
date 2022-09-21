@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1321
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -64,3 +64,17 @@ In this Act:
 ## § 5. Administration of State land
 
 The Secretary may enter into an agreement with the State to provide for the cooperative management by the Secretary and the State of the approximately 200 acres of State land, as generally depicted on the map as “State land of Arizona”.
+
+## § 6. Don Young Legacy national scenic trail study
+
+Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following:
+
+> - **(48)** *Don young legacy trail*
+>   - **(A)** *In general* The Don Young Legacy Trail, extending approximately 500 miles from Seward, Alaska, to Fairbanks, Alaska.
+>   - **(B)** *Requirement* The Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this paragraph as the “Secretary”), shall study the feasibility of designating the trail described in subparagraph (A), including evaluating the potential impacts of the trail on rights-of-way, existing rights, or other recreational uses of the land proposed to be used for the trail.
+>   - **(C)** *Consultation* The Secretary shall conduct the study under this paragraph in consultation with—
+>     - **(i)** the Secretary of Agriculture, acting through the Chief of the Forest Service;
+>     - **(ii)** the State of Alaska;
+>     - **(iii)** units of local government in the State of Alaska;
+>     - **(iv)** Alaska Native Corporations; and
+>     - **(v)** representatives of the private sector, including any entity that holds a permit issued by the Federal Energy Regulatory Commission.
