@@ -1,7 +1,7 @@
 ---
 measure: S. 177
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+8 amendatory instructions. 4 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `Cerro del Yuta and Río San Antonio` |
 | Inserted | `Río Grande del Norte National Monument` |
+
+### 16 U.S.C. § 1133
+
+> in paragraph (4), in the matter preceding subparagraph (A), by striking “this Act” and inserting “this Act (including a reserve common grazing allotment)”;
+
+| | |
+|---|---|
+| Removed | `this Act` |
+| Inserted | `this Act (including a reserve common grazing allotment)` |
 
 ### 16 U.S.C. § 1133
 
