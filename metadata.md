@@ -1,7 +1,7 @@
 ---
 measure: S. 1942
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1942
@@ -16,7 +16,7 @@ National Heritage Area Act
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -32,6 +32,7 @@ National Heritage Area Act
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 
 ## Committees (1)
 
@@ -41,3 +42,8 @@ National Heritage Area Act
 
 - 2021-05-27 — Introduced in Senate
 - 2021-05-27 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-10-06 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-05-03 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-156.
+- 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-156.
+- 2022-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 499.
