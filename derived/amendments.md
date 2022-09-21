@@ -1,7 +1,7 @@
 ---
 measure: S. 1222
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
