@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1433
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1433
@@ -25,9 +25,10 @@ Helen Keller National Center Reauthorization Act of 2021
 - Rep. Hastings, Alcee L. [D-FL-20] (H000324)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Helen Keller National Center Reauthorization Act of 2021
 - 2022-09-20 — Passed/agreed to in House: Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended.
 - 2022-09-20 — Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended. (consideration: CR H7984-7992; text: CR H7984)
 - 2022-09-20 — Pursuant to the provisions of H. Res. 1361, proceedings on H.R. 1433 are considered vacated.
+- 2022-09-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
