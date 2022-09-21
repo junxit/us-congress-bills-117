@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8503
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8503
@@ -22,9 +22,10 @@ Securing Global Telecommunications Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Securing Global Telecommunications Act
 - 2022-09-20 — Passed/agreed to in House: Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended.
 - 2022-09-20 — Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended. (consideration: CR H7984-7992; text: CR H7989-7990)
 - 2022-09-20 — Pursuant to the provisions of H. Res. 1361, proceedings on H.R. 8503 are considered vacated.
+- 2022-09-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
