@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2438
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,3 +18,4 @@ This Act may be cited as the “Cane River Creole National Historical Park Bound
 Section 303(b) of the Cane River Creole National Historical Park and National Heritage Area Act (16 U.S.C. 410ccc–1(b)) is amended by adding at the end the following:
 
 > - **(5)** The approximately 46.1 acres of land depicted as tracts 1, 2, and 3 on the map entitled “A Map of Lands in Sections 111, 112 & 113, T7N–R6W” and dated May 20, 2021 (referred to in this paragraph as the “Map”), subject to the requirement that, as soon as practicable after the date of enactment of this paragraph, the Secretary shall prepare a map of the tracts consistent with National Park Service standards to replace the Map.
+> - **(5)** The approximately 46.1 acres of land identified as “Proposed Addition”, as generally depicted on the map entitled “Cane River Creole National Historical Park Proposed Addition—Magnolia Plantation Unit”, numbered 494/176,958, and dated October 2021.
