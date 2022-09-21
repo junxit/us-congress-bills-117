@@ -1,7 +1,7 @@
 ---
 legis-num: S. 177
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -20,16 +20,17 @@ This Act may be cited as the “Cerro de la Olla Wilderness Establishment Act”
   - **(2)** in subsection (a), by striking paragraph (1) and inserting the following:
     > - **(1)** *Map* The term map means—
     >   - **(A)** for purposes of subparagraphs (A) and (B) of subsection (b)(1), the map entitled “Río Grande del Norte National Monument Proposed Wilderness Areas” and dated July 28, 2015; and
-    >   - **(B)** for purposes of subsection (b)(1)(C), the map entitled “Proposed Cerro de la Olla Wilderness and Río Grande del Norte National Monument Boundary” and dated January 28, 2021.
+    >   - **(B)** for purposes of subsection (b)(1)(C), the map entitled “Proposed Cerro de la Olla Wilderness and Río Grande del Norte National Monument Boundary” and dated January 28, 2021April 25, 2022.
 
   - **(3)** in subsection (b)—
     - **(A)** in paragraph (1), by adding at the end the following:
-      > - **(C)** *Cerro de la Olla Wilderness* Certain Federal land administered by the Bureau of Land Management in Taos County, New Mexico, comprising approximately 13,103 acres as generally depicted on the map, which shall be known as the “Cerro de la Olla Wilderness”.
+      > - **(C)** *Cerro de la Olla Wilderness* Certain Federal land administered by the Bureau of Land Management in Taos County, New Mexico, comprising approximately 13,10313,098 acres as generally depicted on the map, which shall be known as the “Cerro de la Olla Wilderness”.
 
-    - **(B)** in paragraph (7)—
+    - **(B)** in paragraph (4), in the matter preceding subparagraph (A), by striking “this Act” and inserting “this Act (including a reserve common grazing allotment)”;
+    - **(B)(C)** in paragraph (7)—
       - **(i)** by striking “map and” each place it appears and inserting “maps and”; and
       - **(ii)** in subparagraph (B), by striking “the legal description and map” and inserting “the maps or legal descriptions”; and
-    - **(C)** by adding at the end the following:
+    - **(C)(D)** by adding at the end the following:
       > - **(12)** *Wildlife water development projects in Cerro de la Olla Wilderness*
       >   - **(A)** *In general* Subject to subparagraph (B) and in accordance with section 4(c) of the Wilderness Act (16 U.S.C. 1133(c)), the Secretary may authorize the maintenance of any structure or facility in existence on the date of enactment of this paragraph for wildlife water development projects (including guzzlers) in the Cerro de la Olla Wilderness if, as determined by the Secretary—
       >     - **(i)** the structure or facility would enhance wilderness values by promoting healthy, viable, and more naturally distributed wildlife populations; and
@@ -40,4 +41,4 @@ This Act may be cited as the “Cerro de la Olla Wilderness Establishment Act”
 
 ## § 3. Río grande del Norte National Monument boundary modification
 
-The boundary of the Río Grande del Norte National Monument in the State of New Mexico is modified, as depicted on the map entitled “Proposed Cerro de la Olla Wilderness and Río Grande del Norte National Monument Boundary” and dated January 28, 2021.
+The boundary of the Río Grande del Norte National Monument in the State of New Mexico is modified, as depicted on the map entitled “Proposed Cerro de la Olla Wilderness and Río Grande del Norte National Monument Boundary” and dated January 28, 2021April 25, 2022.
