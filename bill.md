@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1631
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Arizona Experiment Station Land Conveyance Act of 2021”.
+This Act may be cited as the “Arizona Experiment Station Land Conveyance Act of 20212022”.
 
 ## § 2. Definitions
 
@@ -24,7 +24,7 @@ In this Act:
 
 ## § 3. Coconino National Forest land conveyance
 
-- **(a)** *Conveyance authorized* Subject to this section, if the University submits to the Secretary not later than 180 days after the date of enactment of this Act a written request for the conveyance of the Federal land, the Secretary shall, not later than 1 year after the date of enactment of this Act, convey to the University all right, title, and interest of the United States in and to that land, including related infrastructure, improvements, and easements on that land.
+- **(a)** *Conveyance authorized* Subject to this section, if the University submits to the Secretary not later than 180 days after the date of enactment of this Act a written request for the conveyance of the Federal land,to acquire the Federal land for market value, as determined by the appraisal conducted under subsection (d), the Secretary shall, not later than 1 year after the date of enactment of this Act, convey to the University all right, title, and interest of the United States in and to that land, including related infrastructure, improvements, and easements on that land.
 - **(b)** *Terms and Conditions* The conveyance authorized under subsection (a) shall be—
   - **(1)** subject to valid existing rights;
   - **(2)** notwithstanding any other provision of law; and
@@ -38,3 +38,8 @@ In this Act:
       - **(ii)** the Smith-Lever Act (7 U.S.C. 341 et seq.); and
       - **(iii)** the Hatch Act of 1887 (7 U.S.C. 361a et seq.).
   - **(2)** *Reversion* If any portion of the Federal land conveyed under subsection (a) is used in a manner inconsistent with paragraph (1), the Federal land shall, at the discretion of the Secretary, revert to the United States.
+- **(d)** *Appraisal*
+  - **(1)** *In general* Not later than 90 days after the date on which the University submits a written request under subsection (a), the Secretary shall complete an appraisal to determine the market value of the Federal land.
+  - **(2)** *Standards* The appraisal under paragraph (1) shall be conducted in accordance with—
+    - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
+    - **(B)** the Uniform Standards of Professional Appraisal Practice.

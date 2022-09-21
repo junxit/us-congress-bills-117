@@ -1,7 +1,7 @@
 ---
 measure: S. 1631
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1631
@@ -28,3 +28,8 @@ Arizona Experiment Station Land Conveyance Act of 2022
 
 - 2021-05-13 — Introduced in Senate
 - 2021-05-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-10-19 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2022-05-03 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-155.
+- 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-155.
+- 2022-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
