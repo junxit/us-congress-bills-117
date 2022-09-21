@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8939
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8939
+
+> To nullify the termination of the Fulbright exchange program with regard to China and Hong Kong with respect to future exchanges for participants traveling both from and to China or Hong Kong, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Fulbright Exchanges with China and Hong Kong Act”.
+
+## § 2. Nullification
+
+Section 3(i) of Executive Order 13936 (relating to the termination of the Fulbright exchange program with regard to China and Hong Kong with respect to future exchanges for participants traveling both from and to China or Hong Kong) is nullified and shall have no force or effect, and Fulbright exchanges with China and Hong Kong shall carry on as if such section had not be included in such Executive Order.
