@@ -50,7 +50,7 @@ In this Act:
     - **(A)** *In general* The Director may make the reports submitted under paragraph (1) available on a public website determined by the Director.
     - **(B)** *Form* If the Director makes reports available under subparagraph (A), the reports shall be maintained as open Government data assets.
   - **(3)** *Federal Government and agency performance plans*
-    - **(A)** *Federal Government* The Director shall ensure that the information regarding the Federal Government performance plan and agency performance plans required to be made available under subsection (b) or (c) of section 1122 of title 31, United States Code, is treated as covered content and published (whether in paper or electronic form) using plain writing.
+    - **(A)** *Federal Government* The Director shall ensure that the information regarding the Federal Government performance plan and agency performance plans required to be made available under subsection (b) or (c) of section 1122subsection (a) or (b) of section 1115 of title 31, United States Code, is treated as covered content and published (whether in paper or electronic form) using plain writing.
     - **(B)** *Agency performance plans* Section 1115(b) of title 31, United States Code, is amended—
       - **(i)** in paragraph (9)(C), by striking “and” at the end;
       - **(ii)** in paragraph (10), by striking the period at the end and inserting “; and”; and
@@ -59,10 +59,10 @@ In this Act:
 
 ## § 4. Agency responsibilities
 
-- **(a)** *In general* The head of each agency shall ensure compliance with this Act, including through the designation of a senior officer at the agency (not lower than the Assistant Secretary or equivalent) to oversee implementation by the agency, including all bureaus, offices, or other subordinate components of the agency.
+- **(a)** *In general* The head of each agency shall ensure compliance with this Act, including through the designation of a senior officer at the agency (not lower than thean Assistant Secretary or equivalent) to oversee implementation by the agency, including all bureaus, offices, or other subordinate components of the agency.
 - **(b)** *Requirement To use plain language in covered content* Except as provided in the amendments made by section 5(1), on and after the date that is 1 year after the date of enactment of this Act, each agency shall use plain writing in all covered content made available by the agency, consistent with the guidance issued by the Director under section 3(a).
 - **(c)** *Requirement for feedback from customers* The head of each agency shall ensure that there are opportunities and mechanisms in place (whether in paper or electronic form) that incorporate plain writing instructions for feedback from individuals or entities obtaining services from or engaging in transactions with the agency.
-- **(d)** *Public feedback* The head of each agency shall maintain an accessible form, survey tool, or other portion of a website of the agency to solicit feedback from the public on compliance with this Act by the agency and to collect the feedback and data required under section 3(b)(4).
+- **(d)** *Public feedback* The head of each agency shall maintain an accessible form, survey tool, or other portion of a website of the agency to solicit feedback from the public on compliance with this Act by the agency and to collect the feedback and data required under section 3(b)(4)(5).
 
 ## § 5. Amendments to the 21st Century IDEA Act
 
