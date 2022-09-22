@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1250
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1250
@@ -25,3 +25,8 @@ Of inquiry directing the Secretary of Homeland Security to transmit certain docu
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Referred to the House Committee on the Judiciary.
+- 2022-09-14 — Committee Consideration and Mark-up Session Held.
+- 2022-09-14 — Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 20 - 17.
+- 2022-09-22 — Placed on the House Calendar, Calendar No. 109.
+- 2022-09-22 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-489.
+- 2022-09-22 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-489.
