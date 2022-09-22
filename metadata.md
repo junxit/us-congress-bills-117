@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8873
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8873
@@ -40,3 +40,4 @@ Presidential Election Reform Act
 - 2022-09-21 — Rule H. Res. 1372 passed House.
 - 2022-09-21 — Rule provides for consideration of H.R. 8873 with 1 hour of general debate. Resolution also provides one motion to recommit.
 - 2022-09-21 — The previous question was ordered pursuant to the rule.
+- 2022-09-22 — Received in the Senate.
