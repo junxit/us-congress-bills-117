@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8963
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8963
+
+> To transfer venue of certain criminal prosecutions of offenses committed in the District of Columbia.
+
+## § 1. Short title
+
+This Act may be cited as the “Home Rule for All Americans Act of 2022”.
+
+## § 2. Transfer of venue
+
+Notwithstanding any other provision of law, in the criminal trial of any individual for the commission of a criminal offense in the District of Columbia, the individual on trial may choose venue for the proceedings and trial to be in the district court for the district and division embracing that individual’s primary residence.
