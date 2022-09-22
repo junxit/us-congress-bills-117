@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1257
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1257
@@ -29,3 +29,8 @@ Of inquiry directing the Secretary of Health and Human Services to provide certa
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Referred to the House Committee on the Judiciary.
+- 2022-09-14 — Committee Consideration and Mark-up Session Held.
+- 2022-09-14 — Ordered to be Reported Unfavorably (Amended) by Voice Vote.
+- 2022-09-22 — Placed on the House Calendar, Calendar No. 110.
+- 2022-09-22 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-490.
+- 2022-09-22 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-490.
