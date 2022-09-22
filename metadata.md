@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7780
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7780
@@ -16,9 +16,11 @@ Mental Health Matters Act
 
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Mental Health Matters Act
 - 2022-05-16 — Introduced in House
 - 2022-05-16 — Introduced in House
 - 2022-05-16 — Referred to the House Committee on Education and Labor.
+- 2022-05-18 — Committee Consideration and Mark-up Session Held.
+- 2022-05-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 18.
+- 2022-09-22 — Placed on the Union Calendar, Calendar No. 373.
+- 2022-09-22 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-484.
+- 2022-09-22 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-484.
