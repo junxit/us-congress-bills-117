@@ -25,7 +25,7 @@ Congress finds the following:
 - **(3)** Effective investigation of shootings can prevent subsequent related violence by—
   - **(A)** deterring retaliation; and
   - **(B)** providing interventions to individuals who may continue to commit crimes or become victims of retaliatory violence.
-- **(4)** Law enforcement agencies that demonstrate higher rates of clearance for homicides and non-fatal shootings—
+- **(4)** Law enforcement agencies that demonstrate higher rates of clearance for violent crimes committed against a person—
   - **(A)** have more structured oversight and formal interactions between investigative units and agency leadership;
   - **(B)** are more likely to have investigative units that have collaborative relationships and robust information sharing with other units of the law enforcement agency;
   - **(C)** have investigative units that have specific goals and performance metrics for both the unit and for investigators within the unit;
@@ -33,8 +33,8 @@ Congress finds the following:
   - **(E)** have investigators who either have specialized experience before joining investigative units or are trained in investigations once they join those units;
   - **(F)** often have standard operating procedures for investigations that establish policies and evidence-based best practices for conducting and completing homicide investigations; and
   - **(G)** have better relationships with the communities they serve, even if no specific community-oriented campaign or initiative exists between investigative units and community groups.
-- **(5)** Criminal justice agencies should collaborate with each other and share best practices for solving homicides and non-fatal shootings.
-- **(6)** A comprehensive community engagement strategy concerning gun violence is essential to improving clearance rates for homicides and non-fatal shootings.
+- **(5)** Criminal justice agencies should collaborate with each other and share best practices for solving violent crimes committed against a person.
+- **(6)** A comprehensive community engagement strategy concerning gun violence is essential to improving clearance rates for violent crimes committed against a person.
 
 ## § 3. Grant program with respect to violent incident clearance and technological investigative methods
 
@@ -69,21 +69,21 @@ Congress finds the following:
   - **(2)** *Applications* An eligible entity seeking a grant under the Program shall submit to the Attorney General an application at such time, in such manner, and containing or accompanied by—
     - **(A)** such information as the Attorney General may reasonably require; and
     - **(B)** a description of each eligible project under paragraph (4) that the grant will fund.
-  - **(3)** *Selection of grant recipients* The Attorney General, in selecting a recipient of a grant under the Program, shall consider the specific plan and activities proposed by the applicant to improve clearance rates for homicides, rapes, other aggravated felonies, and non-fatal shootings.
-  - **(4)** *Eligible projects* A grant recipient shall use the grant for activities with the specific objective of improving clearance rates for homicides, rapes, other aggravated felonies, and non-fatal shootings, including—
-    - **(A)** ensuring the retention of detectives who are assigned to investigate homicides, rapes, other aggravated felonies, and non-fatal shootings as of the date of receipt of the grant;
-    - **(B)** hiring and training additional detectives who will be dedicated to investigating homicides, rapes, other aggravated felonies, and non-fatal shootings;
-    - **(C)** developing policies, procedures, and training to improve the ability of detectives to effectively investigate and solve homicides, rapes, other aggravated felonies, and non-fatal shootings, including implementing best practices relating to—
+  - **(3)** *Selection of grant recipients* The Attorney General, in selecting a recipient of a grant under the Program, shall consider the specific plan and activities proposed by the applicant to improve clearance rates for homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings.
+  - **(4)** *Eligible projects* A grant recipient shall use the grant for activities with the specific objective of improving clearance rates for homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings, including—
+    - **(A)** ensuring the retention of detectives who are assigned to investigate homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings as of the date of receipt of the grant;
+    - **(B)** hiring and training additional detectives who will be dedicated to investigating homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings;
+    - **(C)** developing policies, procedures, and training to improve the ability of detectives to effectively investigate and solve homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings, including implementing best practices relating to—
       - **(i)** improving internal agency cooperation, organizational oversight and accountability, and supervision of investigations;
       - **(ii)** developing specific goals and performance metrics for both investigators and investigative units;
       - **(iii)** establishing or improving relationships with the communities the agency serves; and
       - **(iv)** collaboration with and among other law enforcement agencies and criminal justice organizations;
-    - **(D)** training personnel to address the needs of victims and family members of victims of homicides, rapes, other aggravated felonies, and non-fatal shootings or collaborating with trained victim advocates and specialists to better meet victims’ needs;
+    - **(D)** training personnel to address the needs of victims and family members of victims of homicides, rapes, sexual assaults, kidnappings, or non-fatal shootings or collaborating with trained victim advocates and specialists to better meet victims’ needs;
     - **(E)** acquiring, upgrading, or replacing investigative, evidence processing, or forensic testing technology or equipment;
     - **(F)** development and implementation of policies that safeguard civil rights and civil liberties during the collection, processing, and forensic testing of evidence;
     - **(G)** hiring or training personnel for collection, processing, and forensic testing of evidence;
-    - **(H)** hiring and training of personnel to analyze violent crime and the temporal and geographic trends among homicides, rapes, other aggravated felonies, and shootings;
-    - **(I)** retaining experts to conduct a detailed analysis of homicides, rapes, other aggravated felonies, and shootings using Gun Violence Problem Analysis (commonly known as “GVPA”) or a similar research methodology;
+    - **(H)** hiring and training of personnel to analyze violent crime and the temporal and geographic trends among homicides, rapes, sexual assaults, kidnappings, and nonfatal shootings;
+    - **(I)** retaining experts to conduct a detailed analysis of homicides and shootings using Gun Violence Problem Analysis (commonly known as “GVPA”) or a similar research methodology;
     - **(J)** ensuring victims have appropriate access to emergency food, housing, clothing, travel, and transportation;
     - **(K)** developing competitive and evidence-based programs to improve homicide and non-fatal shooting clearance rates;
     - **(L)** developing best practices for improving access to and acceptance of victim services, including victim services that promote medical and psychological wellness, ongoing counseling, legal advice, and financial compensation;
@@ -111,8 +111,8 @@ Congress finds the following:
   - **(11)** identification of the services most used by victims and their families and identification of additional services needed.
 - **(e)** *National institute of justice evaluation and report to congress*
   - **(1)** *Evaluation* Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Director of the National Institute of Justice shall conduct an evaluation of—
-    - **(A)** the practices deployed by grant recipients to identify policies and procedures that have successfully improved clearance rates for homicides, rapes, other aggravated felonies, and non-fatal shootings; and
-    - **(B)** the efficacy of any services provided to victims and family members of victims of homicides, rapes, other aggravated felonies, and non-fatal shootings.
+    - **(A)** the practices deployed by grant recipients to identify policies and procedures that have successfully improved clearance rates for homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings; and
+    - **(B)** the efficacy of any services provided to victims and family members of victims of homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings.
   - **(2)** *Report to Congress* Not later than 30 days after completion of an evaluation by the National Institute of Justice under paragraph (1), the Attorney General shall submit to Congress a report including—
     - **(A)** the results of the evaluation; and
     - **(B)** information reported by each grant recipient under subsection (d).

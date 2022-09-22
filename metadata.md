@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5768
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5768
@@ -70,3 +70,16 @@ VICTIM Act of 2022
 - 2022-07-26 — Placed on the Union Calendar, Calendar No. 345.
 - 2022-07-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-441.
 - 2022-07-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-441.
+- 2022-09-21 — Rules Committee Resolution H. Res. 1377 Reported to House. Rule provides for consideration of H.R. 4118, H.R. 5768, H.R. 6448 and H.R. 8542. Resolution provides for 30 minutes of general debate with one motion to recommit for each bill.
+- 2022-09-22 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-09-22 — Considered as unfinished business. (consideration: CR H8103-8104)
+- 2022-09-22 — Considered under the provisions of rule H. Res. 1377. (consideration: CR H8096-8100)
+- 2022-09-22 — DEBATE - The House proceeded with 30 minutes of debate on H.R. 5768.
+- 2022-09-22 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-09-22 — House amendment offered
+- 2022-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-22 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-09-22 — On passage Passed by the Yeas and Nays: 250 - 178 (Roll no. 454). (text: CR H8096-8097)
+- 2022-09-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 178 (Roll no. 454).
+- 2022-09-22 — Rule provides for consideration of H.R. 4118, H.R. 5768, H.R. 6448 and H.R. 8542. Resolution provides for 30 minutes of general debate with one motion to recommit for each bill.
+- 2022-09-22 — The title of the measure was amended. Agreed to without objection.
