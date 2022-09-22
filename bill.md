@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > Of inquiry directing the Secretary of the Interior to transmit certain documents to the House of Representatives relating to the impact of illegal immigration on federal or tribal lands.
 
-That the Secretary of the Interior is directed to transmit to the House of Representatives, not later than 14 days after the date of the adoption of this resolution, copies of any document, memorandum, correspondence, and other communication or any portion of any such communication, that refers or relates to the impact of illegal immigration on Federal or Tribal lands, including the following:
+That the Secretary of the Interior is directed to transmit to the House of Representatives, not later than fourteen days after the date of the adoption of this resolution, copies of any document, memorandum, correspondence, and other communication or any portion of any such communication, that refers or relates to the impact of illegal immigration on Federal or Tribal lands, including the following:
 
 - **(1)** All documents and communications related to the current level of environmental damage to Federal protected and Tribal lands along the Southern border, including but not limited to—
   - **(A)** any reference to the accumulation of garbage;
