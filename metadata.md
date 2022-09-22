@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1241
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1241
@@ -25,3 +25,8 @@ Of inquiry directing the Secretary of Homeland Security to provide certain docum
 - 2022-07-20 — Introduced in House
 - 2022-07-20 — Introduced in House
 - 2022-07-20 — Referred to the House Committee on the Judiciary.
+- 2022-09-14 — Committee Consideration and Mark-up Session Held.
+- 2022-09-14 — Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 19 - 16.
+- 2022-09-22 — Placed on the House Calendar, Calendar No. 107.
+- 2022-09-22 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-487.
+- 2022-09-22 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-487.
