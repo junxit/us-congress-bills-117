@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 82
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 82
@@ -21,9 +21,10 @@ Authorizing the printing of a revised and updated version of the House document 
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Authorizing the printing of a revised and updated version of the House document 
 - 2022-09-21 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
 - 2022-09-21 — On agreeing to the resolution Agreed to without objection. (text: CR H8032)
 - 2022-09-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2022-09-22 — Received in the Senate and referred to the Committee on Rules and Administration.
