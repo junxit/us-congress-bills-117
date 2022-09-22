@@ -1,7 +1,7 @@
 ---
 measure: S. 4885
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4885
@@ -16,10 +16,11 @@ Kevin and Avonte's Law Reauthorization Act of 2022
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Kevin and Avonte's Law Reauthorization Act of 2022
 
 - 2022-09-19 — Introduced in Senate
 - 2022-09-19 — Read twice and referred to the Committee on the Judiciary.
+- 2022-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5031; text: CR S5031)
+- 2022-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5031; text: CR S5031)
+- 2022-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
