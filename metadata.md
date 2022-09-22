@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 82
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 82
@@ -39,3 +39,8 @@ Authorizing the printing of a revised and updated version of the House document 
 - 2022-09-21 — On agreeing to the resolution Agreed to without objection. (text: CR H8032)
 - 2022-09-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2022-09-22 — Received in the Senate and referred to the Committee on Rules and Administration.
+- 2022-12-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2022-12-21 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S9755)
+- 2022-12-21 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2022-12-21 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2022-12-22 — Message on Senate action sent to the House.
