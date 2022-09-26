@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3460
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “State Antitrust Enforcement Venue Act of 2021”.
+This Act may be cited as the “State Antitrust Enforcement Venue Act of 2022”.
 
 ## § 2. Amendments
 
