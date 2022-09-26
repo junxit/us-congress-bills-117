@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3843
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -108,4 +108,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 18a` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 18a` | replace | by striking the period at the end and inserting “but is less than $1,000,000,000 (as so adjusted and published);”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 18a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 18a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 18` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

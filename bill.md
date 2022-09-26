@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3843
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Merger Filing Fee Modernization Act of 2021”.
+This Act may be cited as the “Merger Filing Fee Modernization Act of 2022”.
 
 ## § 2. Premerger notification filing fees
 
@@ -42,6 +42,13 @@ Section 605 of Public Law 101–162 (15 U.S.C. 18a note) is amended—
   >   - **(2)** As soon as practicable, but not later than January 31 of each year, the Federal Trade Commission shall publish the adjusted amounts required by paragraph (1).
   >   - **(3)** The Federal Trade Commission shall not adjust amounts required by paragraph (1) if the percentage increase described in paragraph (1) is less than 1 percent.
   >   - **(4)** An amount adjusted under this section shall be rounded to the nearest multiple of $5,000.
+  >   - **(5)** For each fiscal year commencing after September 30, 2022, through September 30, 2027, the Federal Trade Commission and Department of Justice shall include in its joint annual report pursuant to the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (15 U.S.C. 18(a) et seq.) the following:
+  >     - **(A)** the increase in funds made available to the Federal Trade Commission and the Department of Justice, respectively, through the adjustment in premerger notification filing fees in 15 U.S.C. 18(a) from the funds made available to the Federal Trade Commission and the Department of Justice, respectively, from premerger notification filing fees as the fees were determined in fiscal year 2021;
+  >     - **(B)** the total revenue derived from premerger notification filing fees, by tier, and how such revenue is used by the Federal Trade Commission and the Department of Justice, respectively; and
+  >     - **(C)** the gross cost of operations of the Federal Trade Commission and the Department of Justice, respectively, associated with activities related to the use of revenue derived from premerger notification filing fees.
+  >   - **(6)** The Federal Trade Commission shall report, in addition to the requirements listed in paragraph (5), a listing of all cases where the Federal Trade Commission took or declined to take action on a 3 to 2 vote and what percentage of actions of the Federal Trade Commission were decided on a 3 to 2 vote.
+  >   - **(7)** The Federal Trade Commission and the Department of Justice shall make the joint annual report pursuant to the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (15 U.S.C. 18(a) et seq.) available to the Senate Committee on the Judiciary and the House Committee on the Judiciary and shall, for fiscal years 2022 through 2027, no later than July 1, present a summary of the joint annual report for the preceding fiscal year, including the information required in paragraph (5) and (6) of this Act, to the Senate Committee on the Judiciary and the House Committee on the Judiciary.
+  >   - **(8)** None of the funds collected by the Federal Trade Commission from premerger notification filing fees under 15 U.S.C. 18(a) and allocated by the Federal Trade Commission shall be available for obligation or expenditure by the Federal Trade Commission and the Department of Justice in excess of the amounts appropriated by Congress for spending authority from offsetting collections, including premerger notification filings under the Hart-Scott Rodino Antitrust Improvements Act of 1976.
 
 ## § 3. Authorization of appropriations
 
