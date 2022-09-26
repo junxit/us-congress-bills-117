@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > Of inquiry requesting the President transmit certain documents in his possession to the House of Representatives relating to the Biden family’s international business schemes and related information.
 
-That the President is requested to transmit to the House of Representatives, not later than 14 days after the adoption of this resolution, copies of any document, record, report, memo, correspondence, or other communication in his possession that refers or relates to—
+That the President is requested to transmit to the House of Representatives, not later than 14 days after the adoption of this resolution, a copy of any document, record, report, memo, correspondence, or other communication in his possession that refers or relates to—
 
 - **(1)** any of the following individuals—
   - **(A)** Robert Hunter Biden;

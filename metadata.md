@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1243
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1243
@@ -25,3 +25,8 @@ Of inquiry requesting the President transmit certain documents in his possession
 - 2022-07-21 — Introduced in House
 - 2022-07-21 — Introduced in House
 - 2022-07-21 — Referred to the House Committee on Oversight and Reform.
+- 2022-09-20 — Committee Consideration and Mark-up Session Held.
+- 2022-09-20 — Ordered to be Reported Unfavorably in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 19.
+- 2022-09-26 — Placed on the House Calendar, Calendar No. 112.
+- 2022-09-26 — Reported adversely (Amended) by the Committee on Oversight and Reform. H. Rept. 117-495.
+- 2022-09-26 — Reported adversely (Amended) by the Committee on Oversight and Reform. H. Rept. 117-495.
