@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1931
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1931
@@ -114,3 +114,8 @@ Japanese American Confinement Education ActNorman Y. Mineta Japanese American Co
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-271.
 - 2022-03-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-271.
 - 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-11 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 117-170.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 117-170.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 512.
