@@ -1,7 +1,7 @@
 ---
 measure: S. 4673
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
