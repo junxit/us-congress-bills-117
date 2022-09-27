@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4118
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4118
@@ -137,3 +137,4 @@ Break the Cycle of Violence Act
 - 2022-09-22 — Rule provides for consideration of H.R. 4118, H.R. 5768, H.R. 6448 and H.R. 8542. Resolution provides for 30 minutes of general debate with one motion to recommit for each bill.
 - 2022-09-22 — The previous question was ordered pursuant to the rule.
 - 2022-09-22 — The previous question was ordered pursuant to the rule.
+- 2022-09-27 — Received in the Senate.
