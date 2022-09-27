@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Japanese American Confinement Education Act”.
+This Act may be cited as the “Japanese American Confinement Education ActNorman Y. Mineta Japanese American Confinement Education Act”.
 
 ## § 2. Japanese American confinement education grants
 
