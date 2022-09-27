@@ -1,7 +1,7 @@
 ---
 measure: S. 4673
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4673
@@ -34,3 +34,7 @@ National Computer Forensics Institute Reauthorization Act of 2022
 
 - 2022-07-28 — Introduced in Senate
 - 2022-07-28 — Read twice and referred to the Committee on the Judiciary.
+- 2022-09-27 — Passed Senate without amendment by Voice Vote. (text: CR S5112-5113)
+- 2022-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2022-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5112)
