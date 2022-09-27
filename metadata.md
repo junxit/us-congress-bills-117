@@ -1,7 +1,7 @@
 ---
 measure: S. 4114
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4114
@@ -28,3 +28,8 @@ A bill to amend Public Law 99-420 to provide for the conveyance of certain Feder
 
 - 2022-04-28 — Introduced in Senate
 - 2022-04-28 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-11 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-169.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-169.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.

@@ -1,7 +1,7 @@
 ---
 measure: S. 4114
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 341` | replace | Section 102(f) of Public Law 99–420 (16 U.S.C. 341 note) is amended by striking “which so desires” in the first sentence and all that follows through the period at the end of paragraph (2) and inserting the following: “that requests the … | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 341` | replace | Section 102(f) of Public Law 99–420 (16 U.S.C. 341 note) is amended by striking “by any town which so desires” in the first sentence and all that follows through the period at the end of paragraph (2) and inserting the following: “for af… | the bill quotes the text struck but describes what replaces it |
