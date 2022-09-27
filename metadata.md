@@ -1,7 +1,7 @@
 ---
 measure: S. 3232
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3232
@@ -16,7 +16,7 @@ STURDY Act
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -30,6 +30,7 @@ STURDY Act
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
 
 ## Committees (1)
 
@@ -39,3 +40,7 @@ STURDY Act
 
 - 2021-11-18 — Introduced in Senate
 - 2021-11-18 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-05-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-161.
+- 2022-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-161.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
