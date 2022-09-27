@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6434
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6434
@@ -56,3 +56,7 @@ Japanese American World War II History Network Act
 - 2022-03-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 16 (Roll no. 77). (text: 3/15/2022 CR H3732)
 - 2022-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 16 (Roll no. 77).(text: 3/15/2022 CR H3732)
 - 2022-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-172.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-172.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 514.
