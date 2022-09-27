@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1344
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,6 +19,7 @@ In this Act:
 
 - **(1)** *Historical park* The term historical park means the Pullman National Historical Park.
 - **(2)** *Map* The term map means the map entitled “Pullman National Historical Park, Chicago, Illinois, Boundary”, numbered ____, and dated _____.
+- **(2)** *Map* The term map means the map entitled “Pullman National Historical Park Boundary”, numbered 590/125,485, and dated November 2021.
 - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Redesignation of Pullman National Monument
@@ -52,7 +53,7 @@ The Secretary shall administer the land within the boundary of the historical pa
 To further the purposes of this subsection and notwithstanding chapter 63 of title 31, United States Code, the Secretary may enter into cooperative agreements with the State, other public and non-profit entities, and other interested parties—
 
 - **(1)** to support collaborative interpretive and educational programs at non-Federal historic properties within the boundaries of the historical park; and
-- **(2)** to identify, interpret, and provide assistance for the preservation of non-Federal land within the boundaries of the historical park and at sites in close proximity to the historical park, but located outside the boundaries of the historical park, including providing for placement of directional and interpretive signage, exhibits, and technology-based interpretive devices; and
+- **(2)** to identify, interpret, and provide assistance for the preservation of non-Federal land within the boundaries of the historical park and at sites in close proximity to the historical park, but located outside the boundaries of the historical park, including providing for placement of directional and interpretive signage, exhibits, and technology-based interpretive devices; and, if the cooperative agreement provides for reasonable public access.
 
 ## § 7. Use of funds
 

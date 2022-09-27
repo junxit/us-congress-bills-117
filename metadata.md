@@ -1,7 +1,7 @@
 ---
 measure: S. 1344
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1344
@@ -28,3 +28,8 @@ Pullman National Historical Park Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S2172)
+- 2022-05-11 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-166.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-166.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
