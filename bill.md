@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2617
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,8 +27,8 @@ Section 1115 of title 31, United States Code, is amended—
   >   - **(F)** an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
 
 - **(2)** by amending subsection (g) to read as follows:
-  > - **(g)** *Preparation of performance plan* The Chief Performance Improvement Office (or the functional equivalent) shall collaborate with the Chief Human Capital Officer (or the functional equivalent), the Chief Information Officer (or the functional equivalent), the Chief Data Officer (or the functional equivalent), and the Chief Financial Officer (or the functional equivalent) to prepare that portion of the annual performance plan described under subsection (b)(5).
+  > - **(g)** *Preparation of performance plan* The Chief Performance Improvement OfficeOfficer of each agency (or the functional equivalent) shall collaborate with the Chief Human Capital Officer (or the functional equivalent), the Chief Information Officer (or the functional equivalent), the Chief Data Officer (or the functional equivalent), and the Chief Financial Officer (or the functional equivalent) of that agency to prepare that portion of the annual performance plan described under subsection (b)(5) for that agency.
 
 ## § 3. Determination of budgetary effects
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the HouseSenate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
