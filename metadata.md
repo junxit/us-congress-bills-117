@@ -1,7 +1,7 @@
 ---
 measure: S. 2367
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2367
@@ -28,3 +28,8 @@ Frederick Jobs and Historic Preservation Training Center Land Acquisition Act
 
 - 2021-07-15 — Introduced in Senate
 - 2021-07-15 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-11 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-167.
+- 2022-09-27 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-167.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
