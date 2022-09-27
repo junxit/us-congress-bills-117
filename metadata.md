@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2617
@@ -42,3 +42,7 @@ Consolidated Appropriations Act, 2023
 - 2021-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 10 (Roll no. 304). (text: CR 7/26/2021 H3880)
 - 2021-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 10 (Roll no. 304).(text: CR 7/26/2021 H3880)
 - 2021-09-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-164.
+- 2022-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-164.
+- 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
