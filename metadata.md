@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5768
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5768
@@ -83,3 +83,4 @@ VICTIM Act of 2022
 - 2022-09-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 178 (Roll no. 454).
 - 2022-09-22 — Rule provides for consideration of H.R. 4118, H.R. 5768, H.R. 6448 and H.R. 8542. Resolution provides for 30 minutes of general debate with one motion to recommit for each bill.
 - 2022-09-22 — The title of the measure was amended. Agreed to without objection.
+- 2022-09-27 — Received in the Senate.
