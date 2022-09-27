@@ -1,7 +1,7 @@
 ---
 measure: S. 3338
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 16 U.S.C. § 410xxx
 
-> Section 7134(a)(3) of appendix C of the Consolidated Appropriations Act, 2018 (16 U.S.C. 410xxx(a)(3)), is amended by striking “numbered 571/149,942, and dated December 2018” and inserting “numbered 571/177,464, and dated September 2021”.
+> Section 7134(a)(3)of appendix C of the Consolidated Appropriations Act, 2018 (16 U.S.C. 410xxx(a)(3)),of the Energy and Natural Resources Act of 2017(as enacted into law by section 121(a)(2) of division G of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 16 U.S.C. 410xxx(a)(3))) is amended by striking “numbered 571/149,942, and dated December 2018” and inserting “numbered 571/177,464, and dated September 2021”.
 
 | | |
 |---|---|
@@ -44,4 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 410xxx` | replace | by striking “The Map” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 410xxx` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 410xxx` | add-at-end | Section 7134(e) of appendix C of the Consolidated Appropriations Act, 2018 (16 U.S.C. 410xxx(e)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 410xxx` | add-at-end | Section 7134(e) of appendix C of the Consolidated Appropriations Act, 2018 (16 U.S.C. 410xxx(e)), of the Energy and Natural Resources Act of 2017(as enacted into law by section 121(a)(2) of division G of the Consolidated Appropriations A… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
