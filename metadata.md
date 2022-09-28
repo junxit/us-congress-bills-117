@@ -1,7 +1,7 @@
 ---
 measure: S. 3655
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3655
@@ -35,3 +35,5 @@ Civil Rights Cold Case Investigations Support Act of 2022
 - 2022-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-134.
 - 2022-07-21 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-134.
 - 2022-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
+- 2022-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5135; text: CR S5135)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
