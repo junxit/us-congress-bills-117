@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1285
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1285
@@ -30,3 +30,9 @@ Requesting the President to transmit certain information to the House of Represe
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Referred to the House Committee on Ways and Means.
 - 2022-07-26 — Referred to the Subcommittee on Trade.
+- 2022-09-19 — Subcommittee on Trade Discharged.
+- 2022-09-20 — Committee Consideration and Mark-up Session Held.
+- 2022-09-20 — Ordered to be Reported Adversely by Voice Vote.
+- 2022-09-28 — Placed on the House Calendar, Calendar No. 127.
+- 2022-09-28 — Reported adversely by the Committee on Ways and Means. H. Rept. 117-520.
+- 2022-09-28 — Reported adversely by the Committee on Ways and Means. H. Rept. 117-520.
