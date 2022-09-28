@@ -48,19 +48,12 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >     - **(C)** identify best practices relating to broadband and emerging information technology that may benefit small business concerns; and
   >     - **(D)** identify and catalog tools and training available through the resource partners of the Administration that assist small business concerns in adopting, making innovations in, and using broadband and emerging information technologies.
   >   - **(3)** *Travel* Not more than 20 percent of the hours of service by the broadband and emerging information technology coordinator during any fiscal year shall consist of travel outside the United States to perform official duties.
-  > - **(c)** *Broadband and emerging information technology training* The Associate Administrator shall provide to employees of the Administration training that—
+  > - **(c)** *Broadband and emerging information technology training* The broadband and emerging information technology coordinator shall provide to employees of the Administration training that—
   >   - **(1)** familiarizes employees of the Administration with broadband and other emerging information technologies;
   >   - **(2)** includes—
   >     - **(A)** instruction on counseling small business concerns regarding adopting, making innovations in, and using broadband and other emerging information technologies; and
   >     - **(B)** information on programs of the Federal Government that provide assistance to small business concerns relating to broadband and emerging information technologies; and
   >   - **(3)** to maximum extent practicable, uses the tools and training cataloged and identified under subsection (b)(2)(D).
-  >   - **(1)** *Training* The Associate Administrator shall provide to employees of the Administration training that—
-  >     - **(A)** familiarizes employees of the Administration with broadband and other emerging information technologies;
-  >     - **(B)** includes—
-  >       - **(i)** instruction on counseling small business concerns regarding adopting, making innovations in, and using broadband and other emerging information technologies; and
-  >       - **(ii)** information on programs of the Federal Government that provide assistance to small business concerns relating to broadband and emerging information technologies; and
-  >     - **(C)** to maximum extent practicable, uses the tools and training cataloged and identified under subsection (b)(2)(D).
-  >   - **(2)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this subsection.
   > - **(d)** *Reports*
   >   - **(1)** *Biennial report on activities* Not later than 2 years after the date on which the Associate Administrator makes the first designation of an employee under subsection (b), and every 2 years thereafter, the broadband and emerging information technology coordinator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the programs and activities of the Administration relating to broadband and other emerging information technologies.
   >   - **(2)** *Impact of broadband availability, speed, and price and emerging information technology deployment on small businesses*
@@ -72,7 +65,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >       - **(ii)** a survey of the cost of broadband speeds available to small business concerns;
   >       - **(iii)** a survey of the type of broadband technology used by small business concerns;
   >       - **(iv)** a survey of the types of emerging information technologies used by small business concerns; and
-  >       - **(v)** any policy recommendations that may improve the access of small business concerns to comparable broadband services or emerging information technologies at comparable rates in all regions of the United States.
+  >       - **(v)** any policy recommendations that may improve the access of small business concerns to broadband services or emerging information technologies.
 
 ## § 3. Entrepreneurial development
 
