@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6364
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6364
@@ -30,3 +30,17 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to exte
 - 2022-01-10 — Introduced in House
 - 2022-01-10 — Introduced in House
 - 2022-01-10 — Referred to the House Committee on Natural Resources.
+- 2022-01-12 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-06-14 — Subcommittee Hearings Held.
+- 2022-07-13 — Committee Consideration and Mark-up Session Held.
+- 2022-07-13 — Ordered to be Reported by Unanimous Consent.
+- 2022-07-13 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-09-28 — Considered under suspension of the rules. (consideration: CR H8159-8160)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6364.
+- 2022-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-28 — Ms. Tlaib moved to suspend the rules and pass the bill, as amended.
+- 2022-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8159)
+- 2022-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-09-28 — Placed on the Union Calendar, Calendar No. 378.
+- 2022-09-28 — Reported by the Committee on Natural Resources. H. Rept. 117-503.
+- 2022-09-28 — Reported by the Committee on Natural Resources. H. Rept. 117-503.
