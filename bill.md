@@ -13,13 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Reduce and Eliminate Mental Health Outpatient Veteran Copays Act” or the “REMOVE Copays Act”.
 
-## § 2. Prohibition on imposition or collection of copayments for certain mental health outpatient care visits of veterans
+## § 2. Prohibition on collection of copayments for first three mental health care outpatient visits of veterans
 
-- **(a)** *Prohibition* Section 1722B of title 38, United States Code, is amended—
-  - **(1)** in the section heading, by striking “collection” and all that follows through “veterans” and inserting “and prohibition on collection of copayments for certain visits of veterans”;
-  - **(2)** by striking “The Secretary may” and inserting “(a) Telehealth and telemedicine visits.—The Secretary may”; and
-  - **(3)** by adding at the end the following new subsection:
-    > - **(b)** *Mental health outpatient care visits* The Secretary may not impose or collect any copayment under the laws administered by the Secretary with respect to any veteran enrolled in the system of annual patient enrollment established under section 1705(a) of this title for the first three mental health outpatient care visits of the veteran in a calendar year.
+- **(a)** *Prohibition on collection* Chapter 17 of title 38, United States Code, is amended by inserting after section 1722B the following new section (and conforming the table of sections at the beginning of such chapter accordingly):
+  > ## § 1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans
+  >
+  > - **(a)** *Prohibition* Except as provided in subsection (b), notwithstanding section 1710(g) of this title or any other provision of law, the Secretary may not impose or collect a copayment for the first three mental health care outpatient visits of a veteran in a calendar year for which the veteran would otherwise be required to pay a copayment under the laws administered by the Secretary.
+  > - **(b)** *Copayment for medications* The prohibition under subsection (a) shall not apply with respect to the imposition or collection of copayments for medications pursuant to section 1722A of this title.
+  > - **(c)** *Mental health care outpatient visit defined* In this section, the term “mental health care outpatient visit” means an outpatient visit with a qualified mental health professional for the primary purpose of seeking mental health care or treatment for substance abuse disorder.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 17 of such title is amended by striking the item relating to section 1722B and inserting the following new item:
-- **(c)** *Applicability* The amendments made by subsection (a) shall apply with respect to mental health outpatient care visits occurring on or after the date of the enactment of this Act.
+- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to mental health care outpatient visits occurring on or after the date that is 180 days after the date of the enactment of this Act.

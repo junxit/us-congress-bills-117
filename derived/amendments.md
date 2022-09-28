@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7589
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the section heading, by striking “collection” and all that follows through “veterans” and inserting “and prohibition on collection of copayments for certain visits of veterans”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “The Secretary may” and inserting “(a) Telehealth and telemedicine visits.—The Secretary may”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 17 of such title is amended by striking the item relating to section 1722B and inserting the following new item: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1722B` | insert | Chapter 17 of title 38, United States Code, is amended by inserting after section 1722B the following new section (and conforming the table of sections at the beginning of such chapter accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
