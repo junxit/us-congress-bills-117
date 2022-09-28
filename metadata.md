@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1246
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1246
@@ -29,3 +29,8 @@ Of inquiry directing the Secretary of the Treasury to provide certain documents 
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Referred to the House Committee on Ways and Means.
+- 2022-09-20 — Committee Consideration and Mark-up Session Held.
+- 2022-09-20 — Ordered to be Reported Adversely by Voice Vote.
+- 2022-09-28 — Placed on the House Calendar, Calendar No. 129.
+- 2022-09-28 — Reported adversely by the Committee on Ways and Means. H. Rept. 117-522.
+- 2022-09-28 — Reported adversely by the Committee on Ways and Means. H. Rept. 117-522.
