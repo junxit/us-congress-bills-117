@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5659
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5659
@@ -96,3 +96,12 @@ To designate the facility of the United States Postal Service located at 1961 No
 - 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7282-7283)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-280.
+- 2022-12-27 — Became Public Law No: 117-280.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
