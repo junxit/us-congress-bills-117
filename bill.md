@@ -19,7 +19,7 @@ In this Act:
 
 - **(1)** *Administrator* The term Administrator means the Administrator of the Federal Emergency Management Agency.
 - **(2)** *Indian Tribal Government* The term Indian Tribal government has the meaning given the term “Indian tribal government” in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122).
-- **(3)** *Local Government; State* The terms local government and State have the meaningmeanings given those terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122).
+- **(3)** *Local Government; State* The terms local government and State have the meanings given those terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122).
 - **(4)** *Technological Hazard and Related Emerging Threat* The term technological hazard and related emerging threat—
   - **(A)** means a hazard that involves materials created by humans that pose a unique hazard to the general public and environment and which may result from—
     - **(i)** an accident;
@@ -44,7 +44,7 @@ In this Act:
 - **(d)** *Report* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Appropriations of the Senate, the Committee on Homeland Security of the House of Representatives, the Committee on Appropriations of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report relating to—
   - **(1)** actions taken to implement this section; and
   - **(2)** technological hazards and related emerging threats preparedness programming provided under this section during the 1-year period preceding the date of submission of the report.
-- **(e)** *Consultation* The Secretary of Homeland Security may seek continuing input relating to technological hazards and related emerging threats preparedness needs by consulting State, Tribal, Territorialterritorial, and local emergency services organizations and private sector stakeholders.
+- **(e)** *Consultation* The Secretary of Homeland Security may seek continuing input relating to technological hazards and related emerging threats preparedness needs by consulting State, Tribal, territorial, and local emergency services organizations and private sector stakeholders.
 
 ## § 4. Authorization of Appropriations
 

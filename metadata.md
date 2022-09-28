@@ -1,7 +1,7 @@
 ---
 measure: S. 4166
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4166
@@ -32,3 +32,5 @@ Technological Hazards Preparedness and Training Act of 2022
 - 2022-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-129.
 - 2022-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-129.
 - 2022-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
+- 2022-09-28 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5162-5163; text: CR S5163)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
