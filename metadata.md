@@ -1,7 +1,7 @@
 ---
 measure: H.R. 521
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 521
@@ -70,3 +70,7 @@ First Responder Fair RETIRE Act
 - 2022-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 301). (text: CR H5955-5957)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 301).
 - 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-173.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-173.
+- 2022-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 515.
