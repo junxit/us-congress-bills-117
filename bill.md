@@ -24,6 +24,10 @@ Section 113 of the Federal Credit Union Act (12 U.S.C. 1761b) is amended—
 - **(3)** in subsection (a) (as so designated), by striking “shall meet at least once a month and”; and
 - **(4)** by adding at the end the following:
   > - **(b)** *Meetings* The board of directors of a Federal credit union shall meet as follows:
-  >   - **(1)** With respect to a Federal credit union, not less than six times annually, with at least one meeting held during each fiscal quarter.
-  >   - **(2)** With respect to a de novo Federal credit union, not less frequently than monthly during each of the first five years of the existence of such Federal credit union.
-  >   - **(3)** With respect to a Federal credit union with composite rating of either 4 or 5 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system), not less frequently than once a month.
+  >   - **(1)** With respect to a de novo Federal credit union, not less frequently than monthly during each of the first five years of the existence of such Federal credit union.
+  >   - **(2)** Not less than six times annually, with at least one meeting held during each fiscal quarter, with respect to a Federal credit union—
+  >     - **(A)** with composite rating of either 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system); and
+  >     - **(B)** with a capability of management rating under such composite rating of either 1 or 2.
+  >   - **(3)** Not less frequently than once a month, with respect to a Federal credit union—
+  >     - **(A)** with composite rating of either 3, 4, or 5 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system); or
+  >     - **(B)** with a capability of management rating under such composite rating of either 3, 4, or 5.
