@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5615
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5615
@@ -45,3 +45,7 @@ Homeland Security Capabilities Preservation Act
 - 2022-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1307-1308)
 - 2022-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1307-1308)
 - 2022-03-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. Without written report.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. Without written report.
+- 2022-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 521.
