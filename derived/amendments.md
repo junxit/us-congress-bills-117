@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6965
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 1546
+
+> by striking “the Secretary of the Interior to serve” and inserting “the Secretary of Commerce to serve”.
+
+| | |
+|---|---|
+| Removed | `the Secretary of the Interior to serve` |
+| Inserted | `the Secretary of Commerce to serve` |
 
 ## Stated, not applied
 
@@ -33,5 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “There shall be in the Department two additional Assistant Secretaries” and inserting “(1) There shall be in the Department 3 additional Assistant Secretaries, including the Assistant Secretary of Commerce for Travel and Tour… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 1546` | amend | by amending the section heading to read as follows: “united states travel and tourism advisory board; advisory committee”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1546` | replace | by striking “The Secretary of Commerce is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1546` | replace | by striking “Sec. 3.” and all that follows through “The Secretary of the Interior is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
