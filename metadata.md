@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 753
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 753
@@ -16,13 +16,14 @@ A resolution urging the Government of Brazil to ensure that the October 2022 ele
 
 - Sen. Sanders, Bernard [I-VT] (S000033)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ A resolution urging the Government of Brazil to ensure that the October 2022 ele
 
 - 2022-09-07 — Introduced in Senate
 - 2022-09-07 — Referred to the Committee on Foreign Relations. (text: CR S4481-4482)
+- 2022-09-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 09/07/2022 CR S4481-4482)
+- 2022-09-28 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 09/07/2022 CR S4481-4482)
+- 2022-09-28 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2022-09-28 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S5140-5141)
