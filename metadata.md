@@ -1,7 +1,7 @@
 ---
 measure: S. 1687
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1687
@@ -39,3 +39,5 @@ Small Business Cyber Training Act of 2022
 - 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
 - 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
 - 2022-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 393.
+- 2022-09-28 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5165-5166; text: CR S5165-5166)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5165-5166; text: CR S5165-5166)
