@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3462
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3462
@@ -16,9 +16,10 @@ SBA Cyber Awareness Act
 
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Kim, Young [R-CA-39] (K000397)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (2)
 
@@ -48,3 +49,13 @@ SBA Cyber Awareness Act
 - 2022-02-17 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin without amendment. Without written report.
 - 2022-02-17 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin without amendment. Without written report.
 - 2022-02-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.
+- 2022-05-03 — By Senator Cardin from Committee on Small Business and Entrepreneurship filed written report. Report No. 117-102.
+- 2022-05-03 — By Senator Cardin from Committee on Small Business and Entrepreneurship filed written report. Report No. 117-102.
+- 2022-09-28 — Amendment SA 6028 agreed to in Senate by Unanimous Consent.
+- 2022-09-28 — Amendment SA 6028 proposed by Senator Schumer for Senator Cardin. (consideration: CR S5168; text: CR S5168) In the nature of a substitute.
+- 2022-09-28 — Measure laid before Senate by unanimous consent. (consideration: CR S5168)
+- 2022-09-28 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5168)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-09-28 — Senate amendment agreed to: Amendment SA 6028 agreed to in Senate by Unanimous Consent.
+- 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6028 proposed by Senator Schumer for Senator Cardin.
+- 2022-09-28 — Senate amendment submitted
