@@ -13,28 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Visit America Act”.
 
-## § 2. Purposes
-
-The purposes of this Act are—
-
-- **(1)** to support the travel and tourism industry, which produces economic impacts that are vital to our national economy; and
-- **(2)** to establish national goals for international visitors to the United States, including—
-  - **(A)** recommendations for achieving such goals and timelines for implementing such recommendations;
-  - **(B)** coordination between Federal and State agencies;
-  - **(C)** the resources needed by each Government agency to achieve such goals; and
-  - **(D)** the number of international visitors and the value of national travel exports.
-
-## § 3. Sense of Congress
-
-It is the sense of Congress that—
-
-- **(1)** setting a national goal for the number of international visitors to the United States is vital for aligning Federal tourism policy to support American jobs and economic growth;
-- **(2)** setting a national goal for travel exports is vital for aligning Federal tourism policy to support American jobs, increase travel exports, and improve our Nation’s balance of trade;
-- **(3)** the travel industry is an essential part of the United States services exports with respect to business, education, medical, and leisure travel;
-- **(4)** the promotion of travel and visitation by the Corporation for Travel Promotion (doing business as “Brand USA”) is vital to increasing visitation and articulating the visitation laws of the United States; and
-- **(5)** there is an urgent need for a coordinated travel and tourism industry response and strategy to respond to the current state of such industry and future unforeseen circumstances that may impact the travel and tourism industry.
-
-## § 4. Assistant Secretary for Travel and Tourism
+## § 2. Assistant Secretary for Travel and Tourism
 
 Section 2(d) of the Reorganization Plan Numbered 3 of 1979 (93 Stat. 1382; 5 U.S.C. App.) is amended—
 
@@ -44,12 +23,12 @@ Section 2(d) of the Reorganization Plan Numbered 3 of 1979 (93 Stat. 1382; 5 U.S
   >   - **(A)** be appointed by the President, subject to the advice and consent of the Senate; and
   >   - **(B)** report directly to the Under Secretary for International Trade.
 
-## § 5. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism
+## § 3. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism
 
-- **(a)** *Visitation goals* The Assistant Secretary of Commerce for Travel and Tourism (referred to in this section as the “Assistant Secretary”), appointed pursuant to section 2(d) of the Reorganization Plan Numbered 3 of 1979, as amended by section 4, shall—
-  - **(1)** establish an annual goal, consistent with the goals of the travel and tourism strategy developed pursuant to section 6(1), for—
+- **(a)** *Visitation goals* The Assistant Secretary of Commerce for Travel and Tourism (referred to in this section as the “Assistant Secretary”), appointed pursuant to section 2(d) of the Reorganization Plan Numbered 3 of 1979, as amended by section 2, shall—
+  - **(1)** establish an annual visitation goal, consistent with the goals of the travel and tourism strategy developed pursuant to section 4(1), for—
     - **(A)** the number of international visitors to the United States; and
-    - **(B)** the value of travel exports;
+    - **(B)** the value of travel and tourism commerce;
   - **(2)** develop recommendations for achieving the annual goals established pursuant to paragraph (1);
   - **(3)** ensure that travel and tourism policy is developed in consultation with—
     - **(A)** the Tourism Policy Council;
@@ -78,10 +57,10 @@ Section 2(d) of the Reorganization Plan Numbered 3 of 1979 (93 Stat. 1382; 5 U.S
   - **(1)** consult with the Secretary of Labor to develop strategies and best practices for improving the timeliness and reliability of travel and tourism workforce data;
   - **(2)** work with the Secretary of Labor and the Bureau of Economic Analysis to improve travel and tourism industry data; and
   - **(3)** provide recommendations for policy enhancements and efficiencies.
-- **(e)** *Travel export promotion* The Assistant Secretary, in coordination with the Assistant Secretary of Commerce for Global Markets and the Director General of the United States and Foreign Commercial Service, shall work to promote and facilitate travel exports abroad and ensure competitiveness by engaging in, at a minimum—
-  - **(1)** promoting meetings, incentives, conferences, and exhibitions;
-  - **(2)** emphasizing rural and other destinations rich in cultural heritage or ecological tourism, among other uniquely American destinations; and
-  - **(3)** promoting sports and recreation events and activities, which shall be hosted in the United States.
+- **(e)** *International business travel facilitation* The Assistant Secretary, in coordination with relevant Federal agencies, shall work to increase and facilitate international business travel to the United States and ensure competitiveness by engaging in, at a minimum—
+  - **(1)** facilitating large meetings, incentives, conferences, and exhibitions to be hosted in the United States;
+  - **(2)** emphasizing rural and other destinations rich in cultural heritage or ecological tourism, among other uniquely American destinations, as locations for hosting international meetings, incentives, conferences, and exhibitions in the United States; and
+  - **(3)** facilitating sports and recreation events and activities, which shall be hosted in the United States.
 - **(f)** *Recovery strategy*
   - **(1)** *Initial recovery strategy* Not later than 1 year after amounts are appropriated to accomplish the purposes of this section, the Assistant Secretary, in consultation with public and private stakeholders identified in subsection (a)(3) and public health officials, shall develop and implement a COVID–19 public health emergency recovery strategy to assist the United States travel and tourism industry to quickly recover from the pandemic.
   - **(2)** *Future recovery strategies* After assisting in the implementation of the strategy developed pursuant to paragraph (1), the Assistant Secretary, in consultation with appropriate public and private stakeholders, shall develop additional recovery strategies for the travel and tourism industry in anticipation of other unforeseen catastrophic events that would significantly affect the travel and tourism industry, such as hurricanes, floods, tsunamis, tornadoes, terrorist attacks, and pandemics.
@@ -94,25 +73,26 @@ Section 2(d) of the Reorganization Plan Numbered 3 of 1979 (93 Stat. 1382; 5 U.S
   - **(2)** *Bureau of economic analysis* The Director of the Bureau of Economic Analysis should annually update, to the extent feasible, the Travel and Tourism Satellite Accounts, including—
     - **(A)** State level travel and tourism spending data;
     - **(B)** travel and tourism workforce data for full-time and part-time employment; and
-    - **(C)** Federal and State public lands spending data.
+    - **(C)** Federal and State public lands outdoor recreational activity and tourism spending data.
   - **(3)** *National travel and tourism office* The Director of the National Travel and Tourism Office—
     - **(A)** in partnership with the Bureau of Economic Analysis, shall report international arrival and spending data on a regular monthly schedule, which shall be made available to the Travel and Tourism Advisory Board and to the public through a publicly available website; and
     - **(B)** shall include questions in the Survey of International Air Travelers regarding wait-times, visits to public lands, and State data, to the extent applicable.
 
-## § 6. Travel and tourism strategy
+## § 4. Travel and tourism strategy
 
 Not less frequently than once every 10 years, the Secretary of Commerce, in consultation with the United States Travel and Tourism Advisory Board, the Tourism Policy Council, and the Secretary of Homeland Security, shall develop and submit to Congress a 10-year travel and tourism strategy, which shall include—
 
-- **(1)** the establishment of goals with respect to the number of annual international visitors to the United States and the annual value of travel exports during such 10-year period;
+- **(1)** the establishment of goals with respect to the number of annual international visitors to the United States and the annual value of travel and tourism commerce in the United States during such 10-year period;
 - **(2)** the resources needed to achieve the goals established pursuant to paragraph (1); and
 - **(3)** recommendations for statutory or regulatory changes that would be necessary to achieve such goals.
 
-## § 7. United States Travel and Tourism Advisory Board
+## § 5. United States Travel and Tourism Advisory Board
 
-Section 3 of the Act entitled “An Act to encourage travel in the United States, and for other purposes” (15 U.S.C. 1546) is amended—
+Section 3 of the Act of July 19, 1940, entitled “An Act to encourage travel in the United States, and for other purposes” (15 U.S.C. 1546) is amended—
 
-- **(1)** by amending the section heading to read as follows: “united states travel and tourism advisory board; advisory committee”; and
-- **(2)** by striking “The Secretary of Commerce is authorized” and inserting the following:
+- **(1)** by striking “Sec. 3.” and all that follows through “The Secretary of the Interior is authorized” and inserting the following:
+  > ## § 3. United States Travel and Tourism Advisory Board; Advisory committee
+  >
   > - **(a)** *United States Travel and Tourism Advisory Board*
   >   - **(1)** *In general* There is established the United States Travel and Tourism Advisory Board (referred to in this subsection as the “Board”), the members of which shall be appointed by the Secretary of Commerce for 2-year terms from among companies and organizations in the travel and tourism industry.
   >   - **(2)** *Executive director* The Assistant Secretary for Travel and Tourism shall serve as the Executive Director of the Board.
@@ -123,14 +103,20 @@ Section 3 of the Act entitled “An Act to encourage travel in the United States
   >     - **(C)** offer counsel on current and emerging issues;
   >     - **(D)** provide a forum for discussing and proposing solutions to problems related to the travel and tourism industry; and
   >     - **(E)** provide advice regarding the domestic travel and tourism industry as an economic engine.
-  >   - **(5)** *Recovery strategy* The Board shall assist the Assistant Secretary in the development and implementation of the COVID–19 public health emergency recovery strategy required under section 5(f)(1) of the Visit America Act.
+  >   - **(5)** *Recovery strategy* The Board shall assist the Assistant Secretary in the development and implementation of the COVID–19 public health emergency recovery strategy required under section 3(f)(1) of the Visit America Act.
   > - **(b)** *Advisory committee for promotion of tourist travel* The Secretary of Commerce is authorized
 
-## § 8. Data on domestic travel and tourism
+- **(2)** by striking “the Secretary of the Interior to serve” and inserting “the Secretary of Commerce to serve”.
 
-The Secretary of Commerce, subject to the availability of appropriations, shall collect and make public aggregate data on domestic travel and tourism trends by individuals traveling between points within the United States.
+## § 6. Data on domestic travel and tourism
 
-## § 9. Defined term
+The Secretary of Commerce, subject to the availability of appropriations, shall collect and make public aggregate data on domestic travel and tourism trends.
+
+## § 7. Completion of proceeding
+
+If the Secretary of Commerce has, before the date of the enactment of this Act, taken action that in whole or in part implements this Act or the amendments made by this Act, the Secretary is not required to revisit such action, but only to the extent such action is consistent with this Act and the amendments made by this Act.
+
+## § 8. Defined term
 
 In this Act, the term “COVID–19 public health emergency”—
 
