@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1251
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1251
@@ -25,3 +25,14 @@ Of inquiry directing the Secretary of Agriculture to transmit certain documents 
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Referred to the House Committee on Natural Resources.
+- 2022-07-23 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2022-07-23 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-07-23 — Referred to the Subcommittee on Oversight and Investigations.
+- 2022-09-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2022-09-15 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2022-09-15 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-09-15 — Subcommittee on Oversight and Investigations Discharged.
+- 2022-09-21 — Ordered to be Reported Adversely (Amended) by the Yeas and Nays: 22 - 18.
+- 2022-09-28 — Placed on the House Calendar, Calendar No. 116.
+- 2022-09-28 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 117-499.
+- 2022-09-28 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 117-499.
