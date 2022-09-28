@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3482
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 1 of Subtitle I of title 49, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The analysis for chapter 1 of subtitle 1 of title 49, United States Code, is amended by inserting after the item relating to section 117 the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 7801` | add-at-end | Chapter 1 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 119` | insert | The analysis for chapter 1 of title 49, United States Code, is amended by inserting after the item relating to section 119 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
