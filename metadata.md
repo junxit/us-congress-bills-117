@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1261
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1261
@@ -25,3 +25,10 @@ Of inquiry requesting the President to provide certain documents to the House of
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Referred to the House Committee on Energy and Commerce.
+- 2022-07-27 — Referred to the Subcommittee on Consumer Protection and Commerce.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported Adversely by the Yeas and Nays: 30 - 18.
+- 2022-09-21 — Subcommittee on Consumer Protection and Commerce Discharged.
+- 2022-09-28 — Placed on the House Calendar, Calendar No. 121.
+- 2022-09-28 — Reported adversely by the Committee on Energy and Commerce. H. Rept. 117-511.
+- 2022-09-28 — Reported adversely by the Committee on Energy and Commerce. H. Rept. 117-511.
