@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3462
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3462
@@ -59,3 +59,17 @@ SBA Cyber Awareness Act
 - 2022-09-28 — Senate amendment agreed to: Amendment SA 6028 agreed to in Senate by Unanimous Consent.
 - 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6028 proposed by Senator Schumer for Senator Cardin.
 - 2022-09-28 — Senate amendment submitted
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2022-12-05 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 3462.
+- 2022-12-05 — Ms. Velazquez moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8736-8738)
+- 2022-12-06 — Considered as unfinished business. (consideration: CR H8775-8776; H8782)
+- 2022-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-06 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 506). (text: 12/05/2022 CR H8736-8737)
+- 2022-12-06 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 506).
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-21 — Became Public Law No: 117-259.
+- 2022-12-21 — Became Public Law No: 117-259.
+- 2022-12-21 — Signed by President.
+- 2022-12-21 — Signed by President.
