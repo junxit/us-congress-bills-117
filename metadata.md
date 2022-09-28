@@ -1,7 +1,7 @@
 ---
 measure: H.R. 228
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 228
@@ -94,3 +94,12 @@ To designate the facility of the United States Postal Service located at 2141 Fe
 - 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2022-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
+- 2022-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7009)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-07 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-19 — Became Public Law No: 117-230.
+- 2022-12-19 — Became Public Law No: 117-230.
+- 2022-12-19 — Signed by President.
+- 2022-12-19 — Signed by President.
