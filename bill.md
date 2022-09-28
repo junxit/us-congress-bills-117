@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1638
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,7 +30,7 @@ In this Act:
   - **(2)** made by quitclaim deed; and
   - **(3)** subject to any other terms and conditions as the Secretary considers appropriate to protect the interests of the United States.
 - **(c)** *Appraisal*
-  - **(1)** *In general* Before submitting an offer under subsection (a), the State shall complete an appraisal to determine the market value of the Federal land.
+  - **(1)** *In general* After the State submits an offer under subsection (a), the Secretary shall complete an appraisal to determine the market value of the Federal land.
   - **(2)** *Standards* The appraisal under paragraph (1) shall be conducted in accordance with—
     - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
     - **(B)** the Uniform Standards of Professional Appraisal Practice.
