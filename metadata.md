@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5001
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5001
@@ -52,3 +52,8 @@ Upper Colorado and San Juan River Basins Recovery Act
 - 2022-03-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 27 (Roll no. 72). (text: CR H3731)
 - 2022-03-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 27 (Roll no. 72).
 - 2022-03-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-25 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-09-28 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-174.
+- 2022-09-28 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-174.
+- 2022-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 520.
