@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1247
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1247
@@ -25,3 +25,12 @@ Of inquiry directing the Secretary of the Interior to transmit certain documents
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Introduced in House
 - 2022-07-22 — Referred to the House Committee on Natural Resources.
+- 2022-07-23 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2022-07-23 — Referred to the Subcommittee on Oversight and Investigations.
+- 2022-09-15 — Committee Consideration and Mark-up Session Held.
+- 2022-09-15 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2022-09-15 — Subcommittee on Oversight and Investigations Discharged.
+- 2022-09-21 — Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 21 - 19.
+- 2022-09-28 — Placed on the House Calendar, Calendar No. 114.
+- 2022-09-28 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 117-497.
+- 2022-09-28 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 117-497.
