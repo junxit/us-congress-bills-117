@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6080
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6080
@@ -31,3 +31,11 @@ To designate the facility of the United States Postal Service located at 5420 Ka
 - 2021-11-26 — Introduced in House
 - 2021-11-26 — Introduced in House
 - 2021-11-26 — Referred to the House Committee on Oversight and Reform.
+- 2022-02-02 — Committee Consideration and Mark-up Session Held.
+- 2022-02-02 — Ordered to be Reported by Unanimous Consent.
+- 2022-09-28 — Considered under suspension of the rules. (consideration: CR H8149-8150)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6080.
+- 2022-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-28 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-09-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8149)
+- 2022-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
