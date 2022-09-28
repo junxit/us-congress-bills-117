@@ -1,7 +1,7 @@
 ---
 measure: S. 3906
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3906
@@ -36,3 +36,12 @@ Small Business Broadband and Emerging Information Technology Enhancement Act of 
 - 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with amendments. Without written report.
 - 2022-05-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with amendments. Without written report.
 - 2022-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.
+- 2022-09-28 — Amendment SA 6027 agreed to in Senate by Unanimous Consent.
+- 2022-09-28 — Amendment SA 6027 proposed by Senator Schumer for Senator Cardin. (consideration: CR S5167-5168; text: CR S5167) In the nature of a substitute.
+- 2022-09-28 — Measure laid before Senate by unanimous consent. (consideration: CR S5166-5168)
+- 2022-09-28 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S5167)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2022-09-28 — Senate amendment agreed to: Amendment SA 6027 agreed to in Senate by Unanimous Consent.
+- 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6027 proposed by Senator Schumer for Senator Cardin.
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — The committee amendments withdrawn by Unanimous Consent.
