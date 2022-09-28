@@ -1,7 +1,7 @@
 ---
 measure: S. 3875
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3875
@@ -41,3 +41,20 @@ Community Disaster Resilience Zones Act of 2022
 - 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6026 proposed by Senator Schumer for Senator Peters.
 - 2022-09-28 — Senate amendment submitted
 - 2022-09-28 — The committee substitute withdrawn by Unanimous Consent.
+- 2022-09-29 — Held at the desk.
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-09-29 — Received in the House.
+- 2022-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-05 — Considered under suspension of the rules. (consideration: CR H8742-8744)
+- 2022-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 3875.
+- 2022-12-05 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2022-12-06 — Considered as unfinished business. (consideration: CR H8771-8773; H8776-8777)
+- 2022-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 333 - 92 (Roll no. 507). (text: 12/05/2022 CR H8742-8743)
+- 2022-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 333 - 92 (Roll no. 507).
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-255.
+- 2022-12-20 — Became Public Law No: 117-255.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
