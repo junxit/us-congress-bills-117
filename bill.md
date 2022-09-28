@@ -2,12 +2,14 @@
 legis-num: H.R. 3462
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3462
 
-> To require an annual report on the cybersecurity of the Small Business Administration, and for other purposes.
+That the bill from the House of Representatives (H.R. 3462) entitled “An Act to require an annual report on the cybersecurity of the Small Business Administration, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -15,24 +17,23 @@ This Act may be cited as the “SBA Cyber Awareness Act”.
 
 ## § 2. Cybersecurity awareness reporting
 
-Section 10 of the Small Business Act (15 U.S.C. 639) is amended by inserting after subsection (a) the following:
+- **(a)** *In general* Section 10 of the Small Business Act (15 U.S.C. 639) is amended by inserting after subsection (a) the following:
+  > - **(b)** *Cybersecurity reports*
+  >   - **(1)** *Annual report* Not later than 180 days after the date of enactment of this subsection, and every year thereafter, the Administrator shall submit a report to the appropriate congressional committees that includes—
+  >     - **(A)** a strategy to increase the cybersecurity of information technology infrastructure of the Administration;
+  >     - **(B)** a supply chain risk management strategy and an implementation plan to address the risks of foreign manufactured information technology equipment utilized by the Administration, including specific risk mitigation activities for components originating from entities with principal places of business located in the People’s Republic of China; and
+  >     - **(C)** an account of—
+  >       - **(i)** any incident that occurred at the Administration during the 2-year period preceding the date on which the first report is submitted, and, for subsequent reports, the 1-year period preceding the date of submission; and
+  >       - **(ii)** any action taken by the Administrator to respond to or remediate any such incident.
+  >   - **(2)** *FISMA reports* Each report required under paragraph (1) may be submitted as part of the report required under section 3554 of title 44, United States Code.
+  >   - **(3)** *Rule of construction* Nothing in this subsection shall be construed to affect the reporting requirements of the Administrator under chapter 35 of title 44, United States Code, in particular the requirement to notify the Federal information security incident center under section 3554(b)(7)(C)(ii) of such title, any guidance issued by the Office of Management and Budget, or any other provision of law or Federal policy.
+  >   - **(4)** *Definitions* In this subsection:
+  >     - **(A)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  >       - **(i)** the Committee on Small Business and Entrepreneurship of the Senate;
+  >       - **(ii)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+  >       - **(iii)** the Committee on Small Business of the House of Representatives; and
+  >       - **(iv)** the Committee on Oversight and Reform of the House of Representatives.
+  >     - **(B)** *Incident* The term incident has the meaning given the term in section 3552 of title 44, United States Code.
+  >     - **(C)** *Information technology* The term information technology has the meaning given the term in section 3502 of title 44, United States Code.
 
-> - **(b)** *Cybersecurity reports*
->   - **(1)** *Annual report* Not later than 180 days after the date of enactment of this subsection, and every year thereafter, the Administrator shall submit a report to the appropriate congressional committees that includes—
->     - **(A)** an assessment of the information technology (as defined in section 11101 of title 40, United States Code) and cybersecurity infrastructure of the Administration;
->     - **(B)** a strategy to increase the cybersecurity infrastructure of the Administration;
->     - **(C)** a detailed account of any information technology equipment or interconnected system or subsystem of equipment of the Administration that was manufactured by an entity that has its principal place of business located in the People’s Republic of China; and
->     - **(D)** an account of any cybersecurity risk or incident that occurred at the Administration during the 2-year period preceding the date on which the report is submitted, and any action taken by the Administrator to respond to or remediate any such cybersecurity risk or incident.
->   - **(2)** *Additional reports* If the Administrator determines that there is a reasonable basis to conclude that a cybersecurity risk or incident occurred at the Administration, the Administrator shall—
->     - **(A)** not later than 7 days after the date on which the Administrator makes that determination, notify the appropriate congressional committees of the cybersecurity risk or incident; and
->     - **(B)** not later than 30 days after the date on which the Administrator makes a determination under subparagraph (A)—
->       - **(i)** provide notice to individuals and small business concerns affected by the cybersecurity risk or incident; and
->       - **(ii)** submit to the appropriate congressional committees a report, based on information available to the Administrator as of the date which the Administrator submits the report, that includes—
->         - **(I)** a summary of information about the cybersecurity risk or incident, including how the cybersecurity risk or incident occurred; and
->         - **(II)** an estimate of the number of individuals and small business concerns affected by the cybersecurity risk or incident, including an assessment of the risk of harm to affected individuals and small business concerns.
->   - **(3)** *Rule of construction* Nothing in this subsection shall be construed to affect the reporting requirements of the Administrator under chapter 35 of title 44, United States Code, in particular the requirement to notify the Federal information security incident center under section 3554(b)(7)(C)(ii) of such title, or any other provision of law.
->   - **(4)** *Definitions* In this subsection:
->     - **(A)** *Appropriate congressional committees* The term appropriate congressional committees means—
->       - **(i)** the Committee on Small Business and Entrepreneurship of the Senate; and
->       - **(ii)** the Committee on Small Business of the House of Representatives.
->     - **(B)** *Cybersecurity risk; incident* The terms cybersecurity risk and incident have the meanings given such terms, respectively, under section 2209(a) of the Homeland Security Act of 2002.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Administrator of the Small Business Administration shall, to the greatest extent practicable, provide to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Small Business of the House of Representatives, and the Committee on Oversight and Reform of the House of Representatives a detailed account of information technology (as defined in section 3502 of title 44, United States Code) of the Small Business Administration that was manufactured by an entity that has its principal place of business located in the People’s Republic of China.

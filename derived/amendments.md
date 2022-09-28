@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3462
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
