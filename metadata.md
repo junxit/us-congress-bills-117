@@ -1,7 +1,7 @@
 ---
 measure: S. 1617
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1617
@@ -35,3 +35,7 @@ Disaster Assistance for Rural Communities Act
 - 2022-02-17 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
 - 2022-02-17 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
 - 2022-02-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
+- 2022-05-03 — By Senator Cardin from Committee on Small Business and Entrepreneurship filed written report. Report No. 117-103.
+- 2022-05-03 — By Senator Cardin from Committee on Small Business and Entrepreneurship filed written report. Report No. 117-103.
+- 2022-09-28 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5165; text: CR S5165)
+- 2022-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5165; text: CR S5165)
