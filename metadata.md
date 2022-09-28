@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7321
@@ -16,7 +16,7 @@ Global Aircraft Maintenance Safety Improvement Act
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Cosponsors (13)
+## Cosponsors (24)
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
@@ -31,6 +31,17 @@ Global Aircraft Maintenance Safety Improvement Act
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Porter, Katie [D-CA-45] (P000618)
 
 ## Committees (1)
 
@@ -41,3 +52,14 @@ Global Aircraft Maintenance Safety Improvement Act
 - 2022-03-31 — Introduced in House
 - 2022-03-31 — Introduced in House
 - 2022-03-31 — Referred to the House Committee on Transportation and Infrastructure.
+- 2022-04-01 — Referred to the Subcommittee on Aviation.
+- 2022-06-15 — Committee Consideration and Mark-up Session Held.
+- 2022-06-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 5.
+- 2022-06-15 — Subcommittee on Aviation Discharged.
+- 2022-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-28 — Considered under suspension of the rules. (consideration: CR H8162-8164)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7321.
+- 2022-09-28 — Mr. Kahele moved to suspend the rules and pass the bill, as amended.
+- 2022-09-28 — Placed on the Union Calendar, Calendar No. 381.
+- 2022-09-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-506.
+- 2022-09-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-506.

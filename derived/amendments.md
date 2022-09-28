@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,11 +32,12 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in the heading by striking “Inspection” and inserting “Oversight”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, without prior notice,” after “annually”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the last sentence and inserting “The Administrator may carry out announced or unannounced inspections in addition to the annual unannounced inspection required under this subsection based on identified risks.”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (g) as subsection (k); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, without prior notice to such repair stations,” after “annually”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and the applicable laws of the country in which a repair station is located” after “international agreements”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the last sentence and inserting “The Administrator may carry out announced or unannounced inspections in addition to the annual unannounced inspection required under this subsection based on identified risks and in a manner c… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (g) as subsection (j); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) through (3) as paragraphs (2) through (4); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) through (3) as paragraphs (2) through (4), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 44733(a)(3) of title 49, United States Code, is amended by striking “covered part 145 repair stations” and inserting “part 145 repair stations”. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 447 of title 49, United States Code, is amended by striking the item relating to section 44733 and inserting the following: | the bill names no machine-readable US Code section |
