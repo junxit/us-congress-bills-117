@@ -60,7 +60,7 @@ This Act may be cited as the “Improving Trauma Systems and Emergency Care Act�
       - **(ii)** by striking “an emergency medical and trauma system that—” and inserting “a new or existing emergency medical and trauma system. Such eligible entity shall use amounts awarded under this subsection to carry out 2 or more of the following activities:”;
     - **(B)** in paragraph (1)—
       - **(i)** by striking “coordinates” and inserting “Strengthening coordination and communication”; and
-      - **(ii)** by striking “an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;” and inserting “approaches to improve situational awareness and emergency medical and trauma system access, including distribution of patients during a mass casualty incident, throughout the region.”;
+      - **(ii)** by striking “an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;” and inserting “approaches to improve situational awareness and emergency medical and trauma system access.”;
     - **(C)** in paragraph (2)—
       - **(i)** by striking “includes” and inserting “Providing”;
       - **(ii)** by inserting “support patient movement to” after “region to”; and
@@ -82,13 +82,8 @@ This Act may be cited as the “Improving Trauma Systems and Emergency Care Act�
     - **(C)** by inserting after subparagraph (A) the following:
       > - **(B)** for eligible entities described in subparagraph (C) or (D) of subsection (b)(1), a description of, and evidence of, coordination with the applicable State Office of Emergency Medical Services (or equivalent State Office) or applicable such office for a Tribe or Tribal organization; and
 
-  - **(6)** in subsection (e)—
-    - **(A)** in paragraph (1), by striking “$1 for each $3” and inserting “$1 for each $5”; and
-    - **(B)** by adding at the end the following:
-      > - **(3)** *Waiver* The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for a State, consortia of States, Indian Tribe or Tribal organization, or trauma center, if the Secretary determines that applying such matching requirement would result in serious hardship or an inability to carry out the purposes of the pilot program.
-
-  - **(7)** in subsection (f), by striking “population in a medically underserved area” and inserting “medically underserved population”;
-  - **(8)** in subsection (g)—
+  - **(6)** in subsection (f), by striking “population in a medically underserved area” and inserting “medically underserved population”;
+  - **(7)** in subsection (g)—
     - **(A)** in the matter preceding paragraph (1), by striking “described in”;
     - **(B)** in paragraph (2), by striking “the system characteristics that contribute to” and inserting “opportunities for improvement, including recommendations for how to improve”;
     - **(C)** by striking paragraph (4);
@@ -98,7 +93,7 @@ This Act may be cited as the “Improving Trauma Systems and Emergency Care Act�
     - **(G)** by adding at the end the following:
       > - **(6)** any evidence-based or evidence-informed strategies developed or utilized pursuant to subsection (c)(5).
 
-  - **(9)** by amending subsection (h) to read as follows:
+  - **(8)** by amending subsection (h) to read as follows:
     > - **(h)** *Dissemination of findings* Not later than 1 year after the completion of the final project under subsection (a), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the information contained in each report submitted pursuant to subsection (g) and any additional actions planned by the Secretary related to regionalized emergency care and trauma systems.
 
 - **(d)** *Program funding* Section 1232(a) of the Public Health Service Act (42 U.S.C. 300d–32(a)) is amended by striking “2010 through 2014” and inserting “2023 through 2027”.

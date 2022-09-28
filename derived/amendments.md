@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8163
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 14 executed, 30 stated and not applied.
+42 amendatory instructions. 13 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,12 +71,12 @@ to guess them.
 
 ### 42 U.S.C. § 300d-6
 
-> by striking “an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;” and inserting “approaches to improve situational awareness and emergency medical and trauma system access, including distribution of patients during a mass casualty incident, throughout the region.”;
+> by striking “an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;” and inserting “approaches to improve situational awareness and emergency medical and trauma system access.”;
 
 | | |
 |---|---|
 | Removed | `an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;` |
-| Inserted | `approaches to improve situational awareness and emergency medical and trauma system access, including distribution of patients during a mass casualty incident, throughout the region.` |
+| Inserted | `approaches to improve situational awareness and emergency medical and trauma system access.` |
 
 ### 42 U.S.C. § 300d-6
 
@@ -113,15 +113,6 @@ to guess them.
 |---|---|
 | Removed | `the proposed` |
 | Inserted | `the applicable emergency medical and trauma system` |
-
-### 42 U.S.C. § 300d-6
-
-> in paragraph (1), by striking “$1 for each $3” and inserting “$1 for each $5”; and
-
-| | |
-|---|---|
-| Removed | `$1 for each $3` |
-| Inserted | `$1 for each $5` |
 
 ### 42 U.S.C. § 300d-6
 
@@ -181,7 +172,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300d-6` | replace | in clause (vi), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300d-6` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-6` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300d-6` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-6` | strike | in the matter preceding paragraph (1), by striking “described in”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300d-6` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-6` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
