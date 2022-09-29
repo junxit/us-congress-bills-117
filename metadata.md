@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8982
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8982
@@ -66,3 +66,10 @@ Bulk Infant Formula to Retail Shelves Act
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-09-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S5524)
 - 2022-09-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S5524)
+- 2022-09-30 — Message on Senate action sent to the House.
+- 2022-10-04 — Presented to President.
+- 2022-10-04 — Presented to President.
+- 2022-10-10 — Became Public Law No: 117-192.
+- 2022-10-10 — Became Public Law No: 117-192.
+- 2022-10-10 — Signed by President.
+- 2022-10-10 — Signed by President.
