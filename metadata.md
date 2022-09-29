@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1265
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1265
@@ -25,3 +25,10 @@ Of inquiry requesting the President to provide certain documents to the House of
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Referred to the House Committee on Energy and Commerce.
+- 2022-07-27 — Referred to the Subcommittee on Environment and Climate Change.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported Adversely by the Yeas and Nays: 31 - 22.
+- 2022-09-21 — Subcommittee on Environment and Climate Change Discharged.
+- 2022-09-29 — Placed on the House Calendar, Calendar No. 131.
+- 2022-09-29 — Reported adversely by the Committee on Energy and Commerce. H. Rept. 117-524.
+- 2022-09-29 — Reported adversely by the Committee on Energy and Commerce. H. Rept. 117-524.
