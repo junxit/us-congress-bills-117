@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6965
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6965
@@ -61,3 +61,7 @@ Visit America Act
 - 2022-09-28 — Placed on the Union Calendar, Calendar No. 382.
 - 2022-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-508, Part I.
 - 2022-09-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-508, Part I.
+- 2022-09-29 — Considered as unfinished business. (consideration: CR H8274-8275)
+- 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 93 (Roll no. 466). (text: CR H8155-8156)
+- 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 93 (Roll no. 466).
