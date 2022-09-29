@@ -1,7 +1,7 @@
 ---
 measure: S. 3232
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3232
@@ -44,3 +44,5 @@ STURDY Act
 - 2022-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-161.
 - 2022-09-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. With written report No. 117-161.
 - 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
+- 2022-09-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6050-6051; text: CR S6050-6051)
+- 2022-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
