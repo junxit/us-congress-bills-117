@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 769
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 769
@@ -29,3 +29,7 @@ A resolution honoring the athletic career and humanitarian and civic work of Rob
 
 - 2022-09-15 — Introduced in Senate
 - 2022-09-15 — Referred to the Committee on the Judiciary.
+- 2022-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4644)
+- 2022-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4644)
+- 2022-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6052)
+- 2022-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6052)
