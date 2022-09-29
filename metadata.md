@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8982
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8982
@@ -16,7 +16,7 @@ Bulk Infant Formula to Retail Shelves Act
 
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 
-## Cosponsors (25)
+## Cosponsors (30)
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Larson, John B. [D-CT-1] (L000557)
@@ -43,6 +43,11 @@ Bulk Infant Formula to Retail Shelves Act
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
 
 ## Committees (1)
 
@@ -53,3 +58,11 @@ Bulk Infant Formula to Retail Shelves Act
 - 2022-09-26 — Introduced in House
 - 2022-09-26 — Introduced in House
 - 2022-09-26 — Referred to the House Committee on Ways and Means.
+- 2022-09-29 — Considered under suspension of the rules. (consideration: CR H8264-8268)
+- 2022-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8982.
+- 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-29 — Ms. DelBene moved to suspend the rules and pass the bill.
+- 2022-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8265)
+- 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-09-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S5524)
+- 2022-09-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S5524)
