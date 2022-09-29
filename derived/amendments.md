@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3843
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 8 executed, 4 stated and not applied.
+14 amendatory instructions. 8 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,21 +44,21 @@ to guess them.
 
 ### 15 U.S.C. § 18a
 
-> by striking “2004” and inserting “2022”; and
+> by striking “2004” and inserting “2023”; and
 
 | | |
 |---|---|
 | Removed | `2004` |
-| Inserted | `2022` |
+| Inserted | `2023` |
 
 ### 15 U.S.C. § 18a
 
-> by striking “2003” and inserting “2021”;
+> by striking “2003” and inserting “2022”;
 
 | | |
 |---|---|
 | Removed | `2003` |
-| Inserted | `2021` |
+| Inserted | `2022` |
 
 ### 15 U.S.C. § 18a
 
@@ -108,4 +108,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 18a` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 18a` | replace | by striking the period at the end and inserting “but is less than $1,000,000,000 (as so adjusted and published);”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 18a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 18` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 18a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 15a` | replace | in subsection (g) by inserting “or a State” after “United States” and striking “; but shall not include section 4A of the Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; 15 U.S.C. 15a)”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `15 U.S.C. § 15a` | strike | by striking subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
