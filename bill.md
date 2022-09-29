@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3114
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Longshore and Harbor Workers’ COVID–19 Compensation Act of 2021”.
+This Act may be cited as the “Longshore and Harbor Workers’ COVID–19 Compensation Act of 2022”.
 
 ## § 2. Claims related to COVID–19
 
 - **(a)** *In general* A covered employee who receives a diagnosis of COVID–19 or is subject to an order described in subsection (b)(2) and who provides notice of or files a claim under the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) relating to such diagnosis or order shall be conclusively presumed to have an injury arising out of or in the course of employment for the purpose of compensation under the Longshore and Harbor Workers’ Compensation Act.
-- **(b)** *Covered employee* In this Act, the term covered employee means an individual who, at any time during the period beginning January 27, 2020, and ending on January 27, 2023, is an employee engaged in maritime employment as defined in section 2 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(3)) and who—
+- **(b)** *Covered employee* In this Act, the term covered employee means an individual who, at any time during the period beginning January 27, 2020, and ending on January 27, 2024, is an employee engaged in maritime employment as defined in section 2 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902(3)) and who—
   - **(1)**
     - **(A)** is diagnosed with COVID–19; and
     - **(B)** during a covered exposure period with respect to the date of such diagnosis carried out duties which—
@@ -47,12 +47,12 @@ This Act may be cited as the “Longshore and Harbor Workers’ COVID–19 Compe
     - **(A)** not earlier than the date on which a compensation order (as described in section 19(e) of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 919(e))) is issued that fixes entitlement to benefits; or
     - **(B)** not later than one year after the final payment of compensation to a covered employee pursuant to this Act; and
     - **(C)** in accordance with a rule issued by the Secretary that the Secretary determines to be similar to the process established under part 61 of title 20, Code of Federal Regulations (as in effect on the date of enactment of this Act).
-  - **(2)** *Records* An employer and the employer’s carrier shall make, keep, and preserve such records, make such reports, and provide such information, as the Secretary of Labor determines necessary or appropriate to carry out this Act.
+  - **(2)** *Records* An employer and the employer’s carrier shall make, keep, and preserve such records and provide such information as the Secretary of Labor determines necessary or appropriate to carry out this Act.
   - **(3)** *Final agency action* The action of the Secretary in allowing or denying reimbursement under this section shall be the final Agency action with respect to such reimbursement.
 - **(c)** *Appropriations*
-  - **(1)** *In general* A reimbursement under this section shall be paid out of the Longshore COVID–19 Fund established in section 45 of the Longshore and Harbor Workers’ Compensation Act (in this Act, referred to as the “Longshore COVID–19 Fund”).
+  - **(1)** *In general* A reimbursement under this section shall be paid out of the Longshore COVID–19 Fund.
   - **(2)** *Funds* In addition to amounts otherwise available, there are authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to the Longshore COVID–19 Fund for each reimbursement paid out of such Fund under this section.
-- **(d)** *Report* Not later than 60 days after the end of each of fiscal years 2021, 2022, and 2023, the Secretary of Labor shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, an annual report enumerating—
+- **(d)** *Report* Not later than 60 days after the end of each of fiscal years 2022, 2023, and 2024, the Secretary of Labor shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, an annual report enumerating—
   - **(1)** the number of claims filed pursuant to section 2(a);
   - **(2)** of such filed claims—
     - **(A)** the number and types of claims under the Longshore and Harbor Workers Compensation Act (33 U.S.C. 901 et seq.) with respect to which the presumption under section 2(a) is made;
@@ -65,7 +65,8 @@ This Act may be cited as the “Longshore and Harbor Workers’ COVID–19 Compe
     - **(A)** ending on the date of such diagnosis; and
     - **(B)** equal to the maximum number of days that the Secretary of Labor, with the concurrence of the Director of the National Institute of Occupational Safety and Health, determines could occur between an exposure to the novel coronavirus and a diagnosis of COVID–19 resulting from such exposure.
   - **(2)** *LHWCA terms* The terms carrier, compensation, employee, and employer have the meanings given the terms in section 2 of the Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 902).
-  - **(3)** *Novel coronavirus* The term novel coronavirus means SARS–CoV–2, a variant of SARS–CoV–2, or any other coronavirus declared to be a pandemic by public health authorities.
+  - **(3)** *Longshore COVID-19 Fund* The term “Longshore COVID-19 Fund” means the fund established in section 45 of the Longshore and Harbor Workers’ Compensation Act (as added by section 4 of this Act).
+  - **(4)** *Novel coronavirus* The term novel coronavirus means SARS–CoV–2, a variant of SARS–CoV–2, or any other coronavirus declared to be a pandemic by public health authorities.
 
 ## § 4. Longshore COVID–19 Fund
 
@@ -73,5 +74,5 @@ The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) is 
 
 > ## § 45. Longshore COVID–19 Fund
 >
-> - **(a)** *In general* There is established in the Treasury of the United States the Longshore COVID–19 Fund (in this section, referred to as the ‘Fund’), which consists of sums that are appropriated to the Fund under section 3(c) of the Longshore and Harbor Workers’ COVID–19 Compensation Act of 2021.
-> - **(b)** *Expenditures* Amounts in the Fund shall be available for the reimbursement of an employer or the employer’s carrier for compensation payments and expenses approved under section 3 of the Longshore and Harbor Workers’ COVID–19 Compensation Act of 2021, including disability compensation, death benefits, funeral and burial expenses, medical or other related costs for treatment and care, and reasonable and necessary allocated claims expenses paid under this Act when reimbursement is required under section 3 of the Longshore and Harbor Workers’ COVID–19 Compensation Act of 2021, subject to any limitations in such section.
+> - **(a)** *In general* There is established in the Treasury of the United States the Longshore COVID–19 Fund (in this section, referred to as the ‘Fund’), which consists of sums that are appropriated to the Fund under section 3(c) of the Longshore and Harbor Workers’ COVID–19 Compensation Act of 2022.
+> - **(b)** *Expenditures* Amounts in the Fund shall be available for the reimbursement of an employer or the employer’s carrier for compensation payments and expenses approved under section 3 of the Longshore and Harbor Workers’ COVID–19 Compensation Act of 2022, including disability compensation, death benefits, funeral and burial expenses, medical or other related costs for treatment and care, and reasonable and necessary allocated claims expenses paid under this Act when reimbursement is required under section 3 of the Longshore and Harbor Workers’ COVID–19 Compensation Act of 2022, subject to any limitations in such section.
