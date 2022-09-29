@@ -26,26 +26,29 @@ This Act may be cited as the “Chance to Compete Act of 2022”.
     - **(B)** by inserting after subsection (b) the following:
       > - **(c)** *Examinations*
       >   - **(1)** *Definitions*
-      >     - **(A)** *Examination defined for purposes of this chapter* For purposes of this chapter, the term examination—
-      >       - **(i)** means an opportunity to directly demonstrate knowledge, skills, abilities, and competencies, through a passing score assessment;
-      >       - **(ii)** includes a résumé review that is—
-      >         - **(I)** conducted by a subject matter expert; and
-      >         - **(II)** based upon indicators that—
-      >           - **(aa)** are derived from a job analysis; and
-      >           - **(bb)** bear a rational relationship to performance in the position for which the examining agency is hiring; and
-      >       - **(iii)** on and after the date that is 2 years after the date of enactment of the Chance to Compete Act of 2022, does not include a self-assessment from an automated examination, a résumé review (except as provided in clause (ii)), or any other method of determining the experience or level of educational attainment of an individual, alone.
-      >     - **(B)** *Other terms* In this subsection—
+      >     - **(A)** *Examination*
+      >       - **(i)** In this chapter, the term examination—
+      >         - **(I)** means an opportunity to directly demonstrate knowledge, skills, abilities, and competencies, through an assessment;
+      >         - **(II)** includes a résumé review that is—
+      >           - **(aa)** conducted by a subject matter expert; and
+      >           - **(bb)** based upon indicators that—
+      >             - **(AA)** are derived from a job analysis; and
+      >             - **(BB)** bear a rational relationship to performance in the position for which the examining agency is hiring; and
+      >         - **(III)** on and after the date that is 2 years after the date of enactment of the Chance to Compete Act of 2022, does not include a self-assessment from an automated examination, a résumé review (except as provided in subclause (II)), or any other method of determining the experience or level of educational attainment of an individual, alone.
+      >       - **(ii)**
+      >         - **(I)** An agency’s Chief Human Capital Officer may waive clause (i)(III) if the Officer provides a written report to the Director of the Office of Personnel Management within 30 days of authorizing the waiver that justifies the need for such waiver and articulates the data, evidence, and circumstances for such need.
+      >         - **(II)** The Director is authorized to provide agencies guidance and instruction on the data, evidence, and circumstances that should be included in the waiver described in subclause (I) and shall post any waiver on a public website within 30 days of receipt of the waiver.
+      >         - **(III)** A waiver shall not be considered in effect until it is posted on the public website pursuant to subclause (II).
+      >     - **(B)** *Other definitions* In this subsection—
       >       - **(i)** the term agency means an agency described in section 901(b) of title 31;
       >       - **(ii)** the term Director means the Director of the Office;
       >       - **(iii)** the term examining agency means—
       >         - **(I)** the Office; or
       >         - **(II)** an agency to which the Director has delegated examining authority under section 1104(a)(2) of this title;
-      >       - **(iv)** the term Office means the Office of Personnel Management;
-      >       - **(v)** the term passing score assessment means an assessment that an individual can pass or fail;
-      >       - **(vi)** the term subject matter expert means an employee or selecting official—
+      >       - **(iv)** the term subject matter expert means an employee or selecting official—
       >         - **(I)** who possesses understanding of the duties of, and knowledge, skills, and abilities required for, the position for which the employee or selecting official is developing or administering an assessment; and
-      >         - **(II)** whom the delegated examining unit of the agency that employs the employee or selecting official designates to assist in the development and administration of technical assessments under paragraph (2); and
-      >       - **(vii)** the term technical assessment means an assessment developed under paragraph (2)(A)(i) that—
+      >         - **(II)** whom the agency that employs the employee or selecting official designates to assist in the development and administration of technical assessments under paragraph (2); and
+      >       - **(v)** the term technical assessment means an assessment developed under paragraph (2)(A)(i) that—
       >         - **(I)** allows for the demonstration of job-related technical skills, abilities, and knowledge;
       >         - **(II)**
       >           - **(aa)** is based upon a job analysis; and
@@ -56,25 +59,26 @@ This Act may be cited as the “Chance to Compete Act of 2022”.
       >           - **(cc)** a custom or generic procedure used to measure an individual’s employment or career-related qualifications and interests; or
       >           - **(dd)** another assessment that meets the criteria under subclauses (I) and (II).
       >   - **(2)** *Technical assessments*
-      >     - **(A)** *In general* For the purpose of conducting an examination for a position in the competitive service, a subject matter expert who is determined by the subject matter expert's agency to be an expert in the subject and job field of the position, as affirmed and audited by the Chief Human Capital Officer or Human Resources Director (as applicable) of that agency, may—
+      >     - **(A)** *In general* For the purpose of conducting an examination for a position in the competitive service, an individual or individuals whom an agency determines to have an expertise in the subject and job field of the position, as affirmed and audited by the Chief Human Capital Officer or Human Resources Director (as applicable) of that agency, may—
       >       - **(i)** develop, in partnership with human resources employees of the examining agency, a position-specific assessment that is relevant to the position; and
       >       - **(ii)** administer the assessment developed under clause (i) to—
-      >         - **(I)** determine whether an applicant for the position has a passing score to be qualified for the position; or
+      >         - **(I)** determine whether an applicant for the position has demonstrated qualification for the position; or
       >         - **(II)** rank applicants for the position for category rating purposes under section 3319.
       >     - **(B)** *Sharing and customization of assessments*
       >       - **(i)** *Sharing* An examining agency may share a technical assessment with another examining agency if each agency maintains appropriate control over examination material.
       >       - **(ii)** *Customization* An examining agency with which a technical assessment is shared under clause (i) may customize the assessment as appropriate, provided that the resulting assessment satisfies the requirements under part 300 of title 5, Code of Federal Regulations (or any successor regulation).
       >       - **(iii)** *Platform for sharing and customization*
-      >         - **(I)** *In general* The Director shall establish and operate a platform on which examining agencies can share and customize technical assessments under this subparagraph.
-      >         - **(II)** *Guidance* Not later than 1 year after the date of enactment of the Chance to Compete Act of 2022, the Director shall issue guidance to examining agencies on how to efficiently and effectively share assessments using the platform established under subclause (I).
-      >     - **(C)** *Adoption of determinations by other agencies* For purposes of sections 3318(b) and 3319(c), an appointing authority, other than the appointing authority requesting a certificate of eligibles, that selects an individual from that certificate in accordance with such section 3318(b) or 3319(c) may adopt the determination described in subparagraph (A) of this paragraph of a subject matter expert employed by the requesting appointing authority instead of administering an additional technical assessment of the individual.
+      >         - **(I)** *In general* The Director shall establish and operate an online platform on which examining agencies can share and customize technical assessments under this subparagraph.
+      >         - **(II)** *Online platform* The Director shall—
+      >           - **(aa)** not be responsible for independently validating the utility of the content and technical assessments shared in the online platform described in subclause (I); and
+      >           - **(bb)** ensure that such online platform includes the ability of its users to rate the utility of the content and technical assessments shared in the online platform to allow for a ranking of such contents.
+      >   - **(3)** *Regulations* Not later than one year after the date of enactment of the Chance to Compete Act of 2022, the Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection with respect to employees in each agency.
 
   - **(2)** *Alternative ranking and selection procedures* Section 3319(a) of title 5, United States Code, is amended by adding at the end the following: “To be placed in a quality category under the preceding sentence, an applicant shall be required to have passed an examination in accordance with section 3304(b), subject to the exceptions in that section.”.
   - **(3)** *Technical and conforming amendment* Section 3330a(a)(1)(B) of title 5, United States Code, is amended by striking “section 3304(f)(1)” and inserting “section 3304(g)(1)”.
-- **(b)** *Implementation of passing score assessment requirement* Not later than 2 years after the date of enactment of this Act, the Director and the head of any other examining agency shall eliminate the use of any examination for the competitive service that does not satisfy the definition of the term examination in subsection (c)(1)(A) of section 3304 of title 5, United States Code, as added by subsection (a) of this section.
-- **(c)** *OPM reporting*
-  - **(1)** *Public dashboard*
-    - **(A)** *In general* The Director shall maintain and periodically update a publicly available dashboard that, with respect to each position in the competitive service for which an examining agency examined applicants during the applicable period, includes—
+- **(b)** *OPM reporting*
+  - **(1)** *Public online tool*
+    - **(A)** *In general* The Director of the Office of Personnel Management shall maintain and periodically update a publicly available online tool that, with respect to each position in the competitive service for which an examining agency examined applicants during the applicable period, includes—
       - **(i)** the type of assessment used, such as—
         - **(I)** a behavioral off-the-shelf assessment;
         - **(II)** a résumé review conducted by a subject matter expert;
@@ -84,10 +88,10 @@ This Act may be cited as the “Chance to Compete Act of 2022”.
       - **(ii)** whether or not the agency selected a candidate for the position; and
       - **(iii)** the hiring authority used to fill the position.
     - **(B)** *Timing*
-      - **(i)** *Initial data* Not later than 180 days after the date of enactment of this Act, the Director shall update the dashboard described in subparagraph (A) with data for positions in the competitive service for which an examining agency examined applicants during the period beginning on the date of enactment of this Act and ending on the date of submission of the report.
-      - **(ii)** *Subsequent updates* Not later than October 1 of each fiscal year beginning after the date on which the dashboard is initially updated under clause (i), the Director shall update the dashboard described in subparagraph (A) with data for positions in the competitive service for which an examining agency examined applicants during the preceding fiscal year.
+      - **(i)** *Initial data* Not later than 180 days after the date of enactment of this Act, the Director shall update the online tool described in subparagraph (A) with data for positions in the competitive service for which an examining agency examined applicants during the period beginning on the date of enactment of this Act and ending on the date of submission of the report.
+      - **(ii)** *Subsequent updates* Not later than October 1 of each fiscal year beginning after the date on which the online tool is initially updated under clause (i), the Director shall update the online tool described in subparagraph (A) with data for positions in the competitive service for which an examining agency examined applicants during the preceding fiscal year.
   - **(2)** *Annual progress report*
-    - **(A)** *In general* Each year, the Director, in accordance with subparagraphs (B) and (C), shall make publicly available and submit to Congress an overall progress report that includes summary data of the use of examinations (as defined in subsection (c)(1)(A) of section 3304 of title 5, United States Code, as added by subsection (a) of this section) for the competitive service, including technical assessments.
+    - **(A)** *In general* Each year, the Director, in accordance with subparagraphs (B) and (C), shall make publicly available and submit to Congress an overall progress report that includes summary data from examinations that are closed, audited, and anonymous on the use of examinations (as defined in subsection (c)(1)(A) of section 3304 of title 5, United States Code, as added by subsection (a) of this section) for the competitive service, including technical assessments.
     - **(B)** *Categories; baseline data* In carrying out subparagraph (A), the Director shall—
       - **(i)** break the data down by applicant demographic indicator, including veteran status, race, gender, disability, and any other measure the Director determines appropriate; and
       - **(ii)** use the data available as of October 1, 2020, as a baseline.
@@ -95,46 +99,48 @@ This Act may be cited as the “Chance to Compete Act of 2022”.
       - **(i)** the related announcement is closed;
       - **(ii)** certificates have been audited; and
       - **(iii)** all hiring processes are completed.
-- **(d)** *GAO report* Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—
+- **(c)** *GAO report* Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—
   - **(1)** assesses the implementation of this section and the amendments made by this section;
   - **(2)** assesses the impact and modifications to the hiring process for the competitive service made by this section and the amendments made by this section; and
   - **(3)** makes recommendations for the improvement of the hiring process for the competitive service.
 
 ## § 4. Amendments to Competitive Service Act of 2015
 
-- **(a)** *Platforms for sharing certificates of eligibles* Section 3318(b) of title 5, United States Code, is amended—
-  - **(1)** in paragraph (1), by striking “240-day” and inserting “1-year”;
-  - **(2)** by redesignating paragraph (5) as paragraph (6); and
-  - **(3)** by inserting after paragraph (4) the following:
-    > - **(5)** *Platform for sharing résumés of individuals on certificates of eligibles* The Director of the Office shall establish and operate a platform on which an appointing authority can share, with other appointing authorities and the Chief Human Capital Officers Council established under section 1303 of the Chief Human Capital Officers Act of 2002 (5 U.S.C. 1401 note; Public Law 107–296), the résumés of individuals who are on a certificate of eligibles requested by the appointing authority.
+- **(a)** *Platforms for sharing certificates of eligibles*
+  - **(1)** *In general* Section 3318(b) of title 5, United States Code, is amended—
+    - **(A)** in paragraph (1), by striking “240-day” and inserting “1-year”;
+    - **(B)** by redesignating paragraph (5) as paragraph (6); and
+    - **(C)** by inserting after paragraph (4) the following:
+      > - **(5)** *Online tool for sharing résumés of individuals on certificates of eligibles* Not later than one year after the date of enactment of the Chance to Compete Act of 2022, the Director of the Office of Personnel Management shall establish and operate an online tool on which an appointing authority can share, with other appointing authorities and the Chief Human Capital Officers Council established under section 1303 of the Chief Human Capital Officers Act of 2002 (5 U.S.C. 1401 note; Public Law 107–296), the resumes of individuals who are on a certificate of eligibles requested by the appointing authority. In carrying out this paragraph, the Director shall consult with the Chief Human Capital Officers Counsel and its membership to develop a plan to establish such online tool.
 
+  - **(2)** *Plan* Not later than 270 days year after the date of enactment of this Act, the Director shall provide to Congress a plan to develop the online tool required in paragraph (5) of section 3318(b) of title 5, United States Code, as added by paragraph (1) of this subsection. Such plan shall—
+    - **(A)** incorporate the input and feedback collected during the required consultation under such paragraph; and
+    - **(B)** include estimated costs for building and operating the online tool for ten years.
 - **(b)** *Maximizing sharing of applicant information* Section 2 of the Competitive Service Act of 2015 (Public Law 114–137; 130 Stat. 310) is amended—
   - **(1)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
   - **(2)** by inserting after subsection (b) the following:
-    > - **(c)** *Maximizing sharing of applicant information*
+    > - **(c)** *Exploring the benefits of maximizing sharing of applicant information*
     >   - **(1)** *Definitions* In this subsection—
     >     - **(A)** the terms agency, Director, and Office have the meanings given those terms in section 3304(c)(1) of title 5, United States Code; and
     >     - **(B)** the term competitive service has the meaning given the term in section 2102 of title 5, United States Code.
-    >   - **(2)** *Maximizing sharing* The Director shall maximize the sharing of information among agencies regarding qualified applicants for positions in the competitive service, including by—
+    >   - **(2)** *Maximizing sharing* The Director shall research the benefits of maximizing the sharing of information among agencies regarding qualified applicants for positions in the competitive service, including by—
     >     - **(A)** providing for the delegation to other agencies of the authority of the Office to host multi-agency hiring actions to increase the return on investment on high-quality pooled announcements; and
     >     - **(B)** sharing certificates of eligibles and accompanying résumés for appointment.
 
-- **(c)** *Amendment of implementing regulations* Not later than 180 days after the date of enactment of this Act, the Director shall promulgate regulations to carry out the amendments made by this section.
+- **(c)** *Report* Not later than one year after the date of enactment of this Act, the Director shall provide a written report to Congress on the findings of the research required by the amendment made by subsection (b)(2). Such report shall include a plan to implement the most effective methods of maximizing the sharing of qualified candidates for positions in the competitive service.
 
 ## § 5. Modernizing and reforming the assessment and hiring of Federal job candidates
 
-- **(a)** *In general* Section 3308 of title 5, United States Code, is amended—
-  - **(1)** by striking “scientific, technical, or professional”;
-  - **(2)** by inserting “legally” before “performed”; and
-  - **(3)** by inserting “in a jurisdiction in which the duties of the position are to be performed” after “a prescribed minimum education”.
-- **(b)** *Implementation*
-  - **(1)** *Regulations and guidance documents* Not later than 1 year after the date of enactment of this Act, the Director shall amend all regulations and guidance documents as necessary to implement the amendments made by subsection (a).
-  - **(2)** *Hiring practices* Not later than 1 year after the date of enactment of this Act, the Director and the head of any other examining agency shall amend the hiring practices of the Office or the other examining agency, respectively, in accordance with the amendments made by subsection (a).
+- **(a)** *OPM review* The Director shall conduct a review of all examinations for hiring for a position that the Office or any other examining agency has determined requires a minimum educational requirement because of the nature of the duties of such position is of a scientific, technical, or professional position pursuant to section 3308 of title 5, United States Code, to determine whether there are data, evidence, or other information that justifies the need for educational requirements for such position. The Director shall consult with appropriate agencies, employee representatives, external experts, and other stakeholders when making any such determinations.
+- **(b)** *Online tool regarding position duties*
+  - **(1)** *In general* Not later than two years after the date of enactment of this Act, the Director shall create and maintain an online tool that lists each of the duties determined to require minimum educational requirements and the data, evidence, or other information that justifies the need for these educational requirements. This online tool shall include a mechanism to receive feedback regarding data, evidence, or information that could affect the determination that a duty requires a minimum educational requirement.
+  - **(2)** *Hiring practices* Not later than one year after the creation of the online tool under paragraph (1), the Director and the head of any other examining agency shall amend the hiring practices of the Office or the other examining agency, respectively, in accordance with the findings of the review made by subsection (a).
+- **(c)** *Online tool regarding recruiting* Upon the date of enactment of this Act, the Director shall establish and maintain an online tool that provides Federal agencies guidance on, and information about, all programs and authorities that help agencies attract, recruit, hire, and retain individuals.
 
 ## § 6. Talent teams
 
 - **(a)** *Federal agency talent teams*
-  - **(1)** *In general* An agency may establish 1 or more talent teams (referred to in this section as agency talent teams), including at the component level.
+  - **(1)** *In general* An agency may establish one or more talent teams (referred to in this section as agency talent teams), including at the component level.
   - **(2)** *Duties* An agency talent team shall provide hiring support to the agency and other agencies, including by—
     - **(A)** improving examinations (as defined in subsection (c)(1)(A) of section 3304 of title 5, United States Code, as added by section 3(a));
     - **(B)** facilitating writing job announcements for the competitive service;
@@ -143,3 +149,7 @@ This Act may be cited as the “Chance to Compete Act of 2022”.
 - **(b)** *Office of Personnel Management* The Director may establish a Federal talent team to support agency talent teams in facilitating pooled hiring actions across the Federal Government, providing training, and creating technology platforms to facilitate hiring for the competitive service, including—
   - **(1)** the development of technical assessments; and
   - **(2)** the sharing of certificates of eligibles and accompanying résumés under sections 3318(b) and 3319(c) of title 5, United States Code.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
