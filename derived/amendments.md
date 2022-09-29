@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6967
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 1 executed, 11 stated and not applied.
+9 amendatory instructions. 1 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,3 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 1401` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1401` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1401` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | by striking “scientific, technical, or professional”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “legally” before “performed”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “in a jurisdiction in which the duties of the position are to be performed” after “a prescribed minimum education”. | the bill names no machine-readable US Code section |
