@@ -2,12 +2,14 @@
 legis-num: S. 3662
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3662
 
-> To temporarily increase the cost share authority for aqueous film forming foam input-based testing equipment, and for other purposes.
+That the bill from the Senate (S. 3662) entitled “An Act to temporarily increase the cost share authority for aqueous film forming foam input-based testing equipment, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -33,3 +35,4 @@ This Act may be cited as the “Preventing PFAS Runoff at Airports Act”.
   - **(2)** information relevant to estimating the potential cost of providing such reimbursement;
   - **(3)** the status of the Federal Aviation Administration’s outreach efforts as required under subsection (b); and
   - **(4)** any additional information the Administrator of the Federal Aviation Administration considers appropriate.
+- **(d)** *Authorization of appropriations* The amendments made by this Act shall apply to amounts that first become available in fiscal year 2023 or thereafter.

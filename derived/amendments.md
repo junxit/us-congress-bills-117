@@ -1,7 +1,7 @@
 ---
 measure: S. 3662
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
