@@ -38,7 +38,7 @@ Subsection (c)(1) of such section is amended—
 - **(a)** *Clarification of prohibited personnel action* Section 731(c) of such title is amended—
   - **(1)** in paragraph (1)—
     - **(A)** in the matter preceding subparagraph (A), by inserting “, or threatening to take or fail to take,” after “failing to take”; and
-    - **(B)** in subparagraph (A), by inserting “, or with respect to an allegation of such a disclosure” before the semicolon; and
+    - **(B)** in subparagraph (A), by inserting “, or with respect to an allegation of such a disclosure” before the semicolon;
   - **(2)** in paragraph (3), by inserting “, making a referral to boards of licensure,” after “negative peer review”.
 - **(b)** *Function of Office of Accountability and Whistleblower Protection* Section 323(g) of such title is amended by adding at the end the following new paragraph:
   > - **(4)** The term prohibited personnel action has the meaning given such term in section 731(c) of this title.
@@ -48,16 +48,16 @@ Subsection (c)(1) of such section is amended—
 Subsection (c) of section 323 of such title, as amended by section 4, is further amended—
 
 - **(1)** in paragraph (1), by adding at the end the following new subparagraphs:
-  > - **(I)** Tracking the negotiation, implementation, and enforcement of settlement agreements entered into by the Secretary regarding claims of retaliation, including with respect to the work of the General Counsel of the Department regarding such settlements.
-  > - **(J)** Tracking the determinations made by the Special Counsel regarding claims of retaliation, including—
-  >   - **(i)** any disciplinary action for the individual who engaged in retaliation; and
-  >   - **(ii)** the need for, and scope of, the Secretary to enter into a settlement agreement with the whistleblower.
+  > - **(I)** Tracking the negotiation, implementation, and enforcement of settlement agreements entered into by the Secretary regarding claims of whistleblower retaliation, including with respect to the work of the General Counsel of the Department regarding such settlements.
+  > - **(J)** Tracking the determinations made by the Special Counsel regarding claims of whistleblower retaliation, including—
+  >   - **(i)** any disciplinary action for the individual who engaged in whistleblower retaliation; and
+  >   - **(ii)** determinations regarding the need for settlement as identified by the Special Counsel, and any settlement resolving claims of whistleblower retaliation entered into by the Secretary with the whistleblower.
 
 - **(2)** by adding at the end the following new paragraph:
   > - **(4)**
   >   - **(A)** In carrying out subparagraph (I) of paragraph (1), the Assistant Secretary shall, in consultation with the General Counsel, establish metrics and standards regarding—
-  >     - **(i)** the timely negotiation and implementation of settlement agreements entered into by the Secretary regarding retaliation; and
-  >     - **(ii)** reasonable restitution and restoration of employment, and other relief for whistleblowers.
+  >     - **(i)** the timely implementation of settlement agreements entered into by the Secretary regarding whistleblower retaliation; and
+  >     - **(ii)** reasonable restitution and restoration of employment, and other relief for whistleblowers; and
   >   - **(B)** The Assistant Secretary shall establish a secure electronic system to carry out subparagraphs (I) and (J) of paragraph (1) in a manner that ensures the confidentiality of the identity of a whistleblower.
 
 ## § 6. Training and information
@@ -82,7 +82,7 @@ Subsection (f) of section 323 of such title is amended—
   - **(B)** by inserting “not later than 60 days after such date” before “the Secretary shall”; and
 - **(3)** by adding at the end the following new paragraph:
   > - **(3)** Not later than June 30, 2023, and semiannually thereafter, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on settlements described in paragraph (1)(I) of subsection (c), including, with respect to the period covered by the report—
-  >   - **(A)** the number of settlements initiated, the disposition of each settlement that was resolved, and the number of settlements that are pending or have not been implemented;
-  >   - **(B)** the status of each such pending settlement, including any progress or lack of progress toward settlement and the implementation of such a settlement;
+  >   - **(A)** the number of settlements under negotiation or executed, and the number of executed settlements that have not been fully implemented;
+  >   - **(B)** the explanation as to why any such executed settlement has not been fully implemented;
   >   - **(C)** a description of the metrics described in paragraph (4)(A) of such subsection; and
-  >   - **(D)** identification of settlement agreements that are not meeting such metrics and standards, or for which there has been any breach of the agreement.
+  >   - **(D)** identification of settlement agreements that are not meeting such metrics and standards, or for which the Assistant Secretary is aware of a determination that a breach of agreement has been found.

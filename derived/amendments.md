@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8510
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -39,7 +39,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by striking subparagraph (B), as so redesignated, and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraphs (H) and (I). | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “, or threatening to take or fail to take,” after “failing to take”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting “, or with respect to an allegation of such a disclosure” before the semicolon; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “, or with respect to an allegation of such a disclosure” before the semicolon; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting “, making a referral to boards of licensure,” after “negative peer review”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 323(g) of such title is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (1), by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
