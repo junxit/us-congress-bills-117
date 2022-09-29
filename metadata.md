@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4821
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4821
@@ -16,7 +16,7 @@ To hold accountable senior officials of the Government of the People's Republic 
 
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
-## Cosponsors (35)
+## Cosponsors (39)
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
@@ -53,6 +53,10 @@ To hold accountable senior officials of the Government of the People's Republic 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Kim, Young [R-CA-39] (K000397)
 
 ## Committees (3)
 
@@ -68,3 +72,14 @@ To hold accountable senior officials of the Government of the People's Republic 
 - 2021-07-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-07-29 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-07-29 — Referred to the Subcommittee on Trade.
+- 2022-02-08 — Committee Consideration and Mark-up Session Held.
+- 2022-02-09 — Committee Consideration and Mark-up Session Held.
+- 2022-02-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-28 — Considered under suspension of the rules. (consideration: CR H8200-8203; text: CR H8200-8201)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4821.
+- 2022-09-28 — Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.
+- 2022-09-29 — Passed/agreed to in House: Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
+- 2022-09-29 — Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
+- 2022-09-29 — Pursuant to the provisions of H. Res. 1396, proceedings on H.R. 4821 are considered vacated.
+- 2022-09-29 — The title of the measure was amended. Agreed to without objection.
