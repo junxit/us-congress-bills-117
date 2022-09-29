@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6833
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6833
@@ -16,7 +16,7 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Cosponsors (31)
+## Cosponsors (32)
 
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 - Rep. McBath, Lucy [D-GA-6] (M001208)
@@ -49,6 +49,7 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (3)
 
@@ -85,3 +86,52 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - 2022-04-04 — Received in the Senate.
 - 2022-05-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-05-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.
+- 2022-09-22 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4955)
+- 2022-09-22 — Motion to proceed to consideration of measure made in Senate. (CR S4955)
+- 2022-09-27 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 72 - 23. Record Vote Number: 349. (CR S5045-5046)
+- 2022-09-27 — Motion to proceed to measure considered in Senate.
+- 2022-09-27 — Senate amendment submitted
+- 2022-09-28 — Amendment SA 5745 proposed by Senator Schumer. (consideration: CR S5147-5148; text: 09/27/2022 CR S5745-5111) In the nature of a substitute.
+- 2022-09-28 — Amendment SA 6030 proposed by Senator Schumer to Amendment SA 5745. (consideration: CR S5148; text: CR S5148) To add an effective date.
+- 2022-09-28 — Amendment SA 6031 proposed by Senator Schumer. (consideration: CR S5148; text: CR S5148) To add an effective date.
+- 2022-09-28 — Amendment SA 6032 proposed by Senator Schumer to Amendment SA 6031 (the instructions of the motion to commit). (consideration: CR S5148; text: CR S5148) To modify the effective date.
+- 2022-09-28 — Cloture motion on amendment SA 5745 presented in Senate.
+- 2022-09-28 — Cloture motion on the measure presented in Senate. (CR S5148)
+- 2022-09-28 — Measure laid before Senate by motion.
+- 2022-09-28 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 6031) made in Senate. (CR S5148)
+- 2022-09-28 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2022-09-28 — Motion to proceed to measure considered in Senate. (CR S5115)
+- 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 5745 proposed by Senator Schumer.
+- 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6030 proposed by Senator Schumer to Amendment SA 5745.
+- 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6031 proposed by Senator Schumer.
+- 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 6032 proposed by Senator Schumer to Amendment SA 6031 (the instructions of the motion to commit).
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-28 — Senate amendment submitted
+- 2022-09-29 — Amendment SA 5745 agreed to in Senate by Unanimous Consent.
+- 2022-09-29 — Amendment SA 5765 proposed by Senator Braun to Amendment SA 5745. (consideration: CR S5518-5519; text: CR S5518-5519) To amend chapter 2 of title 1, United States Code, to create requirements for calling an Article V Convention, and for other purposes.
+- 2022-09-29 — Cloture motion on amendment SA 5745 withdrawn by unanimous consent in Senate.
+- 2022-09-29 — Cloture motion on the measure withdrawn by unanimous consent in Senate.
+- 2022-09-29 — Considered by Senate.
+- 2022-09-29 — Considered by Senate.
+- 2022-09-29 — Considered by Senate.
+- 2022-09-29 — Considered by Senate.
+- 2022-09-29 — Considered by Senate.
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-09-29 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 6031) withdrawn in Senate.
+- 2022-09-29 — Passed Senate under the order of 9/29/2022, having achieved 60 votes in the affirmative with an amendment by Yea-Nay Vote. 72 - 25. Record Vote Number: 351.
+- 2022-09-29 — Passed/agreed to in Senate: Passed Senate under the order of 9/29/2022, having achieved 60 votes in the affirmative with an amendment by Yea-Nay Vote. 72 - 25. Record Vote Number: 351.
+- 2022-09-29 — Proposed amendment SA 5765 withdrawn in Senate.
+- 2022-09-29 — Proposed amendment SA 6030 withdrawn in Senate.
+- 2022-09-29 — Proposed amendment SA 6031 withdrawn in Senate.
+- 2022-09-29 — SA 6032 fell when SA 6031 was withdrawn.
+- 2022-09-29 — Senate amendment agreed to: Amendment SA 5745 agreed to in Senate by Unanimous Consent.
+- 2022-09-29 — Senate amendment proposed (on the floor): Amendment SA 5765 proposed by Senator Braun to Amendment SA 5745.
+- 2022-09-29 — Senate amendment submitted
