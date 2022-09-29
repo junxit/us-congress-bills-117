@@ -27,9 +27,9 @@ Chapter 3 of title 38, United States Code, is amended by adding at the end the f
 >     - **(C)** To collaborate with the Secretary of Agriculture and the Secretary of Defense on food insecurity among veterans, including by collaborating with the Secretaries to develop materials related to food insecurity for the Transition Assistance Program curriculum and other transition-related resources.
 >     - **(D)** To develop and provide training, including training that may count towards continuing education or licensure requirements, for social workers, dietitians, chaplains, and other clinicians on how to assist veterans with enrollment in Federal nutrition assistance programs, including the supplemental nutrition assistance program and the special supplemental nutrition program for women, infants, and children established by section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).
 >     - **(E)** To issue guidance to Department medical centers on how to collaborate with their State and local offices administering the supplemental nutrition assistance program.
->   - **(2)** In carrying out the responsibilities under paragraph (1), the Director shall consult with and provide technical assistance to the heads of other Federal departments and agencies, including the Department of Agriculture, Department of Defense, Department of the Interior, and Department of Labor.
+>   - **(2)** In carrying out the responsibilities under paragraph (1), the Director shall consult with and provide technical assistance to the heads of other Federal departments and agencies, including the Department of Agriculture, Department of Defense, Department of Interior, and Department of Labor.
 > - **(c)** *Annual report on food insecurity* The Secretary of Veterans Affairs, in consultation with the Secretary of Agriculture, shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on veteran food insecurity. Each such report shall include data on the following:
->   - **(1)** The socioeconomic and racial characteristics of veterans experiencing food insecurity, disaggregated by State in which the veteran is located, racial or ethnic group, gender, gender identity, and sexual orientation.
+>   - **(1)** The socioeconomic, ethnic, and racial characteristics of veterans experiencing food insecurity, disaggregated by State in which the veteran is located.
 >   - **(2)** Native American veterans experiencing food insecurity.
 >   - **(3)** Specific interventions for veterans who screen positive for food insecurity.
 >   - **(4)** Eligibility screenings for participation in the supplemental nutrition assistance program completed by personnel of the Department of Veterans Affairs.
@@ -39,3 +39,7 @@ Chapter 3 of title 38, United States Code, is amended by adding at the end the f
 > - **(d)** *Definitions* In this section:
 >   - **(1)** The terms “Native American” and “Native American veteran” have the meanings given those terms in section 3765 of this title.
 >   - **(2)** The terms “State agency” and “supplemental nutrition assistance program” have the meanings given those terms in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012).
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
