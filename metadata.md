@@ -1,7 +1,7 @@
 ---
 measure: S. 3662
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3662
@@ -49,3 +49,13 @@ Preventing PFAS Runoff at Airports Act
 - 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 42 (Roll no. 468). (text: CR H8169)
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 42 (Roll no. 468).
+- 2022-10-11 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-12-01 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 3662 by Unanimous Consent.(consideration: CR S6945)
+- 2022-12-01 — Senate agreed to the House amendment to S. 3662 by Unanimous Consent. (consideration: CR S6945)
+- 2022-12-05 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-254.
+- 2022-12-20 — Became Public Law No: 117-254.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
