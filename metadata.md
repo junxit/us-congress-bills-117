@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5918
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5918
@@ -16,9 +16,10 @@ To amend title 38, United States Code, to ensure that the Secretary of Veterans 
 
 - Rep. Banks, Jim [R-IN-3] (B001299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend title 38, United States Code, to ensure that the Secretary of Veterans 
 - 2022-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8184)
 - 2022-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2022-09-28 — The title of the measure was amended. Agreed to without objection.
+- 2022-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
