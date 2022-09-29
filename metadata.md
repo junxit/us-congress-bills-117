@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4081
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4081
@@ -42,3 +42,6 @@ Informing Consumers about Smart Devices Act
 - 2022-09-28 — Placed on the Union Calendar, Calendar No. 383.
 - 2022-09-28 — Reported by the Committee on Energy and Commerce. H. Rept. 117-509.
 - 2022-09-28 — Reported by the Committee on Energy and Commerce. H. Rept. 117-509.
+- 2022-09-29 — Passed/agreed to in House: Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
+- 2022-09-29 — Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641. (text: CR H8153-8154)
+- 2022-09-29 — Pursuant to the provisions of H. Res. 1396, proceedings on H.R. 4081 are considered vacated.

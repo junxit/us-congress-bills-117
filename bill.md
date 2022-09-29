@@ -40,3 +40,7 @@ As used in this Act, the term covered device—
 ## § 5. Effective date
 
 This Act shall apply to all devices manufactured after the date that is 180 days after the date on which guidance is issued by the Commission under section 3(c), and shall not apply to devices manufactured or sold before such date, or otherwise introduced into interstate commerce before such date.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
