@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Chai Suthammanont Remembrance Act of 2022”.
+This Act may be cited as the “Chai Suthammanont Healthy Federal Workplaces Act of 2022”.
 
 ## § 2. Worksite safety for Federal employees and contractors
 
 - **(a)** *Issuance of policies and procedures by agencies* Not later than 60 days after the date of the enactment of this Act, the head of each agency, in consultation with the Chief Human Capital Officer of the agency and the Assistant Director of Administration of the agency (or any individual holding an equivalent position), shall—
-  - **(1)** establish a plan containing procedures and policies for the safety of covered individuals physically present at worksites during a covered period;
+  - **(1)** establish a plan containing procedures and policies for the safety of covered individuals physically present at worksites during a covered period that includes measures to ensure the continuity of operations of the agency, including how consistent agency mission and program performance and customer service levels will be sustained through the covered period;
   - **(2)** make such plan available to the public by including a prominent link to such plan on the home page of the website of the agency;
   - **(3)** provide a link to such plan to the Director of the Office of Management and Budget for inclusion on the web page of the Office in accordance with subsection (c); and
   - **(4)** communicate such plan to each covered individual in such a manner as to ensure that each such covered individual acknowledges receipt and understanding of the plan.
@@ -38,12 +38,12 @@ This Act may be cited as the “Chai Suthammanont Remembrance Act of 2022”.
   - **(5)** A description of any alternative option to being physically present at a covered worksite that is available for employees of the agency who—
     - **(A)** have a high risk of contracting a covered condition (as determined by the Director of the Centers for Disease Control and Prevention); or
     - **(B)** live in a household with individuals who have a high risk of contracting a covered condition (as determined by the Director of the Centers for Disease Control and Prevention).
-  - **(6)** Protocols that ensure the continuity of operations of the agency, including a plan to reverse any requirement for covered individual to be present at a facility in which covered worksites are located if there is a surge in cases in the geographic area of such facility.
+  - **(6)** Protocols that ensure the continuity of operations of the agency, including how consistent agency mission and program performance and customer service levels will be sustained through the covered period, to include if the agency adopts enhanced and temporary telework and remote work practices as a result of an increase in the severity of the nationwide public health emergency.
   - **(7)** The hotline website and hotline telephone number of the Inspector General of the agency for covered individuals to report to the Inspector General any instance in which the agency is not implementing the plan required by this section.
   - **(8)** The hotline website and hotline telephone number of the Office of Special Counsel to report a substantial and specific danger to public health and safety or whistleblower retaliation.
 - **(c)** *Publication of plan* Not later than 90 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall make available to the public on a single web page of the Office—
   - **(1)** links to each plan provided to the Director pursuant to subsection (a)(3); and
-  - **(2)** a list identifying any agency that has not provided a link pursuant to such subsection;
+  - **(2)** a list identifying any agency that has not provided a link pursuant to such subsection.
 - **(d)** *Communication of plan to new employees, contractors, and subcontractors* Beginning on the date that is 60 days after the date of the enactment of this Act, the head of an agency shall communicate the plan required by subsection (a), in the manner described under such subsection, to—
   - **(1)** any new employee of the agency, not later than 30 days after the date on which such employee is hired;
   - **(2)** any individual or entity that enters into a contract with the agency after such date, not later than 30 days after the contract is entered into; and
@@ -70,3 +70,7 @@ This Act may be cited as the “Chai Suthammanont Remembrance Act of 2022”.
   - **(8)** *Worksite* The term “worksite” means—
     - **(A)** in the case of an employee of the agency, the location of the employee’s position of record where the employee regularly performs his or her duties, but does not include any location where the employee teleworks (as that term is defined in section 6501 of title 5, United States Code); and
     - **(B)** in the case of a contractor of the agency (or subcontractor thereof at any tier), the location in a facility of the agency where the contractor or subcontractor performs his or her duties under a contract with the agency, or a subcontract thereof at any tier, as applicable.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
