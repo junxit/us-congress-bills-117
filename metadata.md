@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7589
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7589
@@ -29,9 +29,10 @@ REMOVE Copays Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ REMOVE Copays Act
 - 2022-09-28 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2022-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8185)
 - 2022-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-09-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
