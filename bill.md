@@ -44,5 +44,9 @@ In this Act:
   - **(2)** the survey under subsection (f).
 - **(h)** *Proceeds from the sale of land* Any proceeds received by the Secretary from the conveyance under subsection (a) shall be—
   - **(1)** deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a); and
-  - **(2)** available to the Secretary until expended, without further appropriation, for the maintenance and improvement of land or administration facilities in the Black Hills National Forest in the State.
+  - **(2)** available to the Secretary, only to the extent and in the amount provided in advance in appropriations Acts, for the maintenance and improvement of land or administration facilities in the Black Hills National Forest in the State.
 - **(i)** *Environmental conditions* Notwithstanding section 120(h)(3)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(3)(A)), the Secretary shall not be required to provide any covenant or warranty for the Federal land conveyed to the State under this Act.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
