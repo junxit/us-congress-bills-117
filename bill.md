@@ -2,7 +2,7 @@
 legis-num: H.R. 3482
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3482
@@ -44,7 +44,7 @@ This Act may be cited as the “National Center for the Advancement of Aviation 
   >           - **(aa)** the Secretary of Transportation shall appoint 5 members to the Board;
   >           - **(bb)** the Secretary of Defense shall appoint 1 member to the Board;
   >           - **(cc)** the Secretary of Veterans Affairs shall appoint 1 member to the Board;
-  >           - **(dd)** the Secretary of Education shall appoint 1 member to the Board; and
+  >           - **(dd)** the Secretary of Education shall appoint 1 member to the Board;
   >           - **(ee)** the Administrator of the National Aeronautics and Space Administration shall appoint 1 member to the Board.
   >         - **(II)** *Terms*
   >           - **(aa)** *In general* The members appointed under subclause (I) shall serve for a term of 3 years and may be reappointed.
@@ -153,20 +153,18 @@ This Act may be cited as the “National Center for the Advancement of Aviation 
   >   - **(3)** *Report on audit*
   >     - **(A)** *Report to Secretary* Not later than 30 days after the date of completion of the audit, the inspector general shall submit to the Secretary a report on the results of the audit.
   >     - **(B)** *Report to Congress* Not later than 60 days after the date of receipt of the report under subparagraph (A), the Secretary shall submit to the appropriate committees of Congress a copy of the report, together with, if appropriate, a description of any actions taken or to be taken to address the results of the audit.
-  > - **(n)** *Funding*
-  >   - **(1)** *In general* In order to carry out this section, notwithstanding any other provision of law, an amount equal to 3 percent of the interest from investment credited to the Airport and Airway Trust Fund shall be transferred annually from the Airport and Airway Trust Fund as a direct lump sum payment on the first day of October to the Center to carry out this section and shall be available until expended without further act of appropriation.
-  >   - **(2)** *Calculation* In carrying out paragraph (1), the Secretary of the Treasury shall calculate the transfer of funding based on the estimates of revenues into the Airport and Airway Trust Fund from the previous fiscal year.
-  > - **(o)** *Exception* The Secretary of Transportation may temporarily waive expenditures or obligations under subsection (n) in the case of—
-  >   - **(1)** an appropriation measure for a fiscal year is not enacted before the beginning of such fiscal year or a joint resolution making continuing appropriations is not in effect; or
-  >   - **(2)** a national emergency or other significant event that results in a significant loss in total funding to the Airport and Airway Trust Fund, as determined by the Secretary.
-  > - **(p)** *Definitions* In this section:
+  > - **(n)** *Authorization of appropriations* In order to carry out this section, there is authorized to be appropriated for fiscal year 2023 and each fiscal year thereafter an amount equal to 3 percent of the interest from investment credited to the Airport and Airway Trust Fund.
+  > - **(o)** *Definitions* In this section:
   >   - **(1)** *Appropriate committees of Congress* The term “appropriate committees of Congress” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
   >   - **(2)** *Institution of higher education* The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
   >   - **(3)** *STEM* The term “STEM” means science, technology, engineering, and mathematics.
 
 - **(b)** *Clerical amendment* The analysis for chapter 1 of title 49, United States Code, is amended by inserting after the item relating to section 119 the following:
-- **(c)** *Expenditure authority from the Airport and Airways Trust Fund* Section 9502(d)(1)(A) of the Internal Revenue Code of 1986 is amended by striking the semicolon at the end and inserting “or the National Center for the Advancement of Aviation Act of 2022;”.
 
 ## § 3. Prevention of duplicative programs
 
 The Board of Directors of the National Center for the Advancement of Aviation established under section 120 of title 49, United States Code (as added by this Act), shall coordinate with the Administrator of the Federal Aviation Administration to prevent any programs of the Center from duplicating programs established under section 625 of the FAA Reauthorization Act of 2018 (49 U.S.C. 40101 note).
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

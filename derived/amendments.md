@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3482
 congress: 117
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,3 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `20 U.S.C. § 7801` | add-at-end | Chapter 1 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 119` | insert | The analysis for chapter 1 of title 49, United States Code, is amended by inserting after the item relating to section 119 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9502` | replace | Section 9502(d)(1)(A) of the Internal Revenue Code of 1986 is amended by striking the semicolon at the end and inserting “or the National Center for the Advancement of Aviation Act of 2022;”. | the bill quotes the text inserted but describes where it goes |
