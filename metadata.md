@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3482
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3482
@@ -84,9 +84,10 @@ National Center for the Advancement of Aviation Act of 2022
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -109,3 +110,4 @@ National Center for the Advancement of Aviation Act of 2022
 - 2022-09-28 — Placed on the Union Calendar, Calendar No. 380.
 - 2022-09-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-505.
 - 2022-09-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-505.
+- 2022-09-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
