@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 9055
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9055
+
+> To provide for the posthumous commission as a captain in the regular Army of Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor for gallantry during the Civil War.
+
+## § 1. Posthumous commission as captain in the regular Army for Milton Holland
+
+- **(a)** *Posthumous commission* Milton Holland, who, while sergeant major of the 5th Regiment, United States Colored Infantry, was awarded the Medal of Honor in recognition of his action on September 29, 1864, during the Battle of Chapin’s Farm, Virginia, when, as the citation for the medal states, he “took command of Company C, after all the officers had been killed or wounded, and gallantly led it”, shall be deemed for all purposes to have held the grade of captain in the regular Army, effective as of that date and continuing until his separation from the Army.
+- **(b)** *Prohibition of benefits* Section 1523 of title 10, United States Code, applies in the case of the posthumous commission described in subsection (a).
