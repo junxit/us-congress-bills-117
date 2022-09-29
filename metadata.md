@@ -1,7 +1,7 @@
 ---
 measure: S. 4254
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4254
@@ -38,3 +38,5 @@ Disclosing Foreign Influence in Lobbying Act
 - 2022-09-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-150.
 - 2022-09-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-150.
 - 2022-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 491.
+- 2022-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6049-6050; text: CR S6050)
+- 2022-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
