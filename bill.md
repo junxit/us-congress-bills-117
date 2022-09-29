@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6889
 
-> To mend the Federal Credit Union Act to modify the frequency of board of directors meetings, and for other purposes.
+> To amend the Federal Credit Union Act to modify the frequency of board of directors meetings, and for other purposes.
 
 ## § 1. Short title
 
@@ -31,3 +31,7 @@ Section 113 of the Federal Credit Union Act (12 U.S.C. 1761b) is amended—
   >   - **(3)** Not less frequently than once a month, with respect to a Federal credit union—
   >     - **(A)** with composite rating of either 3, 4, or 5 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system); or
   >     - **(B)** with a capability of management rating under such composite rating of either 3, 4, or 5.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
