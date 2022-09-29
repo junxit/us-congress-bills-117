@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6833
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6833
@@ -57,12 +57,13 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2022-03-31 — [House 117-2-101](votes/house-117-2-0101.md) — On Motion to Recommit — **Failed** (197–225)
 - 2022-03-31 — [House 117-2-102](votes/house-117-2-0102.md) — On Passage — **Passed** (232–193)
 - 2022-09-27 — [Senate 117-2-349](votes/senate-117-2-0349.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (72–23)
 - 2022-09-29 — [Senate 117-2-351](votes/senate-117-2-0351.md) — On Passage of the Bill — **Bill Passed** (72–25)
+- 2022-09-30 — [House 117-2-476](votes/house-117-2-0476.md) — On Motion to Concur in the Senate Amendment — **Passed** (230–201)
 
 ## Actions
 
@@ -142,3 +143,16 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - 2022-09-29 — Senate amendment agreed to: Amendment SA 5745 agreed to in Senate by Unanimous Consent.
 - 2022-09-29 — Senate amendment proposed (on the floor): Amendment SA 5765 proposed by Senator Braun to Amendment SA 5745.
 - 2022-09-29 — Senate amendment submitted
+- 2022-09-30 — Became Public Law No: 117-180.
+- 2022-09-30 — Became Public Law No: 117-180.
+- 2022-09-30 — DEBATE - Pursuant to H. Res. 1404, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 6833.
+- 2022-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-30 — Ms. DeLauro moved that the House agree to the Senate amendment. (consideration: CR H8330-8350, H8354-8355)
+- 2022-09-30 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 230 - 201 (Roll no. 476).
+- 2022-09-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to agree to the Senate amendment to H.R. 6833, the Chair put the question on agreeing to the motion and by voice vote, announced that the ayes had prevailed. Mrs. Granger demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-09-30 — Presented to President.
+- 2022-09-30 — Presented to President.
+- 2022-09-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 230 - 201 (Roll no. 476).
+- 2022-09-30 — Signed by President.
+- 2022-09-30 — Signed by President.
+- 2022-09-30 — The previous question was ordered pursuant to the rule.
