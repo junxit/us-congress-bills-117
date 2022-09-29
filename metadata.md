@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8510
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8510
@@ -29,3 +29,14 @@ Strengthening Whistleblower Protections at the Department of Veterans Affairs Ac
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Introduced in House
 - 2022-07-26 — Referred to the House Committee on Veterans' Affairs.
+- 2022-08-16 — Referred to the Subcommittee on Oversight and Investigations.
+- 2022-09-20 — Subcommittee on Oversight and Investigations Discharged.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-09-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-09-28 — Considered under suspension of the rules. (consideration: CR H8190-8192)
+- 2022-09-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8510.
+- 2022-09-28 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2022-09-29 — Passed/agreed to in House: Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
+- 2022-09-29 — Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641. (text: CR H8190)
+- 2022-09-29 — Pursuant to the provisions of H. Res. 1396, proceedings on H.R. 8510 are considered vacated.
