@@ -1,0 +1,36 @@
+---
+legis-num: S. 5022
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5022
+
+> To allow recipients of certain loans made or guaranteed by the Small Business Administration to use the loan proceeds to provide childcare services to employees, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Childcare Development of Employee Solutions for Early Rearing in Towns with Shortages Act” or the “Childcare DESERTS Act”.
+
+## § 2. Childcare services as allowable expense under business loan and 504/CDC loan programs
+
+- **(a)** *Business loans* Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding at the end the following:
+  > - **(38)** *Childcare services* The Administration may guarantee loans under this subsection to a small business concern for which the proceeds are used to provide childcare services to members of the immediate family of employees of the small business concern.
+
+- **(b)** *504/CDC loans* Section 502(1) of the Small Business Investment Act of 1958 (15 U.S.C. 696(1)) is amended—
+  - **(1)** by striking “borrower to” and inserting the following:
+    > borrower—
+    > - **(A)** to
+
+  - **(2)** in subparagraph (A), as so designated, by striking “and for a” and inserting the following:
+    > ; and
+    > - **(B)** for—
+    >   - **(i)** a
+
+  - **(3)** in subparagraph (B), as so designated—
+    - **(A)** in clause (i), by striking the period at the end and inserting “; or”; and
+    - **(B)** by adding at the end the following:
+      > - **(ii)** providing childcare services to members of the immediate family of employees of the small business concern.
+
+- **(c)** *Regulations* Not later than 180 days after the date of enactment of this Act, the Administrator of the Small Business Administration, in partnership with the Assistant Secretary of the Administration for Children and Families, shall issue regulations to implement the amendments made by this Act.
