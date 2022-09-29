@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6965
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,4 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “There shall be in the Department two additional Assistant Secretaries” and inserting “(1) There shall be in the Department 3 additional Assistant Secretaries, including the Assistant Secretary of Commerce for Travel and Tour… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 1546` | replace | by striking “Sec. 3.” and all that follows through “The Secretary of the Interior is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1546` | replace | by striking “Sec. 3” and all that follows through “The Secretary of the Interior is authorized” and inserting the following: | the bill quotes the text struck but describes what replaces it |
