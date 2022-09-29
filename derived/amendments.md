@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7780
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 5 executed, 15 stated and not applied.
+17 amendatory instructions. 7 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,24 @@ to guess them.
 |---|---|
 | Removed | `From amounts appropriated under section 778,` |
 | Inserted | `From amounts appropriated under paragraph (5),` |
+
+### 29 U.S.C. § 1132
+
+> in the heading, by striking “use of genetic information” and inserting “use of genetic information and parity in mental health and substance use disorder benefits”; and
+
+| | |
+|---|---|
+| Removed | `use of genetic information` |
+| Inserted | `use of genetic information and parity in mental health and substance use disorder benefits` |
+
+### 29 U.S.C. § 1132
+
+> by striking “any plan sponsor of a group health plan” and inserting “any plan sponsor or plan administrator of a group health plan”; and
+
+| | |
+|---|---|
+| Removed | `any plan sponsor of a group health plan` |
+| Inserted | `any plan sponsor or plan administrator of a group health plan` |
 
 ### 29 U.S.C. § 1132
 
@@ -82,14 +100,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1140q` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)), as amended by section 503, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1132` | strike | in paragraph (10), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 1132` | replace | in paragraph (11), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1132` | replace | by striking “for any failure” and all that follows through “in connection with the plan.” and inserting | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1132` | insert | by inserting before the semicolon at the end the following: “, or (C) to require re-adjudication and payment of benefits to remedy violations of this title notwithstanding the availability of relief under other provisions of this title”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1132` | insert | by inserting before the semicolon at the end the following: “, or (C) to require re-adjudication and payment of benefits to remedy violations of this title notwithstanding the availability of relief under other provisions of this title”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1132` | insert | by inserting “, and except with respect to enforcement by the Secretary of section 712 or any other provision of part 7 in any case relating to mental health benefits and substance use disorder benefits” after “under subsection (c)(9))”;… | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1181` | insert | in section 712(e), in the matter preceding paragraph (1), by inserting “and section 502(a)(12)” after “this section”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1181` | insert | in subsection (a), in the matter preceding paragraph (1), by inserting “and section 502(a)(12)” after “this part”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1181` | insert | in subsection (b), in the matter preceding paragraph (1), by inserting “and section 502(a)(12)” after “this part”. | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1132` | insert | by inserting “, and except with respect to enforcement by the Secretary of section 712 or any other provision of part 7 in any case relating to mental health benefits and substance use disorder benefits (as such terms are defined in sect… | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1132` | add-at-end | Section 502 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1102` | add-at-end | Section 402 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1102) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
