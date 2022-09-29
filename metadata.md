@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 772
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 772
@@ -30,3 +30,7 @@ A resolution recognizing the seriousness of myotonic dystrophy and expressing su
 
 - 2022-09-19 — Introduced in Senate
 - 2022-09-19 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2022-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2022-09-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6052; text: 09/19/2022 CR S4824-4825)
+- 2022-09-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6052; text: 09/19/2022 CR S4824-4825)
