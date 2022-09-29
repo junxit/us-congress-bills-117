@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7321
@@ -63,3 +63,7 @@ Global Aircraft Maintenance Safety Improvement Act
 - 2022-09-28 — Placed on the Union Calendar, Calendar No. 381.
 - 2022-09-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-506.
 - 2022-09-28 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-506.
+- 2022-09-29 — Considered as unfinished business. (consideration: CR H8275-8276)
+- 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 52 (Roll no. 467). (text: CR H8162-8163)
+- 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 52 (Roll no. 467).

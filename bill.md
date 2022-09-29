@@ -32,34 +32,35 @@ It is the sense of Congress that—
   - **(3)** by redesignating subsection (g) as subsection (j); and
   - **(4)** by inserting after subsection (f) the following:
     > - **(g)** *Data analysis*
-    >   - **(1)** *In general* An air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, shall provide to the appropriate office of the Administration, not later than every year, a report containing the information described in paragraph (2) with respect to heavy maintenance work on aircraft (including on-wing aircraft engines) performed in the preceding year.
+    >   - **(1)** *In general* An air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, shall, if applicable, provide to the appropriate office of the Administration, not less than once every year, a report containing the information described in paragraph (2) with respect to heavy maintenance work on aircraft (including on-wing aircraft engines) performed in the preceding year.
     >   - **(2)** *Information required* A report under paragraph (1) shall contain the following information:
     >     - **(A)** The location where any heavy maintenance work on aircraft (including on-wing aircraft engines) was performed outside the United States.
     >     - **(B)** A description of the work performed at each such location.
     >     - **(C)** The date of completion of the work performed at each such location.
     >     - **(D)** A list of all failures, malfunctions, or defects affecting the safe operation of such aircraft identified by the air carrier within 30 days after the date on which an aircraft is returned to service, organized by reference to aircraft registration number, that—
-    >       - **(i)** requires corrective action after the aircraft is approved to return to service; and
+    >       - **(i)** requires corrective action after the aircraft is approved for return to service; and
     >       - **(ii)** results from the work performed on such aircraft.
-    >     - **(E)** The certificate number of the person approving such aircraft or aircraft engine, for return to service following completion of the work performed at each such location.
+    >     - **(E)** The certificate number of the person approving such aircraft or on-wing aircraft engine, for return to service following completion of the work performed at each such location.
     >   - **(3)** *Analysis* The Administrator of the Federal Aviation Administration shall—
     >     - **(A)** analyze information made available under paragraph (1) of this subsection and sections 121.703, 121.705, 121.707, and 145.221 of title 14, Code of Federal Regulations, or any successor provisions, to detect safety issues associated with heavy maintenance work on aircraft (including on-wing aircraft engines) performed outside the United States; and
     >     - **(B)** require appropriate actions in response.
     >   - **(4)** *Confidentiality* Information made available under paragraph (1) shall be subject to the same protections given to voluntarily-provided safety or security related information under section 40123.
-    > - **(h)** *Applications and requests for renewal*
-    >   - **(1)** *In general* The Administrator may not approve any new application under part 145 of title 14, Code of Federal Regulations, from a person located or headquartered in a country that the Administration, through the International Aviation Safety Assessment program, has classified as Category 2.
-    >   - **(2)** *Maintenance implementation procedures agreement* The Administrator may elect not to enter into a new maintenance implementation procedures agreement with a country classified as Category 2, for as long as that country remains classified as Category 2, if the Administrator determines that doing so is necessary to comply with the requirements of this subsection.
-    >   - **(3)** *Continued heavy maintenance work* No air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, may enter into a new contract for heavy maintenance work with a person located or headquartered in a country that the Administration, through the International Aviation Safety Assessment program, has classified as Category 2, for as long as such country remains classified as Category 2.
+    > - **(h)** *Applications and prohibition*
+    >   - **(1)** *In general* The Administrator may not approve any new application under part 145 of title 14, Code of Federal Regulations, from a person located or headquartered in a country that the Administrator, through the International Aviation Safety Assessment program, has classified as Category 2.
+    >   - **(2)** *Exception* Paragraph (1) shall not apply to an application for the renewal of a certificate issued under part 145 of title 14, Code of Federal Regulations.
+    >   - **(3)** *Maintenance implementation procedures agreement* The Administrator may elect not to enter into a new maintenance implementation procedures agreement with a country classified as Category 2, for as long as that country remains classified as Category 2.
+    >   - **(4)** *Prohibition on continued heavy maintenance work* No air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, may enter into a new contract for heavy maintenance work with a person located or headquartered in a country that the Administrator, through the International Aviation Safety Assessment program, has classified as Category 2, for as long as such country remains classified as Category 2.
     > - **(i)** *Minimum qualifications for mechanics and others working on U.S. registered aircraft*
     >   - **(1)** *In general* Not later than 1 year after the date of enactment of this subsection, the Administrator shall require that, at each covered repair station—
     >     - **(A)** all supervisory personnel are appropriately certificated as a mechanic or repairman under part 65 of title 14, Code of Federal Regulations, or under an equivalent certification or licensing regime, as determined by the Administrator; and
     >     - **(B)** all personnel authorized to approve an article for return to service are appropriately certificated as a mechanic or repairman under part 65 of such title, or under an equivalent certification or licensing regime, as determined by the Administrator.
-    >   - **(2)** *Available for consultation* Not later than 1 year after the date of enactment of this subsection, the Administrator shall require any individual who is responsible for authorization of return of an article to service or who is directly in charge of aircraft (including on-wing aircraft engine) maintenance performed on aircraft operated under part 121 of title 14, Code of Federal Regulations, be available for consultation while work is being performed.
+    >   - **(2)** *Available for consultation* Not later than 1 year after the date of enactment of this subsection, the Administrator shall require any individual who is responsible for approving an article for return to service or who is directly in charge of aircraft (including on-wing aircraft engine) maintenance performed on aircraft operated under part 121 of title 14, Code of Federal Regulations, be available for consultation while work is being performed at a covered repair station.
 
 - **(b)** *Definition of covered repair station*
   - **(1)** *In general* Section 44733(j) of title 49, United States Code (as redesignated by this section), is amended—
     - **(A)** by redesignating paragraphs (1) through (3) as paragraphs (2) through (4), respectively; and
     - **(B)** by inserting before paragraph (2), as so redesignated, the following:
-      > - **(1)** *Covered repair station* The term “covered repair station” means a facility that—
+      > - **(1)** *Covered repair station* The term covered repair station means a facility that—
       >   - **(A)** is located outside the United States;
       >   - **(B)** is certificated under part 145 of title 14, Code of Federal Regulations; and
       >   - **(C)** performs heavy maintenance work on aircraft (including on-wing aircraft engines) operated under part 121 of title 14, Code of Federal Regulations.
@@ -89,11 +90,11 @@ It is the sense of Congress that—
       - **(iii)** a plan to implement each recommendation related to FAA oversight of foreign repair stations contained in such report with which the Administrator concurs; and
       - **(iv)** a plan to work with the international community to implement the recommendations applicable to both the FAA as well as other civil aviation authorities.
 - **(f)** *Termination* The repair station working group shall terminate on the earlier of the date of submission of the report under subsection (e)(1) or on the date that is 2 years after the repair station working group is commissioned under subsection (a).
-- **(g)** *Definition of foreign repair station* In this section, the term “foreign repair station” means a repair station located outside of the territory of the country of the civil aviation authority which certificated the repair station, including repair stations certified under part 145 of title 14, Code of Federal Regulations, which are located outside the United States and the territories of the United States.
+- **(g)** *Definition of foreign repair station* In this section, the term foreign repair station means a repair station that performs heavy maintenance work on an aircraft (including on-wing engines) and that is located outside of the territory of the country of the civil aviation authority which certificated the repair station, including repair stations certified under part 145 of title 14, Code of Federal Regulations, which are located outside the United States and the territories of the United States.
 
 ## § 5. Alcohol and drug testing and background checks
 
-- **(a)** *In general* Beginning on the date that is 24 months after the date of enactment of this Act, the Administrator may not approve or authorize international travel for any employee of the Federal Aviation Administration until a final rule carrying out the requirements of subsection (b) of section 2112 of the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190) have been published in the Federal Register.
+- **(a)** *In general* Beginning on the date that is 24 months after the date of enactment of this Act, the Administrator may not approve or authorize international travel for any employee of the Federal Aviation Administration until a final rule carrying out the requirements of subsection (b) of section 2112 of the FAA Extension, Safety, and Security Act of 2016 (49 U.S.C. 44733 note) has been published in the Federal Register.
 - **(b)** *Rulemaking on assessment requirement* With respect to any employee not covered under the requirements of section 1554.101 of title 49, Code of Federal Regulations, the Administrator shall initiate a rulemaking that requires a covered repair station to confirm that any such employee has successfully completed an assessment commensurate with a security threat assessment described in subpart C of part 1540 of such title.
 - **(c)** *Exceptions* The prohibition in subsection (a) shall not apply to international travel that is determined by the Administrator on an individual by individual basis to be—
   - **(1)** exclusively for the purpose of conducting a safety inspection;
@@ -113,9 +114,9 @@ It is the sense of Congress that—
 
 In this Act:
 
-- **(1)** *Faa* The term “FAA” means the Federal Aviation Administration.
-- **(2)** *Administrator* The term “Administrator” means the Administrator of the FAA.
-- **(3)** *Covered repair station* The term “covered repair station” means a facility that—
+- **(1)** *Administrator* The term Administrator means the Administrator of the FAA.
+- **(2)** *Covered repair station* The term covered repair station means a facility that—
   - **(A)** is located outside the United States;
   - **(B)** is certificated under part 145 of title 14, Code of Federal Regulations; and
   - **(C)** performs heavy maintenance work on aircraft (including on-wing aircraft engines), operated under part 121 of title 14, Code of Federal Regulations.
+- **(3)** *Faa* The term FAA means the Federal Aviation Administration.
