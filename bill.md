@@ -1,0 +1,17 @@
+---
+legis-num: S. 5036
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5036
+
+> To require the sale of ammunition stockpiled by the Internal Revenue Service.
+
+## § 1. Sale of ammunition
+
+Notwithstanding any other provision of law—
+
+- **(1)** not later than 90 days after the date of enactment of this Act, the General Services Administration shall sell to the public by competitive offerings any ammunition purchased or stockpiled by or for the use of the Internal Revenue Service; and
+- **(2)** the proceeds of the sale under paragraph (1) shall be deposited in the general fund of the Treasury less any reasonable costs incurred by the General Services Administration in selling the ammunition.
