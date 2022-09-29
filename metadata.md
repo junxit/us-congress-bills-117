@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6833
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6833
@@ -135,3 +135,16 @@ Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023
 - 2022-09-29 — Senate amendment agreed to: Amendment SA 5745 agreed to in Senate by Unanimous Consent.
 - 2022-09-29 — Senate amendment proposed (on the floor): Amendment SA 5765 proposed by Senator Braun to Amendment SA 5745.
 - 2022-09-29 — Senate amendment submitted
+- 2022-09-30 — Became Public Law No: 117-180.
+- 2022-09-30 — Became Public Law No: 117-180.
+- 2022-09-30 — DEBATE - Pursuant to H. Res. 1404, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 6833.
+- 2022-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-30 — Ms. DeLauro moved that the House agree to the Senate amendment. (consideration: CR H8330-8350, H8354-8355)
+- 2022-09-30 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 230 - 201 (Roll no. 476).
+- 2022-09-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to agree to the Senate amendment to H.R. 6833, the Chair put the question on agreeing to the motion and by voice vote, announced that the ayes had prevailed. Mrs. Granger demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-09-30 — Presented to President.
+- 2022-09-30 — Presented to President.
+- 2022-09-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 230 - 201 (Roll no. 476).
+- 2022-09-30 — Signed by President.
+- 2022-09-30 — Signed by President.
+- 2022-09-30 — The previous question was ordered pursuant to the rule.
