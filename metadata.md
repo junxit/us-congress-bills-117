@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2710
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2710
@@ -20,9 +20,10 @@ Banking Transparency for Sanctioned Persons Act of 2021
 
 - Rep. Auchincloss, Jake [D-MA-4] (A000148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Banking Transparency for Sanctioned Persons Act of 2021
 - 2022-09-28 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2022-09-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8158)
 - 2022-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-09-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
