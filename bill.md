@@ -22,7 +22,7 @@ Congress finds the following:
 - **(3)** The Federal Government, across multiple presidential administrations and Congresses, has continued to support the ability of agencies to move to the cloud, including through—
   - **(A)** President Barack Obama’s “Cloud First Strategy”;
   - **(B)** President Donald Trump’s “Cloud Smart Strategy”;
-  - **(C)** the prioritization of cloud security in Executive Order 14028 (86 Fed. Reg. 26633; relating to improving the nation’s cybersecurity), which was issued by President Joe Biden; and
+  - **(C)** the prioritization of cloud security in Executive Order No. 14028 (86 Fed. Reg. 26633; relating to improving the nation’s cybersecurity), which was issued by President Joe Biden; and
   - **(D)** more than a decade of appropriations and authorization legislation that provides agencies with relevant authorities and appropriations to modernize on-premises information technology systems and more readily adopt cloud computing products and services.
 - **(4)** Since it was created in 2011, the Federal Risk and Authorization Management Program (referred to in this section as “FedRAMP”) at the General Services Administration has made steady and sustained improvements in supporting the secure authorization and reuse of cloud computing products and services within the Federal Government, including by reducing the costs and burdens on both agencies and cloud companies to quickly and securely enter the Federal market.
 - **(5)** According to data from the General Services Administration, as of the end of fiscal year 2021, there were 239 cloud providers with FedRAMP authorizations, and those authorizations had been reused more than 2,700 times across various agencies.
@@ -48,7 +48,7 @@ Congress finds the following:
   >   - **(7)** *FedRAMP authorization* The term FedRAMP authorization means a certification that a cloud computing product or service has—
   >     - **(A)** completed a FedRAMP authorization process, as determined by the Administrator; or
   >     - **(B)** received a FedRAMP provisional authorization to operate, as determined by the FedRAMP Board.
-  >   - **(8)** *FedRAMP authorization package* The term FedRAMP authorization package means the essential information that can be used by an agency to determine whether to authorize the operation of an information system or the use of a designated set of common controls for all cloud computing products and services authorized by FedRAMP.
+  >   - **(8)** *Fedramp authorization package* The term FedRAMP authorization package means the essential information that can be used by an agency to determine whether to authorize the operation of an information system or the use of a designated set of common controls for all cloud computing products and services authorized by FedRAMP.
   >   - **(9)** *FedRAMP Board* The term FedRAMP Board means the board established under section 3610.
   >   - **(10)** *Independent assessment service* The term independent assessment service means a third-party organization accredited by the Administrator to undertake conformity assessments of cloud service providers and the products or services of cloud service providers.
   >   - **(11)** *Secretary* The term Secretary means the Secretary of Homeland Security.
@@ -123,7 +123,7 @@ Congress finds the following:
   >   - **(3)** to the extent practicable, for any cloud computing product or service the agency seeks to authorize that has received a FedRAMP authorization, use the existing assessments of security controls and materials within any FedRAMP authorization package for that cloud computing product or service; and
   >   - **(4)** provide to the Director data and information required by the Director pursuant to section 3614 to determine how agencies are meeting metrics established by the Administrator.
   > - **(b)** *Attestation* Upon completing an assessment or authorization activity with respect to a particular cloud computing product or service, if an agency determines that the information and data the agency has reviewed under paragraph (2) or (3) of subsection (a) is wholly or substantially deficient for the purposes of performing an authorization of the cloud computing product or service, the head of the agency shall document as part of the resulting FedRAMP authorization package the reasons for this determination.
-  > - **(c)** *Submission of authorizations To operate required* Upon issuance of an agency authorization to operate based on a FedRAMP authorization, the head of the agency shall provide a copy of its authorization to operate letter and any supplementary information required pursuant to section 3609(a) to the Administrator.
+  > - **(c)** *Submission of authorizations to operate required* Upon issuance of an agency authorization to operate based on a FedRAMP authorization, the head of the agency shall provide a copy of its authorization to operate letter and any supplementary information required pursuant to section 3609(a) to the Administrator.
   > - **(d)** *Submission of policies required* Not later than 180 days after the date on which the Director issues guidance in accordance with section 3614(1), the head of each agency, acting through the chief information officer of the agency, shall submit to the Director all agency policies relating to the authorization of cloud computing products and services.
   > - **(e)** *Presumption of adequacy*
   >   - **(1)** *In general* The assessment of security controls and materials within the authorization package for a FedRAMP authorization shall be presumed adequate for use in an agency authorization to operate cloud computing products and services.
@@ -163,7 +163,7 @@ Congress finds the following:
   >   - **(1)** The costs incurred by agencies and cloud service providers relating to the issuance of FedRAMP authorizations.
   >   - **(2)** The extent to which agencies have processes in place to continuously monitor the implementation of cloud computing products and services operating as Federal information systems.
   >   - **(3)** How often and for which categories of products and services agencies use FedRAMP authorizations.
-  >   - **(4)** The unique costs and potential burdens incurred by cloud computing companies that are small business concerns (as defined in section 3(a) of the Small Business Act (15 U.S.C. 632(a))) as a part of the FedRAMP authorization process.
+  >   - **(4)** The unique costs and potential burdens incurred by cloud computing companies that are small business concerns (as defined in section 3(a) of the Small Business Act (15 U.S.C. 632(a)) as a part of the FedRAMP authorization process.
   >
   > ## § 3616. Federal Secure Cloud Advisory Committee
   >
@@ -173,7 +173,7 @@ Congress finds the following:
   >     - **(A)** To examine the operations of FedRAMP and determine ways that authorization processes can continuously be improved, including the following:
   >       - **(i)** Measures to increase agency reuse of FedRAMP authorizations.
   >       - **(ii)** Proposed actions that can be adopted to reduce the burden, confusion, and cost associated with FedRAMP authorizations for cloud service providers.
-  >       - **(iii)** Measures to increase the number of FedRAMP authorizations for cloud computing products and services offered by small businesses concerns (as defined by section 3(a) of the Small Business Act (15 U.S.C. 632(a))).
+  >       - **(iii)** Measures to increase the number of FedRAMP authorizations for cloud computing products and services offered by small businesses concerns (as defined by section 3(a) of the Small Business Act (15 U.S.C. 632(a)).
   >       - **(iv)** Proposed actions that can be adopted to reduce the burden and cost of FedRAMP authorizations for agencies.
   >     - **(B)** Collect information and feedback on agency compliance with and implementation of FedRAMP requirements.
   >     - **(C)** Serve as a forum that facilitates communication and collaboration among the FedRAMP stakeholder community.
