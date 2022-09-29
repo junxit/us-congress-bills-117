@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 9035
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9035
+
+> To amend the Federal Insecticide, Fungicide, and Rodenticide Act to prohibit new labeling changes on use of registered pesticides without notice, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Farmers Deserve Notification Act”.
+
+## § 2. No new restrictions of registered pesticides without notice
+
+Section 6(a) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136d(a)) is amended by adding at the end the following:
+
+> - **(3)** *Notice required*
+>   - **(A)** *In general* The Administrator shall not cancel, suspend or restrict the use of any pesticide registered under this Act without providing, through publication in the Federal Register, advance notice of such cancellation, suspension, or restriction at least 270 days before such cancellation, suspension, or restriction is to take effect.
+>   - **(B)** *Nonapplicability* The 270-day notification period specified in subparagraph (A) shall not be required with respect to a pesticide if a majority of the Scientific Advisory Panel established under section 25(d)(1) votes to not require such notification period with respect to such pesticide.
