@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3843
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3843
@@ -78,3 +78,17 @@ Merger Filing Fee Modernization Act of 2022
 - 2022-09-26 — Placed on the Union Calendar, Calendar No. 375.
 - 2022-09-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-493, Part I.
 - 2022-09-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-493, Part I.
+- 2022-09-28 — Rules Committee Resolution H. Res. 1396 Reported to House. Rule provides for consideration of H.R. 3843, H.R. 7780 and S. 3969. Resolution provides for one hour of general debate on each bill and one motion to recommit on H.R. 7780 and H.R. 3843 and a motion to commit S. 3969.
+- 2022-09-29 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-09-29 — Considered as unfinished business. (consideration: CR H8252-8264)
+- 2022-09-29 — Considered under the provisions of rule H. Res. 1396. (consideration: CR H8252-8264, H8268-8269; text: CR H8252-8253)
+- 2022-09-29 — DEBATE - The House proceeded with one hour of debate on H.R. 3843.
+- 2022-09-29 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-09-29 — House amendment offered
+- 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-29 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-09-29 — On passage Passed by the Yeas and Nays: 242 - 184 (Roll no. 460). (text: CR H8252-8253)
+- 2022-09-29 — POSTPONED PROCEEDINGS - At conclusion of debate on H.R. 3843, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-09-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 242 - 184 (Roll no. 460).
+- 2022-09-29 — Rule provides for consideration of H.R. 3843, H.R. 7780 and S. 3969. Resolution provides for one hour of general debate on each bill and one motion to recommit on H.R. 7780 and H.R. 3843 and a motion to commit S. 3969.
+- 2022-09-29 — The previous question was ordered pursuant to the rule.
