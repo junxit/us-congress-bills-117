@@ -1,7 +1,7 @@
 ---
 measure: S. 4524
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4524
@@ -45,3 +45,5 @@ Speak Out Act
 - 2022-09-20 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-09-20 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2022-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.
+- 2022-09-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6050; text: CR S6050)
+- 2022-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
