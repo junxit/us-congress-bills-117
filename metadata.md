@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6364
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6364
@@ -21,9 +21,10 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to exte
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To amend the Delaware Water Gap National Recreation Area Improvement Act to exte
 - 2022-09-28 — Placed on the Union Calendar, Calendar No. 378.
 - 2022-09-28 — Reported by the Committee on Natural Resources. H. Rept. 117-503.
 - 2022-09-28 — Reported by the Committee on Natural Resources. H. Rept. 117-503.
+- 2022-09-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
