@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1404
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1404
@@ -20,6 +20,11 @@ Providing for consideration of the Senate amendment to the bill (H.R. 6833) to a
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2022-09-30 — [House 117-2-474](votes/house-117-2-0474.md) — On Ordering the Previous Question — **Passed** (219–208)
+- 2022-09-30 — [House 117-2-475](votes/house-117-2-0475.md) — On Agreeing to the Resolution — **Passed** (219–209)
+
 ## Actions
 
 - 2022-09-29 — Introduced in House
@@ -27,3 +32,10 @@ Providing for consideration of the Senate amendment to the bill (H.R. 6833) to a
 - 2022-09-29 — Resolution provides for the consideration of the Senate amendment to H. R. 6833 and H.R. 8987, and an hour of debate for each measure. It also provides for a motion to recommit H.R. 6833.
 - 2022-09-29 — The House Committee on Rules reported an original measure, H. Rept. 117-533, by Mr. McGovern.
 - 2022-09-29 — The House Committee on Rules reported an original measure, H. Rept. 117-533, by Mr. McGovern.
+- 2022-09-30 — Considered as privileged matter. (consideration: CR H8323-8330)
+- 2022-09-30 — DEBATE - The House proceeded with one hour of debate on H. Res. 1404.
+- 2022-09-30 — DEBATE - The House resumed consideration of H. Res. 1404.
+- 2022-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-09-30 — On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 475). (text: CR H8323)
+- 2022-09-30 — On ordering the previous question Agreed to by the Yeas and Nays: 219 - 208 (Roll no. 474). (consideration: CR H8329)
+- 2022-09-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 209 (Roll no. 475).
