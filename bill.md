@@ -22,7 +22,4 @@ This Act may be cited as the “Fairness for 9/11 Families Act”.
   >     - **(aa)** *In general* There are authorized to be appropriated and there are appropriated to the Fund such sums as are necessary to carry out this clause, to remain available until expended.
   >     - **(bb)** *Limitation* Amounts appropriated pursuant to item (aa) may not be used for a purpose other than to make lump sum catch-up payments under this clause.
 
-- **(b)** *Emergency designation*
-  - **(1)** *In general* The amounts provided under the amendments made by subsection (a) are designated as an emergency requirement pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(g)).
-  - **(2)** *Designation in the Senate and the House* The amendments made by subsection (a) are designated as an emergency requirement pursuant to subsections (a) and (b) of section 4001 of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022.
-- **(c)** *Rescission* Of the unobligated balances of amounts made available under the heading “Small Business Administration—Business Loans Program Account, CARES Act”, for carrying out paragraphs (36) and (37) of section 7(a) of the Small Business Act (15 U.S.C. 636(a)), $2,982,000,000 are hereby rescinded.
+- **(b)** *Rescission* Of the unobligated balances of amounts made available under the heading “Small Business Administration—Business Loans Program Account, CARES Act”, for carrying out paragraphs (36) and (37) of section 7(a) of the Small Business Act (15 U.S.C. 636(a)), $2,982,000,000 are hereby rescinded.
