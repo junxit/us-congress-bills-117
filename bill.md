@@ -2,7 +2,7 @@
 legis-num: H. RES. 1404
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1404
@@ -13,4 +13,4 @@ That upon adoption of this resolution it shall be in order to take from the Spea
 
 ## § 2.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 8987) to amend the Justice for United States Victims of State Sponsored Terrorism Act to authorize appropriations for catch-up payments from the United States Victims of State Sponsored Terrorism Fund. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-68 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; and (2) one motion to recommit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 8987) to amend the Justice for United States Victims of State Sponsored Terrorism Act to authorize appropriations for catch-up payments from the United States Victims of State Sponsored Terrorism Fund. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117–68 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; and (2) one motion to recommit.
