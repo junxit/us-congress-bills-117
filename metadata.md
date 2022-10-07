@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7701
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7701
@@ -16,7 +16,7 @@ Wage Theft Prevention and Wage Recovery Act of 2022
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (42)
+## Cosponsors (45)
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Carson, Andre [D-IN-7] (C001072)
@@ -60,6 +60,9 @@ Wage Theft Prevention and Wage Recovery Act of 2022
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
 
 ## Committees (1)
 
@@ -70,3 +73,8 @@ Wage Theft Prevention and Wage Recovery Act of 2022
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Introduced in House
 - 2022-05-10 — Referred to the House Committee on Education and Labor.
+- 2022-05-18 — Committee Consideration and Mark-up Session Held.
+- 2022-05-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 19.
+- 2022-10-07 — Placed on the Union Calendar, Calendar No. 388.
+- 2022-10-07 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-540.
+- 2022-10-07 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-540.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7701
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 16 executed, 18 stated and not applied.
+35 amendatory instructions. 16 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,12 +62,12 @@ to guess them.
 
 ### 29 U.S.C. § 216
 
-> in the first sentence, by striking “and in an additional equal amount as liquidated damages” and inserting “, the amount of any interest on such unpaid wages or unpaid overtime compensation accrued at the prevailing rate, and an additional amount as liquidated damages that is equal to (subject to the second sentence of this subsection) 2 times such amount of unpaid wages or unpaid overtime compensation”;
+> in the first sentence, by striking “and in an additional equal amount as liquidated damages” and inserting “the amount of any interest on such unpaid wages or unpaid overtime compensation accrued at the prevailing rate, and an additional amount as liquidated damages that is equal to (subject to the second sentence of this subsection) 2 times such amount of unpaid wages or unpaid overtime compensation”;
 
 | | |
 |---|---|
 | Removed | `and in an additional equal amount as liquidated damages` |
-| Inserted | `, the amount of any interest on such unpaid wages or unpaid overtime compensation accrued at the prevailing rate, and an additional amount as liquidated damages that is equal to (subject to the second sentence of this subsection) 2 times such amount of unpaid wages or unpaid overtime compensation` |
+| Inserted | `the amount of any interest on such unpaid wages or unpaid overtime compensation accrued at the prevailing rate, and an additional amount as liquidated damages that is equal to (subject to the second sentence of this subsection) 2 times such amount of unpaid wages or unpaid overtime compensation` |
 
 ### 29 U.S.C. § 216
 
@@ -107,7 +107,7 @@ to guess them.
 
 ### 29 U.S.C. § 216
 
-> in the fourth sentence, by striking “sections 6 and 7” and inserting “section 6, 7, or 8”; and
+> in the third sentence, by striking “sections 6 and 7” and inserting “section 6, 7, or 8”; and
 
 | | |
 |---|---|
@@ -192,6 +192,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 216` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 211` | add-at-end | Section 11(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 211(c)) is amended by adding at the end the following: “In the event that an employee requests an inspection of the records described in this subsection that pertain to suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 215` | add-at-end | Section 15 of the Fair Labor Standards Act of 1938 (29 U.S.C. 215) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 255` | strike | in the matter preceding subsection (a), by striking “minimum”; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 255` | replace | in subsection (d), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 255` | strike | in the matter preceding paragraph (a), by striking “minimum”; | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 255` | replace | in paragraph (d), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 255` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 218` | add-at-end | Section 18(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 218(a)) is amended by adding at the end the following: “The requirements of section 5 shall not preempt or supercede any requirement under State or local law that an employ… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
