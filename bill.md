@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4270
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,16 +23,18 @@ The Energy Policy Act of 2005 is amended—
   > - **(a)** *Establishment* Not later than 120 days after the date of enactment of the Abandoned Well Remediation Research and Development Act, the Secretary of Energy shall, in coordination with relevant Federal and state agencies and entities, establish a research, development, and demonstration program to improve—
   >   - **(1)** data collection on the location of abandoned wells;
   >   - **(2)** the plugging, remediation, reclamation, and repurposing of abandoned wells; and
-  >   - **(3)** mitigating potential environmental impacts of documented and undocumented abandoned wells.
+  >   - **(3)** strategies to mitigate potential environmental impacts of documented and undocumented abandoned wells.
   > - **(b)** *Activities* The research, development, and demonstration under subsection (a) shall include activities to improve—
   >   - **(1)** remote sensor capabilities, LiDAR capabilities, optical gas imaging, magnetic survey technology, and any other technologies relevant to the efficient identification of abandoned wells;
-  >   - **(2)** understanding of how certain parameters of abandoned wells affect methane emission rates of such wells, including paramaters such as well age, well depth, geology, construction, case material, and geographic region; and
+  >   - **(2)** understanding of how certain parameters of abandoned wells affect methane emission rates of such wells, including paramaters such as well age, well depth, geology, construction, case material, and geographic region;
   >   - **(3)** the efficiency and cost-efficacy of processes for plugging, remediating, reclaiming, and repurposing abandoned wells, including—
   >     - **(A)** improvement of processes and technologies for the unique challenges associated with plugging remote abandoned wells;
   >     - **(B)** use of low carbon, lightweight cement or use of alternative materials and additives for plugging purposes; and
-  >     - **(C)** repurposing of abandoned wells for alternative uses, including geothermal power production or carbon capture, utilization, and storage.
-  > - **(c)** *Abandoned well defined* In this section, the term “abandoned well” means a well originally drilled in connection with oil and gas operations that is not being used, has not been plugged, and has no anticipated use in oil and gas operations.
-  > - **(d)** *Authorization of appropriations* There are authorized to be appropriated for purposes of this section—
+  >     - **(C)** repurposing of abandoned wells for alternative uses, including geothermal power production or carbon capture, utilization, and storage; and
+  >   - **(4)** understanding of the impacts of abandoned wells on groundwater quality and contamination.
+  > - **(c)** *Coordination* In carrying out the program established in (a), the Secretary shall ensure coordination of these activities with institutions of higher education, the Department of Energy National Laboratories, and the private sector.
+  > - **(d)** *Abandoned well defined* In this section, the term “abandoned well” means a well originally drilled in connection with oil and gas operations that is not being used, has not been plugged, and has no anticipated use in oil and gas operations.
+  > - **(e)** *Authorization of appropriations* There are authorized to be appropriated for purposes of this section—
   >   - **(1)** $30,000,000 for fiscal year 2022;
   >   - **(2)** $31,250,000 for fiscal year 2023;
   >   - **(3)** $32,500,000 for fiscal year 2024;
