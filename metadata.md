@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7321
@@ -43,9 +43,10 @@ Global Aircraft Maintenance Safety Improvement Act
 - Rep. Craig, Angie [D-MN-2] (C001119)
 - Rep. Porter, Katie [D-CA-45] (P000618)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Global Aircraft Maintenance Safety Improvement Act
 - 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 52 (Roll no. 467). (text: CR H8162-8163)
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 52 (Roll no. 467).
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
