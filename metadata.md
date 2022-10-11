@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8463
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8463
@@ -33,9 +33,10 @@ Millennium Challenge Corporation Eligibility Expansion Act
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Bera, Ami [D-CA-7] (B001287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Millennium Challenge Corporation Eligibility Expansion Act
 - 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 87 (Roll no. 472). (text: CR H8198-8199)
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 87 (Roll no. 472).
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
