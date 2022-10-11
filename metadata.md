@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3843
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3843
@@ -92,3 +92,4 @@ Merger Filing Fee Modernization Act of 2022
 - 2022-09-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 242 - 184 (Roll no. 460).
 - 2022-09-29 — Rule provides for consideration of H.R. 3843, H.R. 7780 and S. 3969. Resolution provides for one hour of general debate on each bill and one motion to recommit on H.R. 7780 and H.R. 3843 and a motion to commit S. 3969.
 - 2022-09-29 — The previous question was ordered pursuant to the rule.
+- 2022-10-11 — Received in the Senate.
