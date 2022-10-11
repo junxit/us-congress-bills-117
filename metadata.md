@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4821
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4821
@@ -58,11 +58,12 @@ To hold accountable senior officials of the Government of the People's Republic 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Kim, Young [R-CA-39] (K000397)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ To hold accountable senior officials of the Government of the People's Republic 
 - 2022-09-29 — Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
 - 2022-09-29 — Pursuant to the provisions of H. Res. 1396, proceedings on H.R. 4821 are considered vacated.
 - 2022-09-29 — The title of the measure was amended. Agreed to without objection.
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
