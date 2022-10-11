@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7780
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7780
@@ -22,9 +22,10 @@ Mental Health Matters Act
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Mental Health Matters Act
 - 2022-09-29 — The Speaker designated the Honorable Bobby L. Rush to act as Chairman of the Committee.
 - 2022-09-29 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2022-09-29 — The previous question was ordered pursuant to the rule.
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
