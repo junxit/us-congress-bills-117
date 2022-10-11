@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2758
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2758
@@ -45,3 +45,5 @@ Lumbee Recognition Act
 - 2021-11-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 59, 1 Present (Roll no. 341). (text: CR H6041)
 - 2021-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 59, 1 Present (Roll no. 341).(text: CR H6041)
 - 2021-11-02 — Received in the Senate.
+- 2022-09-29 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-10-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.
