@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8446
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8446
@@ -61,9 +61,10 @@ Global Food Security Reauthorization Act of 2022
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ Global Food Security Reauthorization Act of 2022
 - 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 331 - 95 (Roll no. 471). (text: CR H8195-8196)
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 331 - 95 (Roll no. 471).
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
