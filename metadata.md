@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4081
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4081
@@ -21,9 +21,10 @@ Informing Consumers about Smart Devices Act
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Informing Consumers about Smart Devices Act
 - 2022-09-29 — Passed/agreed to in House: Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641.
 - 2022-09-29 — Pursuant to section 10 of H. Res. 1396, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1638, as amended; H.R. 3304, as amended; H.R. 4081, as amended; H.R. 4821, as amended; H.R. 6889, as amended; H.R. 6967, as amended; H.R. 8163, as amended; H.R. 8510, as amended; H.R. 8681, as amended; H.R. 8875, as amended; H.R. 8956; S. 1198; and agree to the Senate amendments to H.R. 5641. (text: CR H8153-8154)
 - 2022-09-29 — Pursuant to the provisions of H. Res. 1396, proceedings on H.R. 4081 are considered vacated.
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
