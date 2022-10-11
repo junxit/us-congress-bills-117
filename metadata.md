@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6965
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6965
@@ -65,3 +65,4 @@ Visit America Act
 - 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 93 (Roll no. 466). (text: CR H8155-8156)
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 325 - 93 (Roll no. 466).
+- 2022-10-11 — Received in the Senate.
