@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8466
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8466
@@ -21,9 +21,10 @@ Chai Suthammanont Remembrance Act of 2022
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Brown, Shontel M. [D-OH-11] (B001313)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Chai Suthammanont Remembrance Act of 2022
 - 2022-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2022-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 462). (text: CR H8140-8141)
 - 2022-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 462).
+- 2022-10-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
