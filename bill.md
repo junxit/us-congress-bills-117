@@ -1,0 +1,28 @@
+---
+legis-num: S. 5071
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5071
+
+> To amend the Energy Policy and Conservation Act to require that the Strategic Petroleum Reserve only includes petroleum products produced in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Replenishing Our American Reserves Act” or the “ROAR Act”.
+
+## § 2. Definition of petroleum product under the Energy Policy and Conservation Act
+
+Section 3(3) of the Energy Policy and Conservation Act (42 U.S.C. 6202(3)) is amended by inserting “produced in the United States” before the period at the end.
+
+## § 3. Objectives in determining manner of acquisition of petroleum products for the Strategic Petroleum Reserve
+
+Section 160(b)(5) of the Energy Policy and Conservation Act (42 U.S.C. 6240(b)(5)) is amended by inserting “domestic” before “petroleum industry”.
+
+## § 4. Prohibition of sales of petroleum products withdrawn from the Strategic Petroleum Reserve to entities outside the United States
+
+Section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241) is amended by striking subsection (i) and inserting the following:
+
+> - **(i)** *Limitation* Notwithstanding any other provision of law, the Secretary shall only draw down and sell petroleum products from the Reserve to entities within the United States.
