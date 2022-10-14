@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1356
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1356
@@ -16,6 +16,10 @@ Of inquiry requesting the President and directing the Attorney General to transm
 
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
 
+## Cosponsors (1)
+
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+
 ## Committees (1)
 
 - House — Judiciary Committee
@@ -25,3 +29,8 @@ Of inquiry requesting the President and directing the Attorney General to transm
 - 2022-09-15 — Introduced in House
 - 2022-09-15 — Introduced in House
 - 2022-09-15 — Referred to the House Committee on the Judiciary.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 22 - 13.
+- 2022-10-14 — Placed on the House Calendar, Calendar No. 147.
+- 2022-10-14 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-544.
+- 2022-10-14 — Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-544.
