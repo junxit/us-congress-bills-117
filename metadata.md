@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8844
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8844
@@ -31,3 +31,8 @@ STEP Improvement Act of 2022
 - 2022-09-15 — Introduced in House
 - 2022-09-15 — Introduced in House
 - 2022-09-15 — Referred to the House Committee on Small Business.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported by Voice Vote.
+- 2022-10-14 — Placed on the Union Calendar, Calendar No. 390.
+- 2022-10-14 — Reported by the Committee on Small Business. H. Rept. 117-542.
+- 2022-10-14 — Reported by the Committee on Small Business. H. Rept. 117-542.
