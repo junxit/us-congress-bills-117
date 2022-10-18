@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 9193
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9193
+
+> To amend the Geothermal Steam Act of 1970 to increase the frequency of lease sales, to require replacement sales, and for other purposes.
+
+## § 1. Geothermal leasing
+
+Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended—
+
+- **(1)** in paragraph (2), by striking “2 years” and inserting “year”;
+- **(2)** by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively; and
+- **(3)** after paragraph (2), by inserting the following:
+  > - **(3)** *Replacement Sales* If a lease sale under paragraph (1) for a year is canceled or delayed, the Secretary of the Interior shall conduct a replacement sale during the same year.
+  > - **(4)** *Requirement* In conducting a lease sale under paragraph (2) in a State described in that paragraph, the Secretary of the Interior shall offer all nominated parcels eligible for geothermal development and utilization under the resource management plan in effect for the State.
