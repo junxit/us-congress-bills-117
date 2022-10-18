@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2693
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -31,3 +31,15 @@ Section 1101 of the Reclamation Projects Authorization and Adjustment Act of 199
   >     - **(B)** dust suppression projects.
 
 - **(3)** in subsection (e) (as so redesignated), by striking “$10,000,000” and inserting “$250,000,000”.
+- **(3)** in subsection (c) (as so redesignated), by striking “project referred to in subsection (a)” and inserting “projects referred to in subsections (a) and (b)”; and
+- **(4)** in subsection (e) (as so redesignated), by striking “$10,000,000” and inserting “$250,000,000”.
+
+## § 3. Extension of certain deadlines relating to pilot projects to increase Colorado River System water to address effects of historic drought conditions
+
+Section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235), is amended—
+
+- **(1)** in subsection (b)(2)—
+  - **(A)** by striking “additional”; and
+  - **(B)** by striking “this Act” and inserting “the Salton Sea Projects Improvements Act”;
+- **(2)** in subsection (c)(2), by striking “2022” and inserting “2026”; and
+- **(3)** in subsection (d), by striking “2018” and inserting “2027”.
