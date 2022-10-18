@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Eligibility under the Infrastructure Investment and Jobs Act of small water storage and groundwater storage projects for certain grants and additional Carey Act projects for certain funds
 
-- **(a)** *Small water storage and groundwater storage projects* Section 40903(b)(1)(B)(i) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3203(b)(1)(B)(i)) is amended by striking “2,000” and inserting “2”.
+- **(a)** *Small water storage and groundwater storage projects* Section 40903(b)(1)(B)(i) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3203(b)(1)(B)(i)) is amended by striking “2,000” and inserting “2 200”.
 - **(b)** *Carey Act projects* Section 40904(b) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3204(b)) is amended—
   - **(1)** in paragraph (3), by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting appropriately;
   - **(2)** by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and indenting appropriately;

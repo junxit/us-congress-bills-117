@@ -1,7 +1,7 @@
 ---
 measure: S. 4176
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 43 U.S.C. § 3203
 
-> Section 40903(b)(1)(B)(i) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3203(b)(1)(B)(i)) is amended by striking “2,000” and inserting “2”.
+> Section 40903(b)(1)(B)(i) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3203(b)(1)(B)(i)) is amended by striking “2,000” and inserting “2 200”.
 
 | | |
 |---|---|
 | Removed | `2,000` |
-| Inserted | `2` |
+| Inserted | `2 200` |
 
 ## Stated, not applied
 
