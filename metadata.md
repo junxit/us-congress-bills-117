@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3531
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3531
@@ -59,3 +59,8 @@ Women Who Worked on the Home Front World War II Memorial Act
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 428).
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 428).
 - 2021-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-11 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-10-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin under authority of the order of the Senate of 10/14/2022 without amendment. With written report No. 117-189.
+- 2022-10-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin under authority of the order of the Senate of 10/14/2022 without amendment. With written report No. 117-189.
+- 2022-10-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 540.
