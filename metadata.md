@@ -1,7 +1,7 @@
 ---
 measure: S. 3307
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3307
@@ -28,3 +28,8 @@ Wilson's Creek National Battlefield Boundary Revision Act of 2021
 
 - 2021-12-02 — Introduced in Senate
 - 2021-12-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-05-11 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-10-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin under authority of the order of the Senate of 10/14/2022 with amendments. With written report No. 117-185.
+- 2022-10-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin under authority of the order of the Senate of 10/14/2022 with amendments. With written report No. 117-185.
+- 2022-10-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.

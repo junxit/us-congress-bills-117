@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3307
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -26,7 +26,7 @@ Section 1(b) Public Law 86–434 (16 U.S.C. 430kk(b)) is amended—
     >   - **(A)** *In general* The boundaries
 
   - **(C)** by inserting after subparagraph (A) (as so designated) the following:
-    > - **(B)** *Newtonia Battlefield addition* The boundary of the Wilson's Creek National Battlefield is revised to include the approximately 624 acres of land identified as “Proposed Addition” on the map entitled “Wilson's Creek National Battlefield Proposed Boundary Modification”, numbered 410/177,379, and dated September 2021.
+    > - **(B)** *Newtonia Battlefield addition* The boundary of the Wilson's Creek National Battlefield is revised to include the approximately 62425 acres of land identified as “Proposed Addition” on the map entitled “Wilson's Creek National Battlefield Proposed Boundary Modification”, numbered 410/177,379, and dated September 2021July 2022.
 
   - **(D)** by adding at the end the following:
     > - **(D)** *Errors* The Secretary of the Interior may correct any clerical or typographical error in a map described in subparagraph (A) or (B).
