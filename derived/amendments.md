@@ -1,7 +1,7 @@
 ---
 measure: S. 2693
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 43 U.S.C. § 620
+
+> by striking “this Act” and inserting “the Salton Sea Projects Improvements Act”;
+
+| | |
+|---|---|
+| Removed | `this Act` |
+| Inserted | `the Salton Sea Projects Improvements Act` |
+
+### 43 U.S.C. § 620
+
+> in subsection (c)(2), by striking “2022” and inserting “2026”; and
+
+| | |
+|---|---|
+| Removed | `2022` |
+| Inserted | `2026` |
+
+### 43 U.S.C. § 620
+
+> in subsection (d), by striking “2018” and inserting “2027”.
+
+| | |
+|---|---|
+| Removed | `2018` |
+| Inserted | `2027` |
 
 ## Stated, not applied
 
@@ -34,3 +63,6 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e) (as so redesignated), by striking “$10,000,000” and inserting “$250,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c) (as so redesignated), by striking “project referred to in subsection (a)” and inserting “projects referred to in subsections (a) and (b)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e) (as so redesignated), by striking “$10,000,000” and inserting “$250,000,000”. | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 620` | strike | by striking “additional”; and | the bill quotes the text struck but describes what replaces it |
