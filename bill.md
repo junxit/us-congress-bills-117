@@ -19,7 +19,7 @@ Subsection (b) of section 708 of the Homeland Security Act of 2002 (6 U.S.C. 348
 
 - **(1)** by amending paragraph (8) to read as follows:
   > - **(8)** *Joint Task Force staff*
-  >   - **(A)** *In general* Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force.
+  >   - **(A)** *In general* Each Joint Task Force shall have a staff, composed of personnel from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force.
   >   - **(B)** *Report* The Secretary shall include in the report submitted under paragraph (6)(F)—
   >     - **(i)** the number of personnel permanently assigned to each Joint Task Force by each component and office; and
   >     - **(ii)** the number of personnel assigned on a temporary basis to each Joint Task Force by each component and office.
@@ -30,8 +30,8 @@ Subsection (b) of section 708 of the Homeland Security Act of 2002 (6 U.S.C. 348
     > - **(A)** using leading practices in performance management and lessons learned by other law enforcement task forces and joint operations, establish—
     >   - **(i)** the mission, strategic goals, and objectives of each Joint Task Force;
     >   - **(ii)** the criteria for terminating each Joint Task Force; and
-    >   - **(iii)** outcome-based and other appropriate performance metrics to evaluate the effectiveness of each Joint Task Force with respect to the mission, strategic goals, and objectives established pursuant to clause (i), including—
-    >     - **(I)** targets for each such Joint Task Force to achieve by not later than one and three years after such establishment; and
+    >   - **(iii)** outcome-based and other appropriate performance metrics for evaluating the effectiveness of each Joint Task Force with respect to the mission, strategic goals, and objectives established pursuant to clause (i), including—
+    >     - **(I)** targets for each such Joint Task Force to achieve for each of the three years after such establishment; and
     >     - **(II)** a description of the methodology used to establish such metrics;
 
   - **(C)** in subparagraph (B)—
@@ -45,12 +45,12 @@ Subsection (b) of section 708 of the Homeland Security Act of 2002 (6 U.S.C. 348
   - **(A)** in the heading, by inserting “or termination” after “formation”; and
   - **(B)** by amending subparagraph (A) to read as follows:
     > - **(A)** *In general* Not later than 90 days before establishing or terminating a Joint Task Force under this subsection, the Secretary shall submit to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a notification regarding such establishment or termination, as the case may be. The contents of any such notification shall include the following:
-    >   - **(i)** The criteria and conditions required to establish or terminate the Joint Task Force at issue.
+    >   - **(i)** The criteria and conditions required to establish or terminate such Joint Task Force.
     >   - **(ii)** The primary mission, strategic goals, objectives, and plan of operations of such Joint Task Force.
     >   - **(iii)** If such notification is a notification of termination, information on the effectiveness of such Joint Task Force as measured by the outcome-based performance metrics and other appropriate performance metrics established pursuant to paragraph (9)(A)(iii).
     >   - **(iv)** The funding and resources required to establish or terminate such Joint Task Force.
-    >   - **(v)** The number of personnel permanently assigned to such Joint Task Force from each component or office.
-    >   - **(vi)** The number of personnel assigned on a temporary basis to such Joint Task Force from each component or office.
+    >   - **(v)** The number of personnel permanently assigned to such Joint Task Force from each component and office.
+    >   - **(vi)** The number of personnel assigned on a temporary basis to such Joint Task Force from each component and office.
     >   - **(vii)** If such notification is a notification of establishment, the anticipated costs of establishing and operating such Joint Task Force.
     >   - **(viii)** If such notification is a notification of termination, funding allocated in the immediately preceding fiscal year to such Joint Task Force for—
     >     - **(I)** operations notwithstanding such termination; and
