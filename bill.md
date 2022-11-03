@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 9268
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9268
+
+> To authorize the location of a monument on the National Mall to commemorate and honor the women’s suffrage movement and the passage of the 19th Amendment to the Constitution, and for other purposes.
+
+## § 1. Women’s Suffrage National Monument
+
+- **(a)** *Site* Notwithstanding section 8908(c) of title 40, United States Code, the Women’s Suffrage National Monument shall be located within the Reserve.
+- **(b)** *Applicability of Commemorative Works Act* Except as provided in subsection (a), chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”), shall apply to the Women’s Suffrage National Monument.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Women’s Suffrage National Monument* The term Women’s Suffrage National Monument means the commemorative work authorized to be established under Public Law 116–217 (40 U.S.C. 8903 note).
+  - **(2)** *Reserve* The term Reserve has the meaning given such term in section 8902(a)(3) of title 40, United States Code.
