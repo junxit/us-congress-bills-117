@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2193
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,122 +9,106 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Occupational Safety and Health Administration to issue an occupational safety and health standard to protect workers from heat-related injuries and illnesses.
 
-## § 1. Short title and findings
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “Asuncion Valdivia Heat Illness and Fatality Prevention Act of 2021”.
-- **(b)** *Findings* Congress finds the following:
-  - **(1)** Excessive heat exposure poses a direct threat to workers and the economy. Climate change increases this danger, as 19 of the 20 hottest years on record have occurred since 2001. Rising temperatures are projected to cause an increase in heat-related workplace injuries and illnesses, a dramatic loss in labor capacity, and decreased productivity.
-  - **(2)** On average, 3 times as many people die from extreme heat in the United States each year than from hurricanes, floods, and tornadoes combined.
-  - **(3)** Heat-related illnesses can arise when high temperatures rise above the body’s capacity to dispel heat. Impacts range from comparatively minor problems such as heat cramps to severe afflictions such as organ damage, heat exhaustion, stroke, and death.
-  - **(4)** Heat stress and COVID–19 are a combined threat to workers. Respiratory infections, such as COVID–19, and protective equipment, like essential face masks, can increase susceptibility to heat exhaustion and heat stroke. Many of the symptoms of COVID–19 and heat stress may combine to cause acute illness that is especially deadly.
-  - **(5)** Jobs at highest risk of heat stress illness and death are disproportionately held by Black and Brown workers, a disparity that reflects the racial injustice inherent in our economic system.
-  - **(6)** Farmworkers and construction workers suffer the highest incidence of heat illness, but all outdoor and indoor workers employed in excessively hot and humid environments are at significant risk of material impairment of health or functional capacity.
-  - **(7)** Asuncion Valdivia was a California farmworker who died of heat stroke in 2004 after picking grapes for 10 straight hours in 105 degree temperatures. Instead of calling an ambulance, his employer told his son to drive Mr. Valdivia home. On his way home, he started foaming at the mouth and died.
-  - **(8)** People working in excessive heat suffer diminished mental acuity and physical ability, which increases the risk of accidents. Heat-related injuries and illnesses increase workers’ compensation costs and medical expenses.
-  - **(9)** The costs of lower labor productivity under rising temperatures is estimated to reach up to $160,000,000,000 in lost wages per year in the United States by 2090 according to the 2018 National Climate Assessment. The drop in productivity decreases income for employers and workers. Global gross domestic product losses from heat are projected to be greater than 20 percent by the end of this century.
-  - **(10)** Every year, thousands of workers become sick and some die from exposure to heat. Between 1992 and 2017, 815 United States workers died from heat and almost 70,000 were seriously injured. These numbers are generally understood to be gross undercounts because many heat-related illnesses and deaths are blamed on natural causes.
-  - **(11)** Workers have a legal right to a safe workplace. The vast majority of heat-related workplace deaths and illnesses can be prevented by access to water, rest, and shade. Many employers don’t provide these simple measures for workers according to the Occupational Safety and Health Administration.
-  - **(12)** Employers often retaliate against employees if they report or seek assistance due to problems with heat. Many employees are therefore afraid to report problems and face increased risk of heat-related illnesses or death.
-  - **(13)** In the absence of a Federal standard, multiple branches of the United States Armed Forces—including the Army, Navy, Marine Corps, and Air Force—have issued heat prevention guidelines, and several States—California, Washington, and Minnesota—have issued heat prevention standards. The National Institute for Occupational Safety and Health (NIOSH) issued criteria for such a standard in 1972, updating it in 1986 and 2016.
-  - **(14)** Congress created the Occupational Safety and Health Administration to ensure safe and healthful working conditions by setting and enforcing standards pursuant to section 6 of the Occupational Safety and Health Act of 1970. Employees are exposed to grave danger from exposure to excessive heat. The Occupational Safety and Health Administration must develop a standard to protect workers from the significant risks of heat-related illness and death.
-  - **(15)** While heat stress is often associated with outdoor jobs, some indoor workers are also at risk from dangerously high temperatures. Indoor heat stress is prevalent in enclosed workplaces without climate control or adequate ventilation, such as warehouses and factories, and workplaces with heat-generating machinery such as steel mills, electrical utilities, bakeries, commercial kitchens, and laundries.
+This Act may be cited as the “Asunción Valdivia Heat Illness and Fatality Prevention Act of 2022”.
 
-## § 2. OSHA safety standard for exposure to heat and hot environments
+## § 2. Employer duties
 
-- **(a)** *Proposed standard* Not later than 2 years after the date of enactment of this Act, the Secretary of Labor shall, pursuant to section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)), promulgate a proposed standard on prevention of occupational exposure to excessive heat.
-- **(b)** *Final standard* Not later than 42 months after the date of enactment of this Act, the Secretary shall promulgate a final standard on prevention of occupational exposure to excessive heat that shall—
-  - **(1)** provide no less protection than the most protective heat prevention standard adopted by a State plan that has been approved by the Secretary under section 18 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 667) and, at a minimum, include the requirements described in section 4; and
-  - **(2)** be effective and enforceable in the same manner and to the same extent as any standard promulgated under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)).
-- **(c)** *Interim final standard*
-  - **(1)** *In general* If the proposed standard described in subsection (a) is not promulgated not later than 2 years after the date of enactment of this Act, the Secretary of Labor shall promulgate an interim final standard on prevention of occupational exposure to excessive heat not later than 2 years and 60 days after such date of enactment—
-    - **(A)** to require covered employers to develop and implement a comprehensive workplace excessive heat prevention plan to protect covered employees from excessive heat that may lead to heat-related injuries and illnesses; and
-    - **(B)** that shall, at a minimum—
-      - **(i)** provide no less protection than the most protective heat prevention standard adopted by a State plan that has been approved by the Secretary under section 18 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 667);
-      - **(ii)** establish requirements with respect to exposure limits that trigger action to protect covered employees from heat-related illness, hydration, scheduled and paid rest breaks in shaded or climate-controlled spaces, an acclimatization plan, exposure monitoring, and other measures to prevent exposure to heat above safe limits, employee and supervisor training, hazard notification, an emergency medical response plan, heat-related surveillance, recordkeeping, and procedures for compensating piece rate workers for required heat-related rest breaks;
-      - **(iii)** take into consideration the NIOSH Criteria for a Recommended Standard: Occupational Exposure to Heat and Hot Environments published by the National Institute for Occupational Safety and Health in 2016; and
-      - **(iv)** include a requirement to protect employees from discrimination or retaliation for exercising the rights of the employees under the interim final standard.
-  - **(2)** *Applicability of other statutory requirements* The following shall not apply to the promulgation of the interim final standard under this subsection:
-    - **(A)** The requirements applicable to occupational safety and health standards under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)).
-    - **(B)** The requirements of section 553(c) of chapter 5 and chapter 6 of title 5, United States Code.
-    - **(C)** The requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
-  - **(3)** *Effective date of interim standard* The interim final standard shall—
-    - **(A)** take effect on a date that is not later than 30 days after the promulgation of such standard, except that such interim final standard may include a reasonable phase-in period for the implementation of required engineering controls that take effect after such date;
-    - **(B)** be enforced in the same manner and to the same extent as any standard promulgated under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)); and
-    - **(C)** be in effect until the final standard described in subsection (b) becomes effective and enforceable.
+Each employer shall—
 
-## § 3. Definitions
+- **(1)** furnish employment and a place of employment free from conditions that may reasonably be anticipated to cause death or serious physical harm from heat stress; and
+- **(2)** comply with standards, regulations, rules, and orders promulgated under this Act.
 
-In this Act:
+## § 3. Worker heat protection standards
 
-- **(1)** *Covered employee* The term covered employee includes an individual employed by a covered employer.
-- **(2)** *Covered employer* The term covered employer—
-  - **(A)** means an employer that employs an individual to work at a covered workplace; and
-  - **(B)** includes a contractor, subcontractor, a temporary service firm, or an employee leasing entity.
-- **(3)** *Covered workplace* The term covered workplace includes a workplace with occupational exposure to excessive heat.
-- **(4)** *Employer* The term employer has the meaning given the term in section 3 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652).
-- **(5)** *Excessive heat* The term excessive heat includes outdoor or indoor exposure to heat at levels that exceed the capacities of the body to maintain normal body functions and may cause heat-related injury, illness, or fatality (including heat stroke, heat exhaustion, heat syncope, heat cramps, or heat rashes).
-- **(6)** *Secretary* The term Secretary means the Secretary of Labor.
+- **(a)** *Design of standards*
+  - **(1)** *In general* The Secretary shall promulgate a worker heat protection standard that, in accordance with the best available evidence, establishes the maximum protective program of measures an employer shall implement to regulate employees’ exposure to heat stress and prevent heat-related illness and injury that attains the highest degree of health and safety protection to the extent feasible.
+  - **(2)** *Considerations*
+    - **(A)** *Demonstrably achievable measures* The Secretary may presume that any requirement substantially equivalent to a requirement adopted by a State plan approved by the Occupational Safety and Health Administration pursuant to section 18(c) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 667(c)) and that has been in effect for at least 1 year is feasible.
+    - **(B)** *Prioritizing worker protection* In weighing any considerations during rulemaking, the Secretary shall place preeminent value on assuring employees a safe and healthful working environment.
+    - **(C)** *Available expertise* If the Secretary adopts any finding or recommendation by the Institute, the American Conference of Governmental Industrial Hygienists, or the National Academies of Sciences, Engineering, and Medicine relevant to heat stress in a rulemaking pursuant to this Act, such finding or recommendation shall be considered the best available evidence.
+    - **(D)** *Employer categories* The Secretary may, in any rulemaking analysis or design of standards, cluster relevant employers in any categories such as standard industry or occupational classifications or any common or related features of heat sources, conditions of employment, employer practices, employee characteristics, or nature of place of employment that, in the Secretary’s reasonable determination, are useful for designing an effective and practicable program of standards, regulations, and enforcement that maximizes the health and safety of employees.
+  - **(3)** *Protective programs*
+    - **(A)** *In general* In addition to measures specified by this Act, the Secretary may develop a worker heat protection standard with such additional requirements that, in the Secretary’s reasonable judgment, are necessary or appropriate to achieve the purposes of this Act. Such measures may include the following:
+      - **(i)** *Engineering controls* Requirements to eliminate hazardous levels of heat stress through engineering controls, such as isolation or shielding of employees from sources of heat, exhaust ventilation, insulation of hot surfaces, or climate-control technologies, as well as technology-based standards that encourage the development of such controls.
+      - **(ii)** *Administrative controls* Requirements to limit exposure to hazardous levels of heat stress by adjustment of work procedures, work schedules, or other work practices.
+      - **(iii)** *Personal protective equipment* Requirements to provide, at the employer’s expense, personal protective equipment such as water-cooled garments, air-cooled garments, heat-reflective clothing, and cooling vests.
+      - **(iv)** *Health-related protocols* Requirements to conduct medical symptom monitoring, emergency response protocols, medical removal protection, or training of employees and supervisors in recognition of symptoms of heat-related illness and appropriate responses.
+      - **(v)** *Training requirements* Requirements to train employees and supervisors in topics reasonable or necessary to achieve the implementation of the requirements of a standard or the purposes of this Act, including—
+        - **(I)** training of employees in signs and symptoms of heat-related illness, emergency response procedures, and their rights under this Act; and
+        - **(II)** training of supervisors in monitoring heat conditions and environmental forecasts, recognizing signs of heat-related illness, and protocols for responding to likely heat-related illness.
+      - **(vi)** *Planning requirements* Requirements for a heat illness and injury prevention plan that—
+        - **(I)** is of sufficient quality to effectuate the purposes of this Act and to effectuate the requirements of the standard that apply to the employer;
+        - **(II)** is developed, updated, and implemented with the meaningful participation of the employer’s employees and, where applicable, such employees’ representatives, for all aspects of the plan;
+        - **(III)** is produced and maintained in writing and updated in light of changing conditions or practices; and
+        - **(IV)** is made available, upon request, to any employee, the employee’s representative, and the Secretary.
+      - **(vii)** *Standard health and safety measures* Any measures described in section 6(B)(7) of the Occupational Safety and Health Act of 1970 (29 USC 655(B)(7)).
+    - **(B)** *Innovative solutions* As the relevant scientific evidence develops, technological solutions improve, and environmental conditions or new work practices aggravate the risk of heat-related illness or injury, the Secretary may modify, supplement, or revise a worker heat protection standard by rule in order to improve such standard in light of such changes, even if it departs from long-standing past practice, provided that the resulting standard is consistent with this Act.
+    - **(C)** *Core practices* The Secretary shall establish criteria under which an employer who exposes or may reasonably be anticipated to expose an employee to heat or heat stress that is not reduced below hazardous levels by engineering controls or personal protective equipment shall implement a reasonable program that includes—
+      - **(i)** suitably cool potable water or appropriate hydration, provided at employer expense;
+      - **(ii)** periodic paid rest breaks scheduled to reduce heat stress below hazardous levels;
+      - **(iii)** access to shade or suitable cool-down spaces;
+      - **(iv)** acclimatization policies; and
+      - **(v)** such measures that are necessary or appropriate to ensure effective implementation of the requirements of this subparagraph.
+  - **(4)** *Other specifications*
+    - **(A)** *Protection of pay* The Secretary shall require that, for any required duration such as rest breaks, medical removal protection, and training, an employee shall receive compensation at the regular rate at which such employee is employed.
+    - **(B)** *Language access* Any required training, poster, label, hazard alert, or written plan shall be provided in English and a language understood by the employees, if such is not English, and prepared appropriately for the vocabulary, educational level, and literacy of the employees.
+    - **(C)** *Temporary labor camps* The Secretary shall revise the Secretary’s standard for temporary labor camps to the extent necessary to achieve the purposes of this Act.
+  - **(5)** *Maintaining protection* No worker heat protection standard promulgated under this Act may reduce the protection afforded employees by an existing worker heat protection standard.
+- **(b)** *Initial standards* Not later than the date that is 1 year after the date of enactment of this Act, the Secretary shall promulgate, without regard to the requirements of chapters 5 and 6 of title 5, United States Code, subchapter I of chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), or the National Environmental Policy Act of 1969 (42 U.S.C. 431 et seq.), an interim final rule establishing a worker heat protection standard and related recordkeeping and reporting requirements. Such rule shall take effect upon issuance (except that it may include a reasonable delay in the effective date), shall have the legal effect of an occupational safety and health standard as defined by section 3(8) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652(8)), and shall remain in effect until superseded by a final rule promulgated pursuant to this Act.
+- **(c)** *Rulemaking procedures* For any rulemaking pursuant to this Act after publication of the initial final rule in subsection (b), the following procedures shall apply:
+  - **(1)** *In general* The Secretary shall, upon a showing by a petitioner pursuant to paragraph (2) or the Secretary’s own determination that a worker heat protection standard is necessary or appropriate to regulate employees’ exposure to conditions known to cause or that may reasonably be anticipated to cause heat-related illness or injury, promulgate any worker heat protection standard in accordance with the policies set forth in this section and in accordance with section 553 of title 5, United States Code (without regard to any reference in such section to sections 556 and 557 of such title).
+  - **(2)** *Petitions for rulemaking* Any person may petition the Secretary to promulgate or modify a worker heat protection standard. Within 18 months after receipt of a petition, the Secretary shall either grant or deny the petition by publishing a written explanation of the reasons for the Secretary’s decision. The Secretary may not deny a petition solely on the basis of inadequate resources or insufficient time for review.
+  - **(3)** *Timelines* Except as otherwise provided in subsection (b), the Secretary shall observe the following schedule for rulemaking:
+    - **(A)** *Proposed standards* Within one year after granting a petition for rulemaking under paragraph (2), the Secretary shall publish a proposed worker heat protection standard consistent with this section.
+    - **(B)** *Final standards* The Secretary shall promulgate, within one year after such publication, such standards with such modifications as the Secretary deems appropriate.
+    - **(C)** *Effect* Standards or revisions thereof shall become effective upon promulgation, except that the Secretary may include a reasonable delay in the effective date.
+  - **(4)** *Transparency in rulemaking* For any rulemaking notice pursuant to this Act, the Secretary shall place in the public record not later than the date of such rulemaking notice the following:
+    - **(A)** The drafts of such rulemakings prepared before publication and submitted by the Secretary to the Office of Management and Budget for any interagency review process prior to publication, all documents accompanying such drafts, all written comments thereon by other agencies, and all written responses to such written comments by the Secretary.
+    - **(B)** A summary of the substance of any changes between the text of the draft rulemaking that the agency provided to the Office of Management and Budget under section 6(a)(3)(B)(i) of Executive Order 12,866 and the text published in the Federal Register, excluding any non-substantive changes such as spelling or grammatical corrections or re-ordering of text that has no legal effect.
+    - **(C)** A statement identifying any party or entity at whose request any such change was made.
+  - **(5)** *Judicial review*
+    - **(A)** *Filing of petition* A petition for review in accordance with section 702 of title 5, United States Code, of action of the Secretary in promulgating any worker heat protection standard or any other nationally applicable regulation or final action taken by the Secretary pursuant to this Act may be filed only in the United States Court of Appeals for the District of Columbia. The filing of a petition for review shall not postpone the effectiveness of such rule or action.
+    - **(B)** *Timely filing* Any petition for review under this paragraph shall be filed within sixty days from the date notice of such promulgation, approval, or action appears in the Federal Register.
+    - **(C)** *Not subject to review* Action of the Secretary with respect to which review could have been obtained under this paragraph shall not be subject to judicial review in civil or criminal proceedings for enforcement. Failure to promulgate any standard pursuant to the schedule established by this section shall be subject to review.
 
-## § 4. Requirements for final standard on prevention of occupational exposure to excessive heat
+## § 4. Implementation and enforcement
 
-- **(a)** *In general* The final standard promulgated under section 2(b) shall, at a minimum—
-  - **(1)** take into consideration the NIOSH Criteria for a Recommended Standard: Occupational Exposure to Heat and Hot Environments published by the National Institute for Occupational Safety and Health in 2016;
-  - **(2)** establish requirements with respect to exposure limits that trigger action to protect covered employees from heat-related illness, hydration, scheduled and paid rest breaks in shaded or climate-controlled spaces, an acclimatization plan, exposure monitoring, and other measures to prevent exposure to heat above safe limits, employee and supervisor training, hazard notification, medical monitoring, an emergency medical response plan, heat-related surveillance recordkeeping, procedures for compensating piece rate workers for required heat-related rest breaks, and a heat prevention plan; and
-  - **(3)** include the requirements described in subsection (b) with respect to covered employers.
-- **(b)** *Requirements* The final standard promulgated under section 2(b) shall, with respect to covered employers, include the following:
-  - **(1)** *Heat illness prevention plans*
-    - **(A)** *In general* A covered employer shall develop, implement, and maintain an effective, written excessive heat illness prevention plan for covered employees, which shall—
-      - **(i)** be developed and implemented with the meaningful participation of covered employees and, where applicable, employee representatives and collective bargaining representatives, for all aspects of the plan;
-      - **(ii)** be tailored and specific to hazards in the covered workplace;
-      - **(iii)** be in writing, in English and in the language understood by a majority of the employees, if such language is not English; and
-      - **(iv)** be made available, upon request, to such employees, the employee representatives for such employees, and the Secretary.
-    - **(B)** *Plan content* Each plan required under subparagraph (A) shall include procedures and methods for the following:
-      - **(i)** Initial and regular monitoring of employee exposure to determine whether employees are exposed to excessive heat.
-      - **(ii)** Provision of water, paid rest breaks, and access to shade or cool-down areas.
-      - **(iii)** Emergency response.
-      - **(iv)** Acclimatization.
-      - **(v)** Hazard prevention, including engineering controls, administrative controls, or personal protective equipment to correct, in a timely manner, applying industrial hygiene principles of the hierarchy of controls, including, as appropriate—
-        - **(I)** engineering controls that may include isolation of hot processes, isolation of employees from sources of heat, local exhaust ventilation, shielding from a radiant heat source, and insulation of hot surfaces, the provision of air conditioning, cooling fans, cooling mist fans, evaporative coolers, and natural ventilation;
-        - **(II)** administrative controls that limit exposure to a hazard by adjustment of work procedures or work schedules, which may include acclimatizing employees, rotating employees, scheduling work earlier or later in the day, using work-rest schedules, reducing work intensity or speed, changing required work clothing, and using relief workers; and
-        - **(III)** personal protective equipment which may include water-cooled garments, air-cooled garments, reflective clothing, and cooling vests.
-      - **(vi)** Coordination of risk assessment efforts, plan development, and implementation of the plan with other employers who have employees who work at the covered workplace.
-      - **(vii)** Compensating piece rate workers for required heat-related rest breaks.
-  - **(2)** *Training and education*
-    - **(A)** *Employee Training* A covered employer shall provide annual training and education to covered employees who may be exposed to high heat levels, which shall cover the following topics:
-      - **(i)** Identified heat illness risk factors.
-      - **(ii)** Personal factors that may increase susceptibility to heat-related illness.
-      - **(iii)** Signs and symptoms of heat-related illness.
-      - **(iv)** Different types of heat illness.
-      - **(v)** The importance of acclimatization and consumption of liquids.
-      - **(vi)** Engineering control measures.
-      - **(vii)** Administrative control measures.
-      - **(viii)** The importance of reporting heat-related symptoms being experienced by the employee or another employee.
-      - **(ix)** Recordkeeping requirements and reporting procedures.
-      - **(x)** Emergency response procedures.
-      - **(xi)** Employee rights.
-    - **(B)** *Supervisor Training* In addition to the training and education required in subparagraph (A), training and education shall be provided annually to covered employees who are supervisors that shall cover the following topics:
-      - **(i)** The procedures a supervisor is required to follow under this Act.
-      - **(ii)** How to recognize high-risk situations, including how to monitor weather reports and weather advisories, and not assigning an employee to situations that predictably compromise the safety of the employee.
-      - **(iii)** The procedures to follow when an employee exhibits signs or reports symptoms consistent with possible heat illness, including emergency response procedures.
-    - **(C)** *General training requirements* The education and training provided under this paragraph to covered employees shall meet the following:
-      - **(i)** In the case of such an employee whose job circumstances have changed, within a reasonable timeframe after such change of job circumstances, education and training shall be provided that shall be—
-        - **(I)** in addition to the education and training provided under clause (ii), subparagraph (A), and, if applicable to such employee, subparagraph (B); and
-        - **(II)** applicable to such change of job circumstances.
-      - **(ii)** Applicable education and training shall be provided for each new covered employee prior to the employee’s job assignment.
-      - **(iii)** The education and training shall provide such employees opportunities to ask questions, give feedback, and request additional instruction, clarification, or other follow-up.
-      - **(iv)** The education and training shall be provided in-person and by an individual with knowledge of heat illness prevention and of the plan of the employer under this section.
-      - **(v)** The education and training shall be appropriate in content and vocabulary to the language, educational level, and literacy of such covered employees.
-  - **(3)** *Recordkeeping* Each covered employer shall—
-    - **(A)** maintain at all times—
-      - **(i)** records related to each plan of the employer under paragraph (1), including heat illness risk and hazard assessments, and identification, evaluation, correction, and training procedures;
-      - **(ii)** data on all heat-related illnesses and deaths; and
-      - **(iii)** data on environmental and physiological measurements related to heat; and
-    - **(B)** make such records and data available, upon request, to covered employees and their representatives for examination and copying in accordance with section 1910.1020 of title 29, Code of Federal Regulations (as such section is in effect on the date of enactment of this Act).
-  - **(4)** *Whistleblower protections*
-    - **(A)** *Policy* Each covered employer shall adopt a policy prohibiting any person (including an agent of the employer) from discriminating or retaliating against any employee for—
-      - **(i)** exercising the rights of the employee under this Act; or
-      - **(ii)** reporting violations of the standard to any local, State, or Federal government.
-    - **(B)** *Prohibition* No covered employer shall discriminate or retaliate against any employee for—
-      - **(i)** reporting a heat-illness-related concern to, or seeking assistance or intervention with respect to heat-related health symptoms from, the employer, local emergency services, or a local, State, or Federal government; or
-      - **(ii)** exercising any other rights of the employee under this Act.
-    - **(C)** *Enforcement* This paragraph shall be enforced in the same manner and to the same extent as any standard promulgated under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)).
+- **(a)** *In general* Except as otherwise provided by this section—
+  - **(1)** a worker heat protection standard shall have the same legal effect as an occupational safety and health standard as defined by section 3(8) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652(8)); and
+  - **(2)** any rule, regulation, or order promulgated pursuant to this Act shall have the same legal effect as a rule, regulation, or order promulgated pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
+- **(b)** *Enforcement*
+  - **(1)** *Statute of limitations for citation* No citation for any violation of section 2 or any standard, rule, regulation, or order pursuant to this Act may be issued under this section after the expiration of four years following the occurrence of any violation.
+  - **(2)** *Review* The Commission shall grant substantial deference to any reasonable interpretation by the Secretary of this Act or any standard, regulation, or order pursuant to this Act.
+- **(c)** *Recordkeeping and reporting*
+  - **(1)** *In general* With regard to recordkeeping and reporting, the Secretary and Secretary of Health and Human Services shall have the same authority to prescribe regulations related to this Act as under section 8 of the Occupational Safety and Health Act (29 U.S.C. 657).
+  - **(2)** *Consolidating requirements* The Secretary may incorporate recordkeeping and reporting requirements under this section into existing recordkeeping and reporting requirements promulgated pursuant to section 8 of the Occupational Safety and Health Act (29 U.S.C. 657), provided that a violation of such a requirement with regard to implementation of this Act shall be enforced as a distinct violation separate and apart from any other simultaneous violation of a requirement pursuant to the Occupational Safety and Health Act.
+- **(d)** *Whistleblower protections*
+  - **(1)** *Complaint* Any employee who believes that such employee has been discharged or otherwise discriminated against by any person in violation of section 11(c)(1) of the Occupational Safety and Health Act (29 U.S.C. 660(c)(1)) with regard to any matter under or related to this Act may, within 180 days after such violation occurs, file a complaint with the Secretary following the procedures in paragraph (2) of such section alleging such discrimination.
+  - **(2)** *Action* If the Secretary fails to notify the complainant of the Secretary’s determination on the complaint within 90 days pursuant to section 11(c)(3) of the Occupational Safety and Health Act (29 U.S.C. 660(c)(3)) or determines not to bring an action pursuant to paragraph (2) of such section, such employee may bring an action in any appropriate United States district court against such person for all appropriate relief in accordance with paragraph (2) of such section as well as reasonable attorney’s fees and costs.
+
+## § 5. General provisions
+
+- **(a)** *Severability* If any provision of this Act is held invalid, the remainder of this Act shall not be affected thereby. If the application of any provision of this Act to any person or circumstance is held invalid, the application of such provision to other persons or circumstances shall not be affected thereby.
+- **(b)** *Authorization of appropriations* There are authorized to be appropriated from sums not otherwise appropriated, for each fiscal year, such sums as may be necessary to carry out this Act.
+
+## § 6. Agenda for further review and action
+
+The Secretary shall update the National Agricultural Workers Survey with such questions that, in the Secretary’s judgment, are useful to identify the incidence and prevalence of heat-related illness and injury and assess the impact of standards and enforcement pursuant to this Act. Within one year of the date of enactment of this Act, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the Secretary’s implementation of this subsection.
+
+## § 7. Definitions
+
+For purposes of this Act:
+
+- **(1)** The term “Commission” means the Occupational Safety and Health Review Commission.
+- **(2)** The term “employee” has the same meaning as in section 3(6) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652(6)).
+- **(3)** The term “employer” has the same meaning as in section 3(5) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652(5)).
+- **(4)** The term “heat stress” means the load of heat that a person experiences due to—
+  - **(A)** sources of heat or heat retention (including the combined contributions of metabolic heat, environmental factors, and clothing or personal protective equipment); or
+  - **(B)** the presence of heat in a work setting.
+- **(5)** The term “heat-related illness” means a material impairment of health that occurs due to heat stress.
+- **(6)** The term “heat-related injury” means an injury caused by exposure to heat or sources of heat or occurring as a result of heat stress.
+- **(7)** The term “Institute” means the National Institute for Occupational Safety and Health.
+- **(8)** The term “Secretary” means the Secretary of Labor.
+- **(9)** The term “worker heat protection standard” means a standard that regulates employee exposure to heat stress and prevents heat-related illness and injury by requiring conditions or the adoption or use of one or more practices, means, methods, operations, or processes reasonably necessary or appropriate to provide employment and places of employment that are safe or healthful.
