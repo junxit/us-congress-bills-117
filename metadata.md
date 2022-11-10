@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1296
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1296
@@ -25,3 +25,8 @@ Of inquiry requesting the President and directing the Secretary of Education to 
 - 2022-07-28 — Introduced in House
 - 2022-07-28 — Introduced in House
 - 2022-07-28 — Referred to the House Committee on Education and Labor.
+- 2022-09-15 — Committee Consideration and Mark-up Session Held.
+- 2022-09-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 21.
+- 2022-11-10 — Placed on the House Calendar, Calendar No. 149.
+- 2022-11-10 — Reported adversely (Amended) by the Committee on Education and Labor. H. Rept. 117-550.
+- 2022-11-10 — Reported adversely (Amended) by the Committee on Education and Labor. H. Rept. 117-550.
