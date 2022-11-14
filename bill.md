@@ -1,0 +1,29 @@
+---
+legis-num: S. 5084
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5084
+
+> To reprioritize Federal law enforcement funds from prosecuting nonviolent pro-life demonstrators to prosecuting violent offenders and drug traffickers.
+
+## § 1. Short title
+
+This Act may be cited as the “Arrest Murderers not Ministers Act”.
+
+## § 2. Freedom of access to clinic entrances
+
+- **(a)** *Funding prohibition* During fiscal year 2023, no funds may be used by the Federal Government to enforce section 248 of title 18, United States Code, including by alleging a conspiracy under section 241 of title 18, United States Code, or any other violation of law that derives from section 248 of title 18, United States Code, unless the alleged violation of that section involves—
+  - **(1)** intentional physical injuries to a person, or an intentional attempt to physically injure a person, for—
+    - **(A)** obtaining or providing, or attempting to obtain or provide, reproductive health services; or
+    - **(B)** lawfully exercising or seeking to exercise the First Amendment to the Constitution of the United States right of religious freedom at a place of religious worship; or
+  - **(2)** intentional physical damage to, or an intentional attempt to physically damage, the property of—
+    - **(A)** a facility that provides reproductive health services because the facility provides reproductive health services; or
+    - **(B)** a place of religious worship.
+- **(b)** *Alternative use of funds* Any funds that the Federal Government would have used to enforce section 248 of title 18, United States Code, including by alleging a conspiracy under section 241 of title 18, United States Code or any other violation of law that derives from section 248 of title 18, United States Code, but for the prohibition under subsection (a) of this section, shall be used to prosecute offenders who—
+  - **(1)** have committed crimes involving violent conduct;
+  - **(2)** are felons who illegally possess firearms;
+  - **(3)** have committed drug trafficking crimes, including crimes involving fentanyl and other synthetic opioids; or
+  - **(4)** are illegal aliens who have committed criminal offenses in the United States.
