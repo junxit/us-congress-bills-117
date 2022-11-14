@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6917
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6917
@@ -45,3 +45,11 @@ To designate the facility of the United States Postal Service located at 301 Eas
 - 2022-03-03 — Introduced in House
 - 2022-03-03 — Introduced in House
 - 2022-03-03 — Referred to the House Committee on Oversight and Reform.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8486)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6917.
+- 2022-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8486)
+- 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
