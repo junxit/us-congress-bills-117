@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Prevent All Soring Tactics Act of 2022” or the “PAST Act of 2022”.
+This Act may be cited as the “Prevent All Soring Tactics Act of 2021” or the “PAST Act of 2021”.
 
 ## § 2. Increased enforcement under Horse Protection Act
 
@@ -110,7 +110,3 @@ This Act may be cited as the “Prevent All Soring Tactics Act of 2022” or the
     - **(C)** by striking “$3,000” each place it appears and inserting “$5,000”.
 - **(f)** *Regulations* Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section, including regulations prescribing the requirements under subsection (c) of section 4 of the Horse Protection Act (15 U.S.C. 1823(c)), as amended by subsection (c)(3).
 - **(g)** *Severability* If any provision of this Act or any amendment made by this Act, or the application of a provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provisions to any person or circumstance, shall not be affected by the holding.
-
-## § 3. Determination of budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
