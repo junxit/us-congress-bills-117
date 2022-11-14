@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7903
 
-> To designate the Department of Veterans Affairs community-based outpatient clinic in Canton, Michigan, as the “Major General Oliver W. Dillard VA Outpatient Clinic”.
+> To designate the Department of Veterans Affairs community-based outpatient clinic located in Canton, Michigan, as the “Major General Oliver W. Dillard VA Clinic”.
 
 ## § 1. Findings
 
@@ -23,7 +23,7 @@ Congress finds the following:
 - **(8)** Dillard was inducted into the United States Army’s Military Intelligence Hall of Fame in 2012, the Officer Candidate School Hall of Fame in 2012, and the Alabama Military Hall of Honor in 2013.
 - **(9)** He died in Canton, Michigan, in 2015, and is buried in Arlington National Cemetery.
 
-## § 2. Designate of Department of Veterans Affairs community-based outpatient clinic, Canton, Michigan
+## § 2. Designation of Department of Veterans Affairs community-based outpatient clinic located in Canton, Michigan
 
-- **(a)** *Designation* The community-based outpatient clinic of the Department of Veterans Affairs in Canton, Michigan, shall after the date of the enactment of this Act be known and designated as the “Major General Oliver W. Dillard VA Outpatient Clinic”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Major General Oliver W. Dillard VA Outpatient Clinic”.
+- **(a)** *Designation* The Department of Veterans Affairs community-based outpatient clinic located in Canton, Michigan, shall after the date of the enactment of this Act be known and designated as the “Major General Oliver W. Dillard VA Clinic”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Major General Oliver W. Dillard VA Clinic”.

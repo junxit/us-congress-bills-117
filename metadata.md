@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7903
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7903
@@ -41,3 +41,11 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2022-05-27 — Introduced in House
 - 2022-05-27 — Introduced in House
 - 2022-05-27 — Referred to the House Committee on Veterans' Affairs.
+- 2022-06-13 — Referred to the Subcommittee on Economic Opportunity.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8452-8455)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7903.
+- 2022-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-14 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2022-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8452)
+- 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-11-14 — The title of the measure was amended. Agreed to without objection.
