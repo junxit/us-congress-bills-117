@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5441
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5441
@@ -16,7 +16,7 @@ PAST Act of 2021
 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Cosponsors (212)
+## Cosponsors (263)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
@@ -230,6 +230,57 @@ PAST Act of 2021
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Issa, Darrell E. [R-CA-50] (I000056)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Franklin, C. Scott [R-FL-15] (F000472)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Steil, Bryan [R-WI-1] (S001213)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Bourdeaux, Carolyn [D-GA-7] (B001312)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
 
 ## Committees (1)
 
@@ -240,3 +291,19 @@ PAST Act of 2021
 - 2021-09-30 — Introduced in House
 - 2021-09-30 — Introduced in House
 - 2021-09-30 — Referred to the House Committee on Energy and Commerce.
+- 2021-10-01 — Referred to the Subcommittee on Consumer Protection and Commerce.
+- 2022-06-23 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 22 - 0 .
+- 2022-06-23 — Subcommittee Consideration and Mark-up Session Held.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported by the Yeas and Nays: 46 - 9.
+- 2022-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-14 — Considered as unfinished business. (consideration: CR H8490-8491)
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8473-8477)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5441.
+- 2022-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-14 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2022-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 304 - 111 (Roll no. 478). (text: CR H8473-8474)
+- 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 304 - 111 (Roll no. 478).
+- 2022-11-14 — Placed on the Union Calendar, Calendar No. 397.
+- 2022-11-14 — Reported by the Committee on Energy and Commerce. H. Rept. 117-553.
+- 2022-11-14 — Reported by the Committee on Energy and Commerce. H. Rept. 117-553.
