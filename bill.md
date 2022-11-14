@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7925
 
-> To designate the outpatient clinic of the Department of Veterans Affairs in Palm Desert, California, as the “Sy Kaplan Veterans Center”.
+> To designate the Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California, as the “Sy Kaplan VA Clinic”.
 
 ## § 1. Findings
 
@@ -25,7 +25,7 @@ Congress finds the following:
 - **(10)** Sergeant Kaplan received the Senior Inspiration Award from Riverside County Supervisor Roy Wilson in 2001.
 - **(11)** Wilson also appointed Sergeant Kaplan the first chair of the Desert Palms Community Council.
 
-## § 2. Designation of Sy Kaplan Veterans Center
+## § 2. Designation of Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California
 
-- **(a)** *Designation* The outpatient clinic of the Department of Veterans Affairs in Palm Desert, California, shall after the date of the enactment of this Act be known and designated as the “Sy Kaplan Veterans Center”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Sy Kaplan Veterans Center”.
+- **(a)** *Designation* The Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California, shall after the date of the enactment of this Act be known and designated as the “Sy Kaplan VA Clinic”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Sy Kaplan VA Clinic”.
