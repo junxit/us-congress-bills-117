@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3709
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3709
@@ -49,3 +49,7 @@ Preliminary Damage Assessment Improvement Act of 2021
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 11 (Roll no. 362). (text: 11/3/2021 CR H6143)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 11 (Roll no. 362).(text: 11/3/2021 CR H6143)
 - 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-194.
+- 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-194.
+- 2022-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.
