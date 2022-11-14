@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7077
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7077
@@ -77,3 +77,7 @@ Empowering the U.S. Fire Administration Act
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 37 (Roll no. 153). (text: 05/10/2022 CR H4733)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 37 (Roll no. 153).(text: 05/10/2022 CR H4733)
 - 2022-05-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-195.
+- 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-195.
+- 2022-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.
