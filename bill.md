@@ -22,27 +22,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** facilitate the administration of the universal application for Federal disaster assistance established under section 3;
     - **(B)** carry out the purposes of disaster assistance programs swiftly, efficiently, equitably, and in accordance with applicable laws, regulations, and the privacy and data protections provided under this section; and
     - **(C)** detect, prevent, and investigate waste, fraud, abuse, or discrimination in the administration of disaster assistance programs.
-  - **(2)** *Authorities of Administrator* In establishing and maintaining the electronic information sharing system under this subsection, the Administrator may collect and maintain disaster assistance information received from a disaster assistance agency and share such information with any other disaster assistance agency using such electronic information sharing system.
+  - **(2)** *Authorities of Administrator* In establishing and maintaining the electronic information sharing system under this subsection, the Administrator may collect and maintain disaster assistance information received from a disaster assistance agency or an applicant for a disaster assistance program and share such information with any other disaster assistance agency using such electronic information sharing system.
 - **(b)** *Data security* The Administrator may facilitate the collection of disaster assistance information into the electronic information sharing system established under this section only after the following requirements have been met:
-  - **(1)** The Secretary of Commerce certifies that the electronic information sharing system substantially complies with the data security standards and best practices of the National Institute of Standards and Technology.
+  - **(1)** The Administrator certifies that the electronic information sharing system substantially complies with the data security standards and best practices of the National Institute of Standards and Technology.
   - **(2)** The Secretary of Homeland Security publishes a privacy impact assessment for the electronic information sharing system, in accordance with section 222 of the Homeland Security Act of 2002 (6 U.S.C. 142).
   - **(3)** The Administrator publishes standard rules of behavior for disaster assistance agencies and personnel granted access to disaster assistance information to protect such information from improper disclosure.
 - **(c)** *Collection and sharing of additional records and information*
-  - **(1)** *In general* The Administrator may authorize the collection, sharing, and use of additional disaster assistance information by publishing a notice on DisasterAssistance.gov that includes a detailed description of—
+  - **(1)** *In general* The Administrator may authorize the collection, maintenance, sharing, and use of additional disaster assistance information by publishing a notice on DisasterAssistance.gov that includes a detailed description of—
     - **(A)** the specific amendments to the collection, maintenance, and sharing of disaster assistance information authorized;
     - **(B)** why each such amendment to how disaster assistance information is collected, maintained, or shared is necessary to carry out the purposes of a disaster assistance program and consistent with the fair information practice principles; and
     - **(C)** the disaster assistance agencies that will be granted access to the additional information to carry out the purposes of any disaster assistance program.
   - **(2)** *Notice and publication requirements* The publication of a notice under paragraph (1) of a revision to the DisasterAssistance.gov system of records prior to any new collection, or uses, of Privacy Act categories of records, to carry out the purposes of a disaster assistance program with regard to a disaster declared by the President under section 401 or 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 5191), shall be deemed to satisfy the notice and publication requirements of section 552a(e)(4) of title 5, United States Code, for the 90-day period beginning on the date on which the publication under paragraph (1) is made.
   - **(3)** *Waiver of information collection requirements*
-    - **(A)** *In general* Upon the declaration of a major disaster or emergency pursuant to section 401 or 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 5191), the President may direct the Administrator to waive the requirements of subchapter I of chapter 35 of title 44, United States Code, with respect to voluntary collection of information for the duration of such major disaster or emergency.
+    - **(A)** *In general* Upon the declaration of a major disaster or emergency pursuant to sections 401 or 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 5191), the President may direct the Administrator to waive the requirements of subchapter I of chapter 35 of title 44, United States Code, with respect to voluntary collection of information for the duration of such major disaster or emergency.
     - **(B)** *Transparency* Upon exercising the waiver authority under subparagraph (A), the Administrator shall—
       - **(i)** promptly post on a website of the Federal Emergency Management Agency a brief justification for such waiver, the anticipated period of time such waiver will be in effect, and the agencies and offices within the Federal Emergency Management Agency to which such waiver shall apply; and
       - **(ii)** update the information relating to such waiver, as applicable.
+  - **(4)** *GAO review of waiver of information collection requirements*
+    - **(A)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall issue a report describing the benefits and potential risks associated with authorizing the waiver of the information collection requirements described in paragraph (3).
+    - **(B)** *Contents* The report required under subparagraph (A) shall include an assessment of the extent to which a waiver described in paragraph (3) would—
+      - **(i)** affect the paperwork burden for individuals, small businesses, State, local and tribal governments, and other persons;
+      - **(ii)** affect the consistent application of Federal laws relating to—
+        - **(I)** privacy and confidentiality;
+        - **(II)** security of information; and
+        - **(III)** access to information; and
+      - **(iii)** encourage or deter a State or other entity from participating in the voluntary collection of information for the duration of a major disaster or emergency.
 - **(d)** *Use by other Federal agencies*
   - **(1)** *In general* The Administrator may permit a Federal agency other than the disaster assistance agencies listed in subparagraphs (A) through (C) of subsection (f)(2) to use the electronic information sharing system established under this section for the purpose of facilitating disaster-related assistance if such agency enters into an agreement containing the terms described in paragraph (2).
   - **(2)** *Agency agreement* An agreement between the Administrator and another Federal agency to use the electronic information sharing system established under this subsection shall contain the following terms:
     - **(A)** The Federal agency shall—
-      - **(i)** collect, share, maintain, and use disaster assistance information only as provided under this section and in substantial compliance with the data security standards and best practices of the National Institute of Standards and Technology; and
+      - **(i)** collect, share, maintain, and use disaster assistance information in compliance with this section and in substantial compliance with the data security standards and best practices of the National Institute of Standards and Technology; and
       - **(ii)** train any personnel granted access to disaster assistance information on the rules of behavior established by the Administrator under subsection (b)(3).
     - **(B)** In the event of any unauthorized disclosure of disaster assistance information, the Federal agency shall—
       - **(i)** notify the Administrator within 24 hours of discovering any such unauthorized disclosure;
@@ -62,12 +71,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** *Disaster assistance agency* The term “disaster assistance agency” means—
     - **(A)** the Federal Emergency Management Agency;
     - **(B)** the Department of Housing and Urban Development;
-    - **(C)** the Small Business Administration; and
-    - **(D)** any other Federal agency that the Administrator permits to use the electronic information sharing system under subsection (d).
+    - **(C)** the Small Business Administration;
+    - **(D)** the Department of Agriculture; and
+    - **(E)** any other Federal agency that the Administrator permits to use the electronic information sharing system under subsection (d).
   - **(3)** *Disaster assistance information* The term “disaster assistance information” includes any personal, biographical, geographical, and financial information that a disaster assistance agency is authorized to collect, maintain, share, or use to process an application for disaster assistance or otherwise carry out a disaster assistance program.
   - **(4)** *Disaster assistance program* The term “disaster assistance program” means—
     - **(A)** any program that provides assistance to individuals and households under title IV or title V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.); and
-    - **(B)** any other assistance program carried out by a disaster assistance agency that provides assistance to an individual, household, or organization related to a major disaster or emergency declared under section 401 or 501 of such Act, including—
+    - **(B)** any other assistance program carried out by a disaster assistance agency that provides assistance to an individual, household, or organization related to a major disaster or emergency declared under sections 401 or 501 of such Act, including—
       - **(i)** disaster assistance, long-term disaster recovery, post-disaster restoration of infrastructure and housing, post-disaster economic revitalization, and pre-disaster mitigation under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.);
       - **(ii)** any loan that is authorized under section 7(b) of the Small Business Act (15 U.S.C. 636(b)); and
       - **(iii)** the distribution of food benefit allotments as authorized under section 412 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5179) and section 5(h) of the Food Stamp Act of 1977 (7 U.S.C. 2014(h)).
@@ -83,6 +93,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** The Secretary of Agriculture.
   - **(2)** *Support* The entities described in paragraph (1) shall provide prompt support to the Administrator.
 - **(c)** *Survey* The application established under subsection (a) shall include a voluntary survey to collect the demographic data of an applicant.
+- **(d)** *GAO assessment on identity theft and disaster fraud in disaster assistance programs* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall—
+  - **(1)** conduct an assessment of improper and potentially fraudulent Federal disaster assistance for individuals made to victims of major disasters declared in 2020 and 2021, including through identity theft; and
+  - **(2)** submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that describes—
+    - **(A)** the prevalence of improper and potentially fraudulent Federal disaster assistance for individuals made to registrants who used invalid information to apply for disaster assistance, including through identity theft;
+    - **(B)** the number of disaster victims whose claims for Federal disaster assistance for individuals were denied due to another individual filing a fraudulent application using their personal identifying information;
+    - **(C)** the adequacy of existing fraud prevention protocols in place on the Federal Emergency Management Agency’s online application for Federal disaster assistance for individuals; and
+    - **(D)** recommendations for improving the identity verification protocols in place for Federal disaster assistance for individuals.
 
 ## § 4. Repair and rebuilding
 
@@ -112,7 +129,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(ii)** *Eligibility* A recipient of assistance under this subparagraph shall not be eligible for assistance under paragraph (1), unless otherwise determined by the Administrator.
   >   - **(C)** *Relationship to other assistance* A recipient of assistance provided under this paragraph shall not be required to show that the assistance can be met through other means, except insurance proceeds.
 
-- **(b)** *State- or indian tribal government-Administered assistance and other needs assistance* Section 408(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(f)) is amended—
+- **(b)** *State- or indian tribal government-administered assistance and other needs assistance* Section 408(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(f)) is amended—
   - **(1)** by striking “subsections (c)(1)(B), (c)(4), and (e)” each place it appears and inserting “paragraphs (1)(B), (2)(B), and (4) of subsection (c) and subsection (e)”; and
   - **(2)** in paragraph (3)(A) by striking “subsection (c)(1)(B), (c)(4), or (e)” and inserting “paragraph (1)(B), (2)(B), or (4) of subsection (c) or subsection (e)”.
 
@@ -126,7 +143,7 @@ Section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
   - **(C)** in subparagraph (I), as so redesignated—
     - **(i)** in clause (ii) by striking “Not later than 2 years after the date of enactment of this paragraph, the” and inserting “The”; and
     - **(ii)** in clause (iii) by striking—
-      - **(I)** “2 years after the date of enactment of this paragraph or”; and
+      - **(I)** “2 years after the date of enactment of this paragraph or” and
       - **(II)** “, whichever occurs sooner”; and
 - **(2)** in subsection (g)—
   - **(A)** in paragraph (1) by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
@@ -179,7 +196,7 @@ Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >   - **(1)** The number of applications for assistance under section 408, including a description of the number of applications for assistance related to housing under such section and the number of applications for assistance to address other needs under section 408(e).
 >   - **(2)** The number of applications for such assistance that are approved.
 >   - **(3)** The number of applications for such assistance that are denied.
->   - **(4)** A ranked list of the reasons for the denial of such applications.
+>   - **(4)** A ranked list of the reasons for the denial of such applications, including the number of applications for each reason for denial.
 >   - **(5)** The dollar amount of assistance provided pursuant to section 408 to—
 >     - **(A)** property owners; and
 >     - **(B)** renters.
@@ -192,7 +209,7 @@ Not later than 180 days after the date of enactment of this Act, the Administrat
 
 - **(1)** the average amount of individual assistance and individual and household assistance provided under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) to, and the rate of denial of individual assistance and individual and household assistance provided under such section for—
   - **(A)** all individuals;
-  - **(B)** all individuals and households;
+  - **(B)** households;
   - **(C)** individuals and households with an annual income under 75 percent of the national median household income;
   - **(D)** individuals with an annual income over 125 percent of the national median household income; and
   - **(E)** individuals with an annual income between 75 percent and 125 percent of the national median household income; and
@@ -208,8 +225,8 @@ Section 403 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 >     - **(A)** *In general* The Administrator may only reimburse a State, tribal, or local government for the costs of sheltering emergency response personnel under paragraph (1) for such a period of time as the Administrator determines reasonable based in the individual characteristics of and impacts to the affected area, including the extent of damage, the availability of alternative housing options, the availability of utilities, and disruptions to transportation infrastructure.
 >     - **(B)** *Maximum duration of reimbursement* The period of reimbursement under subparagraph (A) may not exceed the 6-month period beginning on the date on which the incident period ends.
 >   - **(3)** *Definition* In this subsection, the term “emergency response personnel” means—
->     - **(A)** employees or contracted employees providing law enforcement, fire suppression, rescue, emergency medical, or emergency communications services; and
->     - **(B)** elected officials responsible for the overseeing or directing emergency response operations or recovery activities.
+>     - **(A)** employees or contracted employees providing law enforcement, fire suppression, rescue, emergency medical, emergency management, or emergency communications services; and
+>     - **(B)** elected officials, except members of Congress, responsible for the overseeing or directing emergency response operations or recovery activities.
 
 ## § 13. Duplication of benefits
 
@@ -219,7 +236,7 @@ Section 312(b)(4) of the Robert T. Stafford Disaster Relief and Emergency Assist
 
 ## § 14. GAO report on preliminary damage assessments
 
-- **(a)** *In general* The Comptroller General of the United States shall conduct a study on the practices, including the accuracy of such practices, that the Federal Emergency Management Agency uses when conducting preliminary damage assessments for the purposes of providing assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174).
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study on the practices, including the accuracy of such practices, that the Federal Emergency Management Agency uses when conducting preliminary damage assessments for the purposes of providing assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42. U.S.C. 5174).
 - **(b)** *Contents* The Comptroller General shall include in the study conducted under subsection (a) the following:
   - **(1)** A comparison of the process and procedures used by the Federal Emergency Management Agency to complete preliminary damage assessments to the process and procedures used by private insurance companies following a major disaster.
   - **(2)** A review of training provided to individuals conducting preliminary damage assessments.
