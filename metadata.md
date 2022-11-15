@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8987
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8987
@@ -42,3 +42,6 @@ Fairness for 9/11 Families Act
 - 2022-09-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 400 - 31 (Roll no. 477).
 - 2022-09-30 — Resolution provides for the consideration of the Senate amendment to H. R. 6833 and H.R. 8987, and an hour of debate for each measure. It also provides for a motion to recommit H.R. 6833.
 - 2022-09-30 — The previous question was ordered pursuant to the rule.
+- 2022-10-11 — Received in the Senate.
+- 2022-11-14 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2022-11-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.
