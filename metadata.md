@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6722
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6722
@@ -32,9 +32,10 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2022-11-14 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8447)
 - 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-11-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
