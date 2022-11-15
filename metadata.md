@@ -1,7 +1,7 @@
 ---
 measure: H.R. 884
 congress: 117
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 884
@@ -59,3 +59,6 @@ National Aviation Preparedness Plan Act of 2022
 - 2022-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 133 (Roll no. 427).
 - 2022-09-15 — Received in the Senate.
 - 2022-09-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-11-15 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2022-11-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-11-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
