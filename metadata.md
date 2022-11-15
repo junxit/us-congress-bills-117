@@ -1,7 +1,7 @@
 ---
 measure: S. 2561
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2561
@@ -16,9 +16,11 @@ A bill to amend the Forest and Rangeland Renewable Resources Planning Act of 197
 
 - Sen. Daines, Steve [R-MT] (D000618)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -28,3 +30,8 @@ A bill to amend the Forest and Rangeland Renewable Resources Planning Act of 197
 
 - 2021-07-29 — Introduced in Senate
 - 2021-07-29 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2021-10-21 — Committee on Energy and Natural Resources. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-11-15 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments and an amendment to the title. With written report No. 117-198.
+- 2022-11-15 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments and an amendment to the title. With written report No. 117-198.
+- 2022-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 549.
