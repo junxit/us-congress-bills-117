@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6863
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6863
@@ -34,3 +34,14 @@ To designate the medical center of the Department of Veterans Affairs in Memphis
 - 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8450)
 - 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2022-11-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7008)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-07 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-236.
+- 2022-12-20 — Became Public Law No: 117-236.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
