@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1463
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1463
@@ -25,3 +25,6 @@ Supporting the goals and ideals of "move over" laws.
 - 2022-11-14 — Introduced in House
 - 2022-11-14 — Introduced in House
 - 2022-11-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2022-11-15 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1464, H. Res. 1463 is considered passed House.(consideration: CR H8504; text: CR H8504-8505)
+- 2022-11-15 — Pursuant to the provisions of H. Res. 1464, H. Res. 1463 is considered passed House. (consideration: CR H8504; text: CR H8504-8505)
+- 2022-11-15 — Referred to the Subcommittee on Highways and Transit.
