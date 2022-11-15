@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5441
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5441
@@ -282,9 +282,10 @@ PAST Act of 2021
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -307,3 +308,4 @@ PAST Act of 2021
 - 2022-11-14 — Placed on the Union Calendar, Calendar No. 397.
 - 2022-11-14 — Reported by the Committee on Energy and Commerce. H. Rept. 117-553.
 - 2022-11-14 — Reported by the Committee on Energy and Commerce. H. Rept. 117-553.
+- 2022-11-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
