@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 813
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 813
@@ -28,3 +28,7 @@ A resolution expressing the support of the Senate for the designation of "Public
 
 - 2022-09-29 — Introduced in Senate
 - 2022-09-29 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2022-11-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6704; text: 9/29/2022 CR S5556-5557)
+- 2022-11-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6704; text: 9/29/2022 CR S5556-5557)
+- 2022-11-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-11-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
