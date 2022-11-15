@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 63
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 63
@@ -39,3 +39,6 @@ A joint resolution relating to a national emergency declared by the President on
 - 2022-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
 - 2022-10-11 — Senate Committee on Finance discharged pursuant to 50 U.S.C. 1622.
 - 2022-10-11 — Senate Committee on Finance discharged pursuant to 50 U.S.C. 1622.
+- 2022-11-15 — Measure laid before Senate by unanimous consent.
+- 2022-11-15 — Passed Senate without amendment by Yea-Nay Vote. 61 - 37. Record Vote Number: 355. (consideration: CR S6682-6686; text: CR S6686)
+- 2022-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 61 - 37. Record Vote Number: 355.(consideration: CR S6682-6686; text: CR S6686)
