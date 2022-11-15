@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6917
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6917
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 301 Eas
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 301 Eas
 - 2022-11-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8486)
 - 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
