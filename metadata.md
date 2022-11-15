@@ -1,7 +1,7 @@
 ---
 measure: S. 4834
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4834
@@ -36,3 +36,7 @@ PROTECT Our Children Act of 2022
 
 - 2022-09-13 — Introduced in Senate
 - 2022-09-13 — Read twice and referred to the Committee on the Judiciary.
+- 2022-11-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6704; text: CR S6704)
+- 2022-11-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-11-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-11-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
