@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2617
@@ -46,3 +46,5 @@ Consolidated Appropriations Act, 2023
 - 2022-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-164.
 - 2022-09-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-164.
 - 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
+- 2022-11-15 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6704; text: CR S6704)
+- 2022-11-15 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
