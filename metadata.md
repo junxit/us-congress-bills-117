@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6863
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6863
@@ -16,9 +16,10 @@ To designate the medical center of the Department of Veterans Affairs in Memphis
 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To designate the medical center of the Department of Veterans Affairs in Memphis
 - 2022-11-14 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2022-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8450)
 - 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-11-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
