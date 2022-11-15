@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5481
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5481
@@ -32,9 +32,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2022-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8446)
 - 2022-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2022-11-14 — The title of the measure was amended. Agreed to without objection.
+- 2022-11-15 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
