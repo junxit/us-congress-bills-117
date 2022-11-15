@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8416
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8416
@@ -35,3 +35,14 @@ Disaster Survivors Fairness Act of 2022
 - 2022-07-19 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-07-19 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-07-19 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Financial Services, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-07-20 — Committee Consideration and Mark-up Session Held.
+- 2022-07-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-07-20 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2022-07-20 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2022-11-15 — Committee on Financial Services discharged.
+- 2022-11-15 — Committee on Financial Services discharged.
+- 2022-11-15 — Committee on Small Business discharged.
+- 2022-11-15 — Committee on Small Business discharged.
+- 2022-11-15 — Placed on the Union Calendar, Calendar No. 401.
+- 2022-11-15 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-560, Part I.
+- 2022-11-15 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 117-560, Part I.
