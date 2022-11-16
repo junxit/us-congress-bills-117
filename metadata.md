@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5343
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5343
@@ -48,3 +48,8 @@ FEMA Caseworker Accountability Act
 - 2022-03-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 17 (Roll no. 93).(text: CR H3990)
 - 2022-03-30 — The title of the measure was amended. Agreed to without objection.
 - 2022-03-31 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-05-16 — Star Print ordered on the bill.
+- 2022-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-11-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-199.
+- 2022-11-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-199.
+- 2022-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
