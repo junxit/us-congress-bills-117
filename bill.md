@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4494
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,7 +25,3 @@ In this Act:
 - **(a)** *In general* To further develop the Center in accordance with section 305306 of title 54, United States Code, the Secretary may acquire not more than 20 acres of land or interests in land in Frederick County, Maryland, for the Center for the purpose of supporting the physical space, program initiatives, and workforce development capacity of the Center.
 - **(b)** *Method of acquisition* Land or an interest in land for the Center may only be acquired under subsection (a) by donation, transfer, exchange, or purchase from a willing seller using donated or appropriated funds.
 - **(c)** *Administration of acquired land* On acquisition of land or an interest in land for the Center under subsection (a), the acquired land or interest in land shall be administered by the Secretary for the purpose described in subsection (a).
-
-## § 4. Authorization of appropriations
-
-There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this Act.
