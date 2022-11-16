@@ -1,7 +1,7 @@
 ---
 measure: H.R. 404
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,7 +37,6 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1826` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1826` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1826` | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1826` | add-at-end | by adding at the end the following— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1826` | redesignate | by redesignating subsection (h) as subsection (i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1826` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1826` | add-at-end | Section 206 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1826) is amended by adding at the end the following— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1857` | insert | Section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)) is amended by inserting before the semicolon the following: “, unless such large-scale driftnet fishing— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
