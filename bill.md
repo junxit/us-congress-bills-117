@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4458
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,35 +11,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Keeping Ecostystems Living and Productive Act” or the “KELP Act”.
+This Act may be cited as the “Keeping Ecosystems Living and Productive Act” or the “KELP Act”.
 
 ## § 2. Grants for conserving, recovering, and maintaining kelp forest ecosystems
 
-- **(a)** *Establishment* The Administrator of the National Oceanic and Atmospheric Administration shall establish a grant program (in this section referred to as the “Program”) under which the Administrator shall award grants to eligible entities described in subsection (b) to carry out projects relating to the conservation, restoration, or management of kelp forest ecosystems.
+- **(a)** *Establishment* The Administrator shall establish a grant program under which the Administrator shall award grants to eligible entities described in subsection (b) to carry out projects relating to the conservation, restoration, or management of kelp forest ecosystems.
 - **(b)** *Eligible entity* To be eligible for a grant under this section, an entity shall—
-  - **(1)** be a member of the fishing industry, an academic community, a relevant nonprofit organization, a federally recognized Indian Tribe, or a relevant State agency;
+  - **(1)** be a member of the fishing industry, an institution of higher education, a nonprofit organization, an Indian Tribe, or a State agency;
   - **(2)** propose or be conducting a project relating to the conservation, restoration, or management of kelp forest ecosystems developed through consultation with any of the other entities described in paragraph (1); and
-  - **(3)** submit to the Administrator an application describing such project at such time, in such manner, and containing such information as the Administrator may require, including information about what criteria will be used to monitor and evaluate the effectiveness of the project.
+  - **(3)** submit to the Administrator an application describing such project at such time, in such manner, and containing such information as the Administrator may require, including information about what criteria will be used to monitor and evaluate the effectiveness of the project and the qualifications of the applicant to conduct, monitor, and evaluate the project.
 - **(c)** *Eligible projects* The Administrator shall award grants to eligible entities for projects that—
   - **(1)** address greatest relative regional declines in kelp forest ecosystems;
-  - **(2)** focus on—
+  - **(2)** focus on elements such as—
     - **(A)** long term ecosystem resilience;
     - **(B)** long term socioeconomic resilience;
     - **(C)** kelp forest seeding and connectivity;
-    - **(D)** urchin removal and predator control efforts;
+    - **(D)** re-establishing trophic structure to support resilience through actions such as targeted urchin removal and predator control efforts;
     - **(E)** monitoring and assessment of kelp forest ecosystems; or
     - **(F)** other efforts to restore kelp forest ecosystems and prevent large scale losses of kelp forests; or
   - **(3)** are identified by Federal or State restoration and management plans as focal areas for recovery of kelp forests and associated species.
 - **(d)** *Matching requirement*
-  - **(1)** *In general* Except as provided in paragraph (2), the total amount of Federal funding received under the Program by an eligible entity may not exceed 85 percent of the total cost of the project for which a grant is awarded. For the purposes of this subparagraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
+  - **(1)** *In general* Except as provided in paragraph (2), the amount of Federal funding received as a grant under this section by an eligible entity may not exceed 85 percent of the total cost of the project for which a grant is awarded. For the purposes of this subparagraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
   - **(2)** *Waiver* The Administrator may waive all or part of the requirement in paragraph (1) if the Administrator determines that no reasonable means are available through which an eligible entity applying for a grant under this section can meet such requirement and the probable benefit of such project outweighs the public interest in such requirement.
 - **(e)** *Definitions* In this section—
-  - **(1)** the term academic community means faculty, researchers, professors, and representatives of State-accredited colleges and universities;
+  - **(1)** the term “Administrator” means the Secretary of Commerce acting through the Administrator of the National Oceanic and Atmospheric Administration.
   - **(2)** the term fishing industry means processors, commercial fishermen, and recreational fishermen;
-  - **(3)** the term kelp forest ecosystem means a naturally occurring, biotic system dominated by canopy forming benthic macroalgae and associated taxa; and
-  - **(4)** the term nonprofit organization means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Administrator $50,000,000 for each of the fiscal years 2022 through 2026 to carry out this section.
+  - **(3)** the term “Indian Tribe” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304);
+  - **(4)** the term “institution of higher education” has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a));
+  - **(5)** the term kelp forest ecosystem means a naturally occurring, biotic system dominated by canopy-forming, stipitate, or prostrate benthic macroalgae and associated taxa; and
+  - **(6)** the term nonprofit organization means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.
 
 ## § 3. Sense of Congress
 
-It is the sense of Congress that the purposes of this Act and the grants authorized by section 2 are to support wild kelp forest ecosystems and restoration of wild kelp to enable long term recovery of naturally functioning kelp forest ecosystems that do not involve commercial or mechanized harvesting.
+It is the sense of Congress that the purposes of this Act and the grants authorized by section 2 are to support native wild kelp forest ecosystems and restoration of native wild kelp to enable long term recovery of naturally functioning kelp forest ecosystems that do not involve commercial or mechanized harvesting.
