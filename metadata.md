@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3540
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3540
@@ -44,3 +44,11 @@ Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2021
 - 2021-05-25 — Introduced in House
 - 2021-05-25 — Introduced in House
 - 2021-05-25 — Referred to the House Committee on Natural Resources.
+- 2021-07-09 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2022-01-20 — Subcommittee Hearings Held.
+- 2022-02-16 — Committee Consideration and Mark-up Session Held.
+- 2022-02-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-02-16 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2022-11-16 — Placed on the Union Calendar, Calendar No. 414.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-573.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-573.
