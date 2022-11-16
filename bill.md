@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3540
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -26,18 +26,18 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   - **(B)** by amending paragraph (2) to read as follows:
     > - **(2)** The Office shall be headed by a Director, who—
     >   - **(A)** shall have knowledge and experience in research or resource management efforts in the Chesapeake Bay; and
-    >   - **(B)** shall be responsible for the administration and operation of the office and the implementation of this Act.
+    >   - **(B)** shall be responsible for the administration and operation of the office and the implementation of this section.
 
   - **(C)** by striking paragraph (3);
 - **(2)** in subsection (b)—
   - **(A)** in paragraph (2), by striking “Secretary of Commerce” and inserting “Administrator”;
   - **(B)** in paragraph (3)—
-    - **(i)** by inserting “with and represent” after “coordinate,”;
+    - **(i)** by inserting “with and represent” after “coordinate”;
     - **(ii)** by striking “, the Chesapeake Bay Regional Sea Grant Programs, and the Chesapeake Bay units of the National Estuarine Research Reserve System,” and inserting “for the Chesapeake Bay Program and that relate to the Chesapeake Bay watershed in furtherance of such Administration’s coastal resource stewardship mission,”;
     - **(iii)** in subparagraph (A)—
-      - **(I)** in clause (vi), by striking “and” at the end; and
+      - **(I)** in clauses (vi) and (vii), by striking “and” at the end; and
       - **(II)** by adding at the end the following:
-        > - **(viii)** coastal hazards and climate change;
+        > - **(viii)** coastal hazards and climate change; and
         > - **(ix)** education; and
 
     - **(iv)** in subparagraph (B)—
@@ -73,7 +73,7 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >       - **(i)** support the establishment and implementation of the Captain John Smith Chesapeake National Historic Trail;
   >       - **(ii)** delineate key waypoints along the trail and provide appropriate real-time data and information for trail users;
   >       - **(iii)** interpret data and information for use by educators and students to inspire stewardship of Chesapeake Bay; and
-  >       - **(iv)** incorporate the Chesapeake Bay Interpretive Buoy System into the Integrated Ocean Observing System regional network of observatories.
+  >       - **(iv)** incorporate the observational data from the Chesapeake Bay Interpretive Buoy System into the Integrated Ocean Observing System regional network of observatories.
   >   - **(5)** *Chesapeake Bay Watershed Education and Training Program*
   >     - **(A)** *In general* The Administrator, through the Director, may establish a Chesapeake Bay watershed education and training program. The program shall—
   >       - **(i)** continue and expand the Chesapeake Bay watershed education programs offered by the Office immediately before the enactment of the Chesapeake Bay Science, Education, and Ecosystem Enhancement Act of 2021;

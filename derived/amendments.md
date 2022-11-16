@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3540
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -63,8 +63,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1511d` | replace | in paragraph (1) by striking “(in this section” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1511d` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1511d` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1511d` | insert | by inserting “with and represent” after “coordinate,”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1511d` | strike | in clause (vi), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1511d` | insert | by inserting “with and represent” after “coordinate”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1511d` | strike | in clauses (vi) and (vii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1511d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1511d` | strike | in clause (iii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1511d` | insert | in clause (iv), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
