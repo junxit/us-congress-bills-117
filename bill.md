@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1733
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -70,9 +70,7 @@ This Act may be cited as the “Revitalizing the Economy of Coal communities by 
   >   - **(1)** the Secretary and the State or tribe shall meet and confer for a period of not more than 45 days to resolve the Secretary’s concerns, except that such period may be shortened by the Secretary if the Secretary’s concerns are resolved;
   >   - **(2)** during that period, at the State’s or Indian tribe’s request, the Secretary may consult with any appropriate Federal agency; and
   >   - **(3)** at the end of that period, if the Secretary’s concerns are not resolved the Secretary shall provide to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanation of the concerns and such project proposal shall not be eligible for funds distributed under this section.
-  > - **(f)** *Acid mine drainage treatment*
-  >   - **(1)** *In general* Subject to paragraph (2), a State or Indian tribe that receives funds under this section may use up to 30 percent of such funds as necessary to supplement the State’s or tribe’s acid mine drainage abatement and treatment fund established under section 402(g)(6)(A), for future operation and maintenance costs for the treatment of acid mine drainage associated with the individual projects funded under this section. A State or Indian tribe shall specify the total funds allotted for such costs in its application submitted under subsection (d)(2)(B).
-  >   - **(2)** *Condition* A State or Indian tribe may use funds under this subsection only if the State or tribe can demonstrate that the annual grant distributed to the State or tribe pursuant to section 401(f), including any interest from the State’s or tribe’s acid mine drainage abatement and treatment fund that is not used for the operation or maintenance of preexisting acid mine drainage treatment systems, is insufficient to fund the operation and maintenance of any acid mine drainage treatment system associated with an individual project funded under this section.
+  > - **(f)** *Acid mine drainage treatment* A State or Indian tribe that receives funds under this section may use up to 30 percent of such funds as necessary to supplement the State’s or tribe’s acid mine drainage abatement and treatment fund established under section 402(g)(6)(A), for future operation and maintenance costs for the treatment of acid mine drainage associated with the individual projects funded under this section.
   > - **(g)** *Project planning and administration*
   >   - **(1)** *States and indian tribes* A State or Indian tribe may use up to 10 percent of its annual distribution under this section for costs of administering this section consistent with existing practice under sections 401(c)(7) and 402(g)(1)(C) and the Office of Surface Mining Reclamation and Enforcement Assistance Manual.
   >   - **(2)** *Secretary* The Secretary may expend, from amounts made available to the Secretary under section 402(g)(3)(D), not more than $3,000,000 during the fiscal years for which distributions occur under subsection (b) for staffing and other administrative expenses necessary to carry out this section.
