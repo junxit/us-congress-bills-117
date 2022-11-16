@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6142
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6142
@@ -29,3 +29,11 @@ Buckeye National Scenic Trail Feasibility Study Act of 2021
 - 2021-12-03 — Introduced in House
 - 2021-12-03 — Introduced in House
 - 2021-12-03 — Referred to the House Committee on Natural Resources.
+- 2021-12-15 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-02-03 — Subcommittee Hearings Held.
+- 2022-02-16 — Committee Consideration and Mark-up Session Held.
+- 2022-02-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2022-02-16 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-11-16 — Placed on the Union Calendar, Calendar No. 419.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-578.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-578.
