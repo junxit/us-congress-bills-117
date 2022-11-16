@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5345
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,28 @@ This Act may be cited as the “Saline Lake Ecosystems in the Great Basin States
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Program* The term Program means the Saline Lake Ecosystems in the Great Basin States Assessment and Monitoring Program established under subsection (b).
-  - **(2)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
+  - **(2)** *Saline lake ecosystems* The term “saline lake ecosystems” means the ecosystems associated with the following lakes:
+    - **(A)** Abert Lake in Oregon.
+    - **(B)** Carson Lake in Nevada.
+    - **(C)** Carson Sink in Nevada.
+    - **(D)** Eagle Lake in California.
+    - **(E)** Franklin Lake in Nevada.
+    - **(F)** Goose Lake in California and Oregon.
+    - **(G)** Great Salt Lake in Utah.
+    - **(H)** Harney Lake in Oregon.
+    - **(I)** Honey Lake in California.
+    - **(J)** Malheur Lake in Oregon.
+    - **(K)** Mono Lake in California.
+    - **(L)** Owens Lake in California.
+    - **(M)** Pyramid Lake in Nevada.
+    - **(N)** Ruby Lake in Nevada.
+    - **(O)** Sevier Lake in Utah.
+    - **(P)** Silver Lake in Oregon.
+    - **(Q)** Summer Lake in Oregon.
+    - **(R)** Walker Lake in Nevada.
+    - **(S)** Warner Lake in Oregon.
+    - **(T)** Winnemucca Lake in Nevada.
+  - **(3)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
 - **(b)** *Establishment* The Secretary shall establish a Saline Lake Ecosystems in the Great Basin States Assessment and Monitoring Program to assess and monitor the hydrology of saline lake ecosystems in the Great Basin and the migratory birds and other wildlife that depend on those ecosystems to inform and support coordinated management and conservation actions to benefit those ecosystems, migratory birds, and other wildlife.
 - **(c)** *Work and implementation plan*
   - **(1)** *In general* Under the Program, the Secretary, in coordination with the Director of the United States Fish and Wildlife Service and the entities described in paragraph (2), shall establish a multiyear work and implementation plan to assess, monitor, and conserve saline lake ecosystems in the Great Basin and the migratory birds and other wildlife that depend on those ecosystems.
