@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2551
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2551
@@ -31,3 +31,11 @@ Bonneville Shoreline Trail Advancement Act
 - 2021-04-15 — Introduced in House
 - 2021-04-15 — Introduced in House
 - 2021-04-15 — Referred to the House Committee on Natural Resources.
+- 2021-06-08 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-11-09 — Subcommittee Hearings Held.
+- 2022-01-19 — Committee Consideration and Mark-up Session Held.
+- 2022-01-19 — Ordered to be Reported by Unanimous Consent.
+- 2022-01-19 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-11-16 — Placed on the Union Calendar, Calendar No. 411.
+- 2022-11-16 — Reported by the Committee on Natural Resources. H. Rept. 117-570.
+- 2022-11-16 — Reported by the Committee on Natural Resources. H. Rept. 117-570.
