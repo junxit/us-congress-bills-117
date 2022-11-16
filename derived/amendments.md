@@ -1,7 +1,7 @@
 ---
 measure: S. 2923
 congress: 117
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 4 executed, 8 stated and not applied.
+13 amendatory instructions. 4 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 16 U.S.C. § 460ss
 
-> in subparagraph (D), by striking “the calendar year 2003” and inserting “the most recent”.
+> in subparagraph (D), by striking “the calendar” and all that follows through “recommendations” and inserting “the National Research Council’s most recent recommendations”.
 
 | | |
 |---|---|
-| Removed | `the calendar year 2003` |
-| Inserted | `the most recent` |
+| Removed | `the calendar” and all that follows through “recommendations` |
+| Inserted | `the National Research Council’s most recent recommendations` |
 
 ### 15 U.S.C. § 632
 
@@ -70,7 +70,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1861a` | amend | Section 312(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1864` | repeal | Section 315 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1864) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1864` | strike | by striking section 315 (16 U.S.C. 1864); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1801` | strike | by striking the item relating to section 315 in the table of contents. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | repeal | Section 308 of the Interjurisdictional Fisheries Act of 1986 (16. U.S.C. 4107) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1801` | strike | in section 202(h), by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1801` | strike | by striking subsections (e) and (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

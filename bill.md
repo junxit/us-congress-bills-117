@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2923
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -104,20 +104,15 @@ Section 312(a) of the Magnuson-Stevens Fishery Conservation and Management Act (
 >     - **(C)** *Fishery resource disaster determination* The Secretary shall make the determination of a fishery resource disaster based on the criteria for determinations listed in paragraph (5).
 >     - **(D)** *Notification* Not later than 14 days after the conclusion of the review under this paragraph, the Secretary shall notify the requester and the Governor of the affected State or Tribal representative of the determination of the Secretary.
 >   - **(5)** *Criteria for determinations*
->     - **(A)** *In general* The Secretary shall make a determination about whether a fishery resource disaster has occurred, based on the revenue loss thresholds under subparagraph (B), and, if a fishery resource disaster has occurred, whether the fishery resource disaster was due to—
+>     - **(A)** *In general* The Secretary shall make a determination about whether a fishery resource disaster has occurred, and, if a fishery resource disaster has occurred, whether the fishery resource disaster was due to—
 >       - **(i)** a natural cause;
 >       - **(ii)** an anthropogenic cause;
 >       - **(iii)** a combination of a natural cause and an anthropogenic cause; or
 >       - **(iv)** an undetermined cause.
->     - **(B)** *Revenue loss thresholds*
->       - **(i)** *In general* Based on the information provided or analyzed under paragraph (4)(B), the Secretary shall apply the following 12-month revenue loss thresholds in determining whether a fishery resource disaster has occurred:
->         - **(I)** Losses greater than 80 percent may result in a positive determination that a fishery resource disaster has occurred, based on the information provided or analyzed under paragraph (4)(B).
->         - **(II)** Losses between 35 percent and 80 percent shall be evaluated to determine whether economic impacts are severe enough to declare that a fishery resource disaster has occurred.
->         - **(III)** Losses less than 35 percent shall not be eligible for a determination that a fishery resource disaster has occurred.
->       - **(ii)** *Charter fishing* In making a determination of whether a fishery resource disaster has occurred, the Secretary shall consider the economic impacts to the charter fishing industry to ensure financial coverage for charter fishing businesses.
->       - **(iii)** *Subsistence loss* In considering subsistence loss, the Secretary shall evaluate the severity of loss to the fishing community instead of applying the revenue loss thresholds described in clause (i).
->     - **(C)** *Ineligible fisheries* A fishery subject to overfishing in any of the 3 years preceding the date of a determination under this subsection is not eligible for a determination of whether a fishery resource disaster has occurred unless the Secretary determines that overfishing was not a contributing factor to the fishery resource disaster.
->     - **(D)** *Exceptional circumstances* In an exceptional circumstance where substantial economic impacts to the affected fishery and fishing community have been subject to a disaster declaration under another statutory authority, such as in the case of a natural disaster or from the direct consequences of a Federal action taken to prevent, or in response to, a natural disaster for purposes of protecting life and safety, the Secretary may determine a fishery resource disaster has occurred without a request.
+>     - **(B)** *Charter fishing* In making a determination of whether a fishery resource disaster has occurred, the Secretary shall consider the economic impacts to the charter fishing industry to ensure financial coverage for charter fishing businesses.
+>     - **(C)** *Subsistence loss* In considering subsistence loss, the Secretary shall evaluate the severity of loss to the fishing community.
+>     - **(D)** *Ineligible fisheries* A fishery subject to overfishing in any of the 3 years preceding the date of a determination under this subsection is not eligible for a determination of whether a fishery resource disaster has occurred unless the Secretary determines that overfishing was not a contributing factor to the fishery resource disaster.
+>     - **(E)** *Exceptional circumstances* In an exceptional circumstance where substantial economic impacts to the affected fishery and fishing community have been subject to a disaster declaration under another statutory authority, such as in the case of a natural disaster or from the direct consequences of a Federal action taken to prevent, or in response to, a natural disaster for purposes of protecting life and safety, the Secretary may determine a fishery resource disaster has occurred without a request.
 >   - **(6)** *Disbursal of appropriated funds*
 >     - **(A)** *Authorization* The Secretary shall allocate funds available under paragraph (9) for fishery resource disasters.
 >     - **(B)** *Allocation of appropriated fishery resource disaster assistance*
@@ -180,11 +175,13 @@ Section 312(a) of the Magnuson-Stevens Fishery Conservation and Management Act (
 
 ## § 3. Magnuson-Stevens Fishery Conservation and Management Act
 
-- **(a)** *Repeal* Section 315 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1864) is repealed.
+- **(a)** *Repeal* The Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) is amended—
+  - **(1)** by striking section 315 (16 U.S.C. 1864); and
+  - **(2)** by striking the item relating to section 315 in the table of contents.
 - **(b)** *Report* Section 113(b)(2) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (16 U.S.C. 460ss note) is amended—
   - **(1)** in the paragraph heading, by striking “Annual report” and inserting “Report”;
   - **(2)** in the matter preceding subparagraph (A), by striking “Not later than 2 years after the date of enactment of this Act, and annually thereafter” and inserting “Not later than 2 years after the date of enactment of the Fishery Resource Disasters Improvement Act, and biennially thereafter”; and
-  - **(3)** in subparagraph (D), by striking “the calendar year 2003” and inserting “the most recent”.
+  - **(3)** in subparagraph (D), by striking “the calendar” and all that follows through “recommendations” and inserting “the National Research Council’s most recent recommendations”.
 
 ## § 4. Interjurisdictional Fisheries Act of 1986
 
