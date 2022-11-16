@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6199
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6199
@@ -25,3 +25,11 @@ Ste. Genevieve National Historical Park Boundary Revision Act
 - 2021-12-08 — Introduced in House
 - 2021-12-08 — Introduced in House
 - 2021-12-08 — Referred to the House Committee on Natural Resources.
+- 2021-12-20 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-02-03 — Subcommittee Hearings Held.
+- 2022-02-16 — Committee Consideration and Mark-up Session Held.
+- 2022-02-16 — Ordered to be Reported by Unanimous Consent.
+- 2022-02-16 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-11-16 — Placed on the Union Calendar, Calendar No. 420.
+- 2022-11-16 — Reported by the Committee on Natural Resources. H. Rept. 117-579.
+- 2022-11-16 — Reported by the Committee on Natural Resources. H. Rept. 117-579.
