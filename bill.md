@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2444
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,13 +23,13 @@ In this Act:
 ## § 3. Establishment of affiliated area
 
 - **(a)** *In general* Fort San Gerónimo del Boquerón in Puerto Rico is established as an affiliated area of the National Park System.
-- **(b)** *Description of affiliated area* The affiliated area shall consist of the fort and grounds listed on the National Register of Historic Places and located near Old San Juan, Puerto Rico.
+- **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted on the map titled “Fort San Gerónimo Proposed Affiliated Area”, numbered 910/176698, and dated July 2021.
 - **(c)** *Administration* The affiliated area shall be managed in accordance with—
   - **(1)** this Act; and
   - **(2)** any law generally applicable to units of the National Park System.
 - **(d)** *Management entity* The Institute of Puerto Rican Culture shall be the management entity for the affiliated area.
 - **(e)** *Cooperative agreements* The Secretary may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area.
-- **(f)** *Limited role of the secretary* Nothing in this section authorizes the Secretary to acquire property at the affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
+- **(f)** *Limited role of the secretary* Nothing in this section authorizes the Secretary to acquire property at the affiliated area or to assume managerial or financial responsibility for the operation, maintenance, or management of the affiliated area.
 - **(g)** *Management plan*
   - **(1)** *In general* The Secretary, in consultation with the management entity, shall develop a management plan for the affiliated area.
   - **(2)** *Transmittal* Not later than 3 years after the date on which funds are first made available to carry out this section, the Secretary shall submit the management plan developed under paragraph (1) to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
