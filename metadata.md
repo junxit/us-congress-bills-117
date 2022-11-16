@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 827
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 827
@@ -32,3 +32,7 @@ A resolution supporting the goals and ideals of National Domestic Violence Aware
 
 - 2022-10-11 — Introduced in Senate
 - 2022-10-11 — Referred to the Committee on the Judiciary. (text: CR S6473-6474)
+- 2022-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S6747; text: 10/11/2022 CR S6473-6474)
+- 2022-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S6747; text: 10/11/2022 CR S6473-6474)
+- 2022-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
