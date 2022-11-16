@@ -1,7 +1,7 @@
 ---
 measure: S. 2923
 congress: 117
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 2923
@@ -36,3 +36,9 @@ Fishery Resource Disasters Improvement Act
 - 2021-10-01 — Received in the House.
 - 2021-11-16 — Referred to the House Committee on Natural Resources.
 - 2021-11-16 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2021-11-17 — Committee Consideration and Mark-up Session Held.
+- 2021-11-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2021-11-17 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2022-11-16 — Placed on the Union Calendar, Calendar No. 421.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-580.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-580.
