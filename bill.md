@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2026
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,14 +17,14 @@ This Act may be cited as the “Global Amphibian Protection Act of 2021” .
 
 In this Act:
 
-- **(1)** *Convention* The term Convention means the Convention on International Trade in Endangered Species of Wild Fauna and Flora (27 U.S.C. 1087; 8249).
+- **(1)** *Convention* The term Convention means the Convention on International Trade in Endangered Species of Wild Fauna and Flora (27 UST 1087; TIAS 8249).
 - **(2)** *Conservation* The term conservation means the protection and restoration of species and the habitat of such species.
-- **(3)** *Fund* The term Fund means the Highly Endangered Amphibians Conservation Fund established by section 5.
+- **(3)** *Fund* The term Fund means the Highly Endangered Amphibians Conservation Fund established by section 4.
 - **(4)** *Highly endangered amphibian species*
   - **(A)** *In general* The term highly endangered amphibian species means—
-    - **(i)** any amphibian species categorized on the International Union Conservation of Nature Red List of Threatened Species as either Endangered or Critically Endangered; and
-    - **(ii)** any other amphibian species categorized on the International Union Conservation of Nature Red List of Threatened Species as Data Deficient or under a threat category lower than Endangered if the Secretary determines that—
-      - **(I)** the most recent International Union Conservation of Nature Red List assessment indicates that the population is decreasing; or
+    - **(i)** any amphibian species categorized on the International Union for Conservation of Nature Red List of Threatened Species as Endangered, Critically Endangered, or Extinct in the Wild; and
+    - **(ii)** any other amphibian species categorized on the International Union for Conservation of Nature Red List of Threatened Species as Data Deficient or under a threat category lower than Endangered if the Secretary determines that—
+      - **(I)** the most recent International Union for Conservation of Nature Red List assessment indicates that the population is decreasing; or
       - **(II)** such species is facing new or emerging threats.
   - **(B)** *Inclusions* The term highly endangered amphibian species includes—
     - **(i)** live specimens, at all lifecycle stages, of species described in subparagraph (A);
@@ -37,7 +37,7 @@ In this Act:
 - **(a)** *In general* In consultation with other Federal officials, the Secretary shall use amounts in the Fund to carry out a competitive grant program to provide financial assistance for the conservation of highly endangered amphibian species.
 - **(b)** *Project proposals*
   - **(1)** *Eligible applicants* A proposal for a grant under subsection (a) may be submitted to the Secretary by—
-    - **(A)** any wildlife management authority of a foreign country that has within its boundaries natural habitat of the highly endangered amphibians if the activities of the authority directly or indirectly benefit that species’ conservation; or
+    - **(A)** any wildlife management authority of a foreign country that has within its boundaries natural habitat of a highly endangered amphibian species if the activities of the authority directly or indirectly benefit that species’ conservation; or
     - **(B)** any other person or group with the demonstrated expertise and capacity required for the conservation of a highly endangered amphibian species.
   - **(2)** *Required elements* A project proposal shall include—
     - **(A)** evidence of support for the project by appropriate governmental entities of the country in which the project will be conducted, if the Secretary determines that such support is required for the success of the project;
@@ -83,11 +83,11 @@ In this Act:
 ## § 4. Highly Endangered Amphibian Species Conservation fund
 
 - **(a)** *Establishment* There is established in the Multinational Species Conservation Fund a separate account to be known as the “Highly Endangered Amphibian Species Conservation Fund”, consisting of—
-  - **(1)** amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e);
-  - **(2)** amounts appropriated to the Fund under section 6; and
+  - **(1)** amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsections (d) and (e);
+  - **(2)** amounts appropriated to the Fund under section 5; and
   - **(3)** any interest earned on investment of amounts in the Fund under subsection (c).
 - **(b)** *Expenditures from fund*
-  - **(1)** *In general* Subject to paragraph (2), at the request of the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to carry out section 4.
+  - **(1)** *In general* Subject to paragraph (2), at the request of the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to carry out section 3.
   - **(2)** *Administrative expenses* Of the amounts in the account available for each fiscal year, the Secretary may expend not more than 3 percent, or up to $150,000, whichever is greater, to pay the administrative expenses necessary to carry out this Act.
 - **(c)** *Investment of amounts*
   - **(1)** *In general* The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary of the Treasury, required to meet current withdrawals. Investments may be made only in interest-bearing obligations of the United States.
@@ -99,7 +99,7 @@ In this Act:
 - **(d)** *Transfers of amounts*
   - **(1)** *In general* The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
   - **(2)** *Adjustments* Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
-- **(e)** *Acceptance and use of donations* The Secretary may accept and use donations to provide assistance under section 4. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit in the Fund. The Secretary may reject a gift under this section when the rejection is in the interest of the Government.
+- **(e)** *Acceptance and use of donations* The Secretary may accept and use donations to provide assistance under section 3. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit in the Fund. The Secretary may reject a gift under this section when the rejection is in the interest of the Government.
 
 ## § 5. Authorization of appropriations
 
