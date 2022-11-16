@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1415
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1415
@@ -16,7 +16,7 @@ Tribal Coastal Resiliency Act
 
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
@@ -26,6 +26,8 @@ Tribal Coastal Resiliency Act
 - Rep. Schrier, Kim [D-WA-8] (S001216)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
 
 ## Committees (1)
 
@@ -36,3 +38,13 @@ Tribal Coastal Resiliency Act
 - 2021-02-26 — Introduced in House
 - 2021-02-26 — Introduced in House
 - 2021-02-26 — Referred to the House Committee on Natural Resources.
+- 2021-04-01 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2021-04-01 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2021-06-22 — Committee Hearings Held.
+- 2022-01-19 — Committee Consideration and Mark-up Session Held.
+- 2022-01-19 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 16.
+- 2022-01-19 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2022-01-19 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2022-11-16 — Placed on the Union Calendar, Calendar No. 405.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-564.
+- 2022-11-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-564.
