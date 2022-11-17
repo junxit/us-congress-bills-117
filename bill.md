@@ -12,7 +12,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## § 1. Compliance with BLM permitting
 
 - **(a)** *In general* Notwithstanding any other provision of law but subject to any State requirements, a Bureau of Land Management drilling permit shall not be required under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.) or section 3164.1 of title 43, Code of Federal Regulations (or a successor regulation), for an action occurring within an oil and gas drilling or spacing unit if—
+- **(a)** *In general* Notwithstanding the Mineral Leasing Act (30 U.S.C. 181 et seq.), the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.), or subpart 3162 of title 43, Code of Federal Regulations (or successor regulations), but subject to any State or Tribal requirements and subsection (c), the Secretary of the Interior shall not require a permit to drill for an oil and gas lease under the Mineral Leasing Act (30 U.S.C. 181 et seq.) for an action occurring within an oil and gas drilling or spacing unit if—
   - **(1)** less than 50 percent of the minerals within the oil and gas drilling or spacing unit are minerals owned by the Federal Government; and
   - **(2)** the Federal Government does not own or lease the surface estate within the area directly impacted by the action.
 - **(b)** *Notification* Each State with an approved permit to drill or drilling plan that would impact or extract oil and gas owned by the Federal Government shall notify the Secretary of the Interior of the approved permit to drill or drilling plan not later than 45 days after the date on which the permit or plan is approved.
 - **(c)** *Royalties* Nothing in this section affects the amount of royalties due to the Federal Government from the production of the Federal minerals within the oil and gas drilling or spacing unit.
+- **(b)** *Notification* For each State permit to drill or drilling plan that would impact or extract oil and gas owned by the Federal Government—
+  - **(1)** each lessee, or designee of a lessee, shall—
+    - **(A)** notify the Secretary of the Interior of the submission of a State application for a permit to drill or drilling plan on submission of the application; and
+    - **(B)** provide a copy of the application described in subparagraph (A) to the Secretary of the Interior not later than 5 days after the date on which the permit or plan is submitted; and
+  - **(2)** each lessee, designee of a lessee, or applicable State shall notify the Secretary of the Interior of the approved State permit to drill or drilling plan not later than 45 days after the date on which the permit or plan is approved.
+- **(c)** *Nonapplicability to Indian lands* Subsection (a) shall not apply to Indian lands (as defined in section 3 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1702)).
+- **(d)** *Effect* Nothing in this section affects—
+  - **(1)** other authorities of the Secretary of the Interior under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.); or
+  - **(2)** the amount of royalties due to the Federal Government from the production of the Federal minerals within the oil and gas drilling or spacing unit.
