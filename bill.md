@@ -33,4 +33,4 @@ This Act may be cited as the “Manufacturing.gov Act”.
   - **(5)** use machine learning to—
     - **(A)** identify frequently asked questions; and
     - **(B)** disseminate to the public answers to the questions identified under subparagraph (A).
-- **(d)** *No additional funds* No additional funds are authorized to be appropriated for the purpose of carrying out this section. The Secretary shall carry out this section using amounts otherwise available to the Secretary for such purposes.
+- **(d)** *No additional funds* No additional funds are authorized to be appropriated for the purpose of carrying out this section.
