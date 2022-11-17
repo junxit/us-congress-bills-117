@@ -1,0 +1,18 @@
+---
+legis-num: S. 5
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5
+
+> To amend title XVIII of the Social Security Act to ensure appropriate supervision requirements for outpatient physical therapy and outpatient occupational therapy.
+
+## § 1. Ensuring appropriate supervision requirements for outpatient physical therapy and outpatient occupational therapy
+
+- **(a)** *In general*
+  - **(1)** *Payment* Section 1834(v)(1) of the Social Security Act (42 U.S.C. 1395m(v)(1)) is amended, in the second sentence (as amended by subsection (a)), by inserting “, but in no case shall the Secretary impose a supervision requirement on such services that is different than any such requirement under applicable State law” before the period at the end.
+  - **(2)** *Definition* Section 1861(p) of the Social Security Act, is amended, in the first sentence of the flush matter following subparagraph (4)(B), by inserting “, but in no case may those conditions impose a supervision requirement that is different than any such requirement under applicable State law” after “as the Secretary may find necessary”.
+  - **(3)** *Effective date* The amendments made this subsection shall take effect on July 1, 2023.
+- **(b)** *Implementation* Notwithstanding any other provision of law, the Secretary may implement the provisions of, and the amendments made by, this section by program instruction or otherwise.
