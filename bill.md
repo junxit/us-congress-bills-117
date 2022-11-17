@@ -31,8 +31,8 @@ This Act may be cited as the “Lymphedema Treatment Act”.
 
   - **(2)** *Payment*
     - **(A)** *In general* Section 1833(a)(1) of the Social Security Act (42 U.S.C. 1395l(a)(1)) is amended—
-      - **(i)** by striking “and” before “(DD)”; and
-      - **(ii)** by inserting before the semicolon at the end the following: “and (EE) with respect to lymphedema compression treatment items (as defined in section 1861(lll)), the amount paid shall be equal to 80 percent of the lesser of the actual charge or the amount determined under the payment basis determined under section 1834(z)”.
+      - **(i)** by striking “, and” before “(EE)”; and
+      - **(ii)** by inserting before the semicolon at the end the following: “, and (FF) with respect to lymphedema compression treatment items (as defined in section 1861(lll)), the amount paid shall be equal to 80 percent of the lesser of the actual charge or the amount determined under the payment basis determined under section 1834(z)”.
     - **(B)** *Payment basis and limitations* Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by adding at the end the following new subsection:
       > - **(z)** *Payment for lymphedema compression treatment items*
       >   - **(1)** *In general* The Secretary shall determine an appropriate payment basis for lymphedema compression treatment items (as defined in section 1861(lll)). In making such a determination, the Secretary may take into account payment rates for such items under State plans (or waivers of such plans) under title XIX, the Veterans Health Administration, and group health plans and health insurance coverage (as such terms are defined in section 2791 of the Public Health Service Act), and such other information as the Secretary determines appropriate.
@@ -52,3 +52,11 @@ This Act may be cited as the “Lymphedema Treatment Act”.
     - **(A)** by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and
     - **(B)** by inserting after subparagraph (D) the following new subparagraph:
       > - **(E)** lymphedema compression treatment items (as defined in section 1861(lll));
+
+## § 3. Medicare Improvement Fund
+
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$7,308,000,000” and inserting “$6,738,000,000”.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
