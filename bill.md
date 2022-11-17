@@ -40,6 +40,6 @@ This Act may be cited as the “VAWA Technical Amendment Act of 2022”.
     - **(A)** in clause (i), by inserting “, organizations, or communities” after “member service providers”; and
     - **(B)** in clause (ii), by inserting “or Native Hawaiian communities” after “tribal communities”.
 
-## § 3.
+## § 3. Effective Date
 
 This Act shall become effective one day after enactment.
