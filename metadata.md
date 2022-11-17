@@ -1,7 +1,7 @@
 ---
 measure: S. 1330
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1330
@@ -28,3 +28,7 @@ Facilitating Federal Employee Reskilling Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-05-12 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-204.
+- 2022-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-204.
+- 2022-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
