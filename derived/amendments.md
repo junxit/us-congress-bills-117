@@ -1,7 +1,7 @@
 ---
 measure: S. 1725
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
