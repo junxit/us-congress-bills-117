@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7299
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7299
@@ -47,3 +47,14 @@ SVAC Act of 2022
 - 2022-11-17 — Pursuant to section 2 of H. Res. 1464, and the motion offered by Mr. Carter (LA), the following bills passed under suspension of the rules: H.R. 4275, as amended; H.R. 5502, as amended; H.R. 5721, as amended; H.R. 6290, as amended; H.R. 7277, as amended; H.R. 7299, as amended; and H.R. 8416, as amended. (consideration: CR H8566-8574; text: CR H8569-8570)
 - 2022-11-17 — Pursuant to the provisions of H. Res. 1464, proceedings on H.R. 7299 are considered vacated.
 - 2022-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7302-7303)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-21 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-302.
+- 2022-12-27 — Became Public Law No: 117-302.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
