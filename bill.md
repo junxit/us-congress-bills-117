@@ -1,0 +1,28 @@
+---
+legis-num: S. RES. 837
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 837
+
+> Recognizing Israeli-American culture and heritage, the contributions of the Israeli-American community to the United States, and condemning antisemitic violence and discrimination.
+
+## Preamble
+
+- Whereas the United States is a nation of immigrants, and Israeli Americans are cherished along with United States citizens of all backgrounds;
+- Whereas Israeli Americans are a vibrant immigrant community who contribute heavily to the welfare and diversity of the United States;
+- Whereas the contributions of Israeli Americans in the fields of health sciences, pharmaceutics, disaster relief, astrophysics, mathematics, chemistry, aerospace engineering, biotech, agriculture, and internet technologies have been invaluable to the United States;
+- Whereas Israeli Americans and Jewish Americans contribute invaluable skills that promote innovation and productivity bearing a quality of life impact for all the United States;
+- Whereas Israeli Americans contribute to the advancement of civil rights, equal protections, and justice for all United States citizens, particularly the most vulnerable;
+- Whereas Israeli Americans have helped to form a strong bond between the people of the United States and the people of Israel, reinforcing the shared values and interests between the 2 countries;
+- Whereas Israeli Americans, including young people on college campuses and in grade schools in the United States, are subjected to incidents of national origin-based discrimination that impact the ability of such individuals to openly connect with their culture and celebrate their heritage free from bigotry and bias; and
+- Whereas anti-Israel incitement has led to assaults and bullying targeting Jewish individuals and Israeli Americans: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** affirms that the Israeli-American community has contributed immensely to the society and culture of the United States; and
+- **(2)** condemns all forms of antisemitism, discrimination, and violence that—
+  - **(A)** aim to marginalize or disenfranchise members of the Israeli-American community, the Jewish community broadly, and individuals of Israeli or Jewish origin; or
+  - **(B)** infringe upon the ability of Israeli Americans and other individuals to celebrate Israeli-American heritage and a deep connection to Israel.
