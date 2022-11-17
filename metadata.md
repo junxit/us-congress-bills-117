@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 801
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 801
@@ -28,3 +28,7 @@ A resolution recognizing the 50th anniversary of the establishment of Hanalei Na
 
 - 2022-09-28 — Introduced in Senate
 - 2022-09-28 — Referred to the Committee on Environment and Public Works.
+- 2022-11-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 09/28/2022 CR S5229)
+- 2022-11-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 09/28/2022 CR S5229)
+- 2022-11-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6769)
+- 2022-11-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6769)
