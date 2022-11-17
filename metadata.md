@@ -1,7 +1,7 @@
 ---
 measure: S. 3092
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3092
@@ -57,3 +57,13 @@ FIRE Act
 - 2022-11-17 — Mr. Carter (LA) moved to suspend the rules and pass the bill, as amended.
 - 2022-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8557-8558)
 - 2022-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-12-07 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 3092 by Unanimous Consent.
+- 2022-12-07 — Senate agreed to the House amendment to S. 3092 by Unanimous Consent. (consideration: CR S7038)
+- 2022-12-08 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-251.
+- 2022-12-20 — Became Public Law No: 117-251.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Star Print ordered on the reported bill.

@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3092
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3092
 
-That the bill from the Senate (S. 3092) entitled “An Act to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to improve the provision of certain disaster assistance, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to improve the provision of certain disaster assistance, and for other purposes.
 
 ## § 1. Short title
 
