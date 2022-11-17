@@ -12,7 +12,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas the American Farm Bureau was created in 1919 to disseminate college research results to farmers;
-- Whereas, since 1919, the American Farm Bureau has since grown into one of the strongest lobbying organizations in the United States, with 6,000,000 members and affiliated services and member benefits that include highly respected insurance companies;
+- Whereas, since 1919, the American Farm Bureau has since grown into one of the strongest advocacy organizations in the United States, with 6,000,000 members and affiliated services and member benefits that include highly respected insurance companies;
 - Whereas the Mississippi Farm Bureau Federation was officially chartered on October 30, 1922, in Jackson, Mississippi, as a proud state affiliate of the American Farm Bureau;
 - Whereas C.L. Neill of Jones County was elected as the first president of the Mississippi Farm Bureau Federation;
 - Whereas the Mississippi Farm Bureau Federation is a strong voice of agriculture for farmers, ranchers, and rural Mississippians;
