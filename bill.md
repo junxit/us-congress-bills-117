@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2996
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -37,6 +37,9 @@ In this Act:
   - **(1)** 50 percent of qualified revenues in the general fund of the Treasury;
   - **(2)** 42.5 percent of qualified revenues in a special account in the Treasury, to be distributed by the Secretary to the State; and
   - **(3)** 7.5 percent of qualified revenues in a special account in the Treasury, to be distributed by the Secretary to coastal political subdivisions.
+  - **(2)** 30 percent of qualified revenues in a special account in the Treasury, to be distributed by the Secretary to the State;
+  - **(3)** 7.5 percent of qualified revenues in a special account in the Treasury, to be distributed by the Secretary to coastal political subdivisions; and
+  - **(4)** 12.5 percent of qualified revenues in the National Oceans and Coastal Security Fund established under section 904(a) of the National Oceans and Coastal Security Act (16 U.S.C. 7503(a)).
 - **(b)** *Allocation among coastal political subdivisions* Of the amount paid by the Secretary to coastal political subdivisions under subsection (a)(3)—
   - **(1)** 90 percent shall be allocated among costal political subdivisions described in section 2(1)(A) in amounts (based on a formula established by the Secretary by regulation) that are inversely proportional to the respective distances between the point in each coastal political subdivision that is closest to the geographic center of the applicable leased tract and not more than 200 miles from the geographic center of the leased tract; and
   - **(2)** 10 percent shall be divided equally among each coastal political subdivision described in section 2(1)(B).
@@ -56,3 +59,19 @@ In this Act:
   - **(1)** be made available, without further appropriation, in accordance with this section;
   - **(2)** remain available until expended; and
   - **(3)** be in addition to any amounts appropriated under any other provision of law.
+- **(f)** *Reporting requirement for fiscal year 2023 and thereafter*
+  - **(1)** *In general* Beginning with fiscal year 2023, not later than 180 days after the end of each fiscal year in which the State receives amounts under subsection (a)(2), the State shall submit to the Secretary a report that describes the use of the amounts by the State during the preceding fiscal year covered by the report.
+  - **(2)** *Public availability* On receipt of a report required under paragraph (1), the Secretary shall make the report available to the public on the website of the Department of the Interior.
+  - **(3)** *Limitation* If the State fails to submit the report required under paragraph (1) by the deadline specified in that paragraph, any amounts that would otherwise be provided to the State under subsection (a)(2) for the succeeding fiscal year shall be withheld for the succeeding fiscal year until the date on which the report is submitted.
+  - **(4)** *Contents of report* Each report required under paragraph (1) shall include, for each project funded in whole or in part using amounts received under subsection (a)(2)—
+    - **(A)** the name and description of the project;
+    - **(B)** the amount received under subsection (a)(2) that is allocated to the project; and
+    - **(C)** a description of how each project is consistent with the authorized uses under subsection (d).
+  - **(5)** *Clarification* Nothing in this subsection—
+    - **(A)** requires or provides authority for the Secretary to delay, modify, or withhold payment under this subsection, other than for failure to submit a report as required under this subsection;
+    - **(B)** requires or provides authority for the Secretary to review or approve uses of funds reported under this subsection;
+    - **(C)** requires or provides authority for the Secretary to approve individual projects that receive funds reported under this subsection;
+    - **(D)** requires the State to obtain the approval of, or review by, the Secretary prior to spending funds disbursed under subsection (a)(2);
+    - **(E)** requires or provides authority for the Secretary to issue guidance relating to the contents of, or to determine the completeness of, the report required under this subsection;
+    - **(F)** requires the State to obligate or expend funds disbursed under subsection (a)(2) by a certain date; or
+    - **(G)** requires or provides authority for the Secretary to request the State to return unobligated funds.

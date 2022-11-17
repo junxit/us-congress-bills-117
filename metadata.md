@@ -1,7 +1,7 @@
 ---
 measure: S. 2996
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2996
@@ -28,3 +28,8 @@ Alaska Offshore Parity Act
 
 - 2021-10-19 — Introduced in Senate
 - 2021-10-19 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-06-07 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2022-11-17 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-201.
+- 2022-11-17 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 117-201.
+- 2022-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
