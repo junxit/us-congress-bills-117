@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Oversight of the Veterans Community Care Providers Act of 2022”.
+This Act may be cited as the “Improving Oversight of Veterans Community Care Providers Act of 2022”.
 
 ## § 2. Identification of health care providers that are not eligible to participate in Veterans Community Care Program
 
@@ -24,10 +24,12 @@ This Act may be cited as the “Improving Oversight of the Veterans Community Ca
       - **(ii)** a determination of the fraud risk tolerance; and
       - **(iii)** an examination of the suitability of existing fraud controls.
     - **(C)** Any other matters the Under Secretary determines will improve the oversight of health care providers participating in the Veterans Community Care Program.
-- **(b)** *Certification* Not later than December 31, 2022, the Secretary shall certify to the Committees on Veterans’ Affairs of the House of Representatives and the Senate that the Secretary has implemented the plan under subsection (a).
-- **(c)** *Report* Not later than January 31, 2023, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report that—
-  - **(1)** describes the progress the Under Secretary has made in carrying out the plan under subsection (a); and
-  - **(2)** includes recommendations for legislative action to further improve the methods by which the Secretary identifies health care providers that are not eligible to participate in the Veterans Community Care Program.
+- **(b)** *Certification* Not later than 270 days after the date of the enactment of this Act, the Secretary shall certify to the Committees on Veterans’ Affairs of the House of Representatives and the Senate that the Secretary has implemented the plan under subsection (a).
+- **(c)** *Reports*
+  - **(1)** *Initial report* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report that—
+    - **(A)** describes the progress the Under Secretary has made in carrying out the plan under subsection (a); and
+    - **(B)** includes recommendations for legislative action to further improve the methods by which the Secretary identifies health care providers that are not eligible to participate in the Veterans Community Care Program.
+  - **(2)** *Update* Not later than two years after the date on which the Secretary submits the report under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate an update to the report.
 - **(d)** *Definitions* In this section:
   - **(1)** The term covered data systems means the following:
     - **(A)** The List of Excluded Individuals/Entities of the Office of Inspector General of the Department of Health and Human Services.
