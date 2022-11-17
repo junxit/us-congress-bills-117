@@ -28,11 +28,11 @@ This Act may be cited as the “Federal Data Center Enhancement Act of 2022”.
   - **(1)** in subsection (a), by striking paragraphs (3) and (4) and inserting the following:
     > - **(3)** *New data center* The term new data center means a—
     >   - **(A)**
-    >     - **(i)** data center or a portion thereof that is owned, operated, or maintained by a covered agency; or
+    >     - **(i)** a data center or a portion thereof that is owned, operated, or maintained by a covered agency; or
     >     - **(ii)** to the extent practicable, a data center or portion thereof—
     >       - **(I)** that is owned, operated, or maintained by a contractor on behalf of a covered agency on the date on which the contract between the covered agency and the contractor expires; and
     >       - **(II)** with respect to which the covered agency extends the contract, or enters into a new contract, with the contractor; and
-    >   - **(B)** on or after the date that is 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2022 that is—
+    >   - **(B)** on or after the date that is 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2022, a data center or portion thereof that is—
     >     - **(i)** established; or
     >     - **(ii)** substantially upgraded or expanded.
 
