@@ -1,7 +1,7 @@
 ---
 measure: S. 4243
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4243
@@ -29,3 +29,7 @@ DHS Trade and Economic Security Council Act of 2022
 
 - 2022-05-18 — Introduced in Senate
 - 2022-05-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-05-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-208.
+- 2022-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-208.
+- 2022-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
