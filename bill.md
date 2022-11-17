@@ -27,7 +27,7 @@ In this Act:
   - **(D)** the Chief Human Capital Officers Council, established pursuant to Section 1303 of the Homeland Security Act of 2002 (5 U.S.C. 1401 note; Public Law 107–296);
   - **(E)** the Chief Information Officers Council, established pursuant to Section 3603 of title 44, United States Code;
   - **(F)** the Performance Improvement Council, established pursuant to Section 1124(b) of title 31, United States Code; and
-  - **(G)** any other council designated as a governmentwide executive council, pursuant to the requirements of section 6 of this Act.
+  - **(G)** any other council designated as a governmentwide executive council, pursuant to section 6 of this Act.
 
 ## § 3. Responsibilities of governmentwide executive councils
 
@@ -53,10 +53,9 @@ In this Act:
   - **(4)** subject to approval of the leadership of a governmentwide executive council, submit any reports, provide any information, or respond to any requests required by Congress.
 - **(c)** *Functional Independence* The Office of Executive Councils shall by headed by an Associate Administrator who shall—
   - **(1)** be appointed by the President;
-  - **(2)** report to the Director;
-  - **(3)** carry out additional duties and functions the Director, in consultation with the Administrator, requests; and
-  - **(4)** represent the collective viewpoints and priorities of the governmentwide executive councils and their membership.
-- **(d)** *Prohibition* The Office of Executive Councils may not provide any administrative or project management services to an entity unless the entity is designated by the Director and affirmed by Congress pursuant to section 6.
+  - **(2)** carry out additional duties and functions the Director and Administrator jointly request; and
+  - **(3)** represent the collective viewpoints and priorities of the governmentwide executive councils and their membership.
+- **(d)** *Prohibition* The Office of Executive Councils may not provide any administrative or project management services to an entity unless the entity is approved by Congress.
 
 ## § 5. Harmonizing governmentwide executive council leadership roles
 
@@ -103,7 +102,7 @@ In this Act:
 
   - **(2)** by redesignating paragraphs (2) and (3) as paragraphs (4) and (5); and
   - **(3)** by inserting after paragraph (1) the following:
-    > - **(2)** *Membership* The Performance Improvement Council shall consist of—
+    > - **(2)** *Membership* The Performance Improvement Council shall consist of —
     >   - **(A)** a designee of the Director of the Office of Management and Budget;
     >   - **(B)** the Performance Improvement Officer from each agency defined in section 901(b) of this title;
     >   - **(C)** other Performance Improvement Officers as determined appropriate by the chairperson; and
@@ -113,21 +112,26 @@ In this Act:
     >   - **(A)** *Chairperson* The chairperson of the Performance Improvement Council shall be a designee of the Deputy Director of Management of the Office of Management and Budget.
     >   - **(B)** *Vice chairperson* The Performance Improvement Council shall select from among its members a Performance Improvement Officer to serve as vice chairperson.
 
-## § 6. Authorities of the Director
+## § 6. Annual report; Process for inclusion of additional governmentwide executive councils
 
-- **(a)** *Designation* Subject to the requirements in subsection (b), the Director may designate 1 or more other councils to be a governmentwide executive council.
-- **(b)** *Submission to Congress; Review*
-  - **(1)** *Justification for designation* If the Director makes the determination to designate 1 or more councils to be a governmentwide executive council, the Director shall—
-    - **(A)** provide a justification for the designation to the Committees on Homeland Security and Governmental Affairs and Appropriations of the Senate and the Committees on Oversight and Reform and Appropriations of the House of Representatives; and
-    - **(B)** include in the justification required under subparagraph (A)—
-      - **(i)** the name of the council;
-      - **(ii)** the names of the chair and vice chair of the council;
-      - **(iii)** the agencies that will be members of the council;
-      - **(iv)** the expected goals, functions, and priorities of the council;
-      - **(v)** the expected annual costs to support the functions of the council; and
-      - **(vi)** any other information the Director determines to be necessary regarding the designation of the council to be a governmentwide executive council.
-  - **(2)** *Approval* Any designation by the Director shall be deemed approved unless, not later than 30 days after the date on which each chair and ranking member of the committees described under paragraph (1)(A) receive the justification, the chair and ranking member of 1 or more of the Committees provided the justification under paragraph (1)(A) jointly notify the Director of their disapproval for the designation.
-- **(c)** *Requirements* If the designation of a new governmentwide executive council is approved pursuant to subsections (a) and (b), that governmentwide executive council shall be subject to the requirements under section 3.
+- **(a)** *Annual report* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Associate Administrator shall submit to the Committees on Homeland Security and Governmental Affairs and Appropriations of the Senate and the Committees on Oversight and Reform and Appropriations of the House of Representatives a report on the activities of the Office of Executive Councils.
+- **(b)** *Contents* The reports required under subsection (a) shall include—
+  - **(1)** a description of the activities of the Office of Executive Councils during the year period ending on the date on which the report is submitted, including detailed summaries of the projects and services provided by the Office of Executive Councils, organized by governmentwide executive council;
+  - **(2)** a detailed accounting of—
+    - **(A)** the costs associated with the activities of the Office of Executive Councils, organized by governmentwide executive council; and
+    - **(B)** any administrative costs associated with the operations of the Office of Executive Councils;
+  - **(3)** a detailed accounting of all projects, services, or other programs approved by and executed on behalf of each governmentwide executive council, including any outcomes or highlights of such projects, services, or other programs; and
+  - **(4)** any recommendations for the designation of other councils or entities as governmentwide executive councils.
+- **(c)** *Designation*
+  - **(1)** *Request* Not earlier than the date that is 30 days after the submission of each report required under subsection (a), and only if such report includes a recommendation for the designation of 1 or more councils or entities as governmentwide executive councils, the Director may submit to the Committees on Homeland Security and Governmental Affairs and Appropriations of the Senate and the Committees on Oversight and Reform and Appropriations of the House of Representatives a request for those recommended councils or entities to be designated as governmentwide executive councils.
+  - **(2)** *Contents* A request under paragraph (1) shall include—
+    - **(A)** the name of the council;
+    - **(B)** the names of the chair and vice chair of the council;
+    - **(C)** the agencies that will be members of the council;
+    - **(D)** the expected goals, functions, and priorities of the council;
+    - **(E)** the expected annual costs to support the functions of the council; and
+    - **(F)** any other information the Director determines to be necessary regarding the designation of the council to be a governmentwide executive council.
+- **(d)** *Requirements* Any new governmentwide executive council designated after the date of enactment of this Act shall be subject to the requirements under section 3.
 
 ## § 7. Technical Amendments
 
