@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5721
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5721
@@ -46,3 +46,7 @@ VIPER Act of 2021
 - 2022-11-14 — Placed on the Union Calendar, Calendar No. 395.
 - 2022-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-551.
 - 2022-11-14 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-551.
+- 2022-11-17 — Passed/agreed to in House: Pursuant to section 2 of H. Res. 1464, and the motion offered by Mr. Carter (LA), the following bills passed under suspension of the rules: H.R. 4275, as amended; H.R. 5502, as amended; H.R. 5721, as amended; H.R. 6290, as amended; H.R. 7277, as amended; H.R. 7299, as amended; and H.R. 8416, as amended.
+- 2022-11-17 — Pursuant to section 2 of H. Res. 1464, and the motion offered by Mr. Carter (LA), the following bills passed under suspension of the rules: H.R. 4275, as amended; H.R. 5502, as amended; H.R. 5721, as amended; H.R. 6290, as amended; H.R. 7277, as amended; H.R. 7299, as amended; and H.R. 8416, as amended. (consideration: CR H8566-8574; text: CR H8568-8569)
+- 2022-11-17 — Pursuant to the provisions of H. Res. 1464, proceedings on H.R. 5721 are considered vacated.
+- 2022-11-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
