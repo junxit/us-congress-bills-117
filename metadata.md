@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7277
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7277
