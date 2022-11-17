@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8416
 congress: 117
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 6 executed, 15 stated and not applied.
+22 amendatory instructions. 7 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,6 +78,15 @@ to guess them.
 | Removed | `paragraph (2)` |
 | Inserted | `paragraphs (2) and (3)` |
 
+### 42 U.S.C. § 5174
+
+> by striking “(A) Grant to state.—” and all that follows through “subsection (g),” and inserting “Subject to subsection (g),” ; and
+
+| | |
+|---|---|
+| Removed | `(A) Grant to state.—” and all that follows through “subsection (g),` |
+| Inserted | `Subject to subsection (g),` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -96,9 +105,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5174` | strike | in clause (iii) by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5174` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5165b` | add-at-end | Section 324(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b(b)(2)(C)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5174` | strike | by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5131` | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5131` | add-at-end | Section 201 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5131) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170` | add-at-end | Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170b` | add-at-end | Section 403 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5155` | add-at-end | Section 312(b)(4) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155(b)(4)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
