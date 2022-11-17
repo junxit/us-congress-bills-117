@@ -1,7 +1,7 @@
 ---
 measure: S. 3092
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3092
@@ -47,3 +47,13 @@ FIRE Act
 - 2022-09-28 — Senate amendment proposed (on the floor): Amendment SA 5934 proposed by Senator Padilla.
 - 2022-09-28 — Senate amendment submitted
 - 2022-09-28 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2022-09-29 — Held at the desk.
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-09-29 — Received in the House.
+- 2022-11-17 — Considered under suspension of the rules. (consideration: CR H8557-8560)
+- 2022-11-17 — DEBATE - The House proceeded with forty minutes of debate on S. 3092.
+- 2022-11-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-17 — Mr. Carter (LA) moved to suspend the rules and pass the bill, as amended.
+- 2022-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8557-8558)
+- 2022-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

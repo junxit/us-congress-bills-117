@@ -2,12 +2,14 @@
 legis-num: S. 3092
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3092
 
-> To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to improve the provision of certain disaster assistance, and for other purposes.
+That the bill from the Senate (S. 3092) entitled “An Act to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to improve the provision of certain disaster assistance, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -50,8 +52,7 @@ In this Act—
     - **(C)** the effectiveness of any modifications described in subparagraph (A).
   - **(12)** An analysis of how, if at all, recent changes in the availability of fire insurance has resulted in modifications of policy or procedure with respect to determining the cost efficacy of relocation assistance for wildfires.
   - **(13)** An analysis of how to define repetitive loss and repetitively damaged properties in the context of wildfires.
-  - **(14)** A discussion of whether any legislative, regulatory, or policy changes are necessary for the Agency to better implement relocation assistance to reduce risk from wildfires.
-  - **(15)** Other related issues that the Administrator determines appropriate.
+  - **(14)** Other related issues that the Administrator determines appropriate.
 
 ## § 4. Red flag warnings and predisaster actions
 
@@ -83,35 +84,35 @@ Not later than 1 year after the date of enactment of this Act, the Comptroller G
 
 ## § 7. Crisis counseling effective communication
 
-Section 416 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5183) is amended—
+- **(a)** *In general* Section 416 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5183) is amended—
+  - **(1)** by striking “The President” and inserting the following:
+    > - **(a)** *In general* The President
 
-- **(1)** by striking “The President” and inserting the following:
-  > - **(a)** *In general* The President
+  - **(2)** by adding at the end the following:
+    > - **(b)** *Training* Each State, local agency, or private mental health organization providing professional counseling services described in subsection (a) shall ensure that, any individual providing professional counseling services to victims of a major disaster as authorized under subsection (a), including individuals working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
 
-- **(2)** by adding at the end the following:
-  > - **(b)** *Effective communication* The President shall, in consultation with affected States, local governments, and Indian tribal governments and cultural experts, ensure that any individual providing professional counseling services to victims of a major disaster as authorized under subsection (a), including those working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
+- **(b)** *Rule of applicability* The amendments made by this section shall apply with respect to amounts appropriated on or after the date of enactment of this Act.
 
 ## § 8. Case management effective communication
 
-Section 426 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189d) is amended—
+- **(a)** *In general* Section 426 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189d) is amended—
+  - **(1)** by striking “The President” and inserting the following:
+    > - **(a)** *In general* The President
 
-- **(1)** by striking “The President” and inserting the following:
-  > - **(a)** *In general* The President
+  - **(2)** by adding at the end the following:
+    > - **(b)** *Training* Each State, local government agency, or qualified private organization providing professional counseling services described in subsection (a) shall ensure that any individual providing case management services to victims of a major disaster as authorized under subsection (a), including individuals working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
 
-- **(2)** by adding at the end the following:
-  > - **(b)** *Effective communication* The President shall, in consultation with affected States, local governments, and Indian tribal governments and cultural experts, ensure that any individual providing case management services to victims of a major disaster as authorized under subsection (a), including those working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
+- **(b)** *Rule of applicability* The amendments made by this section shall apply with respect to amounts appropriated on or after the date of enactment of this Act.
 
 ## § 9. Study and plan for disaster housing assistance
 
 - **(a)** *Study* Not later than 180 days after the date of enactment of this Act, the Administrator shall—
   - **(1)** conduct a study and develop a plan, consistent with law, under which the Agency will address providing housing assistance to survivors of major disasters or emergencies when presented with challenges such as—
-    - **(A)** the lack of proof of ownership or ownership documentation;
-    - **(B)** the presence of multiple families within a single household; and
-    - **(C)** the near loss of a community, with the majority of homes destroyed in that community, including as a result of a wildfire, earthquake, or other event causing a major disaster; and
+    - **(A)** the presence of multiple families within a single household; and
+    - **(B)** the near loss of a community, with the majority of homes destroyed in that community, including as a result of a wildfire, earthquake, or other event causing a major disaster; and
   - **(2)** make recommendations for legislative changes needed to address—
-    - **(A)** the unmet needs of survivors of major disasters or emergencies who are unable to document or prove ownership of the household;
-    - **(B)** the presence of multiple families within a single household; and
-    - **(C)** the near loss of a community, with the majority of homes destroyed in that community, including as a result of a wildfire, earthquake, or other event causing a major disaster.
+    - **(A)** the presence of multiple families within a single household; and
+    - **(B)** the near loss of a community, with the majority of homes destroyed in that community, including as a result of a wildfire, earthquake, or other event causing a major disaster.
 - **(b)** *Comprehensive report* The Administrator shall submit to the appropriate committees of Congress a report that provides a detailed discussion of the plans developed under subsection (a)(1) and the recommendations of the Administrator under subsection (a)(2).
 - **(c)** *Briefing* Not later than 30 days after submission of the report and recommendations under subsection (b), the Administrator shall brief the appropriate committees of Congress on the findings and any recommendations made pursuant to this section.
 
@@ -119,20 +120,7 @@ Section 426 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 
 Not later than 180 days after the date of enactment of this Act, the Administrator shall brief the appropriate committees of Congress regarding the extent to which the Agency is using housing solutions proposed by a State or local government to reduce the time or cost required to implement housing solutions after a major disaster.
 
-## § 11. Increased cap for emergency declarations based on regional cost of living
-
-Not later than 180 days after the date of enactment of this Act, the Administrator shall brief the appropriate committees of Congress regarding the benefits and drawbacks of establishing a maximum amount for assistance provided for an emergency that is based on the cost of living in the region in which the emergency occurs.
-
-## § 12. Facilitating disposal of temporary transportable housing units to survivors
-
-Section 408(d)(2)(B)(i) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(d)(2)(B)(i)) is amended by inserting “, with priority given to a survivor of a major disaster who suffered a property loss as a result of the major disaster” after “any person”.
-
-## § 13. Deadline on code enforcement and management cost eligibility
-
-- **(a)** *In general* Section 406(a)(2)(D) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172(a)(2)(D)) is amended by striking “180 days” and inserting “1 year”.
-- **(b)** *Applicability* The amendment made by subsection (a) shall apply with respect to amounts appropriated on or after the date of enactment of this Act.
-
-## § 14. Permit applications for Tribal upgrades to Emergency Operations Centers
+## § 11. Permit applications for Tribal upgrades to Emergency Operations Centers
 
 - **(a)** *In general* Section 614(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196c(a)) is amended—
   - **(1)** by inserting “and Indian tribal governments” after “grants to States”; and
