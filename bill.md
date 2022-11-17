@@ -2,12 +2,14 @@
 legis-num: H.R. 1437
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1437
 
-> To amend the Weather Research and Forecasting Innovation Act of 2017 to direct the National Oceanic and Atmospheric Administration to provide comprehensive and regularly updated Federal precipitation information, and for other purposes.
+That the bill from the House of Representatives (H.R. 1437) entitled “An Act to amend the Weather Research and Forecasting Innovation Act of 2017 to direct the National Oceanic and Atmospheric Administration to provide comprehensive and regularly updated Federal precipitation information, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 

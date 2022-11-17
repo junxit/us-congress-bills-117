@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
