@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1437
@@ -70,3 +70,11 @@ Further Continuing Appropriations and Extensions Act, 2023
 - 2022-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 81 (Roll no. 154). (text: 05/10/2022 CR H4736-4737)
 - 2022-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 81 (Roll no. 154).
 - 2022-05-12 — Received in the Senate, read twice.
+- 2022-11-17 — Amendment SA 6485 agreed to in Senate by Unanimous Consent.
+- 2022-11-17 — Amendment SA 6485 proposed by Senator Schumer for Senator Wicker. (consideration: CR S6769-6770; text: CR S6769-6770) In the nature of a substitute.
+- 2022-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6769-6770)
+- 2022-11-17 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6769-6770)
+- 2022-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S6769-6770)
+- 2022-11-17 — Senate amendment agreed to: Amendment SA 6485 agreed to in Senate by Unanimous Consent.
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6485 proposed by Senator Schumer for Senator Wicker.
+- 2022-11-17 — Senate amendment submitted
