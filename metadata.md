@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3630
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3630
@@ -376,10 +376,11 @@ Lymphedema Treatment Act
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -397,3 +398,12 @@ Lymphedema Treatment Act
 - 2022-07-22 — Placed on the Union Calendar, Calendar No. 336.
 - 2022-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-430, Part I.
 - 2022-07-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 117-430, Part I.
+- 2022-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8469-8471)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3630.
+- 2022-11-14 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2022-11-17 — Considered as unfinished business. (consideration: CR H8576-8577)
+- 2022-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 485). (text: 11/14/2022 CR H8469)
+- 2022-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 485).
+- 2022-11-17 — Received in the Senate and Read twice and referred to the Committee on Finance.
