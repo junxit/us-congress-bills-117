@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2250
@@ -40,3 +40,12 @@ Department of Veterans Affairs Information Technology Reform Act of 2021
 - 2022-09-26 — Placed on the Union Calendar, Calendar No. 374.
 - 2022-09-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-492.
 - 2022-09-26 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-492.
+- 2022-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-14 — Considered under suspension of the rules. (consideration: CR H8467-8469)
+- 2022-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2250.
+- 2022-11-14 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2022-11-17 — Considered as unfinished business. (consideration: CR H8575-8576)
+- 2022-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2, 1 Present (Roll no. 484). (text: 11/14/2022 CR H8467-8468)
+- 2022-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2, 1 Present (Roll no. 484).
+- 2022-11-17 — Received in the Senate.
