@@ -1,7 +1,7 @@
 ---
 measure: S. 4893
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 1603` | strike | in paragraph (6), by striking “; and”; | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 1603` | replace | in paragraph (6), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1603` | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 613` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
