@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1379
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1379
@@ -25,3 +25,10 @@ Of inquiry requesting the President and directing the Secretary of Veterans Affa
 - 2022-09-21 — Introduced in House
 - 2022-09-21 — Introduced in House
 - 2022-09-21 — Referred to the House Committee on Veterans' Affairs.
+- 2022-09-28 — Referred to the Subcommittee on Health.
+- 2022-11-16 — Committee Consideration and Mark-up Session Held.
+- 2022-11-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2022-11-16 — Subcommittee on Health Discharged.
+- 2022-11-22 — Placed on the House Calendar, Calendar No. 151.
+- 2022-11-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-583.
+- 2022-11-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 117-583.
