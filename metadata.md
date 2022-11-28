@@ -1,7 +1,7 @@
 ---
 measure: S. 4882
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4882
@@ -16,9 +16,11 @@ Fire Grants and Safety Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Fire Grants and Safety Act
 
 - 2022-09-19 — Introduced in Senate
 - 2022-09-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2022-11-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-214.
+- 2022-11-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-214.
+- 2022-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
