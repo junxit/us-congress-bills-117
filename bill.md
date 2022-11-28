@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5796
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5796
 
-That the bill from the House of Representatives (H.R. 5796) entitled “An Act to amend title 35, United States Code, to establish a competition to award certificates that can be redeemed to accelerate certain matters at the Patent and Trademark Office, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 35, United States Code, to establish a competition to award certificates that can be redeemed to accelerate certain matters at the Patent and Trademark Office, and for other purposes.
 
 ## § 1. Short title
 
