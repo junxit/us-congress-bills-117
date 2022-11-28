@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5796
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5796
@@ -16,9 +16,10 @@ Patents for Humanity Act of 2022
 
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (2)
 
@@ -42,3 +43,13 @@ Patents for Humanity Act of 2022
 - 2022-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-302.
 - 2022-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-302.
 - 2022-04-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2022-11-28 — Amendment SA 6502 agreed to in Senate by Unanimous Consent.
+- 2022-11-28 — Amendment SA 6502 proposed by Senator Van Hollen for Senator Leahy. (consideration: CR S66828; text: CR S6828) In the nature of a substitute.
+- 2022-11-28 — Measure laid before Senate by unanimous consent. (consideration: CR S6828-6829)
+- 2022-11-28 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6828)
+- 2022-11-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S6828)
+- 2022-11-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-11-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-11-28 — Senate amendment agreed to: Amendment SA 6502 agreed to in Senate by Unanimous Consent.
+- 2022-11-28 — Senate amendment proposed (on the floor): Amendment SA 6502 proposed by Senator Van Hollen for Senator Leahy.
+- 2022-11-28 — Senate amendment submitted

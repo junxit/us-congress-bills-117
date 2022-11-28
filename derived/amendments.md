@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5796
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 2 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 2 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 2 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
