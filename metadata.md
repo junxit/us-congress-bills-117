@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5796
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5796
@@ -53,3 +53,17 @@ Patents for Humanity Act of 2022
 - 2022-11-28 — Senate amendment agreed to: Amendment SA 6502 agreed to in Senate by Unanimous Consent.
 - 2022-11-28 — Senate amendment proposed (on the floor): Amendment SA 6502 proposed by Senator Van Hollen for Senator Leahy.
 - 2022-11-28 — Senate amendment submitted
+- 2022-11-30 — Message on Senate action sent to the House.
+- 2022-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2022-12-05 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 5796.
+- 2022-12-05 — Ms. Jackson Lee moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8752-8754)
+- 2022-12-06 — Considered as unfinished business. (consideration: CR H8771-8773; H8779-8780)
+- 2022-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-06 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 396 - 24 (Roll no. 511). (text: 12/05/2022 CR H8752-8753)
+- 2022-12-06 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 396 - 24 (Roll no. 511).
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-245.
+- 2022-12-20 — Became Public Law No: 117-245.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
