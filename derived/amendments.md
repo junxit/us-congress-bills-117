@@ -1,7 +1,7 @@
 ---
 measure: S. 4882
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 2 executed, 5 stated and not applied.
+9 amendatory instructions. 4 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,30 @@ to guess them.
 
 ### 15 U.S.C. § 2229
 
+> Section 33(r) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(r)) is amended by striking “2024” and inserting “2032”.
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2032` |
+
+### 15 U.S.C. § 2229
+
 > Section 33(q)(1)(B) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(q)(1)(B)) is amended, in the matter preceding clause (i), by striking “2023” and inserting “2030”.
 
 | | |
 |---|---|
 | Removed | `2023` |
 | Inserted | `2030` |
+
+### 15 U.S.C. § 2229a
+
+> Section 34(k) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(k)) is amended by striking “2024” and inserting “2032”.
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2032` |
 
 ### 15 U.S.C. § 2229a
 

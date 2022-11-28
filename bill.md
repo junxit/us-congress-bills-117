@@ -25,9 +25,11 @@ Section 17(g)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.
 ## § 3. Reauthorization of assistance to firefighters grants program and the fire prevention and safety grants program
 
 - **(a)** *Repeal of sunset* Section 33 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229) is amended by striking subsection (r).
+- **(a)** *Sunset* Section 33(r) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(r)) is amended by striking “2024” and inserting “2032”.
 - **(b)** *Authorization of appropriations* Section 33(q)(1)(B) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(q)(1)(B)) is amended, in the matter preceding clause (i), by striking “2023” and inserting “2030”.
 
 ## § 4. Reauthorization of staffing for adequate fire and emergency response grant program
 
 - **(a)** *Repeal of sunset* Section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) is amended by striking subsection (k).
+- **(a)** *Sunset* Section 34(k) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(k)) is amended by striking “2024” and inserting “2032”.
 - **(b)** *Authorization of appropriations* Section 34(j)(1)(I) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(j)(1)(I)) is amended, in the matter preceding clause (i), by striking “2023” and inserting “2030”.
