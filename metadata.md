@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4209
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4209
@@ -45,3 +45,7 @@ DHS Illicit Cross-Border Tunnel Defense Act
 - 2022-04-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4165)
 - 2022-04-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4165)
 - 2022-04-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-11-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-215.
+- 2022-11-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-215.
+- 2022-11-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.
