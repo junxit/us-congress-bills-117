@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1378
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1378
@@ -25,3 +25,8 @@ Of inquiry requesting the President and directing the Secretary of Agriculture t
 - 2022-09-21 — Introduced in House
 - 2022-09-21 — Introduced in House
 - 2022-09-21 — Referred to the House Committee on Natural Resources.
+- 2022-11-16 — Committee Consideration and Mark-up Session Held.
+- 2022-11-16 — Ordered to be Reported Unfavorably in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 21.
+- 2022-11-29 — Placed on the House Calendar, Calendar No. 152.
+- 2022-11-29 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 117-585.
+- 2022-11-29 — Reported adversely (Amended) by the Committee on Natural Resources. H. Rept. 117-585.
