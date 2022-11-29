@@ -1,7 +1,7 @@
 ---
 measure: S. 3846
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 2 executed, 6 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,15 +33,6 @@ to guess them.
 | Removed | `teams and treatment accountability services for communities` |
 | Inserted | `teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation` |
 
-### 34 U.S.C. § 10651
-
-> Section 2991(o)(1)(C) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10651(o)(1)(C)) is amended by striking “2017 through 2021” and inserting “2022 through 2026”.
-
-| | |
-|---|---|
-| Removed | `2017 through 2021` |
-| Inserted | `2022 through 2026` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -56,4 +47,4 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 251` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 251` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10651` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 5(d) of the Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008 (Public Law 110–416; 122 Stat. 4355) is amended by striking “2009” and inserting “each of fiscal years 2022 through 2026”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5(d) of the Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008 (Public Law 110–416; 122 Stat. 4355) is amended by striking “2009” and inserting “each of fiscal years 2023 through 2027”. | the bill names no machine-readable US Code section |
