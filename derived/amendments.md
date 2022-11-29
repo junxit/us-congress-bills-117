@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5455
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 841` | replace | by striking “offense means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 841` | replace | by striking “covered offense means” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 841` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 841` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 841` | insert | in subsection (c), by inserting “A motion under this section that was denied after a court determination that a violation described in subsection (a)(2) was not a covered offense shall not be considered a denial after a complete review o… | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 841` | insert | in subsection (c), by inserting “A motion made under this section that was denied after a court determination that a violation described in subsection (a)(2) was not a covered offense shall not be considered a denial after a complete rev… | the bill quotes the text inserted but describes where it goes |
