@@ -1,7 +1,7 @@
 ---
 measure: S. 3846
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3846
@@ -47,3 +47,14 @@ Justice and Mental Health Collaboration Reauthorization Act of 2022
 - 2022-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
 - 2022-06-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3149; text: CR S3149)
 - 2022-06-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-07-11 — Message on Senate action sent to the House.
+- 2022-07-12 — Held at the desk.
+- 2022-07-12 — Received in the House.
+- 2022-11-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-29 — Considered as unfinished business. (consideration: CR H8643-8644)
+- 2022-11-29 — Considered under suspension of the rules. (consideration: CR H8618-8622)
+- 2022-11-29 — DEBATE - The House proceeded with forty minutes of debate on S. 3846.
+- 2022-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-11-29 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
+- 2022-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 22 (Roll no. 487). (text: CR H8618-8619)
+- 2022-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 22 (Roll no. 487).
