@@ -1,7 +1,7 @@
 ---
 measure: S. 5068
 congress: 117
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
