@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8404
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
