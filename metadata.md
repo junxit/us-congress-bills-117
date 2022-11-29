@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8404
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8404
@@ -340,3 +340,20 @@ Respect for Marriage Act
 - 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6482 proposed by Senator Lee to Amendment SA 6487.
 - 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6493 proposed by Senator Lankford for Senator Rubio to Amendment SA 6487.
 - 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6496 proposed by Senator Lankford to Amendment SA 6487.
+- 2022-11-30 — Message on Senate action sent to the House.
+- 2022-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-08 — Motion to reconsider laid on the table. Objection heard.
+- 2022-12-08 — Mr. Cicilline moved to table the motion to reconsider the vote
+- 2022-12-08 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 258 - 169, 1 Present (Roll no. 513). (text of amendment in the nature of a substitute: CR H8827)
+- 2022-12-08 — On motion to table the motion to reconsider the vote Agreed to by the Yeas and Nays: 224 - 164 (Roll no. 514).
+- 2022-12-08 — Perlmutter moved to reconsider the vote on agreeing to the Senate amendment to H.R. 8404.
+- 2022-12-08 — Pursuant to the provisions of H.Res 1510, the House proceeded with one hour of debate on the Nadler motion to concur in the Senate amendment to H.R. 8404.
+- 2022-12-08 — Pursuant to the provisions of H.Res. 1510, Mr. Nadler moved that the House agree to the Senate amendment. (consideration: CR H8827-8839)
+- 2022-12-08 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 258 - 169, 1 Present (Roll no. 513).(text of amendment in the nature of a substitute: CR H8827)
+- 2022-12-08 — The previous question was ordered pursuant to the rule.
+- 2022-12-09 — Presented to President.
+- 2022-12-09 — Presented to President.
+- 2022-12-13 — Became Public Law No: 117-228.
+- 2022-12-13 — Became Public Law No: 117-228.
+- 2022-12-13 — Signed by President.
+- 2022-12-13 — Signed by President.
