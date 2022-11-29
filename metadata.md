@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8404
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 8404
@@ -16,7 +16,7 @@ Respect for Marriage Act
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
-## Cosponsors (189)
+## Cosponsors (218)
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
@@ -207,6 +207,35 @@ Respect for Marriage Act
 - Rep. Newman, Marie [D-IL-3] (N000192)
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -230,3 +259,84 @@ Respect for Marriage Act
 - 2022-07-19 — The previous question was ordered pursuant to the rule.
 - 2022-07-20 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-07-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
+- 2022-11-14 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S6642)
+- 2022-11-14 — Motion to proceed to consideration of measure made in Senate. (CR S6642)
+- 2022-11-15 — Senate amendment submitted
+- 2022-11-16 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 356.
+- 2022-11-16 — Motion to proceed to measure considered in Senate. (CR S6715-6725)
+- 2022-11-16 — Senate amendment submitted
+- 2022-11-16 — Senate amendment submitted
+- 2022-11-17 — Amendment SA 6487 proposed by Senator Schumer for Senator Baldwin. (consideration: CR S6771; text: CR S6771) In the nature of a substitute.
+- 2022-11-17 — Amendment SA 6488 proposed by Senator Schumer to Amendment SA 6487. (consideration: CR S6771; text: CR S6771) To add an effective date.
+- 2022-11-17 — Amendment SA 6489 proposed by Senator Schumer to Amendment SA 6488. (consideration: CR S6771; text: CR S6771) To add an effective date.
+- 2022-11-17 — Amendment SA 6490 proposed by Senator Schumer. (consideration: CR S6771; text: CR S6771) To add an effective date.
+- 2022-11-17 — Amendment SA 6491 proposed by Senator Schumer to Amendment SA 6490 (the instructions of the motion to refer). (consideration: CR S6771-6772; text: CR S6771-6772) To add an effective date.
+- 2022-11-17 — Amendment SA 6492 proposed by Senator Schumer to Amendment SA 6491. (consideration: CR S6772; text: CR S6772) To add an effective date.
+- 2022-11-17 — Cloture motion on amendment SA 6487 presented in Senate. (CR S6772)
+- 2022-11-17 — Cloture motion on the measure presented in Senate. (CR S6772)
+- 2022-11-17 — Measure laid before Senate by motion.
+- 2022-11-17 — Motion by Senator Schumer to refer to Senate Committee on the Judiciary with instructions to report back forthwith with the following amendment (SA 6490) made in Senate.
+- 2022-11-17 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 23. Record Vote Number: 357.
+- 2022-11-17 — Motion to proceed to measure considered in Senate. (CR S6770)
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6487 proposed by Senator Schumer for Senator Baldwin.
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6488 proposed by Senator Schumer to Amendment SA 6487.
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6489 proposed by Senator Schumer to Amendment SA 6488.(consideration: CR S6771; text: CR S6771)
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6490 proposed by Senator Schumer.
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6491 proposed by Senator Schumer to Amendment SA 6490 (the instructions of the motion to refer).(consideration: CR S6771-6772; text: CR S6771-6772)
+- 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6492 proposed by Senator Schumer to Amendment SA 6491.
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-17 — Senate amendment submitted
+- 2022-11-28 — Cloture on amendment SA 6487 invoked in Senate by Yea-Nay Vote. 61 - 35. Record Vote Number: 358. (CR S6817)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6809)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6809)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6809)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6809)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6809)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6809, S6817)
+- 2022-11-28 — Considered by Senate. (consideration: CR S6817)
+- 2022-11-28 — Motion by Senator Schumer to refer to Senate Committee on the Judiciary with instructions to report back forthwith with the following amendment (SA 6490) fell when cloture was invoked on SA 6487 in Senate.
+- 2022-11-28 — Roll call votes on amendments in Senate: Cloture on amendment SA 6487 invoked in Senate by Yea-Nay Vote. 61 - 35. Record Vote Number: 358.
+- 2022-11-28 — SA 6490 (the instructions of the motion to refer) fell when cloture invoked SA 6487.
+- 2022-11-28 — SA 6491 fell when SA 6490 fell.
+- 2022-11-28 — SA 6492 fell when SA 6491 fell.
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-28 — Senate amendment submitted
+- 2022-11-29 — Amendment SA 6482 proposed by Senator Lee to Amendment SA 6487. (consideration: CR S6834-6837, S6841-6844 ; text: CR S6834-6835) To improve the bill.
+- 2022-11-29 — Amendment SA 6482 under the order of 11/28/2022, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 359.
+- 2022-11-29 — Amendment SA 6487 agreed to in Senate by Unanimous Consent.
+- 2022-11-29 — Amendment SA 6493 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 361.
+- 2022-11-29 — Amendment SA 6493 proposed by Senator Lankford for Senator Rubio to Amendment SA 6487. (consideration: CR S6837-6839, S6841, S6844 ; text: CR S6837) To eliminate a private right of action.
+- 2022-11-29 — Amendment SA 6496 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 360.
+- 2022-11-29 — Amendment SA 6496 proposed by Senator Lankford to Amendment SA 6487. (consideration: CR S6837-6838, S6841, S6844; text: CR S6837) To improve the bill.
+- 2022-11-29 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (CR S6844)
+- 2022-11-29 — Considered by Senate. (consideration: CR S6831-6846)
+- 2022-11-29 — Considered by Senate. (consideration: CR S6844)
+- 2022-11-29 — Considered by Senate. (consideration: CR S6844)
+- 2022-11-29 — Considered by Senate. (consideration: CR S6844)
+- 2022-11-29 — Passed Senate under the order of 11/28/22, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 61 - 36. Record Vote Number: 362. (text of amendment in the nature of a substitute: CR S6771)
+- 2022-11-29 — Passed/agreed to in Senate: Passed Senate under the order of 11/28/22, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 61 - 36. Record Vote Number: 362.(text of amendment in the nature of a substitute: CR S6771)
+- 2022-11-29 — Proposed amendment SA 6488 withdrawn in Senate. (consideration: CR S6844)
+- 2022-11-29 — Roll call votes on amendments in Senate: Amendment SA 6482 under the order of 11/28/2022, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 359.
+- 2022-11-29 — Roll call votes on amendments in Senate: Amendment SA 6493 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 361.
+- 2022-11-29 — Roll call votes on amendments in Senate: Amendment SA 6496 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 360.
+- 2022-11-29 — SA 6489 fell when SA 6488 withdrawn.
+- 2022-11-29 — Senate amendment agreed to: Amendment SA 6487 agreed to in Senate by Unanimous Consent.
+- 2022-11-29 — Senate amendment not agreed to: Amendment SA 6482 under the order of 11/28/2022, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 359.
+- 2022-11-29 — Senate amendment not agreed to: Amendment SA 6493 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 361.
+- 2022-11-29 — Senate amendment not agreed to: Amendment SA 6496 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 360.
+- 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6482 proposed by Senator Lee to Amendment SA 6487.
+- 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6493 proposed by Senator Lankford for Senator Rubio to Amendment SA 6487.
+- 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6496 proposed by Senator Lankford to Amendment SA 6487.
