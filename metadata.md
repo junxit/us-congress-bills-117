@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8404
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8404
@@ -241,7 +241,7 @@ Respect for Marriage Act
 
 - House — Judiciary Committee
 
-## Recorded votes (8)
+## Recorded votes (10)
 
 - 2022-07-19 — [House 117-2-373](votes/house-117-2-0373.md) — On Passage — **Passed** (267–157)
 - 2022-11-16 — [Senate 117-2-356](votes/senate-117-2-0356.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–37)
@@ -251,6 +251,8 @@ Respect for Marriage Act
 - 2022-11-29 — [Senate 117-2-360](votes/senate-117-2-0360.md) — On the Amendment — **Amendment Rejected** (45–52)
 - 2022-11-29 — [Senate 117-2-361](votes/senate-117-2-0361.md) — On the Amendment — **Amendment Rejected** (45–52)
 - 2022-11-29 — [Senate 117-2-362](votes/senate-117-2-0362.md) — On Passage of the Bill — **Bill Passed** (61–36)
+- 2022-12-08 — [House 117-2-513](votes/house-117-2-0513.md) — On Motion to Concur in the Senate Amendment — **Passed** (258–169)
+- 2022-12-08 — [House 117-2-514](votes/house-117-2-0514.md) — Table Motion to Reconsider — **Passed** (224–164)
 
 ## Actions
 
@@ -351,3 +353,20 @@ Respect for Marriage Act
 - 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6482 proposed by Senator Lee to Amendment SA 6487.
 - 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6493 proposed by Senator Lankford for Senator Rubio to Amendment SA 6487.
 - 2022-11-29 — Senate amendment proposed (on the floor): Amendment SA 6496 proposed by Senator Lankford to Amendment SA 6487.
+- 2022-11-30 — Message on Senate action sent to the House.
+- 2022-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-08 — Motion to reconsider laid on the table. Objection heard.
+- 2022-12-08 — Mr. Cicilline moved to table the motion to reconsider the vote
+- 2022-12-08 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 258 - 169, 1 Present (Roll no. 513). (text of amendment in the nature of a substitute: CR H8827)
+- 2022-12-08 — On motion to table the motion to reconsider the vote Agreed to by the Yeas and Nays: 224 - 164 (Roll no. 514).
+- 2022-12-08 — Perlmutter moved to reconsider the vote on agreeing to the Senate amendment to H.R. 8404.
+- 2022-12-08 — Pursuant to the provisions of H.Res 1510, the House proceeded with one hour of debate on the Nadler motion to concur in the Senate amendment to H.R. 8404.
+- 2022-12-08 — Pursuant to the provisions of H.Res. 1510, Mr. Nadler moved that the House agree to the Senate amendment. (consideration: CR H8827-8839)
+- 2022-12-08 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 258 - 169, 1 Present (Roll no. 513).(text of amendment in the nature of a substitute: CR H8827)
+- 2022-12-08 — The previous question was ordered pursuant to the rule.
+- 2022-12-09 — Presented to President.
+- 2022-12-09 — Presented to President.
+- 2022-12-13 — Became Public Law No: 117-228.
+- 2022-12-13 — Became Public Law No: 117-228.
+- 2022-12-13 — Signed by President.
+- 2022-12-13 — Signed by President.
