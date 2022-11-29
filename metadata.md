@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7240
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7240
@@ -73,9 +73,10 @@ READ Act Reauthorization Act of 2022
 - Rep. Casten, Sean [D-IL-6] (C001117)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -91,3 +92,5 @@ READ Act Reauthorization Act of 2022
 - 2022-09-20 — Passed/agreed to in House: Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended.
 - 2022-09-20 — Pursuant to section 2 of H. Res. 1361, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1433, as amended; H.R. 4009, as amended; H.R. 4358, as amended; H.R. 6265; H.R. 6846, as amended; H.R. 7240, as amended; H.R. 7338, as amended; H.R. 8453, as amended; H.R. 8503, as amended; and H.R. 8520, as amended; and the following resolution was agreed to under suspension of the rules: H. Res. 558, as amended. (consideration: CR H7984-7992; text: CR H7986)
 - 2022-09-20 — Pursuant to the provisions of H. Res. 1361, proceedings on H.R. 7240 are considered vacated.
+- 2022-09-21 — Received in the Senate.
+- 2022-11-29 — Read twice and referred to the Committee on Foreign Relations.
