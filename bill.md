@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5455
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,17 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Terry Technical Correction Act”.
 
-## § 2. Findings; purpose
-
-- **(a)** *Findings* Congress finds that on June 14, 2021, the Supreme Court of the United States decided the case of Terry v. United States, 141 S. Ct. 1858 (2021), holding that crack offenders who did not trigger a mandatory minimum do not qualify for the retroactivity provisions of section 404 of the First Step Act of 2018 (21 U.S.C. 841 note).
-- **(b)** *Purpose* The purpose of this Act is to clarify that the retroactivity provisions of section 404 of the First Step Act of 2018 (21 U.S.C. 841 note) are available to those offenders who were sentenced for a crack-cocaine offense before the Fair Sentencing Act of 2010 (Public Law 111–220) became effective, including individuals with low-level crack offenses sentenced under section 401(b)(1)(C) of the Controlled Substances Act (21 U.S.C. 841(b)(1)(C)).
-
-## § 3. Application of Fair Sentencing Act of 2010
+## § 2. Application of Fair Sentencing Act of 2010
 
 Section 404 of the First Step Act of 2018 (21 U.S.C. 841 note) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** by striking “offense means” and inserting the following:
+  - **(A)** by striking “covered offense means” and inserting the following:
     > - **(1)** means
 
   - **(B)** by striking the period at the end and inserting “; and”; and
@@ -44,4 +39,4 @@ Section 404 of the First Step Act of 2018 (21 U.S.C. 841 note) is amended—
     >   - **(M)** section 70503 or 70506 of title 46, United States Code; or
     >   - **(N)** any attempt, conspiracy or solicitation to commit an offense described in subparagraphs (A) through (M).
 
-- **(2)** in subsection (c), by inserting “A motion under this section that was denied after a court determination that a violation described in subsection (a)(2) was not a covered offense shall not be considered a denial after a complete review of the motion on the merits within the meaning of this section.” after the period at the end of the second sentence.
+- **(2)** in subsection (c), by inserting “A motion made under this section that was denied after a court determination that a violation described in subsection (a)(2) was not a covered offense shall not be considered a denial after a complete review of the motion on the merits within the meaning of this section.” after the period at the end of the second sentence.
