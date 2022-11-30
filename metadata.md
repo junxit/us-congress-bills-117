@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 118
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 118
@@ -29,3 +29,4 @@ Authorizing the use of the rotunda of the Capitol for a ceremony to present Cong
 - 2022-11-30 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
 - 2022-11-30 — Pursuant to the provisions of H. Res. 1499, H. Con. Res. 118 is considered passed House. (consideration: CR H8660; text: CR H8660)
 - 2022-11-30 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6912)
+- 2022-12-01 — Message on Senate action sent to the House.
