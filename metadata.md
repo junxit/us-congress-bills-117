@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 100
 congress: 117
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 100
@@ -15,6 +15,12 @@ To provide for a resolution with respect to the unresolved disputes between cert
 ## Sponsor
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+
+## Cosponsors (3)
+
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -39,3 +45,19 @@ To provide for a resolution with respect to the unresolved disputes between cert
 - 2022-11-30 — Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
 - 2022-11-30 — Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
 - 2022-11-30 — The previous question was ordered pursuant to the rule.
+- 2022-12-01 — Amendment SA 6503 proposed by Senator Sullivan. (consideration: CR S6930-6931; text: CR S6930) In the nature of a substitute.
+- 2022-12-01 — Amendment SA 6503, under the order of 12/1/22, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 25 - 70. Record Vote Number: 370.
+- 2022-12-01 — Measure laid before Senate by unanimous consent. (consideration: CR S6929-6932)
+- 2022-12-01 — Message on Senate action sent to the House.
+- 2022-12-01 — Passed Senate, under the order of 12/1/22, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 80 - 15. Record Vote Number: 372.
+- 2022-12-01 — Passed/agreed to in Senate: Passed Senate, under the order of 12/1/22, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 80 - 15. Record Vote Number: 372.
+- 2022-12-01 — Roll call votes on amendments in Senate: Amendment SA 6503, under the order of 12/1/22, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 25 - 70. Record Vote Number: 370.
+- 2022-12-01 — Senate amendment not agreed to: Amendment SA 6503, under the order of 12/1/22, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 25 - 70. Record Vote Number: 370.
+- 2022-12-01 — Senate amendment proposed (on the floor): Amendment SA 6503 proposed by Senator Sullivan.
+- 2022-12-01 — Senate amendment submitted
+- 2022-12-02 — Became Public Law No: 117-216.
+- 2022-12-02 — Became Public Law No: 117-216.
+- 2022-12-02 — Presented to President.
+- 2022-12-02 — Presented to President.
+- 2022-12-02 — Signed by President.
+- 2022-12-02 — Signed by President.
