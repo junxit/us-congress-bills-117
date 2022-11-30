@@ -1,7 +1,7 @@
 ---
 measure: S. 4337
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4337
@@ -34,3 +34,5 @@ Military Spouse Employment Act
 - 2022-10-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 10/14/2022 with an amendment in the nature of a substitute. With written report No. 117-178.
 - 2022-10-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 10/14/2022 with an amendment in the nature of a substitute. With written report No. 117-178.
 - 2022-10-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 528.
+- 2022-11-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6911-6912; text: CR S6911)
+- 2022-11-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
