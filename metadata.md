@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5455
 congress: 117
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5455
@@ -25,9 +25,10 @@ Terry Technical Correction Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Terry Technical Correction Act
 - 2022-11-29 — Placed on the Union Calendar, Calendar No. 425.
 - 2022-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-586.
 - 2022-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-586.
+- 2022-11-30 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
