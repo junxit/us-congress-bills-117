@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1495
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1495
@@ -25,3 +25,6 @@ Designating the caucus room in the Cannon House Office Building as the "Speaker 
 - 2022-11-29 — Introduced in House
 - 2022-11-29 — Introduced in House
 - 2022-11-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2022-11-30 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1499, H. Res. 1495 is considered passed House.(consideration: CR H8660; text: CR H8660)
+- 2022-11-30 — Pursuant to the provisions of H. Res. 1499, H. Res. 1495 is considered passed House. (consideration: CR H8660; text: CR H8660)
+- 2022-11-30 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
