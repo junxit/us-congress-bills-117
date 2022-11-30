@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 100
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 100
