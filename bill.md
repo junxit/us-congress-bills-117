@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as “The Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022”.
+This Act may be cited as the “Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022”.
 
 ## § 2. Outcomes dashboard
 
@@ -96,7 +96,7 @@ Section 511(d)(1) of the Social Security Act (42 U.S.C. 711(d)(1)) is amended—
     - **(B)** by striking “and” at the end; and
   - **(3)** by striking subparagraph (B) and inserting the following:
     > - **(B)** 2 percent of such amount for purposes of providing technical assistance, directly or through grants or contracts, for purposes as otherwise described in subsections (c)(5), (d)(1)(C)(iii), (d)(1)(E)(iii), and (d)(4)(E);
-    > - **(C)** 2 percent of such amount for purposes of workforce support, retention, and case management, including workforce-related technical assistance, research and evaluation, and program administration, directly or through grants or contracts; and
+    > - **(C)** 2 percent of such amount for purposes of workforce support, retention, and case management, including workforce-related technical assistance, research and evaluation, and program administration, directly or through grants or contracts, of which the Secretary shall use not more than $1,500,000 to establish and operate the Jackie Walorski Center for Evidence-Based Case Management; and
     > - **(D)** 3 percent of such amount for purposes of research and evaluation (directly or through grants or contracts), and for administering this section (directly, through contracts, or otherwise).
 
 - **(c)** *Appropriations* Section 511(j)(1) of such Act (42 U.S.C. 711(j)(1)) is amended by striking subparagraphs (A) through (H) and inserting the following:
@@ -107,7 +107,7 @@ Section 511(d)(1) of the Social Security Act (42 U.S.C. 711(d)(1)) is amended—
   > - **(E)** for fiscal year 2027, $800,000,000, of which $500,000,000 shall be for base grants and $300,000,000 shall be for matching grants.
 
 - **(d)** *Disposition of excess funds reserved for research, evaluation, and administration* Section 511(j) of such Act (42 U.S.C. 711(j)) is amended by adding at the end the following:
-  > - **(3)** *Disposition of excess funds reserved for research, evaluation, and administration* To the extent that the amounts reserved under paragraph (2)(D) for a fiscal year are not obligated in the fiscal year, the Secretary may use the funds for any purpose described in this section or to offset any reduction with respect to this section that is required by Federal law.
+  > - **(5)** *Disposition of excess funds reserved for research, evaluation, and administration* To the extent that the amounts reserved under paragraph (2)(D) for a fiscal year are not obligated in the fiscal year, the Secretary may use the funds for any purpose described in this section or to offset any reduction with respect to this section that is required by Federal law.
 
 ## § 4. Requirement that home visiting programs be targeted and intensive
 
@@ -171,7 +171,7 @@ Section 511(h) of the Social Security Act (42 U.S.C. 711(h)) is amended by addin
 
 - **(a)** *Virtual home visits*
   - **(1)** *Application requirements* Section 511(e) of the Social Security Act (42 U.S.C. 711(e)) is amended by redesignating paragraph (10) as paragraph (11) and inserting after paragraph (9) the following:
-    > - **(10)** at the option of the eligible entity—
+    > - **(10)** At the option of the eligible entity—
     >   - **(A)** a description of any limitations or constraints on virtual home visits under the program, including—
     >     - **(i)** a description of the plan of the eligible entity to encourage in-person home visits; and
     >     - **(ii)** a description of the considerations to be used in determining when a virtual home visit is appropriate, including client consent, client preference, geographic limitations, model fidelity, and hazardous conditions including public health emergencies, weather events, health concerns for home visitors and client families, and other local issues;
