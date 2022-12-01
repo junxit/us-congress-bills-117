@@ -2,45 +2,38 @@
 legis-num: H.R. 1193
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1193
 
-> To amend title IV of the Public Health Service Act to direct the Director of the National Institutes of Health, in consultation with the Director of the National Heart, Lung, and Blood Institute, to establish a program under which the Director of the National Institutes of Health shall support or conduct research on valvular heart disease, and for other purposes.
+That the bill from the House of Representatives (H.R. 1193) entitled “An Act to amend title IV of the Public Health Service Act to direct the Director of the National Institutes of Health, in consultation with the Director of the National Heart, Lung, and Blood Institute, to establish a program under which the Director of the National Institutes of Health shall support or conduct research on valvular heart disease, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Cardiovascular Advances in Research and Opportunities Legacy Act”.
 
-## § 2. Grants for valvular heart disease research
+## § 2. HHS valvular heart disease activities
 
-Subpart 2 of part C of title IV of the Public Health Service Act (42 U.S.C. 285b et seq.) is amended by inserting after section 424C (42 U.S.C. 285b–7c) the following:
-
-> ## § 424D. Grants for valvular heart disease research
->
-> - **(a)** *In general* The Director of the National Institutes of Health, in consultation with the Director of the Institute, shall support or conduct research regarding valvular heart disease.
-> - **(b)** *Support guidelines* The distribution of funding authorized under subsection (a) may be used to pursue the following outcomes:
->   - **(1)** Using precision medicine and advanced technological imaging to generate data on individuals with valvular heart disease.
->   - **(2)** Identifying and developing a cohort of individuals with valvular heart disease and available data.
->   - **(3)** Corroborating data generated through clinical trials to develop a prediction model to distinguish individuals at high risk for sudden cardiac arrest or sudden cardiac death from valvular heart disease.
->   - **(4)** For other outcomes needed to acquire necessary data on valvular heart disease.
-> - **(c)** *Mitral valve prolapse workshop* Not later than one year after the date of the enactment of this section, the Director of the Institute shall convene a workshop composed of subject matter experts and stakeholders to identify research needs and opportunities to develop prescriptive guidelines for treatment of individuals with mitral valve prolapse.
-> - **(d)** *Authorization of appropriations* For the purpose of carrying out this section, there is authorized to be appropriated $20,000,000 for each of fiscal years 2022 through 2026.
-
-## § 3. Programs of Centers for Disease Control and Prevention
-
-Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 312 the following section:
-
-> ## § 312A. Prevention of sudden cardiac death as a result of valvular heart disease
->
-> - **(a)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may carry out projects to increase education, awareness, or diagnosis of valvular heart disease and to reduce the incidence of sudden cardiac death caused by valvular heart disease. Such projects may be carried out by the Secretary directly or through awards of grants or contracts to public or nonprofit private entities. The Secretary may directly (or through such awards) provide technical assistance with respect to the planning, development, and operation of such projects.
-> - **(b)** *Certain activities* Upon availability of applicable data, projects carried out under subsection (a) may include—
->   - **(1)** continuing the activities at the Division for Heart Disease and Stroke Prevention, including those related to valvular heart disease;
->   - **(2)** broadening the awareness of the public concerning the risk factors for, the symptoms of, and the public health consequences of valvular heart disease; and
->   - **(3)** enhancing surveillance of out-of-hospital cardiac arrests to improve patient outcomes.
-> - **(c)** *Grant prioritization* The Secretary may, in awarding grants or entering into contracts pursuant to subsection (a), give priority to entities seeking to carry out projects that target populations most impacted by valvular heart disease.
-> - **(d)** *Coordination of activities* The Secretary shall ensure that activities under this section are coordinated, as appropriate, with other agencies of the Public Health Service that carry out activities regarding valvular heart disease.
-> - **(e)** *Best practices* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
->   - **(1)** collect and analyze the findings of research conducted with respect to valvular heart disease; and
->   - **(2)** taking into account such findings, publish on the website of the Centers for Disease Control and Prevention best practices for physicians and other health care providers who provide care to individuals with valvular heart disease.
+- **(a)** *In general* The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall, as appropriate, continue activities related to research, education, and awareness of valvular heart diseases.
+- **(b)** *NIH research related to valvular heart diseases*
+  - **(1)** *In general* The Director of the National Institutes of Health, in consultation with the Director of the National Heart, Lung, and Blood Institute, may support or conduct research regarding valvular heart diseases.
+  - **(2)** *Support further research* In order to improve information on, and understanding of, causation and risk factors for valvular heart diseases, research conducted or supported under this subsection for such diseases may include the following:
+    - **(A)** Use of advanced technological imaging and other relevant methods to generate data related to valvular heart diseases.
+    - **(B)** Assessing potential risk factors for sudden cardiac arrest or sudden cardiac death from valvular heart diseases.
+    - **(C)** Other activities, as appropriate, in order to improve the availability of information on, and advance research related to, valvular heart diseases.
+  - **(3)** *Mitral valve prolapse workshop* Not later than 2 years after the date of enactment of this Act, the Director of the National Heart, Lung, and Blood Institute shall, as appropriate, convene a workshop composed of subject matter experts and stakeholders to identify research needs and opportunities to develop recommendations for the identification and treatment of individuals with mitral valve prolapse, including such individuals who may be at risk for sudden cardiac arrest or sudden cardiac death.
+- **(c)** *Prevention activities to improve awareness of sudden cardiac death as a result of valvular heart diseases*
+  - **(1)** *In general* The Secretary may carry out activities to increase education and awareness of valvular heart diseases in order to reduce the incidence of sudden cardiac death caused by such diseases. The Secretary may—
+    - **(A)** award grants or contracts to public or nonprofit private entities to carry out activities under this subsection; and
+    - **(B)** directly, or through grants or contracts, provide technical assistance with respect to such activities.
+  - **(2)** *Certain activities* Upon availability of applicable data, projects carried out under paragraph (1) may include—
+    - **(A)** continuing activities at the Centers for Disease Control and Prevention related to valvular heart diseases;
+    - **(B)** improving the awareness of the public concerning any risk factors for, the symptoms of, and the public health impact of, valvular heart diseases; and
+    - **(C)** enhancing public health data collection and improving the quality of such data, as appropriate, regarding cardiac arrests, including cardiac arrests that occur outside of the hospital.
+  - **(3)** *Grant prioritization* The Secretary may, in awarding grants or entering into contracts pursuant to paragraph (1), give priority to entities seeking to carry out projects for populations most impacted by valvular heart diseases.
+  - **(4)** *Coordination of activities* The Secretary shall, as appropriate, ensure that activities under this section are coordinated with other agencies and offices of the Department of Health and Human Services that carry out activities regarding valvular heart diseases.
+  - **(5)** *Best practices* The Secretary shall, as applicable and appropriate, identify and disseminate best practices for relevant health care providers related to valvular heart diseases.
+- **(d)** *Authorization of appropriations* For purposes of carrying out this section, there are authorized to be appropriated $28,000,000 for each of fiscal years 2023 through 2027.
