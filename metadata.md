@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9308
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9308
@@ -86,3 +86,12 @@ To designate the facility of the United States Postal Service located at 6401 El
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Referred to the House Committee on Oversight and Reform.
+- 2022-11-17 — Committee Consideration and Mark-up Session Held.
+- 2022-11-17 — Ordered to be Reported by the Yeas and Nays: 24 - 16.
+- 2022-11-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-29 — Considered under suspension of the rules. (consideration: CR H8637-8638; text: CR H8637)
+- 2022-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9308.
+- 2022-11-29 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-01 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended.(consideration: CR H8700-8701; text: CR H8700)
+- 2022-12-01 — Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended. (consideration: CR H8700-8701; text: CR H8700)
+- 2022-12-01 — Pursuant to the provisions of H. Res. 1499, proceedings on H.R. 9308 are considered vacated.
