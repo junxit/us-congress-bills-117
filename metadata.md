@@ -1,7 +1,7 @@
 ---
 measure: S. 4052
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4052
@@ -35,3 +35,5 @@ Early Hearing Detection and Intervention Act of 2022
 - 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
 - 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
 - 2022-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.
+- 2022-12-01 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6946; text: CR S6946)
+- 2022-12-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S6946; text: CR S6946)

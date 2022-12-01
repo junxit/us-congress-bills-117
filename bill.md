@@ -15,11 +15,12 @@ This Act may be cited as the “Early Hearing Detection and Intervention Act of 
 
 ## § 2. Reauthorization of program for early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children
 
-Section 399M(f) of the Public Health Service Act (42 U.S.C. 280g–1(f)) is amended—
+Section 399M of the Public Health Service Act (42 U.S.C. 280g–1) is amended—
 
-- **(1)** in paragraph (1), by striking “$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022” and inserting “$17,818,000 for each of fiscal years 2023 through 2027”;
-- **(2)** in paragraph (2), by striking “$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022” and inserting “$10,760,000 for each of fiscal years 2023 through 2027”; and
-- **(3)** in paragraph (3), by striking “fiscal years 2011 through 2015” and inserting “fiscal years 2023 through 2027”.
+- **(1)** in subsection (e), by inserting “(3)” before “The term medical evaluation”; and
+- **(2)** in subsection (f)—
+  - **(A)** in paragraph (1), by striking “$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022” and inserting “$17,818,000 for each of fiscal years 2023 through 2027”; and
+  - **(B)** in paragraph (2), by striking “$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022” and inserting “$10,760,000 for each of fiscal years 2023 through 2027”.
 
 ## § 3. GAO study on State early hearing detection and intervention programs
 
