@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1193
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1193
@@ -233,3 +233,12 @@ Cardiovascular Advances in Research and Opportunities Legacy Act
 - 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
 - 2022-07-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.
 - 2022-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.
+- 2022-12-01 — Amendment SA 6504 agreed to in Senate by Unanimous Consent.
+- 2022-12-01 — Amendment SA 6504 proposed by Senator King for Senator McConnell. (consideration: CR S6947; text: CR S6947) In the nature of a substitute.
+- 2022-12-01 — Measure laid before Senate by unanimous consent. (consideration: CR S6946-6947)
+- 2022-12-01 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6947)
+- 2022-12-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S6947)
+- 2022-12-01 — Senate amendment agreed to: Amendment SA 6504 agreed to in Senate by Unanimous Consent.
+- 2022-12-01 — Senate amendment proposed (on the floor): Amendment SA 6504 proposed by Senator King for Senator McConnell.
+- 2022-12-01 — Senate amendment submitted
+- 2022-12-01 — The committee substitute withdrawn by Unanimous Consent.
