@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5943
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5943
@@ -34,3 +34,12 @@ To designate the outpatient clinic of the Department of Veterans Affairs in Gree
 - 2021-11-09 — Introduced in House
 - 2021-11-09 — Introduced in House
 - 2021-11-09 — Referred to the House Committee on Veterans' Affairs.
+- 2021-11-29 — Referred to the Subcommittee on Health.
+- 2022-11-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-11-29 — Considered under suspension of the rules. (consideration: CR H8605-8607; text: CR H8605)
+- 2022-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5943.
+- 2022-11-29 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2022-12-01 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended.(consideration: CR H8696-8700; text: CR H8697)
+- 2022-12-01 — Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended. (consideration: CR H8696-8700; text: CR H8697)
+- 2022-12-01 — Pursuant to the provisions of H. Res. 1499, proceedings on H.R. 5943 are considered vacated.
+- 2022-12-01 — The title of the measure was amended. Agreed to without objection.
