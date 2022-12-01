@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4601
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 25 U.S.C. § 5304
+
+> The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “February 10, 2031”.
+
+| | |
+|---|---|
+| Removed | `January 14, 2031` |
+| Inserted | `February 10, 2031` |
 
 ## Stated, not applied
 
@@ -31,6 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating sections 6307 and 6308 and sections 6308 and 6309, respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 6306 the following new section 6307: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 63 of such title is amended by striking the items relating to sections 6307 and 6308 and inserting the following new items: | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 5304` | redesignate | by redesignating sections 6307 and 6308 and sections 6308 and 6309, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | insert | by inserting after section 6306 the following new section 6307: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | replace | The table of sections at the beginning of chapter 63 of such title is amended by striking the items relating to sections 6307 and 6308 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
