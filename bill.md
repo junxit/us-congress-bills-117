@@ -40,3 +40,8 @@ This Act may be cited as the “Long-Term Care Veterans Choice Act”.
   - **(1)** assessing the implementation of this section and the amendments made by this section;
   - **(2)** assessing the impact of the monitoring and modifications under subsection (b) on care provided under section 1720(h) of title 38, United States Code, as added by subsection (a)(1); and
   - **(3)** setting forth recommendations for improvements to the implementation of such section, as the Comptroller General considers appropriate.
+- **(d)** *Modification of certain housing loan fee* The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “February 15, 2031”.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
