@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4772
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -44,3 +44,11 @@ This Act may be cited as the “Mark O’Brien VA Clothing Allowance Improvement
 - **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to—
   - **(1)** claims for clothing allowance submitted on or after the date of the enactment of this Act; and
   - **(2)** claims for clothing allowance submitted prior to the date of the enactment of this Act, if the veteran who submitted such claim is in receipt of the clothing allowance as of the date of the enactment of this Act.
+
+## § 3. Adjustments of certain loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “January 15, 2031”.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
