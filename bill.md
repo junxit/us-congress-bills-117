@@ -11,58 +11,62 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “One Stop Shop Community Reentry Program Act of 2021”.
+This Act may be cited as the “One Stop Shop Community Reentry Program Act of 2022”.
 
 ## § 2. Community reentry center grant program
 
 - **(a)** *Program authorized* The Attorney General is authorized to carry out a grant program to make grants to eligible entities for the purpose of creating community reentry centers.
 - **(b)** *Application requirements* Each application for a grant under this section shall—
-  - **(1)** demonstrate a plan to work with community leaders who interact with formerly incarcerated people and their families to—
+  - **(1)** demonstrate a plan to work with community stakeholders who interact with formerly incarcerated people or individuals with a conviction record and their families to—
     - **(A)** identify specific strategies and approaches to providing reentry services;
     - **(B)** develop a needs assessment tool to survey or conduct focus groups with community members in order to identify—
-      - **(i)** the needs of individuals returning to the community after conviction or incarceration, and the barriers such individuals face; and
-      - **(ii)** the needs of the families and communities to which such individuals are returning; and
+      - **(i)** the needs of individuals after conviction or incarceration, and the barriers such individuals face; and
+      - **(ii)** the needs of the families and communities to which such individuals belong; and
     - **(C)** use the information gathered pursuant to subparagraph (B) to determine the reentry services to be provided by the community reentry center;
-  - **(2)** identify the correctional institutions from which individuals who are released from incarceration are likely to reenter the community served by the community reentry center, and develop a plan, if feasible, to provide transportation for such released individuals to the community reentry center, to the individual’s residence, or to a location where the individual is ordered by a court to report;
-  - **(3)** demonstrate a plan to provide accessible notice of the location of the reentry intake and coordination center and the services that it will provide (either directly or on a referral basis), including, where feasible, within and outside of correctional institutions identified under paragraph (1);
-  - **(4)** demonstrate a plan to provide intake and reentry needs assessment that is trauma-informed and gender-responsive after an individual is released from a correctional institution, or, in the case of an individual who is convicted of an offense and not sentenced to a term of imprisonment, after such conviction, and where feasible, before release, to ensure that the individuals served by the center are referred to appropriate reentry services based on the individual’s needs immediately upon release from a correctional institution or after conviction, and continuously thereafter as needed;
+  - **(2)** identify the institutions from which individuals who are released from incarceration are likely to reenter the community served by the community reentry center, and develop a plan, if feasible, to provide transportation for such released individuals to the community reentry center, to the individual’s residence, or to a location where the individual is ordered by a court to report;
+  - **(3)** demonstrate a plan to provide accessible notice of the location of the reentry intake and coordination center and the services that it will provide (either directly or on a referral basis), including, where feasible, within and outside of institutions identified under paragraph (1);
+  - **(4)** demonstrate a plan to provide intake and reentry needs assessment that is trauma-informed and gender-responsive after an individual is released from an institution, or, in the case of an individual who is convicted of an offense and not sentenced to a term of imprisonment, after such conviction, and where feasible, before release, to ensure that the individuals served by the center are referred to appropriate reentry services based on the individual’s needs immediately upon release from an institution or after conviction, and continuously thereafter as needed;
   - **(5)** demonstrate a plan to provide the reentry services identified in paragraph (1)(C);
   - **(6)** demonstrate a plan to continue to provide services (including through referral) for individuals served by the center who move to a different geographic area to ensure appropriate case management, case planning, and access to continuous or new services, where necessary, and based on consistent reevaluation of needs;
   - **(7)** identify specific methods that the community reentry center will employ to achieve performance objectives among the individuals served by the center, including—
     - **(A)** increased access to and participation in reentry services;
     - **(B)** reduction in recidivism rates;
     - **(C)** increased numbers of individuals obtaining and retaining employment;
-    - **(D)** increased enrollment in and degrees earned from educational programs, including high school, GED, and institutions of higher education;
-    - **(E)** increased numbers of individuals obtaining and maintaining housing; and
-    - **(F)** increased self-reports of successful community living, including stability of living situation and positive family relationships; and
+    - **(D)** increased enrollment in and degrees earned from educational programs, including high school or the equivalent thereof, and institutions of higher education, and receipt of professional or occupational licenses;
+    - **(E)** increased enrollment in vocational rehabilitation, technical schools, or vocational training;
+    - **(F)** increased numbers of individuals obtaining and maintaining permanent and stable housing; and
+    - **(G)** increased self-reports of successful community living, including stability of living situation and positive family relationships; and
   - **(8)** to the extent practicable, identify State, local, and private funds available to supplement the funds received under this section.
 - **(c)** *Preference* The Attorney General shall give preference to applicants that demonstrate that they seek to employ individuals who have been convicted of an offense, or served a term of imprisonment and have completed any court-ordered supervision, or that, to the extent allowable by law, employ such formerly incarcerated individuals in positions of responsibility.
 - **(d)** *Evaluation and report*
-  - **(1)** *Evaluation* The Attorney General shall enter into a contract with a nonprofit organization with expertise in analyzing data related to reentry services and recidivism to monitor and evaluate each recipient of a grant and each community reentry center receiving funds under this section on an ongoing basis.
-  - **(2)** *Administrative burden* The nonprofit organization described in paragraph (1) shall provide administrative support to assist recipients of grants authorized by this Act to comply with the conditions associated with the receipt of funding from the Department of Justice.
-  - **(3)** *Report* Not later than one year after the date on which grants are initially made under this section, and annually thereafter, the Attorney General shall submit to Congress a report on the program, which shall include—
+  - **(1)** *Evaluation* The Attorney General shall enter into an agreement with a nonprofit organization with expertise in analyzing data related to reentry services and recidivism to monitor and evaluate each recipient of funds under this section.
+  - **(2)** *Report* Not later than one year after the date on which grants are initially made under this section, and annually thereafter, the Attorney General shall submit to Congress a report on the program, which shall include—
     - **(A)** the number of grants made, the number of eligible entities receiving such grants, and the amount of funding distributed to each eligible entity pursuant to this section;
     - **(B)** the location of each eligible entity receiving such a grant, and the population served by the community reentry center;
     - **(C)** the number of persons who have participated in reentry services offered by a community reentry center, disaggregated by type of services, and success rates of participants in each service to the extent possible;
     - **(D)** the number of persons who have participated in reentry services for which they received a referral from a community reentry center, disaggregated by type of services, and success rates of participants in each service;
     - **(E)** recidivism rates within the population served by each community reentry center, both before and after receiving a grant under this section;
-    - **(F)** the numbers of individuals obtaining and retaining employment within the population served by each community reentry center, both before and after receiving a grant under this section; and
-    - **(G)** the number of individuals obtaining and maintaining housing within the population served by each community reentry center, both before and after receiving a grant under this section.
+    - **(F)** the numbers of individuals obtaining and retaining employment within the population served by each community reentry center, both before and after receiving a grant under this section;
+    - **(G)** the number of individuals obtaining and maintaining housing within the population served by each community reentry center, both before and after receiving a grant under this section;
+    - **(H)** the number of individuals enrolled in an educational program, including high school, or the equivalent thereof, and institutions of higher education, both before and after receiving a grant under this section;
+    - **(I)** the number of individuals enrolled in vocational rehabilitation, technical schools, or vocational training, both before and after receiving a grant under this section;
+    - **(J)** for each eligible entity receiving a grant under this section, the number of individuals employed who have been convicted of an offense, or served a term of imprisonment and have completed any court-ordered supervision, to include the number of formerly incarcerated individuals in positions of responsibility; and
+    - **(K)** other relevant information, which may include recommendations, if any, to improve the effectiveness and efficiency of the grant program under this section, and to address barriers faced by individuals receiving reentry services from community reentry centers.
 - **(e)** *Definitions* In this section:
-  - **(1)** *Community leader* The term community leader—
-    - **(A)** means an individual who serves the community in a leadership role; and
+  - **(1)** *Community stakeholder* The term community stakeholder—
+    - **(A)** means an individual who serves the community; and
     - **(B)** includes—
       - **(i)** a school official;
       - **(ii)** a faith leader;
       - **(iii)** a social service provider;
-      - **(iv)** a member of a neighborhood association;
+      - **(iv)** a leader of a neighborhood association;
       - **(v)** a public safety representative;
       - **(vi)** an employee of an organization that provides reentry services;
       - **(vii)** a member of a civic or volunteer group related to the provision of reentry services;
       - **(viii)** a health care professional; and
       - **(ix)** an employee of a State, local, or tribal government agency with expertise in the provision of reentry services.
   - **(2)** *Community reentry center* The term community reentry center means a center that—
-    - **(A)** offers intake, reentry needs assessments, case management, and case planning for reentry services for individuals returning to the community after conviction or incarceration;
+    - **(A)** offers intake, reentry needs assessments, case management, and case planning for reentry services for individuals after conviction or incarceration;
     - **(B)** provides the reentry services identified under subsection (b)(1)(C) at a single location; and
     - **(C)** provides referrals to appropriate service providers based on the assessment of needs of the individuals.
   - **(3)** *Eligible entity* The term eligible entity means a community-based nonprofit organization that—
@@ -72,30 +76,35 @@ This Act may be cited as the “One Stop Shop Community Reentry Program Act of 2
       - **(ii)** have been convicted of a criminal offense; and
       - **(iii)** return to such geographic area after incarceration.
   - **(4)** *Reentry services* The term reentry services—
-    - **(A)** means comprehensive and holistic services that improve outcomes for individuals returning to the community after conviction or incarceration; and
+    - **(A)** means comprehensive and holistic services that improve outcomes for individuals after conviction or incarceration; and
     - **(B)** includes—
-      - **(i)** seeking and maintaining employment, including through assistance with drafting resumes, establishing emails accounts, locating job solicitations, submitting of job applications, and preparing for interviews;
+      - **(i)** seeking and maintaining employment, including—
+        - **(I)** assistance with drafting resumes, establishing emails accounts, locating job solicitations, submitting of job applications, and preparing for interviews; and
+        - **(II)** securing any licenses, certifications, government-issued identifications, or other documentation necessary to obtain employment;
       - **(ii)** placement in job placement programs that partner with private employers;
-      - **(iii)** obtaining free and low-cost job skills classes, including computer skills, technical skills, vocational skills, and any other job-related skills;
-      - **(iv)** locating and maintaining housing, which may include counseling on public housing opportunities, assisting with applications for public housing benefits, locating and securing temporary or long-term shelter, and applying for home energy and utility assistance programs;
-      - **(v)** obtaining identification cards and driver’s licenses;
-      - **(vi)** registering to vote, and applying for voting rights to be restored, where permitted by law;
-      - **(vii)** applying for or accessing GED courses;
-      - **(viii)** applying for loans for and admission to institutions of higher education;
-      - **(ix)** financial counseling;
-      - **(x)** legal assistance or referrals for record expungement, forfeiture of property or assets, family law and custody matters, legal aid services (including other civil legal aid services), and relevant civil matters including housing and other issues;
-      - **(xi)** retrieving property or funds retained by the arresting agency or facility of incarceration, or retrieving property or funds obtained while incarcerated;
-      - **(xii)** transportation, including through provision of transit fare;
-      - **(xiii)** familial counseling;
-      - **(xiv)** problem-solving, in coordination with counsel where necessary, any difficulties in compliance with court-ordered supervision requirements, including restrictions on living with certain family members, contact with certain friends, bond requirements, location and residency restrictions, electronic monitoring compliance, court-ordered substance abuse, and other court-ordered requirements;
-      - **(xv)** communication needs, including providing a mobile phone, mobile phone service or access, or internet access;
-      - **(xvi)** applying for State or Federal government benefits, where eligible, and assisting in locating free or reduced cost food and sustenance benefits;
-      - **(xvii)** life skills assistance;
-      - **(xviii)** mentorship;
-      - **(xix)** medical and mental health services, and cognitive-behavioral programming;
-      - **(xx)** substance abuse treatment;
-      - **(xxi)** reactivation, application for, and maintenance of professional or other licenses; and
-      - **(xxii)** providing case management services, in connection with court-ordered terms of release, or other local publicly supported social work case management.
+      - **(iii)** obtaining free and low-cost job skills classes, including computer skills, technical skills, vocational skills, and any other job-related or other necessary skills;
+      - **(iv)** supporting preparation for postsecondary education, including academic counseling, peer mentoring, and community support;
+      - **(v)** locating and maintaining housing, which may include housing counseling, assisting with finding and securing affordable housing including in areas of opportunity, assisting with applications for subsidized housing and housing-related benefits, locating and identifying temporary shelter when housing cannot be found immediately, and applying for home energy and utility assistance programs;
+      - **(vi)** obtaining identification cards, driver’s licenses, replacement Social Security cards, birth certificates, and citizenship or immigration documentation;
+      - **(vii)** registering to vote, and applying for voting rights to be restored, where permitted by law;
+      - **(viii)** applying for or accessing high school equivalency classes, vocational rehabilitation, or technical courses;
+      - **(ix)** applying for loans for and admission to institutions of higher education;
+      - **(x)** financial counseling planning, empowerment, or coaching;
+      - **(xi)** legal assistance or referrals for record sealing or expungement, forfeiture of property or assets, family law and custody matters, legal aid services (including other civil legal aid services), and relevant civil matters including housing and other issues;
+      - **(xii)** retrieving property or funds retained by the arresting agency or facility of incarceration, or retrieving property or funds obtained while incarcerated;
+      - **(xiii)** transportation, including through provision of transit fare;
+      - **(xiv)** individual and familial counseling;
+      - **(xv)** problem-solving, in coordination with counsel where necessary, any difficulties in compliance with court-ordered supervision requirements, including restrictions on living with certain family members, contact with certain friends, bond requirements, location and residency restrictions, electronic monitoring compliance, court-ordered substance use disorder treatment, and other court-ordered requirements;
+      - **(xvi)** communication needs, including providing a mobile phone, mobile phone service or access, or internet access;
+      - **(xvii)** applying for State or Federal government benefits, where eligible, and assisting in locating free or reduced cost food and sustenance benefits;
+      - **(xviii)** life skills assistance;
+      - **(xix)** mentorship;
+      - **(xx)** medical and mental health services, and cognitive-behavioral programming;
+      - **(xxi)** substance use disorder treatment;
+      - **(xxii)** reactivation, application for, and maintenance of professional or other licenses;
+      - **(xxiii)** providing case management services, in connection with court-ordered terms of release, or other local publicly supported social work case management;
+      - **(xxiv)** safety planning with victims of domestic violence, dating violence, sexual assault, stalking, and human trafficking; and
+      - **(xxv)** applying for State Vocational Rehabilitation services for individuals with disabilities that may qualify or conduct an evaluation to determine whether they may be eligible or potentially eligible for vocational rehabilitation services.
   - **(5)** *Success rate* The term success rate means the rate of recidivism (as measured by a subsequent conviction or return to prison), job placement, permanent housing placement, or completion of certification, trade, or other education program.
 - **(f)** *Authorization of appropriations*
   - **(1)** *In general* There is authorized to be appropriated $10,000,000 for each of fiscal years 2022 through 2026 to carry out this section.
@@ -113,7 +122,7 @@ This Act may be cited as the “One Stop Shop Community Reentry Program Act of 2
     - **(A)** applicable Federal, State, Tribal, and local reentry services; and
     - **(B)** the unique barriers to successful reentry into the community after a person has been convicted or incarcerated;
   - **(4)** the hotline is accessible to—
-    - **(A)** individuals with limited English proficiency, where appropriate; and
+    - **(A)** individuals with limited English proficiency, consistent with applicable law; and
     - **(B)** individuals with disabilities;
   - **(5)** the hotline has the capability to engage with individuals using text messages.
 - **(c)** *Best practices* The Attorney General shall issue guidance to grant recipients on best practices for implementing the requirements of subsection (b).
