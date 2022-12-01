@@ -54,11 +54,9 @@ In this Act:
 
 - **(a)** *In general* The Director of the Bureau of Prisons shall ensure that appropriate services and programs, as described in subsection (b), are provided to women in custody, to address the health and safety needs of such women related to pregnancy and childbirth. The warden of each Bureau of Prisons facility that houses women shall ensure that these services and programs are implemented for women in custody at that facility.
 - **(b)** *Services and programs provided* The services and programs described in this subsection are the following:
-  - **(1)** *Access to complete appropriate health services for the life cycle of women* The Director of the Bureau of Prisons—
-    - **(A)** shall provide to each woman in custody—
-      - **(i)** pregnancy testing and testing for sexually transmitted diseases; and
-      - **(ii)** the option to decline such testing; and
-    - **(B)** at an inmate’s request, shall provide contraception.
+  - **(1)** *Access to complete appropriate health services for the life cycle of women* The Director of the Bureau of Prisons shall ensure that each woman of reproductive age in custody at a Bureau of Prisons facility—
+    - **(A)** has access to contraception and testing for pregnancy and sexually transmitted diseases, upon request of any such woman; and
+    - **(B)** is administered a pregnancy test on the date on which the woman enters the facility, which the woman may decline.
   - **(2)** *Compliance with protocols relating to health of a pregnant woman* On confirmation of the pregnancy of a woman in custody by clinical diagnostics and assessment, the chief health care professional of the Bureau of Prisons facility in which the woman is housed shall ensure that—
     - **(A)** a summary of all appropriate protocols directly pertaining to the safety and well-being of the woman are provided to the woman;
     - **(B)** such protocols are complied with; and
@@ -87,8 +85,9 @@ In this Act:
       - **(vii)** information and notification services for incarcerated parents regarding the risk of debt repayment obligations associated with their child’s participation in social welfare programs, including assistance under any State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or benefits under the supplemental nutrition assistance program, as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), or any State program carried out under that Act; and
       - **(viii)** information from the Office of Child Support Enforcement of the Department of Health and Human Services regarding seeking or modifying child support while incarcerated, including how to participate in the Bureau of Prison’s Inmate Financial Responsibility Program under subpart B of part 545 of title 28, Code of Federal Regulations (or any successor program).
     - **(B)** *Birth while in custody or prior to custody* A woman who, while in custody or during the 6-month period immediately preceding intake, gave birth or experienced any other pregnancy outcome shall receive counseling provided by a licensed or certified provider trained to provide such services, including—
-      - **(i)** information about the parental rights of the woman, including the right to place the child in kinship care, and notice of the rights of the child; and
-      - **(ii)** information about family preservation support services that are available to the woman.
+      - **(i)** information about the parental rights of the woman, including the right to place the child in kinship care, and notice of the rights of the child;
+      - **(ii)** information about family preservation support services that are available to the woman; and
+      - **(iii)** postpartum health conditions.
   - **(4)** *Evaluations*
     - **(A)** *In general* Each woman in custody who is pregnant or whose pregnancy results in a birth or any other pregnancy outcome during the 6-month period immediately preceding intake or any time in custody thereafter shall be evaluated as soon as practicable after intake or confirmation of pregnancy through evidence-based screening and assessment for substance use disorders or mental health conditions, including postpartum depression or depression related to pregnancy, birth, or any other pregnancy outcome or early child care.
     - **(B)** *Risk factors* Screening under subparagraph (A) shall include identification of any of the following risk factors:
@@ -215,4 +214,4 @@ The Comptroller General of the United States shall conduct a study of services a
 
 ## § 11. Determination of budgetary effects
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

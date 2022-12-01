@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6878
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6878
@@ -73,3 +73,24 @@ Pregnant Women in Custody Act
 - 2022-09-13 — Placed on the Union Calendar, Calendar No. 361.
 - 2022-09-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-465, Part I.
 - 2022-09-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-465, Part I.
+- 2022-11-30 — Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
+- 2022-12-01 — Amendment (A002) offered by Ms. Frankel, Lois. (consideration: CR H8693; text: CR H8693)
+- 2022-12-01 — Amendment agreed to by House: On agreeing to the Frankel, Lois amendment (A002) Agreed to by voice vote.
+- 2022-12-01 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-12-01 — Considered as unfinished business. (consideration: CR H8694-8695)
+- 2022-12-01 — Considered under the provisions of rule H. Res. 1499. (consideration: CR H8686-8693; text: CR H8687-8689)
+- 2022-12-01 — DEBATE - Pursuant to the provisions of H.Res. 1499, the House proceeded with 10 minutes of debate on the Lois Frankel amendment No. 1.
+- 2022-12-01 — DEBATE - The House proceeded with one hour of debate on H.R. 6878.
+- 2022-12-01 — House amendment agreed to: On agreeing to the Frankel, Lois amendment (A002) Agreed to by voice vote.
+- 2022-12-01 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-01 — House amendment offered
+- 2022-12-01 — House amendment offered
+- 2022-12-01 — House amendment offered/reported by: Amendment (A002) offered by Ms. Frankel, Lois.
+- 2022-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-01 — On agreeing to the Frankel, Lois amendment (A002) Agreed to by voice vote.
+- 2022-12-01 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-01 — On passage Passed by the Yeas and Nays: 324 - 90 (Roll no. 493).
+- 2022-12-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6878, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Fitzgerald demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-12-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 324 - 90 (Roll no. 493).
+- 2022-12-01 — Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
+- 2022-12-01 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
