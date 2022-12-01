@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1193
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1193
@@ -242,3 +242,15 @@ Cardiovascular Advances in Research and Opportunities Legacy Act
 - 2022-12-01 — Senate amendment proposed (on the floor): Amendment SA 6504 proposed by Senator King for Senator McConnell.
 - 2022-12-01 — Senate amendment submitted
 - 2022-12-01 — The committee substitute withdrawn by Unanimous Consent.
+- 2022-12-05 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 1193.
+- 2022-12-05 — Message on Senate action sent to the House.
+- 2022-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-05 — Mr. Pallone moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8755-8756)
+- 2022-12-05 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H8755)
+- 2022-12-05 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-244.
+- 2022-12-20 — Became Public Law No: 117-244.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.

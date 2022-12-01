@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1193
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1193
 
-That the bill from the House of Representatives (H.R. 1193) entitled “An Act to amend title IV of the Public Health Service Act to direct the Director of the National Institutes of Health, in consultation with the Director of the National Heart, Lung, and Blood Institute, to establish a program under which the Director of the National Institutes of Health shall support or conduct research on valvular heart disease, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title IV of the Public Health Service Act to direct the Director of the National Institutes of Health, in consultation with the Director of the National Heart, Lung, and Blood Institute, to establish a program under which the Director of the National Institutes of Health shall support or conduct research on valvular heart disease, and for other purposes.
 
 ## § 1. Short title
 
