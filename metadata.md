@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3372
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3372
@@ -52,3 +52,24 @@ One Stop Shop Community Reentry Program Act of 2021
 - 2022-11-25 — Placed on the Union Calendar, Calendar No. 424.
 - 2022-11-25 — Reported by the Committee on Judiciary. H. Rept. 117-584.
 - 2022-11-25 — Reported by the Committee on Judiciary. H. Rept. 117-584.
+- 2022-11-30 — Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
+- 2022-12-01 — Amendment (A002) offered by Ms. Scanlon. (consideration: CR H8686; text: CR H8686)
+- 2022-12-01 — Amendment agreed to by House: On agreeing to the Scanlon amendment (A002) Agreed to by voice vote.
+- 2022-12-01 — Amendment reported by the House Committee on Rules.
+- 2022-12-01 — Considered as unfinished business. (consideration: CR H8693-8694)
+- 2022-12-01 — Considered under the provisions of rule H. Res. 1499. (consideration: CR H8679-8686; text: CR H8679-8681)
+- 2022-12-01 — DEBATE - Pursuant to the provisions of H.Res. 1499, the House proceeded with 10 minutes of debate on the Scanlon amendment No. 1.
+- 2022-12-01 — DEBATE - The House proceeded with one hour of debate on H.R. 3372.
+- 2022-12-01 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-01 — House amendment agreed to: On agreeing to the Scanlon amendment (A002) Agreed to by voice vote.
+- 2022-12-01 — House amendment offered
+- 2022-12-01 — House amendment offered
+- 2022-12-01 — House amendment offered/reported by: Amendment (A002) offered by Ms. Scanlon.
+- 2022-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-01 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-01 — On agreeing to the Scanlon amendment (A002) Agreed to by voice vote.
+- 2022-12-01 — On passage Passed by the Yeas and Nays: 259 - 167 (Roll no. 492).
+- 2022-12-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3372, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-12-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 259 - 167 (Roll no. 492).
+- 2022-12-01 — Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
+- 2022-12-01 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
