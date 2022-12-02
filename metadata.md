@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8876
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8876
@@ -227,3 +227,14 @@ Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022
 - 2022-11-30 — Committee on Energy and Commerce discharged.
 - 2022-11-30 — Placed on the Union Calendar, Calendar No. 426.
 - 2022-11-30 — Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
+- 2022-12-02 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-12-02 — Considered under the provisions of rule H. Res. 1499. (consideration: CR H8713-8721)
+- 2022-12-02 — DEBATE - The House proceeded with one hour of debate on H.R. 8876.
+- 2022-12-02 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-02 — House amendment offered
+- 2022-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-02 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-02 — On passage Passed by the Yeas and Nays: 390 - 26 (Roll no. 500). (text: CR H8713-8715)
+- 2022-12-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 390 - 26 (Roll no. 500).
+- 2022-12-02 — Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
+- 2022-12-02 — The previous question was ordered pursuant to the rule.

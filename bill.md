@@ -196,7 +196,12 @@ Section 511(h) of the Social Security Act (42 U.S.C. 711(h)) is amended by addin
   - **(1)** *In general* A virtual home visit conducted before the effective date of the amendments made by this section under an early childhood home visitation program funded under section 511 of the Social Security Act shall be considered a home visit for purposes of such section.
   - **(2)** *Virtual home visit defined* In paragraph (1), the term virtual home visit means a visit conducted solely by use of electronic information and telecommunications technologies.
 
-## § 9. Effective date
+## § 9. Budget offset
 
-- **(a)** *In general* Except as provided in subsection (b), this Act and the amendments made by this Act shall take effect on October 1, 2022.
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$7,308,000,000” and inserting “$4,418,000,000”.
+
+## § 10. Effective date
+
+- **(a)** *In general* Except as provided in subsections (b) and (c), this Act and the amendments made by this Act shall take effect on October 1, 2022.
 - **(b)** *Virtual home visiting provisions* The amendments made by section 8 shall take effect on October 1, 2023.
+- **(c)** *Budget offset* The amendment made by section 9 shall take effect on the date of the enactment of this Act.
