@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8203
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8203
@@ -52,9 +52,10 @@ To designate the facility of the United States Postal Service located at 651 Bus
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ To designate the facility of the United States Postal Service located at 651 Bus
 - 2022-12-01 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended.
 - 2022-12-01 — Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended. (consideration: CR H8700-8701; text: CR H8700)
 - 2022-12-01 — Pursuant to the provisions of H. Res. 1499, proceedings on H.R. 8203 are considered vacated.
+- 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
