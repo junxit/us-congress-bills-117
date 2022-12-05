@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2662
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2662
@@ -83,3 +83,8 @@ Inspector General Independence and Empowerment Act of 2021
 - 2021-06-29 — The previous question was ordered on the amendment (A002) pursuant to the rule.
 - 2021-06-29 — The previous question was ordered on the amendment (A003) pursuant to the rule.
 - 2021-07-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-10-21 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-226.
+- 2022-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-226.
+- 2022-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
