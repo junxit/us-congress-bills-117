@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7331
 congress: 117
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7331
@@ -48,3 +48,5 @@ Improving Government for America's Taxpayers Act
 - 2022-07-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
 - 2022-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5955)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2022-07-13 — Received in the Senate.
+- 2022-12-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 583.
