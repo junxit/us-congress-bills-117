@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8876
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8876
@@ -206,10 +206,11 @@ Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Manning, Kathy E. [D-NC-6] (M001135)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -238,3 +239,4 @@ Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022
 - 2022-12-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 390 - 26 (Roll no. 500).
 - 2022-12-02 — Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
 - 2022-12-02 — The previous question was ordered pursuant to the rule.
+- 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on Finance.
