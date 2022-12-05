@@ -1,7 +1,7 @@
 ---
 measure: S. 4645
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,6 +36,13 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 211` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 211` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1304` | insert | The Tariff Act of 1930 (19 U.S.C. 1304 et seq.) is further amended by inserting after section 629A, as added by subsection (a)(1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1151` | insert | Title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.) is amended by inserting after section 274D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | The table of contents for the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended by inserting after the item relating to section 274D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 46306(d)(1) of title 49, United States Code, is amended by striking “or the Commissioner of U.S. Customs and Border Protection” and inserting “, the Commissioner of U.S. Customs and Border Protection, or the Director of U.S. Immi… | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 5928` | insert | Section 151 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246; 5 U.S.C. 5928 note) is amended by inserting “the Department of Homeland Security,” after “Investigation,”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 1304` | insert | The Tariff Act of 1930 (19 U.S.C. 1304 et seq.) is amended by inserting after section 629 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 211` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 211` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1151` | insert | Title II of the Immigration and Nationality Act (8 U.S.C. 1151 et seq.) is amended by inserting after section 274D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | The table of contents for the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) is amended by inserting after the item relating to section 274D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 46306(d)(1) of title 49, United States Code, is amended by striking “or the Commissioner of U.S. Customs and Border Protection” and inserting “, the Commissioner of U.S. Customs and Border Protection, or the Director of U.S. Immi… | the bill names no machine-readable US Code section |
