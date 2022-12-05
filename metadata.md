@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3544
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3544
@@ -41,3 +41,7 @@ COVS Act
 - 2022-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5960)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 117-224.
+- 2022-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 117-224.
+- 2022-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.
