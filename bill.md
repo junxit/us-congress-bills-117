@@ -62,7 +62,7 @@ In this Act:
   - **(4)** the Comptroller General of the United States;
   - **(5)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(6)** the Committee on Oversight and Reform of the House of Representatives.
-- **(d)** *Consultation* In order to ensure the utility and standardization of the comprehensive assessment of each agency, including to support the development of each plan and the governmentwide strategy described in section 5, the Director, in consultation with the Administrator, may share information, best practices, and recommendations relating to the activities performed in the course of a comprehensive assessment of an agency.
+- **(d)** *Consultation* In order to ensure the utility and standardization of the comprehensive assessment of each agency, including to support the development of each plan and the Government-wide strategy described in section 5, the Director, in consultation with the Administrator, may share information, best practices, and recommendations relating to the activities performed in the course of a comprehensive assessment of an agency.
 
 ## § 4. Enterprise Licensing Positioning at Agencies
 
@@ -86,10 +86,10 @@ In this Act:
 - **(c)** *Support* The Chief Information Officer, or other equivalent official, of an agency may request support from the Director and the Administrator for any analysis or developmental needs to create the plan of the agency.
 - **(d)** *Submission* Not later than 120 days after the date on which the Chief Information Officer, or other equivalent official, of an agency submits the comprehensive assessment pursuant to section 3(c), the head of the agency shall submit to the Director, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Reform of the House of Representatives the plan of the agency.
 
-## § 5. Governmentwide strategy
+## § 5. Government-wide strategy
 
 - **(a)** *In general* Not later than 2 years after the date of enactment of this Act, the Director, in consultation with the Administrator and the Federal Chief Information Officers Council, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a strategy that includes—
-  - **(1)** proposals to support the adoption of governmentwide enterprise licenses on the most widely used and most costly software entitlements identified through the comprehensive assessment and plans, including, where appropriate, a cost-benefit analysis;
+  - **(1)** proposals to support the adoption of Government-wide enterprise licenses on the most widely used and most costly software entitlements identified through the comprehensive assessment and plans, including, where appropriate, a cost-benefit analysis;
   - **(2)** opportunities to leverage Government procurement policies and practices to increase interoperability of software entitlements acquired and deployed to reduce costs and improve performance;
   - **(3)** the incorporation of data on spending by agencies on, the performance of, and management by agencies of software entitlements as part of the information required under section 11302(c)(3)(B) of title 40, United States Code;
   - **(4)** where applicable, directions to agencies to transition to open-source software to obtain cost savings and performance improvement; and
@@ -102,4 +102,4 @@ In this Act:
 
 ## § 6. GAO report
 
-Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on governmentwide trends, comparisons among agencies, and other analyses of plans and the strategy required under section 5(a) by the Comptroller General of the United States.
+Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on Government-wide trends, comparisons among agencies, and other analyses of plans and the strategy required under section 5(a) by the Comptroller General of the United States.
