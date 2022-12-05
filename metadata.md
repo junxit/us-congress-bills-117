@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2915
 congress: 117
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2915
@@ -52,3 +52,4 @@ HOPR Act
 - 2021-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6292-6293)
 - 2021-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6292-6293)
 - 2021-11-17 — Received in the Senate.
+- 2022-12-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.
