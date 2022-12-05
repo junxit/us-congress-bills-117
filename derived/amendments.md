@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8876
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
