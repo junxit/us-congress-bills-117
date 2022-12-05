@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4772
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4772
@@ -25,9 +25,10 @@ Mark O’Brien VA Clothing Allowance Improvement Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Mark O’Brien VA Clothing Allowance Improvement Act
 - 2022-12-01 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended.(consideration: CR H8696-8700; text: CR H8697)
 - 2022-12-01 — Pursuant to section 5 of H. Res. 1499, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 4601, as amended; H.R. 4772, as amended; H.R. 4899; H.R. 5943, as amended; H.R. 7158, as amended; H.R. 8203; H.R. 9308; and S. 3825; and the following resolutions were agreed to under suspension of the rules: H. Res. 744, as amended; and H. Res. 922, as amended. (consideration: CR H8696-8700; text: CR H8697)
 - 2022-12-01 — Pursuant to the provisions of H. Res. 1499, proceedings on H.R. 4772 are considered vacated.
+- 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
