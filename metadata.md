@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4785
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4785
@@ -98,9 +98,10 @@ To support the human rights of Uyghurs and members of other minority groups resi
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -119,3 +120,4 @@ To support the human rights of Uyghurs and members of other minority groups resi
 - 2022-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 17 (Roll no. 494). (text: 11/29/2022 CR H8633-8634)
 - 2022-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 17 (Roll no. 494).
 - 2022-12-01 — The title of the measure was amended. Agreed to without objection.
+- 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
