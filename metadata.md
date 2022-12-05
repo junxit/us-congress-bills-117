@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6878
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6878
@@ -55,10 +55,11 @@ Pregnant Women in Custody Act
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ Pregnant Women in Custody Act
 - 2022-12-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 324 - 90 (Roll no. 493).
 - 2022-12-01 — Rule provides for consideration of H.R. 3372, H.R. 6878, H.R. 8876 and H.J. Res. 100. The resolution provides for adoption of H. Res. 1495 and H. Con. Res. 118.
 - 2022-12-01 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
+- 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
