@@ -26,5 +26,9 @@ This Act may be cited as the “Transnational Criminal Investigative Unit Stipen
   >     - **(A)** the procedures used for vetting Transnational Criminal Investigative Unit members; and
   >     - **(B)** any additional measures that should be implemented to prevent personnel in vetted units from being compromised by criminal organizations.
   > - **(d)** *Monetary stipend* The Director of U.S. Immigration and Customs Enforcement is authorized to pay vetted members of a Transnational Criminal Investigative Unit a monetary stipend in an amount associated with their duties dedicated to unit activities.
+  > - **(e)** *Annual briefing* The Director of U.S. Immigration and Customs Enforcement, during the 5-year period beginning on the date of the enactment of this Act, shall provide an annual unclassified briefing to the congressional committees referred to in subsection (c)(2), which may include a classified session, if necessary, that identifies—
+  >   - **(1)** the number of vetted members of Transnational Criminal Investigative Unit in each country;
+  >   - **(2)** the amount paid in stipends to such members, disaggregated by country; and
+  >   - **(3)** relevant enforcement statistics, such as arrests and progress made on joint investigations, in each such country.
 
 - **(b)** *Clerical amendment* The table of contents for the Homeland Security Act of 2002 (6 U.S.C. note) is amended by inserting after the item relating to section 890B the following:
