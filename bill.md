@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 408
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,12 +11,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Department of Homeland Security Mentor-Protégé Program Act of 2021”.
+This Act may be cited as the “Department of Homeland Security Mentor-Protégé Program Act of 20212022”.
 
 ## § 2. Department of homeland security mentor-protégé program
 
 - **(a)** *In general* Subtitle H of title VIII of the Homeland Security Act of 2002 (6 U.S.C. 451 et seq.) is amended by adding at the end the following new section:
-  > ## § 890B. Mentor-protégé program
+  > ## § 890B890C. Mentor-protégé program
   >
   > - **(a)** *Establishment* There is established in the Department a mentor-protégé program (in this section referred to as the “Program”) under which a mentor firm enters into an agreement with a protégé firm for the purpose of assisting the protégé firm to compete for prime contracts and subcontracts of the Department.
   > - **(b)** *Eligibility* The Secretary shall establish criteria for mentor firms and protégé firms to be eligible to participate in the Program, including a requirement that a firm is not included on any list maintained by the Federal Government of contractors that have been suspended or debarred.
@@ -61,4 +61,4 @@ This Act may be cited as the “Department of Homeland Security Mentor-Protégé
   >     - **(B)** satisfies any other requirements imposed by the Secretary.
   >   - **(5)** *Small business act definitions* The terms small business concern, small business concern owned and controlled by veterans, small business concern owned and controlled by service-disabled veterans, qualified HUBZone small business concern, and small business concern owned and controlled by women have the meanings given such terms, respectively, under section 3 of the Small Business Act (15 U.S.C. 632). The term small business concern owned and controlled by socially and economically disadvantaged individuals has the meaning given such term in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).
 
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 890A the following new item:
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 890A890B the following new item:
