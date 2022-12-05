@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2521
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2521
@@ -26,9 +26,10 @@ To require the Secretary of Veterans Affairs to conduct a study on the feasabili
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To require the Secretary of Veterans Affairs to conduct a study on the feasabili
 - 2022-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 44 (Roll no. 497). (text: 11/29/2022 CR H8601-8602)
 - 2022-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 44 (Roll no. 497).
 - 2022-12-01 — The title of the measure was amended. Agreed to without objection.
+- 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
