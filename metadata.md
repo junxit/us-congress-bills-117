@@ -1,7 +1,7 @@
 ---
 measure: S. 4656
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4656
@@ -24,3 +24,7 @@ DHS Joint Task Forces Reauthorization Act of 2022
 
 - 2022-07-28 — Introduced in Senate
 - 2022-07-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 117-222.
+- 2022-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 117-222.
+- 2022-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 579.

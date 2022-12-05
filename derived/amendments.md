@@ -1,7 +1,7 @@
 ---
 measure: S. 4656
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -61,10 +61,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `6 U.S.C. § 348` | replace | by striking paragraph (8) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 348` | insert | in the heading, by inserting “Strategy and of” after “Establishment of”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 348` | insert | in the heading, by inserting “strategy and of” after “Establishment of”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 348` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 348` | insert | by inserting “strategy and” after “Senate the”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 348` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 348` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 348` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 348` | replace | in paragraph (11)(A), by striking the period at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 348` | replace | in subparagraph (B), by striking clauses (i) and (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
