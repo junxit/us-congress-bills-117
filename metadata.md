@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5943
 congress: 117
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5943
@@ -45,3 +45,14 @@ To designate the outpatient clinic of the Department of Veterans Affairs in Gree
 - 2022-12-01 — Pursuant to the provisions of H. Res. 1499, proceedings on H.R. 5943 are considered vacated.
 - 2022-12-01 — The title of the measure was amended. Agreed to without objection.
 - 2022-12-05 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7185)
+- 2022-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7185)
+- 2022-12-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-14 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-15 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-284.
+- 2022-12-27 — Became Public Law No: 117-284.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
