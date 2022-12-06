@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 9430
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9430
+
+> To amend the Honoring our PACT Act of 2022 to establish a maximum amount of attorney fees for suits against the United States relating to water at Camp Lejeune, North Carolina.
+
+## § 1. Short title
+
+This Act may be cited as the “Camp Lejeune Veterans and Families Protection Act”.
+
+## § 2. Maximum amount of attorney fees for suits against the United States relating to water at Camp Lejeune, North Carolina
+
+Section 804 of the Honoring our PACT Act of 2022 (Public Law 117–168; 28 U.S.C. 2671 note) is amended by adding at the end the following new subsection:
+
+> - **(k)** *Attorney fees and penalties* The limit on fees and the penalties under section 2678 of title 28, United States Code, shall apply with respect to actions under this section.
