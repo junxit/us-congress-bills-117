@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7946
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7946
@@ -77,3 +77,24 @@ Veteran Service Recognition Act of 2022
 - 2022-11-15 — Placed on the Union Calendar, Calendar No. 400.
 - 2022-11-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-558, Part I.
 - 2022-11-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-558, Part I.
+- 2022-12-06 — Amendment (A002) offered by Mr. Gonzalez, Vicente. (consideration: CR H8770-8771; text: CR H8770)
+- 2022-12-06 — Amendment agreed to by House: On agreeing to the Gonzalez, Vicente amendment (A002) Agreed to by the Yeas and Nays: 213 - 207 (Roll no. 502).
+- 2022-12-06 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-12-06 — Considered under the provisions of rule H. Res. 1508. (consideration: CR H8763-8773; text: CR H8763-8765)
+- 2022-12-06 — DEBATE - Pursuant to the provisions of H. Res. 1508, the House proceeded with 10 minutes of debate on the Vicente Gonzalez amendment no. 1.
+- 2022-12-06 — DEBATE - The House proceeded with one hour of debate on H.R. 7946.
+- 2022-12-06 — House amendment agreed to: On agreeing to the Gonzalez, Vicente amendment (A002) Agreed to by the Yeas and Nays: 213 - 207 (Roll no. 502).
+- 2022-12-06 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-06 — House amendment offered
+- 2022-12-06 — House amendment offered
+- 2022-12-06 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gonzalez, Vicente.
+- 2022-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-06 — On agreeing to the Gonzalez, Vicente amendment (A002) Agreed to by the Yeas and Nays: 213 - 207 (Roll no. 502).
+- 2022-12-06 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-06 — On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 503).
+- 2022-12-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 503).
+- 2022-12-06 — Roll call votes on amendments in House
+- 2022-12-06 — Rule H. Res. 1508 passed House.
+- 2022-12-06 — Rules Committee Resolution H. Res. 1508 Reported to House. The resolution provides for consideration of H.R. 3648, under a structured rule and H.R. 7946, under a structured rule. The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the remainder of the 117th Congress.
+- 2022-12-06 — The previous question was ordered on the amendment (A002) and on the bill pursuant to the rule.
+- 2022-12-06 — The resolution provides consideration of H.R. 3648, under a structured rule and H.R. 7946, under a structured rule. The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the remainder of the 117th Congress.
