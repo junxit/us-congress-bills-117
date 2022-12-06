@@ -1,7 +1,7 @@
 ---
 measure: S. 5016
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5016
@@ -28,3 +28,7 @@ Colonel Mary Louise Rasmuson Campus of the Alaska VA Healthcare System Act of 20
 
 - 2022-09-29 — Introduced in Senate
 - 2022-09-29 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7008; text: CR S7008)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7008; text: CR S7008)
+- 2022-12-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-06 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
