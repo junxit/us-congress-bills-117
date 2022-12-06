@@ -1,7 +1,7 @@
 ---
 measure: S. 3903
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3903
@@ -35,3 +35,5 @@ A bill to require the Commissioner of U.S. Customs and Border Protection to esta
 - 2022-10-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 10/14/2022 with an amendment in the nature of a substitute. With written report No. 117-176.
 - 2022-10-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 10/14/2022 with an amendment in the nature of a substitute. With written report No. 117-176.
 - 2022-10-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
+- 2022-12-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7007-7008)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
