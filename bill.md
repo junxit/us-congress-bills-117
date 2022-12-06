@@ -153,3 +153,7 @@ In this Act:
 - **(5)** *Immigration laws* The term immigration laws has the meaning given that term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
 - **(6)** *Noncitizen* The term noncitizen means an individual who is not a citizen or national of the United States (as defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a))).
 - **(7)** *Veteran* The term veteran has the meaning given such term in section 101 of title 38, United States Code.
+
+## § 10. Regulations
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland shall promulgate regulations to implement this Act.
