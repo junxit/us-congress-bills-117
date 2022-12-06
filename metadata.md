@@ -1,7 +1,7 @@
 ---
 measure: S. 2607
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2607
@@ -101,3 +101,19 @@ Iran Hostages Congressional Gold Medal Act
 - 2022-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2022-12-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
 - 2022-12-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2022-12-07 — Held at the desk.
+- 2022-12-07 — Message on Senate action sent to the House.
+- 2022-12-07 — Received in the House.
+- 2022-12-14 — Considered under suspension of the rules. (consideration: CR H9815-9817)
+- 2022-12-14 — DEBATE - The House proceeded with forty minutes of debate on S. 2607.
+- 2022-12-14 — DEBATE - The House resumed debate on S. 2607.
+- 2022-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-14 — Mr. Auchincloss moved to suspend the rules and pass the bill.
+- 2022-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9815-9816)
+- 2022-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-320.
+- 2022-12-27 — Became Public Law No: 117-320.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
