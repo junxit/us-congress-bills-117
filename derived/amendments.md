@@ -1,7 +1,7 @@
 ---
 measure: S. 1687
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 1687
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1687
@@ -51,3 +51,13 @@ Small Business Cyber Training Act of 2022
 - 2022-12-06 — Passed/agreed to in House: Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended.
 - 2022-12-06 — Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended. (consideration: CR H8773-8775; text: CR H8774)
 - 2022-12-06 — Pursuant to the provisions of H. Res. 1508, proceedings on S. 1687 are considered vacated.
+- 2022-12-07 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-12-14 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1687 by Unanimous Consent.
+- 2022-12-14 — Senate agreed to the House amendment to S. 1687 by Unanimous Consent.
+- 2022-12-15 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-319.
+- 2022-12-27 — Became Public Law No: 117-319.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
