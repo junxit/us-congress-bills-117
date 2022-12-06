@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7077
 congress: 117
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7077
@@ -81,3 +81,11 @@ Empowering the U.S. Fire Administration Act
 - 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-195.
 - 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-195.
 - 2022-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.
+- 2022-12-06 — Amendment SA 6505 agreed to in Senate by Unanimous Consent.
+- 2022-12-06 — Amendment SA 6505 proposed by Senator Hassan for Senator Peters. (consideration: CR S7003; text: CR S7003) In the nature of a substitute.
+- 2022-12-06 — Measure laid before Senate by unanimous consent. (consideration: CR S7003)
+- 2022-12-06 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7003)
+- 2022-12-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7003)
+- 2022-12-06 — Senate amendment agreed to: Amendment SA 6505 agreed to in Senate by Unanimous Consent.
+- 2022-12-06 — Senate amendment proposed (on the floor): Amendment SA 6505 proposed by Senator Hassan for Senator Peters.
+- 2022-12-06 — Senate amendment submitted
