@@ -2,25 +2,11 @@
 legis-num: S. 198
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 198
 
-> To require the Federal Communications Commission to incorporate data on maternal health outcomes into its broadband health maps.
+That the bill from the Senate (S. 198) entitled “An Act to require the Federal Communications Commission to incorporate data on maternal health outcomes into its broadband health maps.”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Data Mapping to Save Moms' Lives Act”.
-
-## § 2. Mapping broadband connectivity and maternal health outcomes
-
-- **(a)** *Incorporation of maternal health outcome data* The Federal Communications Commission shall incorporate data on maternal health outcomes for not less than 1 year postpartum, as recommended by the Centers for Disease Control and Prevention under subsection (b), into the most recently available broadband health mapping tools of the Commission.
-- **(b)** *Consultation with CDC* The Federal Communications Commission shall consult with the Centers for Disease Control and Prevention regarding the maternal health outcomes that should be incorporated into the most recently available broadband health mapping tools of the Commission under subsection (a).
-
-## § 3. GAO study
-
-Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall study and submit to Congress a report on—
-
-- **(1)** the effectiveness of internet connectivity in reducing maternal morbidity rates; and
-- **(2)** who is best suited to take responsibility for ensuring better internet connectivity to reduce maternal morbidity rates.
+*Strike out all after the enacting clause and insert:*

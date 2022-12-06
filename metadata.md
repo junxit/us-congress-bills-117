@@ -1,7 +1,7 @@
 ---
 measure: S. 198
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 198
@@ -48,3 +48,14 @@ Data Mapping to Save Moms' Lives Act
 - 2022-02-03 — By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-65.
 - 2022-03-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S958; text: CR S958)
 - 2022-03-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S958; text: CR S958)
+- 2022-03-03 — Message on Senate action sent to the House.
+- 2022-03-07 — Held at the desk.
+- 2022-03-07 — Received in the House.
+- 2022-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-05 — Considered under suspension of the rules. (consideration: CR H8735-8736)
+- 2022-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 198.
+- 2022-12-05 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2022-12-06 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-12-06 — Passed/agreed to in House: Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended.
+- 2022-12-06 — Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended. (consideration: CR H8773-8775; text: CR H8774)
+- 2022-12-06 — Pursuant to the provisions of H. Res. 1508, proceedings on S. 198 are considered vacated.
