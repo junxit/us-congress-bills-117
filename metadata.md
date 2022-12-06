@@ -1,7 +1,7 @@
 ---
 measure: S. 1687
 congress: 117
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1687
@@ -41,3 +41,13 @@ Small Business Cyber Training Act of 2022
 - 2022-05-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 393.
 - 2022-09-28 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5165-5166; text: CR S5165-5166)
 - 2022-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5165-5166; text: CR S5165-5166)
+- 2022-09-29 — Held at the desk.
+- 2022-09-29 — Message on Senate action sent to the House.
+- 2022-09-29 — Received in the House.
+- 2022-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-05 — Considered under suspension of the rules. (consideration: CR H8740-8741)
+- 2022-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 1687.
+- 2022-12-05 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2022-12-06 — Passed/agreed to in House: Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended.
+- 2022-12-06 — Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended. (consideration: CR H8773-8775; text: CR H8774)
+- 2022-12-06 — Pursuant to the provisions of H. Res. 1508, proceedings on S. 1687 are considered vacated.
