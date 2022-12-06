@@ -2,32 +2,43 @@
 legis-num: H.R. 7077
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 7077
 
-> To require the United States Fire Administration to conduct on-site investigations of major fires, and for other purposes.
+That the bill from the House of Representatives (H.R. 7077) entitled “An Act to require the United States Fire Administration to conduct on-site investigations of major fires, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Empowering the U.S. Fire Administration Act”.
 
-## § 2. Fire investigations
+## § 2. Fire safety investigations
 
 The Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2201 et seq.) is amended by adding at the end the following:
 
 > ## § 38. Investigation authorities
 >
-> - **(a)** *In general* In the case of any major fire, the Administrator may send incident investigators, which may include safety specialists, fire protection engineers, codes and standards experts, researchers, and fire training specialists, to the site of the fire to conduct an investigation as described in subsection (b).
-> - **(b)** *Investigation required* A fire investigation conducted under this section—
->   - **(1)** shall be conducted in coordination and cooperation with appropriate Federal, State, and local authorities, including Federal agencies that are authorized to investigate a major fire or an incident of which the major fire is a part; and
->   - **(2)** shall examine the determined cause and origin of the fire and assess broader systematic matters to include use of codes and standards, demographics, structural characteristics, smoke and fire dynamics (movement) during the event, and costs of associated injuries and deaths.
-> - **(c)** *Report* Upon concluding any fire investigation under this section, the Administrator shall issue a public report to local, State, and Federal authorities on the findings of such investigation, or collaborate with another investigating Federal agency on that agency’s report, including recommendations on—
->   - **(1)** any other buildings with similar characteristics that may bear similar fire risks;
->   - **(2)** improving tactical response to similar fires;
->   - **(3)** improving civilian safety practices;
->   - **(4)** assessing the costs and benefits to the community of adding fire safety features; and
->   - **(5)** how to mitigate the causes of such fire.
-> - **(d)** *Discretionary authority* In addition to investigations conducted pursuant to subsection (a), the Administrator may send fire investigators to conduct investigations at the site of any fire with unusual or remarkable context that results in losses less severe than those occurring as a result of a major fire, in coordination with appropriate Federal, State, and local authorities, including Federal agencies that are authorized to investigate a major fire or an incident of which the major fire is a part.
-> - **(e)** *Major fire defined* For purposes of this section, the term “major fire” shall have the meaning given such term under regulations to be issued by the Administrator.
+> - **(a)** *In general* In the case of a major fire, the Administrator may send incident investigators, which may include safety specialists, fire protection engineers, codes and standards experts, researchers, and fire training specialists, to the site of the fire to conduct a fire safety investigation as described in subsection (b).
+> - **(b)** *Investigation required* A fire safety investigation conducted under this section—
+>   - **(1)** shall be conducted in coordination and cooperation with appropriate Federal, State, local, Tribal, and territorial authorities, including Federal agencies that are authorized to investigate any fire; and
+>   - **(2)** shall examine the previously determined cause and origin of the fire and assess broader systematic matters to include use of codes and standards, demographics, structural characteristics, smoke and fire dynamics (movement) during the event, and costs of associated injuries and deaths.
+> - **(c)** *Report*
+>   - **(1)** *In general* Subject to paragraph (2), upon concluding any fire safety investigation under this section, the Administrator shall—
+>     - **(A)** issue a public report to the appropriate Federal, State, local, Tribal, and territorial authorities on the findings of such investigation; or
+>     - **(B)** collaborate with another investigating Federal, State, local, Tribal, or territorial agency on the report of that agency.
+>   - **(2)** *Exception* If the Administrator, in consultation with appropriate Federal, State, local, Tribal, and territorial authorities determines that issuing a report under paragraph (1) would have a negative impact on a potential or ongoing criminal investigation, the Administrator is not required to issue such report.
+>   - **(3)** *Contents* Each public report issued under paragraph (1) shall include recommendations on—
+>     - **(A)** any other buildings with similar characteristics that may bear similar fire risks;
+>     - **(B)** improving tactical response to similar fires;
+>     - **(C)** improving civilian safety practices;
+>     - **(D)** assessing the costs and benefits to the community of adding fire safety features; and
+>     - **(E)** how to mitigate the causes of the fire.
+> - **(d)** *Discretionary authority* In addition to a fire safety investigation conducted pursuant to subsection (a), provided doing so would not have a negative impact on a potential or ongoing criminal investigation, the Administrator may send fire investigators to conduct a fire safety investigation at the site of any fire with unusual or remarkable context that results in losses less severe than those occurring as a result of a major fire, in coordination and cooperation with the appropriate Federal, State, local, Tribal, and territorial authorities, including Federal agencies that are authorized to investigate the fire.
+> - **(e)** *Construction* Nothing in this section shall be construed to—
+>   - **(1)** affect or otherwise diminish the authorities or the mandates vested in other Federal agencies;
+>   - **(2)** grant the Administrator authority to investigate a major fire for the purpose of an enforcement action or criminal prosecution; or
+>   - **(3)** require the Administrator to send investigators or issue a report for a major fire when the Administrator, in coordination and cooperation with the appropriate Federal, State, local, Tribal, and territorial authorities, determine that it may compromise a potential or ongoing criminal investigation.
+> - **(f)** *Major fire defined* For purposes of this section, the term major fire shall have the meaning given such term under regulations to be issued by the Administrator.
