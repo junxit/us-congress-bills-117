@@ -1,7 +1,7 @@
 ---
 measure: S. 3388
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3388
@@ -28,3 +28,7 @@ Veterans Benefits Improvement Act of 2021
 
 - 2021-12-14 — Introduced in Senate
 - 2021-12-14 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2021-12-15 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-06 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2022-12-06 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2022-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 589.
