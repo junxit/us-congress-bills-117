@@ -1,7 +1,7 @@
 ---
 measure: S. 198
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 198
@@ -59,3 +59,12 @@ Data Mapping to Save Moms' Lives Act
 - 2022-12-06 — Passed/agreed to in House: Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended.
 - 2022-12-06 — Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended. (consideration: CR H8773-8775; text: CR H8774)
 - 2022-12-06 — Pursuant to the provisions of H. Res. 1508, proceedings on S. 198 are considered vacated.
+- 2022-12-13 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 198 by Unanimous Consent.
+- 2022-12-13 — Senate agreed to the House amendment to S. 198 by Unanimous Consent. (consideration: CR S7149)
+- 2022-12-14 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-20 — Became Public Law No: 117-247.
+- 2022-12-20 — Became Public Law No: 117-247.
+- 2022-12-20 — Signed by President.
+- 2022-12-20 — Signed by President.
