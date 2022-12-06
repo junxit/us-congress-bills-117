@@ -1,7 +1,7 @@
 ---
 measure: S. 3773
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3773
@@ -28,3 +28,8 @@ A bill to authorize leases of up to 99 years for land held in trust for the Conf
 
 - 2022-03-08 — Introduced in Senate
 - 2022-03-08 — Read twice and referred to the Committee on Indian Affairs.
+- 2022-03-23 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-360.
+- 2022-05-18 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-06 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-233.
+- 2022-12-06 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-233.
+- 2022-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 591.
