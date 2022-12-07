@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6707
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,11 +35,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (n), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “provided in section 8(e) and section 5(d)(4)” and inserting “otherwise provided in this Act”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Except as otherwise provided in this Act, the” and inserting “The”; | the bill names no machine-readable US Code section |
-| — | insert | in the first sentence, by inserting “or enacted for the benefit of” before “Indians, Indian nations”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Except as other wise provided in this Act, the” and inserting “The”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or enacted for the benefit of” before “Indians, Indian nations” the second place it appears; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “that is in effect as of the date of the enactment of the Advancing Equality for Wabanaki Nations Act, (2)” after “United States (1)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “also (2)” and inserting “also (3)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, unless Federal law or the State laws of Maine provide for the application of such Federal law or regulation” after “State” and before the period at the end. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, unless Federal law or the State laws of Maine provide for the application of such Federal law or regulation” before the period at the end. | the bill names no machine-readable US Code section |
 | — | replace | by striking “or” after “Passamaquoddy Tribe” and inserting a comma; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, the Houlton Band of Maliseet Indians, or the Mi’kmaq Nation” after “Penobscot Nation”; and | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “respective tribe or nation” each place it appears and inserting “respective tribe, nation, or band”; | the bill names no machine-readable US Code section |
