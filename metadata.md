@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6438
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6438
@@ -16,9 +16,10 @@ Dearfield Study Act
 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Crow, Jason [D-CO-6] (C001121)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ Dearfield Study Act
 - 2022-01-20 — Introduced in House
 - 2022-01-20 — Introduced in House
 - 2022-01-20 — Referred to the House Committee on Natural Resources.
+- 2022-01-25 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-07-14 — Subcommittee Hearings Held.
+- 2022-07-20 — Committee Consideration and Mark-up Session Held.
+- 2022-07-20 — Ordered to be Reported by Unanimous Consent.
+- 2022-07-20 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-12-07 — Placed on the Union Calendar, Calendar No. 433.
+- 2022-12-07 — Reported by the Committee on Natural Resources. H. Rept. 117-600.
+- 2022-12-07 — Reported by the Committee on Natural Resources. H. Rept. 117-600.
