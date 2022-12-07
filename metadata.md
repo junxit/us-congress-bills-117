@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 851
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 851
@@ -29,3 +29,7 @@ A resolution celebrating the 45th anniversary of the Senate Black Legislative St
 
 - 2022-11-29 — Introduced in Senate
 - 2022-11-29 — Referred to the Committee on Rules and Administration.
+- 2022-12-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7041; text: 11/29/2022 CR S6861-6862)
+- 2022-12-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7041; text: 11/29/2022 CR S6861-6862)
+- 2022-12-07 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2022-12-07 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
