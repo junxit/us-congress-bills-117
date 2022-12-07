@@ -1,7 +1,7 @@
 ---
 measure: S. 789
 congress: 117
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 789
@@ -24,9 +24,10 @@ RESPECT Act
 - Sen. Lujan, Ben Ray [D-NM] (L000570)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,11 @@ RESPECT Act
 - 2021-05-28 — Message on Senate action sent to the House.
 - 2021-05-28 — Received in the House.
 - 2022-01-12 — Referred to the House Committee on Natural Resources.
+- 2022-01-13 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2022-04-27 — Subcommittee Hearings Held.
+- 2022-06-15 — Committee Consideration and Mark-up Session Held.
+- 2022-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2022-06-15 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2022-12-07 — Placed on the Union Calendar, Calendar No. 439.
+- 2022-12-07 — Reported by the Committee on Natural Resources. H. Rept. 117-606.
+- 2022-12-07 — Reported by the Committee on Natural Resources. H. Rept. 117-606.
