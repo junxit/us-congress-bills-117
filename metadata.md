@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8844
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8844
@@ -22,9 +22,10 @@ STEP Improvement Act of 2022
 - Rep. Newman, Marie [D-IL-3] (N000192)
 - Rep. Flood, Mike [R-NE-1] (F000474)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ STEP Improvement Act of 2022
 - 2022-12-06 — Passed/agreed to in House: Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended.
 - 2022-12-06 — Pursuant to section 3 of H. Res. 1508, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 8844; S. 198, as amended; and S. 1687, as amended. (consideration: CR H8773-8775; text: CR H8773-8774)
 - 2022-12-06 — Pursuant to the provisions of H. Res. 1508, proceedings on H.R. 8844 are considered vacated.
+- 2022-12-07 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
