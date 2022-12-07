@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 322
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 322
@@ -30,3 +30,7 @@ A resolution reaffirming the alliance between the United States and Bulgaria, co
 
 - 2021-07-27 — Introduced in Senate
 - 2021-07-27 — Referred to the Committee on Foreign Relations. (text: CR S5107-5108)
+- 2022-12-07 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.

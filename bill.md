@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 322
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,6 +27,27 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas religious pluralism has long been a positive feature of Bulgarian society, though the Muslim community still encounters obstacles in its quest to reclaim property and build new houses of worship in Sofia;
 - Whereas the Romani community faces systemic discrimination in Bulgaria, including discrimination in access to education, rights to residency, and access to voting, and Romani settlements faced particularly harsh restrictions as a result of the COVID–19 pandemic;
 - Whereas Bulgaria has withheld its support for neighboring North Macedonia to open accession talks with the European Union; and
+- Whereas America’s most successful and enduring relationships are built on shared values: Now, therefore, be it
+- Whereas Bulgaria, which is an original signatory of the Conference on Security and Cooperation in Europe, done at Helsinki August 1, 1975 (commonly known as the “Helsinki Final Act”)— (1)has transitioned from a Cold War-era, Soviet satellite to a multi-party democracy with a market economy; and (2)remains an active and constructive participant in the Organization for Security and Cooperation in Europe (OSCE);
+- Whereas because of its progress on the institutionalization of democratic systems and economic reforms, Bulgaria joined the North Atlantic Treaty Organization (NATO) in 2004 and the European Union in 2007;
+- Whereas Bulgaria is a steadfast ally of the United States in an area of strategic importance to the United States;
+- Whereas bilateral security cooperation between the United States and Bulgaria is deep and growing stronger, including through the October 2020 signing of a 10-year defense cooperation roadmap, and regular United States military training conducted in Bulgaria, including at the Novo Selo Training Area;
+- Whereas Bulgaria has contributed approximately 21,000 troops to various NATO missions;
+- Whereas Bulgaria is on track to consistently reach defense spending of at least 2 percent of its gross domestic product by 2024;
+- Whereas on March 19, 2022, Bulgaria established a battle group consisting of approximately 1,000 troops from Bulgaria and other NATO members, under the command of the NATO Supreme Allied Commander Europe, to further bolster NATO’s eastern flank;
+- Whereas on November 3, 2022, the Parliament of Bulgaria approved the dispatch of military aid to Ukraine, and granted the interim government 1 month to propose which military aid could be sent;
+- Whereas on October 27, 2022, Bulgaria approved the purchase of a second batch of 8 new F-16 Viper fighter jets from the United States, further deepening bilateral defense ties;
+- Whereas in April 2022, Russian energy company Gazprom halted natural gas exports to Bulgaria, which then represented more than 90 percent of Bulgaria’s natural gas needs, after Bulgaria refused to pay in rubles;
+- Whereas the United States and Bulgaria continue to bolster bilateral energy security cooperation, including through the signing of a joint Memorandum of Understanding Concerning Strategic Civil Nuclear Cooperation on October 23, 2020;
+- Whereas the international observers representing the OSCE Office for Democratic Institutions and Human Rights, the OSCE Parliamentary Assembly, and the Parliamentary Assembly of the Council of Europe concluded that Bulgaria’s October 2, 2022 parliamentary elections were “competitive and fundamental freedoms [were] generally respected”;
+- Whereas on July 8 and 9, 2021, Bulgaria hosted the annual summit meeting of the Three Seas Initiative, a unique region-led undertaking launched in 2015 to create a political platform and investment fund to promote transportation, energy, and digital infrastructure connectivity across its 12 member states (Austria, Bulgaria, Croatia, Czechia, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia, and Slovenia);
+- Whereas Bulgaria’s continued progress has been threatened by multiple internal challenges, including corruption, and Bulgaria is consistently among the lowest-ranked European Union member states in Transparency International’s Corruption Perceptions Index;
+- Whereas Bulgaria was ranked 91st out of 180 countries in the Reporters Without Borders 2022 World Press Freedom Index, which is one of the lowest positions of any European Union country;
+- Whereas in 2022, Reporters Without Borders referred to media freedom in Bulgaria as “fragile and unstable”, stated “[t]he few independent voices in Bulgaria work under constant pressure”, and cited political interference with public broadcasters, and the abuse of privately-owned media for political purposes, among other concerns;
+- Whereas Bulgaria is an attractive, low-cost investment destination with a talented, tech-savvy labor pool, but has problems with endemic corruption, including in large infrastructure projects and in the energy sector;
+- Whereas on June 2, 2021, the Department of the Treasury’s Office of Foreign Assets Control announced sanctions under the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note) against 3 Bulgarian individuals and 64 associated entities, while the Department of State announced visa bans on 5 former Bulgarian Government officials due to corruption;
+- Whereas religious pluralism has long been a positive feature of Bulgarian society, though the Muslim community still encounters obstacles in its quest to reclaim property and build new houses of worship in Sofia;
+- Whereas the Romani community faces systemic discrimination in Bulgaria, including discrimination in access to education, rights to residency, and access to voting, and Romani settlements faced particularly harsh restrictions as a result of the COVID–19 pandemic; and
 - Whereas America’s most successful and enduring relationships are built on shared values: Now, therefore, be it
 
 That the Senate—
