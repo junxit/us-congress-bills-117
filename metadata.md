@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6654
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6654
@@ -16,7 +16,7 @@ CASC Act
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Cosponsors (14)
+## Cosponsors (24)
 
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Huffman, Jared [D-CA-2] (H001068)
@@ -32,6 +32,16 @@ CASC Act
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
 - Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Kahele, Kaiali'i [D-HI-2] (K000396)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
 
 ## Committees (1)
 
@@ -42,3 +52,13 @@ CASC Act
 - 2022-02-09 — Introduced in House
 - 2022-02-09 — Introduced in House
 - 2022-02-09 — Referred to the House Committee on Natural Resources.
+- 2022-02-10 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2022-02-10 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2022-02-17 — Subcommittee Hearings Held.
+- 2022-07-13 — Committee Consideration and Mark-up Session Held.
+- 2022-07-13 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 18.
+- 2022-07-13 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2022-07-13 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2022-12-07 — Placed on the Union Calendar, Calendar No. 435.
+- 2022-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-602.
+- 2022-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-602.
