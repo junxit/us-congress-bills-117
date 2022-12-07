@@ -1,7 +1,7 @@
 ---
 measure: S. 3196
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 1 executed, 9 stated and not applied.
+18 amendatory instructions. 1 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,3 +51,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 51322(a) of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 55501 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 7704` | insert | Chapter 77 of title 46, United States Code, is amended by inserting after section 7704 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 7704` | insert | The chapter analysis of chapter 77 of title 46, United States Code, is amended by inserting after the item relating to section 7704 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 513 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The chapter analysis for chapter 513 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 51322(a) of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
