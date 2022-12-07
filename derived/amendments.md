@@ -1,7 +1,7 @@
 ---
 measure: S. 789
 congress: 117
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
