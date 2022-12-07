@@ -25,11 +25,11 @@ This Act may be cited as the “Advancing Equality for Wabanaki Nations Act”.
   - **(2)** in section 6—
     - **(A)** in subsection (a), by striking “provided in section 8(e) and section 5(d)(4)” and inserting “otherwise provided in this Act”; and
     - **(B)** in subsection (h)—
-      - **(i)** by striking “Except as otherwise provided in this Act, the” and inserting “The”;
-      - **(ii)** in the first sentence, by inserting “or enacted for the benefit of” before “Indians, Indian nations”;
+      - **(i)** by striking “Except as other wise provided in this Act, the” and inserting “The”;
+      - **(ii)** by inserting “or enacted for the benefit of” before “Indians, Indian nations” the second place it appears;
       - **(iii)** by inserting “that is in effect as of the date of the enactment of the Advancing Equality for Wabanaki Nations Act, (2)” after “United States (1)”;
       - **(iv)** by striking “also (2)” and inserting “also (3)”; and
-      - **(v)** by inserting “, unless Federal law or the State laws of Maine provide for the application of such Federal law or regulation” after “State” and before the period at the end.
+      - **(v)** by inserting “, unless Federal law or the State laws of Maine provide for the application of such Federal law or regulation” before the period at the end.
 - **(b)** *Implementation of the Indian Child Welfare Act* Section 8 of the Maine Indian Claims Settlement Act of 1980 (Public Law 96–420) is amended—
   - **(1)** in subsection (a)—
     - **(A)** by striking “or” after “Passamaquoddy Tribe” and inserting a comma;
@@ -47,4 +47,4 @@ This Act may be cited as the “Advancing Equality for Wabanaki Nations Act”.
 - **(c)** *Construction* Section 16 of the Maine Indian Claims Settlement Act of 1980 (Public Law 96–420) is amended—
   - **(1)** by striking “(a)” at the beginning; and
   - **(2)** by striking subsection (b).
-- **(d)** *Aroostook Band of Micmacs Settlement Act* The Aroostook Band of Micmacs Settlement Act (Public Law 102–171) is amended by striking section 8.
+- **(d)** *Amendment to the Aroostook Band of Micmacs Settlement Act* The Aroostook Band of Micmacs Settlement Act (Public Law 102–171) is amended by striking section 8.
