@@ -1,7 +1,7 @@
 ---
 measure: S. 2427
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2427
@@ -16,10 +16,14 @@ FAIR Contributions Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (2)
+## Cosponsors (6)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -29,3 +33,7 @@ FAIR Contributions Act
 
 - 2021-07-21 — Introduced in Senate
 - 2021-07-21 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-05-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2022-12-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 594.
