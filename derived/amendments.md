@@ -1,7 +1,7 @@
 ---
 measure: S. 2333
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,6 +35,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (16), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (7) through (14) as paragraphs (8) through (15), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for subchapter II of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(ii), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for subchapter I of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (7) through (14) as paragraphs (9) through (16), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for subchapter II of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
