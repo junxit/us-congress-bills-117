@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7075
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7075
@@ -16,7 +16,7 @@ Ukrainian Independence Park Act of 2022
 
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
 
-## Cosponsors (102)
+## Cosponsors (118)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
@@ -120,6 +120,22 @@ Ukrainian Independence Park Act of 2022
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
 
 ## Committees (1)
 
@@ -130,3 +146,11 @@ Ukrainian Independence Park Act of 2022
 - 2022-03-15 — Introduced in House
 - 2022-03-15 — Introduced in House
 - 2022-03-15 — Referred to the House Committee on Natural Resources.
+- 2022-03-17 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-04-28 — Subcommittee Hearings Held.
+- 2022-06-15 — Committee Consideration and Mark-up Session Held.
+- 2022-06-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2022-06-15 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-12-07 — Placed on the Union Calendar, Calendar No. 437.
+- 2022-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-604.
+- 2022-12-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-604.
