@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 9458
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9458
+
+> To provide temporary authority to the Secretary of Defense to appoint retired members of the Armed Forces to military health system positions, and for other purposes.
+
+## § 1. Temporary authority to appoint retired members of the Armed Forces to Military Health System positions
+
+Section 1108 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) is amended—
+
+- **(1)** in subsection (a), by striking “subsection (b)” and inserting “subsection (b) or (c)”;
+- **(2)** in the heading for subsection (b), by striking “Positions” and inserting “Defense industrial base facility positions”;
+- **(3)** by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively;
+- **(4)** by inserting after subsection (b) the following:
+  > - **(c)** *Military health system positions* The positions in the Department described in this subsection are medical or health profession positions in the civil service within the military health system.
+
+- **(5)** by amending subsection (f) (as redesignated by paragraph (3) of this section) to read as follows:
+  > - **(f)** *Definitions* In this section—
+  >   - **(1)** the term “civil service” has the meaning given that term in section 2101 of title 5, United States Code;
+  >   - **(2)** the term “medical or health profession positions” means any position listed under any of paragraphs (1), (2), or (3) of section 7401 of title 38, United States Code; and
+  >   - **(3)** the terms “member” and “Secretary concerned” have the meaning given those terms in section 101 of title 37, United States Code.
