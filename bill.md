@@ -13,10 +13,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas establishing an annual “National Warrior Call Day” will draw attention to the members of the Armed Forces whose connection to one another is key to the veterans and first responders in the United States who may be dangerously disconnected from family, friends, and support systems;
 - Whereas the rate of suicide for members of the Armed Forces serving on active duty increased from 20.3 per 100,000 individuals in 2015 to 28.7 per 100,000 individuals in 2020;
-- Whereas the suicide rate for veterans has steadily increased since 2006, with 6,261 veterans taking their own lives in 2019;
+- Whereas the suicide rate for veterans has steadily increased since 2006, with 6,261 veterans dying by suicide in 2019;
 - Whereas, after adjusting for sex and age, the rate of veteran suicide in 2019 was 31.6 per 100,000 individuals, substantially higher than the rate among adults in the United States who are not veterans at 16.8 per 100,000 individuals;
 - Whereas more veterans have died by suicide in the last 10 years than members of the Armed Forces who died from combat in Vietnam;
-- Whereas many of the veterans who take their own lives have had no contact with the Department of Veterans Affairs;
+- Whereas many of the veterans who died by suicide had no contact with the Department of Veterans Affairs;
 - Whereas the Coronavirus Disease 2019 (COVID–19) pandemic continues to lead to increased isolation and disconnection, further exacerbating mental and physical ailments such as post-traumatic stress disorder and traumatic brain injury;
 - Whereas invisible wounds linked to an underlying and undiagnosed traumatic brain injury can mirror many mental health conditions, a problem that can be addressed through appropriate medical treatment;
 - Whereas additional research is needed to highlight the connection between traumatic brain injury as a root cause of invisible wounds and suicide by members of the Armed Forces and veterans; and
