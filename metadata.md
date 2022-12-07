@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7240
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7240
@@ -94,3 +94,7 @@ READ Act Reauthorization Act of 2022
 - 2022-09-20 — Pursuant to the provisions of H. Res. 1361, proceedings on H.R. 7240 are considered vacated.
 - 2022-09-21 — Received in the Senate.
 - 2022-11-29 — Read twice and referred to the Committee on Foreign Relations.
+- 2022-12-07 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.
