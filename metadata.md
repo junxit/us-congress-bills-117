@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 730
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 730
@@ -16,13 +16,15 @@ A resolution remembering the 30th anniversary of the bombing of the Embassy of I
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (1)
 
@@ -32,3 +34,7 @@ A resolution remembering the 30th anniversary of the bombing of the Embassy of I
 
 - 2022-07-28 — Introduced in Senate
 - 2022-07-28 — Referred to the Committee on Foreign Relations. (text: CR S3788)
+- 2022-12-07 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.
