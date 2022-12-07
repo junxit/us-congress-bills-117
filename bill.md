@@ -43,3 +43,20 @@ That Congress—
   - **(A)** to publicly condemn violence by the Iranian regime against peaceful protesters;
   - **(B)** to speak out against violations by the regime of fundamental human rights, including the freedom of expression, assembly, and redress of grievances of the Iranian people; and
   - **(C)** impose human rights sanctions on officials and entities that are responsible for the repression of current protests and involved in violating the human rights of the Iranian people.
+- **(1)** commends the bravery, courage, and resolve of the women and men of Iran who are—
+  - **(A)** participating in the current protests to defend their fundamental human rights; and
+  - **(B)** risking their safety to speak out against the human rights abuses committed by the Iranian regime;
+- **(2)** condemns—
+  - **(A)** the brutal beating and death of Mahsa Amini; and
+  - **(B)** the violent suppression by the Iranian regime of women and men participating in the current demonstrations, including children, and calls for transparent accountability for all killings of protesters by Iranian security forces;
+- **(3)** supports internet freedom programs that circumvent the regime, including the Open Technology Fund, which provides support for VPNs and other alternatives that can be used to bypass attempts by authoritarian governments to censor internet access during times of protest, and commends private entities willing to provide programs to circumvent such censorship;
+- **(4)** encourages continued efforts by the Biden Administration to respond to the protests, including the recent sanctioning of the Iranian morality police, and further encourages the Biden Administration—
+  - **(A)** to immediately impose, under existing authorities, additional human rights sanctions on officials and entities responsible for the repression of the current protests;
+  - **(B)** to prioritize efforts to expand unrestricted internet access in Iran, consistent with existing law; and
+  - **(C)** to work to develop a strategy to prevent the Iranian regime from obtaining and exploiting facial recognition data and software for the use of mass surveillance and enforcement of mandatory hijab;
+- **(5)** encourages the private sector, following the recent clarification by the Biden Administration of sanctions exemptions on communications technology, to work with the Biden Administration to ensure protestors and activists have access to tools needed to circumvent government surveillance and repression;
+- **(6)** encourages the private sector to coordinate with the Department of the Treasury and their subsidiaries to utilize licensing opportunities and expand access of key communications services to Iranians inside Iran; and
+- **(7)** welcomes the efforts of the international community to support protestors in Iran, and calls on the international community—
+  - **(A)** to publicly condemn violence by the Iranian regime against peaceful protesters;
+  - **(B)** to speak out against violations by the regime of fundamental human rights, including the freedom of expression, assembly, and redress of grievances of the Iranian people; and
+  - **(C)** impose human rights sanctions on officials and entities that are responsible for the repression of current protests and involved in violating the human rights of the Iranian people.

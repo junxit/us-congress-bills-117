@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 47
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 47
@@ -16,7 +16,7 @@ A concurrent resolution commending the bravery, courage, and resolve of the wome
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (6)
+## Cosponsors (19)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -24,6 +24,19 @@ A concurrent resolution commending the bravery, courage, and resolve of the wome
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Padilla, Alex [D-CA] (P000145)
 
 ## Committees (1)
 
@@ -33,3 +46,7 @@ A concurrent resolution commending the bravery, courage, and resolve of the wome
 
 - 2022-09-29 — Introduced in Senate
 - 2022-09-29 — Referred to the Committee on Foreign Relations. (text: CR S5561)
+- 2022-12-07 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.
