@@ -1,7 +1,7 @@
 ---
 measure: S. 2541
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2541
@@ -16,9 +16,11 @@ Shadow Wolves Enhancement Act
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Shadow Wolves Enhancement Act
 
 - 2021-07-29 — Introduced in Senate
 - 2021-07-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-235.
+- 2022-12-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-235.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 599.
