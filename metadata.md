@@ -1,7 +1,7 @@
 ---
 measure: S. 4577
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4577
@@ -32,3 +32,5 @@ Clear and Concise Content Act of 2022
 - 2022-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-159.
 - 2022-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-159.
 - 2022-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.
+- 2022-12-07 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S7038-7040; text: CR S7039-7040)
+- 2022-12-07 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
