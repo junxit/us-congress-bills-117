@@ -1,7 +1,7 @@
 ---
 measure: S. 3386
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3386
@@ -16,9 +16,13 @@ End Tuberculosis Now Act of 2022
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ End Tuberculosis Now Act of 2022
 
 - 2021-12-14 — Introduced in Senate
 - 2021-12-14 — Read twice and referred to the Committee on Foreign Relations.
+- 2022-12-07 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 601.
