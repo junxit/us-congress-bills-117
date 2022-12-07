@@ -1,7 +1,7 @@
 ---
 measure: S. 3053
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 8501` | add-at-end | The Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8501` | add-at-end | The table of contents in section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25; 131 Stat. 91) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8501` | add-at-end | The Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8501` | add-at-end | Section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501 note) is amended in the table of contents by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
