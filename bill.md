@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6181
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,12 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To reaffirm that certain land has been taken into trust for the benefit of the Samish Indian Nation, and for other purposes.
 
-## § 1. Short title
+## § 1. Reaffirmation of law
 
-This Act may be cited as the “Samish Indian Nation Land Reaffirmation Act”.
+The applicability of the Act of June 18, 1934 (25 U.S.C. 5101 et seq.; 48 Stat. 984, chapter 576 ) (commonly known as the “Indian Reorganization Act”) is reaffirmed for the Samish Indian Nation.
 
-## § 2. Reaffirmation of trust land status and actions
+## § 2. No impact on treaty rights
 
-- **(a)** *In general* The decision dated November 9, 2018, and the actions taken by the Bureau of Indian Affairs Northwest Regional Director to approve the application of the Samish Indian Nation to take approximately 6.70 acres of land into trust as described in the decision for the benefit of the Samish Indian Nation are ratified and confirmed.
-- **(b)** *Application* This Act shall apply to all claims (including claims challenging the validity of title or the effectiveness of any action of the Secretary acquiring and taking land into trust) pending on the date of the enactment of this Act or filed on or after the date of the enactment of this Act.
-- **(c)** *Retention of future rights* Nothing in this Act alters or diminishes the right of the Samish Indian Nation from seeking to have any additional land taken into trust by the United States for the benefit of the Samish Indian Nation.
+Nothing in this Act shall be interpreted as affecting treaty rights under the Treaty of Point Elliott.
