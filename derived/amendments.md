@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7240
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
