@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7946
 congress: 117
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7946
@@ -55,11 +55,12 @@ Veteran Service Recognition Act of 2022
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (3)
+## Committees (4)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -98,3 +99,4 @@ Veteran Service Recognition Act of 2022
 - 2022-12-06 — Rules Committee Resolution H. Res. 1508 Reported to House. The resolution provides for consideration of H.R. 3648, under a structured rule and H.R. 7946, under a structured rule. The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the remainder of the 117th Congress.
 - 2022-12-06 — The previous question was ordered on the amendment (A002) and on the bill pursuant to the rule.
 - 2022-12-06 — The resolution provides consideration of H.R. 3648, under a structured rule and H.R. 7946, under a structured rule. The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the remainder of the 117th Congress.
+- 2022-12-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
