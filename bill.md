@@ -1,0 +1,19 @@
+---
+legis-num: S. 5211
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5211
+
+> To authorize the use of specialized human trafficking training and technical assistance grants to train law enforcement personnel regarding the Interdiction for the Protection of Children program.
+
+## § 1. Short title
+
+This Act may be cited as the “Interdiction for the Protection of Child Victims of Exploitation and Human Trafficking Act”.
+
+## § 2. Interdiction for the Protection of Children program
+
+- **(a)** *In general* Section 111(c)(1) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (34 U.S.C. 20708(c)(1)) is amended by inserting “, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice” before the semicolon at the end.
+- **(b)** *Conforming amendment* Section 107(c)(4)(A) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(c)(4)(A)) is amended by inserting “in order to fulfill the purposes described in section 111(c) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (34 U.S.C. 20708(c))” before the period at the end.
