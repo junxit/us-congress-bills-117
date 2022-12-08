@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 124
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 124
@@ -32,3 +32,5 @@ A resolution celebrating the heritage of Romani Americans.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-06-14 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 408.
+- 2022-12-08 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S7082-7083; text of amendment in the nature of a substitute: CR S7082-7083)
+- 2022-12-08 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S7082-7083; text of amendment in the nature of a substitute: CR S7082-7083)
