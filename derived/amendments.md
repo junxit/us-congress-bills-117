@@ -1,7 +1,7 @@
 ---
 measure: S. 4216
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 22 executed, 14 stated and not applied.
+18 amendatory instructions. 11 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,105 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 22 U.S.C. § 7812
-
-> Section 102(b)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)(1)) is amended by striking “2022” and inserting “2027”.
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
-
-### 22 U.S.C. § 7814
-
-> in subsection (b)(1), by striking “2022” and inserting “2027”; and
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
-
-### 22 U.S.C. § 7814
-
-> in subsection (c), by striking “2022” and inserting “2027”.
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
-
-### 22 U.S.C. § 7817
-
-> Section 107(d) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817(d)) is amended by striking “2022” and inserting “2027”.
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
-
-### 22 U.S.C. § 7831
-
-> Section 201(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831(a)) is amended, in the matter preceding paragraph (1), by striking “2022” and inserting “2027”.
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
-
-### 22 U.S.C. § 7833
-
-> Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2018 through 2022” and inserting “2023 through 2027”.
-
-| | |
-|---|---|
-| Removed | `2018 through 2022` |
-| Inserted | `2023 through 2027` |
-
-### 22 U.S.C. § 7845
-
-> Section 305(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7845(a)) is amended, in the matter preceding paragraph (1) by striking “2022” and inserting “2027”.
-
-| | |
-|---|---|
-| Removed | `2022` |
-| Inserted | `2027` |
-
-### 22 U.S.C. § 7811
-
-> in section 103(a), by striking “Broadcasting Board of Governors” and inserting “United States Agency for Global Media”; and
-
-| | |
-|---|---|
-| Removed | `Broadcasting Board of Governors` |
-| Inserted | `United States Agency for Global Media` |
-
-### 22 U.S.C. § 7811
-
-> by striking “Broadcasting Board of Governors” each place such term appears and inserting “United States Agency for Global Media”; and
-
-| | |
-|---|---|
-| Removed | `Broadcasting Board of Governors` |
-| Inserted | `United States Agency for Global Media` |
-
-### 22 U.S.C. § 7811
-
-> in the matter preceding clause (i), by striking “5 years” and inserting “10 years”;
-
-| | |
-|---|---|
-| Removed | `5 years` |
-| Inserted | `10 years` |
-
-### 22 U.S.C. § 7811
-
-> in clause (iii), as redesignated, by striking “pursuant to section 403” and inserting “to carry out this section”.
-
-| | |
-|---|---|
-| Removed | `pursuant to section 403` |
-| Inserted | `to carry out this section` |
 
 ### 22 U.S.C. § 7812
 
@@ -231,13 +132,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 7811` | redesignate | by redesignating clauses (i) through (iii) as clauses (ii) through (iv), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7811` | insert | by inserting before clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7817` | add-at-end | Section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 9214` | strike | in subparagraph (M), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 9214` | replace | in subparagraph (N), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 9214` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 9228` | insert | Section 208(a)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9228(a)(1)) is amended by inserting “, the Republic of Korea, and Japan” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7811` | redesignate | by redesignating clauses (i) through (iii) as clauses (ii) through (iv), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7811` | insert | by inserting before clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7817` | add-at-end | Section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

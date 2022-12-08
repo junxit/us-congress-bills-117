@@ -20,7 +20,7 @@ Congress makes the following findings:
 - **(1)** The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and subsequent reauthorizations of such Act were the product of broad, bipartisan consensus regarding the promotion of human rights, documentation of human rights violations, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
 - **(2)** The human rights and humanitarian conditions within North Korea remain deplorable and have been intentionally perpetuated against the people of North Korea through policies endorsed and implemented by Kim Jong-un and the Workers’ Party of Korea.
 - **(3)** According to a 2014 report released by the United Nations Human Rights Council’s Commission of Inquiry on Human Rights in the Democratic People’s Republic of Korea, between 80,000 and 120,000 children, women, and men were being held in political prison camps in North Korea, where they were subjected to deliberate starvation, forced labor, executions, torture, rape, forced abortion, and infanticide.
-- **(4)** North Korea continues to hold a number of South Koreans and Japanese abducted after the signing of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the “Korean War Armistice Agreement”), and refuses to acknowledge the abduction of more than 100,000 South Koreans during the Korean War in violation of the Geneva Convention.
+- **(4)** North Korea continues to hold a number of South Koreans and Japanese abducted after the signing of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the “Korean War Armistice Agreement”) and refuses to acknowledge the abduction of more than 100,000 South Koreans during the Korean War in violation of the Geneva Convention.
 - **(5)** Human rights violations in North Korea, which include forced starvation, sexual violence against women and children, restrictions on freedom of movement, arbitrary detention, torture, executions, and enforced disappearances, amount to crimes against humanity according to the United Nations Commission of Inquiry on Human Rights in the Democratic People’s Republic of Korea.
 - **(6)** The effects of the COVID–19 pandemic and North Korea’s strict lockdown of its borders and crackdowns on informal market activities and small entrepreneurship have drastically increased food insecurity for its people and given rise to famine conditions in parts of the country.
 - **(7)** North Korea’s COVID–19 border lockdown measures also include shoot-to-kill orders that have resulted in the killing of—
@@ -43,7 +43,7 @@ It is the sense of Congress that—
 - **(3)** because refugees among North Koreans fleeing into China face severe punishments upon their forcible return, the United States should urge the Government of the People’s Republic of China—
   - **(A)** to immediately halt its forcible repatriation of North Koreans;
   - **(B)** to allow the United Nations High Commissioner for Refugees (referred to in this section as “UNHCR”) unimpeded access to North Koreans within China to determine whether they are refugees and require assistance;
-  - **(C)** to fulfill its obligations under the Convention Relating to the Status of Refugees, done at Geneva July 28, 1951 (and made applicable by the Protocol Relating to the Status of Refugees, done at New York January 31, 1967 (19 UST 6223), and the Agreement on the upgrading of the UNHCR Mission in the People’s Republic of China to UNHCR branch office in the People’s Republic of China, done at Geneva December 1, 1995;
+  - **(C)** to fulfill its obligations under the Convention Relating to the Status of Refugees, done at Geneva July 28, 1951 (and made applicable by the Protocol Relating to the Status of Refugees, done at New York January 31, 1967 (19 UST 6223) and the Agreement on the upgrading of the UNHCR Mission in the People’s Republic of China to UNHCR branch office in the People’s Republic of China, done at Geneva December 1, 1995;
   - **(D)** to address the concerns of the United Nations Committee Against Torture by incorporating into domestic legislation the principle of non-refoulement; and
   - **(E)** to recognize the legal status of North Korean women who marry or have children with Chinese citizens and ensure that all such mothers and children are granted resident status and access to education and other public services in accordance with Chinese law and international standards;
 - **(4)** the United States Government should continue to promote the effective and transparent delivery and distribution of any humanitarian aid provided in North Korea to ensure that such aid reaches its intended recipients to the point of consumption or utilization by cooperating closely with the Government of the Republic of Korea and international and nongovernmental organizations;
@@ -77,7 +77,7 @@ Title I of the North Korean Human Rights Act of 2004 (22 U.S.C. 7811 et seq.) is
 
 - **(1)** in section 103(a), by striking “Broadcasting Board of Governors” and inserting “United States Agency for Global Media”; and
 - **(2)** in section 104(a)—
-  - **(A)** by striking “Broadcasting Board of Governors” each place such term appears and inserting “United States Agency for Global Media”; and
+  - **(A)** by striking “Broadcasting Board of Governors” each place such term appears and inserting “United States Agency for Global Media”;
   - **(B)** in paragraph (7)(B)—
     - **(i)** in the matter preceding clause (i), by striking “5 years” and inserting “10 years”;
     - **(ii)** by redesignating clauses (i) through (iii) as clauses (ii) through (iv), respectively;
@@ -95,11 +95,8 @@ Section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is ame
 ## § 7. Support for North Korean refugees
 
 - **(a)** *In general* The Secretary of State and the Secretary of Homeland Security should collaborate with faith-based and Korean-American organizations to resettle North Korean participants in the United States Refugee Admissions Program in areas with existing Korean-American communities to mitigate trauma and mental health considerations of refugees, as appropriate.
-- **(b)** *Resettlement office for North Korean refugees* The Secretary of State shall ensure that a program officer in the Bureau of Population, Refugees, and Migration of the Department of State—
-  - **(1)** is stationed in a country in Southeast Asia or East Asia; and
-  - **(2)** is principally responsible for facilitating the processing and onward relocation of North Koreans eligible for the United States Refugee Admissions Program or resettlement in South Korea.
-- **(c)** *Resettlement location assistance education* The Secretary of State shall publicly disseminate guidelines and information relating to resettlement options in the United States or South Korea for eligible North Korean refugees, with a particular focus on messaging to North Koreans.
-- **(d)** *Mechanisms* The guidelines and information described in subsection (c)—
+- **(b)** *Resettlement location assistance education* The Secretary of State shall publicly disseminate guidelines and information relating to resettlement options in the United States or South Korea for eligible North Korean refugees, with a particular focus on messaging to North Koreans.
+- **(c)** *Mechanisms* The guidelines and information described in subsection (b)—
   - **(1)** shall be published on a publicly available website of the Department of State;
   - **(2)** shall be broadcast into North Korea through radio broadcasting operations funded or supported by the United States Government; and
   - **(3)** shall be distributed through brochures or electronic storage devices.
@@ -113,3 +110,21 @@ Section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is ame
     > - **(O)** knowingly, directly or indirectly, forced the repatriation of North Korean refugees to North Korea.
 
 - **(b)** *Exemptions* Section 208(a)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9228(a)(1)) is amended by inserting “, the Republic of Korea, and Japan” before the period at the end.
+
+## § 9. Report on humanitarian exemptions to sanctions imposed with respect to North Korea
+
+- **(a)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** the continued pursuit by the North Korean regime of weapons of mass destruction (including nuclear, chemical, and biological weapons), in addition to its ballistic missile program, along with the regime's gross violations of human rights, have led the international community to impose sanctions with respect to North Korea, including sanctions imposed by the United Nations Security Council;
+  - **(2)** authorities should grant exemptions for humanitarian assistance to the people of North Korea consistent with past United Nations Security Council resolutions; and
+  - **(3)** humanitarian assistance intended to provide humanitarian relief to the people of North Korea must not be exploited or misdirected by the North Korean regime to benefit the military or elites of North Korea.
+- **(b)** *Reports required*
+  - **(1)** *Defined term* In this subsection, the term covered period means—
+    - **(A)** in the case of the first report required to be submitted under paragraph (2), the period beginning on January 1, 2018, and ending on the date that is 90 days after the date of the enactment of this Act; and
+    - **(B)** in the case of each subsequent report required to be submitted under paragraph (2), the 1-year period preceding the date by which the report is required to be submitted.
+  - **(2)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for the following 2 years, the Secretary of State shall submit a report to Congress that—
+    - **(A)** describes—
+      - **(i)** how the North Korean regime has previously exploited humanitarian assistance from the international community to benefit elites and the military in North Korea;
+      - **(ii)** the most effective methods to provide humanitarian relief, including mechanisms to facilitate humanitarian assistance, to the people of North Korea, who are in dire need of such assistance;
+      - **(iii)** any requests to the Committee of the United Nations Security Council established by United Nations Security Council Resolution 1718 (2006) (referred to in this section as the “1718 Sanctions Committee”) for humanitarian exemptions from sanctions known to have been denied during the covered period or known to have been in process for more than 30 days as of the date of the report; and
+      - **(iv)** any known explanations for the denials and delays referred to in clause (iii); and
+    - **(B)** details any action by a foreign government during the covered period that has delayed or impeded humanitarian assistance that was approved by the 1718 Sanctions Committee.
