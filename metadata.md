@@ -1,7 +1,7 @@
 ---
 measure: S. 4216
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4216
@@ -16,9 +16,10 @@ North Korean Human Rights Reauthorization Act of 2022
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -32,3 +33,12 @@ North Korean Human Rights Reauthorization Act of 2022
 - 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2022-07-21 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
 - 2022-07-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
+- 2022-12-08 — Amendment SA 6511 agreed to in Senate by Unanimous Consent.
+- 2022-12-08 — Amendment SA 6511 proposed by Senator Cardin for Senator Rubio. (consideration: CR S7087; text: CR S7078-7079) In the nature of a substitute.
+- 2022-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S7085-7087)
+- 2022-12-08 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7078-7079)
+- 2022-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S7078-7079)
+- 2022-12-08 — Senate amendment agreed to: Amendment SA 6511 agreed to in Senate by Unanimous Consent.
+- 2022-12-08 — Senate amendment proposed (on the floor): Amendment SA 6511 proposed by Senator Cardin for Senator Rubio.
+- 2022-12-08 — Senate amendment submitted
+- 2022-12-08 — The committee substitute withdrawn by Unanimous Consent. (CR S7087)
