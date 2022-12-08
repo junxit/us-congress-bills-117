@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7535
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7535
@@ -42,3 +42,13 @@ Quantum Computing Cybersecurity Preparedness Act
 - 2022-07-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5952-5953)
 - 2022-07-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2022-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-12-08 — Amendment SA 6510 agreed to in Senate by Unanimous Consent.
+- 2022-12-08 — Amendment SA 6510 proposed by Senator Cardin for Senator Hassan. (consideration: CR S7084-7085; text: CR S7084-7085) In the nature of a substitute.
+- 2022-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S7084-7085)
+- 2022-12-08 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7084-7085)
+- 2022-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7084-7085)
+- 2022-12-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-08 — Senate amendment agreed to: Amendment SA 6510 agreed to in Senate by Unanimous Consent.
+- 2022-12-08 — Senate amendment proposed (on the floor): Amendment SA 6510 proposed by Senator Cardin for Senator Hassan.
+- 2022-12-08 — Senate amendment submitted
