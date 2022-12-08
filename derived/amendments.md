@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7242
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5121` | amend | in paragraph (6), by adding “; and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5131` | add-at-end | Title II of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5131 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5133` | strike | Section 1234 of the Disaster Recovery Reform Act of 2018 (42 U.S.C. 5133 note) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
