@@ -1,7 +1,7 @@
 ---
 measure: S. 2333
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,13 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in paragraph (15), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (16), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (7) through (14) as paragraphs (8) through (15), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter II of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections for subchapter II of chapter 2205 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B)(ii), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

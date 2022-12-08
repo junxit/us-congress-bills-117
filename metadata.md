@@ -1,7 +1,7 @@
 ---
 measure: S. 2333
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2333
@@ -34,3 +34,5 @@ Equal Pay for Team USA Act of 2022
 - 2022-12-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2022-12-07 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 593.
+- 2022-12-08 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7081-7082; text of amendment in the nature of a substitute: CR S7081-7082)
+- 2022-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S7081-7082; text of amendment in the nature of a substitute: CR S7081-7082)
