@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7776
 congress: 117
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 7776
@@ -60,3 +60,6 @@ James M. Inhofe National Defense Authorization Act for Fiscal Year 2023
 - 2022-07-28 — Passed/agreed to in Senate: Passed Senate, under the order of 7/20/2022, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 93 - 1. Record Vote Number: 273.(text: CR S3756)
 - 2022-07-28 — Senate amendment agreed to: Amendment SA 5140 agreed to in Senate by Unanimous Consent.
 - 2022-07-28 — Senate amendment proposed (on the floor): Amendment SA 5140 proposed by Senator Carper.
+- 2022-12-08 — Pursuant to the provisions of H. Con. Res. 121, enrollment corrections on H.R. 7776 have been made.
+- 2022-12-08 — Pursuant to the provisions of H.Res. 1512, the House agreed to the Senate amendment with an amendment.
+- 2022-12-08 — Resolving differences -- House actions: Pursuant to the provisions of H.Res. 1512, the House agreed to the Senate amendment with an amendment.
