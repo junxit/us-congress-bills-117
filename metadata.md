@@ -1,7 +1,7 @@
 ---
 measure: S. 2333
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2333
@@ -36,3 +36,20 @@ Equal Pay for Team USA Act of 2022
 - 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 593.
 - 2022-12-08 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7081-7082; text of amendment in the nature of a substitute: CR S7081-7082)
 - 2022-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S7081-7082; text of amendment in the nature of a substitute: CR S7081-7082)
+- 2022-12-09 — Message on Senate action sent to the House.
+- 2022-12-12 — Held at the desk.
+- 2022-12-12 — Received in the House.
+- 2022-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-21 — Considered as unfinished business. (consideration: CR H9974-9975)
+- 2022-12-21 — Considered under suspension of the rules. (consideration: CR H9923-9925)
+- 2022-12-21 — DEBATE - The House proceeded with forty minutes of debate on S. 2333.
+- 2022-12-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-21 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2022-12-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 59 (Roll no. 532). (text: CR H9923-9924)
+- 2022-12-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 59 (Roll no. 532).
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-340.
+- 2023-01-05 — Became Public Law No: 117-340.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
