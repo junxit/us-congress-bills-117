@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 7535
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7535
 
-That the bill from the House of Representatives (H.R. 7535) entitled “An Act to encourage the migration of Federal Government information technology systems to quantum-resistant cryptography, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To encourage the migration of Federal Government information technology systems to quantum-resistant cryptography, and for other purposes.
 
 ## § 1. Short title
 
