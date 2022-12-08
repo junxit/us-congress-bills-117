@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 7776
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7776
 
-That the House agree to the amendment of the Senate to the bill (H.R. 7776) entitled “An Act to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> To authorize appropriations for fiscal year 2023 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 

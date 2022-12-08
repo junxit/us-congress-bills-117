@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7776
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -5532,7 +5532,7 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 132 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1238) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | Section 9062(i)(1) of title 10, United States Code, is amended by striking “1,970” and inserting “1,800”. | the bill names no machine-readable US Code section |
 | — | replace | Section 134(d) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2038) is amended by striking “171” and inserting “153”. | the bill names no machine-readable US Code section |
-| — | replace | Section 142(b)(2) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 755 ) is amended by striking “171” and inserting “153”. | the bill names no machine-readable US Code section |
+| — | replace | Section 142(b)(2) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 755) is amended by striking “171” and inserting “153”. | the bill names no machine-readable US Code section |
 | — | replace | Section 135(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2039) is amended by striking “the report required under section 134(e)(2)” and inserting “a report that includes the information… | the bill names no machine-readable US Code section |
 | — | strike | by striking “effective October 1, 2019,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “479” each place it appears and inserting “466”. | the bill names no machine-readable US Code section |
