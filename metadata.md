@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1456
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1456
@@ -30,3 +30,8 @@ Of inquiry requesting the President and directing the Secretary of State to tran
 - 2022-11-03 — Introduced in House
 - 2022-11-03 — Introduced in House
 - 2022-11-03 — Referred to the House Committee on Foreign Affairs.
+- 2022-12-06 — Committee Consideration and Mark-up Session Held.
+- 2022-12-06 — Ordered to be Reported Adversely by Voice Vote.
+- 2022-12-08 — Placed on the House Calendar, Calendar No. 158.
+- 2022-12-08 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-612.
+- 2022-12-08 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-612.
