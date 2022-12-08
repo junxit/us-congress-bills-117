@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7535
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7535
@@ -52,3 +52,16 @@ Quantum Computing Cybersecurity Preparedness Act
 - 2022-12-08 — Senate amendment agreed to: Amendment SA 6510 agreed to in Senate by Unanimous Consent.
 - 2022-12-08 — Senate amendment proposed (on the floor): Amendment SA 6510 proposed by Senator Cardin for Senator Hassan.
 - 2022-12-08 — Senate amendment submitted
+- 2022-12-09 — Message on Senate action sent to the House.
+- 2022-12-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-12 — Ms. Norton moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9659-9661)
+- 2022-12-12 — The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 7535.
+- 2022-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-13 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 519). (consideration: CR H9717-9718; text: 12/12/2022 CR H9659-9660)
+- 2022-12-13 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 519).
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-21 — Became Public Law No: 117-260.
+- 2022-12-21 — Became Public Law No: 117-260.
+- 2022-12-21 — Signed by President.
+- 2022-12-21 — Signed by President.
