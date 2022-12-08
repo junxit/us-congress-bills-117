@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1482
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1482
@@ -16,7 +16,7 @@ Of inquiry requesting the President and directing the Secretary of Defense and S
 
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
 - Rep. Gosar, Paul A. [R-AZ-4] (G000565)
@@ -29,6 +29,7 @@ Of inquiry requesting the President and directing the Secretary of Defense and S
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
 
 ## Committees (1)
 
@@ -39,3 +40,8 @@ Of inquiry requesting the President and directing the Secretary of Defense and S
 - 2022-11-17 — Introduced in House
 - 2022-11-17 — Introduced in House
 - 2022-11-17 — Referred to the House Committee on Foreign Affairs.
+- 2022-12-06 — Committee Consideration and Mark-up Session Held.
+- 2022-12-06 — Ordered to be Reported Adversely by the Yeas and Nays: 26 - 22.
+- 2022-12-08 — Placed on the House Calendar, Calendar No. 159.
+- 2022-12-08 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-613.
+- 2022-12-08 — Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-613.
