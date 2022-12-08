@@ -38,7 +38,7 @@ This Act may be cited as “Billy’s Law” or the “Help Find the Missing Act
     - **(J)** to conduct data analytics and research projects for the purpose of enhancing knowledge, best practices, and training related to missing and unidentified person cases, as well as developing NamUs system enhancements;
     - **(K)** to create and maintain a secure, online, nationwide critical incident response tool for professionals that will connect law enforcement, medico-legal and emergency management professionals, as well as victims and families during a critical incident; and
     - **(L)** for other purposes consistent with the goals of this section.
-- **(c)** *Amendments to the Crime Control Act of 1990 To require reports of missing children to NamUs*
+- **(c)** *Amendments to the Crime Control Act of 1990 to require reports of missing children to NamUs*
   - **(1)** *Reporting requirement* Section 3701(a) of the Crime Control Act of 1990 (34 U.S.C. 41307(a)) is amended by striking the period and inserting the following: “and, consistent with section 3 (including rules promulgated pursuant to section 3(c)) of the Help Find the Missing Act, shall also report such case, either directly or through authorization described in such section to transmit, enter, or share information on such case, to the NamUs databases.”.
   - **(2)** *State requirements* Section 3702 of the Crime Control Act of 1990 (34 U.S.C. 41308) is amended—
     - **(A)** in paragraph (2), by striking “or the National Crime Information Center computer database” and inserting “, the National Crime Information Center computer database, or the NamUs databases”;
