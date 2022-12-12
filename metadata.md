@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1479
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1479
@@ -25,3 +25,8 @@ Of inquiry requesting the President transmit certain documents in his possession
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Referred to the House Committee on Oversight and Reform.
+- 2022-12-06 — Committee Consideration and Mark-up Session Held.
+- 2022-12-06 — Ordered to be Reported Unfavorably in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 18.
+- 2022-12-12 — Placed on the House Calendar, Calendar No. 160.
+- 2022-12-12 — Reported adversely (Amended) by the Committee on Oversight and Reform. H. Rept. 117-614.
+- 2022-12-12 — Reported adversely (Amended) by the Committee on Oversight and Reform. H. Rept. 117-614.
