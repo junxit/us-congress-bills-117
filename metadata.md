@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8622
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8622
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 123 Sou
 
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 
-## Cosponsors (31)
+## Cosponsors (52)
 
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Garamendi, John [D-CA-3] (G000559)
@@ -49,6 +49,27 @@ To designate the facility of the United States Postal Service located at 123 Sou
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Jacobs, Sara [D-CA-53] (J000305)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Issa, Darrell E. [R-CA-50] (I000056)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Conway, Connie [R-CA-22] (C001128)
+- Rep. McCarthy, Kevin [R-CA-23] (M001165)
+- Rep. Pelosi, Nancy [D-CA-12] (P000197)
 
 ## Committees (1)
 
@@ -59,3 +80,11 @@ To designate the facility of the United States Postal Service located at 123 Sou
 - 2022-07-29 — Introduced in House
 - 2022-07-29 — Introduced in House
 - 2022-07-29 — Referred to the House Committee on Oversight and Reform.
+- 2022-12-06 — Committee Consideration and Mark-up Session Held.
+- 2022-12-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9667-9668)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8622.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9667)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9667)
