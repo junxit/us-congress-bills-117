@@ -1,7 +1,7 @@
 ---
 measure: S. 4902
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4902
@@ -28,3 +28,7 @@ Invent Here, Make Here for Homeland Security Act
 
 - 2022-09-21 — Introduced in Senate
 - 2022-09-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-239.
+- 2022-12-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-239.
+- 2022-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.
