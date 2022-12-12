@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7514
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7514
@@ -45,3 +45,11 @@ To designate the facility of the United States Postal Service located at 345 Sou
 - 2022-04-14 — Introduced in House
 - 2022-04-14 — Introduced in House
 - 2022-04-14 — Referred to the House Committee on Oversight and Reform.
+- 2022-05-11 — Committee Consideration and Mark-up Session Held.
+- 2022-05-11 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: H9671-9672)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7514.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9671)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9671)
