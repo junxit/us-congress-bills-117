@@ -1,7 +1,7 @@
 ---
 measure: S. 2708
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2708
@@ -16,7 +16,20 @@ Land Grant-Mercedes Traditional Use Recognition and Consultation Act
 
 - Sen. Lujan, Ben Ray [D-NM] (L000570)
 
+## Cosponsors (1)
+
+- Sen. Heinrich, Martin [D-NM] (H001046)
+
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
 ## Actions
 
 - 2021-08-10 — Introduced in Senate
 - 2021-08-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2022-06-07 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2022-07-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2022-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-242.
+- 2022-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-242.
+- 2022-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 619.
