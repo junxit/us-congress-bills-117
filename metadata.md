@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7988
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7988
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 79125 C
 
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Cosponsors (46)
+## Cosponsors (49)
 
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Huffman, Jared [D-CA-2] (H001068)
@@ -64,6 +64,9 @@ To designate the facility of the United States Postal Service located at 79125 C
 - Rep. Issa, Darrell E. [R-CA-50] (I000056)
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Garcia, Mike [R-CA-25] (G000061)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
 
 ## Committees (1)
 
@@ -74,3 +77,13 @@ To designate the facility of the United States Postal Service located at 79125 C
 - 2022-06-08 — Introduced in House
 - 2022-06-08 — Introduced in House
 - 2022-06-08 — Referred to the House Committee on Oversight and Reform.
+- 2022-09-20 — Committee Consideration and Mark-up Session Held.
+- 2022-09-20 — Request to order reported by unanimous consent failed.
+- 2022-11-17 — Committee Consideration and Mark-up Session Held.
+- 2022-11-17 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9664-9665)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7988.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9664)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9664)
