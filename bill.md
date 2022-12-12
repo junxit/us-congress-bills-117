@@ -2,16 +2,18 @@
 legis-num: S. 1466
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1466
 
-> To authorize the Director of the United States Geological Survey to establish a regional program to assess, monitor, and benefit the hydrology of saline lakes in the Great Basin and the migratory birds and other wildlife dependent on those habitats, and for other purposes.
+That the bill from the Senate (S. 1466) entitled “An Act to authorize the Director of the United States Geological Survey to establish a regional program to assess, monitor, and benefit the hydrology of saline lakes in the Great Basin and the migratory birds and other wildlife dependent on those habitats, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Saline Lake Ecosystems in the Great Basin States Program Act of 2021”.
+This Act may be cited as the “Saline Lake Ecosystems in the Great Basin States Program Act of 2022”.
 
 ## § 2. Saline Lake Ecosystems in the Great Basin States Assessment and Monitoring Program
 
@@ -37,7 +39,7 @@ This Act may be cited as the “Saline Lake Ecosystems in the Great Basin States
     - **(D)** such other matters as the Secretary determines to be appropriate.
   - **(4)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to Congress a report describing the work and implementation plan established under paragraph (1).
 - **(d)** *Implementation* The Secretary shall implement the Program based on the information, findings, and recommendations contained in the work and implementation plan established under subsection (c).
-- **(e)** *Cooperative agreements and grants* Using such sums as the Secretary considers to be appropriate of amounts made available for each fiscal year under subsection (g), the Secretary may enter into cooperative funding agreements with, or provide grants to, entities described in subsection (c)(2) for the purposes of—
+- **(e)** *Cooperative agreements and grants* The Secretary may enter into cooperative funding agreements with, or provide grants to, entities described in subsection (c)(2) for the purposes of—
   - **(1)** participating in developing, or providing information to inform the development of, the work and implementation plan under subsection (c);
   - **(2)** carrying out assessments and monitoring of water quality, quantity, use, and demand under the Program; and
   - **(3)** carrying out ecological, biological, and avian assessments and monitoring under the Program.
