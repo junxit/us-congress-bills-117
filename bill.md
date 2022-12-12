@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3296
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -24,12 +24,14 @@ This Act may be cited as the “TSA Reaching Across Nationalities, Societies, an
 - **(c)** *Considerations* In developing the plan required under subsection (a), the Administrator, acting through the Office of Civil Rights and Liberties, Ombudsman, and Traveler Engagement of the Transportation Security Administration, shall consider data regarding the following:
   - **(1)** International enplanement.
   - **(2)** Local populations surrounding major airports.
-- **(d)** *Implementation* Not later than 180 days after the submission of the plan required under subsection (a), the Administrator shall implement such plan.
+  - **(3)** Languages spoken by members of Indian Tribes within each service area population in which a major airport is located.
+- **(d)** *Implementation* Not later than 180 days after the submission of the plan required under subsection (a), the Administrator, in consultation with the owner or operator of each major airport, shall implement such plan.
 - **(e)** *GAO review* Not later than 1 year after the implementation pursuant to subsection (d) of the plan required under subsection (a), the Comptroller General of the United States shall—
   - **(1)** conduct a review of such implementation; and
   - **(2)** submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a report on such review.
 - **(f)** *Definitions* In this section:
   - **(1)** *Administrator* The term “Administrator” means the Administrator of the Transportation Security Administration.
-  - **(2)** *Major airport* The term “major airport” means an airport classified by the Transportation Security Administration as a Category X or Category I airport.
-  - **(3)** *Non-traveling individual* The term “non-traveling individual” has the meaning given such term in section 1560.3 of title 49, Code of Federal Regulations.
-  - **(4)** *TSA material* The term “TSA material” means signs, videos, audio messages, websites, press releases, social media postings, and other communications published and disseminated by the Administrator in major airports for use by both traveling and non-traveling individuals.
+  - **(2)** *Indian tribe* The term Indian Tribe means an Indian Tribe, as defined in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5130), individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of that Act (25 U.S.C. 5131).
+  - **(2)(3)** *Major airport* The term “major airport” means an airport classified by the Transportation Security Administration as a Category X or Category I airport.
+  - **(3)(4)** *Non-traveling individual* The term “non-traveling individual” has the meaning given such term in section 1560.3 of title 49, Code of Federal Regulations.
+  - **(4)(5)** *TSA material* The term “TSA material” means signs, videos, audio messages, websites, press releases, social media postings, and other communications published and disseminated by the Administrator in major airports for use by both traveling and non-traveling individuals.

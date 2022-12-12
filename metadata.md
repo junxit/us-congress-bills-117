@@ -1,7 +1,7 @@
 ---
 measure: S. 3296
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3296
@@ -28,3 +28,7 @@ TRANSLATE Act
 
 - 2021-12-01 — Introduced in Senate
 - 2021-12-01 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-03-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2022-12-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2022-12-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2022-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.
