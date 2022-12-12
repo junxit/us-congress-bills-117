@@ -1,7 +1,7 @@
 ---
 measure: S. 314
 congress: 117
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
