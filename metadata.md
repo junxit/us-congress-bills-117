@@ -1,7 +1,7 @@
 ---
 measure: S. 314
 congress: 117
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 314
@@ -53,3 +53,9 @@ Klamath Tribe Judgment Fund Repeal Act
 - 2022-12-12 — Placed on the Union Calendar, Calendar No. 445.
 - 2022-12-12 — Reported by the Committee on Natural Resources. H. Rept. 117-617.
 - 2022-12-12 — Reported by the Committee on Natural Resources. H. Rept. 117-617.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-21 — Became Public Law No: 117-261.
+- 2022-12-21 — Became Public Law No: 117-261.
+- 2022-12-21 — Signed by President.
+- 2022-12-21 — Signed by President.
