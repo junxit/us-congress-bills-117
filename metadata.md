@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9074
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9074
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 333 Nor
 
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Cosponsors (8)
+## Cosponsors (50)
 
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
@@ -26,6 +26,48 @@ To designate the facility of the United States Postal Service located at 333 Nor
 - Rep. Issa, Darrell E. [R-CA-50] (I000056)
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 - Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Garcia, Mike [R-CA-25] (G000061)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Conway, Connie [R-CA-22] (C001128)
+- Rep. Obernolte, Jay [R-CA-8] (O000019)
 
 ## Committees (1)
 
@@ -36,3 +78,11 @@ To designate the facility of the United States Postal Service located at 333 Nor
 - 2022-09-29 — Introduced in House
 - 2022-09-29 — Introduced in House
 - 2022-09-29 — Referred to the House Committee on Oversight and Reform.
+- 2022-12-06 — Committee Consideration and Mark-up Session Held.
+- 2022-12-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9667)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9074.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9667)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9667)
