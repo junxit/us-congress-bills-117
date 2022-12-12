@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3262
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -286,3 +286,87 @@ Section 1325(a) of title 49, United States Code, is amended—
 
 - **(a)** *In general* Notwithstanding any other provision of law, the Administrator of the Federal Motor Carrier Safety Administration shall make permanent the waiver described in the document issued by the Administrator entitled “Waiver for States Concerning Third Party CDL Skills Test Examiners In Response to the COVID–19 Emergency” and dated August 31, 2021.
 - **(b)** *Rulemaking* Not later than 90 days after the date of enactment of this Act, the Administrator of the Federal Motor Carrier Safety Administration shall revise section 384.228 of title 49, Code of Federal Regulations, to provide that the waiver referred to in subsection (a) shall be permanent.
+
+## § 2. Dwell time statistics
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Director* The term Director means the Director of the Bureau of Transportation Statistics.
+  - **(2)** *Marine container* The term marine container means an intermodal container with a length of—
+    - **(A)** not less than 20 feet; and
+    - **(B)** not greater than 45 feet.
+  - **(3)** *Out of service percentage* The term out of service percentage means the proportion of the chassis fleet for any defined geographical area that is out of service at any one time.
+  - **(4)** *Street dwell time* The term street dwell time, with respect to a piece of equipment, means the quantity of time during which the piece of equipment is in use outside of the terminal.
+- **(b)** *Authority to collect data*
+  - **(1)** *In general* Each port, marine terminal operator, and chassis owner or provider with a fleet of over 50 chassis that supply chassis for a fee shall submit to the Director such data as the Director determines to be necessary for the implementation of this section, subject to subchapter III of chapter 35 of title 44, United States Code.
+  - **(2)** *Approval by OMB* Subject to the availability of appropriations, not later than 60 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall approve an information collection for purposes of this section.
+- **(c)** *Publication* Subject to the availability of appropriations, not later than 240 days after the date of enactment of this Act, and not less frequently than monthly thereafter, the Director shall publish statistics relating to the dwell time of equipment used in intermodal transportation at the top 25 intermodal freight facilities, including—
+  - **(1)** total street dwell time, from all causes, of marine containers and marine container chassis; and
+  - **(2)** the average out of service percentage, which shall not be identifiable with any particular port, marine terminal operators, or chassis provider.
+- **(d)** *Factors* Subject to the availability of appropriations, to the maximum extent practicable, the Director shall publish the statistics described in subsection (c) on a local, regional, and national basis.
+- **(e)** *Sunset* The authority under this section shall expire December 31, 2026.
+
+## § 3. Federal Maritime Commission activities
+
+- **(a)** *Public submissions to Commission* The Federal Maritime Commission (referred to in this Act as the Commission) shall—
+  - **(1)** establish on the public website of the Commission a webpage that allows for the submission of comments, complaints, concerns, reports of noncompliance, requests for investigation, and requests for alternative dispute resolution; and
+  - **(2)** direct each submission under the link established under paragraph (1) to the appropriate component office of the Commission.
+- **(b)** *Authorization of Office of Consumer Affairs and Dispute Resolution Services* The Commission shall maintain an Office of Consumer Affairs and Dispute Resolution Services to provide nonadjudicative ombuds assistance, mediation, facilitation, and arbitration to resolve challenges and disputes involving cargo shipments, household good shipments, and cruises subject to the jurisdiction of the Commission.
+- **(c)** *Enhancing capacity for investigations*
+  - **(1)** *In general* Pursuant to section 41302 of title 46, United States Code, not later than 18 months after the date of enactment of this Act, the Chairperson of the Commission shall staff within the Bureau of Enforcement, the Bureau of Certification and Licensing, the Office of the Managing Director, the Office of Consumer Affairs and Dispute Resolution Services, and the Bureau of Trade Analysis not fewer than 7 total positions to assist in investigations and oversight, in addition to the positions within the Bureau of Enforcement, the Bureau of Certification and Licensing, the Office of the Managing Director, the Office of Consumer Affairs and Dispute Resolution Services, and the Bureau of Trade Analysis on that date of enactment.
+  - **(2)** *Duties* The additional staff appointed under paragraph (1) shall provide support—
+    - **(A)** to Area Representatives of the Bureau of Enforcement;
+    - **(B)** to attorneys of the Bureau of Enforcement in enforcing the laws and regulations subject to the jurisdiction of the Commission;
+    - **(C)** for the alternative dispute resolution services of the Commission; or
+    - **(D)** for the review of agreements and activities subject to the authority of the Commission.
+
+## § 4. Temporary emergency authority
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Common carrier* The term common carrier has the meaning given the term in section 40102 of title 46, United States Code.
+  - **(2)** *Motor carrier* The term motor carrier has the meaning given the term in section 13102 of title 49, United States Code.
+  - **(3)** *Rail carrier* The term rail carrier has the meaning given the term in section 10102 of title 49, United States Code.
+  - **(4)** *Shipper* The term shipper has the meaning given the term in section 40102 of title 46, United States Code.
+- **(b)** *Public input on information sharing*
+  - **(1)** *In general* Not later than 60 days after the date of enactment of this Act, the Commission shall issue a request for information, seeking public comment regarding—
+    - **(A)** whether congestion of the carriage of goods has created an emergency situation of a magnitude such that there exists a substantial, adverse effect on the competitiveness and reliability of the international ocean transportation supply system;
+    - **(B)** whether an emergency order under this section would alleviate such an emergency situation; and
+    - **(C)** the appropriate scope of such an emergency order, if applicable.
+  - **(2)** *Consultation* During the public comment period under paragraph (1), the Commission may consult, as the Commission determines to be appropriate, with—
+    - **(A)** other Federal departments and agencies; and
+    - **(B)** persons with expertise relating to maritime and freight operations.
+- **(c)** *Authority to require information sharing* On making a unanimous determination described in subsection (d), the Commission may issue an emergency order requiring any common carrier or marine terminal operator to share directly with relevant shippers, rail carriers, or motor carriers information relating to cargo throughput and availability, in order to ensure the efficient transportation, loading, and unloading of cargo to or from—
+  - **(1)** any inland destination or point of origin;
+  - **(2)** any vessel; or
+  - **(3)** any point on a wharf or terminal.
+- **(d)** *Description of determination*
+  - **(1)** *In general* A determination referred to in subsection (c) is a unanimous determination by the commissioners on the Commission that congestion of common carriage of goods has created an emergency situation of a magnitude such that there exists a substantial, adverse effect on the competitiveness and reliability of the international ocean transportation supply system.
+  - **(2)** *Factors for consideration* In issuing an emergency order pursuant to subsection (c), the Commission shall tailor the emergency order with respect to temporal and geographic scope, taking into consideration the likely burdens on ocean carriers and marine terminal operators and the likely benefits on congestion relating to the purposes described in section 40101 of title 46, United States Code.
+- **(e)** *Petitions for exception*
+  - **(1)** *In general* A common carrier or marine terminal operator subject to an emergency order issued pursuant to this section may submit to the Commission a petition for exception from 1 or more requirements of the emergency order, based on a showing of undue hardship or other condition rendering compliance with such a requirement impracticable.
+  - **(2)** *Determination* The Commission shall make a determination regarding a petition for exception under paragraph (1) by—
+    - **(A)** majority vote; and
+    - **(B)** not later than 21 days after the date on which the petition is submitted.
+  - **(3)** *Inapplicability pending review* The requirements of an emergency order that is the subject of a petition for exception under this subsection shall not apply to the petitioner during the period for which the petition is pending.
+- **(f)** *Limitations*
+  - **(1)** *Term* An emergency order issued pursuant to this section—
+    - **(A)** shall remain in effect for a period of not longer than 60 days; but
+    - **(B)** may be renewed by a unanimous determination of the Commission.
+  - **(2)** *Sunset* The authority provided by this section shall terminate on the date that is 18 months after the date of enactment of this Act.
+  - **(3)** *Investigative authority unaffected* Nothing in this section shall affect the investigative authorities of the Commission as described in subpart R of part 502 of title 46, Code of Federal Regulations.
+
+## § 5. Best practices for chassis pools
+
+- **(a)** *In general* Not later than April 1, 2023, the Commission shall enter into an agreement with the Transportation Research Board of the National Academies of Sciences, Engineering, and Medicine under which the Transportation Research Board shall carry out a study and develop best practices for on-terminal or near-terminal chassis pools that provide service to marine terminal operators, motor carriers, railroads, and other stakeholders that use the chassis pools, with the goal of optimizing supply chain efficiency and effectiveness.
+- **(b)** *Requirements* In developing best practices under subsection (a), the Transportation Research Board shall—
+  - **(1)** take into consideration—
+    - **(A)** practical obstacles to the implementation of chassis pools; and
+    - **(B)** potential solutions to those obstacles; and
+  - **(2)** address relevant communication practices, information sharing, and knowledge management.
+- **(c)** *Publication* The Commission shall publish the best practices developed under this section on a publicly available website by not later than April 1, 2024.
+- **(d)** *Funding* Subject to appropriations, the Commission may expend such sums as are necessary, but not to exceed $500,000, to carry out this section.
+
+## § 6. Licensing testing
+
+- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator of the Federal Motor Carrier Safety Administration (referred to in this section as the “Administrator”) shall conduct a review of the discretionary waiver authority described in the document issued by the Administrator entitled “Waiver for States Concerning Third Party CDL Skills Test Examiners In Response to the COVID–19 Emergency” and dated August 31, 2021, for safety concerns.
+- **(b)** *Permanent waiver* If the Administrator finds no safety concerns after conducting a review under subsection (a), the Administrator shall, notwithstanding any other provision of law, make the waiver permanent.
+- **(c)** *Rulemaking* Not later than 90 days after completing the review under subsection (a), the Administrator shall revise section 384.228 of title 49, Code of Federal Regulations, to provide that the discretionary waiver authority referred to in subsection (a) shall be permanent.
