@@ -1,7 +1,7 @@
 ---
 measure: S. 314
 congress: 117
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 314
@@ -20,9 +20,10 @@ Klamath Tribe Judgment Fund Repeal Act
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,17 @@ Klamath Tribe Judgment Fund Repeal Act
 - 2021-05-28 — Held at the desk.
 - 2021-05-28 — Received in the House.
 - 2022-02-07 — Referred to the House Committee on Natural Resources.
+- 2022-02-08 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2022-04-27 — Subcommittee Hearings Held.
+- 2022-12-08 — Committee Consideration and Mark-up Session Held.
+- 2022-12-08 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-08 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: H9676-9677)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on S. 314.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9676)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9676)
+- 2022-12-12 — Placed on the Union Calendar, Calendar No. 445.
+- 2022-12-12 — Reported by the Committee on Natural Resources. H. Rept. 117-617.
+- 2022-12-12 — Reported by the Committee on Natural Resources. H. Rept. 117-617.
