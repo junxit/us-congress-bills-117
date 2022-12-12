@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 1516
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1516
+
+> Approving certain regulations to implement provisions of the Congressional Accountability Act of 1995 relating to the Family and Medical Leave Act of 1993 with respect to employees of the House of Representatives covered under section 202 of the Act and relating to the Fair Labor Standards Act of 1938 with respect to employees of the House of Representatives covered under section 203 of the Act, and for other purposes.
+
+## § 1. Approval of regulations relating to Family and Medical Leave Act
+
+- **(a)** *In general* The regulations described in subsection (b) are hereby approved, insofar as such regulations apply to covered employees of the House of Representatives under the Congressional Accountability Act of 1995 and to the extent such regulations are consistent with the provisions of such Act.
+- **(b)** *Regulations approved* The regulations described in this subsection are the regulations issued by the Office of Congressional Workplace Rights on December 7, 2021, under section 202(e) of the Congressional Accountability Act of 1995 to implement section 202 of such Act (relating to the application of sections 101 through 105 of the Family and Medical Leave Act of 1993), as published in the Congressional Record on December 7, 2021 (Volume 167, daily edition) on pages H7230 through H7258, and stated as follows:
+  > ## § 825.1. Purpose and scope
+  >
+  > - **(a)** Section 202 of the Congressional Accountability Act (CAA) (2 U.S.C. 1312) applies the rights and protections of sections 101 through 105 of the Family and Medical Leave Act of 1993 (FMLA) (29 U.S.C. 2611–2615) to covered employees. (The term “covered employee” is defined in section 101(3) of the CAA (2 U.S.C. 1301(3)). See 825.102 of these regulations for that definition.) The purpose of this part is to set forth the regulations to carry out the provisions of section 202 of the CAA.
+  > - **(b)** These regulations are issued by the Board of Directors (Board) of the Office of Congressional Workplace Rights, pursuant to sections 202(d) and 304 of the CAA, which direct the Board to promulgate regulations implementing section 202 that are “the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of section 202 of the CAA except insofar as the Board may determine, for good cause shown . . . that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.”. The regulations issued by the Board herein are on all matters for which section 202 of the CAA requires regulations to be issued. Specifically, it is the Board’s considered judgment, based on the information available to it at the time of the promulgation of these regulations, that, with the exception of regulations adopted and set forth herein, there are no other “substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of section 202 of the CAA.”.
+  > - **(c)** On December 20, 2019, Congress enacted the Federal Employee Paid Leave Act (subtitle A of title LXXVI of division F of the National Defense Authorization Act for Fiscal Year 2020, Public Law 116–92, December 20, 2019) (FEPLA). FEPLA amended the FMLA to allow most Federal employees, including eligible employees in the legislative branch, to substitute up to 12 weeks of paid parental leave (PPL) for unpaid FMLA leave granted in connection with the birth of an employee’s son or daughter or for the placement of a son or daughter with an employee for adoption or foster care.
+  >
+  > - **(d)** In promulgating these regulations, the Board has made certain technical and nomenclature changes to the regulations as promulgated by the Secretary. Such changes are intended to make the provisions adopted accord more naturally to situations in the legislative branch. However, by making these changes, the Board does not intend a substantive difference between these regulations and those of the Secretary from which they are derived. Moreover, such changes, in and of themselves, are not intended to constitute an interpretation of the regulation or of the statutory provisions of the CAA upon which they are based.
+  > - **(e)** Pursuant to section 304(b)(4) of the CAA, (2 U.S.C. 1384(b)(4)), the Board of Directors is required to recommend to Congress a method of approval for these regulations. As the Board has adopted the same regulations for the Senate, the House of Representatives, and the other covered entities and facilities, it therefore recommends that the adopted regulations be approved by concurrent resolution of the Congress.
+
+## § 2. Approval of regulations relating to Fair Labor Standards Act
+
+- **(a)** *In general* The regulations described in subsection (b) are hereby approved, insofar as such regulations apply to covered employees of the House of Representatives under the Congressional Accountability Act of 1995 and to the extent such regulations are consistent with the provisions of such Act.
+- **(b)** *Regulations approved* The regulations described in this subsection are the regulations issued by the Office of Congressional Workplace Rights on September 28, 2022, under section 203(c)(2) of the Congressional Accountability Act of 1995 to implement section 203 of such Act (relating to the application of overtime requirements under the Fair Labor Standards Act of 1938), as published in the Congressional Record on September 28, 2022 (Volume 168, daily edition) on pages H8203 through H8217, and stated as follows:
