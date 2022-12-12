@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2551
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2551
@@ -39,3 +39,9 @@ Bonneville Shoreline Trail Advancement Act
 - 2022-11-16 — Placed on the Union Calendar, Calendar No. 411.
 - 2022-11-16 — Reported by the Committee on Natural Resources. H. Rept. 117-570.
 - 2022-11-16 — Reported by the Committee on Natural Resources. H. Rept. 117-570.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9678-9680)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2551.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9679)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9679)
