@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7496
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7496
@@ -37,3 +37,9 @@ To direct the Secretary of the Interior to install a plaque at the peak of Ram H
 - 2022-12-07 — Placed on the Union Calendar, Calendar No. 438.
 - 2022-12-07 — Reported by the Committee on Natural Resources. H. Rept. 117-605.
 - 2022-12-07 — Reported by the Committee on Natural Resources. H. Rept. 117-605.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9682-9683)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7496.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9682)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9682)
