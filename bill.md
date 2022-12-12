@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1466
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1466
 
-That the bill from the Senate (S. 1466) entitled “An Act to authorize the Director of the United States Geological Survey to establish a regional program to assess, monitor, and benefit the hydrology of saline lakes in the Great Basin and the migratory birds and other wildlife dependent on those habitats, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To authorize the Director of the United States Geological Survey to establish a regional program to assess, monitor, and benefit the hydrology of saline lakes in the Great Basin and the migratory birds and other wildlife dependent on those habitats, and for other purposes.
 
 ## § 1. Short title
 

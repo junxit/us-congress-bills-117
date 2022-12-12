@@ -1,7 +1,7 @@
 ---
 measure: S. 1466
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1466
@@ -47,3 +47,13 @@ Saline Lake Ecosystems in the Great Basin States Program Act of 2022
 - 2022-12-12 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 56 (Roll no. 518). (text: CR H9678)
 - 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 56 (Roll no. 518).(text: CR H9678)
+- 2022-12-13 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2022-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1466 by Unanimous Consent.
+- 2022-12-19 — Senate agreed to the House amendment to S. 1466 by Unanimous Consent. (consideration: CR S7302)
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-318.
+- 2022-12-27 — Became Public Law No: 117-318.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
