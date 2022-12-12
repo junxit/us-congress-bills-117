@@ -25,7 +25,3 @@ This Act may be cited as the “Valley Forge Park Realignment Permit and Promise
       - **(ii)** a point on Valley Forge Park Road located 500 feet northwest of its intersection with County Line Road.
   - **(2)** *Park* The term Park means Valley Forge National Historical Park.
   - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
-
-## § 3. Determination of budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
