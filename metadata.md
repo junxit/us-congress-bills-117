@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6042
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6042
@@ -34,3 +34,12 @@ To designate the facility of the United States Postal Service located at 213 Wil
 - 2021-11-18 — Introduced in House
 - 2021-11-18 — Introduced in House
 - 2021-11-18 — Referred to the House Committee on Oversight and Reform.
+- 2022-04-06 — Committee Consideration and Mark-up Session Held.
+- 2022-04-06 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: H9670-9671)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6042.
+- 2022-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
+- 2022-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9670)
+- 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9670)
+- 2022-12-12 — The title of the measure was amended. Agreed to without objection.
