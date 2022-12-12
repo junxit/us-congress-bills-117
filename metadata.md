@@ -1,7 +1,7 @@
 ---
 measure: S. 5066
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5066
@@ -28,3 +28,7 @@ Don Young Recognition Act
 
 - 2022-09-29 — Introduced in Senate
 - 2022-09-29 — Read twice and referred to the Committee on Environment and Public Works.
+- 2022-12-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7104-7105; text: CR S7104-7105)
+- 2022-12-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7104-7105; text: CR S7104-7105)
+- 2022-12-12 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2022-12-12 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
