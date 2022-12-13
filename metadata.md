@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7519
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7519
@@ -50,3 +50,4 @@ To designate the facility of the United States Postal Service located at 2050 So
 - 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9665)
 - 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9665)
+- 2022-12-13 — Received in the Senate, read twice.
