@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2187
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 1 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for chapter 1 of title 23, United States Code, is amended by adding after the item relating to section 171 the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for chapter 1 of title 23, United States Code, is amended by adding after the item relating to section 176 the following: | the bill names no machine-readable US Code section |
