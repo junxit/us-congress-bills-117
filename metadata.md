@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7873
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7873
@@ -39,3 +39,4 @@ To designate the facility of the United States Postal Service located at 400 Sou
 - 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2022-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9663)
 - 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9663)
+- 2022-12-13 — Received in the Senate.
