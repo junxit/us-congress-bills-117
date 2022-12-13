@@ -1,7 +1,7 @@
 ---
 measure: H.R. 473
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 473
@@ -39,3 +39,7 @@ Trusted Traveler Reconsideration and Restoration Act of 2021
 - 2021-04-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1898-1899)
 - 2021-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1898-1899)
 - 2021-04-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-07-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-253.
+- 2022-12-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-253.
+- 2022-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 637.
