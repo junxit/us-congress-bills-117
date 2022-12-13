@@ -1,7 +1,7 @@
 ---
 measure: S. 5006
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5006
@@ -33,3 +33,7 @@ African Diaspora Heritage Month Act of 2022
 
 - 2022-09-29 — Introduced in Senate
 - 2022-09-29 — Read twice and referred to the Committee on the Judiciary.
+- 2022-12-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7150; text: CR S7150)
+- 2022-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.
