@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6427
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6427
@@ -39,3 +39,4 @@ Red River National Wildlife Refuge Boundary Modification Act
 - 2022-12-12 — Placed on the Union Calendar, Calendar No. 443.
 - 2022-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-615.
 - 2022-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-615.
+- 2022-12-13 — Received in the Senate, read twice.
