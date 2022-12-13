@@ -1,7 +1,7 @@
 ---
 measure: S. 2439
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 659` | strike | in subparagraph (G), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 659` | strike | in subparagraph (G), by striking “and;” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 659` | insert | in subparagraph (H), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 659` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 659` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
