@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1478
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1478
@@ -25,3 +25,8 @@ Calling for the submission to the House of Representatives of certain informatio
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Referred to the House Committee on the Judiciary.
+- 2022-12-07 — Committee Consideration and Mark-up Session Held.
+- 2022-12-07 — Ordered to be Reported Without Recommendation (Amended) by Voice Vote.
+- 2022-12-13 — Placed on the House Calendar, Calendar No. 164.
+- 2022-12-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-624.
+- 2022-12-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-624.
