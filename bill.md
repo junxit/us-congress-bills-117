@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2439
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “DHS Industrial Control Systems Capabilities Enha
 
 - **(a)** *In general* Section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659) is amended—
   - **(1)** in subsection (e)(1)—
-    - **(A)** in subparagraph (G), by striking “and” after the semicolon;
+    - **(A)** in subparagraph (G), by striking “and;” after the semicolon;
     - **(B)** in subparagraph (H), by inserting “and” after the semicolon; and
     - **(C)** by adding at the end the following new subparagraph:
       > - **(I)** activities of the Center address the security of both information technology and operational technology, including industrial control systems;
@@ -31,7 +31,7 @@ This Act may be cited as the “DHS Industrial Control Systems Capabilities Enha
     >   - **(5)** conduct such other efforts and assistance as the Secretary determines appropriate.
 
 - **(b)** *Report to Congress* Not later than 180 days after the date of the enactment of this Act and every 6 months thereafter during the subsequent 4-year period, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a briefing on the industrial control systems capabilities of the Agency under section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659), as amended by subsection (a).
-- **(c)** *GAO review* Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall review implementation of the requirements of subsections (e)(1)(I) and (p) of section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659), as amended by subsection (a), and submit to the Committee on Homeland Security and Government Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report containing findings and recommendations relating to such implementation. Such report shall include information on the following:
+- **(c)** *GAO review* Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall review implementation of the requirements of subsections (e)(1)(I) and (p) of section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659), as amended by subsection (a), and submit to the Committee on Homeland Security and GovernmentGovernmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report containing findings and recommendations relating to such implementation. Such report shall include information on the following:
   - **(1)** Any interagency coordination challenges to the ability of the Director of the Cybersecurity and Infrastructure Agency of the Department of Homeland Security to lead Federal efforts to identify and mitigate cybersecurity threats to industrial control systems pursuant to subsection (p)(1) of such section 2209.
   - **(2)** The degree to which the Agency has adequate capacity, expertise, and resources to carry out threat hunting and incident response capabilities to mitigate cybersecurity threats to industrial control systems pursuant to subsection (p)(2) of such section 2209, as well as additional resources that would be needed to close any operational gaps in such capabilities.
   - **(3)** The extent to which industrial control system stakeholders sought cybersecurity technical assistance from the Agency pursuant to subsection (p)(3) of such section 2209, and the utility and effectiveness of such technical assistance.
