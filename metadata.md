@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1467
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1467
@@ -25,3 +25,6 @@ Of inquiry requesting the President to transmit certain documents to the House o
 - 2022-11-14 — Introduced in House
 - 2022-11-14 — Introduced in House
 - 2022-11-14 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2022-12-13 — Placed on the House Calendar, Calendar No. 162.
+- 2022-12-13 — Reported by the Committee on Intelligence. H. Rept. 117-621.
+- 2022-12-13 — Reported by the Committee on Intelligence. H. Rept. 117-621.
