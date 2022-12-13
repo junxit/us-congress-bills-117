@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 60
 congress: 117
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 60
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Scott, Tim [R-SC] (S001184)
 
-## Cosponsors (20)
+## Cosponsors (24)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Cassidy, Bill [R-LA] (C001075)
@@ -38,6 +38,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cotton, Tom [R-AR] (C001095)
 
 ## Committees (1)
 
@@ -47,3 +51,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2022-09-08 — Introduced in Senate
 - 2022-09-08 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2022-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.
+- 2022-12-13 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2022-12-13 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
