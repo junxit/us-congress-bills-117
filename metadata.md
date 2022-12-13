@@ -1,7 +1,7 @@
 ---
 measure: S. 4926
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4926
@@ -30,3 +30,13 @@ Respect for Child Survivors Act
 
 - 2022-09-22 — Introduced in Senate
 - 2022-09-22 — Read twice and referred to the Committee on the Judiciary.
+- 2022-12-13 — Amendment SA 6519 agreed to in Senate by Unanimous Consent.
+- 2022-12-13 — Amendment SA 6519 proposed by Senator Schumer for Senator Cornyn. (consideration: CR S7149; text: CR S7146-7147) In the nature of a substitute.
+- 2022-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S7149)
+- 2022-12-13 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7146-7147)
+- 2022-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7146-7147)
+- 2022-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-13 — Senate amendment agreed to: Amendment SA 6519 agreed to in Senate by Unanimous Consent.
+- 2022-12-13 — Senate amendment proposed (on the floor): Amendment SA 6519 proposed by Senator Schumer for Senator Cornyn.
+- 2022-12-13 — Senate amendment submitted
