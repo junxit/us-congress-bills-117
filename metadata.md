@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5715
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5715
@@ -38,3 +38,4 @@ To reauthorize the Morris K. Udall and Stewart L. Udall Trust Fund, and for othe
 - 2022-12-12 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2022-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9680)
 - 2022-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9680)
+- 2022-12-13 — Received in the Senate.
