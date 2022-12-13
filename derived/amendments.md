@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6427
 congress: 117
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
