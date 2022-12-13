@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6427
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6427
@@ -40,3 +40,12 @@ Red River National Wildlife Refuge Boundary Modification Act
 - 2022-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-615.
 - 2022-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-615.
 - 2022-12-13 — Received in the Senate, read twice.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7302)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-296.
+- 2022-12-27 — Became Public Law No: 117-296.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
