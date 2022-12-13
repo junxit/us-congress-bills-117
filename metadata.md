@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7952
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 7952
@@ -44,3 +44,4 @@ Valley Forge Park Realignment Permit and Promise Act
 - 2022-12-12 — Placed on the Union Calendar, Calendar No. 444.
 - 2022-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-616.
 - 2022-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-616.
+- 2022-12-13 — Received in the Senate.
