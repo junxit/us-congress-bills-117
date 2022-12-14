@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1516
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1516
@@ -27,3 +27,5 @@ Approving certain regulations to implement provisions of the Congressional Accou
 - 2022-12-12 — Introduced in House
 - 2022-12-12 — Referred to the Committee on House Administration, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-12-12 — Referred to the Committee on House Administration, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-12-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1518, H. Res. 1516 is considered passed House.
+- 2022-12-14 — Pursuant to the provisions of H. Res. 1518, H. Res. 1516 is considered passed House. (consideration: CR text: H9752-9803; text: CR H9752-9803)
