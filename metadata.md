@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1437
@@ -78,3 +78,13 @@ Further Continuing Appropriations and Extensions Act, 2023
 - 2022-11-17 — Senate amendment agreed to: Amendment SA 6485 agreed to in Senate by Unanimous Consent.
 - 2022-11-17 — Senate amendment proposed (on the floor): Amendment SA 6485 proposed by Senator Schumer for Senator Wicker.
 - 2022-11-17 — Senate amendment submitted
+- 2022-11-25 — Message on Senate action sent to the House.
+- 2022-12-14 — Considered as unfinished business. (consideration: CR H9839-9840)
+- 2022-12-14 — DEBATE - The House proceeded with one hour of debate on the House amendment to the Senate amendment to H.R. 1437.
+- 2022-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-14 — Ms. DeLauro moved that the House agree with an amendment to the Senate amendment.
+- 2022-12-14 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 224 - 201 (Roll No. 523). (text: CR H9811-9813)
+- 2022-12-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the House amendment to the Senate amendment to H.R. 1437, the Chair put the question on concurring the in the Senate amendment with an amendment and by voice vote, announced that the ayes had prevailed. Ms. Granger demanded the yeas and nays and the Chair postponed further proceedings on concurring in the Senate amendment with an amendment until a time to be announced.
+- 2022-12-14 — Pursuant to the provisions of H. Res. 1518, Ms. DeLauro called up H.R. 1437 and moved that the House agree to the Senate amendment with an amendment. (consideration: CR H9811, H9813-9815)
+- 2022-12-14 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 224 - 201 (Roll No. 523).
+- 2022-12-14 — The previous question was ordered pursuant to the rule.
