@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1437
@@ -16,7 +16,7 @@ Further Continuing Appropriations and Extensions Act, 2023
 
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 
-## Cosponsors (26)
+## Cosponsors (31)
 
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
@@ -44,6 +44,11 @@ Further Continuing Appropriations and Extensions Act, 2023
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Braun, Mike [R-IN] (B001310)
 
 ## Committees (1)
 
@@ -88,3 +93,56 @@ Further Continuing Appropriations and Extensions Act, 2023
 - 2022-12-14 — Pursuant to the provisions of H. Res. 1518, Ms. DeLauro called up H.R. 1437 and moved that the House agree to the Senate amendment with an amendment. (consideration: CR H9811, H9813-9815)
 - 2022-12-14 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 224 - 201 (Roll No. 523).
 - 2022-12-14 — The previous question was ordered pursuant to the rule.
+- 2022-12-15 — Amendment SA 6534 proposed by Senator Schumer. (consideration: CR S7220; text: CR S7220) To add an effective date.
+- 2022-12-15 — Amendment SA 6535 proposed by Senator Schumer to Amendment SA 6534. (consideration: CR S7220; text: CR S7220) To modify the effective date.
+- 2022-12-15 — Amendment SA 6536 proposed by Senator Schumer. (consideration: CR S7220; text: CR S7220) To add an effective date.
+- 2022-12-15 — Amendment SA 6537 proposed by Senator Schumer to Amendment SA 6536 (the instructions of the motion to refer). (consideration: CR S7220; text: CR S7220) To modify the effective date.
+- 2022-12-15 — Amendment SA 6538 proposed by Senator Schumer to Amendment SA 6537. (consideration: CR S7220; text: CR S7220) To modify the effective date.
+- 2022-12-15 — Amendment SA 6540 proposed by Senator Scott FL. (consideration: CR S7240-7241; text: CR S7240) To rescind certain funding provided to the Internal Revenue Service under section 10301 of Public Law 117-169 and to protect American small businesses, gig workers, and freelancers by repealing the burdensome American Rescue Plan Act of 2021 transactions reporting threshold.
+- 2022-12-15 — Amendment SA 6540, under the order of 12/15/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 47. Record Vote Number: 397.
+- 2022-12-15 — Amendment SA 6541 proposed by Senator Lee. (consideration: CR S7238-7240) In the nature of a substitute.
+- 2022-12-15 — Amendment SA 6541, as modified, not agreed to in Senate by Yea-Nay Vote. 35 - 56. Record Vote Number: 398. (text as modified: CR S7238-7239)
+- 2022-12-15 — Measure laid before Senate by motion. (consideration: CR S7219-7226, S7237-7242)
+- 2022-12-15 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2022-12-15 — Motion by Senator Lee to concur in the House amendment to the Senate amendment to H.R. 1437 with an amendment (SA 6541 as modified) made in Senate. (CR S7238)
+- 2022-12-15 — Motion by Senator Lee to concur in the House amendment to the Senate amendment to H.R. 1437 with an amendment (SA 6541 as modified) was not agreed to by Yea-Nay Vote. 35 - 56. Record Vote Number: 398.
+- 2022-12-15 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 1437 made in Senate. (CR S7220)
+- 2022-12-15 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 1437 with an amendment (SA 6534) made in Senate. (CR S7220)
+- 2022-12-15 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 1437 with an amendment (SA 6534) withdrawn in Senate by Unanimous Consent.
+- 2022-12-15 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 1437 with instructions to report back forthwith with the following amendment (SA 6536) made in Senate.
+- 2022-12-15 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 1437 with instructions to report back forthwith with the following amendment (SA 6536) withdrawn in Senate by Unanimous Consent. (consideration: CR S7220)
+- 2022-12-15 — Motion by Senator Scott of Florida to concur in the House amendment to the Senate amendment to H.R. 1437 with an amendment (SA 6540) made in Senate. (CR S7240)
+- 2022-12-15 — Motion by Senator Scott of Florida to concur in the House amendment to the Senate amendment to H.R. 1437 with an amendment (SA 6540) under the order of 12/15/22, not having achieved 60 votes in the affirmative, was not agreed to by Yea-Nay Vote. 45 - 47. Record Vote Number: 397.
+- 2022-12-15 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 75 - 20. Record Vote Number: 393.
+- 2022-12-15 — Proposed amendment SA 6534 withdrawn in Senate.
+- 2022-12-15 — Proposed amendment SA 6536 withdrawn in Senate.
+- 2022-12-15 — Resolving differences -- Senate actions: Senate agreed, under the order of 12/15/22, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1437 by Yea-Nay Vote. 71 - 19. Record Vote Number: 399.
+- 2022-12-15 — Roll call votes on amendments in Senate: Amendment SA 6540, under the order of 12/15/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 47. Record Vote Number: 397.
+- 2022-12-15 — Roll call votes on amendments in Senate: Amendment SA 6541, as modified, not agreed to in Senate by Yea-Nay Vote. 35 - 56. Record Vote Number: 398.
+- 2022-12-15 — SA 6535 fell when SA 6534 withdrawn.
+- 2022-12-15 — SA 6537 fell when SA 6536 withdrawn.
+- 2022-12-15 — SA 6538 fell when SA 6537 fell.
+- 2022-12-15 — Senate agreed, under the order of 12/15/22, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 1437 by Yea-Nay Vote. 71 - 19. Record Vote Number: 399.
+- 2022-12-15 — Senate amendment not agreed to: Amendment SA 6540, under the order of 12/15/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 47. Record Vote Number: 397.
+- 2022-12-15 — Senate amendment not agreed to: Amendment SA 6541, as modified, not agreed to in Senate by Yea-Nay Vote. 35 - 56. Record Vote Number: 398.
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6534 proposed by Senator Schumer.
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6535 proposed by Senator Schumer to Amendment SA 6534.
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6536 proposed by Senator Schumer.
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6537 proposed by Senator Schumer to Amendment SA 6536 (the instructions of the motion to refer).
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6538 proposed by Senator Schumer to Amendment SA 6537.
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6540 proposed by Senator Scott FL.
+- 2022-12-15 — Senate amendment proposed (on the floor): Amendment SA 6541 proposed by Senator Lee.
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-15 — Senate amendment submitted
+- 2022-12-16 — Became Public Law No: 117-229.
+- 2022-12-16 — Became Public Law No: 117-229.
+- 2022-12-16 — Message on Senate action sent to the House.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Presented to President.
+- 2022-12-16 — Signed by President.
+- 2022-12-16 — Signed by President.
