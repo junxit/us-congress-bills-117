@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 9553
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9553
+
+> To streamline the budget process at the Department of Defense.
+
+## § 1. Short title
+
+This Act may be cited as the “Streamline Pentagon Budgeting Act of 2022”.
+
+## § 2. Repeal of reporting requirements related to unfunded properties
+
+Chapter 9 of title 10, United States Code, is amended—
+
+- **(1)** by repealing section 222a;
+- **(2)** by repealing section 222b; and
+- **(3)** in the table of sections at the beginning of the chapter, by striking the items relating to sections 222a and 222b.
