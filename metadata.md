@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7832
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7832
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 396 Sou
 
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 
-## Cosponsors (28)
+## Cosponsors (50)
 
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
@@ -46,6 +46,28 @@ To designate the facility of the United States Postal Service located at 396 Sou
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Jacobs, Sara [D-CA-53] (J000305)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Issa, Darrell E. [R-CA-50] (I000056)
+- Rep. Garcia, Mike [R-CA-25] (G000061)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Valadao, David G. [R-CA-21] (V000129)
+- Rep. Conway, Connie [R-CA-22] (C001128)
+- Rep. Kim, Young [R-CA-39] (K000397)
+- Rep. Steel, Michelle [R-CA-48] (S001135)
 
 ## Committees (1)
 
@@ -56,3 +78,14 @@ To designate the facility of the United States Postal Service located at 396 Sou
 - 2022-05-19 — Introduced in House
 - 2022-05-19 — Introduced in House
 - 2022-05-19 — Referred to the House Committee on Oversight and Reform.
+- 2022-09-20 — Committee Consideration and Mark-up Session Held.
+- 2022-09-20 — Request to order reported by unanimous consent failed.
+- 2022-11-17 — Committee Consideration and Mark-up Session Held.
+- 2022-11-17 — Ordered to be Reported by the Yeas and Nays: 24 - 16.
+- 2022-12-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9663; text: CR H9663)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7832.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-14 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789.
+- 2022-12-14 — Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789. (consideration: CR H9803-9810; text: CR H9805)
+- 2022-12-14 — Pursuant to the provisions of H. Res. 1518, proceedings on H.R. 7832 are considered vacated.
