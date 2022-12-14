@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1517
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -39,9 +39,9 @@ The Mineral Leasing Act (30 U.S.C. 181 et seq.) is amended—
 Section 17 of the Mineral Leasing Act (30 U.S.C. 226) is amended—
 
 - **(1)** in subsection (b)(1)(B)—
-  - **(A)** by striking “$2 per acre” and inserting “$5 per acre, except as otherwise provided by this paragraph”; and
+  - **(A)** by striking “$2 per acre” and inserting “$10 per acre, except as otherwise provided by this paragraph”; and
   - **(B)** by striking “Federal Onshore Oil and Gas Leasing Reform Act of 1987” and inserting “Ending Taxpayer Welfare for Oil and Gas Companies Act of 2021”;
-- **(2)** in subsection (b)(2)(C), by striking “$2 per acre” and inserting “$5 per acre”; and
+- **(2)** in subsection (b)(2)(C), by striking “$2 per acre” and inserting “$10 per acre”; and
 - **(3)** by adding at the end the following:
   > - **(q)** *Inflation adjustment* The Secretary shall—
   >   - **(1)** by regulation, at least once every 4 years, adjust each of the dollar amounts that apply under subsections (b)(1)(B), (b)(2)(C), and (d) to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics; and
@@ -68,6 +68,7 @@ The Mineral Leasing Act (30 U.S.C. 181 et seq.) is amended—
   >     - **(D)** $9,800 for each lease or unit or communitization agreement with more than 50 wells, with any combination of active or inactive wells.
   >   - **(3)** *Due date* Payment of the fee under this section shall be due not later than 30 days after the Secretary provides notice of the assessment of the fee.
   >   - **(4)** *Penalty* If the designated operator fails to pay the full amount of the fee as prescribed in this section, the Secretary may, in addition to utilizing any other applicable enforcement authority, assess civil penalties against the operator under section 109 in the same manner as if this section were a mineral leasing law.
+  >   - **(5)** *Exemption for Tribal Operators* An operator that is a Tribe or is controlled by a Tribe is not subject to paragraph (1) with respect to a lease, unit, or communitization agreement that is located entirely on the lands of such Tribe.
 
 - **(b)** *Assessment for fiscal year 2020* The Secretary of the Interior shall assess the fee under the amendment made by subsection (a) for fiscal year 2020, and provide notice of such assessment to each designated operator who is liable for such fee, by not later than 60 days after the date of the enactment of this Act.
 
@@ -240,8 +241,9 @@ Section 304 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C.
     - **(A)** gas used or consumed within the area of the lease tract for the benefit of the lease; and
     - **(B)** all gas that is consumed or lost by venting, flaring, or fugitive releases through any equipment during upstream operations.
   - **(2)** *Exception* Paragraph (1) shall not apply with respect to—
-    - **(A)** gas vented or flared for not longer than 48 hours in an acute emergency situation that poses a danger to human health; and
-    - **(B)** gas injected into the ground on a lease tract in order to enhance production of an oil or gas well or for some other purpose.
+    - **(A)** gas vented or flared for not longer than 48 hours in an acute emergency situation that poses a danger to human health;
+    - **(B)** gas injected into the ground on a lease tract in order to enhance production of an oil or gas well or for some other purpose; and
+    - **(C)** gas used or consumed within the area of the lease tract for the benefit of the lease when the operator is a Tribe or is controlled by a Tribe that is located entirely on the lands of such Tribe.
 - **(b)** *Conforming amendments*
   - **(1)** *Mineral Leasing Act* The Mineral Leasing Act is amended—
     - **(A)** in section 14 (30 U.S.C. 223), by adding at the end the following: “Notwithstanding any other provision of this Act (including this section), royalty shall be assessed with respect to oil and gas, other than gas described in section 124(a)(2) of the Ending Taxpayer Welfare for Oil and Gas Companies Act of 2021, without regard to whether oil or gas is removed or sold from the leased land.”;
