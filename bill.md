@@ -1,0 +1,18 @@
+---
+legis-num: S. RES. 873
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 873
+
+> To authorize the production of records by the Secretary of the Senate and the Senate Sergeant at Arms.
+
+## Preamble
+
+- Whereas, the Secretary of the Senate and the Senate Sergeant at Arms have received subpoenas for Senate personnel records from the Department of Homeland Security for use as evidence in a pending administrative investigation and adjudication;
+- Whereas, by the privileges of the Senate of the United States and Rule XI of the Standing Rules of the Senate, no evidence under the control or in the possession of the Senate can, by administrative or judicial process, be taken from such control or possession but by permission of the Senate;
+- Whereas, when it appears that evidence under the control or in the possession of the Senate is needed for the promotion of justice, the Senate will take such action as will promote the ends of justice consistent with the privileges of the Senate: Now, therefore, be it
+
+That the Secretary of the Senate and the Senate Sergeant at Arms are authorized to provide to the Department of Homeland Security records sought, respectively, by the subpoenas issued to them.
