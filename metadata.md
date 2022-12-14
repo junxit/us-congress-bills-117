@@ -1,7 +1,7 @@
 ---
 measure: S. 3429
 congress: 117
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 3429
