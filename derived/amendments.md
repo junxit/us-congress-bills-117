@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 6801
 
-> in paragraph (1), by striking “section 3(f)” and inserting “803(f)”;
+> in paragraph (1), by striking “section 3(f)” and inserting “ section 803(f)”;
 
 | | |
 |---|---|
 | Removed | `section 3(f)` |
-| Inserted | `803(f)` |
+| Inserted | `section 803(f)` |
 
 ### 16 U.S.C. § 6801
 
