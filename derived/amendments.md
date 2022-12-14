@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1503
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-33 amendatory instructions. 7 executed, 26 stated and not applied.
+30 amendatory instructions. 5 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,24 +62,6 @@ to guess them.
 
 ### 30 U.S.C. § 226
 
-> by striking “The Secretary” at the beginning and inserting “(1) In General.—The Secretary”; and
-
-| | |
-|---|---|
-| Removed | `The Secretary` |
-| Inserted | `(1) In General.—The Secretary` |
-
-### 30 U.S.C. § 241
-
-> in paragraph (1), by striking “The Secretary of the Interior” and inserting “Subject to paragraph (6), the Secretary of the Interior”; and
-
-| | |
-|---|---|
-| Removed | `The Secretary of the Interior` |
-| Inserted | `Subject to paragraph (6), the Secretary of the Interior` |
-
-### 30 U.S.C. § 226
-
 > in subsection (g) by striking “lands or surface waters adversely” and inserting “surface or ground waters or lands adversely”;
 
 | | |
@@ -96,8 +78,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 226` | amend | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | amend | Section 17(b)(1)(A) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | replace | Section 17 of the Mineral Leasing Act (30 U.S.C. 226(a)) is amended by striking the matter preceding “(a) All lands” and all that follows through the end of subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | replace | Section 17(b)(1) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended by striking all that precedes “(A) All lands” and all that follows through the end of subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | amend | Subparagraph (B) of section 17(b)(1) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | amend | Section 17(d) of the Mineral Leasing Act (30 U.S.C. 226(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | strike | in section 17(b) (30 U.S.C. 226(b)), by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -108,17 +90,16 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 188` | strike | in paragraph (3) by striking “(A)” and by striking subparagraph (B); | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 188` | strike | by striking section 31(f) (30 U.S.C. 188(f)); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | replace | by striking “(g) The Secretary of the Interior” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 226` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | add-at-end | Section 17(b) of the Mineral Leasing Act (30 U.S.C. 226(b)), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | replace | Section 17(f) of the Mineral Leasing Act (30 U.S.C. 226(f)) is amended by striking “At least” and all that follows through “agencies.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 226` | replace | Section 17(f) of the Mineral Leasing Act (30 U.S.C. 226(f)) is amended by striking “(f) At least” and all that follows through “agencies.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 226` | add-at-end | Section 17 of the Mineral Leasing Act (30 U.S.C. 226), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 15922` | amend | Section 363(b)(3)(C) of the Energy Policy Act of 2005 (42 U.S.C. 15922(b)(3)(C)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by section 2, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by sections 2 and 5 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by section 2 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 184` | strike | Section 27(d)(1) of the Mineral Leasing Act (30 U.S.C. 184(d)(1)) is amended by striking “, and acreage under any lease any portion of which has been committed to a federally approved unit or cooperative plan or communitization agreement… | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 226` | add-at-end | Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 2(g) of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 15927` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by sections 2, 5, and 6 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | add-at-end | Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by sections 2 and 5 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | insert | Section 31(b) of the Mineral Leasing Act (30 U.S.C. 188(b)) is amended by inserting “if the lease was improperly issued or” after “30 days notice”. | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 226` | redesignate | by redesignating subsection (p) as subsection (q); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | insert | by inserting after subsection (o) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
