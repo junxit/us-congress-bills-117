@@ -19,20 +19,22 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
 - **(b)** *Planning grants*
   - **(1)** *In general* The Secretary shall provide grants to eligible entities to develop comprehensive plans under paragraph (2) related to AAM infrastructure.
   - **(2)** *Comprehensive plan*
-    - **(A)** *In general* Not later than 1 year after receiving a grant under this subsection, an eligible entity shall submit to the Secretary a comprehensive plan in a format capable of being published on the website of the Department of Transportation.
-    - **(B)** *Plan contents* The Secretary shall establish content requirements for comprehensive plans submitted under this subsection, which shall include not less than 1 of the following:
-      - **(i)** The identification of planned or potential vertiport locations.
+    - **(A)** *In general* Not later than 1 year after receiving a grant under this subsection, an eligible entity shall submit to the Secretary a comprehensive plan, including the development of potential public use and private vertiport infrastructure, in a format capable of being published on the website of the Department of Transportation.
+    - **(B)** *Plan contents* The Secretary shall establish content requirements for comprehensive plans submitted under this subsection, which shall include not less than 1 of the followingas many of the following:
+      - **(i)** The identification of planned or potential public use and private vertiport locations.
       - **(ii)** A description of infrastructure necessary to support AAM operations.
       - **(iii)** A description of types of planned or potential AAM operations and forecast for proposed vertiport operations, including estimates for initial operations and future growth.
       - **(iv)** The identification of physical and digital infrastructure required to meet any standards for vertiport design and performance characteristics established by the Federal Aviation Administration (as in effect on the date on which the Secretary issues a grant to an eligible entity), including modifications to existing infrastructure and ground sensors, electric charging or other fueling requirements, electric utility requirements, wireless and cybersecurity requirements, fire safety, perimeter security, and other necessary hardware or software.
       - **(v)** A description of any hazard associated with planned vertiport infrastructure, such as handling of hazardous materials, batteries, or other fuel cells, charging or fueling of aircraft, aircraft rescue and firefighting response, and emergency planning.
-      - **(vi)** A description of potential environmental effects of planned construction or siting of vertiports.
-      - **(vii)** A description of how planned vertiport locations, including new or repurposed infrastructure, fit into State and local transportation systems and networks, including—
+      - **(vi)** A description of potential environmental effects of planned or potential construction or siting of vertiports.
+      - **(vii)** A description of how planned or potential vertiport locations, including new or repurposed infrastructure, fit into State and local transportation systems and networks, including—
         - **(I)** connectivity to existing public transportation hubs and intermodal and multimodal facilities;
         - **(II)** opportunities to create new service to rural areas and areas underserved by air transportation; or
-        - **(III)** opportunities to utilize existing aviation infrastructure, such as airports and heliports, for AAM operations.
+        - **(III)** opportunities to utilize existing aviation infrastructure, such as airports and heliports, for AAM operations.; or
+        - **(IV)** any potential conflict with existing aviation infrastructure that may arise from the potential location of the vertiport.
       - **(viii)** A description of how vertiport planning will be incorporated in State or metropolitan planning documents.
       - **(ix)** The identification of the process an eligible entity will undertake to ensure an adequate level of engagement with any potentially impacted community for each planned vertiport location and planned or anticipated AAM operations, such as engagement with communities in rural areas, underserved communities, individuals with disabilities, or racial and ethnic minorities.
+      - **(ix)** The identification of the process an eligible entity will undertake to ensure an adequate level of engagement with any potentially impacted community for each planned or potential vertiport location and planned or anticipated AAM operations, such as engagement with communities in rural areas, underserved communities, Tribal communities, individuals with disabilities, or racial and ethnic minorities.
       - **(x)** The identification of the actions necessary for an eligible entity to undertake the construction of a vertiport, such as planning studies to assess existing infrastructure or newly identified areas of AAM integration, environmental studies, studies of projected economic benefit to the community, lease or acquisition of an easement or land for new infrastructure, and activities related to other capital costs.
       - **(xi)** The identification of State, local, or private sources of funding an eligible entity may use to assist with the construction or operation of a vertiport.
       - **(xii)** The identification of existing Federal aeronautical and airspace requirements that must be met for the eligible entity's planned vertiport location.
@@ -44,30 +46,30 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
       - **(ii)** Diversity of the proposed models of infrastructure financing and management.
       - **(iii)** Diversity of anticipated or planned AAM operations.
       - **(iv)** The need for comprehensive plans that—
-        - **(I)** facilitate the safe and efficient integration of AAM operations into the National Airspace System;
+        - **(I)** facilitateensure the safe and efficient integration of AAM operations into the National Airspace System;
         - **(II)** improve transportation safety, connectivity, and access in both rural and urban regions in the United States;
         - **(III)** leverage existing public transportation systems and intermodal and multimodal facilities or newly identified areas of AAM integration;
         - **(IV)** reduce surface congestion and the environmental impacts of transportation;
         - **(V)** grow the economy and create jobs in the United States; and
         - **(VI)** encourage community engagement when planning for AAM-related infrastructure.
-    - **(B)** *Priority* The Secretary shall prioritize awarding grants under this subsection to eligible entities that partner with commercial AAM entities, institutions of higher education, research institutions, or other relevant stakeholders to develop and prepare a comprehensive plan.
+    - **(B)** *Priority* The Secretary shall prioritize awarding grants under this subsection to eligible entities that partnerto applications that capture as many items in paragraph (2)(B) as possible and to eligible entities that collaborate with commercial AAM entities, institutions of higher education, research institutions, or other relevant stakeholders to develop and prepare a comprehensive plan.
     - **(C)** *Minimum allocation to rural areas* The Secretary shall ensure that not less than 20 percent of the amounts made available under subsection (c) are used to award grants to eligible entities that submit a comprehensive plan under paragraph (2) that is related to infrastructure located in a rural area.
   - **(5)** *Grant amount* Each grant made under this subsection shall be made in an amount that is not more than $1,000,000.
   - **(6)** *Briefing*
-    - **(A)** *In general* Not later than 180 days after the first comprehensive plan is submitted under paragraph (2), and every 180 days thereafter through September 30, 2024, the Secretary shall provide a briefing to the appropriate committees of Congress on the comprehensive plans submitted to the Secretary under such paragraph.
+    - **(A)** *In general* Not later than 180 days after the first comprehensive plan is submitted under paragraph (2), and every 180 days thereafter through September 30, 2024September 30, 2025, the Secretary shall provide a briefing to the appropriate committees of Congress on the comprehensive planson each of the comprehensive plans submitted to the Secretary under such paragraph.
     - **(B)** *Contents* The briefing required under subparagraph (A) shall include—
-      - **(i)** an evaluation of all planned or proposed vertiport locations included in the comprehensive plans submitted under paragraph (2) and how such planned or proposed vertiport locations may fit into the overall United States transportation system and network; and
+      - **(i)** an evaluation of all planned or proposedplanned or potential vertiport locations included in the comprehensive plans submitted under paragraph (2) and how such planned or proposedplanned or potential vertiport locations may fit into the overall United States transportation system and network; and
       - **(ii)** a description of lessons or best practices learned through the review of comprehensive plans and how the Secretary will incorporate any such lessons or best practices into Federal standards or guidance for the design and operation of AAM infrastructure and facilities.
 - **(c)** *Authorization of appropriations*
-  - **(1)** *Authorization* There are authorized to be appropriated to the Secretary to carry out this section $12,500,000 for each of fiscal years 2022 and 2023, to remain available until expended.
+  - **(1)** *Authorization* There are authorized to be appropriated to the Secretary to carry out this section $12,500,000 for each of fiscal years 2022 and 2023fiscal years 2023 and 2024, to remain available until expended.
   - **(2)** *Administrative expenses* Of the amounts made available under paragraph (1), the Secretary may retain up to 1 percent for personnel, contracting, and other costs to establish and administer the pilot program under this section.
 - **(d)** *Termination*
-  - **(1)** *In general* No grant may be awarded under this section after September 30, 2023.
-  - **(2)** *Continued funding* Funds authorized to be appropriated pursuant to subsection (c) may be expended after September 30, 2023—
-    - **(A)** for grants awarded prior to September 30, 2023; and
+  - **(1)** *In general* No grant may be awarded under this section after September 30, 2023September 30, 2024.
+  - **(2)** *Continued funding* Funds authorized to be appropriated pursuant to subsection (c) may be expended after September 30, 2023September 30, 2024—
+    - **(A)** for grants awarded prior to September 30, 2023September 30, 2024; and
     - **(B)** for administrative expenses.
 - **(e)** *Definitions* In this Act:
-  - **(1)** *Advanced air mobility; AAM* The terms advanced air mobility and AAM mean a transportation system that transports individuals or property between points in the United States using aircraft with innovative capabilities, including aircraft that use 2 or more lift or thrust units to generate powered lift and control during vertical takeoff or landing, that may be piloted, remotely piloted, or autonomous, including those powered by electric or hybrid driven propulsion, in both controlled and uncontrolled airspace.
+  - **(1)** *Advanced air mobility; AAM* The terms advanced air mobility and AAM mean a transportation system that transports individuals or property between points in the United States using aircraft with innovative capabilities, including aircraft that use 2 or more lift or thrust units to generate powered lift and control during vertical takeoff or landing, that may be piloted, remotely piloted, or autonomous, including those powered by electric or hybrid driven propulsionalternative propulsion, in both controlled and uncontrolled airspace.
   - **(2)** *Appropriate committees of Congress* The term appropriate committees of Congress means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(3)** *Commercial AAM entities* The term commercial AAM entities means—
     - **(A)** manufacturers of aircraft, avionics, propulsion systems, and air traffic management systems related to AAM;
@@ -85,3 +87,14 @@ This Act may be cited as the “Advanced Aviation Infrastructure Modernization A
   - **(7)** *Secretary* The term Secretary means the Secretary of Transportation.
   - **(8)** *State* The term State means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
   - **(9)** *Vertiport* The term vertiport means a designated location used or intended to be used to support AAM operations, including the landing, takeoff, loading, taxiing, parking, and storage of aircraft developed for AAM operations.
+
+## § 3. GAO study and report
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall—
+  - **(1)** conduct a study on the interests, roles, and responsibilities of Federal, State, local, and Tribal governments affected by AAM aircraft and operations; and
+  - **(2)** submit to the appropriate committees of Congress a report on the study, including the Comptroller General's findings and conclusions.
+- **(b)** *Requirements* In conducting the study required under subsection (a), the Comptroller General shall review the following:
+  - **(1)** The state of the law as of the enactment of this Act with respect to Federal authority over operations of AAM aircraft systems in the national airspace system.
+  - **(2)** The state of the law as of the enactment of this Act with respect to State, local, and Tribal authority over operations of AAM aircraft in the national airspace system.
+  - **(3)** Potential gaps between authorities under paragraphs (1) and (2).
+  - **(4)** Proposals to facilitate the safe and financially viable growth and development of the AAM industry and integration of AAM aircraft into the national airspace system.

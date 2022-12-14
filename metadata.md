@@ -1,7 +1,7 @@
 ---
 measure: S. 4246
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4246
@@ -28,3 +28,7 @@ AAIM Act
 
 - 2022-05-18 — Introduced in Senate
 - 2022-05-18 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2587-2588)
+- 2022-05-25 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2022-12-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2022-12-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2022-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 646.
