@@ -1,7 +1,7 @@
 ---
 measure: H.R. 160
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 16 U.S.C. § 6403
 
-> in subsection (a), by striking “this section” and inserting “section 213”;
+> in subsection (a), by striking “this section” and inserting “section 213”; and
 
 | | |
 |---|---|
@@ -53,5 +53,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 6401` | replace | The Coral Reef Conservation Act of 2000 (16 U.S.C. 6401 et seq.) is amended by striking sections 202 and 203 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6401` | replace | The Coral Reef Conservation Act of 2000 (16 U.S.C. 6401 et seq.) is amended by striking sections 205 through 210 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6403` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6403` | strike | by striking subsections (c) through (j). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
