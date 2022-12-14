@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1917
 congress: 117
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1917
@@ -55,3 +55,13 @@ Hazard Eligibility and Local Projects Act
 - 2021-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 16 (Roll no. 359). (text: 11/3/2021 CR H6136-6137)
 - 2021-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 16 (Roll no. 359).(text: 11/3/2021 CR H6136-6137)
 - 2021-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-12-14 — Amendment SA 6525 agreed to in Senate by Unanimous Consent.
+- 2022-12-14 — Amendment SA 6525 proposed by Senator Schumer for Senator Peters. (consideration: CR S7190; text: CR S7190) In the nature of a substitute.
+- 2022-12-14 — Measure laid before Senate by unanimous consent. (consideration: CR S7190)
+- 2022-12-14 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7190)
+- 2022-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7190)
+- 2022-12-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-14 — Senate amendment agreed to: Amendment SA 6525 agreed to in Senate by Unanimous Consent.
+- 2022-12-14 — Senate amendment proposed (on the floor): Amendment SA 6525 proposed by Senator Schumer for Senator Peters.
+- 2022-12-14 — Senate amendment submitted
