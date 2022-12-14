@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1503
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,23 +15,27 @@ This Act may be cited as the “Restoring Community Input and Public Protections
 
 ## § 2. Leasing process
 
-- **(a)** *Onshore oil and gas leasing* Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)) is amended to read as follows:
+- **(a)** *Onshore oil and gas leasing* Section 17 of the Mineral Leasing Act (30 U.S.C. 226(a)) is amended by striking the matter preceding “(a) All lands” and all that follows through the end of subsection (a) and inserting the following:
+  > ## § 17. Leasing of land containing oil or gas deposits
+  >
   > - **(a)** *Leasing authority*
   >   - **(1)** *In general* All lands subject to disposition under this Act that are known or believed to contain oil or gas deposits may be leased by the Secretary.
   >   - **(2)** *Receipt of fair market value* Leasing activities under this Act shall be conducted to assure receipt of fair market value for the lands and resources leased and the rights conveyed by the United States.
 
-- **(b)** *Competitive bidding* Section 17(b)(1)(A) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended to read as follows:
-  > - **(A)** *Competitive bidding*
-  >   - **(i)** *In general* All lands to be leased under this section shall be leased as provided in this paragraph to the highest responsible qualified bidder by competitive bidding by sealed bid.
-  >   - **(ii)** *Geographic limitation* The Secretary shall lease lands under this paragraph in units of not more than 2,560 acres, except in Alaska, where units shall be not more than 5,760 acres. Such units shall be as nearly compact as possible.
-  >   - **(iii)** *Frequency* Lease sales under this section shall be held for each State in which there are lands eligible for leasing no more than 3 times each year and on a rotating basis such that the lands under the responsibility of any Bureau of Land Management field office are available for leasing no more than one time each year.
-  >   - **(iv)** *Royalty* A lease under this section shall be conditioned upon the payment of a royalty at a rate of not less than 18.75 percent in amount or value of the production removed or sold from the lease, except as otherwise provided in this Act.
-  >   - **(v)** *Issuance of lease* The Secretary may issue a lease under this section to the responsible qualified bidder with the highest bid that is equal to or greater than the national minimum acceptable bid. The Secretary shall decide whether to accept a bid and issue a lease within 90 days following payment by the successful bidder of the remainder of the bonus bid, if any, and annual rental for the first lease year.
-  >   - **(vi)** *Rejection of bid* The Secretary may reject a bid above the national minimum acceptable bid if, after evaluation of the value of the lands proposed for lease, the Secretary determines that the bid amount does not ensure that fair market value is obtained for the lease.
+- **(b)** *Competitive bidding* Section 17(b)(1) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended by striking all that precedes “(A) All lands” and all that follows through the end of subparagraph (A) and inserting the following:
+  > - **(b)** *Bidding*
+  >   - **(1)** *In general*
+  >     - **(A)** *Competitive bidding*
+  >       - **(i)** *In general* All lands to be leased under this section shall be leased as provided in this paragraph to the highest responsible qualified bidder by competitive bidding by sealed bid.
+  >       - **(ii)** *Geographic limitation* The Secretary shall lease lands under this paragraph in units of not more than 2,560 acres, except in Alaska, where units shall be not more than 5,760 acres. Such units shall be as nearly compact as possible.
+  >       - **(iii)** *Frequency* Lease sales under this section shall be held for each State in which there are lands eligible for leasing no more than 3 times each year and on a rotating basis such that the lands under the responsibility of any Bureau of Land Management field office are available for leasing no more than one time each year.
+  >       - **(iv)** *Royalty* A lease under this section shall be conditioned upon the payment of a royalty at a rate of not less than 18.75 percent in amount or value of the production removed or sold from the lease, except as otherwise provided in this Act.
+  >       - **(v)** *Issuance of lease* The Secretary may issue a lease under this section to the responsible qualified bidder with the highest bid that is equal to or greater than the national minimum acceptable bid. The Secretary shall decide whether to accept a bid and issue a lease within 90 days following payment by the successful bidder of the remainder of the bonus bid, if any, and annual rental for the first lease year.
+  >       - **(vi)** *Rejection of bid* The Secretary may reject a bid above the national minimum acceptable bid if, after evaluation of the value of the lands proposed for lease, the Secretary determines that the bid amount does not ensure that fair market value is obtained for the lease.
 
 - **(c)** *National minimum acceptable bid* Subparagraph (B) of section 17(b)(1) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)), is amended to read as follows:
   > - **(B)** *National minimum acceptable bid*
-  >   - **(i)** *In general* Except as provided in clause (ii), for purposes of subparagraph (A), the national minimum acceptable bid shall be $5 per acre. All bids under this section for less than the national minimum acceptable bid shall be rejected.
+  >   - **(i)** *In general* Except as provided in clause (ii), for purposes of subparagraph (A), the national minimum acceptable bid shall be $10 per acre. All bids under this section for less than the national minimum acceptable bid shall be rejected.
   >   - **(ii)** *Raising the national minimum acceptable bid* The Secretary may establish a higher national minimum acceptable bid—
   >     - **(I)** beginning at the end of the 4-year period that begins on the date of enactment of the Restoring Community Input and Public Protection in Oil and Gas Leasing Act of 2021, and once every 4 years thereafter, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics; and
   >     - **(II)** at any time, if the Secretary finds that such a higher amount is necessary to enhance financial returns to the United States or to promote more efficient management of oil and gas resources on Federal lands.
@@ -39,13 +43,13 @@ This Act may be cited as the “Restoring Community Input and Public Protections
 
 - **(d)** *Rentals* Section 17(d) of the Mineral Leasing Act (30 U.S.C. 226(d)) is amended to read as follows:
   > - **(d)** *Annual rentals* All leases issued under this section shall be conditioned upon the payment by the lessee of a rental of—
-  >   - **(1)** not less than $3.00 per acre per year during the 2-year period beginning on the date the lease begins for new leases, and after the end of such two year period not less than $5 per acre per year; or
+  >   - **(1)** not less than $3.00 per acre per year during the 5-year period beginning on the date the lease begins for new leases, and after the end of such 5 year period not less than $5 per acre per year; or
   >   - **(2)** such higher rental rate as the Secretary may establish if the Secretary finds that such action is necessary to enhance financial returns to the United States and promote more efficient management of oil and gas and alternative energy resources on Federal lands.
 
 - **(e)** *Elimination of noncompetitive leasing* The Mineral Leasing Act (30 U.S.C. 181 et seq.) is amended—
   - **(1)** in section 17(b) (30 U.S.C. 226(b)), by striking paragraph (3);
   - **(2)** by amending section 17(c) (30 U.S.C. 226(c)) to read as follows:
-    > - **(c)** Lands made available for leasing under subsection (b)(1) but for which no bid is accepted may be made available by the Secretary for a new round of sealed bidding under such subsection.
+    > - **(c)** *Lands for which no bid is accepted* Lands made available for leasing under subsection (b)(1) but for which no bid is accepted may be made available by the Secretary for a new round of sealed bidding under such subsection.
 
   - **(3)** in section 17(e) (30 U.S.C. 226(e))—
     - **(A)** by striking “Competitive and noncompetitive leases” and inserting “Leases, including leases for tar sand areas,”; and
@@ -61,7 +65,10 @@ This Act may be cited as the “Restoring Community Input and Public Protections
     - **(C)** in paragraph (2), as redesignated, by striking “, applicable to leases issued under subsection 17(c) of this Act (30 U.S.C. 226(c)) except,” and inserting “, except”.
 - **(f)** *Lease term* Section 17(e) of the Mineral Leasing Act (30 U.S.C. 226(e)) is amended by striking “10 years:” and inserting “5 years.”.
 - **(g)** *Other leasing requirements* Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 8 of this Act, is further amended—
-  - **(1)** by striking “The Secretary” at the beginning and inserting “(1) In General.—The Secretary”; and
+  - **(1)** by striking “(g) The Secretary of the Interior” and inserting the following:
+    > - **(g)** *Other leasing requirements*
+    >   - **(1)** *In general* The Secretary of the Interior
+
   - **(2)** by adding at the end the following:
     > - **(2)** *Limitation* The Secretary shall not issue a lease or approve the assignment of any lease to any person, or to any subsidiary or affiliate of such person or any other person controlled by or under common control with such person, unless such person has the demonstrated capability to explore and produce oil and gas under the lease.
     > - **(3)** *Protection of leased lands for other uses* Each lease under this section shall include such terms as are necessary to preserve the United States flexibility to control or prohibit activities that pose serious and unacceptable impacts to the value of the leased lands for uses other than production of oil and gas.
@@ -73,12 +80,13 @@ This Act may be cited as the “Restoring Community Input and Public Protections
   >   - **(A)** shall require that each expression of interest to bid for a lease under this section and each bid for a lease under this section shall include the name of the person for whom such expression of interest or bid is submitted; and
   >   - **(B)** shall promptly publish each such name.
 
-- **(b)** *Notice requirements* Section 17(f) of the Mineral Leasing Act (30 U.S.C. 226(f)) is amended by striking “At least” and all that follows through “agencies.” and inserting the following:
-  > - **(1)** *Required notice* At least 45 days before offering lands for lease under this section, and at least 30 days before approving applications for permits to drill under the provisions of a lease, modifying the terms of any lease issued under this section, or granting a waiver, exception, or modification of any stipulation of a lease issued under this section, the Secretary shall provide notice of the proposed action to—
-  >   - **(A)** the general public by posting such notice in the appropriate local office and on the electronic website of the leasing and land management agencies offering the lands for lease;
-  >   - **(B)** all surface land owners in the area of the lands being offered for lease; and
-  >   - **(C)** the holders of special recreation permits for commercial use, competitive events, and other organized activities on the lands being offered for lease.
-  > - **(2)** *Required information*
+- **(b)** *Notice requirements* Section 17(f) of the Mineral Leasing Act (30 U.S.C. 226(f)) is amended by striking “(f) At least” and all that follows through “agencies.” and inserting the following:
+  > - **(f)** *Requirements prior to offering lands for lease*
+  >   - **(1)** *Required notice* At least 45 days before offering lands for lease under this section, and at least 30 days before approving applications for permits to drill under the provisions of a lease, modifying the terms of any lease issued under this section, or granting a waiver, exception, or modification of any stipulation of a lease issued under this section, the Secretary shall provide notice of the proposed action to—
+  >     - **(A)** the general public by posting such notice in the appropriate local office and on the electronic website of the leasing and land management agencies offering the lands for lease;
+  >     - **(B)** all surface land owners in the area of the lands being offered for lease; and
+  >     - **(C)** the holders of special recreation permits for commercial use, competitive events, and other organized activities on the lands being offered for lease.
+  >   - **(2)** *Required information*
 
 - **(c)** *Surface owner protection* Section 17 of the Mineral Leasing Act (30 U.S.C. 226), is amended by adding at the end the following:
   > - **(r)** *Post-Lease surface use agreement*
@@ -91,12 +99,7 @@ This Act may be cited as the “Restoring Community Input and Public Protections
   >       - **(i)** loss of income and increased costs incurred;
   >       - **(ii)** damage to or destruction of personal property, including crops, forage, and livestock; and
   >       - **(iii)** failure to reclaim the site in accordance with clause (iii).
-  >   - **(3)** *Procedure*
-  >     - **(A)** *Notice of intent to conclude agreement* An operator shall notify the surface estate owner or owners of the operator’s desire to conclude an agreement under this section. If the surface estate owner and the operator do not reach an agreement within 90 days after the operator has provided such notice, the operator may submit the matter to third-party arbitration for resolution within a period of 90 days. The cost of such arbitration shall be the responsibility of the operator.
-  >     - **(B)** *List of arbitrators* The Secretary shall identify persons with experience in conducting arbitrations and shall make this information available to operators.
-  >     - **(C)** *Referral* Referral of a matter for arbitration by an operator to an arbitrator identified by the Secretary pursuant to clause (ii) shall be sufficient to constitute compliance with clause (i).
-  >   - **(4)** *Attorneys’ fees* If action is taken to enforce or interpret any of the terms and conditions contained in a surface use agreement, the prevailing party shall be reimbursed by the other party for reasonable attorneys’ fees and actual costs incurred, in addition to any other relief which a court or arbitration panel may grant.
-  >   - **(5)** *Authorized exploration and drilling operations*
+  >   - **(3)** *Authorized exploration and drilling operations*
   >     - **(A)** *Authorization without surface use agreement* The Secretary may authorize an operator to conduct exploration and drilling operations on lands covered by paragraph (1) in the absence of an agreement with the surface estate owner or owners, if—
   >       - **(i)** the Secretary makes a determination in writing that the operator made a good faith attempt to conclude such an agreement, including referral of the matter to arbitration pursuant to paragraph (1)(C), but that no agreement was concluded within 90 days after the referral to arbitration;
   >       - **(ii)** the operator submits a plan of operations that provides for the matters specified in paragraph (1)(B) and for compliance with all other applicable requirements of Federal and State law; and
@@ -109,7 +112,7 @@ This Act may be cited as the “Restoring Community Input and Public Protections
   >       - **(v)** request and participate in an on-site inspection when they have reason to believe there is a violation of the terms and conditions of a plan of operations.
   >     - **(C)** *Payment of financial guarantee* A surface estate owner with respect to any land subject to a lease may petition the Secretary for payment of all or any portion of a bond or other financial assurance required under this section as compensation for any damages as a result of exploration and drilling operations. Pursuant to such a petition, the Secretary may use such bond or other guarantee to provide compensation to the surface estate owner for such damages.
   >     - **(D)** *Bond release* Upon request and after inspection and opportunity for surface estate owner review, the Secretary may release the financial assurance required under this section if the Secretary determines that exploration and drilling operations are ended and all damages have been fully compensated.
-  >   - **(6)** *Surface owner notification* The Secretary shall notify surface estate owners in writing—
+  >   - **(4)** *Surface owner notification* The Secretary shall notify surface estate owners in writing—
   >     - **(A)** not less than 45 days before lease sales;
   >     - **(B)** of the identity of the lessee, not more than 10 business days after a lease is issued;
   >     - **(C)** concerning any subsequent request or decision regarding a lease not more than 5 business days after such request or decision, including regarding modification of a lease, waiver of a stipulation, or approval of a right of way; and
@@ -122,60 +125,38 @@ This Act may be cited as the “Restoring Community Input and Public Protections
 
 - **(b)** *Revision of existing memorandum* Not later than 180 days after the date of the enactment of this Act the Secretary of the Interior and the Secretary of Agriculture shall revise the memorandum of understanding under section 363(b)(3)(C) of the Energy Policy Act of 2005 (42 U.S.C. 15922) in accordance with the amendment made by subsection (a).
 
-## § 5. Master leasing plans
+## § 5. Parcel review
 
-Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by section 2, is further amended by adding at the end the following:
+Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by section 2 of this Act, is further amended by adding at the end the following:
 
-> - **(3)** *Master leasing plans*
->   - **(A)** *In general* The Secretary may adopt and implement a master leasing plan to govern the issuance of oil and gas leases under this Act for any Federal lands, in accordance with Bureau of Land Management Instruction Memorandum No. 2010–117, dated May 17, 2010, as in effect on April 24, 2017.
->   - **(B)** *Factors and considerations* In deciding whether to adopt and implement a master leasing plan, the Secretary—
->     - **(i)** shall consider the criteria set forth in Bureau of Land Management Instruction Memorandum No. 2010–117, dated May 17, 2010, as in effect on April 24, 2017; and
->     - **(ii)** shall consider the benefits of avoiding conflicts between mineral leasing and other land uses, including conservation, recreation, and protection of cultural and historic resources.
->   - **(C)** *State request* The Secretary shall adopt and implement a master leasing plan under subparagraph (A) applicable to leases for Federal lands in a State or county of a State, if requested by the government of such State or county, respectively.
->   - **(D)** *Request by an individual*
->     - **(i)** *In general* Any individual who is a resident of a State or county of a State may submit a petition to the Secretary requesting that the Secretary adopt and implement a master leasing plan under subparagraph (A) applicable to the issuance of leases for Federal lands in such State or county, respectively.
->     - **(ii)** *Consideration* The Secretary shall, not later than 60 days after receiving such a petition, issue a determination of whether or not the adoption and implementation of such a master leasing plan is appropriate.
+> - **(3)** *Parcel review* The Secretary shall issue oil and gas leases under this Act only in accordance with subsections C through I of section III of Bureau of Land Management Instruction Memorandum No. 2010–117, dated May 17, 2010, as in effect on April 24, 2017.
 
-## § 6. Parcel review
-
-Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by sections 2 and 5 of this Act, is further amended by adding at the end the following:
-
-> - **(4)** *Parcel review* The Secretary shall issue oil and gas leases under this Act only in accordance with subsections C through I of section III of Bureau of Land Management Instruction Memorandum No. 2010–117, dated May 17, 2010, as in effect on April 24, 2017.
-
-## § 7. Acreage limitations
+## § 6. Acreage limitations
 
 Section 27(d)(1) of the Mineral Leasing Act (30 U.S.C. 184(d)(1)) is amended by striking “, and acreage under any lease any portion of which has been committed to a federally approved unit or cooperative plan or communitization agreement or for which royalty (including compensatory royalty or royalty in-kind) was paid in the preceding calendar year,”.
 
-## § 8. Land management
+## § 7. Land management
 
 Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 2(g) of this Act, is further amended by adding at the end the following:
 
 > - **(4)** *Multiple-use management* The Secretary, and for National Forest lands, the Secretary of Agriculture, shall manage lands that are subject to an oil and gas lease under this Act in accordance with the principles, policies, and requirements relating to multiple use under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), until the beginning of operations on such lease.
 
-## § 9. Oil shale
+## § 8. Transparency in management of leases
 
-Section 21(a) of the Mineral Leasing Act (30 U.S.C. 241(a)) is amended—
+Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by sections 2 and 5 of this Act, is further amended by adding at the end the following:
 
-- **(1)** in paragraph (1), by striking “The Secretary of the Interior” and inserting “Subject to paragraph (6), the Secretary of the Interior”; and
-- **(2)** by adding at the end the following:
-  > - **(6)** Beginning on the date of enactment of the Restoring Community Input and Public Protections in Oil and Gas Leasing Act of 2021, The Secretary may not issue any lease for oil shale under this Act before the date the Secretary issues a finding that the technical and economic feasibility of development of and production from such deposit has been demonstrated under section 369 of the Energy Policy Act of 2005 (42 U.S.C. 15927).
-
-## § 10. Transparency in management of leases
-
-Section 17(a) of the Mineral Leasing Act (30 U.S.C. 226(a)), as amended by sections 2, 5, and 6 of this Act, is further amended by adding at the end the following:
-
-> - **(5)** *Transparency in management of leases* For each lease under this section, the Secretary shall make available on a public website—
+> - **(4)** *Transparency in management of leases* For each lease under this section, the Secretary shall make available on a public website—
 >   - **(A)** the identity of—
 >     - **(i)** each person who is or has been a lessee under the lease; and
 >     - **(ii)** each person who is or has been an operator under the lease;
 >   - **(B)** notice of each transfer of the lease; and
 >   - **(C)** notice of each suspension of operations, each suspension of production, and each suspension of operations and production.
 
-## § 11. Lease cancellation for improper issuance
+## § 9. Lease cancellation for improper issuance
 
 Section 31(b) of the Mineral Leasing Act (30 U.S.C. 188(b)) is amended by inserting “if the lease was improperly issued or” after “30 days notice”.
 
-## § 12. Fees for Expressions of Interest
+## § 10. Fees for Expressions of Interest
 
 - **(a)** *In general* The Secretary shall charge any person who submits an expression of interest, as that term is defined by the Secretary, a fee, in an amount determined by the Secretary under paragraph (2).
 - **(b)** *Amount* The fee authorized under paragraph (1) shall be established by the Secretary in an amount that is determined by the Secretary to be appropriate to cover the aggregate cost of processing an expression of interest under this section, but not less than $15 per acre of the area covered by the applicable expression of interest.
@@ -183,7 +164,7 @@ Section 31(b) of the Mineral Leasing Act (30 U.S.C. 188(b)) is amended by insert
   - **(1)** to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics; and
   - **(2)** as the Secretary determines to be necessary to enhance financial returns to the United States or to promote more efficient management of oil and gas resources on Federal land.
 
-## § 13. Protection of water resources
+## § 11. Protection of water resources
 
 - **(a)** *Mineral leasing act requirements* Section 17 of the Mineral Leasing Act (30 U.S.C. 226) is amended—
   - **(1)** in subsection (g) by striking “lands or surface waters adversely” and inserting “surface or ground waters or lands adversely”;
@@ -206,10 +187,18 @@ Section 31(b) of the Mineral Leasing Act (30 U.S.C. 188(b)) is amended by insert
   - **(1)** impairing or in any manner affecting any right or jurisdiction of any State with respect to the waters of such State; or
   - **(2)** limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between States.
 
-## § 14. Fracking regulation on Federal lands
+## § 12. Fracking regulation on Federal lands
 
 - **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of the Interior, acting through the Bureau of Land Management, shall issue regulations governing the use of hydraulic fracturing under oil and gas leases for Federal lands.
 - **(b)** *Included provisions* The regulations under this section shall require—
   - **(1)** baseline water testing, the results of which shall be posted on an appropriate internet website; and
   - **(2)** public disclosure of each chemical used for hydraulic fracturing on an appropriate internet website.
 - **(c)** *Interim Application of prior rule* The final rule entitled “Oil and Gas; Hydraulic Fracturing on Federal and Indian Lands”, as published in the Federal Register March 26, 2015 (80 Fed. Reg. 16128), and corrected by the rule published on March 30, 2015 (80 Fed. Reg. 16577), shall apply until the effective date of a final rule under subsection (a).
+
+## § 13. Environmental analysis
+
+Any environmental analysis pursuant to the National Environmental Policy Act (42 U.S.C. 4321 et seq.) required under this Act shall include the estimated total cost of preparing the environmental analysis, including full-time equivalent personnel hours, contractor costs, and other direct costs.
+
+## § 14. Taxpayer funding stewardship
+
+In an effort to be good stewards of taxpayer dollars and conscientious of the demands placed upon public servants, no provisions contained within this Act shall require a duplication of analysis by any government agency, individual, or contractor, at any level including federal, state, local, or tribal and, if so determined, such provision shall be considered non-binding.
