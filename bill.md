@@ -2,20 +2,27 @@
 legis-num: H.R. 1437
 congress: 117th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 1437
 
-That the bill from the House of Representatives (H.R. 1437) entitled “An Act to amend the Weather Research and Forecasting Innovation Act of 2017 to direct the National Oceanic and Atmospheric Administration to provide comprehensive and regularly updated Federal precipitation information, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 1437) entitled “An Act to amend the Weather Research and Forecasting Innovation Act of 2017 to direct the National Oceanic and Atmospheric Administration to provide comprehensive and regularly updated Federal precipitation information, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the Senate, insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Providing Research and Estimates of Changes In Precipitation Act” or the “PRECIP Act”.
+This Act may be cited as the “Further Continuing Appropriations and Extensions Act, 2023”.
 
-## § 2. Amendment to the Weather Research and Forecasting Innovation Act of 2017 relating to improving Federal precipitation information
+## § 2. Table of Contents
 
-- **(a)** *In general* The Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501 et seq.) is amended by adding at the end the following:
-- **(b)** *Conforming amendment* Section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8501 note) is amended in the table of contents by adding at the end the following:
+The table of contents of this Act is as follows:
+
+## § 3. References
+
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
+
+## § 4. Payment to Widows and Heirs of Deceased Members of Congress
+
+There is hereby appropriated for fiscal year 2023, out of any money in the Treasury not otherwise appropriated, for payment to Colette Wallace McEachin, beneficiary of Aston Donald McEachin, late a Representative from the Commonwealth of Virginia, $174,000.
