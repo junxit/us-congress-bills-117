@@ -1,7 +1,7 @@
 ---
 measure: S. 4893
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4893
@@ -32,3 +32,5 @@ Lobbying Disclosure Improvement Act
 - 2022-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-212.
 - 2022-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-212.
 - 2022-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.
+- 2022-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S788; text: CR S7188)
+- 2022-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
