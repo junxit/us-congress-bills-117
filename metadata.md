@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6856
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6856
@@ -29,3 +29,10 @@ Securing Air Travel Act
 - 2022-02-28 — Introduced in House
 - 2022-02-28 — Introduced in House
 - 2022-02-28 — Referred to the House Committee on Homeland Security.
+- 2022-03-01 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2022-03-02 — Committee Consideration and Mark-up Session Held.
+- 2022-03-02 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 21 - 12.
+- 2022-03-02 — Subcommittee on Transportation and Maritime Security Discharged.
+- 2022-12-14 — Placed on the Union Calendar, Calendar No. 461.
+- 2022-12-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-641.
+- 2022-12-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 117-641.
