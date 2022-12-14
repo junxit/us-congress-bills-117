@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 117
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2617
@@ -48,3 +48,6 @@ Consolidated Appropriations Act, 2023
 - 2022-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
 - 2022-11-15 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6704; text: CR S6704)
 - 2022-11-15 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2022-11-16 — Message on Senate action sent to the House.
+- 2022-12-14 — House agreed to Senate amendments numbered 1, 2, 3, and 5, and the House agreed to Senate amendment numbered 4 with an amendment pursuant to H. Res. 1518 (consideration: CR H9745-9752; text: CR H9790-9803)
+- 2022-12-14 — Resolving differences -- House actions: House agreed to Senate amendments numbered 1, 2, 3, and 5, and the House agreed to Senate amendment numbered 4 with an amendment pursuant to H. Res. 1518(consideration: CR H9745-9752; text: CR H9790-9803)
