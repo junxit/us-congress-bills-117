@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2794
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2794
@@ -16,7 +16,7 @@ Boundary Waters Wilderness Protection and Pollution Prevention Act
 
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Cosponsors (35)
+## Cosponsors (58)
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
@@ -53,6 +53,29 @@ Boundary Waters Wilderness Protection and Pollution Prevention Act
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
 
 ## Committees (1)
 
@@ -63,3 +86,13 @@ Boundary Waters Wilderness Protection and Pollution Prevention Act
 - 2021-04-22 — Introduced in House
 - 2021-04-22 — Introduced in House
 - 2021-04-22 — Referred to the House Committee on Natural Resources.
+- 2021-06-08 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2021-06-08 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2022-05-24 — Subcommittee Hearings Held.
+- 2022-07-13 — Committee Consideration and Mark-up Session Held.
+- 2022-07-13 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 16.
+- 2022-07-13 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2022-07-13 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-12-14 — Placed on the Union Calendar, Calendar No. 457.
+- 2022-12-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-634.
+- 2022-12-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-634.
