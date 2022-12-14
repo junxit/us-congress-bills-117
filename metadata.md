@@ -1,7 +1,7 @@
 ---
 measure: S. 4460
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4460
@@ -35,3 +35,5 @@ END FENTANYL Act
 - 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-193.
 - 2022-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-193.
 - 2022-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 544.
+- 2022-12-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7188; text: CR S7188)
+- 2022-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
