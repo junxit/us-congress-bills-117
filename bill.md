@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 9559
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9559
+
+> To amend title XVIII of the Social Security Act to extend the pass-through period for certain devices.
+
+## § 1. Short title
+
+This Act may be cited as the “Innovative Technologies Impacted by COVID–19 Act”.
+
+## § 2. Extending pass-through status under the Medicare program for certain devices
+
+Section 1833(t)(6) of the Social Security Act (42 U.S.C. 1395l(t)(6)) is amended by adding at the end the following new subparagraph:
+
+> - **(K)** *Pass-through extension for certain devices* In the case of a device with respect to which the pass-through status under this paragraph would, but for application of this subparagraph, end on December 31, 2022, such pass-through status shall be extended for the 1-year period beginning on January 1, 2023.
