@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 124
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 124
@@ -27,3 +27,5 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2022-12-13 — Introduced in House
 - 2022-12-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-12-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-12-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1518, H. Con. Res. 124 is considered passed House.
+- 2022-12-14 — Pursuant to the provisions of H. Res. 1518, H. Con. Res. 124 is considered passed House. (consideration: CR H9745-9752; text: CR H9790)
