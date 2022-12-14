@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1505
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -45,5 +45,5 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 226` | amend | Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 191` | add-at-end | Section 35(c)(3)(A) of such Act (30 191(c)(3)(A)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1718` | add-at-end | Section 108 of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1718) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 668dd` | redesignate | by redesignating subsections (h) through (o), as (i) through (p), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 668dd` | redesignate | by redesignating subsections (h) through (o), as subsections (i) through (p), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 668dd` | insert | by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
