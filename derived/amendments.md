@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1517
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 30 U.S.C. § 226
 
-> by striking “$2 per acre” and inserting “$5 per acre, except as otherwise provided by this paragraph”; and
+> by striking “$2 per acre” and inserting “$10 per acre, except as otherwise provided by this paragraph”; and
 
 | | |
 |---|---|
 | Removed | `$2 per acre` |
-| Inserted | `$5 per acre, except as otherwise provided by this paragraph` |
+| Inserted | `$10 per acre, except as otherwise provided by this paragraph` |
 
 ### 30 U.S.C. § 226
 
@@ -62,12 +62,12 @@ to guess them.
 
 ### 30 U.S.C. § 226
 
-> in subsection (b)(2)(C), by striking “$2 per acre” and inserting “$5 per acre”; and
+> in subsection (b)(2)(C), by striking “$2 per acre” and inserting “$10 per acre”; and
 
 | | |
 |---|---|
 | Removed | `$2 per acre` |
-| Inserted | `$5 per acre` |
+| Inserted | `$10 per acre` |
 
 ### 30 U.S.C. § 181
 
