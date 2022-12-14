@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6218
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6218
@@ -35,3 +35,13 @@ To designate the facility of the United States Postal Service located at 317 Bla
 - 2021-12-09 — Introduced in House
 - 2021-12-09 — Introduced in House
 - 2021-12-09 — Referred to the House Committee on Oversight and Reform.
+- 2022-06-14 — Committee Consideration and Mark-up Session Held.
+- 2022-06-15 — Committee Consideration and Mark-up Session Held.
+- 2022-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2022-12-12 — Considered under suspension of the rules. (consideration: CR H9673; text: CR H9673)
+- 2022-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6218.
+- 2022-12-12 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2022-12-14 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789.
+- 2022-12-14 — Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789. (consideration: CR H9803-9810; text: CR H9804)
+- 2022-12-14 — Pursuant to the provisions of H. Res. 1518, proceedings on H.R. 6218 are considered vacated.
