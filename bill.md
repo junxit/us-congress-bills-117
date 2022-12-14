@@ -15,7 +15,7 @@ This Act may be cited as the “Small State and Rural Rescue Act”.
 
 ## § 2. Designation of small State and rural advocate
 
-Section 326(c) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165d) is amended—
+Section 326(c) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165d(c)) is amended—
 
 - **(1)** by striking “and” at the end of paragraph (2);
 - **(2)** by redesignating paragraph (3) as paragraph (4); and
@@ -35,7 +35,7 @@ Section 326(c) of the Robert T. Stafford Disaster Relief and Emergency Assistanc
   >     - **(i)** disruptions to community life-saving and life-sustaining services;
   >     - **(ii)** disruptions or increased demand for essential community services; and
   >     - **(iii)** disruptions to transportation, infrastructure, and utilities; and
-  >   - **(D)** any other information relevant to demonstrate severe local impacts.
+  >   - **(D)** any other information relevant to demonstrate severe local impacts.; and
 
 ## § 3. GAO review of a final rule
 

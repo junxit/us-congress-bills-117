@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7211
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7211
@@ -52,3 +52,7 @@ Small State and Rural Rescue Act
 - 2022-06-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 269). (text: 6/13/2022 CR H5458-5459)
 - 2022-06-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 269).(text: 6/13/2022 CR H5458-5459)
 - 2022-06-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-259.
+- 2022-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-259.
+- 2022-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.
