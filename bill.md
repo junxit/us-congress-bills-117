@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3429
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -33,14 +33,14 @@ It is the sense of Congress that—
 ## § 4. Alaska Salmon Research Task Force
 
 - **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Secretary of Commerce, in consultation with the Governor of Alaska, shall convene an Alaska Salmon Research Task Force (referred to in this section as the “Research Task Force”) to—
-  - **(1)** review existing Pacific salmon research;
+  - **(1)** review existing Pacific salmon research in Alaska;
   - **(2)** identify applied research needed to better understand the increased variability and declining salmon returns in some regions of Alaska; and
-  - **(3)** support sustainable management of salmon in Alaska.
+  - **(3)** support sustainable salmon runs in Alaska.
 - **(b)** *Composition and appointment*
   - **(1)** *In general* The Research Task Force shall be composed of not fewer than 13 and not more than 19 members, who shall be appointed under paragraphs (2) and (3).
   - **(2)** *Appointment by secretary* The Secretary of Commerce shall appoint members to the Research Task Force as follows:
     - **(A)** One representative from each of the following:
-      - **(i)** The National Oceanic and Atmospheric Administration who is knowledgeable about salmon and salmon research efforts in Alaska and is from the Alaska Region.
+      - **(i)** The National Oceanic and Atmospheric Administration who is knowledgeable about salmon and salmon research efforts in Alaska.
       - **(ii)** The North Pacific Fishery Management Council.
       - **(iii)** The United States section of the Pacific Salmon Commission.
     - **(B)** Not less than 2 and not more than 5 representatives from each of the following categories, at least 2 of whom shall represent Alaska Natives who possess personal knowledge of, and direct experience with, subsistence uses in rural Alaska, to be appointed with due regard to differences in regional perspectives and experience:
@@ -52,11 +52,11 @@ It is the sense of Congress that—
         - **(IV)** seafood processors;
         - **(V)** salmon prohibited species catch (bycatch) users; or
         - **(VI)** hatcheries.
-    - **(C)** 5 representatives who are academic experts in salmon biology, salmon management, salmon ecology (marine and freshwater), or comprehensive marine research planning in the North Pacific.
-  - **(3)** *Appointment by the governor of alaska* The Governor of Alaska shall appoint to the Research Task Force one representative from the State of Alaska who is knowledgeable about the State of Alaska’s salmon management and research efforts.
+    - **(C)** 5 representatives who are academic experts in salmon biology, salmon ecology (marine and freshwater), salmon habitat restoration and conservation, or comprehensive marine research planning in the North Pacific.
+  - **(3)** *Appointment by the governor of alaska* The Governor of Alaska shall appoint to the Research Task Force one representative from the State of Alaska who is knowledgeable about the State of Alaska’s salmon research efforts.
 - **(c)** *Duties*
   - **(1)** *Review* The Research Task Force shall—
-    - **(A)** conduct a review of Pacific salmon science relevant to understanding and managing salmon returns in Alaska, including an examination of—
+    - **(A)** conduct a review of Pacific salmon science relevant to understanding salmon returns in Alaska, including an examination of—
       - **(i)** traditional ecological knowledge of salmon populations and their ecosystems;
       - **(ii)** marine carrying capacity and density dependent constraints, including an examination of interactions with other salmon species, and with forage base in marine ecosystems;
       - **(iii)** life-cycle and stage-specific mortality;
@@ -77,7 +77,7 @@ It is the sense of Congress that—
   - **(1)** *Chairperson and vice chairperson* The Research Task Force shall select a Chair and Vice Chair by vote from among the members of the Research Task Force.
   - **(2)** *Work groups*
     - **(A)** *In general* The Research Task Force—
-      - **(i)** not later than 30 days after the date of the establishment of the Research Task Force, shall establish a work group focused specifically on salmon returns in the AYK (Arctic-Yukon-Kuskoskim) regions of Western Alaska; and
+      - **(i)** not later than 30 days after the date of the establishment of the Research Task Force, shall establish a work group focused specifically on the research needs associated with salmon returns in the AYK (Arctic-Yukon-Kuskokwim) regions of Western Alaska; and
       - **(ii)** may establish additional regionally or stock focused work groups within the Research Task Force, as members determine appropriate.
     - **(B)** *Composition* Each work group established under this subsection shall—
       - **(i)** consist of not less than 5 individuals who—
@@ -86,5 +86,9 @@ It is the sense of Congress that—
       - **(ii)** be balanced in terms of stakeholder representation, including commercial, recreational, and subsistence fisheries, as well as experts in statistical, biological, economic, social, or other scientific information as relevant to the work group’s focus.
     - **(C)** *Reports* Not later than 9 months after the date the Research Task Force is convened, each work group established under this subsection shall submit a report with the work group's findings to the Research Task Force.
   - **(3)** *Compensation* Each member of the Research Task Force shall serve without compensation.
-  - **(4)** *Administrative support* The Secretary of Commerce shall provide such administrative support as is necessary for the Research Task Force and its work groups to carry out their duties, including support for virtual or in-person participation and travel expenses.
+  - **(4)** *Administrative support* The Secretary of Commerce shall provide such administrative support as is necessary for the Research Task Force and its work groups to carry out their duties, which may include support for virtual or in-person participation and travel expenses.
 - **(e)** *Federal advisory committee act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Research Task Force.
+
+## § 5. Definition of Pacific salmon
+
+In this Act, the term Pacific salmon means salmon that originates in Alaskan waters.
