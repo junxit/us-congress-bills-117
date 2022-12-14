@@ -1,7 +1,7 @@
 ---
 measure: S. 3533
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3533
@@ -28,3 +28,7 @@ Volcanic Ash and Fumes Act of 2022
 
 - 2022-01-20 — Introduced in Senate
 - 2022-01-20 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-05-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2022-12-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.
+- 2022-12-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.
+- 2022-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 645.
