@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1437
 congress: 117
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
