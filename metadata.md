@@ -1,0 +1,32 @@
+---
+measure: S. 5252
+congress: 117
+version: Introduced in Senate
+---
+
+# S. 5252
+
+Right to Private Conduct Act of 2022
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Schatz, Brian [D-HI] (S001194)
+
+## Cosponsors (3)
+
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+
+## Committees (1)
+
+- Senate — Judiciary Committee
+
+## Actions
+
+- 2022-12-14 — Introduced in Senate
+- 2022-12-14 — Read twice and referred to the Committee on the Judiciary.
