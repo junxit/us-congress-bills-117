@@ -48,7 +48,7 @@ This Act may be cited as the “Volcanic Ash and Fumes Act of 2022”.
 - **(e)** *Funding* Subsection (c) of such section is amended—
   - **(1)** in paragraph (1)—
     - **(A)** in the paragraph heading, by inserting “, United States Geological Survey” after “appropriations”; and
-    - **(B)** by inserting “to the United States Geological Survey” after “appropriated”;
+    - **(B)** by inserting “to the United States Geological Survey” after “appropriated”;.
   - **(2)** by redesignating paragraph (2) as paragraph (3);
   - **(3)** by inserting after paragraph (1) the following:
     > - **(2)** *Authorization of appropriations, National Oceanic and Atmospheric Administration* There is authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out this section such sums as may be necessary for the period of fiscal years 2022 through 2023.
@@ -56,3 +56,7 @@ This Act may be cited as the “Volcanic Ash and Fumes Act of 2022”.
   - **(4)** in paragraph (3), as redesignated by paragraph (2)—
     - **(A)** by striking “United States Geological Survey”; and
     - **(B)** by inserting “of the United States Geological Survey and the National Oceanic and Atmospheric Administration” after “programs”.
+- **(f)** *Implementation plan*
+  - **(1)** *Development of plan* Not later than 180 days after the date of the enactment of this Act, the Secretary of Commerce, in consultation with the Secretary of the Interior, shall develop a plan to implement the amendments made by this Act during the 5-year period beginning on the date on which the plan is developed.
+  - **(2)** *Elements* The plan developed under paragraph (1) shall include an estimate of the cost and schedule required for the implementation described in such paragraph.
+  - **(3)** *Public availability* Upon completion of the plan developed under paragraph (1), the Secretary of Commerce shall make the plan publicly available.

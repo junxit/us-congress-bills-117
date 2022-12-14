@@ -1,7 +1,7 @@
 ---
 measure: S. 3533
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -43,7 +43,7 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 31k` | add-at-end | in subparagraph (A), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 31k` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 31k` | insert | in the paragraph heading, by inserting “, United States Geological Survey” after “appropriations”; and | the bill quotes the text inserted but describes where it goes |
-| `43 U.S.C. § 31k` | insert | by inserting “to the United States Geological Survey” after “appropriated”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31k` | insert | by inserting “to the United States Geological Survey” after “appropriated”;. | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 31k` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 31k` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 31k` | strike | by striking “United States Geological Survey”; and | the bill quotes the text struck but describes what replaces it |
