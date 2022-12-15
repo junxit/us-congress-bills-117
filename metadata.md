@@ -1,7 +1,7 @@
 ---
 measure: S. 4321
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4321
@@ -16,10 +16,11 @@ Save Our Seas 2.0 Amendments Act
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Save Our Seas 2.0 Amendments Act
 
 - 2022-05-26 — Introduced in Senate
 - 2022-05-26 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-06-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2022-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.
+- 2022-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.
+- 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.

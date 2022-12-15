@@ -1,7 +1,7 @@
 ---
 measure: S. 4321
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 10 executed, 12 stated and not applied.
+23 amendatory instructions. 10 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -135,3 +135,4 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1952` | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “and except as provided in subparagraph (B)” after “subparagraph (A)”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1952` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1952` | add-at-end | Section 3 of the Marine Debris Act (33 U.S.C. 1952) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4213` | add-at-end | Section 113 of the Save Our Seas 2.0 Act (33 U.S.C. 4213) (as amended by section 2(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

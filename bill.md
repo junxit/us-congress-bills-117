@@ -74,3 +74,14 @@ This Act may be cited as the “Save Our Seas 2.0 Amendments Act”.
   >   - **(3)** any foreign government or international organization;
   >   - **(4)** any public or private organization; or
   >   - **(5)** any individual.
+
+## § 4. Best practices
+
+Section 113 of the Save Our Seas 2.0 Act (33 U.S.C. 4213) (as amended by section 2(d)) is amended by adding at the end the following:
+
+> - **(h)** *Best practices*
+>   - **(1)** *Tribal government* In this paragraph, the term Tribal government means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation individually identified (including parenthetically) in the list published most recently as of the date of enactment of the Save Our Seas 2.0 Amendments Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+>   - **(2)** *Best practices* The Foundation shall develop and implement best practices for conducting outreach to Tribal governments and Indian Tribes.
+>   - **(3)** *Requirements* The best practices developed under paragraph (2) shall—
+>     - **(A)** include a process to support technical assistance and capacity building to improve outcomes; and
+>     - **(B)** promote an awareness of programs and grants available under this Act.
