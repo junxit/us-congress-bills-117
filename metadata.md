@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6220
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6220
@@ -47,3 +47,12 @@ To designate the facility of the United States Postal Service located at 100 3rd
 - 2022-12-14 — Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789. (consideration: CR H9803-9810; text: CR H9804)
 - 2022-12-14 — Pursuant to the provisions of H. Res. 1518, proceedings on H.R. 6220 are considered vacated.
 - 2022-12-15 — Received in the Senate, read twice.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7282-7283)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-27 — Became Public Law No: 117-292.
+- 2022-12-27 — Became Public Law No: 117-292.
+- 2022-12-27 — Signed by President.
+- 2022-12-27 — Signed by President.
