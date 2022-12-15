@@ -21,7 +21,7 @@ In this Act:
 - **(2)** *Agency* The term agency means an agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code.
 - **(3)** *Chief information officer* The term Chief Information Officer means a Chief Information Officer designated under section 3506(a)(2) of title 44, United States Code.
 - **(4)** *Comptroller general* The term Comptroller General means the Comptroller General of the United States.
-- **(5)** *Congressional oversight committee* The term congressional oversight committee means, with respect to a particular agency, a committee or subcommittee of the Senate and the House of Representatives that provide oversight of the agency.
+- **(5)** *Congressional oversight committee* The term congressional oversight committee means, with respect to a particular agency, a committee or subcommittee of the Senate and the House of Representatives that provideprovides oversight of the agency.
 - **(6)** *Director* The term Director means the Director of the Office of Management and Budget.
 - **(7)** *Information technology* The term information technology has the meaning given the term in section 11101 of title 40, United States Code.
 - **(8)** *IT working capital fund; legacy information technology system* The terms IT working capital fund and legacy information technology system have the meaning given the terms in section 1076 of the National Defense Authorization Act for Fiscal Year 2018 (40 U.S.C. 11301 note; Public Law (115–91)).
@@ -37,7 +37,7 @@ In this Act:
     - **(B)** the office or mission of the agency that the legacy information technology system supports and how the office or mission uses the legacy information technology system;
     - **(C)** to the extent that information is available—
       - **(i)** the date of the last update or refresh of the legacy information technology system;
-      - **(ii)** the price, including recurring subscription costs and any costs to contract labor to operate or maintain the legacy information technology system; and
+      - **(ii)** the annual price, including recurring subscription costs and any costs to contract labor to operate or maintain the legacy information technology system; and
       - **(iii)** the name and contact information of the vendor; and
     - **(D)** the date of the next expected update or modernization, retirement, or disposal of the legacy information technology system.
 - **(b)** *Transparency and accountability*
@@ -50,7 +50,7 @@ In this Act:
 - **(b)** *Contents* A modernization plan of an agency developed under subsection (a) shall include—
   - **(1)** an inventory of the legacy information technology systems of the agency;
   - **(2)** an identification of legacy information technology systems that the agency has prioritized for updates, modernization, retirement, or disposal;
-  - **(3)** steps the agency intends to make toward updating, modernizing, retiring, or disposing of the legacy information technology systems of the agency during the 5-year period beginning on the date of submission of the plan; and
+  - **(3)** steps the agency intends to make toward updating, modernizing, retiring, or disposing of the legacy information technology systems of the agency prioritized under paragraph (2) during the 5-year period beginning on the date of submission of the plan; and
   - **(4)** any additional information that the Director determines necessary or useful for the agency to consider or include to effectively and efficiently execute the modernization plan, which may include—
     - **(A)** the capacity of the agency to operate and maintain an updated or modernized legacy information technology system;
     - **(B)** the cost and sources of funding required to execute the modernization plan;
@@ -59,6 +59,8 @@ In this Act:
     - **(E)** the degree to which updating or modernizing a legacy information technology system is anticipated to gain operational efficiencies, address technology constraints, meet customer experience expectation, and support adoption of and integration with other systems based on comparable up-to-date technology platforms;
     - **(F)** the ability of the agency to transfer and use data or intelligence held in an agency legacy information technology system to include such data or intelligence in the updated or modernized system, as necessary; and
     - **(G)** the ability of the agency to adapt an updated or modernized legacy information technology system to changes in policy, technology, or other user needs, as necessary.
+    - **(B)** the estimated cost and sources of funding required to execute the modernization plan; and
+    - **(C)** the ability of the agency to adapt an updated or modernized legacy information technology system to changes in policy, technology, or other user needs, as necessary.
 - **(c)** *Publication and submission to Congress* Not later than 30 days after the date on which the head of an agency submits the modernization plan developed under subsection (a) as part of the information resource management strategic plan of the agency submitted under section 3506(b)(2) of title 44, United States Code, the head of the agency shall submit the modernization plan to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, and each congressional oversight committee of the agency.
 
 ## § 5. Role of the Office of Management and Budget
