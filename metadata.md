@@ -1,7 +1,7 @@
 ---
 measure: S. 4802
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4802
@@ -29,3 +29,9 @@ Coast Guard Authorization Act of 2022
 
 - 2022-09-08 — Introduced in Senate
 - 2022-09-08 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-09-14 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-09-29 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2022-09-29 — Senate amendment submitted
+- 2022-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2022-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 664.
