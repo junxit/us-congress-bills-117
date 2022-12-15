@@ -1,7 +1,7 @@
 ---
 measure: S. 419
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 419
@@ -16,7 +16,7 @@ CONTRACT Act of 2021
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (42)
+## Cosponsors (47)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Moran, Jerry [R-KS] (M000934)
@@ -60,6 +60,11 @@ CONTRACT Act of 2021
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
 ## Committees (1)
 
@@ -69,3 +74,7 @@ CONTRACT Act of 2021
 
 - 2021-02-24 — Introduced in Senate
 - 2021-02-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-11-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-260.
+- 2022-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-260.
+- 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.
