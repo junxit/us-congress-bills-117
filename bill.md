@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3405
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -38,3 +38,4 @@ This Act may be cited as the “Low Power Protection Act”.
 - **(d)** *Reporting* Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report regarding the implementation of this section, which shall include—
   - **(1)** a list of the current, as of the date on which the report is submitted, licensees that have been accorded primary status as Class A television licensees; and
   - **(2)** of the licensees described in paragraph (1), an identification of each such licensee that has been accorded the status described in that paragraph because of the implementation of this section.
+- **(e)** *Rule of construction* Nothing in this section may be construed to affect a decision of the Commission relating to completion of the transition, relocation, or reimbursement of entities as a result of the systems of competitive bidding conducted pursuant to title VI of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401 et seq.), and the amendments made by that title, that are collectively commonly referred to as the “Television Broadcast Incentive Auction”.
