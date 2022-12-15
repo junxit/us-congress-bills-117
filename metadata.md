@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6611
 congress: 117
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6611
@@ -59,3 +59,4 @@ To authorize the Government of France to establish a commemorative work in the D
 - 2022-12-14 — Reported by the Committee on Natural Resources. H. Rept. 117-625, Part I.
 - 2022-12-14 — Reported by the Committee on Natural Resources. H. Rept. 117-625, Part I.
 - 2022-12-14 — The title of the measure was amended. Agreed to without objection.
+- 2022-12-15 — Received in the Senate.
