@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1519
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1519
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 8393) to enable the people of Puer
 - 2022-12-14 — Rule provides for consideration of H.R. 8393 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
 - 2022-12-14 — The House Committee on Rules reported an original measure, H. Rept. 117-643, by Mr. McGovern.
 - 2022-12-14 — The House Committee on Rules reported an original measure, H. Rept. 117-643, by Mr. McGovern.
+- 2022-12-15 — Considered as privileged matter. (consideration: CR H9859-9863)
+- 2022-12-15 — DEBATE - The House proceeded with one hour of debate on H. Res. 1519.
+- 2022-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-15 — On agreeing to the resolution Agreed to by the Yeas and Nays: 217 - 201 (Roll no. 527). (text: CR H9859)
+- 2022-12-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 217 - 201 (Roll no. 527).
+- 2022-12-15 — The previous question was ordered without objection.
