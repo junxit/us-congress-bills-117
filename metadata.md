@@ -1,7 +1,7 @@
 ---
 measure: S. 4328
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4328
@@ -16,12 +16,14 @@ Fire Suppression Improvement Act
 
 - Sen. Padilla, Alex [D-CA] (P000145)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Lujan, Ben Ray [D-NM] (L000570)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (1)
 
@@ -31,3 +33,7 @@ Fire Suppression Improvement Act
 
 - 2022-05-26 — Introduced in Senate
 - 2022-05-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S2754-2755)
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2022-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-263.
+- 2022-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-263.
+- 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 654.

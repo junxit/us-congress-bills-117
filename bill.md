@@ -16,11 +16,10 @@ This Act may be cited as the “Fire Suppression Improvement Act”.
 ## § 2. Fire management assistance cost share and eligible activities
 
 - **(a)** *In general* Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187) is amended—
-  - **(1)** by redesignating subsection (e) as subsection (g); and
+  - **(1)** by redesignating subsection (e) as subsection (g)(f); and
   - **(2)** by inserting after subsection (d) the following:
-    > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
-    > - **(f)** *Eligible expense* A State or local government may use assistance provided under this section for the predeployment of assets and resources.
-
+- **(“(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.”.assistance.
+- **(“(f)** *Eligible expense* A State or local government may use assistance provided under this section for the predeployment of assets and resources.”.
 - **(b)** *Applicability* The amendments made by subsection (a) shall only apply to amounts appropriated on or after the date of enactment of this Act.
 
 ## § 3. Rulemaking
