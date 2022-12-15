@@ -1,7 +1,7 @@
 ---
 legis-num: S. 688
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,7 +29,7 @@ This Act may be cited as the “Banning Operations and Leases with the Illegitim
 - **(d)** *American diplomatic mission in Venezuela* The prohibition in subsection (a) does not apply to contracts related to the operation and maintenance of the United States Government’s consular offices and diplomatic posts in Venezuela.
 - **(e)** *Waiver* The Secretary of State may waive the requirements of subsection (a) if the Secretary of State determines that to do so is in the national interest of the United States.
 - **(f)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives.
+  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Homeland Security and Governmental Affairs and the Committee on Foreign Relations of the Senate and the Committee on Homeland Security and the Committee on Foreign Affairs of the House of Representatives.
   - **(2)** *Business operations* The term business operations means engaging in commerce in any form, including acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
   - **(3)** *Executive agency* The term executive agency has the meaning given the term in section 133 of title 41, United States Code.
   - **(4)** *Government of Venezuela*
@@ -39,4 +39,4 @@ This Act may be cited as the “Banning Operations and Leases with the Illegitim
     - **(A)** a natural person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group;
     - **(B)** any governmental entity or instrumentality of a government; and
     - **(C)** any successor, subunit, parent entity, or subsidiary of, or any entity under common ownership or control with, any entity described in subparagraph (A) or (B).
-- **(g)** *Applicability* This section shall apply with respect to any contract entered into on or after the date of the enactment of this section.
+- **(g)** *Term of applicability* This section shall apply with respect to any contract entered into during the three-year period beginning on the date of the enactment of this Act.
