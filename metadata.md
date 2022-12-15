@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 865
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 865
@@ -28,3 +28,7 @@ A resolution commending and congratulating the Northern Arizona University Lumbe
 
 - 2022-12-08 — Introduced in Senate
 - 2022-12-08 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2022-12-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7267; text: 12/08/2022 CR S7072-7073)
+- 2022-12-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7267; text: 12/08/2022 CR S7072-7073)
+- 2022-12-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2022-12-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
