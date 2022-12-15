@@ -1,7 +1,7 @@
 ---
 measure: S. 5168
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5168
@@ -28,3 +28,7 @@ Energy Security and Lightering Independence Act of 2022
 
 - 2022-12-01 — Introduced in Senate
 - 2022-12-01 — Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S6942)
+- 2022-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7267; text: CR S7267)
+- 2022-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2022-12-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
