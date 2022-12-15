@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2641
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
