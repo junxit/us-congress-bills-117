@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1948
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1948
