@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 9595
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9595
+
+> To extend the temporary order for fentanyl-related substances.
+
+## § 1. Extension of temporary order for fentanyl-related substances
+
+Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act (as amended by Public Law 117–103) is amended by striking “December 31, 2022” and inserting “December 31, 2024”.
