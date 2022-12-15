@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6630
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6630
@@ -91,3 +91,4 @@ To designate the facility of the United States Postal Service located at 1400 N 
 - 2022-12-14 — Passed/agreed to in House: Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789.
 - 2022-12-14 — Pursuant to section 5 of H. Res. 1518, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1082, as amended; H.R. 5349; H.R. 6218; H.R. 6220; H.R. 6221; H.R. 6611, as amended; H.R. 6630; H.R. 6725; H.R. 7077, agreed to Senate amendment; H.R. 7832; H.R. 8665; S. 558; and S. 789. S. 558; and S. 789. (consideration: CR H9803-9810; text: CR H9805)
 - 2022-12-14 — Pursuant to the provisions of H. Res. 1518, proceedings on H.R. 6630 are considered vacated.
+- 2022-12-15 — Received in the Senate, read twice.
