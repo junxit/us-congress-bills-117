@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 123
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 123
@@ -32,3 +32,5 @@ Providing for a correction in the enrollment of H.R. 1437.
 - 2022-12-14 — Ms. DeLauro asked unanimous consent to take from the Speaker's table and consider. (consideration: CR H9815)
 - 2022-12-14 — On agreeing to the resolution Agreed to without objection. (text: CR H9815)
 - 2022-12-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2022-12-15 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
+- 2022-12-15 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7242)
