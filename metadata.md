@@ -1,7 +1,7 @@
 ---
 measure: S. 2793
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2793
@@ -34,3 +34,5 @@ SMART Leasing Act
 - 2022-09-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-147.
 - 2022-09-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-147.
 - 2022-09-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
+- 2022-12-15 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7265-7266; text: CR S7266)
+- 2022-12-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

@@ -25,9 +25,7 @@ This Act may be cited as the “Saving Money and Accelerating Repairs Through Le
     - **(D)** the Committee on Transportation and Infrastructure of the House of Representatives.
 - **(b)** *Establishment* The Administrator may establish an enhanced use lease pilot program under which the Administrator may authorize Federal agencies to enter into a lease with any person or entity (including another department or agency of the Federal Government or an entity of a State or local government) with regard to any underutilized nonexcess real property and related personal property under the jurisdiction of the Administrator.
 - **(c)** *Monetary consideration*
-  - **(1)** *Fair market value*
-    - **(A)** *In general* Except as provided in subparagraph (B), a person or entity entering into a lease under the pilot program shall provide monetary consideration for the lease at fair market value, as determined by the Administrator.
-    - **(B)** *In-kind consideration* The Administrator may accept in-kind consideration for leases entered into under the pilot program for the purpose of developing renewable energy production facilities.
+  - **(1)** *Fair market value* A person or entity entering into a lease under the pilot program shall provide monetary consideration for the lease at fair market value, as determined by the Administrator.
   - **(2)** *Utilization*
     - **(A)** *In general* The Administrator may use monetary consideration received under this subsection for a lease entered into under the pilot program to cover the full costs to the Administration in connection with the lease.
     - **(B)** *Capital revitalization and improvements* Any amounts of monetary consideration received under this subsection that are not used in accordance with subparagraph (A) shall—
@@ -35,11 +33,9 @@ This Act may be cited as the “Saving Money and Accelerating Repairs Through Le
       - **(ii)** remain available until expended for maintenance, capital revitalization, and improvements of the real property assets and related personal property at the Federal agency, subject to the concurrence of the Administrator.
 - **(d)** *Additional terms and conditions* The Administrator may require such terms and conditions in connection with a lease under the pilot program as the Administrator considers appropriate to protect the interests of the United States.
 - **(e)** *Relationship to other lease authority* The authority under the pilot program to lease property under the jurisdiction of the Administrator is in addition to any other authority under Federal law to lease property under the jurisdiction of the Administrator.
-- **(f)** *Waiver* A property leased under the pilot program shall not be subject to section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) before leasing the property under such pilot program.
+- **(f)** *Waiver* A property leased under the pilot program shall not be subject to section 501 of the McKinney–Vento Homeless Assistance Act (42 U.S.C. 11411) before leasing the property under such pilot program.
 - **(g)** *Lease restrictions*
-  - **(1)** *No leaseback or guaranteed service contract*
-    - **(A)** *In general* Subject to subparagraph (B), the Administrator may not lease back property under the pilot program during the term of the lease or enter into guaranteed service or similar contracts with the lessee relating to the property.
-    - **(B)** *In-kind consideration leases* Subparagraph (A) shall not apply to property under a lease under the pilot program in which the Administrator received in-kind consideration under subsection (c)(1)(B).
+  - **(1)** *No leaseback or guaranteed service contract* The Administrator may not lease back property under the pilot program during the term of the lease or enter into guaranteed service or similar contracts with the lessee relating to the property.
   - **(2)** *Certification* The Administrator may not enter into a lease under the pilot program unless the Administrator certifies that the lease will not have a negative impact on the mission of the Administrator or the applicable Federal agency.
   - **(3)** *Maximum number of leases* The Administrator may enter into not more than 6 leases under the pilot program during each fiscal year.
   - **(4)** *Duration of leases* The Administrator may not enter into a lease under the pilot program with a term of more than 15 years.
