@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 123
 congress: 117
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 123
@@ -34,3 +34,4 @@ Providing for a correction in the enrollment of H.R. 1437.
 - 2022-12-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2022-12-15 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
 - 2022-12-15 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7242)
+- 2022-12-16 — Message on Senate action sent to the House.
