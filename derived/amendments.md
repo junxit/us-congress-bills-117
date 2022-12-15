@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2415
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 15907` | amend | Section 349 of the Energy Policy Act of 2005 (Public Law 109–58; 42 U.S.C. 15907) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15907` | amend | Section 1(b) of the Energy Policy Act of 2005 is amended in the table of contents by amending the item relating to section 349 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | insert | Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)) is amended by inserting “The Secretary concerned shall review the adequacy of each such bond, surety, or other financial arrangement anytime a lease issued under this section is… | the bill quotes the text inserted but describes where it goes |
