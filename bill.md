@@ -36,7 +36,7 @@ This Act may be cited as the “Access for Veterans to Records Act of 2022”.
 
 ## § 3. Additional funding
 
-In addition to amounts otherwise available, there is authorized to be appropriated to the National Archives and Records Administration, $20,000,000 to address backlogs in responding to requests from veterans for military personnel records.
+In addition to amounts otherwise available, there is authorized to be appropriated to the National Archives and Records Administration, $20,000,000 to address backlogs in responding to requests from veterans for military personnel records.and Records Administration, $60,000,000 to address backlogs in responding to requests from veterans for military personnel records, improve cybersecurity, improve digital preservation and access to archival Federal records, and address backlogs in requests made under section 552 of title 5, United States Code (commonly referred to as the “Freedom of Information Act”). Such amounts may also be used for the Federal Records Center Program.
 
 ## § 4. Additional staffing
 
