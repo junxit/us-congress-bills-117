@@ -15,7 +15,7 @@ This Act may be cited as the “VA Employee Fairness Act of 2021”.
 
 ## § 2. Modification of authorities on collective bargaining of employees of the Veterans Health Administration
 
-Section 7422 of title 38, United States Code, is amended—
-
-- **(1)** by striking subsections (b), (c), and (d); and
-- **(2)** by redesignating subsection (e) as subsection (b).
+- **(a)** *In general* Section 7422 of title 38, United States Code, is amended—
+  - **(1)** by striking subsections (b), (c), and (d); and
+  - **(2)** by redesignating subsection (e) as subsection (b).
+- **(b)** *Rule of construction* The amendments made by subsection (a) may not be construed to affect the authorities of the Secretary of Veterans Affairs regarding incentive pay and expedited hiring under section 706 of title 38, United States Code, or other similar provisions of law.

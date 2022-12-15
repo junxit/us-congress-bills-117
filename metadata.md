@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1948
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1948
@@ -254,3 +254,18 @@ VA Employee Fairness Act of 2021
 - 2022-12-12 — Placed on the Union Calendar, Calendar No. 446.
 - 2022-12-12 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-618.
 - 2022-12-12 — Reported by the Committee on Veterans' Affairs. H. Rept. 117-618.
+- 2022-12-14 — Rules Committee Resolution H. Res. 1518 Reported to House. Rule provides for consideration of H.R. 1948, S. 3905 and S. 4003. Rule provides for one hour of general debate each for H.R. 1948, S. 3905, S. 4003. Rule provides for one hour of general debate on the Senate amendment to H.R. 1437. Rule provides that H. Res. 1516 and H. Con. Res. 124 are adopted. Rule provides that the House shall be considered to have taken from the Speaker's table H.R. 2617, with the Senate amendments thereto, to have concurred in the Senate amendments numbered 1, 2, 3, and 5, and to have concurred in the Senate amendment numbered 4 with an amendment consisting of the text of Rules Committee Print 117-73. (consideration: CR H9745-9751)
+- 2022-12-15 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-12-15 — Considered as unfinished business. (consideration: CR H9882-9883)
+- 2022-12-15 — Considered under the provisions of rule H. Res. 1518. (consideration: CR H9863-9866)
+- 2022-12-15 — DEBATE - The House proceeded with one hour of debate on H.R. 1948.
+- 2022-12-15 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-15 — House amendment offered
+- 2022-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-15 — On passage Passed by the Yeas and Nays: 219 - 201 (Roll no. 530). (text: CR H9863)
+- 2022-12-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1948, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Bost demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2022-12-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 201 (Roll no. 530).
+- 2022-12-15 — Received in the Senate.
+- 2022-12-15 — Rule provides for consideration of H.R. 1948, S. 3905 and S. 4003. Rule provides for one hour of general debate each for H.R. 1948, S. 3905, S. 4003. Rule provides for one hour of general debate on the Senate amendment to H.R. 1437. Rule provides that H. Res. 1516 and H. Con. Res. 124 are adopted. Rule provides that the House shall be considered to have taken from the Speaker's table H.R. 2617, with the Senate amendments thereto, to have concurred in the Senate amendments numbered 1, 2, 3, and 5, and to have concurred in the Senate amendment numbered 4 with an amendment consisting of the text of Rules Committee Print 117-73.
+- 2022-12-15 — The previous question was ordered pursuant to the rule.
