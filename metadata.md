@@ -1,7 +1,7 @@
 ---
 measure: S. 4477
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4477
@@ -16,9 +16,10 @@ Eliminate Useless Reports Act of 2022
 
 - Sen. Ossoff, Jon [D-GA] (O000174)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Eliminate Useless Reports Act of 2022
 
 - 2022-06-23 — Introduced in Senate
 - 2022-06-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-264.
+- 2022-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-264.
+- 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 655.
