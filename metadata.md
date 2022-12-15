@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8393
 congress: 117
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8393
@@ -96,3 +96,19 @@ Puerto Rico Status Act
 - 2022-12-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-642.
 - 2022-12-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-642.
 - 2022-12-14 — Rules Committee Resolution H. Res. 1519 Reported to House. Rule provides for consideration of H.R. 8393 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
+- 2022-12-15 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2022-12-15 — Considered under the provisions of rule H. Res. 1519. (consideration: CR H9867-9882)
+- 2022-12-15 — DEBATE - The House proceeded with one hour of debate on H.R. 8393.
+- 2022-12-15 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-15 — House amendment offered
+- 2022-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-15 — Mr. McClintock moved to recommit to the Committee on Natural Resources. (text: CR H9880)
+- 2022-12-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2022-12-15 — On motion to recommit Failed by the Yeas and Nays: 209 - 217 (Roll no. 528).
+- 2022-12-15 — On passage Passed by the Yeas and Nays: 233 - 191 (Roll no. 529). (text: CR H9867-9873)
+- 2022-12-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 191 (Roll no. 529).(text: CR H9867-9873)
+- 2022-12-15 — Received in the Senate.
+- 2022-12-15 — Rule H. Res. 1519 passed House.
+- 2022-12-15 — Rule provides for consideration of H.R. 8393 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
+- 2022-12-15 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2022-12-15 — The previous question was ordered pursuant to the rule.
