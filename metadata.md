@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 16
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 16
@@ -32,3 +32,5 @@ A concurrent resolution commemorating the 30th anniversary of Operation Provide 
 - 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.
+- 2022-12-15 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S7266-7267; text: CR S7266)
+- 2022-12-15 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S7266-7267; text: CR S7266)
