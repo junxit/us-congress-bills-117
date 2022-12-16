@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1476
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1476
@@ -25,3 +25,8 @@ Of inquiry requesting the President to provide to the House of Representatives c
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Referred to the House Committee on Energy and Commerce.
+- 2022-12-14 — Committee Consideration and Mark-up Session Held.
+- 2022-12-14 — Ordered to be Reported Adversely by the Yeas and Nays: 28 - 23.
+- 2022-12-16 — Placed on the House Calendar, Calendar No. 168.
+- 2022-12-16 — Reported adversely by the Committee on Energy and Commerce. H. Rept. 117-648.
+- 2022-12-16 — Reported adversely by the Committee on Energy and Commerce. H. Rept. 117-648.
