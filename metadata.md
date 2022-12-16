@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1475
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1475
@@ -25,3 +25,6 @@ Of inquiry requesting the President and directing the Secretary of Defense to tr
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Introduced in House
 - 2022-11-16 — Referred to the House Committee on Armed Services.
+- 2022-12-16 — Placed on the House Calendar, Calendar No. 167.
+- 2022-12-16 — Reported adversely (Amended) by the Committee on Armed Services. H. Rept. 117-647.
+- 2022-12-16 — Reported adversely (Amended) by the Committee on Armed Services. H. Rept. 117-647.
