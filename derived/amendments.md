@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4374
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 12 executed, 15 stated and not applied.
+23 amendatory instructions. 11 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,75 +62,66 @@ to guess them.
 
 ### 7 U.S.C. § 950bb
 
-> in subparagraph (B), by striking “(A)(i)” and inserting “(A)”; and
+> by striking “is submitted—” and all that follows through “(i) not less” and inserting “is submitted not less” ; and
 
 | | |
 |---|---|
-| Removed | `(A)(i)` |
-| Inserted | `(A)` |
+| Removed | `is submitted—” and all that follows through “(i) not less` |
+| Inserted | `is submitted not less` |
 
 ### 7 U.S.C. § 950bb
 
-> by striking “$350,000,000” and inserting “$5,250,000,000”;
+> by striking “(e); and” and all that follows and inserting “(e).”;
 
 | | |
 |---|---|
-| Removed | `$350,000,000` |
-| Inserted | `$5,250,000,000` |
+| Removed | `(e); and` |
+| Inserted | `(e).` |
 
 ### 7 U.S.C. § 950bb
 
-> by striking “2019 through 2023” and inserting “2022 through 2030”; and
+> in subparagraph (B), by striking “Subparagraph (A)(i)” and inserting “Subparagraph (A)”; and
 
 | | |
 |---|---|
-| Removed | `2019 through 2023` |
-| Inserted | `2022 through 2030` |
+| Removed | `Subparagraph (A)(i)` |
+| Inserted | `Subparagraph (A)` |
 
 ### 7 U.S.C. § 950bb
 
-> by striking “until expended” and inserting “for 2 fiscal years after the fiscal year for which appropriated”; and
-
-| | |
-|---|---|
-| Removed | `until expended` |
-| Inserted | `for 2 fiscal years after the fiscal year for which appropriated` |
-
-### 7 U.S.C. § 950bb
-
-> in subsection (k), by striking “2023” and inserting “2030”.
+> in subsection (k), by striking “2023” and inserting “2029”.
 
 | | |
 |---|---|
 | Removed | `2023` |
-| Inserted | `2030` |
+| Inserted | `2029` |
 
 ### 7 U.S.C. § 950bb-3
 
-> Section 604(g) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb–3(g)) is amended by striking “$50,000,000 for each of fiscal years 2019 through 2023” and inserting “$150,000,000 for each of fiscal years 2022 through 2030, to remain available for 2 fiscal years after the fiscal year for which appropriated”.
+> Section 604(g) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb-3(g)) is amended by striking “$50,000,000 for each of fiscal years 2019 through 2023” and inserting “$150,000,000 for each of fiscal years 2022 through 2029, to remain available for 2 fiscal years after the fiscal year for which appropriated”.
 
 | | |
 |---|---|
 | Removed | `$50,000,000 for each of fiscal years 2019 through 2023` |
-| Inserted | `$150,000,000 for each of fiscal years 2022 through 2030, to remain available for 2 fiscal years after the fiscal year for which appropriated` |
+| Inserted | `$150,000,000 for each of fiscal years 2022 through 2029, to remain available for 2 fiscal years after the fiscal year for which appropriated` |
 
 ### 7 U.S.C. § 950aaa-5
 
-> Section 2335A of the Food Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa–5) is amended by striking “$82,000,000 for each of fiscal years 2019 through 2023” and inserting “$150,000,000, to remain available for 2 fiscal years after the fiscal year for which appropriated”.
+> Section 2335A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa–5) is amended by striking “$82,000,000 for each of fiscal years 2019 through 2023” and inserting “$150,000,000 for each of fiscal years 2022 through 2029, to remain available for 2 fiscal years after the fiscal year for which appropriated”.
 
 | | |
 |---|---|
 | Removed | `$82,000,000 for each of fiscal years 2019 through 2023` |
-| Inserted | `$150,000,000, to remain available for 2 fiscal years after the fiscal year for which appropriated` |
+| Inserted | `$150,000,000 for each of fiscal years 2022 through 2029, to remain available for 2 fiscal years after the fiscal year for which appropriated` |
 
 ### 7 U.S.C. § 950bb-1
 
-> Section 602(g) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb–1(g)) is amended by striking “$10,000,000 for each of fiscal years 2018 through 2023” and inserting “$300,000,000 for each fiscal year, to remain available for 2 fiscal years after the fiscal year for which appropriated”.
+> Section 602(g) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb-1(g)) is amended by striking “$10,000,000 for each of fiscal years 2018 through 2023” and inserting “$300,000,000 for each of fiscal years 2022 through 2029, to remain available for 2 fiscal years after the fiscal year for which appropriated”.
 
 | | |
 |---|---|
 | Removed | `$10,000,000 for each of fiscal years 2018 through 2023` |
-| Inserted | `$300,000,000 for each fiscal year, to remain available for 2 fiscal years after the fiscal year for which appropriated` |
+| Inserted | `$300,000,000 for each of fiscal years 2022 through 2029, to remain available for 2 fiscal years after the fiscal year for which appropriated` |
 
 ## Stated, not applied
 
@@ -141,18 +132,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 950bb-2` | amend | Section 603(e) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb–2(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950bb-2` | amend | Section 603(e) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb-2(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1471` | replace | in subsection (c)(2), by striking subparagraphs (A) and (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950bb` | replace | in subsection (c)(2), by striking subparagraphs (A) and (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950bb` | strike | by striking “and” at the end of clause (i); | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 950bb` | replace | by striking the period at the end of clause (ii) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 950bb` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | replace | by striking subparagraph (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb` | strike | by striking “—” and all that follows through “(i)”; and | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 950bb` | strike | by striking the semicolon and all that follows through “providers”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 950bb` | strike | in subsection (d), by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb` | add-at-end | Section 601 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb-1` | add-at-end | Section 602 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb-2` | add-at-end | Section 603 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb–2), as amended by section 2 of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb-3` | add-at-end | Section 604 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb–3) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950aaa-2` | add-at-end | Section 2333 of the Food, Agriculture, Conservation and Trade Act of 1990 (7 U.S.C. 950aaa–2) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 950bb` | insert | Section 779 of division A of the Consolidated Appropriations Act, 2018 (132 Stat. 399; Public Law 115–141) is amended by inserting “: Provided further, That, notwithstanding any other provision of this section, the Secretary may use not … | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 950cc` | amend | Section 701(e) of the Rural Electrification Act of 1936 (7 U.S.C. 950cc(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950bb` | replace | by striking subsection (j) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950cc` | redesignate | Section 701 of the Rural Electrification Act of 1936 (7 U.S.C. 950cc) is amended by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 950cc` | redesignate | Section 701(f) of the Rural Electrification Act of 1936 (7 U.S.C. 950cc(f)), as so redesignated by section 8 of this Act, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
