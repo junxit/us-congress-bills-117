@@ -1,7 +1,7 @@
 ---
 measure: H.R. 604
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 604
@@ -16,7 +16,7 @@ Rebuild America’s Schools Act of 2022
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (145)
+## Cosponsors (176)
 
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
@@ -163,6 +163,37 @@ Rebuild America’s Schools Act of 2022
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Manning, Kathy E. [D-NC-6] (M001135)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Bush, Cori [D-MO-1] (B001224)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Newman, Marie [D-IL-3] (N000192)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
 
 ## Committees (2)
 
@@ -176,3 +207,11 @@ Rebuild America’s Schools Act of 2022
 - 2021-01-28 — Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-01-28 — Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2021-01-28 — Referred to the Subcommittee on Worker and Family Support.
+- 2022-05-18 — Committee Consideration and Mark-up Session Held.
+- 2022-05-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 19.
+- 2022-12-07 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Dec. 15, 2022.
+- 2022-12-07 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-607, Part I.
+- 2022-12-07 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 117-607, Part I.
+- 2022-12-16 — Committee on Ways and Means discharged.
+- 2022-12-16 — Committee on Ways and Means discharged.
+- 2022-12-16 — Placed on the Union Calendar, Calendar No. 467.
