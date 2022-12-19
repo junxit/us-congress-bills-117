@@ -28,10 +28,11 @@ The sense of Congress is the following:
 - **(6)** However, the horrific crimes perpetuated by Larry Nassar demonstrate firsthand the loopholes that still exist in the criminal justice system. While Larry Nassar was found guilty of several State-level offenses, he was not charged federally for his illicit sexual contact with minors, despite crossing State and international borders to commit this conduct.
 - **(7)** The Department of Justice has also identified a growing trend of Americans who use charitable or missionary work in a foreign country as a cover for sexual abuse of children.
 - **(8)** It is the intent of Congress to prohibit Americans from engaging in sexual abuse or exploitation of minors under the guise of work, including volunteer work, with an organization that affects interstate or foreign commerce, such as an international charity.
-- **(9)** Child sexual abuse does not require physical contact between the abuser and the child. This is especially true as perpetrators turn increasingly to internet platforms, online chat rooms, and webcams to commit child sexual abuse.
-- **(10)** However, a decision of the United States Court of Appeals for the Seventh Circuit found the use of a webcam to engage in sexually provocative activity with a minor did not qualify as “sexual activity”.
-- **(11)** Congress can address this issue by amending the definition of the term sexual activity to clarify that it does not require interpersonal, physical contact.
-- **(12)** It is the duty of Congress to provide clearer guidance to ensure that those who commit crimes against children are prosecuted to the fullest extent of the law.
+- **(9)** Federal law does not require that an abuser’s intention to engage in sexual abuse be a primary, significant, dominant, or motivating purpose of the travel.
+- **(10)** Child sexual abuse does not require physical contact between the abuser and the child. This is especially true as perpetrators turn increasingly to internet platforms, online chat rooms, and webcams to commit child sexual abuse.
+- **(11)** However, a decision of the United States Court of Appeals for the Seventh Circuit found the use of a webcam to engage in sexually provocative activity with a minor did not qualify as “sexual activity”.
+- **(12)** Congress can address this issue by amending the definition of the term sexual activity to clarify that it does not require interpersonal, physical contact.
+- **(13)** It is the duty of Congress to provide clearer guidance to ensure that those who commit crimes against children are prosecuted to the fullest extent of the law.
 
 ## § 3. Interstate child sexual abuse
 
@@ -41,7 +42,7 @@ Section 2423 of title 18, United States Code, is amended—
 - **(2)** by redesignating subsections (d), (e), (f), and (g) as subsections (e), (f), (g), and (i), respectively;
 - **(3)** in subsection (e), as so redesignated, by striking “with a motivating purpose of engaging in any illicit sexual conduct” and inserting “with intent to engage in any illicit sexual conduct”; and
 - **(4)** by inserting after subsection (g), as so redesignated, the following:
-  > - **(h)** *Definition of intent* As used in subsections (b) and (e), the term intent means that an individual has the intention to engage in illicit sexual conduct at the time of the travel. This intention need not be a primary, significant, dominant, or motivating purpose of the travel.
+  > - **(h)** *Rule of construction* As used in this section, the term intent shall be construed as any intention to engage in illicit sexual conduct at the time of the travel.
 
 ## § 4. Abuse under the guise of charity
 
