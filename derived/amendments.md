@@ -1,7 +1,7 @@
 ---
 measure: S. 4104
 congress: 117
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
