@@ -1,7 +1,7 @@
 ---
 measure: S. 3388
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -46,12 +46,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The table of sections at the beginning of chapter 71 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “; and” and inserting “, including (except as provided in paragraph (4)(A))— | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | in the section heading, by striking “Definition of “claimant”” and inserting “Definitions””; | the bill names no machine-readable US Code section |
-| — | replace | by striking “this chapter, the term” and inserting “this chapter: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5104 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Section 5104B(c) of such title is amended by striking “in writing” and inserting “to the claimant and the claimant’s representative”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7104 of such title is amended by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 7105(b)(1)(A) of such title is amended by striking “mailing” and inserting “provision”. | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 6103` | add-at-end | Section 6103(l)(7) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6103` | insert | Section 6103(a)(3) of such Code is amended by inserting “(7)(E),” after “(6),”. | the bill quotes the text inserted but describes where it goes |
