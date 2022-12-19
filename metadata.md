@@ -1,7 +1,7 @@
 ---
 measure: S. 3168
 congress: 117
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 3168
