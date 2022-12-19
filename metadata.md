@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6824
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6824
@@ -47,3 +47,7 @@ President’s Cup Cybersecurity Competition Act
 - 2022-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 31 (Roll no. 183). (text: CR H4976)
 - 2022-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 31 (Roll no. 183).
 - 2022-05-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-280.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-280.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
