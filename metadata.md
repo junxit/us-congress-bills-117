@@ -1,7 +1,7 @@
 ---
 measure: S. 1353
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1353
@@ -16,6 +16,10 @@ Advancing American AI Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
+## Cosponsors (1)
+
+- Sen. Portman, Rob [R-OH] (P000449)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ Advancing American AI Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-05-12 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-270.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-270.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 669.
