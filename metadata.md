@@ -1,7 +1,7 @@
 ---
 measure: S. 4411
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4411
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2022-06-15 — Introduced in Senate
 - 2022-06-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7282; text: CR S7282)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7282; text: CR S7282)
+- 2022-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
