@@ -1,7 +1,7 @@
 ---
 measure: S. 4919
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4919
@@ -28,3 +28,7 @@ Protecting the Border from Unmanned Aircraft Systems Act
 
 - 2022-09-22 — Introduced in Senate
 - 2022-09-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-279.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-279.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 678.
