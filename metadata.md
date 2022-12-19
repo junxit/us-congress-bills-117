@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7777
 congress: 117
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7777
@@ -42,3 +42,7 @@ Industrial Control Systems Cybersecurity Training Act
 - 2022-06-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 47 (Roll no. 278). (text: CR H5690)
 - 2022-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 47 (Roll no. 278).
 - 2022-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-281.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-281.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 680.
