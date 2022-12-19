@@ -1,7 +1,7 @@
 ---
 measure: S. 2525
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2525
@@ -28,3 +28,7 @@ Domains Critical to Homeland Security Act
 
 - 2021-07-28 — Introduced in Senate
 - 2021-07-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-08-04 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-272.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 117-272.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 671.
