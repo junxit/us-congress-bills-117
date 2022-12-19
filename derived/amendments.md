@@ -1,7 +1,7 @@
 ---
 measure: S. 4978
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 254r
 
-> Section 338J(i)(1) of the Public Health Service Act (42 U.S.C. 254r(i)(1)) is amended by striking “$12,500,000 for each of fiscal years 2018 through 2022” and inserting “$15,000,000 for each of fiscal years 2023 through 2027”.
+> Section 338J(i)(1) of the Public Health Service Act (42 U.S.C. 254r(i)(1)) is amended by striking “fiscal years 2018 through 2022” and inserting “fiscal years 2023 through 2027”.
 
 | | |
 |---|---|
-| Removed | `$12,500,000 for each of fiscal years 2018 through 2022` |
-| Inserted | `$15,000,000 for each of fiscal years 2023 through 2027` |
+| Removed | `fiscal years 2018 through 2022` |
+| Inserted | `fiscal years 2023 through 2027` |
