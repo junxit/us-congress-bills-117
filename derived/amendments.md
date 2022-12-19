@@ -1,7 +1,7 @@
 ---
 measure: S. 2491
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 2 executed, 22 stated and not applied.
+25 amendatory instructions. 2 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -73,3 +73,4 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 652` | insert | Subsection (b)(1) of section 2202 of the Homeland Security Act of 2002 (6 U.S.C. 652), is amended by inserting “The term of office of an individual serving as Director shall be 5 years.” after “who shall report to the Secretary.”. | the bill quotes the text inserted but describes where it goes |
