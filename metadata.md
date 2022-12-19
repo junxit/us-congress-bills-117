@@ -1,7 +1,7 @@
 ---
 measure: S. 4949
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4949
@@ -28,3 +28,7 @@ National Cemeteries Preservation and Protection Act of 2022
 
 - 2022-09-27 — Introduced in Senate
 - 2022-09-27 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2022-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7303-7304; text: CR S7303-7304)
+- 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7303-7304; text: CR S7303-7304)
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
