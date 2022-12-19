@@ -1,7 +1,7 @@
 ---
 measure: S. 4949
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4949
@@ -32,3 +32,18 @@ National Cemeteries Preservation and Protection Act of 2022
 - 2022-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7303-7304; text: CR S7303-7304)
 - 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
 - 2022-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-21 — Held at the desk.
+- 2022-12-21 — Received in the House.
+- 2022-12-22 — Considered under suspension of the rules. (consideration: CR H10038-10040)
+- 2022-12-22 — DEBATE - The House proceeded with forty minutes of debate on S. 4949.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2022-12-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10038-10039)
+- 2022-12-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10038-10039)
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-355.
+- 2023-01-05 — Became Public Law No: 117-355.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
