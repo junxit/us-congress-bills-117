@@ -225,7 +225,7 @@ In this Act:
       - **(i)** the first section of the Act of June 24, 1938 (25 U.S.C. 162a);
       - **(ii)** the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.); and
       - **(iii)** this subsection.
-    - **(B)** *Investment earnings* In addition to the deposits made to the Hualapai Water Trust Fund Account under paragraph (2), any investment earnings, including interest, credited to amounts held in the Hualapai Water Trust Fund Account are authorized to be appropriated to be used in accordance with paragraph (7).
+    - **(B)** *Investment earnings* In addition to the deposits made to the Hualapai Water Trust Fund Account under paragraph (2), any investment earnings, including interest, credited to amounts held in the Hualapai Water Trust Fund Account are authorized to be used in accordance with paragraph (7).
   - **(4)** *Availability of amounts*
     - **(A)** *In general* Amounts appropriated to, and deposited in, the Hualapai Water Trust Fund Account, including any investment earnings, shall be made available to the Hualapai Tribe by the Secretary beginning on the Enforceability Date, subject to the requirements of this section.
     - **(B)** *Use* Notwithstanding subparagraph (A), amounts deposited in the Hualapai Water Trust Fund Account shall be available to the Hualapai Tribe on the date on which the amounts are deposited for environmental compliance, as provided in section 8.
@@ -242,7 +242,7 @@ In this Act:
         - **(I)** is reasonable; and
         - **(II)** is consistent with, and will be used for, the purposes of this Act.
       - **(v)** *Enforcement* The Secretary may carry out such judicial and administrative actions as the Secretary determines to be necessary to enforce an expenditure plan to ensure that amounts disbursed under this subparagraph are used in accordance with this Act.
-  - **(6)** *Effect* Nothing in this section gives the Hualapai Tribe the right to judicial review of a determination of the Secretary relating to whether to approve a Tribal management plan under paragraph (5)(A) or an expenditure plan under paragraph (5)(B) except under subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”).
+  - **(6)** *Effect of title* Nothing in this section gives the Hualapai Tribe the right to judicial review of a determination of the Secretary relating to whether to approve a Tribal management plan under paragraph (5)(A) or an expenditure plan under paragraph (5)(B) except under subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”).
   - **(7)** *Uses* Amounts from the Hualapai Water Trust Fund Account shall be used by the Hualapai Tribe—
     - **(A)** to plan, design, construct, and conduct related activities, including compliance with Federal environmental laws under section 8, the Hualapai Water Project, which shall be designed to divert, treat, and convey up to 3,414 AFY of water from the Colorado River in the lower basin in the State, including locations on or directly adjacent to the Hualapai Reservation, for municipal, commercial, and industrial uses on the Hualapai Reservation;
     - **(B)** to perform OM&R on the Hualapai Water Project;
@@ -271,9 +271,8 @@ In this Act:
 ## § 7. Authorizations of appropriations
 
 - **(a)** *Authorizations*
-  - **(1)** *Hualapai water trust fund account* There is authorized to be appropriated to the Secretary for deposit in the Hualapai Water Trust Fund Account $312,000,000, to be available until expended, withdrawn, or reverted to the general fund of the Treasury.
+  - **(1)** *Hualapai water trust fund account* There is authorized to be appropriated to the Secretary for deposit in the Hualapai Water Trust Fund Account $180,000,000 312,000,000, to be available until expended, withdrawn, or reverted to the general fund of the Treasury.
   - **(2)** *Hualapai water settlement implementation fund account* There is authorized to be appropriated to the Secretary for deposit in the Hualapai Water Settlement Implementation Fund account established by section 6(b)(1) $5,000,000.
-  - **(3)** *Prohibition* Notwithstanding any other provision of law, any amounts made available under paragraph (1) or (2) shall not be made available from the Reclamation Water Settlements Fund established by section 10501(a) of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 407(a)).
 - **(b)** *Fluctuation in costs*
   - **(1)** *In general* The amount authorized to be appropriated under subsection (a)(1) shall be increased or decreased, as appropriate, by such amounts as may be justified by reason of ordinary fluctuations in costs occurring after the date of enactment of this Act, as indicated by the Bureau of Reclamation Construction Cost Index—Composite Trend.
   - **(2)** *Construction costs adjustment* The amount authorized to be appropriated under subsection (a)(1) shall be adjusted to address construction cost changes necessary to account for unforeseen market volatility that may not otherwise be captured by engineering cost indices as determined by the Secretary, including repricing applicable to the types of construction and current industry standards involved.
@@ -461,7 +460,7 @@ The following land in the State is added to the Hualapai Reservation:
   - **(A)** SE1/4;
   - **(B)** E1/2SW1/4; and
   - **(C)** SW1/4SW1/4.
-- **(8)** *Valentine cemetery parcel* W1/2NW1/4SW1/4 sec. 22, T. 23 N., R. 13 W., Gila and Salt River Base and Meridian, Mohave County, Arizona, excepting and reserving to the United States a right-of-way for ditches or canals constructed by the authority of the United States, pursuant to the Act of August 30, 1890 (43 U.S.C. 945).
+- **(8)** *Valentine cemetery parcel* W1/2W1/4SW1/4W1/2NW1/4SW1/4 sec. 22, T. 23 N., R. 13 W., Gila and Salt River Base and Meridian, Mohave County, Arizona, excepting and reserving to the United States a right-of-way for ditches or canals constructed by the authority of the United States, pursuant to the Act of August 30, 1890 (43 U.S.C. 945).
 
 ## § 12. Trust land
 
@@ -565,7 +564,8 @@ The following land in the State is added to the Hualapai Reservation:
   - **(3)** the abstracts referred to in subparagraphs 4.8.1.2, 4.8.2.1, and 4.8.2.2 of the Hualapai Tribe water rights settlement agreement have been completed by the Hualapai Tribe;
   - **(4)** the full amount described in section 7(a)(1), as adjusted by section 7(b), has been deposited in the Hualapai Water Trust Fund Account;
   - **(5)** the Gila River adjudication decree has been approved by the Gila River adjudication court substantially in the form of the judgment and decree attached to the Hualapai Tribe water rights settlement agreement as Exhibit 3.1.43, as amended to ensure consistency with this Act; and
-  - **(6)** the Secretary has executed the Hualapai Tribe water delivery contract described in section 13(c).
+  - **(6)** the Secretary has executed the Hualapai Tribe water delivery contract described in section 13(c).;and
+  - **(7)** the Secretary has issued the record of decision required by section 8(d).
 - **(b)** *Repeal on failure To meet enforceability date*
   - **(1)** *In general* Except as provided in paragraph (2), if the Secretary fails to publish in the Federal Register a statement of findings under subsection (a) by April 15, 2029, or such alternative later date as may be agreed to by the Hualapai Tribe, the Secretary, and the State—
     - **(A)** this Act is repealed;
@@ -638,7 +638,7 @@ The following land in the State is added to the Hualapai Reservation:
   - **(2)** *Effect on agreements* Nothing in this Act or the Hualapai Tribe water rights settlement agreement limits the right of the Hualapai Tribe to enter into any agreement for the storage or banking of water in accordance with State law with—
     - **(A)** the Arizona Water Banking Authority (or a successor agency or entity); or
     - **(B)** any other lawful authority.
-  - **(3)** *Effect of Act* Nothing in this Act—
+  - **(3)** *Effect of act* Nothing in this Act—
     - **(A)** quantifies or otherwise affects the water rights, claims, or entitlements to water of any Indian Tribe other than the Hualapai Tribe;
     - **(B)** affects the ability of the United States to take action on behalf of any Indian Tribe other than the Hualapai Tribe, the members of the Hualapai Tribe, and the allottees; or
     - **(C)** limits the right of the Hualapai Tribe to use any water of the Hualapai Tribe in any location on the Hualapai Reservation.

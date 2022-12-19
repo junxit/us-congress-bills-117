@@ -1,7 +1,7 @@
 ---
 measure: S. 4104
 congress: 117
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 4104
