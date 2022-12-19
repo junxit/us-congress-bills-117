@@ -1,7 +1,7 @@
 ---
 legis-num: S. 989
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,67 +11,48 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Native American Language Resource Center Act of 2021”.
+This Act may be cited as the “Native American Language Resource Center Act of 2022”.
 
-## § 2. Purposes
+## § 2. Native American language resource centers
 
-The purposes of this Act are to further the policies set forth in the Native American Languages Act (25 U.S.C. 2901 et seq.) by creating a national resource center and, through such national resource center and actions, to—
-
-- **(1)** preserve, protect, and promote the rights and freedom of Native Americans to use, practice, and develop Native American languages (as defined in section 103 of the Native American Languages Act (25 U.S.C. 2902));
-- **(2)** allow the United States to fulfill its trust responsibility to Native American communities and address the effects of past discrimination against Native American language speakers;
-- **(3)** support revitalization of Native American languages;
-- **(4)** encourage and support the use of Native American languages as a medium of instruction, including use as a medium of education in schools operated by Tribes, States, territories, the Federal Government, and Native American language educational organizations;
-- **(5)** encourage and support the use and development of Native American languages as the medium of instruction for a wide variety of age levels and academic content areas;
-- **(6)** support metrics aligned with the Native American language of instruction, including assessments, qualifications, and processes based on well-demonstrated best practices in Native American language medium education;
-- **(7)** identify—
-  - **(A)** barriers to Native American language education and learning within Federal laws; and
-  - **(B)** actions needed for alignment with the Native American Languages Act (25 U.S.C. 2901 et seq.);
-- **(8)** encourage and support elementary schools, secondary schools, and institutions of higher education to include Native American languages in the curriculum in the same manner as other world languages, including through cooperative agreements and distance education, and to grant proficiency in Native American languages the same full academic credit as proficiency in other world languages;
-- **(9)** encourage and support the development of appropriate teacher preparation programming for the teaching of, and through, Native American languages, including appropriate alternative pathways to teacher certification;
-- **(10)** provide a resource base to provide information to Federal, Tribal, State, territory, and local governments and Native American educational organizations to allow the spread of best practices in the use, practice, and development of Native American languages in Native American communities, including use in educational institutions;
-- **(11)** provide a resource base for the use of technology in intensive community-, land-, and archive-based programs, as well as hybrid and collaborative programs in supporting the retention, use, development, and teaching of Native American languages by government and private entities;
-- **(12)** provide a developmental base from which interested Tribal colleges and universities and other Native American entities might develop fully functioning Native American language medium education systems that include associated preschool, elementary school, secondary school, and adult education programs conducted through the medium of Native American languages;
-- **(13)** provide a means to further collaboration among formal government, institutional, and community-based Native American language programs, resources, and research efforts with additional access to international best practices in indigenous language revitalization; and
-- **(14)** develop a support center system for Native American language participants to gather and share helpful information and experiences.
-
-## § 3. Native American language resource center
-
-Section 603 of the Higher Education Act of 1965 (20 U.S.C. 1123) is amended—
-
-- **(1)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
-- **(2)** by inserting after subsection (a) the following:
-  > - **(b)** *Native American language resource center authorized*
-  >   - **(1)** *In general* The Secretary is authorized to make a grant to, or enter into a contract with, an eligible entity for the purpose of—
-  >     - **(A)** establishing, strengthening, and operating a Native American language resource and training center as described in paragraph (2); and
-  >     - **(B)** staffing the center with individuals who have high-level fluency in American Indian, Alaska Native, and Native Hawaiian languages and are experienced with Native American language education in preschool, elementary school, secondary school, adult education, and higher education programs.
-  >   - **(2)** *Purposes of center* The Native American language resource center established under paragraph (1) shall serve as a resource to—
-  >     - **(A)** improve the capacity to teach and learn Native American languages and further Native American language acquisition;
-  >     - **(B)** preserve, protect, and promote the rights and freedom of Native Americans to use, practice, and develop Native American languages;
-  >     - **(C)** allow the United States to fulfill its trust responsibility to Native American communities and address the effects of past discrimination against Native American language speakers;
-  >     - **(D)** support revitalization of Native American languages;
-  >     - **(E)** encourage and support the use of Native American languages as a medium of instruction, including use as a medium of education in schools operated by Tribes, States, the Federal Government, and Native American language educational organizations;
-  >     - **(F)** encourage and support the use and development of Native American languages as the medium of instruction for a wide variety of age levels and academic content areas;
-  >     - **(G)** support metrics aligned with the Native American language of instruction, including assessments, qualifications, and processes based on well-demonstrated best practices in Native American language medium education;
-  >     - **(H)** identify barriers to Native American language education and learning within Federal laws and actions needed for alignment with the Native American Languages Act (25 U.S.C. 2901);
-  >     - **(I)** encourage and support elementary schools, secondary schools, and institutions of higher education to include Native American languages in the curriculum in the same manner as other world languages, including through cooperative agreements and distance education, and to grant proficiency in Native American languages the same full academic credit as proficiency in other world languages;
-  >     - **(J)** encourage and support the development of appropriate teacher preparation programming for the teaching of, and through, Native American languages, including appropriate alternative pathways to teacher certification;
-  >     - **(K)** provide a resource base to provide information to Federal, Tribal, State, and local governments and Native American educational organizations to allow the spread of best practices in the use, practice, and development of Native American languages in Native American communities, including use in educational institutions;
-  >     - **(L)** provide a resource base for the use of technology in intensive community-, land-, and archive-based programs, as well as hybrid and collaborative programs in supporting the retention, use, development, and teaching of Native American languages by government and private entities;
-  >     - **(M)** support the acquisition of distance learning technologies and training for parents, students, teachers, and learning support staff, including the compilation and curation of digital libraries and other online resources in target Native American languages, the development of distance learning curricula appropriate for preschool, elementary school, secondary school, adult education, and postsecondary education, the pedagogical training for teachers, and other efforts necessary to continue Native American language acquisition through distance learning;
-  >     - **(N)** provide a developmental base from which interested Tribal colleges and universities and other Native American entities might develop fully functioning Native American language medium education systems that include associated preschool, elementary school, secondary school, and adult education programs conducted through the medium of Native American languages;
-  >     - **(O)** provide a means to further collaboration among formal government, institutional, and community-based Native American language programs, resources, and research efforts with additional access to international best practices in indigenous language revitalization;
-  >     - **(P)** develop a support center system for Native American language participants to gather and share helpful information and experiences; and
-  >     - **(Q)** address any of the purposes of foreign language centers included under this section if, in doing so, the Native American language resource center—
-  >       - **(i)** does so as a subsidiary activity;
-  >       - **(ii)** focuses benefits on Native Americans living in Native American communities, or closely tied to such communities; and
-  >       - **(iii)** ensures that one of the outcomes being strengthened through this subparagraph is the use of one or more Native American languages in a Native American community.
-  >   - **(3)** *Definitions* In this subsection:
-  >     - **(A)** *Eligible entity* The term eligible entity means—
-  >       - **(i)** an institution of higher education;
-  >       - **(ii)** an entity within an institution of higher education with dedicated responsibility for Native American language and culture education;
-  >       - **(iii)** a consortium of such institutions; or
-  >       - **(iv)** a consortium of such institutions and other entities with unique responsibilities for Native American languages.
-  >     - **(B)** *Native American; Native American language* The terms Native American and Native American language have the meanings given those terms in section 103 of the Native American Languages Act (25 U.S.C. 2902).
-  >   - **(4)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection, $3,000,000 for each fiscal year.
-
-- **(3)** in the matter preceding paragraph (1) of subsection (c), as redesignated by paragraph (1), by striking “subsection (a)” and inserting “this section”.
+- **(a)** *Purpose* The purpose of this Act is to further align the resources provided by the Department of Education with the policies set forth in the Native American Languages Act (25 U.S.C. 2901 et seq.) through establishment of a program within the Department of Education to support 1 or more Native American language resource centers.
+- **(b)** *In general* The Secretary of Education is authorized to make a grant to, or enter into a contract with, an eligible entity for the purpose of—
+  - **(1)** establishing, strengthening, and operating a Native American language resource center; and
+  - **(2)** staffing the center with individuals with relevant expertise and experience, including staff who speak American Indian and Alaska Native languages and the Native Hawaiian language and have worked in language education in the American Indian and Alaska Native languages and the Native Hawaiian language in a preschool, elementary school, secondary school, adult education, or higher education program.
+- **(c)** *Authorized activities* The Native American language resource center established under subsection (b) shall carry out activities to—
+  - **(1)** improve the capacity to teach and learn Native American languages;
+  - **(2)** further Native American language use and acquisition;
+  - **(3)** preserve, protect, and promote the rights and freedom of Native Americans to use, practice, and develop Native American languages in furtherance of—
+    - **(A)** the policies set forth in the Native American Languages Act (25 U.S.C. 2901 et seq.); and
+    - **(B)** the United States trust responsibility to Native American communities;
+  - **(4)** address the effects of past discrimination and ongoing inequities experienced by Native American language speakers;
+  - **(5)** support the revitalization and reclamation of Native American languages; and
+  - **(6)** support the use of Native American languages as a medium of instruction for a wide variety of age levels, academic content areas, and types of schools, including Native American language medium education.
+- **(d)** *Additional authorized activities* The Native American language resource center established under subsection (b) may also carry out activities—
+  - **(1)** to encourage and support the use of Native American languages within educational systems in the same manner as other world languages, including by encouraging State educational agencies, local educational agencies, and institutions of higher education to offer Native American language courses the same full academic credit as courses in other world languages;
+  - **(2)** to support the development, adoption, and use of educational outcome metrics aligned with the Native American language of instruction, including assessments, qualifications, and processes based on promising practices in Native American language medium education;
+  - **(3)** to provide assistance to Native American language programs seeking Federal resources;
+  - **(4)** to encourage and support teacher preparation programs that prepare teachers to teach Native American languages and to use Native American languages as a medium of instruction, including by disseminating promising practices and developing pedagogical programming and through appropriate alternative pathways to teacher certification;
+  - **(5)** to provide information and resources—
+    - **(A)** on promising practices in the use and revitalization of Native American languages in Native American communities, including use in educational institutions; and
+    - **(B)** for the use of technology in school and community-based Native American language programs to support the retention, use, and teaching of Native American languages;
+  - **(6)** to support the use of distance learning technologies and training for parents, students, teachers, and learning support staff associated with Native American language programs, including—
+    - **(A)** the compilation and curation of digital libraries and other online resources for Native American languages, except that any materials collected by the center shall only be materials provided by a Native American language program or Native American community;
+    - **(B)** the development of optional distance learning curricula appropriate for preschool, elementary school, secondary school, adult education, and postsecondary education;
+    - **(C)** pedagogical training for Native American language teachers; and
+    - **(D)** other efforts necessary to continue Native American language acquisition through distance learning;
+  - **(7)** to provide technical assistance for Native American communities and school systems to develop Native American language medium education programs in preschool, elementary school, secondary school, or adult education programs conducted through the medium of Native American languages;
+  - **(8)** to support Native American language programs and Native American communities in—
+    - **(A)** accessing international best practices, resources, and research in indigenous language revitalization; and
+    - **(B)** gathering and sharing technical assistance, promising practices, and experiences;
+  - **(9)** for the operation of intensive programs, including summer institutes, to train Native American language speakers, to provide professional development, and to improve Native American language instruction through preservice and in-service language training for teachers; and
+  - **(10)** that otherwise support the Native American language resource center established under subsection (b) to carry out the activities required in subsection (c).
+- **(e)** *Definitions* In this section:
+  - **(1)** *ESEA definitions* The terms elementary school, local educational agency, secondary school, and State educational agency have the meanings given the terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+  - **(2)** *Eligible entity* The term eligible entity means—
+    - **(A)** an institution of higher education;
+    - **(B)** an entity within an institution of higher education with dedicated expertise in Native American language and culture education; or
+    - **(C)** a consortium that includes 1 or more institutions of higher education or 1 or more entities described in subparagraph (B).
+  - **(3)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+  - **(4)** *Native american; native american language* The terms Native American and Native American language have the meanings given those terms in section 103 of the Native American Languages Act (25 U.S.C. 2902).
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section, $3,000,000 for each fiscal year.
