@@ -1,7 +1,7 @@
 ---
 measure: S. 4465
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4465
@@ -28,3 +28,8 @@ Offices of Countering Weapons of Mass Destruction and Health Security Act of 202
 
 - 2022-06-23 — Introduced in Senate
 - 2022-06-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-07-19 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2022-08-03 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-276.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-276.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.
