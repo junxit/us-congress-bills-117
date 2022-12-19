@@ -1,7 +1,7 @@
 ---
 measure: S. 4913
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4913
@@ -28,3 +28,7 @@ Securing Open Source Software Act of 2022
 
 - 2022-09-21 — Introduced in Senate
 - 2022-09-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2022-09-28 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-278.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 117-278.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 677.
