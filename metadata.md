@@ -1,7 +1,7 @@
 ---
 measure: S. 1303
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1303
@@ -30,3 +30,7 @@ Build America, Buy America Act
 
 - 2021-04-22 — Introduced in Senate
 - 2021-04-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2021-05-12 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-268.
+- 2022-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-268.
+- 2022-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 667.
