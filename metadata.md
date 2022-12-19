@@ -1,7 +1,7 @@
 ---
 measure: S. 4978
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4978
@@ -45,3 +45,18 @@ State Offices of Rural Health Program Reauthorization Act of 2022
 - 2022-12-19 — Senate amendment agreed to: Amendment SA 6551 agreed to in Senate by Unanimous Consent.
 - 2022-12-19 — Senate amendment proposed (on the floor): Amendment SA 6551 proposed by Senator Kelly for Senator Barrasso.
 - 2022-12-19 — Senate amendment submitted
+- 2022-12-20 — Message on Senate action sent to the House.
+- 2022-12-21 — Held at the desk.
+- 2022-12-21 — Received in the House.
+- 2022-12-22 — Considered under suspension of the rules. (consideration: CR H10024-10025)
+- 2022-12-22 — DEBATE - The House proceeded with forty minutes of debate on S. 4978.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2022-12-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10025)
+- 2022-12-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10025)
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-356.
+- 2023-01-05 — Became Public Law No: 117-356.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
