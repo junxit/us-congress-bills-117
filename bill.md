@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1402
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Durbin Feeling Native American Languages Act of 2021”.
+This Act may be cited as the “Durbin Feeling Native American Languages Act of 2022”.
 
 ## § 2. Ensuring the survival and continuing vitality of Native American languages
 
@@ -42,7 +42,7 @@ This Act may be cited as the “Durbin Feeling Native American Languages Act of 
   >   - **(6)** any other information that the Secretary, in consultation with Indian tribes and Native American language speakers and experts, determines to be necessary.
   > - **(e)** *Coordination* The Secretary may coordinate, and enter into cooperative agreements with, the Director of the Bureau of the Census for the purposes of carrying out this section.
   > - **(f)** *Outreach and engagement*
-  >   - **(1)** *In general* The Secretary shall carry out outreach and engagement activities to provide Indian tribes, Native language communities, and the public information about—
+  >   - **(1)** *In general* The Secretary shall carry out outreach and engagement activities to provide Indian tribes, Native American language communities, and the public information about—
   >     - **(A)** opportunities to provide input on the development and design of each survey under subsection (a), including information on the consultations required under subsection (c);
   >     - **(B)** the goals and purpose of the surveys conducted under subsection (a); and
   >     - **(C)** the benefits and importance of participation in surveys under subsection (a).
@@ -57,12 +57,12 @@ This Act may be cited as the “Durbin Feeling Native American Languages Act of 
   >   - **(1)** to participate in a survey under subsection (a); or
   >   - **(2)** to provide specific or culturally sensitive information in completing such a survey.
   > - **(h)** *Availability of survey materials and findings*
-  >   - **(1)** *In general* Not later than 1 year after the date of enactment of this section, and prior to conducting each survey under subsection (a), the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives, and make publicly available, a description of—
+  >   - **(1)** *In general* Not later than 1 year after the date of enactment of this section, and prior to conducting each survey under subsection (a), the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committees on Education and Labor and Natural Resources of the House of Representatives, and make publicly available, a description of—
   >     - **(A)** the feedback received under subsection (c) on the design of the survey;
   >     - **(B)** the form and content of the survey;
   >     - **(C)** the plan for deploying the survey to ensure a robust response; and
   >     - **(D)** how the Secretary will ensure any survey enumeration efforts are culturally informed and appropriate.
-  >   - **(2)** *Results* Not later than 90 days after the date on which analysis of each survey under subsection (a) is completed, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives, and make publicly available, the results of the survey.
+  >   - **(2)** *Results* Not later than 90 days after the date on which analysis of each survey under subsection (a) is completed, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committees on Education and Labor and Natural Resources of the House of Representatives, and make publicly available, the results of the survey.
   > - **(i)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,500,000 for each fiscal year—
   >   - **(1)** preceding a fiscal year during which a survey under subsection (a) is conducted; and
   >   - **(2)** during which a survey under that subsection is conducted.

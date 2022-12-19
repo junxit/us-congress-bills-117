@@ -1,7 +1,7 @@
 ---
 measure: S. 1402
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
