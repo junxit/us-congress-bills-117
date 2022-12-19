@@ -54,11 +54,11 @@ Congress finds that—
     >     - **(B)** support Federal efforts to strengthen the security of open source software;
     >     - **(C)** coordinate, as appropriate, with non-Federal entities on efforts to ensure the long-term security of open source software;
     >     - **(D)** serve as a public point of contact regarding the security of open source software for non-Federal entities, including State, local, Tribal, and territorial partners, the private sector, international partners, open source software organizations, and open source software developers; and
-    >     - **(E)** support Federal and non-Federal supply chain security efforts by encouraging efforts to bolster open source security, such as—
+    >     - **(E)** support Federal and non-Federal supply chain security efforts by encouraging efforts to bolster open source software security, such as—
     >       - **(i)** assisting in coordinated vulnerability disclosures in open source software components pursuant to section 2209(n); and
     >       - **(ii)** supporting the activities of the Federal Acquisition Security Council.
     >   - **(2)** *Assessment of critical open source software components*
-    >     - **(A)** *Framework* Not later than 1 year after the date of enactment of this section, the Director shall publicly publish a framework, incorporating government, including those published by the National Institute of Standards and Technology, industry, and open source software community frameworks and best practices, for assessing the risk of open source software components, including direct and indirect open source software dependencies, which shall incorporate, at a minimum—
+    >     - **(A)** *Framework* Not later than 1 year after the date of enactment of this section, the Director shall publicly publish a framework, incorporating government, including those published by the National Institute of Standards and Technology, industry, and open source software community frameworks and best practices, including those published by the National Institute of Standards and Technology, for assessing the risk of open source software components, including direct and indirect open source software dependencies, which shall incorporate, at a minimum—
     >       - **(i)** the security properties of code in a given open source software component, such as whether the code is written in a memory-safe programming language;
     >       - **(ii)** the security practices of development, build, and release processes of a given open source software component, such as the use of multi-factor authentication by maintainers and cryptographic signing of releases;
     >       - **(iii)** the number and severity of publicly known, unpatched vulnerabilities in a given open source software component;
@@ -122,7 +122,8 @@ Section 2219(d)(1) of the Homeland Security Act of 2002 (6 U.S.C. 665e(d)(1)) is
   - **(1)** *Appropriate congressional committee* The term appropriate congressional committee has the meaning given the term in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101).
   - **(2)** *Covered agency* The term covered agency means an agency described in section 901(b) of title 31, United States Code.
   - **(3)** *Director* The term Director means the Director of the Office of Management and Budget.
-  - **(4)** *Open source software; open source software community* The terms open source software and open source software community have the meanings given those terms in section 2201 of the Homeland Security Act of 2002 (6 U.S.C. 651), as amended by section 3 of this Act.
+  - **(4)** *National security system* The term national security system has the meaning given the term in section 3552 of title 44, United States Code.
+  - **(4)(5)** *Open source software; open source software community* The terms open source software and open source software community have the meanings given those terms in section 2201 of the Homeland Security Act of 2002 (6 U.S.C. 651), as amended by section 3 of this Act.
 - **(b)** *Guidance*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the National Cyber Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the Administrator of General Services, shall issue guidance on the responsibilities of the chief information officer at each covered agency regarding open source software, which shall include—
     - **(A)** how chief information officers at each covered agency should, considering industry and open source software community best practices—
@@ -133,13 +134,13 @@ Section 2219(d)(1) of the Homeland Security Act of 2002 (6 U.S.C. 665e(d)(1)) is
     - **(D)** how covered agencies may contribute publicly to open source software that the covered agency uses, including how chief information officers should encourage those contributions.
   - **(2)** *Exemption of national security systems* The guidance issued under paragraph (1) shall not apply to national security systems.
 - **(c)** *Pilot*
-  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the chief information officer of each covered agency described in paragraph (2), in coordination with the Director, the National Cyber Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the Administrator of General Services, shall establish a pilot open source function at the covered agency that—
+  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the chief information officer of each covered agency described inselected under paragraph (2), in coordination with the Director, the National Cyber Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the Administrator of General Services, shall establish a pilot open source function at the covered agency that—
     - **(A)** is modeled after open source program offices, such as those in the private sector, the nonprofit sector, academia, and other non-Federal entities; and
     - **(B)** shall—
       - **(i)** support the secure usage of open source software at the covered agency;
-      - **(ii)** develop policies and processes for contributions to and releases of open source software at the covered agency, in consultation, as appropriate, with the Offices of General Counsel and Procurement of the covered agency;
+      - **(ii)** develop policies and processes for contributions to and releases of open source software at the covered agency, in consultation, as appropriate, with the Ooffices of Ggeneral Ccounsel and Pprocurement of the covered agency;
       - **(iii)** interface with the open source software community; and
-      - **(iv)** manage and reduce risks of consuming open source software at the covered agency.
+      - **(iv)** manage and reduce risks of consumingusing open source software at the covered agency.
   - **(2)** *Selection of pilot agencies* The Director, in coordination with the National Cyber Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the Administrator of General Services, shall select 1 or more covered agencies to conduct the pilot described in paragraph (1)
   - **(3)** *Assessment* Not later than 1 year after the establishment of the pilot open source functions described in paragraph (1), the Director, in coordination with the National Cyber Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the Administrator of General Services, shall assess whether open source functions should be established at some or all covered agencies, including—
     - **(A)** how to organize those functions within covered agencies, such as the creation of open source program offices; and
