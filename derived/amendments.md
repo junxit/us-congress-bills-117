@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8610
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-42 amendatory instructions. 7 executed, 35 stated and not applied.
+46 amendatory instructions. 9 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,11 +53,11 @@ to guess them.
 
 ### 6 U.S.C. § 101
 
-> in subsection (a), by striking “Under Secretary of Management” each place such term appears and inserting “Chief Medical Officer”; and
+> in subsection (a), by striking “Under Secretary for Management” each place such term appears and inserting “Chief Medical Officer”; and
 
 | | |
 |---|---|
-| Removed | `Under Secretary of Management` |
+| Removed | `Under Secretary for Management` |
 | Inserted | `Chief Medical Officer` |
 
 ### 6 U.S.C. § 101
@@ -80,12 +80,30 @@ to guess them.
 
 ### 6 U.S.C. § 344
 
-> in section 704(3)(4) (6 U.S.C. 344(e)(4)), by striking “section 711(a)” and inserting “section 710(a)”;
+> in section 704(e)(4) (6 U.S.C. 344(e)(4)), by striking “section 711(a)” and inserting “section 710(a)”;
 
 | | |
 |---|---|
 | Removed | `section 711(a)` |
 | Inserted | `section 710(a)` |
+
+### 5 U.S.C. § 3104
+
+> in the first sentence, by striking “section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note)” and inserting “section 4092 of title 10, United States Code, except that such authorities shall be limited to facilitate the recruitment of experts in the chemical, biological, radiological, or nuclear specialties”; and
+
+| | |
+|---|---|
+| Removed | `section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note)` |
+| Inserted | `section 4092 of title 10, United States Code, except that such authorities shall be limited to facilitate the recruitment of experts in the chemical, biological, radiological, or nuclear specialties` |
+
+### 6 U.S.C. § 596b
+
+> in subsection (c)(1), by striking “from among high-risk urban areas under section 2003” and inserting “based on the capability and capacity of the jurisdiction, as well as the relative threat, vulnerability, and consequences from terrorist attacks and other high-consequence events utilizing nuclear or other radiological materials”; and
+
+| | |
+|---|---|
+| Removed | `from among high-risk urban areas under section 2003` |
+| Inserted | `based on the capability and capacity of the jurisdiction, as well as the relative threat, vulnerability, and consequences from terrorist attacks and other high-consequence events utilizing nuclear or other radiological materials` |
 
 ## Stated, not applied
 
@@ -103,13 +121,13 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 101` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | strike | in paragraph (4), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 101` | redesignate | by redesignating paragraph (5) as paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | redesignate | by redesignating paragraph (5) as paragraph (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | insert | by inserting after paragraph (4) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 350` | redesignate | by redesignating section 710 (6 U.S.C. 350) as section 2302 and transferring such section to appear after section 2301; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 350` | redesignate | by redesignating section 710 (6 U.S.C. 350) as section 2302 and transferring such section to appear after section 2301 (as redesignated and transferred pursuant to paragraph (3)); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | strike | in paragraph (3), by striking “as deemed appropriate by the Under Secretary,”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 321q` | redesignate | by redesignating section 528 (6 U.S.C. 321q) as section 2303 and transferring such section to appear after section 2302; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 101` | redesignate | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by redesignating section 1932 (6 U.S.C. 597a) as section 2304 and transferring such section, as so redesignated, to appear after section 2303 of title XXIII. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 321q` | redesignate | by redesignating section 528 (6 U.S.C. 321q) as section 2303 and transferring such section to appear after section 2302, as so redesignated and transferred; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | redesignate | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by redesignating section 1932 (6 U.S.C. 597a) as section 2304 and transferring such section, as so redesignated, to appear after section 2303 (as redesignated and transf… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 321r` | redesignate | by redesignating section 529 (6 U.S.C. 321r) as section 528; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 351` | redesignate | by redesignating sections 711 (6 U.S.C. 351), 712 (6 U.S.C. 352), and 713 (6 U.S.C. 353) as sections 710, 711, and 712, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 321r` | strike | in title XIX, by striking the enumerator and heading of subtitle C. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -125,8 +143,10 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 591` | strike | in the matter preceding paragraph (1), by striking “serve as the Secretary’s principal advisor on”; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 591` | replace | by striking paragraphs (1) and (2) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591g` | replace | in section 1921 (6 U.S.C. 591g), by striking “The Office shall be responsible” and all that follows through “interests of the United States.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 592` | redesignate | by redesignating paragraphs (13) and (14) as paragraphs (18) and (19), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 592` | insert | by inserting after paragraph (12) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 592` | redesignate | by redesignating paragraphs (13) and (14) as paragraphs (19) and (20), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | by inserting after paragraph (12) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 593` | strike | by striking the second sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 596b` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 591g` | add-at-end | by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | insert | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by inserting after section 515 (6 U.S.C. 321d) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 311` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 515 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
