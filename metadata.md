@@ -1,7 +1,7 @@
 ---
 measure: S. 5323
 congress: 117
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 5323
