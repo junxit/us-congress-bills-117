@@ -17,19 +17,31 @@ This Act may be cited as the “Childhood Cancer Survivorship, Treatment, Access
 
 - **(a)** *Children's cancer biorepositories* Section 417E of the Public Health Service Act (42 U.S.C. 285a–11) is amended—
   - **(1)** in subsection (a)—
-    - **(A)** in paragraph (2)(A), by inserting before the period at the end of the second sentence the following: “, and providing sample collection incentives for both solid tumor cancer and paired tissues for all pediatric cancers”;
+    - **(A)** in paragraph (2)(A), by inserting before the period at the end of the second sentence the following: “, such as collected samples of both solid tumor cancer and paired samples”;
     - **(B)** in paragraph (9), by striking “Childhood Cancer Survivorship, Treatment, Access, and Research Act of 2018” and inserting “Childhood Cancer Survivorship, Treatment, Access, and Research Reauthorization Act of 2022”;
     - **(C)** by redesignating paragraph (10) as paragraph (11); and
     - **(D)** by inserting after paragraph (9) the following:
-      > - **(10)** *Report on researcher access to children's cancer biorepository samples* The Director of NIH shall, not later than 2 years after the date of enactment of the Childhood Cancer Survivorship, Treatment, Access, and Research Reauthorization Act of 2022, submit to Congress a report on policy changes that would facilitate streamlining the approval process for researcher access to children's cancer biorepository samples, with a special focus on lowering the regulatory burden before samples can be sent to investigators.
+      > - **(10)** *Report on researcher access to children's cancer biorepository samples* Not later than 2 years after the date of enactment of the Childhood Cancer Survivorship, Treatment, Access, and Research Reauthorization Act of 2022, the Director of NIH shall—
+      >   - **(A)** conduct a review of the procedures established under paragraph (2)(C) and other policies or procedures related to researcher access to such biospecimens to identify any opportunities to reduce administrative burden, consistent with paragraph (2)(D), in a manner that protects personal privacy to the extent required by applicable Federal and State privacy law, at a minimum; and
+      >   - **(B)** submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the findings of the review under subparagraph (A) and whether the Director of NIH plans to make any changes to the policies or procedures considered in such review, based on such findings.
 
   - **(2)** in subsection (d), by striking “2019 through 2023” and inserting “2024 through 2028”.
 - **(b)** *Cancer survivorship programs* Section 201 of the Childhood Cancer Survivorship, Treatment, Access, and Research Act of 2018 (Public Law 115–180) is amended—
   - **(1)** in subsection (a)—
-    - **(A)** in paragraph (1), by striking “may make awards” and inserting “shall make awards”; and
-    - **(B)** by adding at the end the following:
-      > - **(4)** *Consideration* In developing, studying, and evaluating model systems pursuant to this subsection, recipients of awards under this subsection shall give particular consideration to the report issued by the Agency for Healthcare Research and Quality in February 2022, titled “Models of Care That Include Primary Care for Adult Survivors of Childhood Cancer: A Realist Review”.
-
-  - **(2)** in subsection (b), in paragraphs (1) and (2), by striking “date of enactment of this Act” each place it appears and inserting “date of enactment of the Childhood Cancer Survivorship, Treatment, Access, and Research Reauthorization Act of 2022”.
-- **(c)** *Survivorship electronic health records* The Secretary of Health and Human Services shall coordinate with the Office of the National Coordinator for Health Information to prepare a report on the role that tailored survivorship electronic health records can play in life-long health care for childhood cancer survivors, with a special focus on survivors who face unique lifelong health needs and late effects as they transition to primary care. Such report shall be submitted to Congress not later than 2 years after the date of enactment of this Act.
-- **(d)** *Sense of Congress regarding the creation of a childhood cancer medical code* It is the sense of Congress that the National Center for Health Statistics at the Centers for Disease Control and Prevention and the Centers for Medicare & Medicaid Services should consider adding a new Childhood Cancer Code to the International Classification of Diseases (ICD) system for the purpose of facilitating access to existing insurance coverage of childhood cancer patients and survivors, as appropriate.
+    - **(A)** in the subsection heading, by striking “Pilot programs to explore” and inserting “Research to evaluate”
+    - **(B)** in paragraph (1)—
+      - **(i)** by striking “may make awards to eligible entities to establish pilot programs” and inserting “shall, as appropriate, make awards to eligible entities to conduct or support research”;
+      - **(ii)** by striking “model systems” and inserting “approaches”;
+      - **(iii)** by inserting “and adolescent” after “childhood”; and
+      - **(iv)** by striking “evaluation of models for”;
+    - **(C)** in paragraph (2)—
+      - **(i)** in subparagraph (A), in the matter preceding clause (i), by inserting “within the existing peer review process,” after “practicable,”; and
+      - **(ii)** in subparagraph (B)(v), by striking “in treating survivors of childhood cancers” and inserting “in carrying out the activities described in paragraph (1)”; and
+    - **(D)** in paragraph (3)(B)(v), by striking “design of systems for the effective transfer of treatment information and care summaries from cancer care providers to other health care providers” and inserting “design tools to support the secure electronic transfer of treatment information and care summaries between health care providers or, as applicable and appropriate, longitudinal childhood cancer survivorship cohorts”; and
+  - **(2)** in subsection (b)—
+    - **(A)** in each of paragraphs (1) and (2), by striking “date of enactment of this Act” and inserting “date of enactment of the Childhood Cancer Survivorship, Treatment, Access, and Research Reauthorization Act of 2022”; and
+    - **(B)** in paragraph (1)—
+      - **(i)** by striking subparagraphs (A) and (C);
+      - **(ii)** by redesignating subparagraph (B) as subparagraph (A); and
+      - **(iii)** by adding at the end the following:
+        > - **(B)** recommendations for enhancing or promoting activities of the Department of Health and Human Services related to workforce development for health care providers who provide psychosocial care to pediatric cancer patients and survivors.
