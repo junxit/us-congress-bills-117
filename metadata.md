@@ -1,7 +1,7 @@
 ---
 measure: S. 1942
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1942
@@ -16,7 +16,7 @@ National Heritage Area Act
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Sen. Blunt, Roy [R-MO] (B000575)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -33,6 +33,7 @@ National Heritage Area Act
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Portman, Rob [R-OH] (P000449)
 
 ## Committees (1)
 
@@ -47,3 +48,12 @@ National Heritage Area Act
 - 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-156.
 - 2022-09-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-156.
 - 2022-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 499.
+- 2022-12-20 — Amendment SA 6587 agreed to in Senate by Unanimous Consent.
+- 2022-12-20 — Amendment SA 6587 proposed by Senator Heinrich for Senator Manchin. (consideration: CR S9618; text: CR S9677-9681) In the nature of a substitute.
+- 2022-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S9614-9618)
+- 2022-12-20 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S9677-9681)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-12-20 — Senate amendment agreed to: Amendment SA 6587 agreed to in Senate by Unanimous Consent.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6587 proposed by Senator Heinrich for Senator Manchin.
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — The committee substitute withdrawn by Unanimous Consent. (CR S9618)
