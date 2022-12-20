@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1294
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,16 +11,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting American Intellectual Property Act of 2021”.
+This Act may be cited as the “Protecting American Intellectual Property Act of 2022”.
 
 ## § 2. Imposition of sanctions with respect to theft of trade secrets of United States persons
 
 - **(a)** *Report required*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, and not less frequently than annually thereafter, the President shall submit to the appropriate congressional committees a report—
     - **(A)** identifying any foreign person the President determines, during the period specified in paragraph (2)—
-      - **(i)** has knowingly engaged in, or benefitted from, significant theft of trade secrets of United States persons, if the theft of such trade secrets—
-        - **(I)** occurred on or after such date of enactment; and
-        - **(II)** is reasonably likely to result in, or has materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States;
+      - **(i)** has knowingly engaged in, or benefitted from, significant theft of trade secrets of United States persons, if the theft of such trade secrets occurred on or after such date of enactment and is reasonably likely to result in, or has materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States;
       - **(ii)** has provided significant financial, material, or technological support for, or goods or services in support of or to benefit significantly from, such theft;
       - **(iii)** is an entity that is owned or controlled by, or that has acted or purported to act for or on behalf of, directly or indirectly, any foreign person identified under clause (i) or (ii); or
       - **(iv)** is a chief executive officer or member of the board of directors of any foreign entity identified under clause (i) or (ii);
@@ -30,8 +28,8 @@ This Act may be cited as the “Protecting American Intellectual Property Act of
     - **(A)** in the case of the first report required by paragraph (1), the period beginning on the date of the enactment of this Act and ending on the date on which the report is required to be submitted; and
     - **(B)** in the case of each subsequent report required by paragraph (1), the one-year period preceding the date on which the report is required to be submitted.
   - **(3)** *Form of report* Each report required by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
-- **(b)** *Authority To impose sanctions*
-  - **(1)** *Sanctions applicable to entities* In the case of a foreign entity identified under subparagraph (A) of subsection (a)(1) in the most recent report submitted under that subsection, the President shall impose not less than 5 of the following:
+- **(b)** *Authority to impose sanctions*
+  - **(1)** *Sanctions applicable to entities* In the case of a foreign entity identified under subparagraph (A) of subsection (a)(1) in the most recent report submitted under that subsection, the President shall impose 5 or more of the following:
     - **(A)** *Blocking of property* The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests in property of the entity if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
     - **(B)** *Inclusion on entity list* The President may include the entity on the entity list maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations, for activities contrary to the national security or foreign policy interests of the United States.
     - **(C)** *Export-import bank assistance for exports to sanctioned persons* The President may direct the Export-Import Bank of the United States not to give approval to the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the entity.
@@ -61,29 +59,30 @@ This Act may be cited as the “Protecting American Intellectual Property Act of
 - **(c)** *National interest waiver* The President may waive the imposition of sanctions under subsection (b) with respect to a person if the President—
   - **(1)** determines that such a waiver is in the national interests of the United States; and
   - **(2)** not more than 15 days after issuing the waiver, submits to the appropriate congressional committees a notification of the waiver and the reasons for the waiver.
-- **(d)** *Termination of sanctions* Sanctions imposed under subsection (b) with respect to a foreign person identified in a report submitted under subsection (a) shall terminate if the President certifies to the appropriate congressional committees, before the termination takes effect, that the person is no longer engaged in the activity identified in the report.
-- **(e)** *Implementation; penalties*
+- **(d)** *Implementation; penalties*
   - **(1)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
-  - **(2)** *Penalties* A person that violates, attempts to violate, conspires to violate, or causes a violation of this part or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
-- **(f)** *Exceptions*
+  - **(2)** *Penalties* A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+- **(e)** *Exceptions*
   - **(1)** *Intelligence activities* This section shall not apply with respect to activities subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
   - **(2)** *Law enforcement activities* Sanctions under this section shall not apply with respect to any authorized law enforcement activities of the United States.
   - **(3)** *Exception to comply with international agreements* Sanctions under this section shall not apply with respect to the admission of an alien to the United States if such admission is necessary to comply with the obligations of the United States under the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other international obligations.
   - **(4)** *Exception relating to importation of goods*
     - **(A)** *In general* The authority or a requirement to impose sanctions under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
     - **(B)** *Good defined* In this paragraph, the term good means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(f)** *Sunset* This section shall terminate on the date that is 7 years after the date of the enactment of this Act.
 - **(g)** *Definitions* In this section:
   - **(1)** *Admission; admitted; alien; lawfully admitted for permanent residence* The terms admission, admitted, alien, and lawfully admitted for permanent residence have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
   - **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
     - **(A)** the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate; and
     - **(B)** the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives.
-  - **(3)** *Export administration regulations* The term Export Administration Regulations means subchapter C of chapter VII of title 15, Code of Federal Regulations.
-  - **(4)** *Foreign entity* The term foreign entity means an entity that is not a United States person.
-  - **(5)** *Foreign person* The term foreign person means any person that is not a United States person.
-  - **(6)** *Knowingly* The term knowingly, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
-  - **(7)** *Person* The term person means an individual or entity.
-  - **(8)** *Trade secret* The term trade secret has the meaning given that term in section 1839 of title 18, United States Code.
-  - **(9)** *United states person* The term United States person means—
+  - **(3)** *Entity* The term entity means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+  - **(4)** *Export administration regulations* The term Export Administration Regulations has the meaning given that term in section 1742 of the Export Control Reform Act of 2018 (50 U.S.C. 4801).
+  - **(5)** *Foreign entity* The term foreign entity means an entity that is not a United States person.
+  - **(6)** *Foreign person* The term foreign person means any person that is not a United States person.
+  - **(7)** *Knowingly* The term knowingly, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+  - **(8)** *Person* The term person means an individual or entity.
+  - **(9)** *Trade secret* The term trade secret has the meaning given that term in section 1839 of title 18, United States Code.
+  - **(10)** *United states person* The term United States person means—
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States;
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person in the United States.

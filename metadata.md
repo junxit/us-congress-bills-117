@@ -1,7 +1,7 @@
 ---
 measure: S. 1294
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1294
@@ -28,3 +28,13 @@ Protecting American Intellectual Property Act of 2022
 
 - 2021-04-21 — Introduced in Senate
 - 2021-04-21 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2022-12-20 — Amendment SA 6580 agreed to in Senate by Unanimous Consent.
+- 2022-12-20 — Amendment SA 6580 proposed by Senator Heinrich for Senator Van Hollen. (consideration: CR S9610; text: CR S9657-9658) In the nature of a substitute.
+- 2022-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S9610)
+- 2022-12-20 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S9657-9658)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S9657-9658)
+- 2022-12-20 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2022-12-20 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2022-12-20 — Senate amendment agreed to: Amendment SA 6580 agreed to in Senate by Unanimous Consent.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6580 proposed by Senator Heinrich for Senator Van Hollen.
+- 2022-12-20 — Senate amendment submitted
