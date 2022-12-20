@@ -17,5 +17,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(b)** *Additional support for activities of Commission* Section 4(b) of the Not Invisible Act of 2019 (Public Law 116–166; 134 Stat. 767) is amended—
   - **(1)** in the subsection heading, by inserting “; Operation” after “Membership”; and
   - **(2)** by adding at the end the following:
-    > - **(7)** *Funding* The Secretary of the Interior and the Attorney General shall contribute the funds necessary for the operation of the Commission.
-    > - **(8)** *Gifts* The Commission may accept and use gifts or donations of services or property from Indian tribes or Tribal entities, academic institutions, or other not-for-profit organizations as it considers necessary to carry out the duties of the Commission described in subsection (c).
+    > - **(7)** *Gifts* The Commission may accept and use gifts or donations of services or property from Indian tribes or Tribal entities, academic institutions, or other not-for-profit organizations as it considers necessary to carry out the duties of the Commission described in subsection (c).
