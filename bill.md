@@ -1,0 +1,14 @@
+---
+legis-num: S. 5328
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5328
+
+> To amend the Farm Security and Rural Investment Act of 2002 to extend terminal lakes assistance.
+
+## § 1. Terminal lakes assistance
+
+Section 2507(f) of the Farm Security and Rural Investment Act of 2002 (16 U.S.C. 3839bb–6(f)) is amended by striking “2023” and inserting “2025”.
