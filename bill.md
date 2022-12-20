@@ -32,7 +32,7 @@ Congress finds the following:
   - **(3)** by inserting after paragraph (2), as so redesignated, the following:
     > - **(3)** the term law enforcement assistant means an individual employed by a law enforcement agency or a prosecuting agency for the purpose of aiding law enforcement officers in investigative or administrative duties;
 
-- **(b)** *Use of funds* Section 4(b) of the Project Safe Neighborhoods Grant Program Authorization Act of 2018 (34 U.S.C. 60703) is amended—
+- **(b)** *Use of funds* Section 4(b) of the Project Safe Neighborhoods Grant Program Authorization Act of 2018 (34 U.S.C. 60703(b)) is amended—
   - **(1)** in paragraph (3), by striking “or” at the end;
   - **(2)** in paragraph (4), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following:
@@ -41,3 +41,12 @@ Congress finds the following:
     > - **(7)** purchasing, implementing, and using technology to assist with violent crime reduction efforts.
 
 - **(c)** *Authorization of appropriations* Section 6 of the Project Safe Neighborhoods Grant Program Authorization Act of 2018 (34 U.S.C. 60705) is amended by striking “fiscal years 2019 through 2021” and inserting “fiscal years 2023 through 2026”.
+
+## § 4. Task force support
+
+- **(a)** *Short title* This section may be cited as the “Officer Ella Grace French and Sergeant Jim Smith Task Force Support Act of 2022”.
+- **(b)** *Amendment* Section 4(b) of the Project Safe Neighborhoods Grant Program Authorization Act of 2018 (34 U.S.C. 60703(b)), as amended by section 3(b), is amended—
+  - **(1)** in paragraph (6), by striking “and” at the end;
+  - **(2)** in paragraph (7), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(8)** support for multi-jurisdictional task forces.
