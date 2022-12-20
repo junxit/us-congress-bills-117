@@ -1,7 +1,7 @@
 ---
 measure: S. 3692
 congress: 117
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3692
@@ -30,3 +30,7 @@ NET Act
 
 - 2022-02-17 — Introduced in Senate
 - 2022-02-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2022-05-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2022-12-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2022-12-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2022-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 687.
