@@ -1,7 +1,7 @@
 ---
 measure: S. 1942
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-73 amendatory instructions. 68 executed, 5 stated and not applied.
+76 amendatory instructions. 69 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -395,6 +395,15 @@ to guess them.
 
 ### 54 U.S.C. § 320101
 
+> Section 8005(a)(4) of the Omnibus Public Land Management Act of 2009 (54 U.S.C. 320101 note; Public Law 111–11; 123 Stat. 1247) is amended by striking “entitled” and all that follows through the period at the end and inserting “entitled Baltimore National Heritage Area Proposed Boundary, numbered T10/179,623, and dated February 2022.”.
+
+| | |
+|---|---|
+| Removed | `entitled` |
+| Inserted | `entitled Baltimore National Heritage Area Proposed Boundary, numbered T10/179,623, and dated February 2022.` |
+
+### 54 U.S.C. § 320101
+
 > Section 8006(i) of the Omnibus Public Land Management Act of 2009 (54 U.S.C. 320101 note; Public Law 111–11; 123 Stat. 1260) is amended by striking “the date that is 15 years after the date of enactment of this Act” and inserting “September 30, 2037”.
 
 | | |
@@ -476,7 +485,7 @@ to guess them.
 
 ### 54 U.S.C. § 320101
 
-> Section 812(a) of the Ohio & Erie Canal National Heritage Corridor Act of 1996 (54 U.S.C. 320101 note; Public Law 104–333; 110 Stat. 4275; 133 Stat. 778) is amended by striking “$20,000,000” and inserting “$22,000,000”.
+> Section 810(a) of the Ohio & Erie Canal National Heritage Corridor Act of 1996 (54 U.S.C. 320101 note; Public Law 104–333; 110 Stat. 4275; 122 Stat. 826; 133 Stat. 778) is amended by striking “$20,000,000” and inserting “$22,000,000”.
 
 | | |
 |---|---|
@@ -645,8 +654,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `54 U.S.C. § 320101` | strike | Section 3052(a) of Public Law 113–291 (54 U.S.C. 320101 note) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `54 U.S.C. § 320101` | strike | Section 3052(a) of Public Law 113–291 (54 U.S.C. 320101 note) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `54 U.S.C. § 320101` | add-at-end | Subtitle I of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `54 U.S.C. § 320101` | replace | Section 8004(f) of the Omnibus Public Land Management Act of 2009 (54 U.S.C. 320101 note; Public Law 111–11; 123 Stat. 1245) is amended by striking paragraphs (2) through (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `54 U.S.C. § 320101` | strike | Section 3052(a) of Public Law 113–291 (54 U.S.C. 320101 note) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `54 U.S.C. § 320101` | add-at-end | The analysis for subtitle I of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 6001(a) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (Public Law 116–9; 133 Stat. 768) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `54 U.S.C. § 320101` | replace | Section 8005(b)(2) of the Omnibus Public Land Management Act of 2009 (54 U.S.C. 320101 note; Public Law 111–11; 123 Stat. 1247) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `54 U.S.C. § 320101` | replace | in section 291B, by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
