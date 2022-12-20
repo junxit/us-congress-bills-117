@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7310
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -107,13 +107,13 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 414` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | add-at-end | Section 401(k)(13)(C) of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | insert | in the heading, by inserting “for pre-2025 arrangements” after “required”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 604` | insert | in section 416, by inserting “, and, subject to section 417, $25,000,000 for each of fiscal years 2024, 2025, 2026, 2027, and 2028, to remain available until expended.”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 604` | insert | in section 416, by inserting “, and, subject to section 417, $25,000,000 for each of fiscal years 2024, 2025, 2026, 2027, and 2028, to remain available until expended”at the end before the period; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 604` | add-at-end | by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 604` | add-at-end | The Assets for Independence Act (42 U.S.C. 604 note), as amended by paragraph (1), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 604` | insert | in section 404(2), by inserting “or section 418” before the period; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 604` | insert | in subparagraph (A), by inserting “or, in the case of a participant in a project conducted under section 418, other permitted expenses” after “qualified expenses”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 604` | insert | in subparagraph (B), by inserting “or subsection (f) of section 418” after “section 410”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 604` | insert | in paragraph (3), by inserting “or section 418(d)(1)”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 604` | insert | in paragraph (3), by inserting “or section 418(d)(1)”after “ section 406(b)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 604` | insert | in subsection (d)(2)(A), by inserting “or section 418(d)(1)” after “section 406(b)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 604` | insert | in section 413(a), by inserting “or section 418(c)” after “under section 405”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 604` | insert | in section 415, by inserting “or innovation development account” after “individual development account”. | the bill quotes the text inserted but describes where it goes |
