@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Protecting America’s Retirement Security Act”.
+- **(a)** *Short title* This Act may be cited as the “Protecting America’s Retirement Security Act of 2022”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Defined contribution plan fee disclosure improvements
 
-Not later than 2 years after the date of enactment of this Act, the Secretary of Labor shall review section 2550.404a–5 of title 29, Code of Federal Regulations, and explore how the content and design of the covered disclosures may be improved to enhance participants’ understanding of fees and expenses as well as the cumulative effect of fees and expenses on retirement savings over time. As part of such review, the Secretary shall conduct outreach to stakeholders, including those representing plan sponsors and retirement plan participants.
+Not later than 2 years after the date of enactment of this Act, the Secretary of Labor shall review section 2550.404a-5 of title 29, Code of Federal Regulations, and explore how the content and design of the covered disclosures may be improved to enhance participants’ understanding of fees and expenses as well as the cumulative effect of fees and expenses on retirement savings over time. As part of such review, the Secretary shall conduct outreach to stakeholders, including those representing plan sponsors and retirement plan participants.
 
 ## § 3. Personal finance education portal
 
@@ -259,7 +259,7 @@ Not later than 2 years after the date of enactment of this Act, the Secretary of
     - **(C)** *Federally funded benefits* Any amounts described in paragraph (1) that are distributed to a participating taxpayer, including any interest accrued on such amount, shall be treated in the same manner as any refund made to such taxpayer under section 32 of the Internal Revenue Code of 1986 for purposes of determining the eligibility of such taxpayer for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 - **(b)** *Assets for independence innovation demonstration projects*
   - **(1)** *Reauthorization* The Assets for Independence Act (42 U.S.C. 604 note) is amended—
-    - **(A)** in section 416, by inserting “, and, subject to section 417, $25,000,000 for each of fiscal years 2024, 2025, 2026, 2027, and 2028, to remain available until expended.”; and
+    - **(A)** in section 416, by inserting “, and, subject to section 417, $25,000,000 for each of fiscal years 2024, 2025, 2026, 2027, and 2028, to remain available until expended”at the end before the period; and
     - **(B)** by adding at the end the following new section:
       > ## § 417. Reservation of funds
       >
@@ -288,7 +288,7 @@ Not later than 2 years after the date of enactment of this Act, the Secretary of
     >   - **(2)** *Grant amount* For each project year of an Assets for Independence innovation project approved under this section, the Secretary may make a grant to the qualified entity authorized to conduct the project. In making such a grant, the Secretary shall make the grant on the first day of the project year in an amount not to exceed the lesser of—
     >     - **(A)** the aggregate amount of funds committed as matching contributions from non-Federal public or private sector sources; or
     >     - **(B)** $1,000,000.
-    > - **(e)** *Eligibility and selection of individuals To participate in an Assets for Independence innovation project*
+    > - **(e)** *Eligibility and selection of individuals to participate in an Assets for Independence innovation project*
     >   - **(1)** *Eligibility criteria* Subject to the approval of the Secretary, each qualified entity conducting an Assets for Independence innovation project shall establish eligibility requirements for participants in the project. Such requirements shall—
     >     - **(A)** be more expansive than the requirements established under section 408; and
     >     - **(B)** ensure that eligibility is limited to low-income individuals.
@@ -315,7 +315,7 @@ Not later than 2 years after the date of enactment of this Act, the Secretary of
         - **(I)** in paragraph (1)—
           - **(aa)** in subparagraph (A), by inserting “or, in the case of a participant in a project conducted under section 418, other permitted expenses” after “qualified expenses”; and
           - **(bb)** in subparagraph (B), by inserting “or subsection (f) of section 418” after “section 410”; and
-        - **(II)** in paragraph (3), by inserting “or section 418(d)(1)”; and
+        - **(II)** in paragraph (3), by inserting “or section 418(d)(1)”after “ section 406(b)”; and
       - **(ii)** in subsection (d)(2)(A), by inserting “or section 418(d)(1)” after “section 406(b)”;
     - **(D)** in section 408, by striking “conducted under this title” each place it appears and inserting “approved under section 405”;
     - **(E)** in section 409, by striking “conducted under this title” and inserting “approved under section 405”;
@@ -331,7 +331,7 @@ Not later than 2 years after the date of enactment of this Act, the Secretary of
         - **(I)** *In general* A matched savings program established as part of a pilot project shall match amounts saved by each eligible individual participating in the pilot project—
           - **(aa)** with the amount matched to be equal to or less than the amount of any payment deferred by such individual under the Refund to Rainy Day Savings Program established in subsection (a)(1); and
           - **(bb)** with the rate of matching to be equal for all eligible individuals participating in the program.
-        - **(II)** *Timing* Any amount described in subclause (I) shall not be distributed to an eligible individual until the amounts described in subparagraph (C)(ii) or (E)(ii) of subsection (a)(1) have been distributed to the bank account identified by such individual.
+        - **(II)** *Timing* Any amount described in subclause (I) shall not be distributed to an eligible individual until the amounts described in subparagraphs (C)(ii) or (E)(ii) of subsection (a)(1) have been distributed to the bank account identified by such individual.
       - **(ii)** *Evaluation of program by independent research organization*
         - **(I)** *In general* From amounts made available under section 417(b)(2) of the Assets for Independence Act, as added by subsection (b)(1)(B), the Secretary shall enter into a contract with an independent research organization for purposes of evaluating pilot projects conducted under this section.
         - **(II)** *Coordination* Each qualified entity that establishes a matched savings program as part of a pilot project shall collaborate with the independent research organization described in subclause (I) to evaluate the outcomes and impact of the project.
