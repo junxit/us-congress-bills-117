@@ -1,7 +1,7 @@
 ---
 measure: S. 1324
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1324
@@ -32,3 +32,5 @@ Civilian Cybersecurity Reserve Act
 - 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-97.
 - 2022-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-97.
 - 2022-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 348.
+- 2022-12-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9611-9612; text of amendment in the nature of a substitute: CR S9611-9612)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
