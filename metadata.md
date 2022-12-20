@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7939
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7939
@@ -16,11 +16,12 @@ Veterans Auto and Education Improvement Act of 2022
 
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (3)
 
@@ -47,3 +48,11 @@ Veterans Auto and Education Improvement Act of 2022
 - 2022-09-14 — Pursuant to section 11 of H. Res. 1339, and the motion offered by Mr. Hoyer, the following bills passed under suspension of the rules: H.R. 1468, as amended; H.R. 5865; H.R. 5916, as amended; H.R. 7735, as amended; H.R. 7846; H.R. 7939, as amended; H.R. 8260, as amended; and S. 4205. (consideration: CR H7814-7822; text: CR H7814-7819)
 - 2022-09-14 — Pursuant to the provisions of H. Res. 1339, proceedings on H.R. 7939 are considered vacated.
 - 2022-09-15 — Received in the Senate, read twice.
+- 2022-12-20 — Amendment SA 6578 agreed to in Senate by Unanimous Consent.
+- 2022-12-20 — Amendment SA 6578 proposed by Senator Heinrich for Senator Moran. (consideration: CR S9609-9610; text: CR S9643-9649) In the nature of a substitute.
+- 2022-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S9609-9610)
+- 2022-12-20 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S9643-9649)
+- 2022-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S9643-9649)
+- 2022-12-20 — Senate amendment agreed to: Amendment SA 6578 agreed to in Senate by Unanimous Consent.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6578 proposed by Senator Heinrich for Senator Moran.
+- 2022-12-20 — Senate amendment submitted

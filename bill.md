@@ -2,16 +2,18 @@
 legis-num: H.R. 7939
 congress: 117th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 7939
 
-> To make permanent certain educational assistance benefits under the laws administered by the Secretary of Veterans Affairs in the case of changes to courses of education by reason of emergency situations, and for other purposes.
+That the bill from the House of Representatives (H.R. 7939) entitled “An Act to make permanent certain educational assistance benefits under the laws administered by the Secretary of Veterans Affairs in the case of changes to courses of education by reason of emergency situations, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Student Veteran Emergency Relief Act of 2022”.
+- **(a)** *Short title* This Act may be cited as the “Veterans Auto and Education Improvement Act of 2022”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Educational assistance benefits during emergency situations
@@ -29,19 +31,20 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 3. Extension of time limitations for use of entitlement
 
-- **(a)** *Montgomery gi bill* Section 3031 of title 38, United States Code, is amended by adding at the end the following new subsection:
+- **(a)** *Montgomery BI Bill* Section 3031 of title 38, United States Code, is amended by adding at the end the following new subsection:
   > - **(i)** In the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual’s chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, such 10-year period—
   >   - **(1)** shall not run during the period the individual is so prevented from pursuing such program; and
   >   - **(2)** shall again begin running on the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter.
 
-- **(b)** *Post-9/11 educational assistance*
+- **(b)** *Post-9/11 Educational Assistance*
   - **(1)** *In general* Section 3321(b)(1) of such title is amended—
-    - **(A)** by inserting “(A)” before “Subsections”; and
-    - **(B)** by striking “and (d)” and inserting “(d), and (i)”; and by adding at the end the following new subparagraph:
-      > - **(B)** Subsection (i) of section 3031 shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 with respect to the running of the 10-year period described in section 3031(a).
+    - **(A)** by inserting “(A)” before “Subsections”;
+    - **(B)** in subparagraph (A), as designated by subparagraph (A), by striking “and (d)” and inserting “(d), and (i)”; and
+    - **(C)** by adding at the end the following new subparagraph:
+      > - **(B)** Subsection (i) of section 3031 shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 of this title with respect to the running of the 10-year period described in section 3031(a) of this title.
 
   - **(2)** *Transfer period* Section 3319(h)(5) of such title is amended—
-    - **(A)** in subparagraph (A) by inserting “or (C)” after “subparagraph (B)”; and
+    - **(A)** in subparagraph (A), by inserting “or (C)” after “subparagraph (B)”; and
     - **(B)** by adding at the end the following new subparagraph:
       > - **(C)** *Emergency situations* In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual’s chosen program of education before the individual attains the age of 26 years because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.
 
@@ -49,7 +52,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(1)** *Period for use* Section 3103 of such title is amended—
     - **(A)** in subsection (a), by striking “or (g)” and inserting “(g), or (h)”; and
     - **(B)** by adding at the end the following new subsection:
-      > - **(h)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the twelve-year period of eligibility prescribed in subsection (a) due to an emergency situation, such twelve-year period—
+      > - **(h)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the 12-year period of eligibility prescribed in subsection (a) due to an emergency situation, such 12-year period—
       >   - **(1)** shall not run during the period the individual is so prevented from participating such program; and
       >   - **(2)** shall again begin running on the first day after the individual is able to resume participation in such program.
 
@@ -57,31 +60,39 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(A)** in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
     - **(B)** by adding at the end the following new paragraph:
       > - **(3)**
-      >   - **(A)** In any case in which the Secretary determines that a veteran has been prevented from participating in counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title due to an emergency situation, the Secretary shall extend the period during which the Secretary may provide such counseling and placement and postplacement services for the veteran for a period equal to the number of months that the veteran was so prevented from participating in such counseling and services, as determined by the Secretary.
+      >   - **(A)** In any case in which the Secretary determines that a veteran has been prevented from participating in counseling and placement and postplacement services described in paragraphs (2) and (5) of section 3104(a) of this title due to an emergency situation, the Secretary shall extend the period during which the Secretary may provide such counseling and placement and postplacement services for the veteran for a period equal to the number of months that the veteran was so prevented from participating in such counseling and services, as determined by the Secretary.
       >   - **(B)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter due to an emergency situation, the Secretary shall extend the period of the veteran’s vocational rehabilitation program for a period equal to the number of months that the veteran was so prevented from participating in the vocational rehabilitation program, as determined by the Secretary.
 
 - **(d)** *Educational assistance for members of the selected reserve* Section 16133(b) of title 10, United States Code, is amended by adding at the end the following new paragraph:
   > - **(5)** In any case in which the Secretary concerned determines that a person entitled to educational assistance under this chapter has been prevented from using such person’s entitlement due to an emergency situation, the Secretary concerned shall extend the period of entitlement prescribed in subsection (a) for a period equal to the number of months that the person was so prevented from using such entitlement, as determined by the Secretary.
 
 - **(e)** *Emergency situation defined*
-  - **(1)** *Post-9/11 Educational Assistance Program* Section 3301 of title 38, United States Code, is amended by adding at the end the following new paragraph:
-    > - **(5)** The term emergency situation has the meaning given such term in section 3601 of this title.
+  - **(1)** *Post-9/11 Educational Assistance Program* Section 3301 of title 38, United States Code, is amended—
+    - **(A)** by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and
+    - **(B)** by inserting after paragraph (1) the following new paragraph (2):
+      > - **(2)** The term emergency situation has the meaning given such term in section 3601 of this title.
 
   - **(2)** *MGIB* Section 3002 of such title is amended by adding at the end the following new paragraph:
     > - **(9)** The term emergency situation has the meaning given such term in section 3601 of this title.
 
-  - **(3)** *Vocational rehabilitation and training* Section 3101 of such title is amended by adding at the end the following new paragraph:
-    > - **(10)** The term emergency situation has the meaning given such term in section 3601 of this title.
+  - **(3)** *Vocational rehabilitation and training*
+    - **(A)** *In general* Section 3101 of such title is amended—
+      - **(i)** by redesignating paragraphs (1) through (9) as paragraphs (2) through (10), respectively; and
+      - **(ii)** by inserting before paragraph (2), as redesignated by clause (i), the following new paragraph:
+        > - **(10)** The term emergency situation has the meaning given such term in section 3601 of this title.
 
+    - **(B)** *Conforming amendments* Such title is amended—
+      - **(i)** in section 1728(a)(4)(A), by striking “section 3101(9) of” and inserting “section 3101 of”; and
+      - **(ii)** in section 3695(b), by striking “in section 3101(5)” and inserting “in section 3101”.
   - **(4)** *Educational assistance for members of the selected reserve* Section 16133 of title 10, United States Code, is amended by adding at the end the following new subsection:
-    > - **(c)** The term emergency situation has the meaning given such term in section 3601 of title 38.
+    > - **(c)** In this section, the term emergency situation has the meaning given such term in section 3601 of title 38.
 
 - **(f)** *Conforming repeal* Section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) is repealed.
 
 ## § 4. Extension of payment of vocational rehabilitation subsistence allowances
 
 - **(a)** *In general* Section 3104 of title 38, United States Code, is amended by adding at the end the following new subsection:
-  > - **(e)** In the case of any veteran whom the Secretary of Veterans Affairs determines is satisfactorily following a program of employment services provided under subsection (a)(5) during the period of an emergency situation, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of this title for full-time training for the type of program that the veteran was pursuing, for two additional months, if the Secretary determines that the veteran is negatively affected by the emergency situation.
+  > - **(e)** In the case of any veteran whom the Secretary determines is satisfactorily following a program of employment services provided under subsection (a)(5) during the period of an emergency situation, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of this title for full-time training for the type of program that the veteran was pursuing, for two additional months, if the Secretary determines that the veteran is negatively affected by the emergency situation.
 
 - **(b)** *Conforming repeal* Section 8 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) is repealed.
 
@@ -121,7 +132,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >   - **(D)** Any amount by which the entitlement of an individual is reduced under subparagraph (A) shall not—
   >     - **(i)** be charged against any entitlement to educational assistance of the individual; or
   >     - **(ii)** be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
-  >   - **(E)** In the case of an individual who fails to complete 120 hours of training during a month, but who completed more than 120 hours of training during the preceding month, the individual may apply the number of hours in excess of 120 that the individual completed for that month to the month for which the individual failed to complete 120 hours. If the addition of such excess hours results in a total of 120 hours or more, the individual shall be treated as an individual who has completed 120 hours of training for that month. Any excess hours applied to a different month under this subparagraph may only be applied to one such month.
+  >   - **(E)**
+  >     - **(i)** In the case of an individual who fails to complete 120 hours of training during a month, but who completed more than 120 hours of training during the preceding month, the individual may apply the number of hours in excess of 120 that the individual completed for that month to the month for which the individual failed to complete 120 hours. If the addition of such excess hours results in a total of 120 hours or more, the individual shall be treated as an individual who has completed 120 hours of training for that month. Any excess hours applied to a different month under this subparagraph may only be applied to one such month.
   >   - **(F)** This paragraph applies to amounts described in section 3313(g)(3)(B)(iv) and section 3032(c)(2) of this title and section 16131(d)(2) of title 10.
   >   - **(G)** In this paragraph:
   >     - **(i)** The term unemployed includes being furloughed or being scheduled to work zero hours.
@@ -147,11 +159,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** by adding at the end the following new paragraph:
     > - **(2)**
     >   - **(A)** In the case of a covered study-abroad course, the Secretary may approve the course for a period of not more than five years, if the contract or other written agreement under which the course is offered provides that—
-    >     - **(i)** the educational institution that offers a course that is approved under this chapter agrees to—
-    >       - **(I)** assume responsibility for the quality and content of the covered study-abroad course; and
-    >       - **(II)** serve as the certifying official for the course for purposes of this chapter; and
+    >     - **(i)** the educational institution that offers a course that is approved under this chapter agrees—
+    >       - **(I)** to assume responsibility for the quality and content of the covered study-abroad course; and
+    >       - **(II)** to serve as the certifying official for the course for purposes of this chapter; and
     >     - **(ii)** the educational institution that offers the covered study-abroad course agrees to seek the approval of the course under this chapter by not later than five years after the date of the agreement.
-    >   - **(B)** In this paragraph, the term “covered study-abroad course” means a course that—
+    >   - **(B)** In this paragraph, the term covered study-abroad course means a course that—
     >     - **(i)** is provided as a part of a program of education offered by an educational institution under a contract or other written agreement by another educational institution that offers a course that is approved under this chapter;
     >     - **(ii)** is provided at a location in a foreign country; and
     >     - **(iii)** has not been approved under this chapter.
@@ -163,12 +175,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *Short title* This section may be cited as the “Sgt. Wolf Kyle Weninger Veterans Education Fairness Act of 2022”.
 - **(b)** *Eligibility* Subsection (b)(2) of section 3311 of title 38, United States Code, is amended—
   - **(1)** in the matter preceding subparagraph (A), by striking “who”;
-  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii);
+  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting such clause two ems to the right;
   - **(3)** by inserting before clause (i), as so redesignated, the following new subparagraph (A):
     > - **(A)** who—
 
-  - **(4)** in clause (ii), as so redesignated—
-    - **(A)** by striking “subparagraph (A)” and inserting “clause (i)”; and
+  - **(4)** in subparagraph (A)(ii), as so redesignated—
+    - **(A)** by striking “in subparagraph (A)” and inserting “in clause (i)”; and
     - **(B)** by striking the period and inserting “or by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10); or”; and
   - **(5)** by adding at the end the following new subparagraph (B):
     > - **(B)** who—
@@ -194,21 +206,21 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >         - **(I)** related to the instruction or training, including with respect to the quality of education, provided by the institution or establishment; and
   >         - **(II)** resulted in a fine or penalty in an amount equal to or more than five percent of the amount of funding provided to the institution or establishment under title IV of the Higher Education Act of 1965 for the fiscal year preceding the year in which the application is submitted; or
   >       - **(ii)** has not employed an individual, or been party to a contract with any individual or entity, that has been convicted of a Federal fraud charge related to the instruction or training provided by the institution or establishment.
-  >   - **(2)** In the case of any educational institution or training establishment that is not participating in title IV of the Higher Education Act of 1965, a requirement for the inclusion of—
+  >   - **(2)** In the case of any educational institution or training establishment that is not participating in title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), a requirement for the inclusion of—
   >     - **(A)** a copy of—
   >       - **(i)** the articles of incorporation filed on behalf of the institution or establishment or proof of licensing to operate as an educational institution or training establishment in the State where the institution or establishment is located; and
   >       - **(ii)** the financial position of the institution or establishment, as prepared by an appropriate third-party entity; or
   >     - **(B)** other adequate evidence, as determined by the Secretary, that the institution or establishment is authorized to provide post-secondary education or training in the State where the institution or establishment is located.
   >   - **(3)** In the case of any course of education that is offered by an educational institution or training establishment that has never offered a course of education that was approved under this chapter, a requirement for the inclusion of information about the course of education covered by the application, including—
   >     - **(A)** the number of students who have entered and graduated from the course during the preceding two-year period; and
-  >     - **(B)** if available, the cohort default rate for funds provided to the institution or establishment under title IV of the Higher Education Act of 1965.
+  >     - **(B)** if available, the cohort default rate for funds provided to the institution or establishment under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
   >   - **(4)** In the case of any educational institution or training establishment that is not an institution of higher learning, a requirement for the inclusion of—
   >     - **(A)** a list of individuals who will serve as fully qualified instructors for the course of education, as of the date of the application, and an attestation that such individuals—
   >       - **(i)** have a degree or other training, as appropriate, in the field of the course;
   >       - **(ii)** effectively teach the skills offered under the course; and
   >       - **(iii)** have demonstrated relevant industry experience in the field of the course; and
   >     - **(B)** a list of individuals who will serve as career services employees for students enrolled in the course and an attestation that such individuals are skilled at identifying professions in the relevant industry that are in need of new employees to hire, tailoring the course of education to meet market needs, and identifying the employers likely to hire graduates.
-  > - **(c)** *Requirements for State approving agencies* During the approval process with respect to a uniform application submitted by an educational institution or training establishment, a State approving agency, or the Secretary when acting in the role of a State approving agency, shall contact the Secretary of Education to determine whether the course of education subject to such approval process has withdrawn, or been denied or suspended, from receiving for benefits under title IV of the Higher Education Act of 1965.
+  > - **(c)** *Requirements for State approving agencies* During the approval process with respect to a uniform application submitted by an educational institution or training establishment, a State approving agency, or the Secretary when acting in the role of a State approving agency, shall contact the Secretary of Education to determine whether the course of education subject to such approval process has withdrawn, or been denied or suspended, from receiving for benefits under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
   > - **(d)** *Appropriate executive* In this section, the appropriate executive of an educational institution or training establishment is a senior executive official, senior administrator, owner, or operator designated by the institution or establishment.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 3672 the following new item:
@@ -224,7 +236,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(b)** *Compliance surveys* Section 3693 of title 38, United States Code, is amended—
   - **(1)** by redesignating subsection (c) as subsection (d); and
   - **(2)** by inserting after subsection (b) the following new subsection (c):
-    > - **(c)** To the maximum extent feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than ten business days of notice to an educational institution or training establishment before conducting a compliance survey of the institution or establishment under this section.
+    > - **(c)** To the maximum extent feasible, the Secretary, or a State approving agency, as applicable, shall provide not more than 10 business days of notice to an educational institution or training establishment before conducting a compliance survey of the institution or establishment under this section.
 
 ## § 13. Exception to requirement to submit verification of enrollment of certain individuals
 
@@ -251,15 +263,15 @@ Section 3313(l) of title 38, United States Code, is amended—
 
 ## § 15. Possible definitions of certain terms relating to educational assistance
 
-Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing possible definitions of the Secretary for each of the following terms:
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing possible definitions of the Secretary for each of the following terms:
 
 - **(1)** Student services.
 - **(2)** Marketing.
 - **(3)** Classroom instruction.
 
-## § 16. Department of Veterans Affairs loan fees
+## § 16. Extension of certain limits on payments of pension
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “January 19, 2031”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “October 30, 2028” and inserting “November 30, 2031”.
 
 ## § 17. Termination of certain consumer contracts by servicemembers and dependents who enter into contracts after receiving military orders for permanent change of station but then receive stop movement orders due to an emergency situation
 
@@ -290,7 +302,7 @@ The loan fee table in section 3729(b)(2) of title 38, United States Code, is ame
   - **(4)** in subsection (g)—
     - **(A)** by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and
     - **(B)** by inserting, after paragraph (1), the following new paragraph (2):
-      > - **(2)** The terms “military orders” and “permanent change of station” have the meanings given such terms in section 305.
+      > - **(2)** The terms military orders and permanent change of station have the meanings given such terms in section 305.
 
 - **(b)** *Retroactive application* The amendments made by this section shall apply to stop movement orders issued on or after March 1, 2020.
 
@@ -316,13 +328,36 @@ Section 511(a) of the Servicemembers Civil Relief Act (50 U.S.C. 4001(a)) is ame
   >     - **(B)** every other licensing authority that has issued to the servicemember or the spouse of a servicemember a license valid at a similar scope of practice and in the discipline applied in the jurisdiction of such licensing authority;
   >   - **(3)** submits to the authority of the licensing authority in the new jurisdiction for the purposes of standards of practice, discipline, and fulfillment of any continuing education requirements.
   > - **(b)** *Interstate licensure compacts* If a servicemember or spouse of a servicemember is licensed and able to operate in multiple jurisdictions through an interstate licensure compact, with respect to services provided in the jurisdiction of the interstate licensure compact by a licensee covered by such compact, the servicemember or spouse of a servicemember shall be subject to the requirements of the compact or the applicable provisions of law of the applicable State and not this section.
-  > - **(c)** *Covered license defined* In this section, the term “covered license” means a professional license or certificate—
+  > - **(c)** *Covered license defined* In this section, the term covered license means a professional license or certificate—
   >   - **(1)** that is in good standing with the licensing authority that issued such professional license or certificate;
   >   - **(2)** that the servicemember or spouse of a servicemember has actively used during the two years immediately preceding the relocation described in subsection (a); and
   >   - **(3)** that is not a license to practice law.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 705 the following new item:
 
-## § 20. Determination of budgetary effects
+## § 20. Provision of nonarticulating trailers as adaptive equipment
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, pro-vided that such statement has been submitted prior to the vote on passage.
+Section 3901(2) of title 38, United States Code, is amended—
+
+- **(1)** by striking “and special” and inserting “special”; and
+- **(2)** by striking “conveyance.” and inserting “conveyance, and nonarticulating trailers solely designed to transport powered wheelchairs, powered scooters, or other similar mobility devices.”.
+
+## § 21. Eligibility for Department of Veterans Affairs provision of additional automobile or other conveyance
+
+Section 3903(a) of title 38, United States Code, is amended—
+
+- **(1)** in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
+- **(2)** by adding at the end the following new paragraph:
+  > - **(3)** The Secretary may provide or assist in providing an eligible person with an additional automobile or other conveyance under this chapter—
+  >   - **(A)** if more than 30 years have elapsed since the eligible person most recently received an automobile or other conveyance under this chapter; or
+  >   - **(B)** beginning on the day that is 10 years after date of the enactment of the Veterans Auto and Education Improvement Act of 2022, if more than 10 years have elapsed since the eligible person most recently received an automobile or other conveyance under this chapter.
+
+## § 22. Department of Veterans Affairs treatment of certain vehicle modifications as medical services
+
+Section 1701(6) of title 38, United States Code, is amended by adding at the end the following new subparagraph:
+
+> - **(I)** The provision of medically necessary van lifts, raised doors, raised roofs, air conditioning, and wheelchair tiedowns for passenger use.
+
+## § 23. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
