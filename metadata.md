@@ -1,7 +1,7 @@
 ---
 measure: S. 4120
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4120
@@ -75,3 +75,18 @@ Childhood Cancer STAR Reauthorization Act
 - 2022-12-20 — Senate amendment agreed to: Amendment SA 6584 agreed to in Senate by Unanimous Consent.
 - 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6584 proposed by Senator Heinrich for Senator Reed.
 - 2022-12-20 — Senate amendment submitted
+- 2022-12-21 — Held at the desk.
+- 2022-12-21 — Message on Senate action sent to the House.
+- 2022-12-21 — Received in the House.
+- 2022-12-22 — Considered under suspension of the rules. (consideration: CR H10025-10026)
+- 2022-12-22 — DEBATE - The House proceeded with forty minutes of debate on S. 4120.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2022-12-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10025-10026)
+- 2022-12-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10025-10026)
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-350.
+- 2023-01-05 — Became Public Law No: 117-350.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
