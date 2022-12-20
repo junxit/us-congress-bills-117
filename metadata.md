@@ -1,7 +1,7 @@
 ---
 measure: S. 1942
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1942
@@ -57,3 +57,23 @@ National Heritage Area Act
 - 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6587 proposed by Senator Heinrich for Senator Manchin.
 - 2022-12-20 — Senate amendment submitted
 - 2022-12-20 — The committee substitute withdrawn by Unanimous Consent. (CR S9618)
+- 2022-12-21 — Held at the desk.
+- 2022-12-21 — Message on Senate action sent to the House.
+- 2022-12-21 — Received in the House.
+- 2022-12-21 — Rule H. Res. 1529 passed House.
+- 2022-12-21 — Rules Committee Resolution H. Res. 1529 Reported to House. Rule provides for consideration of H.R. 9640 and S. 1942. Measure will be considered read. Bill is closed to amendments. Rule provides for one hour of debate on each measure. Also provides for a motion to recommit H.R. 9640 and a motion to commit S. 1942. H. Res. 693 and H. Res. 1434 are adopted. Provides for the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multile measures.
+- 2022-12-22 — Considered as unfinished business. (consideration: CR H10030-10031)
+- 2022-12-22 — Considered under the provisions of rule H. Res. 1529. (consideration: CR H10002-10009)
+- 2022-12-22 — DEBATE - The House proceeded with one hour of debate on S. 1942.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — On passage Passed by the Yeas and Nays: 326 - 95 (Roll no. 540). (text: CR H10002-10006)
+- 2022-12-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 1942, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Westerman demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2022-12-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 326 - 95 (Roll no. 540).
+- 2022-12-22 — Rule provides for consideration of H.R. 9640 and S. 1942. Measure will be considered read. Bill is closed to amendments. Rule provides for one hour of debate on each measure. Also provides for a motion to recommit H.R. 9640 and a motion to commit S. 1942. H. Res. 693 and H. Res. 1434 are adopted. Provides for the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multile measures.
+- 2022-12-22 — The previous question was ordered pursuant to the rule.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-339.
+- 2023-01-05 — Became Public Law No: 117-339.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
