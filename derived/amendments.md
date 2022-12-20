@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7939
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
