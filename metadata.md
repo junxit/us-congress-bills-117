@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7939
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7939
@@ -56,3 +56,16 @@ Veterans Auto and Education Improvement Act of 2022
 - 2022-12-20 — Senate amendment agreed to: Amendment SA 6578 agreed to in Senate by Unanimous Consent.
 - 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6578 proposed by Senator Heinrich for Senator Moran.
 - 2022-12-20 — Senate amendment submitted
+- 2022-12-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2022-12-21 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 7939.
+- 2022-12-21 — Message on Senate action sent to the House.
+- 2022-12-21 — Mr. Takano moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9961-9968)
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 380 - 35 (Roll no. 546). (consideration: CR  H10037-10038; text: 12/21/2022 CR H9961-9966)
+- 2022-12-22 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 380 - 35 (Roll no. 546).(consideration: CR  H10037-10038; text: 12/21/2022 CR H9961-9966)
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-333.
+- 2023-01-05 — Became Public Law No: 117-333.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
