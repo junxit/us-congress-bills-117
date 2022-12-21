@@ -1,7 +1,7 @@
 ---
 measure: S. 1541
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1541
@@ -46,3 +46,18 @@ Martha Wright-Reed Just and Reasonable Communications Act of 2022
 - 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 657.
 - 2022-12-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9724; text: CR S9724)
 - 2022-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2022-12-22 — Considered under suspension of the rules. (consideration: CR H10026-10028)
+- 2022-12-22 — DEBATE - The House proceeded with forty minutes of debate on S. 1541.
+- 2022-12-22 — Held at the desk.
+- 2022-12-22 — Message on Senate action sent to the House.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2022-12-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10026)
+- 2022-12-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2022-12-22 — Received in the House.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-338.
+- 2023-01-05 — Became Public Law No: 117-338.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
