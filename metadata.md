@@ -1,7 +1,7 @@
 ---
 measure: S. 4240
 congress: 117
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4240
@@ -47,3 +47,15 @@ Justice for Victims of War Crimes Act
 - 2022-12-21 — Senate amendment agreed to: Amendment SA 6590 agreed to in Senate by Unanimous Consent.
 - 2022-12-21 — Senate amendment proposed (on the floor): Amendment SA 6590 proposed by Senator Durbin.
 - 2022-12-21 — Senate amendment submitted
+- 2022-12-22 — Considered under suspension of the rules. (consideration: CR H10012-10013)
+- 2022-12-22 — DEBATE - The House proceeded with forty minutes of debate on S. 4240.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2022-12-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10012)
+- 2022-12-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10012)
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-351.
+- 2023-01-05 — Became Public Law No: 117-351.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
