@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8770
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8770
@@ -16,7 +16,7 @@ Expanding the VOTE Act
 
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Cosponsors (118)
+## Cosponsors (154)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
@@ -136,6 +136,42 @@ Expanding the VOTE Act
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 - Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Jones, Mondaire [D-NY-17] (J000306)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
 
 ## Committees (2)
 
@@ -148,3 +184,10 @@ Expanding the VOTE Act
 - 2022-09-02 — Introduced in House
 - 2022-09-02 — Referred to the Committee on the Judiciary, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-09-02 — Referred to the Committee on the Judiciary, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-09-21 — Committee Consideration and Mark-up Session Held.
+- 2022-09-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 11.
+- 2022-12-21 — Committee on House Administration discharged.
+- 2022-12-21 — Committee on House Administration discharged.
+- 2022-12-21 — Placed on the Union Calendar, Calendar No. 474.
+- 2022-12-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-654, Part I.
+- 2022-12-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 117-654, Part I.
