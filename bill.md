@@ -27,5 +27,14 @@ Section 2441 of title 18, United States Code, is amended—
   >     - **(B)** the offender is present in the United States, regardless of the nationality of the victim or offender.
 
 - **(2)** by adding at the end the following:
-  > - **(e)** *Nonapplicability of certain limitations* In the case of an offense described in subsection (a), an indictment may be found or an information may be instituted at any time without limitation.
-  > - **(f)** *Certification requirement* No prosecution for an offense described in subsection (a) shall be undertaken by the United States except on written certification of the Attorney General or a designee that a prosecution by the United States is in the public interest and necessary to secure substantial justice.
+  > - **(e)** *Nonapplicability of certain limitations* In the case of an offense described in subsection (a) and further described in subsections (c)(1) and (c)(3), an indictment may be found or an information may be instituted at any time without limitation.
+  > - **(f)** *Certification requirement*
+  >   - **(1)** *In general* No prosecution for an offense described in subsection (a) shall be undertaken by the United States except on written certification of the Attorney General, the Deputy Attorney General, or an Assistant Attorney General, which function of approving prosecutions may not be delegated, that a prosecution by the United States is in the public interest and necessary to secure substantial justice.
+  >   - **(2)** *Offender present in United States* For an offense for which jurisdiction exists under subsection (b)(2)(B) (and does not exist under any other provision of subsection (b)), the written certification required under paragraph (1) of this subsection that a prosecution by the United States is in the public interest and necessary to secure substantial justice shall be made by the Attorney General or the Deputy Attorney General, which function may not be delegated. In issuing such certification, the same official shall weigh and consider, among other relevant factors—
+  >     - **(A)** whether the alleged offender can be removed from the United States for purposes of prosecution in another jurisdiction; and
+  >     - **(B)** potential adverse consequences for nationals, servicemembers, or employees of the United States.
+  > - **(g)** *Input from other agency heads* The Secretary of Defense and Secretary of State may submit to the Attorney General for consideration their views generally regarding potential benefits, or potential adverse consequences for nationals, servicemembers, or employees of the United States, of prosecutions of offenses for which jurisdiction exists under subsection (b)(2)(B).
+  > - **(h)** *No judicial review* Certifications under subsection (f) and input from other agency heads under subsection (g) are not subject to judicial review.
+  > - **(i)** *Rules of construction* Nothing in this section shall be construed as—
+  >   - **(1)** support for ratification of or accession to the Rome Statute of the International Criminal Court, which entered into force on July 1, 2002; or
+  >   - **(2)** consent by the United States to any assertion or exercise of jurisdiction by any international, hybrid, or foreign court.
