@@ -1,7 +1,7 @@
 ---
 measure: S. 1541
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1541
@@ -44,3 +44,5 @@ Martha Wright-Reed Just and Reasonable Communications Act of 2022
 - 2022-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2022-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2022-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 657.
+- 2022-12-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9724; text: CR S9724)
+- 2022-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
