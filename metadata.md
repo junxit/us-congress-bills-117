@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 472
 congress: 117
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 472
@@ -35,3 +35,12 @@ A resolution reaffirming the partnership between the United States and the Domin
 - 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2022-12-07 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2022-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 602.
+- 2022-12-21 — Amendment SA 6614 agreed to in Senate by Unanimous Consent.
+- 2022-12-21 — Amendment SA 6614 proposed by Senator Durbin for Senator Menendez. (consideration: CR S9754; text: CR S9754) In the nature of a substitute.
+- 2022-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S9753-9755)
+- 2022-12-21 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(text of amendment in the nature of a substitute: CR S9754)
+- 2022-12-21 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text of amendment in the nature of a substitute: CR S9754)
+- 2022-12-21 — Senate amendment agreed to: Amendment SA 6614 agreed to in Senate by Unanimous Consent.
+- 2022-12-21 — Senate amendment proposed (on the floor): Amendment SA 6614 proposed by Senator Durbin for Senator Menendez.
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — The committee substitute withdrawn by Unanimous Consent.
