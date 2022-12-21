@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 693
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 693
@@ -29,3 +29,6 @@ Recognizing the 25th anniversary of Radio Free Asia and its mission to provide a
 - 2021-09-29 — Introduced in House
 - 2021-09-29 — Introduced in House
 - 2021-09-29 — Referred to the House Committee on Foreign Affairs.
+- 2022-02-22 — Referred to the Subcommittee on Asia, the Pacific, Central Asia and Nonproliferation.
+- 2022-12-21 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1529, H. Res. 693 is considered passed House.
+- 2022-12-21 — Pursuant to the provisions of H. Res. 1529, H. Res. 693 is considered passed House.

@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 693
 congress: 117th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 693
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas, after the 1989 Tiananmen Square Massacre, a bipartisan group of Senators and Members of the House of Representatives, led by then-Senators Joseph R. Biden and Jesse Helms, came together and sponsored legislation to create Radio Free Asia, a news outlet with a congressionally-mandated mission to provide unbiased, independent, and domestic journalism for audiences in the Asian nations of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam, whose people do not fully enjoy freedom of expression;
-- Whereas Radio Free Asia—(1)was established by United States law as part of the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.); (2)was incorporated as a private, nonprofit corporation on March 11, 1996; and (3)made its inaugural broadcast in Mandarin to the Chinese people on September 29, 1996;
+- Whereas Radio Free Asia— (1)was established by United States law as part of the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.); (2)was incorporated as a private, nonprofit corporation on March 11, 1996; and (3)made its inaugural broadcast in Mandarin to the Chinese people on September 29, 1996;
 - Whereas Laos, Vietnam, China, and North Korea rank amongst the worst 9 countries in the world for media freedom in the 2021 World Press Freedom Index, as based on an evaluation of pluralism, independence of the media, quality of legislative framework, and safety of journalists;
 - Whereas Radio Free Asia delivers programming and content using many media platforms, including radio, television, and the internet, in the languages of Mandarin, Korean, Burmese, Tibetan, Uyghur, Khmer (Cambodian), Cantonese, Lao, and Vietnamese, and through English translations and content on the website and social media of Radio Free Asia;
 - Whereas Radio Free Asia launched BenarNews in 2015, an online news affiliate that publishes news and content for audiences in Indonesia, Bangladesh, Malaysia, Thailand, and the Philippines that is focused on the consequences of extremism and contributes to coverage by Radio Free Asia of the influence of the People’s Republic of China in Southeast Asia and the expanded military presence of the People’s Republic of China in the South China Sea;
@@ -32,7 +32,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Radio Free Asia has been unjustly targeted by repressive regimes, with its websites blocked, its radio signals jammed, and its journalists put at risk;
 - Whereas Nguyen Tuong Thuy, Truong Duy Nhat, and Nguyen Van Hoa, contributors to the Vietnamese Service of Radio Free Asia, have been unjustly jailed and detained;
 - Whereas Uon Chhin and Yeang Sothearin, who have both worked as journalists for the Khmer (Cambodian) Service of Radio Free Asia, continue to face unsubstantiated charges; and
-- Whereas Chinese authorities have detained and harassed family members of the Uyghur Service of Radio Free Asia in a campaign of intimidation. Now, therefore, be it
+- Whereas Chinese authorities have detained and harassed family members of the Uyghur Service of Radio Free Asia in a campaign of intimidation: Now, therefore, be it
 
 That the House of Representatives—
 
