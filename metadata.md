@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1434
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1434
@@ -16,7 +16,7 @@ Reaffirming the preemptive authority of the Federal Food, Drug, and Cosmetic Act
 
 - Rep. Jones, Mondaire [D-NY-17] (J000306)
 
-## Cosponsors (29)
+## Cosponsors (38)
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Newman, Marie [D-IL-3] (N000192)
@@ -47,6 +47,15 @@ Reaffirming the preemptive authority of the Federal Food, Drug, and Cosmetic Act
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
 ## Committees (2)
 
@@ -59,3 +68,6 @@ Reaffirming the preemptive authority of the Federal Food, Drug, and Cosmetic Act
 - 2022-10-14 — Introduced in House
 - 2022-10-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2022-10-14 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2022-10-17 — Referred to the Subcommittee on Health.
+- 2022-12-21 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1529, H. Res. 1434 is considered passed House.
+- 2022-12-21 — Pursuant to the provisions of H. Res. 1529, H. Res. 1434 is considered passed House.
