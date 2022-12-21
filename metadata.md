@@ -1,7 +1,7 @@
 ---
 measure: S. 4439
 congress: 117
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4439
@@ -28,3 +28,9 @@ Katimiîn and Ameekyáaraam Sacred Lands Act
 
 - 2022-06-22 — Introduced in Senate
 - 2022-06-22 — Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S3077)
+- 2022-07-20 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 117-530.
+- 2022-12-14 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2022-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9726; text: CR S9726)
+- 2022-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9726; text: CR S9726)
+- 2022-12-21 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2022-12-21 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
