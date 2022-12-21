@@ -1,0 +1,28 @@
+---
+legis-num: S. 5350
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5350
+
+> To enact a transit ban if the order issued under sections 362 and 365 of the Public Health Service Act (42 U.S.C. 265 and 268) is terminated.
+
+## § 1. Short title
+
+This Act may be cited as the “Transit Ban Act of 2022”.
+
+## § 2. Eligibility for asylum
+
+- **(a)** *In general* Notwithstanding sections 208, 235, and 240 of the Immigration and Nationality Act (8 U.S.C. 1158, 1225, and 1229a), any alien who enters, attempts to enter, or arrives in the United States across the southern land border on or after December 21, 2022, after transiting through at least 1 country outside the alien’s country of citizenship, nationality, or last lawful habitual residence en route to the United States, shall be ineligible for asylum unless—
+  - **(1)** the alien demonstrates that he or she—
+    - **(A)** applied for protection from persecution or torture in at least 1 country outside of the alien’s country of citizenship, nationality, or last lawful habitual residence through which the alien transited en route to the United States; and
+    - **(B)** received a final judgment denying the alien protection in such country;
+  - **(2)** the alien demonstrates that he or she is a “victim of a severe form of trafficking in persons” (as defined in section 214.11 of title 8, Code of Federal Regulations); or
+  - **(3)** the only countries through which the alien transited en route to the United States were, at the time of such transit, not parties to—
+    - **(A)** the Convention Relating to the Status of Refugees, done at Geneva July 28, 1951 (as made applicable by the Protocol Relating to the Status of Refugees, done at New York January 31, 1967 (19 UST 6223)); or
+    - **(B)** the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, done at New York December 10, 1984.
+- **(b)** *Non-Refoulement obligations* If an asylum officer determines that an alien has entered, attempted to enter, or arrived in the United States along its southern land border on or after December 21, 2022, and does not meet the conditions set forth in paragraph (1), (2), or (3) of subsection (a), the asylum officer shall—
+  - **(1)** screen the alien to determine whether the alien has a reasonable fear of persecution under the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; and
+  - **(2)** if the asylum officer determines that such alien does not have a reasonable fear of persecution, enter a negative credible fear determination with respect to the alien’s application for asylum.
