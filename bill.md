@@ -11,39 +11,33 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Martha Wright-Reed Just and Reasonable Communications Act of 2021”.
+This Act may be cited as the “Martha Wright-Reed Just and Reasonable Communications Act of 2022”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** Prison, jails, and detention centers in the United States have unique telecommunications needs due to safety and security concerns.
-- **(2)** Unjust and unreasonable charges negatively impact the safety and security of communities in the United States by exacerbating recidivism by damaging relationships between incarcerated people and their support systems.
-- **(3)** It is the policy of the United States to ensure that all people in the United States, including anyone who pays for communications with incarcerated people via telephone and advanced communications, are afforded just and reasonable charges for all communications services.
-- **(4)** The current correctional facilities communications market suffers from market failure. Among other issues, consumers cannot choose among competing providers, which produces locational monopolies and monopoly profits at the expense of rate-payers.
-- **(5)** Charges for communicating with individuals detained in prisons, jails, and detention centers have been shown to be unjust and unreasonable as a result of industry practices and lack of competition.
-- **(6)** Unjust and unreasonable charges extend to telephone and advanced communications services and to both intrastate and interstate communications.
-- **(7)** Mrs. Martha Wright-Reed of Washington, DC, led a campaign for just calling rates for incarcerated people for over a decade. Mrs. Wright-Reed was the lead plaintiff in Wright v. Corrections Corporation of America, CA No. 00–293 (GK) (D.D.C. 2001), which ultimately led to the Wright Petition at the Federal Communications Commission, CC Docket No. 96–128 (Nov. 3, 2003). Mrs. Wright-Reed became involved, when, as a grandmother, she was forced to choose between purchasing medication and communicating with her incarcerated grandson. Mrs. Wright-Reed passed away on January 18, 2015 before fully realizing her dream of just communications rates for all people.
-- **(8)** After the Federal Communications Commission granted the petition Wright Petition described in paragraph (7), the United States Court of Appeals for the District of Columbia Circuit reversed the Federal Communications Commission by interpreting section 276 of the Communications Act of 1934 (47 U.S.C. 276) in the case of Global Tel*Link v. Federal Communications Commission, 866 F.3d 397 (D.C. Cir. 2017), in part by constricting the meaning of the word “fair” and limiting the means by which the Federal Communications Commission can calculate fair, just, and reasonable charges.
-
-## § 3. Technical amendments
+## § 2. Technical amendments
 
 - **(a)** *In general* Section 276 of the Communications Act of 1934 (47 U.S.C. 276) is amended—
   - **(1)** in subsection (b)(1)(A)—
     - **(A)** by striking “per call”;
-    - **(B)** by inserting “, and all charges are just and reasonable,” after “fairly compensated”;
-    - **(C)** by striking “each and every”; and
+    - **(B)** by inserting “, and all rates and charges are just and reasonable,” after “fairly compensated”;
+    - **(C)** by striking “each and every”;
     - **(D)** by striking “call using” and inserting “communications using”; and
-  - **(2)** in subsection (d), by inserting “and advanced communications services” after “inmate telephone service”.
+    - **(E)** by inserting “or other calling device” after “payphone”; and
+  - **(2)** in subsection (d), by inserting “and advanced communications services described in subparagraphs (A), (B), (D), and (E) of section 3(1)” after “inmate telephone service”.
 - **(b)** *Definition of advanced communications services* Section 3(1) of the Communications Act of 1934 (47 U.S.C. 153(1)) is amended—
   - **(1)** in subparagraph (C), by striking “and” at the end;
   - **(2)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(E)** any audio or video communications service provided at a correctional institution, regardless of technology used.
+    > - **(E)** any audio or video communications service used by inmates for the purpose of communicating with individuals outside the correctional institution where the inmate is held, regardless of technology used.
 
 - **(c)** *Application of the Act* Section 2(b) of the Communications Act of 1934 (47 U.S.C. 152(b)) is amended by inserting “section 276,” after “sections 223 through 227, inclusive,”.
 
-## § 4. Implementation
+## § 3. Implementation
 
-- **(a)** *Rulemaking* Not later than 18 months after the date of enactment of this Act, the Federal Communications Commission shall promulgate any regulations necessary to implement this Act and the amendments made by this Act.
-- **(b)** *Use of data* In implementing this Act and the amendments made by this Act, including by promulgating regulations under subsection (a) and determining just and reasonable rates, the Federal Communications Commission may use industry average costs and collect and analyze such data as the Commission determines necessary.
+- **(a)** *Rulemaking* Not earlier than 18 months and not later than 24 months after the date of enactment of this Act, the Federal Communications Commission shall promulgate any regulations necessary to implement this Act and the amendments made by this Act.
+- **(b)** *Use of data* In implementing this Act and the amendments made by this Act, including by promulgating regulations under subsection (a) and determining just and reasonable rates, the Federal Communications Commission—
+  - **(1)** may use industry-wide average costs of telephone service and advanced communications services and the average costs of service of a communications service provider; and
+  - **(2)** shall consider costs associated with any safety and security measures necessary to provide a service described in paragraph (1) and differences in the costs described in paragraph (1) by small, medium, or large facilities or other characteristics.
+
+## § 4. Effect on other laws
+
+Nothing in this Act shall be construed to modify or affect any Federal, State, or local law to require telephone service or advanced communications services at a State or local prison, jail, or detention facility or prohibit the implementation of any safety and security measures related to such services at such facilities.
