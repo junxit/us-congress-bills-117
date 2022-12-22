@@ -1,12 +1,22 @@
 ---
 legis-num: H.R. 4373
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4373
 
-That the bill from the House of Representatives (H.R. 4373) entitled “An Act making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2022, and for other purposes.”, do pass with the following
+> Making further continuing appropriations for the fiscal year ending September 30, 2023, and for other purposes.
 
-*Strike all after the enacting clause and insert the following:*
+## § 1. Short title
+
+This Act may be cited as the “Further Additional Continuing Appropriations and Extensions Act, 2023”.
+
+## § 2. Table of contents
+
+The table of contents of this Act is as follows:
+
+## § 3. References
+
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.

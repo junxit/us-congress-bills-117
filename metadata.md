@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4373
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4373
@@ -94,3 +94,12 @@ Further Additional Continuing Appropriations and Extensions Act, 2023
 - 2022-12-22 — Senate amendment agreed to: Amendment SA 6623 agreed to in Senate by Unanimous Consent.
 - 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6623 proposed by Senator Schumer for Senator Leahy.
 - 2022-12-22 — Senate amendment submitted
+- 2022-12-23 — Became Public Law No: 117-264.
+- 2022-12-23 — Became Public Law No: 117-264.
+- 2022-12-23 — Message on Senate action sent to the House.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Presented to President.
+- 2022-12-23 — Pursuant to the provisions of H. Res. 1531 the House agreed to the Senate amendment.
+- 2022-12-23 — Resolving differences -- House actions: Pursuant to the provisions of H. Res. 1531 the House agreed to the Senate amendment.
+- 2022-12-23 — Signed by President.
+- 2022-12-23 — Signed by President.
