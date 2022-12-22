@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 117
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2617
@@ -16,10 +16,110 @@ Consolidated Appropriations Act, 2023
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Cosponsors (2)
+## Cosponsors (102)
 
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (2)
 
@@ -51,3 +151,175 @@ Consolidated Appropriations Act, 2023
 - 2022-11-16 — Message on Senate action sent to the House.
 - 2022-12-14 — House agreed to Senate amendments numbered 1, 2, 3, and 5, and the House agreed to Senate amendment numbered 4 with an amendment pursuant to H. Res. 1518 (consideration: CR H9745-9752; text: CR H9790-9803)
 - 2022-12-14 — Resolving differences -- House actions: House agreed to Senate amendments numbered 1, 2, 3, and 5, and the House agreed to Senate amendment numbered 4 with an amendment pursuant to H. Res. 1518(consideration: CR H9745-9752; text: CR H9790-9803)
+- 2022-12-15 — Message on House action received in Senate and at desk: House amendment to Senate amendment 4.
+- 2022-12-20 — Amendment SA 6552 proposed by Senator Schumer for Senator Leahy. In the nature of a substitute.
+- 2022-12-20 — Amendment SA 6571 proposed by Senator Schumer to Amendment SA 6552. To add an effective date.
+- 2022-12-20 — Amendment SA 6572 proposed by Senator Schumer. To add an effective date.
+- 2022-12-20 — Amendment SA 6573 proposed by Senator Schumer to Amendment SA 6572 (the instructions of the motion to refer). To modify the effective date.
+- 2022-12-20 — Amendment SA 6574 proposed by Senator Schumer to Amendment SA 6573. To modify the effective date.
+- 2022-12-20 — Measure laid before Senate by motion.
+- 2022-12-20 — Motion by Senator Schumer to concur in the House amendment to Senate amendment SA 4 to H.R. 2617 with an amendment (SA 6552) made in Senate.
+- 2022-12-20 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2617 with instructions to report back forthwith with the following amendment (SA 6572) made in Senate.
+- 2022-12-20 — Motion to proceed to consideration of the House message to accompany H.R. 2617 agreed to in Senate by Yea-Nay Vote. 70 - 25. Record Vote Number: 403.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6552 proposed by Senator Schumer for Senator Leahy.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6571 proposed by Senator Schumer to Amendment SA 6552.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6572 proposed by Senator Schumer.
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6573 proposed by Senator Schumer to Amendment SA 6572 (the instructions of the motion to refer).
+- 2022-12-20 — Senate amendment proposed (on the floor): Amendment SA 6574 proposed by Senator Schumer to Amendment SA 6573.
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-20 — Senate amendment submitted
+- 2022-12-21 — Cloture motion on the motion to concur in the House amendment to Senate amendment SA 4 to H.R. 2617 with an amendment (SA 6552) presented in Senate. (CR S9759)
+- 2022-12-21 — Considered by Senate (Message from the House considered). (consideration: CR S9719)
+- 2022-12-21 — Considered by Senate (Message from the House considered). (consideration: CR S9719)
+- 2022-12-21 — Considered by Senate (Message from the House considered). (consideration: CR S9719)
+- 2022-12-21 — Considered by Senate (Message from the House considered). (consideration: CR S9719)
+- 2022-12-21 — Considered by Senate (Message from the House considered). (consideration: CR S9719)
+- 2022-12-21 — Considered by Senate (Message from the House considered). (consideration: CR S9719, S9735, S9739-9740, S9759)
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-21 — Senate amendment submitted
+- 2022-12-22 — Amendment SA 6552, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 421.
+- 2022-12-22 — Amendment SA 6555 not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 410.
+- 2022-12-22 — Amendment SA 6555 proposed by Senator Schumer for Senator Johnson to Amendment SA 6552. (consideration: CR S10067; text: CR S10062) To eliminate all earmarks in the bill.
+- 2022-12-22 — Amendment SA 6558 proposed by Senator Schumer for Senator Cassidy to Amendment SA 6552. (consideration: CR S10070-10071; text: CR S10063) To eliminate discrimination and promote women's health and economic security by ensuring reasonable workplace accommodations for workers whose ability to perform the functions of a job are limited by pregnancy, childbirth, or a related medical condition.
+- 2022-12-22 — Amendment SA 6558, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 416.
+- 2022-12-22 — Amendment SA 6559 proposed by Senator Schumer for Senator Johnson to Amendment SA 6552. (consideration: CR S10067-10068) To restrict the use of Federal funds appropriated to the Department of Homeland Security for the transportation of illegal aliens within the United States.
+- 2022-12-22 — Amendment SA 6559, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 411.
+- 2022-12-22 — Amendment SA 6561 proposed by Senator Schumer for Senator Paul to Amendment SA 6552. (consideration: CR S10066; text: CR S10062) To increase the voting threshold for budget points of order.
+- 2022-12-22 — Amendment SA 6561, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 409.
+- 2022-12-22 — Amendment SA 6563 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 413.
+- 2022-12-22 — Amendment SA 6563 proposed by Senator Schumer for Senator Lee to Amendment SA 6552. (consideration: CR S10068-10069; text: CR S10063) To prohibit the expenditure of Federal funds to terminate the prohibitions on entry into the United States that are commonly referred to as Title 42.
+- 2022-12-22 — Amendment SA 6569 proposed by Senator Schumer for Senator Braun to Amendment SA 6558. (consideration: CR S10070; text: CR S10062) To eliminate a waiver of State immunity.
+- 2022-12-22 — Amendment SA 6569, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 57. Record Vote Number: 415.
+- 2022-12-22 — Amendment SA 6576 agreed to in Senate by Voice Vote.
+- 2022-12-22 — Amendment SA 6576 proposed by Senator Schumer for Senator Lee to Amendment SA 6552. (consideration: CR S10069; text: CR S10063) To provide for the continuation of pay and benefits for Lieutenant Ridge Alkonis.
+- 2022-12-22 — Amendment SA 6577 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 414.
+- 2022-12-22 — Amendment SA 6577 proposed by Senator Schumer for Senator Lankford to Amendment SA 6558. (consideration: CR S10069-10070; text: CR S10062) To establish a rule of construction relating to religious entities.
+- 2022-12-22 — Amendment SA 6588 agreed to in Senate by Voice Vote.
+- 2022-12-22 — Amendment SA 6588 proposed by Senator Schumer for Senator Padilla to Amendment SA 6552. (consideration: CR S10071; text: CR S10063) To amend title VI of the Social Security Act to allow States and local governments to use coronavirus relief funds provided under the American Rescue Plan Act for infrastructure projects, improve the Local Assistance and Tribal Consistency Fund, provide Tribal governments with more time to Coronavirus Relief Fund payments, and for other purposes.
+- 2022-12-22 — Amendment SA 6595 proposed by Senator Schumer for Senator Merkley to Amendment SA 6552. (consideration: CR S10072-10073; text: CR S10063) To amend the Fair Labor Standards Act of 1938 to expand access to breastfeeding accommodations in the workplace, and for other purposes.
+- 2022-12-22 — Amendment SA 6595, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 5. Record Vote Number: 417.
+- 2022-12-22 — Amendment SA 6596 as modified agreed to in Senate by Voice Vote.
+- 2022-12-22 — Amendment SA 6596 proposed by Senator Schumer for Senator Graham to Amendment SA 6552. (consideration: CR S10063, S10071-10072; text as modified: CR S10072) To authorize the transfer of the proceeds of certain forfeited property to help Ukraine recover from the harms caused by the ongoing Russian aggression.
+- 2022-12-22 — Amendment SA 6597 proposed by Senator Schumer for Senator Klobuchar to Amendment SA 6552. (consideration: CR S10073; text: CR S10093-10094) To improve the bill.
+- 2022-12-22 — Amendment SA 6597, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 418.
+- 2022-12-22 — Amendment SA 6607 as modified, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 419.
+- 2022-12-22 — Amendment SA 6607 proposed by Senator Schumer for Senator Gillibrand to Amendment SA 6552. (consideration: CR S10064-10065, S10071-10074; text as modified: CR S10071-10072) To establish a World Trade Center Health Program Supplemental Fund.
+- 2022-12-22 — Amendment SA 6617 proposed by Senator Schumer for Senator Menendez to Amendment SA 6552. (consideration: CR S10074-10075) To improve the Justice for the United States Victims of State Sponsored Terrorism Act.
+- 2022-12-22 — Amendment SA 6617, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 93 - 4. Record Vote Number: 420.
+- 2022-12-22 — Amendment SA 6621 proposed by Senator Schumer for Senator Sinema to Amendment SA 6552. (consideration: CR S10068; text: CR S10062-10063) To appropriate amounts for the Executive Office for Immigration Review, U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, the Federal Emergency Management Agency, U.S. Citizenship and Immigration Services, refugee and entrant assistance, and other Federal agencies.
+- 2022-12-22 — Amendment SA 6621, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 10 - 87. Record Vote Number: 412.
+- 2022-12-22 — Considered by Senate (Message from the House considered). (consideration: CR S10062)
+- 2022-12-22 — Considered by Senate (Message from the House considered). (consideration: CR S10062)
+- 2022-12-22 — Considered by Senate (Message from the House considered). (consideration: CR S10062)
+- 2022-12-22 — Considered by Senate (Message from the House considered). (consideration: CR S10062)
+- 2022-12-22 — Considered by Senate (Message from the House considered). (consideration: CR S10062-10077)
+- 2022-12-22 — Considered by Senate (Message from the House considered). (consideration: CR S10075-10077)
+- 2022-12-22 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2617 with instructions to report back forthwith with the following amendment (SA 6572) withdrawn in Senate by Unanimous Consent. (CR S10075)
+- 2022-12-22 — Motion to waive all applicable budgetary disciple with respect to the motion to concur in the House amendment to amendment SA 4 with an amendment (SA 6552) agreed to in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 408.
+- 2022-12-22 — Point of order that the motion to concur in the House amendment to amendment SA 4 with an amendment (SA 6552) violates section 306 of the CBA raised in Senate with respect to amendment SA 6552.
+- 2022-12-22 — Proposed amendment SA 6571 withdrawn in Senate.
+- 2022-12-22 — Proposed amendment SA 6572 withdrawn in Senate.
+- 2022-12-22 — Resolving differences -- Senate actions: Senate concurred in the House amendment to Senate amendment SA 4 to H.R. 2617 with an amendment (SA 6552), under the order of 12/22/22, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 68 - 29. Record Vote Number: 421.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6552, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 421.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6555 not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 410.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6558, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 416.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6559, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 411.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6561, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 409.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6563 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 413.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6569, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 57. Record Vote Number: 415.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6577 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 414.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6595, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 5. Record Vote Number: 417.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6597, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 418.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6607 as modified, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 419.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6617, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 93 - 4. Record Vote Number: 420.
+- 2022-12-22 — Roll call votes on amendments in Senate: Amendment SA 6621, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 10 - 87. Record Vote Number: 412.
+- 2022-12-22 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary disciple with respect to the motion to concur in the House amendment to amendment SA 4 with an amendment (SA 6552) agreed to in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 408.
+- 2022-12-22 — SA 6573 fell when SA 6572 was withdrawn.
+- 2022-12-22 — SA 6574 fell when SA 6573 fell.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6552, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 421.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6558, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 416.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6576 agreed to in Senate by Voice Vote.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6588 agreed to in Senate by Voice Vote.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6595, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 5. Record Vote Number: 417.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6596 as modified agreed to in Senate by Voice Vote.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6597, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 418.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6607 as modified, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 419.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6617, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 93 - 4. Record Vote Number: 420.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6555 not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 410.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6559, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 411.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6561, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 409.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6563 not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 413.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6569, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 57. Record Vote Number: 415.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6577 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 414.
+- 2022-12-22 — Senate amendment not agreed to: Amendment SA 6621, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 10 - 87. Record Vote Number: 412.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6555 proposed by Senator Schumer for Senator Johnson to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6558 proposed by Senator Schumer for Senator Cassidy to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6559 proposed by Senator Schumer for Senator Johnson to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6561 proposed by Senator Schumer for Senator Paul to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6563 proposed by Senator Schumer for Senator Lee to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6569 proposed by Senator Schumer for Senator Braun to Amendment SA 6558.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6576 proposed by Senator Schumer for Senator Lee to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6577 proposed by Senator Schumer for Senator Lankford to Amendment SA 6558.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6588 proposed by Senator Schumer for Senator Padilla to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6595 proposed by Senator Schumer for Senator Merkley to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6596 proposed by Senator Schumer for Senator Graham to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6597 proposed by Senator Schumer for Senator Klobuchar to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6607 proposed by Senator Schumer for Senator Gillibrand to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6617 proposed by Senator Schumer for Senator Menendez to Amendment SA 6552.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6621 proposed by Senator Schumer for Senator Sinema to Amendment SA 6552.
+- 2022-12-22 — Senate amendment submitted
+- 2022-12-22 — Senate amendment submitted
+- 2022-12-22 — Senate concurred in the House amendment to Senate amendment SA 4 to H.R. 2617 with an amendment (SA 6552), under the order of 12/22/22, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 68 - 29. Record Vote Number: 421.
