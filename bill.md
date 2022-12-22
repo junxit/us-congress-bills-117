@@ -44,7 +44,7 @@ This Act may be cited as the “Presidential Tax Filings and Audit Transparency 
   >     - **(A)** the Secretary shall conduct the examination described in subsection (a) with respect to the taxable year covered by the return to which such failure relates,
   >     - **(B)** reports made pursuant to this paragraph shall include a statement that such report is with respect to a return which the taxpayer failed to file, and
   >     - **(C)** this section and section 6103(q) shall otherwise apply to such failure in the same manner as if a return were filed at the close of such period.
-  >   - **(6)** *Public availability* For purposes of this subsection, a document shall not be treated as having been made publicly available unless made available on the internet.
+  >   - **(6)** *Public availability* For purposes of this subsection, a document shall not be treated as having been made publicly available unless made available on the Internet.
   > - **(c)** *Presidential income tax return* For purposes of this section—
   >   - **(1)** *In general* The term “Presidential income tax return” means any relevant income tax return of—
   >     - **(A)** a President,

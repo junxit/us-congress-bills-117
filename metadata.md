@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9640
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9640
@@ -53,3 +53,14 @@ Presidential Tax Filings and Audit Transparency Act of 2022
 - 2022-12-21 — Introduced in House
 - 2022-12-21 — Referred to the House Committee on Ways and Means.
 - 2022-12-21 — Rules Committee Resolution H. Res. 1529 Reported to House. Rule provides for consideration of H.R. 9640 and S. 1942. Measure will be considered read. Bill is closed to amendments. Rule provides for one hour of debate on each measure. Also provides for a motion to recommit H.R. 9640 and a motion to commit S. 1942. H. Res. 693 and H. Res. 1434 are adopted. Provides for the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multile measures.
+- 2022-12-22 — Considered as unfinished business. (consideration: CR H10029-10030)
+- 2022-12-22 — Considered under the provisions of rule H. Res. 1529. (consideration: CR H9990-10002)
+- 2022-12-22 — DEBATE - The House continued with debate on H.R. 9640.
+- 2022-12-22 — DEBATE - The House proceeded with one hour of debate on H.R. 9640.
+- 2022-12-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-22 — On passage Passed by the Yeas and Nays: 222 - 201 (Roll no. 539). (text: CR H9990-9992)
+- 2022-12-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 9640, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Brady demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2022-12-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 201 (Roll no. 539).
+- 2022-12-22 — Received in the Senate.
+- 2022-12-22 — Rule provides for consideration of H.R. 9640 and S. 1942. Measure will be considered read. Bill is closed to amendments. Rule provides for one hour of debate on each measure. Also provides for a motion to recommit H.R. 9640 and a motion to commit S. 1942. H. Res. 693 and H. Res. 1434 are adopted. Provides for the Majority Leader or a designee that the House suspend the rules as though under clause 1 of rule XV with respect to multile measures.
+- 2022-12-22 — The previous question was ordered pursuant to the rule.
