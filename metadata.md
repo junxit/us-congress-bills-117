@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1082
 congress: 117
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1082
@@ -53,3 +53,16 @@ Sami's Law
 - 2022-12-14 — Pursuant to the provisions of H. Res. 1518, proceedings on H.R. 1082 are considered vacated.
 - 2022-12-14 — The title of the measure was amended. Agreed to without objection.
 - 2022-12-15 — Received in the Senate, read twice.
+- 2022-12-22 — Amendment SA 6624 agreed to in Senate by Unanimous Consent.
+- 2022-12-22 — Amendment SA 6624 proposed by Senator Schumer for Senator Wicker. (consideration: CR S10100; text: CR S10100) In the nature of a substitute.
+- 2022-12-22 — Amendment SA 6625 agreed to in Senate by Unanimous Consent.
+- 2022-12-22 — Amendment SA 6625 proposed by Senator Schumer for Senator Wicker. (consideration: CR S10100; text: CR S10100) To amend the title.
+- 2022-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S10099)
+- 2022-12-22 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text of amendment in the nature of a substitute: CR S10100)
+- 2022-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text of amendment in the nature of a substitute: CR S10100)
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6624 agreed to in Senate by Unanimous Consent.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6625 agreed to in Senate by Unanimous Consent.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6624 proposed by Senator Schumer for Senator Wicker.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6625 proposed by Senator Schumer for Senator Wicker.
+- 2022-12-22 — Senate amendment submitted
+- 2022-12-22 — Senate amendment submitted
