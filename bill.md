@@ -17,11 +17,17 @@ This Act may be cited as the “Save Our Seas 2.0 Amendments Act”.
 
 - **(a)** *Status of Foundation* Section 111(a) of the Save Our Seas 2.0 Act (33 U.S.C. 4211(a)) is amended, in the second sentence, by striking “organization” and inserting “corporation”.
 - **(b)** *Board of Directors*
-  - **(1)** *Appointments and removal* Section 112(b) of such Act (33 U.S.C. 4212(b)) is amended—
-    - **(A)** in paragraph (1), in the matter preceding subparagraph (A), by inserting “and such other criteria as the Under Secretary may establish” after “subsection (a)”;
-    - **(B)** in paragraph (5), by inserting “the Administrator of the United States Agency for International Development,” after “Service,”;
-    - **(C)** by redesignating subparagraphs (2) through (5) as subparagraphs (3) through (6), respectively; and
-    - **(D)** by inserting after paragraph (1) the following:
+  - **(1)** *Appointment, vacancies, and removal* Section 112(b) of such Act (33 U.S.C. 4212(b)) is amended—
+    - **(A)** in paragraph (1), in the matter preceding subparagraph (A)—
+      - **(i)** by striking “and considering” and inserting “considering”;
+      - **(ii)** by inserting “and with the approval of the Secretary of Commerce,” after “by the Board,”; and
+      - **(iii)** by inserting “and such other criteria as the Under Secretary may establish” after “subsection (a)”;
+    - **(B)** in paragraph (3)(A), by inserting “with the approval of the Secretary of Commerce” after “the Board”;
+    - **(C)** in paragraph (5)—
+      - **(i)** by inserting “the Administrator of the United States Agency for International Development,” after “Service,”; and
+      - **(ii)** by inserting “and with the approval of the Secretary of Commerce” after “EPA Administrator”;
+    - **(D)** by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; and
+    - **(E)** by inserting after paragraph (1) the following:
       > - **(2)** *Recommendations of Board regarding appointments* For appointments made under paragraph (1) other than the initial appointments, the Board shall submit to the Under Secretary recommendations on candidates for appointment.
 
   - **(2)** *General powers* Section 112(g) of such Act (33 U.S.C. 4212(g)) is amended—
@@ -38,7 +44,15 @@ This Act may be cited as the “Save Our Seas 2.0 Amendments Act”.
 - **(d)** *Principal office* Section 113 of such Act (33 U.S.C. 4213) is amended by adding at the end the following:
   > - **(g)** *Principal office* The Board may locate the principal office of the Foundation outside the District of Columbia and is encouraged to locate that office in a coastal State.
 
-- **(e)** *Use of funds* Section 118 of such Act (33 U.S.C. 4218) is amended—
+- **(e)** *Best practices* Section 113 of such Act (33 U.S.C. 4213), as amended by subsection (d), is further amended by adding at the end the following:
+  > - **(h)** *Best practices*
+  >   - **(1)** *Tribal government* In this paragraph, the term Tribal government means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation individually identified (including parenthetically) in the list published most recently as of the date of enactment of the Save Our Seas 2.0 Amendments Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+  >   - **(2)** *Best practices* The Foundation shall develop and implement best practices for conducting outreach to Tribal governments and Indian Tribes.
+  >   - **(3)** *Requirements* The best practices developed under paragraph (2) shall—
+  >     - **(A)** include a process to support technical assistance and capacity building to improve outcomes; and
+  >     - **(B)** promote an awareness of programs and grants available under this Act.
+
+- **(f)** *Use of funds* Section 118 of such Act (33 U.S.C. 4218) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (2), by striking “and State and local government agencies” and inserting “, State and local government agencies, United States and international nongovernmental organizations, regional organizations, and foreign government entities”; and
     - **(B)** in paragraph (3)—
@@ -62,7 +76,7 @@ This Act may be cited as the “Save Our Seas 2.0 Amendments Act”.
     > - **(7)** *In-kind contributions* With respect to any project carried out pursuant to a contract or other agreement entered into under paragraph (1) that is not a cooperative agreement or an agreement to provide financial assistance in the form of a grant, the Administrator may contribute on an in-kind basis the portion of the costs of the project that the Administrator determines represents the amount of benefit the National Oceanic and Atmospheric Administration derives from the project.
 
 - **(b)** *Receipt and expenditure of funds; use of resources* Section 3 of the Marine Debris Act (33 U.S.C. 1952) is amended by adding at the end the following:
-  > - **(e)** *Receipt and expenditure of funds* In order to accomplish the purpose set forth in section 2, the Administrator, acting through the Program, may receive and, only to the extent provided in advance in appropriations Acts, expend funds made available by—
+  > - **(e)** *Receipt and expenditure of funds* In order to accomplish the purpose set forth in section 2, the Administrator, acting through the Program, may, only to the extent provided in advance in appropriations Acts, receive and expend funds made available by—
   >   - **(1)** any department, agency, or instrumentality of the United States;
   >   - **(2)** any State, local, or tribal government (or any political subdivision thereof);
   >   - **(3)** any foreign government or international organization;
@@ -74,14 +88,3 @@ This Act may be cited as the “Save Our Seas 2.0 Amendments Act”.
   >   - **(3)** any foreign government or international organization;
   >   - **(4)** any public or private organization; or
   >   - **(5)** any individual.
-
-## § 4. Best practices
-
-Section 113 of the Save Our Seas 2.0 Act (33 U.S.C. 4213) (as amended by section 2(d)) is amended by adding at the end the following:
-
-> - **(h)** *Best practices*
->   - **(1)** *Tribal government* In this paragraph, the term Tribal government means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation individually identified (including parenthetically) in the list published most recently as of the date of enactment of the Save Our Seas 2.0 Amendments Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
->   - **(2)** *Best practices* The Foundation shall develop and implement best practices for conducting outreach to Tribal governments and Indian Tribes.
->   - **(3)** *Requirements* The best practices developed under paragraph (2) shall—
->     - **(A)** include a process to support technical assistance and capacity building to improve outcomes; and
->     - **(B)** promote an awareness of programs and grants available under this Act.
