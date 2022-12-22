@@ -1,7 +1,7 @@
 ---
 measure: S. 4321
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 10 executed, 13 stated and not applied.
+27 amendatory instructions. 11 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `organization` |
 | Inserted | `corporation` |
+
+### 33 U.S.C. § 4212
+
+> by striking “and considering” and inserting “considering”;
+
+| | |
+|---|---|
+| Removed | `and considering` |
+| Inserted | `considering` |
 
 ### 33 U.S.C. § 4212
 
@@ -123,16 +132,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 4212` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “and such other criteria as the Under Secretary may establish” after “subsection (a)”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 4212` | insert | in paragraph (5), by inserting “the Administrator of the United States Agency for International Development,” after “Service,”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 4212` | redesignate | by redesignating subparagraphs (2) through (5) as subparagraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4212` | insert | by inserting “and with the approval of the Secretary of Commerce,” after “by the Board,”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4212` | insert | by inserting “and such other criteria as the Under Secretary may establish” after “subsection (a)”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4212` | insert | in paragraph (3)(A), by inserting “with the approval of the Secretary of Commerce” after “the Board”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4212` | insert | by inserting “the Administrator of the United States Agency for International Development,” after “Service,”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4212` | insert | by inserting “and with the approval of the Secretary of Commerce” after “EPA Administrator”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4212` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4212` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4212` | add-at-end | Section 112 of such Act (33 U.S.C. 4212) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4213` | insert | by inserting “nonprofit” before “corporation”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 4213` | add-at-end | Section 113 of such Act (33 U.S.C. 4213) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4213` | add-at-end | Section 113 of such Act (33 U.S.C. 4213), as amended by subsection (d), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4218` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1952` | insert | by inserting “or (C)” after “subparagraph (A)”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1952` | insert | in subparagraph (C), in the matter preceding clause (i), by inserting “and except as provided in subparagraph (B)” after “subparagraph (A)”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1952` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1952` | add-at-end | Section 3 of the Marine Debris Act (33 U.S.C. 1952) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4213` | add-at-end | Section 113 of the Save Our Seas 2.0 Act (33 U.S.C. 4213) (as amended by section 2(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
