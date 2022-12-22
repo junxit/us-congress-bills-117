@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 785
 congress: 117
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 785
@@ -38,3 +38,7 @@ A resolution designating October 30, 2022, as a national day of remembrance for 
 
 - 2022-09-20 — Introduced in Senate
 - 2022-09-20 — Referred to the Committee on the Judiciary.
+- 2022-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10099; text: 09/20/2022 CR S4864-4865)
+- 2022-12-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10099; text: 09/20/2022 CR S4864-4865)
+- 2022-12-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2022-12-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
