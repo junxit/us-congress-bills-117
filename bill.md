@@ -1,99 +1,167 @@
 ---
 legis-num: S. 3428
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3428
 
-> To require the Secretary of Energy to establish a program to provide Federal financial assistance to support advanced nuclear reactors and associated supply chain infrastructure, and for other purposes.
+> To require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, and submit a report on a civil nuclear credit program, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Fission for the Future Act of 2021”.
+This Act may be cited as the “Fission for the Future Act”.
 
-## § 2. Advanced Nuclear Technologies Federal Financial Assistance Program
+## § 2. U.S. nuclear fuels security initiative
 
-- **(a)** *Definitions* In this section:
+- **(a)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** the Department should—
+    - **(A)** prioritize activities to increase domestic production of low-enriched uranium; and
+    - **(B)** accelerate efforts to establish a domestic high-assay, low-enriched uranium enrichment capability; and
+  - **(2)** if domestic enrichment of high-assay, low-enriched uranium will not be commercially available at the scale needed in time to meet the needs of the advanced nuclear reactor demonstration projects of the Department, the Secretary shall consider and implement, as necessary—
+    - **(A)** all viable options to make high-assay, low-enriched uranium produced from inventories owned by the Department available in a manner that is sufficient to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers, without impacting existing Department missions, until such time that commercial enrichment and deconversion capability for high-assay, low-enriched uranium exists at a scale sufficient to meet future needs; and
+    - **(B)** all viable options for partnering with countries that are allies or partners of the United States to meet those needs and schedules until that time.
+- **(b)** *Objectives* The objectives of this section are—
+  - **(1)** to expeditiously increase domestic production of low-enriched uranium;
+  - **(2)** to expeditiously increase domestic production of high-assay, low-enriched uranium by an annual quantity, and in such form, determined by the Secretary to be sufficient to meet the needs of—
+    - **(A)** advanced nuclear reactor developers; and
+    - **(B)** the consortium;
+  - **(3)** to ensure the availability of domestically produced, converted, and enriched uranium in a quantity determined by the Secretary, in consultation with U.S. nuclear energy companies, to be sufficient to address a reasonably anticipated supply disruption;
+  - **(4)** to address gaps and deficiencies in the domestic production, conversion, enrichment, deconversion, and reduction of uranium by partnering with countries that are allies or partners of the United States if domestic options are not practicable;
+  - **(5)** to ensure that, in the event of a supply disruption in the nuclear fuel market, a reserve of nuclear fuels is available to serve as a backup supply to support the nuclear nonproliferation and civil nuclear energy objectives of the Department;
+  - **(6)** to support enrichment, deconversion, and reduction technology deployed in the United States; and
+  - **(7)** to ensure that, until such time that domestic enrichment and deconversion of high-assay, low-enriched uranium is commercially available at the scale needed to meet the needs of advanced nuclear reactor developers, the Secretary considers and implements, as necessary—
+    - **(A)** all viable options to make high-assay, low-enriched uranium produced from inventories owned by the Department available in a manner that is sufficient to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers; and
+    - **(B)** all viable options for partnering with countries that are allies or partners of the United States to meet those needs and schedules.
+- **(c)** *Definitions* In this section:
   - **(1)** *Advanced nuclear reactor* The term advanced nuclear reactor has the meaning given the term in section 951(b) of the Energy Policy Act of 2005 (42 U.S.C. 16271(b)).
-  - **(2)** *Electric utility* The term electric utility has the meaning given the term in section 3 of the Federal Power Act (16 U.S.C. 796).
-  - **(3)** *Eligible entity* The term eligible entity means each of—
-    - **(A)** a State;
-    - **(B)** an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304));
-    - **(C)** a Tribal Organization (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304));
-    - **(D)** a unit of local government;
-    - **(E)** an electric utility;
-    - **(F)** a National Laboratory;
-    - **(G)** an institution of higher education; and
-    - **(H)** a private entity specializing in—
-      - **(i)** advanced nuclear technology development;
-      - **(ii)** nuclear supply chains; or
-      - **(iii)** with respect to nuclear technologies and nonelectric applications of nuclear technologies, construction, project financing, contract structuring and risk allocation, or regulatory and licensing processes.
-  - **(4)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
-  - **(5)** *National Laboratory* The term National Laboratory has the meaning given the term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
-  - **(6)** *Program* The term program means the program established under subsection (b)(1).
-  - **(7)** *Secretary* The term Secretary means the Secretary of Energy.
-- **(b)** *Establishment of program*
-  - **(1)** *In general* The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the commercial planning, licensing, development, and construction, and construction planning, of—
-    - **(A)** advanced nuclear reactors for the purpose of enhancing grid resilience, reliability, and security while also seeking to reduce emissions; or
-    - **(B)** supply chain infrastructure associated with advanced nuclear reactors or related technologies.
-  - **(2)** *Competitive procedures* To the maximum extent practicable, the Secretary shall carry out the program using a competitive, merit-based review process that is consistent with section 989 of the Energy Policy Act of 2005 (42 U.S.C. 16353).
-- **(c)** *Applications* An eligible entity desiring Federal financial assistance under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
-- **(d)** *Selection*
-  - **(1)** *In general* In selecting eligible entities to receive Federal financial assistance under the program, the Secretary shall give special consideration to projects—
-    - **(A)** to develop or provide services to support—
-      - **(i)** market analysis;
-      - **(ii)** project structure models;
-      - **(iii)** models for electricity market analysis;
-      - **(iv)** nonelectric applications;
-      - **(v)** financial models;
-      - **(vi)** analysis, planning, and, as appropriate, management of environmental issues at fossil fuel electric generation facilities that are retired or scheduled to retire; and
-      - **(vii)** site planning, review, testing, analysis, and preparation;
-    - **(B)** to support licensing activities, permitting, and environmental impact studies; and
-    - **(C)** for—
-      - **(i)**
-        - **(I)** the construction planning of advanced nuclear reactors; and
-        - **(II)** related—
-          - **(aa)** planning and construction of transmission and distribution systems;
-          - **(bb)** modernization of generation facilities;
-          - **(cc)** development of microgrids; and
-          - **(dd)** supply chain infrastructure;
-      - **(ii)** infrastructure for nonelectric applications; and
-      - **(iii)** acquisition of relevant rights-of-way.
-  - **(2)** *Priority* In selecting eligible entities to receive Federal financial assistance under the program, the Secretary shall give priority to eligible entities that—
-    - **(A)** plan to carry out projects at or near the site of 1 or more fossil fuel electric generation facilities that are retired or scheduled to retire, including multi-unit facilities that are partially shut down—
-      - **(i)** to reduce the cost of—
-        - **(I)** infrastructure requirements;
-        - **(II)** transmission requirements; and
-        - **(III)** licensing and permitting requirements;
-      - **(ii)** to support the productive reuse of fossil fuel electric generation facilities that are retired or scheduled to retire; and
-      - **(iii)** to sustain and revitalize communities impacted by the closure of fossil fuel electric generation facilities;
-    - **(B)** plan to support nonelectric applications, including supplying heat for—
-      - **(i)** energy storage;
-      - **(ii)** hydrogen or other liquid and gaseous fuel or chemical production;
-      - **(iii)** industrial processes;
-      - **(iv)** desalination technologies and processes;
-      - **(v)** isotope production;
-      - **(vi)** district heating; and
-      - **(vii)** other applications, as the Secretary determines to be appropriate;
-    - **(C)** plan to support supply chain infrastructure, including manufacturing, associated with advanced nuclear reactors or related technologies;
-    - **(D)** have implemented or demonstrated the ability to successfully implement workforce training or retraining programs to train workers to perform activities described in this section; and
-    - **(E)** plan to be cost competitive.
-- **(e)** *Cost share* Section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352) shall apply to Federal financial assistance provided under the program.
+  - **(2)** *Associated entity* The term associated entity means an entity that—
+    - **(A)** is owned, controlled, or dominated by—
+      - **(i)** the government of a country that is an ally or partner of the United States; or
+      - **(ii)** an associated individual; or
+    - **(B)** is organized under the laws of, or otherwise subject to the jurisdiction of, a country that is an ally or partner of the United States, including a corporation that is incorporated in such a country.
+  - **(3)** *Associated individual* The term associated individual means an alien who is a national of a country that is an ally or partner of the United States.
+  - **(4)** *Consortium* The term consortium means the consortium established under section 2001(a)(2)(F) of the Energy Act of 2020 (42 U.S.C. 16281(a)(2)(F)).
+  - **(5)** *Department* The term Department means the Department of Energy.
+  - **(6)** *High-assay, low-enriched uranium; HALEU* The term high-assay, low-enriched uranium or HALEU means high-assay low-enriched uranium (as defined in section 2001(d) of the Energy Act of 2020 (42 U.S.C. 16281(d))).
+  - **(7)** *Low-enriched uranium; LEU* The term low-enriched uranium or LEU means each of—
+    - **(A)** low-enriched uranium (as defined in section 3102 of the USEC Privatization Act (42 U.S.C. 2297h)); and
+    - **(B)** low-enriched uranium (as defined in section 3112A(a) of that Act (42 U.S.C. 2297h–10a(a))).
+  - **(8)** *Programs* The term Programs means—
+    - **(A)** the Nuclear Fuel Security Program established under subsection (d)(1);
+    - **(B)** the American Assured Fuel Supply Program of the Department; and
+    - **(C)** the HALEU for Advanced Nuclear Reactor Demonstration Projects Program established under subsection (d)(3).
+  - **(9)** *Secretary* The term Secretary means the Secretary of Energy.
+  - **(10)** *U.S. nuclear energy company* The term U.S. nuclear energy company means a company that—
+    - **(A)** is organized under the laws of, or otherwise subject to the jurisdiction of, the United States; and
+    - **(B)** is involved in the nuclear energy industry.
+- **(d)** *Establishment and expansion of programs* The Secretary, consistent with the objectives described in subsection (b), shall—
+  - **(1)** establish a program, to be known as the “Nuclear Fuel Security Program”, to increase the quantity of LEU and HALEU produced by U.S. nuclear energy companies;
+  - **(2)** expand the American Assured Fuel Supply Program of the Department to ensure the availability of domestically produced, converted, and enriched uranium in the event of a supply disruption; and
+  - **(3)** establish a program, to be known as the “HALEU for Advanced Nuclear Reactor Demonstration Projects Program”—
+    - **(A)** to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers until such time that commercial enrichment and deconversion capability for HALEU exists in the United States at a scale sufficient to meet future needs; and
+    - **(B)** where practicable, to partner with countries that are allies or partners of the United States to meet those needs and schedules until that time.
+- **(e)** *Nuclear Fuel Security Program*
+  - **(1)** *In general* In carrying out the Nuclear Fuel Security Program, the Secretary—
+    - **(A)** shall—
+      - **(i)** not later than 180 days after the date of enactment of this Act, enter into 2 or more contracts to begin acquiring not less than 100 metric tons per year of LEU by December 31, 2026 (or the earliest operationally feasible date thereafter), to ensure diverse domestic uranium mining, conversion, enrichment, and deconversion capacity and technologies, including new capacity, among U.S. nuclear energy companies;
+      - **(ii)** not later than 180 days after the date of enactment of this Act, enter into 2 or more contracts with members of the consortium to begin acquiring not less than 20 metric tons per year of HALEU by December 31, 2027 (or the earliest operationally feasible date thereafter), from U.S. nuclear energy companies;
+      - **(iii)** utilize only uranium produced, converted, enriched, deconverted, and reduced in—
+        - **(I)** the United States; or
+        - **(II)** if domestic options are not practicable, a country that is an ally or partner of the United States; and
+      - **(iv)** to the maximum extent practicable, ensure that the use of domestic uranium utilized as a result of that program does not negatively affect the economic operation of nuclear reactors in the United States; and
+    - **(B)**
+      - **(i)** may not make commitments under this subsection (including cooperative agreements (used in accordance with section 6305 of title 31, United States Code), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HALEU or LEU unless—
+        - **(I)** funds are specifically provided for those purposes in advance in appropriations Acts enacted after the date of enactment of this Act; or
+        - **(II)** the commitment is funded entirely by funds made available to the Secretary from the account described in subsection (i)(2)(B); and
+      - **(ii)** may make a commitment described in clause (i) only—
+        - **(I)** if the full extent of the anticipated costs stemming from the commitment is recorded as an obligation at the time that the commitment is made; and
+        - **(II)** to the extent of that up-front obligation recorded in full at that time.
+  - **(2)** *Considerations* In carrying out paragraph (1)(A)(ii), the Secretary shall consider and, if appropriate, implement—
+    - **(A)** options to ensure the quickest availability of commercially enriched HALEU, including—
+      - **(i)** partnerships between 2 or more commercial enrichers; and
+      - **(ii)** utilization of up to 10-percent enriched uranium as feedstock in demonstration-scale or commercial HALEU enrichment facilities;
+    - **(B)** options to partner with countries that are allies or partners of the United States to provide LEU and HALEU for commercial purposes;
+    - **(C)** options that provide for an array of HALEU—
+      - **(i)** enrichment levels;
+      - **(ii)** output levels to meet demand; and
+      - **(iii)** fuel forms, including uranium metal and oxide; and
+    - **(D)** options—
+      - **(i)** to replenish, as necessary, Department stockpiles of uranium that was intended to be downblended for other purposes, but was instead used in carrying out activities under the HALEU for Advanced Nuclear Reactor Demonstration Projects Program;
+      - **(ii)** to continue supplying HALEU to meet the needs of the recipients of an award made pursuant to the funding opportunity announcement of the Department numbered DE–FOA–0002271 for Pathway 1, Advanced Reactor Demonstrations; and
+      - **(iii)** to make HALEU available to other advanced nuclear reactor developers and other end-users.
+  - **(3)** *Avoidance of market disruptions* In carrying out the Nuclear Fuel Security Program, the Secretary, to the extent practicable and consistent with the purposes of that program, shall not disrupt or replace market mechanisms by competing with U.S. nuclear energy companies.
+- **(f)** *Expansion of the American Assured Fuel Supply Program* The Secretary, in consultation with U.S. nuclear energy companies, shall—
+  - **(1)** expand the American Assured Fuel Supply Program of the Department by merging the operations of the Uranium Reserve Program of the Department with the American Assured Fuel Supply Program; and
+  - **(2)** in carrying out the American Assured Fuel Supply Program of the Department, as expanded under paragraph (1)—
+    - **(A)** maintain, replenish, diversify, or increase the quantity of uranium made available by that program in a manner determined by the Secretary to be consistent with the purposes of that program and the objectives described in subsection (b);
+    - **(B)** utilize only uranium produced, converted, and enriched in—
+      - **(i)** the United States; or
+      - **(ii)** if domestic options are not practicable, a country that is an ally or partner of the United States;
+    - **(C)** make uranium available from the American Assured Fuel Supply, subject to terms and conditions determined by the Secretary to be reasonable and appropriate;
+    - **(D)** refill and expand the supply of uranium in the American Assured Fuel Supply, including by maintaining a limited reserve of uranium to address a potential event in which a domestic or foreign recipient of uranium experiences a supply disruption for which uranium cannot be obtained through normal market mechanisms or under normal market conditions; and
+    - **(E)** take other actions that the Secretary determines to be necessary or appropriate to address the purposes of that program and the objectives described in subsection (b).
+- **(g)** *HALEU for Advanced Nuclear Reactor Demonstration Projects Program*
+  - **(1)** *Activities* On enactment of this Act, the Secretary shall immediately accelerate and, as necessary, initiate activities to make available from inventories or stockpiles owned by the Department and made available to the consortium, HALEU for use in advanced nuclear reactors that cannot operate on uranium with lower enrichment levels or on alternate fuels, with priority given to the awards made pursuant to the funding opportunity announcement of the Department numbered DE–FOA–0002271 for Pathway 1, Advanced Reactor Demonstrations, with additional HALEU to be made available to other advanced nuclear reactor developers, as the Secretary determines to be appropriate.
+  - **(2)** *Quantity* In carrying out activities under this subsection, the Secretary shall consider and implement, as necessary, all viable options to make HALEU available in quantities sufficient to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers, including by seeking to make available—
+    - **(A)** by September 30, 2024, not less than 3 metric tons of HALEU;
+    - **(B)** by December 31, 2025, not less than an additional 8 metric tons of HALEU; and
+    - **(C)** by June 30, 2026, not less than an additional 10 metric tons of HALEU.
+  - **(3)** *Factors for consideration* In carrying out activities under this subsection, the Secretary shall take into consideration—
+    - **(A)** options for providing HALEU from a stockpile of uranium owned by the Department, including—
+      - **(i)** uranium that has been declared excess to national security needs during or prior to fiscal year 2022;
+      - **(ii)** uranium that—
+        - **(I)** directly meets the needs of advanced nuclear reactor developers; but
+        - **(II)** has been previously used or fabricated for another purpose;
+      - **(iii)** uranium that can meet the needs of advanced nuclear reactor developers after removing radioactive or other contaminants that resulted from previous use or fabrication of the fuel for research, development, demonstration, or deployment activities of the Department, including activities that reduce the environmental liability of the Department by accelerating the processing of uranium from stockpiles designated as waste;
+      - **(iv)** uranium from a high-enriched uranium stockpile, which can be blended with lower assay uranium to become HALEU to meet the needs of advanced nuclear reactor developers; and
+      - **(v)** uranium from stockpiles intended for other purposes (excluding stockpiles intended for national security needs), but for which uranium could be swapped or replaced in time in such a manner that would not negatively impact the missions of the Department;
+    - **(B)** options for expanding, or establishing new, capabilities or infrastructure to support the processing of uranium from Department inventories;
+    - **(C)** options for accelerating the availability of HALEU from HALEU enrichment demonstration projects of the Department;
+    - **(D)** options for providing HALEU from domestically enriched HALEU procured by the Department through a competitive process pursuant to the Nuclear Fuel Security Program established under subsection (d)(1);
+    - **(E)** options to replenish, as needed, Department stockpiles of uranium made available pursuant to subparagraph (A) with domestically enriched HALEU procured by the Department through a competitive process pursuant to the Nuclear Fuel Security Program established under subsection (d)(1); and
+    - **(F)** options that combine 1 or more of the approaches described in subparagraphs (A) through (E) to meet the deadlines described in paragraph (2).
+  - **(4)** *Limitations*
+    - **(A)** *Certain services* The Secretary shall not barter or otherwise sell or transfer uranium in any form in exchange for services relating to—
+      - **(i)** the final disposition of radioactive waste from uranium that is the subject of a contract for sale, resale, transfer, or lease under this subsection; or
+      - **(ii)** environmental cleanup activities.
+    - **(B)** *Certain commitments* In carrying out activities under this subsection, the Secretary—
+      - **(i)** may not make commitments under this subsection (including cooperative agreements (used in accordance with section 6305 of title 31, United States Code), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HALEU or LEU unless—
+        - **(I)** funds are specifically provided for those purposes in advance in appropriations Acts enacted after the date of enactment of this Act; or
+        - **(II)** the commitment is funded entirely by funds made available to the Secretary from the account described in subsection (i)(2)(B); and
+      - **(ii)** may make a commitment described in clause (i) only—
+        - **(I)** if the full extent of the anticipated costs stemming from the commitment is recorded as an obligation at the time that the commitment is made; and
+        - **(II)** to the extent of that up-front obligation recorded in full at that time.
+  - **(5)** *Sunset* The authority of the Secretary to carry out activities under this subsection shall terminate on the date on which the Secretary notifies Congress that the HALEU needs of advanced nuclear reactor developers can be fully met by commercial HALEU suppliers in the United States, as determined by the Secretary, in consultation with U.S. nuclear energy companies.
+- **(h)** *Domestic sourcing considerations*
+  - **(1)** *In general* Except as provided in paragraph (2), the Secretary may only carry out an activity in connection with 1 or more of the Programs if—
+    - **(A)** the activity promotes manufacturing in the United States associated with uranium supply chains; or
+    - **(B)** the activity relies on resources, materials, or equipment developed or produced—
+      - **(i)** in the United States; or
+      - **(ii)** in a country that is an ally or partner of the United States by—
+        - **(I)** the government of that country;
+        - **(II)** an associated entity; or
+        - **(III)** a U.S. nuclear energy company.
+  - **(2)** *Waiver* The Secretary may waive the requirements of paragraph (1) with respect to an activity if the Secretary determines a waiver to be necessary to achieve 1 or more of the objectives described in subsection (b).
+- **(i)** *Reasonable compensation*
+  - **(1)** *In general* In carrying out activities under this section, the Secretary shall ensure that any LEU and HALEU made available by the Secretary under 1 or more of the Programs is subject to reasonable compensation, taking into account the fair market value of the LEU or HALEU and the purposes of this section.
+  - **(2)** *Availability of certain funds*
+    - **(A)** *In general* Notwithstanding section 3302(b) of title 31, United States Code, revenues received by the Secretary from the sale or transfer of fuel feed material acquired by the Secretary pursuant to a contract entered into under clause (i) or (ii) of subsection (e)(1)(A) shall—
+      - **(i)** be deposited in the account described in subparagraph (B);
+      - **(ii)** be available to the Secretary for carrying out the purposes of this section, to reduce the need for further appropriations for those purposes; and
+      - **(iii)** remain available until expended.
+    - **(B)** *Revolving fund* There is established in the Treasury an account into which the revenues described in subparagraph (A) shall be—
+      - **(i)** deposited in accordance with clause (i) of that subparagraph; and
+      - **(ii)** made available in accordance with clauses (ii) and (iii) of that subparagraph.
+- **(j)** *Nuclear regulatory commission* The Nuclear Regulatory Commission shall prioritize and expedite consideration of any action related to the Programs to the extent permitted under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) and related statutes.
+- **(k)** *USEC Privatization Act* The requirements of section 3112 of the USEC Privatization Act (42 U.S.C. 2297h–10) shall not apply to activities related to the Programs.
+- **(l)** *National security needs* The Secretary shall only make available to a member of the consortium under this section for commercial use or use in a demonstration project material that the President has determined is not necessary for national security needs, subject to the condition that the material made available shall not include any material that the Secretary determines to be necessary for the National Nuclear Security Administration or any critical mission of the Department.
+- **(m)** *International agreements* This section shall be applied in a manner consistent with the obligations of the United States under international agreements.
 
-## § 3. Workforce capacity building
+## § 3. Report on civil nuclear credit program
 
-Section 954(b) of the Energy Policy Act of 2005 (42 U.S.C. 16274(b)) is amended—
+Not later than 180 days after the date of enactment of this Act, the Secretary of Energy shall submit to the appropriate committees of Congress a report that identifies the anticipated funding requirements for the civil nuclear credit program described in section 40323 of the Infrastructure Investment and Jobs Act (42 U.S.C. 18753), taking into account—
 
-- **(1)** in the subsection heading, by striking “Graduate”;
-- **(2)** by striking “graduate” each place it appears;
-- **(3)** in paragraph (2)(A), by inserting “community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs” after “universities,”;
-- **(4)** in paragraph (3), by striking “2021 through 2025” and inserting “2022 through 2026”;
-- **(5)** by redesignating paragraph (3) as paragraph (4); and
-- **(6)** by inserting after paragraph (2) the following:
-  > - **(3)** *Focus areas* In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
-  >   - **(A)** research and development;
-  >   - **(B)** construction and operation;
-  >   - **(C)** associated supply chains; and
-  >   - **(D)** workforce training and retraining to support transitioning workforces.
+- **(1)** the zero-emission nuclear power production credit authorized by section 45U of the Internal Revenue Code of 1986; and
+- **(2)** any increased fuel costs associated with the use of domestic fuel that may arise from the implementation of that program.
