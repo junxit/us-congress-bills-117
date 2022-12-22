@@ -1,7 +1,7 @@
 ---
 measure: S. 3046
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3046
@@ -33,3 +33,5 @@ Root and Stem Project Authorization Act of 2022
 - 2022-11-15 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-197.
 - 2022-11-15 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 117-197.
 - 2022-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.
+- 2022-12-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S10102-10103; text: CR S10102-10103)
+- 2022-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

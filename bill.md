@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Root and Stem Project Authorization Act of 2021”.
+This Act may be cited as the “Root and Stem Project Authorization Act of 2022”.
 
 ## § 2. Root and Stem projects
 
@@ -21,45 +21,40 @@ This Act may be cited as the “Root and Stem Project Authorization Act of 2021�
     - **(B)**
       - **(i)** is transparent and nonexclusive; or
       - **(ii)** meets the requirements for a resource advisory committee under subsections (c) through (f) of section 205 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125).
-  - **(2)** *Eligible entity* The term eligible entity means a private person or other public or private entity with which the Secretary concerned enters into an agreement or contract under section 604(b) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(b)).
-  - **(3)** *Federal land* The term Federal land means—
+  - **(2)** *Federal land* The term Federal land means—
     - **(A)** land of the National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a))); and
     - **(B)** public lands (as defined in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702)).
-  - **(4)** *Root and Stem project* The term Root and Stem project means a project under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c)—
-    - **(A)** proposed prior to completing the environmental review process under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
-    - **(B)** that satisfies the requirements described in subsections (c) and (d).
-  - **(5)** *Secretary concerned* The term Secretary concerned means, as applicable—
+  - **(3)** *Secretary concerned* The term Secretary concerned means, as applicable—
     - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service; or
     - **(B)** the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
-- **(b)** *Authorization* The Secretary concerned may enter into a contract or agreement with an eligible entity to conduct a Root and Stem project.
-- **(c)** *Requirements*
-  - **(1)** *Period* The period of a contract or agreement entered into under subsection (b) may not exceed 10 years.
-  - **(2)** *Requests for proposals* The Secretary concerned, in coordination with State and local stakeholders, shall—
-    - **(A)** identify areas well-suited to conduct Root and Stem projects; and
-    - **(B)** issue requests for proposals for Root and Stem projects, including, at a minimum—
-      - **(i)** the total acreage and boundaries of the proposed Root and Stem project area;
-      - **(ii)** the land management objectives of the applicable unit of Federal land to be achieved by the Root and Stem project; and
-      - **(iii)** monitoring and performance standards for the Root and Stem project.
-- **(d)** *Environmental analyses and project design*
-  - **(1)** *In general* The environmental analysis and review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) for a Root and Stem project shall be conducted—
-    - **(A)** after the applicable contract or agreement is entered into under subsection (b); and
-    - **(B)** by an independent third party approved by the Secretary concerned in accordance with paragraph (2).
-  - **(2)** *Review and approval of independent third parties* The Secretary concerned shall—
-    - **(A)** review an independent third party selected by an eligible entity carrying out a Root and Stem project, including a review for any conflict of interest between the independent third party and the eligible entity; and
-    - **(B)** approve that independent third party if the Secretary concerned determines that—
-      - **(i)** there is no conflict of interest described in subparagraph (A); and
-      - **(ii)** the approval is otherwise appropriate.
-  - **(3)** *Authority of Secretary concerned* Any decision required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to a Root and Stem project on Federal land shall be made by the Secretary concerned.
-  - **(4)** *Services under stewardship contracts* In determining the cost of services received under a contract or agreement entered into under subsection (b) in accordance with section 604(d)(4)(A) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(d)(4)(A)), the Secretary concerned shall apply the cost to the eligible entity associated with work performed to develop and complete an environmental analysis under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to the applicable Root and Stem project.
-  - **(5)** *Collaborative process* The Secretary concerned shall ensure that a collaborative process is used to design and implement a Root and Stem project.
-  - **(6)** *Oversight* Not later than 60 days after the date of enactment of this Act, the Secretary concerned shall provide a notification and guidance to each local field office of the Forest Service and the Bureau of Land Management establishing a process for—
-    - **(A)** monitoring the integrity and development of the environmental analyses for Root and Stem projects;
-    - **(B)** reviewing and approving an independent third party under paragraph (2);
-    - **(C)** ensuring compliance with paragraph (5); and
-    - **(D)** carrying out corrective actions if an eligible entity carrying out a Root and Stem project does not comply with this section or any other applicable provision of law, including with respect to whether to issue a decision notice and when to require changes or additions to the environmental analysis if appropriate.
-- **(e)** *Judicial review*
-  - **(1)** *In general* Section 106 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6516) shall apply to the judicial review of a Root and Stem project in the same manner as that section applies to the judicial review of an authorized hazardous fuel reduction project (as defined in section 101 of that Act (16 U.S.C. 6511)).
-  - **(2)** *Statute of limitations* No legal action challenging a Root and Stem project or any activity under a Root and Stem project may be brought more than 120 days after the later of—
-    - **(A)** the date on which the Secretary concerned provides public notice of the award of a contract or agreement to carry out the Root and Stem project; and
-    - **(B)** the date on which the Secretary concerned issues a decision approving the Root and Stem project.
-  - **(3)** *Injunctions* A court shall not enjoin a Root and Stem project authorized under this section that is developed and implemented through a collaborative process if the court determines that the plaintiff is unable to demonstrate that the claim of the plaintiff is likely to succeed on the merits.
+- **(b)** *List of contractors* The Secretary concerned shall—
+  - **(1)** maintain a list of non-Federal, third-party contractors that the Secretary concerned can hire in each State to complete the analysis described in subsection (c)(1); and
+  - **(2)** not later than 180 days after the date of enactment of this Act, and every 3 years thereafter, submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a copy of the list described in paragraph (1).
+- **(c)** *Agreements* If a person submits to the Secretary concerned a proposal for a project on Federal land that was developed through a collaborative process and that meets local and rural community needs, the Secretary concerned may enter into an agreement with the person, under which—
+  - **(1)** the person initially provides to the Secretary concerned all, or a portion of, the funding necessary to complete any analysis that the Secretary concerned determines to be necessary under Federal law, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), for the consideration of the proposed project;
+  - **(2)** the Secretary concerned uses the funding provided under paragraph (1) to pay a contractor included on the list maintained under subsection (b)(1) to conduct the analysis described in paragraph (1);
+  - **(3)** on completion of the analysis described in paragraph (1), if the Secretary concerned makes a decision to proceed with the project, the Secretary concerned—
+    - **(A)** solicits bids to carry out the project; and
+    - **(B)** enters into a contract or agreement under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c) to carry out the project; and
+  - **(4)** using any receipts described in subsection (d)(1), the Secretary concerned, to the maximum extent practicable, repays to the person the funding initially provided under paragraph (1).
+- **(d)** *Additional related authorities*
+  - **(1)** *Use of receipts* Any receipts that are generated by a project described in subsection (c) that are normally deposited in the General Fund of the Treasury shall be available for expenditure by the Secretary concerned, without further appropriation or fiscal year limitation, for the use described in subsection (c)(4).
+  - **(2)** *Contractors* The Secretary concerned may noncompetitively hire a contractor included on the list maintained under subsection (b)(1) to conduct the analysis described in subsection (c)(1).
+- **(e)** *Savings clauses*
+  - **(1)** *Authority of the Secretary concerned* The Secretary concerned shall—
+    - **(A)** determine the sufficiency of any documents prepared by a contractor under subsection (c)(2); and
+    - **(B)** retain responsibility for any authorizing decision relating to a proposed project described in subsection (c).
+  - **(2)** *Review and approval of independent third parties* The Secretary concerned shall verify that there is no conflict of interest between—
+    - **(A)** a person that submits a proposal under subsection (c); and
+    - **(B)** a contractor that the Secretary concerned hires under paragraph (2) of that subsection to carry out an analysis with respect to that proposal.
+  - **(3)** *Administrative costs* The Secretary concerned—
+    - **(A)** shall only use the funding provided to the Secretary concerned under subsection (c)(1) to pay a contractor pursuant to subsection (c)(2); and
+    - **(B)** shall not use any portion of the funding provided to the Secretary concerned under subsection (c)(1) to cover any other expense or cost incurred by the Secretary concerned, including administrative costs.
+  - **(4)** *Limitations on reimbursements* If insufficient receipts are generated by a project described in subsection (c) to reimburse the person that provided funding under paragraph (1) of that subsection, the Secretary concerned shall not provide additional funding to the person.
+- **(f)** *Promotion* Not later than 60 days after the date of enactment of this Act, the Secretary concerned shall provide guidance to each local field office of the Secretary concerned for—
+  - **(1)** making stakeholders aware of the authority under this Act; and
+  - **(2)** encouraging use of that authority to meet land management goals.
+- **(g)** *Treatment of collaborative members* For purposes of a civil action relating to a project described in subsection (c), any person that participated in the collaborative process to develop the proposal for the project shall be—
+  - **(1)** entitled to intervene, as of right, in any subsequent civil action; and
+  - **(2)** considered to be a full participant in any settlement negotiation relating to the project.
+- **(h)** *Sunset* The requirements described in subsection (b) and the authority to enter into an agreement under subsection (c) shall expire on January 1, 2033.
