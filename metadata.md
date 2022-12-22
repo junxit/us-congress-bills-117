@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4373
 congress: 117
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4373
@@ -78,3 +78,19 @@ Further Additional Continuing Appropriations and Extensions Act, 2023
 - 2021-07-29 — Received in the Senate.
 - 2022-03-23 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2022-03-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
+- 2022-03-29 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1829)
+- 2022-03-29 — Motion to proceed to consideration of measure made in Senate.
+- 2022-03-31 — Motion to proceed to measure considered in Senate. (CR S1875-1886)
+- 2022-04-05 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 129. (CR S1964)
+- 2022-04-05 — Motion by Senator Schumer to reconsider the vote by which cloture was not invoked on the motion to proceed (Record Vote No. 129) entered in Senate.
+- 2022-05-05 — Senate amendment submitted
+- 2022-12-22 — Amendment SA 6623 agreed to in Senate by Unanimous Consent.
+- 2022-12-22 — Amendment SA 6623 proposed by Senator Schumer for Senator Leahy. (consideration: CR S10098; text: CR S10098) In the nature of a substitute.
+- 2022-12-22 — Cloture motion on the motion to proceed to the measure rendered moot in Senate.
+- 2022-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S10098)
+- 2022-12-22 — Motion by Senator Schumer to reconsider the vote by which cloture was not invoked on the motion to proceed (Record Vote No. 129) rendered moot in Senate.
+- 2022-12-22 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S10098)
+- 2022-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2022-12-22 — Senate amendment agreed to: Amendment SA 6623 agreed to in Senate by Unanimous Consent.
+- 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6623 proposed by Senator Schumer for Senator Leahy.
+- 2022-12-22 — Senate amendment submitted
