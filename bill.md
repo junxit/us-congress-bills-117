@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1082
-congress: 117th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Seventeenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1082
 
-That the bill from the House of Representatives (H.R. 1082) entitled “An Act to prohibit the unauthorized sale of ride-hailing signage and study the incidence of fatal and non-fatal assaults in TNC and for-hire vehicles in order to enhance safety and save lives.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To study the incidence of fatal and non-fatal assaults in TNC and for-hire vehicles in order to enhance safety and save lives.
 
 ## § 1. Short title
 

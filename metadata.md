@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1082
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1082
@@ -66,3 +66,12 @@ Sami's Law
 - 2022-12-22 — Senate amendment proposed (on the floor): Amendment SA 6625 proposed by Senator Schumer for Senator Wicker.
 - 2022-12-22 — Senate amendment submitted
 - 2022-12-22 — Senate amendment submitted
+- 2022-12-23 — Message on Senate action sent to the House.
+- 2022-12-23 — Pursuant to the provisions of H. Res. 1531 the House agreed to the Senate amendments.
+- 2022-12-23 — Resolving differences -- House actions: Pursuant to the provisions of H. Res. 1531 the House agreed to the Senate amendments.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2023-01-05 — Became Public Law No: 117-330.
+- 2023-01-05 — Became Public Law No: 117-330.
+- 2023-01-05 — Signed by President.
+- 2023-01-05 — Signed by President.
