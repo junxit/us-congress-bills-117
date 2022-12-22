@@ -1,7 +1,7 @@
 ---
 measure: S. 2524
 congress: 117
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2524
@@ -33,3 +33,5 @@ A bill to amend the Alaska Native Claims Settlement Act to exclude certain payme
 - 2022-02-10 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-72.
 - 2022-02-10 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 117-72.
 - 2022-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
+- 2022-12-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10104; text: CR S10104)
+- 2022-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10104; text: CR S10104)
