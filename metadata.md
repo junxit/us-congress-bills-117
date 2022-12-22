@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1155
 congress: 117
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1155
@@ -160,3 +160,4 @@ Uyghur Forced Labor Prevention Act
 - 2021-12-08 — Mr. Meeks moved to suspend the rules and pass the bill, as amended.
 - 2021-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 428 - 1 (Roll no. 412). (text: CR H7495-7498)
 - 2021-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 428 - 1 (Roll no. 412).(text: CR H7495-7498)
+- 2022-12-22 — Received in the Senate.
