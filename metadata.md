@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2617
@@ -126,7 +126,7 @@ Consolidated Appropriations Act, 2023
 - House — Oversight and Accountability Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (16)
+## Recorded votes (17)
 
 - 2021-09-28 — [House 117-1-304](votes/house-117-1-0304.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–10)
 - 2022-12-20 — [Senate 117-2-403](votes/senate-117-2-0403.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (70–25)
@@ -144,6 +144,7 @@ Consolidated Appropriations Act, 2023
 - 2022-12-22 — [Senate 117-2-419](votes/senate-117-2-0419.md) — On the Amendment — **Amendment Agreed to** (90–6)
 - 2022-12-22 — [Senate 117-2-420](votes/senate-117-2-0420.md) — On the Amendment — **Amendment Agreed to** (93–4)
 - 2022-12-22 — [Senate 117-2-421](votes/senate-117-2-0421.md) — On the Motion — **Motion Agreed to** (68–29)
+- 2022-12-23 — [House 117-2-549](votes/house-117-2-0549.md) — On Motion to Concur in the Senate Adt to the House Adt to the Senate Adt — **Passed** (225–201)
 
 ## Actions
 
@@ -342,3 +343,17 @@ Consolidated Appropriations Act, 2023
 - 2022-12-22 — Senate amendment submitted
 - 2022-12-22 — Senate amendment submitted
 - 2022-12-22 — Senate concurred in the House amendment to Senate amendment SA 4 to H.R. 2617 with an amendment (SA 6552), under the order of 12/22/22, having achieved 60 votes in the affirmative, by Yea-Nay Vote. 68 - 29. Record Vote Number: 421.
+- 2022-12-23 — DEBATE - The House proceeded with one hour of debate on the motion to agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 2617.
+- 2022-12-23 — Message on Senate action sent to the House.
+- 2022-12-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2022-12-23 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 225 - 201, 1 Present (Roll no. 549).
+- 2022-12-23 — Pursuant to the provisions of H. Res. 1531, Ms. DeLauro moved to agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 2617.
+- 2022-12-23 — Pursuant to the provisions of H. Res. 1531, Ms. DeLauro moved to agree to the Senate amendment to the House amendment to the Senate amendment to H.R. 2617.
+- 2022-12-23 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 225 - 201, 1 Present (Roll no. 549).
+- 2022-12-23 — The previous question was ordered pursuant to the rule.
+- 2022-12-28 — Presented to President.
+- 2022-12-28 — Presented to President.
+- 2022-12-29 — Became Public Law No: 117-328.
+- 2022-12-29 — Became Public Law No: 117-328.
+- 2022-12-29 — Signed by President.
+- 2022-12-29 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2617
 congress: 117
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2,108 amendatory instructions. 627 executed, 1,481 stated and not applied.
+2,107 amendatory instructions. 667 executed, 1,440 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -771,7 +771,7 @@ to guess them.
 | Removed | `(as determined by the Secretary of Commerce under section 308(b) of the Interjurisdictional Fisheries Act of 1986)` |
 | Inserted | `(as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act)` |
 
-### 26 U.S.C. § 6058
+### 26 U.S.C. § 6211
 
 > Section 6211(b)(4) is amended by striking “and 7527A” and inserting “7527A, and 6433”.
 
@@ -789,7 +789,7 @@ to guess them.
 | Removed | `or 7527A` |
 | Inserted | `7527A, or 6433` |
 
-### 26 U.S.C. § 402
+### 26 U.S.C. § 25B
 
 > Paragraph (1) of section 25B(d) is amended by striking “the sum of—” and all that follows through “the amount of contributions made before January 1, 2026” and inserting “the amount of contributions made before January 1, 2026”.
 
@@ -825,7 +825,61 @@ to guess them.
 | Removed | `section 401(a) of such Code or` |
 | Inserted | `section 401(a) of such Code, a plan that consists of annuity contracts described in section 403(b) of such Code, or` |
 
-### 29 U.S.C. § 1108
+### 26 U.S.C. § 401
+
+> Section 401(a)(9)(C)(i)(I) is amended by striking “age 72” and inserting “the applicable age”.
+
+| | |
+|---|---|
+| Removed | `age 72` |
+| Inserted | `the applicable age` |
+
+### 26 U.S.C. § 401
+
+> Subparagraphs (B)(iv)(I) and (C)(ii)(I) of section 401(a)(9) are each amended by striking “age 72” and inserting “the applicable age”.
+
+| | |
+|---|---|
+| Removed | `age 72` |
+| Inserted | `the applicable age` |
+
+### 26 U.S.C. § 408
+
+> The last sentence of section 408(b) is amended by striking “age 72” and inserting “the applicable age (determined under section 401(a)(9)(C)(v) for the calendar year in which such taxable year begins)”.
+
+| | |
+|---|---|
+| Removed | `age 72` |
+| Inserted | `the applicable age (determined under section 401(a)(9)(C)(v) for the calendar year in which such taxable year begins)` |
+
+### 26 U.S.C. § 401
+
+> Subparagraph (A) of section 401(m)(4) is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the following new clause:
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `, and` |
+
+### 26 U.S.C. § 45E
+
+> Section 45E(d)(3)(A) is amended by striking “effective” and inserting “effective with respect to the eligible employer”.
+
+| | |
+|---|---|
+| Removed | `effective` |
+| Inserted | `effective with respect to the eligible employer` |
+
+### 26 U.S.C. § 38
+
+> Section 38(b) is amended by striking “plus” at the end of paragraph (39), by striking the period at the end of paragraph (40) and inserting “, plus”, and by adding at the end the following new paragraph:
+
+| | |
+|---|---|
+| Removed | `plus` |
+| Inserted | `, plus` |
+
+### 26 U.S.C. § 4975
 
 > Subsection (d) of section 4975 is amended by striking “or” at the end of paragraph (22), by striking the period at the end of paragraph (23) and inserting “, or”, and by adding at the end the following new paragraph:
 
@@ -833,6 +887,69 @@ to guess them.
 |---|---|
 | Removed | `or` |
 | Inserted | `, or` |
+
+### 26 U.S.C. § 1042
+
+> Section 1042(c)(1)(A) is amended by striking “domestic C corporation” and inserting “domestic corporation”.
+
+| | |
+|---|---|
+| Removed | `domestic C corporation` |
+| Inserted | `domestic corporation` |
+
+### 26 U.S.C. § 401
+
+> Section 408(p)(2)(A)(v), as redesignated by subsection (a), is amended by striking “or (iii)” and inserting “, (iii), or (iv)”.
+
+| | |
+|---|---|
+| Removed | `or (iii)` |
+| Inserted | `, (iii), or (iv)` |
+
+### 26 U.S.C. § 401
+
+> Section 401(k)(11)(B)(i)(IV), as redesignated by paragraph (2), is amended by striking “or (II)” and inserting “, (II), or (III)”.
+
+| | |
+|---|---|
+| Removed | `or (II)` |
+| Inserted | `, (II), or (III)` |
+
+### 26 U.S.C. § 408
+
+> by striking “clause (i)” in such clause (iii) and inserting “clause (i)(III)”, and
+
+| | |
+|---|---|
+| Removed | `clause (i)` |
+| Inserted | `clause (i)(III)` |
+
+### 26 U.S.C. § 414
+
+> by striking “the applicable” in clause (ii), as amended by this Act, and inserting “except as provided in clause (iii), the applicable”; and
+
+| | |
+|---|---|
+| Removed | `the applicable` |
+| Inserted | `except as provided in clause (iii), the applicable` |
+
+### 26 U.S.C. § 408
+
+> by striking “The term” in subclause (I) and inserting “Except as provided in subclause (IV), the term”,
+
+| | |
+|---|---|
+| Removed | `The term` |
+| Inserted | `Except as provided in subclause (IV), the term` |
+
+### 26 U.S.C. § 408
+
+> by striking “3 percent” each place it appears in subclauses (II) and (III) and inserting “the applicable percentage”.
+
+| | |
+|---|---|
+| Removed | `3 percent` |
+| Inserted | `the applicable percentage` |
 
 ### 26 U.S.C. § 4972
 
@@ -852,7 +969,34 @@ to guess them.
 | Removed | `or` |
 | Inserted | `, or` |
 
-### 29 U.S.C. § 1052
+### 26 U.S.C. § 416
+
+> by striking “arrangements” in the heading and inserting “arrangements or plans”,
+
+| | |
+|---|---|
+| Removed | `arrangements` |
+| Inserted | `arrangements or plans` |
+
+### 26 U.S.C. § 416
+
+> by striking “, and” at the end of clause (i) and inserting “and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or”, and
+
+| | |
+|---|---|
+| Removed | `, and` |
+| Inserted | `and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or` |
+
+### 26 U.S.C. § 529A
+
+> Section 529A(e) is amended by striking “age 26” each place it appears in paragraphs (1)(A) and (2)(A)(i)(II) and inserting “age 46”.
+
+| | |
+|---|---|
+| Removed | `age 26` |
+| Inserted | `age 46` |
+
+### 26 U.S.C. § 401
 
 > Section 401(k)(2)(D)(ii) is amended by striking “3” and inserting “2”.
 
@@ -870,6 +1014,33 @@ to guess them.
 | Removed | `section 401(k)(2)(D)(ii)` |
 | Inserted | `paragraphs (2)(D)(ii) and (15)(B)(iii) of section 401(k)` |
 
+### 26 U.S.C. § 529
+
+> by striking “by this subsection” and inserting “by this paragraph”, and
+
+| | |
+|---|---|
+| Removed | `by this subsection` |
+| Inserted | `by this paragraph` |
+
+### 26 U.S.C. § 403
+
+> Subparagraph (A) of section 403(b)(7) is amended by striking “if the amounts are to be invested in regulated investment company stock to be held in that custodial account” and inserting “if the amounts are to be held in that custodial account and are invested in regulated investment company stock or a group trust intended to satisfy the requirements of Internal Revenue Service Revenue Ruling 81–100 (or any successor guidance)”.
+
+| | |
+|---|---|
+| Removed | `if the amounts are to be invested in regulated investment company stock to be held in that custodial account` |
+| Inserted | `if the amounts are to be held in that custodial account and are invested in regulated investment company stock or a group trust intended to satisfy the requirements of Internal Revenue Service Revenue Ruling 81–100 (or any successor guidance)` |
+
+### 26 U.S.C. § 4974
+
+> Section 4974(a) is amended by striking “50 percent” and inserting “25 percent”.
+
+| | |
+|---|---|
+| Removed | `50 percent` |
+| Inserted | `25 percent` |
+
 ### 29 U.S.C. § 1053
 
 > Section 203(e)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1053(e)(1)) and sections 401(a)(31)(B)(ii) and 411(a)(11)(A) are each amended by striking “$5,000” and inserting “$7,000”.
@@ -881,6 +1052,24 @@ to guess them.
 
 ### 26 U.S.C. § 72
 
+> Subparagraph (A) of section 72(t)(10) is amended by striking “414(d))” and inserting “414(d)) or a distribution from a plan described in clause (iii), (iv), or (vi) of section 402(c)(8)(B) to an employee who provides firefighting services”.
+
+| | |
+|---|---|
+| Removed | `414(d))` |
+| Inserted | `414(d)) or a distribution from a plan described in clause (iii), (iv), or (vi) of section 402(c)(8)(B) to an employee who provides firefighting services` |
+
+### 26 U.S.C. § 72
+
+> The heading of paragraph (10) of section 72(t) is amended by striking “in governmental plans” and inserting “and private sector firefighters”.
+
+| | |
+|---|---|
+| Removed | `in governmental plans` |
+| Inserted | `and private sector firefighters` |
+
+### 26 U.S.C. § 72
+
 > Section 72(t)(2)(H)(v)(I) is amended by striking “may make” and inserting “may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make”.
 
 | | |
@@ -888,7 +1077,43 @@ to guess them.
 | Removed | `may make` |
 | Inserted | `may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make` |
 
-### 26 U.S.C. § 401
+### 26 U.S.C. § 414
+
+> by striking “apply” in clause (i), as so added, and inserting “apply, except that community property laws shall be disregarded for purposes of determining ownership”.
+
+| | |
+|---|---|
+| Removed | `apply` |
+| Inserted | `apply, except that community property laws shall be disregarded for purposes of determining ownership` |
+
+### 26 U.S.C. § 408
+
+> Section 408(e)(2)(A) is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the following new clause:
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `, and` |
+
+### 26 U.S.C. § 72
+
+> Clause (i) of section 72(t)(10)(B) is amended by striking “or emergency medical services” and inserting “emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody, and control of forensic patients”.
+
+| | |
+|---|---|
+| Removed | `or emergency medical services` |
+| Inserted | `emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody, and control of forensic patients` |
+
+### 26 U.S.C. § 408
+
+> Subparagraph (G) of section 408(d)(3) is amended by striking “72(t)(6)” and inserting “72(t)(6)(A)”.
+
+| | |
+|---|---|
+| Removed | `72(t)(6)` |
+| Inserted | `72(t)(6)(A)` |
+
+### 26 U.S.C. § 403
 
 > Section 403(b)(7)(A)(i) is amended by striking “or” at the end of subclause (V), by striking “and” at the end of subclause (VI) and inserting “or” and by adding at the end the following new subclause:
 
@@ -897,7 +1122,7 @@ to guess them.
 | Removed | `or” at the end of subclause (V), by striking “and` |
 | Inserted | `or` |
 
-### 26 U.S.C. § 401
+### 26 U.S.C. § 403
 
 > Section 403(b)(11) is amended by striking “or” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting “, or”, and by inserting after subparagraph (D) the following new subparagraph:
 
@@ -906,7 +1131,7 @@ to guess them.
 | Removed | `or` |
 | Inserted | `, or` |
 
-### 26 U.S.C. § 401
+### 26 U.S.C. § 457
 
 > Section 457(d)(1)(A) is amended by striking “or” at the end of clause (iii), by striking the comma at the end of clause (iv) and inserting “, or”, and by adding at the end the following new clause:
 
@@ -914,6 +1139,15 @@ to guess them.
 |---|---|
 | Removed | `or` |
 | Inserted | `, or` |
+
+### 26 U.S.C. § 401
+
+> Section 401(a)(9)(H)(iv)(II) is amended by striking “no individual” and inserting “no beneficiary”.
+
+| | |
+|---|---|
+| Removed | `no individual` |
+| Inserted | `no beneficiary` |
 
 ### 29 U.S.C. § 1132
 
@@ -969,6 +1203,69 @@ to guess them.
 | Removed | `subparagraph (H)` |
 | Inserted | `subparagraph (I)` |
 
+### 26 U.S.C. § 401
+
+> Section 401(k)(15)(B)(i)(II) is amended by striking “subsection (m)(2)” and inserting “paragraphs (2), (11), and (12) of subsection (m)”.
+
+| | |
+|---|---|
+| Removed | `subsection (m)(2)` |
+| Inserted | `paragraphs (2), (11), and (12) of subsection (m)` |
+
+### 26 U.S.C. § 401
+
+> Section 401(k)(15)(B)(iii) is amended by striking “under the arrangement” and inserting “under the plan”.
+
+| | |
+|---|---|
+| Removed | `under the arrangement` |
+| Inserted | `under the plan` |
+
+### 26 U.S.C. § 401
+
+> Section 401(k)(15)(B)(iv) is amended by striking “section 410(a)(1)(A)(ii)” and inserting “paragraph (2)(D)”.
+
+| | |
+|---|---|
+| Removed | `section 410(a)(1)(A)(ii)` |
+| Inserted | `paragraph (2)(D)` |
+
+### 26 U.S.C. § 72
+
+> Section 72(t)(2)(H)(vi)(IV) is amended by striking “403(b)(7)(A)(ii)” and inserting “ 403(b)(7)(A)(i)”.
+
+| | |
+|---|---|
+| Removed | `403(b)(7)(A)(ii)` |
+| Inserted | `403(b)(7)(A)(i)` |
+
+### 26 U.S.C. § 401
+
+> Section 401(k)(12)(G) is amended by striking “the requirements under subparagraph (A)(i)” and inserting “the contribution requirements under subparagraph (B) or (C)”.
+
+| | |
+|---|---|
+| Removed | `the requirements under subparagraph (A)(i)` |
+| Inserted | `the contribution requirements under subparagraph (B) or (C)` |
+
+### 26 U.S.C. § 401
+
+> Section 401(k)(13)(D)(iv) is amended by striking “and (F)” and inserting “and (G)”.
+
+| | |
+|---|---|
+| Removed | `and (F)` |
+| Inserted | `and (G)` |
+
+### 26 U.S.C. § 408
+
+> Section 408(o)(5)(A) is amended by striking “subsection (b)” and inserting “section 219(b)”.
+
+| | |
+|---|---|
+| Removed | `subsection (b)` |
+| Inserted | `section 219(b)` |
+
 ### 26 U.S.C. § 411
 
 > by striking “January 1, 2022” in subparagraph (B) and inserting “January 1, 2025”, and
@@ -1023,7 +1320,34 @@ to guess them.
 | Removed | `January 1, 2022` |
 | Inserted | `January 1, 2025` |
 
-### 26 U.S.C. § 170
+### 26 U.S.C. § 402
+
+> Section 402(h)(1) is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph:
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `, and` |
+
+### 26 U.S.C. § 403
+
+> Section 403(b)(7)(A)(i)(V) is amended by striking “in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D))” and inserting “subject to the provisions of paragraph (17)”.
+
+| | |
+|---|---|
+| Removed | `in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D))` |
+| Inserted | `subject to the provisions of paragraph (17)` |
+
+### 26 U.S.C. § 403
+
+> by striking “in” in subparagraph (B) and inserting “subject to the provisions of paragraph (17), in”, and
+
+| | |
+|---|---|
+| Removed | `in` |
+| Inserted | `subject to the provisions of paragraph (17), in` |
+
+### 26 U.S.C. § 6662
 
 > Section 6662(h)(2) is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting “, and”, and by adding at the end the following new subparagraph:
 
@@ -1032,7 +1356,7 @@ to guess them.
 | Removed | `and` |
 | Inserted | `, and` |
 
-### 26 U.S.C. § 170
+### 26 U.S.C. § 6751
 
 > Section 6751(b)(2)(A) is amended by striking “subsection (b)(9)” and inserting “paragraph (9) or (10) of subsection (b)”.
 
@@ -1041,7 +1365,7 @@ to guess them.
 | Removed | `subsection (b)(9)` |
 | Inserted | `paragraph (9) or (10) of subsection (b)` |
 
-### 29 U.S.C. § 1021
+### 26 U.S.C. § 420
 
 > Paragraph (4) of section 420(b) is amended by striking “December 31, 2025” and inserting “December 31, 2032”.
 
@@ -1050,7 +1374,7 @@ to guess them.
 | Removed | `December 31, 2025` |
 | Inserted | `December 31, 2032` |
 
-### 29 U.S.C. § 1021
+### 26 U.S.C. § 420
 
 > Subparagraph (D) of section 420(c)(3) is amended by striking “5 taxable years” and inserting “5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies)”.
 
@@ -1059,7 +1383,7 @@ to guess them.
 | Removed | `5 taxable years` |
 | Inserted | `5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies)` |
 
-### 29 U.S.C. § 1021
+### 26 U.S.C. § 420
 
 > by striking “subsection (e)(2)” and inserting “subsection (e)(2)(B)”, and
 
@@ -1068,7 +1392,7 @@ to guess them.
 | Removed | `subsection (e)(2)` |
 | Inserted | `subsection (e)(2)(B)` |
 
-### 29 U.S.C. § 1021
+### 26 U.S.C. § 420
 
 > Subclause (I) of section 420(f)(2)(D)(i) is amended by striking “4th year” and inserting “4th year (the 6th year in the case of a transfer to which subsection (e)(7) applies)”.
 
@@ -1112,6 +1436,42 @@ to guess them.
 |---|---|
 | Removed | `(as in effect on the date of the enactment of the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015)` |
 | Inserted | `(as in effect on the date of enactment of the SECURE 2.0 Act of 2022)` |
+
+### 26 U.S.C. § 7447
+
+> by striking “section 8331(8)” in subsection (g)(2)(C) and inserting “sections 8331(8) and 8401(19)”, and
+
+| | |
+|---|---|
+| Removed | `section 8331(8)` |
+| Inserted | `sections 8331(8) and 8401(19)` |
+
+### 26 U.S.C. § 7447
+
+> by striking “Civil Service Commission” both places it appears in subsection (i)(2) and inserting “Office of Personnel Management”.
+
+| | |
+|---|---|
+| Removed | `Civil Service Commission` |
+| Inserted | `Office of Personnel Management` |
+
+### 26 U.S.C. § 7448
+
+> by striking “section 8332” in subsection (d) and inserting “sections 8332 and 8411”, and
+
+| | |
+|---|---|
+| Removed | `section 8332` |
+| Inserted | `sections 8332 and 8411` |
+
+### 26 U.S.C. § 7448
+
+> by striking “section 8332” in subsection (n) and inserting “sections 8332 and 8411”.
+
+| | |
+|---|---|
+| Removed | `section 8332` |
+| Inserted | `sections 8332 and 8411` |
 
 ### 26 U.S.C. § 1728
 
@@ -5766,7 +6126,6 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1268` | insert | Section 15101(1) of title 40, United States Code, is amended by inserting “or Authority” after “a Commission”. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1268` | add-at-end | Subchapter II of chapter 157 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1268` | add-at-end | The analysis for subchapter II of chapter 157 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | Section 1105(e)(5)(C)(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240; 109 Stat. 598; 133 Stat. 3018) is amended by striking the seventh, eighth, and ninth sentences. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1270` | insert | in the section heading, by inserting “Patrick Leahy” before “Lake”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1270` | insert | by inserting “Patrick Leahy” before “Lake Champlain Basin Program” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1270` | amend | by amending subsection (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -5861,92 +6220,75 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1826d` | strike | by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Subpart B of part I of subchapter D of chapter 1 is amended by inserting after section 414 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for subpart B of part I of subchapter D of chapter 1 is amended by inserting after the item relating to section 414 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 45E(e) of is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 45E, as amended by subsection (a), is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 45E(e)(2) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 45E` | add-at-end | Section 45E(e) of is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45E` | add-at-end | Section 45E, as amended by subsection (a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 45E` | amend | Section 45E(e)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 402` | add-at-end | Subchapter B of chapter 65 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 402` | add-at-end | The table of sections for subchapter B of chapter 65 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 25B` | add-at-end | The table of sections for subchapter B of chapter 65 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | amend | Section 3(43)(B)(ii) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(43)(B)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 403` | add-at-end | Section 403(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 403` | redesignate | Section 6057 is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 403` | redesignate | Section 6058 is amended by redesignating subsection (f) as subsection (g) and by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 401(a)(9)(C)(i)(I) is amended by striking “age 72” and inserting “the applicable age”. | the bill names no machine-readable US Code section |
-| — | replace | Subparagraphs (B)(iv)(I) and (C)(ii)(I) of section 401(a)(9) are each amended by striking “age 72” and inserting “the applicable age”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(a)(9)(C) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | The last sentence of section 408(b) is amended by striking “age 72” and inserting “the applicable age (determined under section 401(a)(9)(C)(v) for the calendar year in which such taxable year begins)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (C) of section 219(b)(5) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | insert | Section 414(v)(2)(B)(i) is amended by inserting the following before the period: “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable yea… | the bill names no machine-readable US Code section |
-| — | insert | Section 414(v)(2)(B)(ii) is amended by inserting the following before the period: “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable ye… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 414(v)(2) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (C) of section 414(v)(2) is amended by adding at the end the following: “In the case of a year beginning after December 31, 2025, the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) a… | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (A) of section 401(m)(4) is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (4) of section 401(m) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 401(m) is amended by redesignating paragraph (13) as paragraph (14), and by inserting after paragraph (12) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (2) of section 408(p) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (A) of section 403(b)(12) is amended by adding at the end the following: “The fact that the employer offers matching contributions on account of qualified student loan payments as described in section 401(m)(13) shall not be… | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (b) of section 457 is amended by adding at the end the following: “A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements o… | the bill names no machine-readable US Code section |
-| — | replace | Section 45E(d)(3)(A) is amended by striking “effective” and inserting “effective with respect to the eligible employer”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | replace | Section 38(b) is amended by striking “plus” at the end of paragraph (39), by striking the period at the end of paragraph (40) and inserting “, plus”, and by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 3511(d)(2) is amended by redesignating subparagraphs (F), (G), and (H) as subparagraphs (G), (H), and (I), respectively, and by inserting after subparagraph (E) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| `29 U.S.C. § 1108` | insert | Subparagraph (A) of section 401(k)(4) is amended by inserting “(other than a de minimis financial incentive (not paid for with plan assets) provided to employees who elect to have the employer make contributions under the arrangement in … | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1108` | add-at-end | Subparagraph (A) of section 403(b)(12), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: “A plan shall not fail to satisfy clause (ii) solely by reason of offering a de minimis fi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6057` | redesignate | Section 6057 is amended by redesignating subsection (g) as subsection (h) and by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6058` | redesignate | Section 6058 is amended by redesignating subsection (f) as subsection (g) and by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(a)(9)(C) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 219` | add-at-end | Subparagraph (C) of section 219(b)(5) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | insert | Section 414(v)(2)(B)(i) is amended by inserting the following before the period: “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable yea… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | insert | Section 414(v)(2)(B)(ii) is amended by inserting the following before the period: “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable ye… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | add-at-end | Section 414(v)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | add-at-end | Subparagraph (C) of section 414(v)(2) is amended by adding at the end the following: “In the case of a year beginning after December 31, 2025, the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Paragraph (4) of section 401(m) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | redesignate | Section 401(m) is amended by redesignating paragraph (13) as paragraph (14), and by inserting after paragraph (12) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Paragraph (2) of section 408(p) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 403` | add-at-end | Subparagraph (A) of section 403(b)(12) is amended by adding at the end the following: “The fact that the employer offers matching contributions on account of qualified student loan payments as described in section 401(m)(13) shall not be… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 457` | add-at-end | Subsection (b) of section 457 is amended by adding at the end the following: “A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3511` | redesignate | Section 3511(d)(2) is amended by redesignating subparagraphs (F), (G), and (H) as subparagraphs (G), (H), and (I), respectively, and by inserting after subparagraph (E) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | add-at-end | The table of sections for subpart D of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | insert | Subparagraph (A) of section 401(k)(4) is amended by inserting “(other than a de minimis financial incentive (not paid for with plan assets) provided to employees who elect to have the employer make contributions under the arrangement in … | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 401` | add-at-end | Subparagraph (A) of section 403(b)(12), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: “A plan shall not fail to satisfy clause (ii) solely by reason of offering a de minimis fi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Subsection (b) of section 408 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 1042(c)(1)(A) is amended by striking “domestic C corporation” and inserting “domestic corporation”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1042 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1042` | add-at-end | Section 1042 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 72` | add-at-end | Paragraph (2) of section 72(t) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | Subparagraph (A) of section 408(p)(2) is amended by striking “and” at the end of clause (iii), by redesignating clause (iv) as clause (v), and by inserting after clause (iii) the following new clause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (A) of section 408(p)(2) is amended by adding at the end the following: “The compensation taken into account under clause (iv) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).”. | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (8) of section 408(p) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (2) of section 408(p), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 408(p)(2)(A)(v), as redesignated by subsection (a), is amended by striking “or (iii)” and inserting “, (iii), or (iv)”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 401(k)(11)(B)(i) is amended by striking “and” at the end of subclause (II), by redesignating subclause (III) as subclause (IV), and by inserting after subclause (II) the following new subclause: | the bill names no machine-readable US Code section |
-| — | replace | Section 401(k)(11)(B)(i)(IV), as redesignated by paragraph (2), is amended by striking “or (II)” and inserting “, (II), or (III)”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “amount is” and all that follows in clause (i) and inserting the following: “dollar amount is— | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (ii) as clause (iii) and by inserting after clause (i) the following new clause: | the bill names no machine-readable US Code section |
-| — | redesignate | by striking “adjustment.—In the case of” in clause (iii), as so redesignated, and inserting “adjustment.— | the bill names no machine-readable US Code section |
-| — | replace | by striking “clause (i)” in such clause (iii) and inserting “clause (i)(III)”, and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end of such clause (iii) the following new subclause: | the bill names no machine-readable US Code section |
-| — | replace | by striking “the applicable” in clause (ii), as amended by this Act, and inserting “except as provided in clause (iii), the applicable”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | by striking “adjustment.—In the case of” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | by striking “The term” in subclause (I) and inserting “Except as provided in subclause (IV), the term”, | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
-| — | replace | by striking “3 percent” each place it appears in subclauses (II) and (III) and inserting “the applicable percentage”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (B) of section 408(p)(2) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (2) of section 408(p), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (E) of section 408(p)(2), as amended by subsection (a), is further amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | insert | Subclause (I) of section 401(k)(11)(B)(i) is amended by inserting “(after the application of any election under section 408(p)(2)(E)(i)(II))” before the comma. | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (11) of section 401(k) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 408` | redesignate | Subparagraph (A) of section 408(p)(2) is amended by striking “and” at the end of clause (iii), by redesignating clause (iv) as clause (v), and by inserting after clause (iii) the following new clause: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 408` | add-at-end | Subparagraph (A) of section 408(p)(2) is amended by adding at the end the following: “The compensation taken into account under clause (iv) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | amend | Paragraph (8) of section 408(p) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Paragraph (2) of section 408(p), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | redesignate | Section 401(k)(11)(B)(i) is amended by striking “and” at the end of subclause (II), by redesignating subclause (III) as subclause (IV), and by inserting after subclause (II) the following new subclause: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 408` | replace | by striking “amount is” and all that follows in clause (i) and inserting the following: “dollar amount is— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 408` | redesignate | by redesignating clause (ii) as clause (iii) and by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | redesignate | by striking “adjustment.—In the case of” in clause (iii), as so redesignated, and inserting “adjustment.— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 408` | add-at-end | by adding at the end of such clause (iii) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | replace | by striking “adjustment.—In the case of” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 414` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Subparagraph (B) of section 408(p)(2) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Paragraph (2) of section 408(p), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Subparagraph (E) of section 408(p)(2), as amended by subsection (a), is further amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | insert | Subclause (I) of section 401(k)(11)(B)(i) is amended by inserting “(after the application of any election under section 408(p)(2)(E)(i)(II))” before the comma. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 401` | add-at-end | Paragraph (11) of section 401(k) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4972` | insert | by inserting “, or a simplified employee pension (within the meaning of section 408(k))” after “401(k)(11))”. | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Section 415(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 415` | add-at-end | Section 415(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 4975` | add-at-end | Section 4975(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 401(k) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 403(b), as amended by the preceding provision of this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “arrangements” in the heading and inserting “arrangements or plans”, | the bill names no machine-readable US Code section |
-| — | replace | by striking “, and” at the end of clause (i) and inserting “and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking clause (ii) and inserting after clause (i) the following new clause: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 401` | add-at-end | Section 401(k) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 403(b), as amended by the preceding provision of this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 416` | replace | by striking clause (ii) and inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 3105 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(a)(35) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 529A(e) is amended by striking “age 26” each place it appears in paragraphs (1)(A) and (2)(A)(i)(II) and inserting “age 46”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 401` | add-at-end | Section 401(a)(35) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1052` | add-at-end | Section 202 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1052) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1052` | add-at-end | Section 403(b)(12) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1052` | insert | The last sentence of section 403(b)(12)(A), as amended by this Act, is further amended by inserting “and section 202(c) of the Employee Retirement Income Security Act of 1974” after “under section 410(b)(4)”. | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1052` | insert | Section 401(k)(15)(B)(i) is amended by inserting “, or by reason of such paragraph and section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974” after “paragraph (2)(D)(ii)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 403` | add-at-end | Section 403(b)(12) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | insert | The last sentence of section 403(b)(12)(A), as amended by this Act, is further amended by inserting “and section 202(c) of the Employee Retirement Income Security Act of 1974” after “under section 410(b)(4)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 401` | insert | Section 401(k)(15)(B)(i) is amended by inserting “, or by reason of such paragraph and section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974” after “paragraph (2)(D)(ii)”. | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1053` | redesignate | Section 203(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1053(b)) is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1052` | insert | Subparagraph (H) of section 416(g)(4), as amended by this Act, is further amended by inserting before “If, but” the following: “Such term shall not include a plan solely because such plan does not provide nonelective or matching contribu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Paragraph (3) of section 529(c) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of subparagraph (B) and inserting “, and”, | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (B) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new sentence: “The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earn… | the bill names no machine-readable US Code section |
-| — | replace | by striking “A qualified rollover contribution” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 408A(c)(3) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “Each officer” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “by this subsection” and inserting “by this paragraph”, and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 529` | add-at-end | Paragraph (3) of section 529(c) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | replace | by striking the period at the end of subparagraph (B) and inserting “, and”, | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 408A` | insert | by inserting after subparagraph (B) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | add-at-end | by adding at the end the following new sentence: “The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earn… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | replace | by striking “A qualified rollover contribution” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 408A` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | add-at-end | Section 408A(c)(3) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 529` | replace | by striking “Each officer” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 529` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | add-at-end | Section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1021` | add-at-end | Subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1001` | insert | The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 note) is amended by inserting after the item relating to section 734 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -5954,87 +6296,78 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1021` | redesignate | by redesignating subsection (n) as subsection (o); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1021` | insert | by inserting after subsection (m) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1104` | add-at-end | Section 404(c) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1002` | redesignate | Section 402A is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1002` | add-at-end | Section 72(t)(2), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1002` | add-at-end | Section 72(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Subparagraph (A) of section 403(b)(7) is amended by striking “if the amounts are to be invested in regulated investment company stock to be held in that custodial account” and inserting “if the amounts are to be held in that custodial ac… | the bill names no machine-readable US Code section |
-| — | strike | The heading of paragraph (7) of section 403(b) is amended by striking “for regulated investment company stock”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(a)(9) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 402A` | redesignate | Section 402A is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402A` | add-at-end | Section 72(t)(2), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | add-at-end | Section 72(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 403` | strike | The heading of paragraph (7) of section 403(b) is amended by striking “for regulated investment company stock”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 401` | add-at-end | Section 401(a)(9) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1056` | add-at-end | Section 206 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1056` | add-at-end | Section 414 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1056` | add-at-end | Section 402(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 4974(a) is amended by striking “50 percent” and inserting “25 percent”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4974 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 414` | add-at-end | Section 414 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402` | add-at-end | Section 402(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4974` | add-at-end | Section 4974 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1131` | add-at-end | Part 5 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1001` | insert | The table of contents for the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after the item relating to section 522 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 457(b)(4) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 408(d)(8) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 408(d)(8), as amended by subsection (a), is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (A) of section 72(t)(10) is amended by striking “414(d))” and inserting “414(d)) or a distribution from a plan described in clause (iii), (iv), or (vi) of section 402(c)(8)(B) to an employee who provides firefighting services”. | the bill names no machine-readable US Code section |
-| — | replace | The heading of paragraph (10) of section 72(t) is amended by striking “in governmental plans” and inserting “and private sector firefighters”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 457` | amend | Section 457(b)(4) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Section 408(d)(8) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408` | add-at-end | Section 408(d)(8), as amended by subsection (a), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Part III of subchapter B of chapter 1 is amended by inserting after section 139B the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for part III of subchapter B of chapter 1 is amended by inserting after the item relating to section 139B the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (2) of section 416(c) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(k)(14) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 403(b)(7) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 403(b)(11) is amended by adding at the end the following: “In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribu… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 457(d) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 6501(l) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 416` | add-at-end | Paragraph (2) of section 416(c) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(k)(14) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 403` | add-at-end | Section 403(b)(7) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 403` | add-at-end | Section 403(b)(11) is amended by adding at the end the following: “In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 457` | add-at-end | Section 457(d) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6501` | add-at-end | Section 6501(l) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Paragraph (2) of section 72(t), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “For purposes of” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | replace | by striking “Ownership.—In determining” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
-| — | replace | by striking “apply” in clause (i), as so added, and inserting “apply, except that community property laws shall be disregarded for purposes of determining ownership”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(b)(2) is amended by adding at the end the following: “In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective defe… | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 414` | replace | by striking “For purposes of” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 414` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | replace | by striking “Ownership.—In determining” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 414` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(b)(2) is amended by adding at the end the following: “In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective defe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1021` | redesignate | Part 1 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021 et seq.) is amended by redesignating section 111 as section 112 and by inserting after section 110 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1021` | replace | The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 is amended by striking the item relating to section 111 and by inserting after the item relating to section 110 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1021` | add-at-end | Section 414, as amended by the preceding provisions of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 408(e)(2)(A) is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (4) of section 72(t) is amended by inserting at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clauses (i) and (ii) of subparagraph (B) as subclauses (I) and (II), and by moving such subclauses 2 ems to the right; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), by moving such clauses 2 ems to the right, and by adjusting the flush language at the end accordingly; | the bill names no machine-readable US Code section |
-| — | replace | by striking “payments.—If” and inserting “payments.— | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 6724 is amended by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subparagraph (A) of section 72(t)(2) is amended by adding at the end the following flush sentence: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (2) of section 72(q) is amended by adding at the end the following flush sentence: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (d) of section 402A is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 414` | add-at-end | Section 414, as amended by the preceding provisions of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | insert | Paragraph (4) of section 72(t) is amended by inserting at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | redesignate | by redesignating clauses (i) and (ii) of subparagraph (B) as subclauses (I) and (II), and by moving such subclauses 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), by moving such clauses 2 ems to the right, and by adjusting the flush language at the end accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | replace | by striking “payments.—If” and inserting “payments.— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 72` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | insert | Section 6724 is amended by inserting at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | add-at-end | Subparagraph (A) of section 72(t)(2) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | add-at-end | Paragraph (2) of section 72(q) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402A` | add-at-end | Subsection (d) of section 402A is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 72(t)(2), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Section 402(l)(5)(A) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 402` | amend | Section 402(l)(5)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Subparagraph (A) of section 72(t)(10), as amended by this Act, is further amended by striking “age 50” and inserting “age 50 or 25 years of service under the plan, whichever is earlier”. | the bill names no machine-readable US Code section |
-| — | replace | Clause (i) of section 72(t)(10)(B) is amended by striking “or emergency medical services” and inserting “emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody,… | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 72` | add-at-end | Paragraph (2) of section 72(t), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 72` | add-at-end | Section 72(t) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 72` | add-at-end | Paragraph (8) of section 72(t) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 72` | add-at-end | Subsection (c) of section 402, as amended by this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 72` | add-at-end | Subsection (p) of section 72 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 408(p) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “accounts.—In the case of” and inserting “accounts.— | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (G) of section 408(d)(3) is amended by striking “72(t)(6)” and inserting “72(t)(6)(A)”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “or” at the end of clause (vii); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of clause (viii) and inserting “, or”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (viii) the following new clause: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 408` | add-at-end | Section 408(p) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | replace | by striking “accounts.—In the case of” and inserting “accounts.— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 72` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 72` | strike | by striking “or” at the end of clause (vii); | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 72` | replace | by striking the period at the end of clause (viii) and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 72` | insert | by inserting after clause (viii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | insert | Section 401(a) is amended by inserting after paragraph (38) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | add-at-end | Section 401(k)(2)(B)(i) is amended by striking “or” at the end of subclause (V), by adding “or” at the end of subclause (VI), and by adding at the end the following new subclause: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 401` | add-at-end | Section 403(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 403` | add-at-end | Section 403(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | add-at-end | Section 72(t)(2), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | add-at-end | Subpart B of part III of subchapter A of chapter 61 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | insert | in paragraph (1)(B), by adding “or” at the end of clause (xxvii) and by inserting after such clause the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | redesignate | by redesignating subparagraph (JJ), relating to section 6050Y, as subparagraph (KK) and moving such subparagraph to the position immediately after subparagraph (JJ), relating to section 6226(a)(2), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | strike | by striking “or” at the end of subparagraph (II), | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 401` | replace | by striking the period at the end of subparagraph (JJ), relating to section 6226(a)(2), and inserting a comma, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | redesignate | by striking the period at the end of subparagraph (KK), as so redesignated, and inserting “, or”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 401` | redesignate | by inserting after subparagraph (KK), as so redesignated, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | amend | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by adding after the item relating to section 6050Y the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 401(a)(9)(H)(iv)(II) is amended by striking “no individual” and inserting “no beneficiary”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(a)(9)(H)(v) is amended by adding at the end the following flush sentence: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6724` | add-at-end | Subpart B of part III of subchapter A of chapter 61 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | insert | in paragraph (1)(B), by adding “or” at the end of clause (xxvii) and by inserting after such clause the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | redesignate | by redesignating subparagraph (JJ), relating to section 6050Y, as subparagraph (KK) and moving such subparagraph to the position immediately after subparagraph (JJ), relating to section 6226(a)(2), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | strike | by striking “or” at the end of subparagraph (II), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 6724` | replace | by striking the period at the end of subparagraph (JJ), relating to section 6226(a)(2), and inserting a comma, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | redesignate | by striking the period at the end of subparagraph (KK), as so redesignated, and inserting “, or”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6724` | redesignate | by inserting after subparagraph (KK), as so redesignated, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | amend | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by adding after the item relating to section 6050Y the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(a)(9)(H)(v) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1025` | insert | in subparagraph (A)(iv), by inserting “subject to subparagraph (E),” before “may be delivered”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1025` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1056` | insert | Clause (ii) of section 414(p)(1)(B) is amended by inserting “or Tribal” after “State”. | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 1056` | add-at-end | Subparagraph (B) of section 414(p)(1) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | insert | Clause (ii) of section 414(p)(1)(B) is amended by inserting “or Tribal” after “State”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 414` | add-at-end | Subparagraph (B) of section 414(p)(1) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1056` | insert | Section 206(d)(3)(B)(ii)(II) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(d)(3)(B)(ii)(II)) is amended by inserting “or Tribal” after “State”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7701` | add-at-end | Section 206(d)(3)(B) of such Act is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1021` | add-at-end | Part 1 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021 et seq.), as amended by the preceding provisions of this title, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -6054,7 +6387,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6058` | replace | by striking “so that all members” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6058` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1023` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1060` | add-at-end | Section 411(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 411` | add-at-end | Section 411(b) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1060` | add-at-end | Section 204(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1060(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1306` | strike | in clause (vi), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1306` | replace | in clause (vii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -6062,60 +6395,46 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1306` | insert | in subparagraph (B), in the matter preceding clause (i), by inserting “and before 2024” after “2012” ; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1306` | insert | in subparagraph (D)(vii), by inserting “and before 2024” after “2019”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 414` | add-at-end | Section 414, as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | Section 401(m)(12) is amended by striking “and” at the end of subparagraph (A), by redesignating subparagraph (B) as subparagraph (C), and by inserting after subparagraph (A) (as so amended) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 401(k)(15)(B)(i)(II) is amended by striking “subsection (m)(2)” and inserting “paragraphs (2), (11), and (12) of subsection (m)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 401(k)(15)(B)(iii) is amended by striking “under the arrangement” and inserting “under the plan”. | the bill names no machine-readable US Code section |
-| — | replace | Section 401(k)(15)(B)(iv) is amended by striking “section 410(a)(1)(A)(ii)” and inserting “paragraph (2)(D)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4973(b) is amended by adding at the end of the flush matter the following: “Such term shall not include any designated nondeductible contribution (as defined in subparagraph (C) of section 408(o)(2)) which does not exceed the non… | the bill names no machine-readable US Code section |
-| — | replace | Section 72(t)(2)(H)(vi)(IV) is amended by striking “403(b)(7)(A)(ii)” and inserting “ 403(b)(7)(A)(i)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 401(k)(12)(G) is amended by striking “the requirements under subparagraph (A)(i)” and inserting “the contribution requirements under subparagraph (B) or (C)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 401(k)(13)(D)(iv) is amended by striking “and (F)” and inserting “and (G)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 408(o)(5)(A) is amended by striking “subsection (b)” and inserting “section 219(b)”. | the bill names no machine-readable US Code section |
-| — | strike | Section 408A(c)(2)(A) is amended by striking “(d)(1) or”. | the bill names no machine-readable US Code section |
-| — | strike | Section 408A is amended by striking subsection (f). | the bill names no machine-readable US Code section |
-| — | replace | Section 402(h)(1) is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 402(h)(3) is amended by inserting “(or section 408A(d) in the case of an individual retirement plan designated as a Roth IRA)” before the period at the end. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 408(k) is amended by redesignating paragraphs (7), (8), and (9) as paragraphs (8), (9), and (10), respectively, and by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 408(p), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 408A(e) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 408A(d)(2)(B) is amended by inserting “, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)),” after “individual’s spouse”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 403(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 403(b)(7)(A)(i)(V) is amended by striking “in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D))” and inserting “subject to the provisions of paragraph (17)”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “in” in subparagraph (B) and inserting “subject to the provisions of paragraph (17), in”, and | the bill names no machine-readable US Code section |
-| — | strike | by striking the second sentence. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 414(v) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | strike | Section 402(g)(1) is amended by striking subparagraph (C). | the bill names no machine-readable US Code section |
-| — | insert | Section 457(e)(18)(A)(ii) is amended by inserting “the lesser of any designated Roth contributions made by the participant to the plan or” before “the applicable dollar amount”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 402A(a) is amended by redesignating paragraph (2) as paragraph (4), by striking “and” at the end of paragraph (1), and by inserting after paragraph (1) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, or to have made on the employee’s behalf,” after “elect to make”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, or of matching contributions or nonelective contributions which may otherwise be made on the employee’s behalf,” after “otherwise eligible to make”. | the bill names no machine-readable US Code section |
-| — | insert | Section 402A(c)(1) is amended by inserting “, matching contribution, or nonelective contribution” after “elective deferral”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 402A(f), as redesignated by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 401` | redesignate | Section 401(m)(12) is amended by striking “and” at the end of subparagraph (A), by redesignating subparagraph (B) as subparagraph (C), and by inserting after subparagraph (A) (as so amended) the following new subparagraph: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4973` | add-at-end | Section 4973(b) is amended by adding at the end of the flush matter the following: “Such term shall not include any designated nondeductible contribution (as defined in subparagraph (C) of section 408(o)(2)) which does not exceed the non… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | strike | Section 408A(c)(2)(A) is amended by striking “(d)(1) or”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 408A` | strike | Section 408A is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402` | insert | Section 402(h)(3) is amended by inserting “(or section 408A(d) in the case of an individual retirement plan designated as a Roth IRA)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 408` | redesignate | Section 408(k) is amended by redesignating paragraphs (7), (8), and (9) as paragraphs (8), (9), and (10), respectively, and by inserting after paragraph (6) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | add-at-end | Section 408(p), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | add-at-end | Section 408A(e) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 408A` | insert | Section 408A(d)(2)(B) is amended by inserting “, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)),” after “individual’s spouse”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 403` | add-at-end | Section 403(b), as amended by the preceding provisions of this Act, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 403` | strike | by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 414` | add-at-end | Section 414(v) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402` | strike | Section 402(g)(1) is amended by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 457` | insert | Section 457(e)(18)(A)(ii) is amended by inserting “the lesser of any designated Roth contributions made by the participant to the plan or” before “the applicable dollar amount”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 402A` | redesignate | Section 402A(a) is amended by redesignating paragraph (2) as paragraph (4), by striking “and” at the end of paragraph (1), and by inserting after paragraph (1) the following new paragraphs: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 402A` | insert | by inserting “, or to have made on the employee’s behalf,” after “elect to make”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 402A` | insert | by inserting “, or of matching contributions or nonelective contributions which may otherwise be made on the employee’s behalf,” after “otherwise eligible to make”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 402A` | insert | Section 402A(c)(1) is amended by inserting “, matching contribution, or nonelective contribution” after “elective deferral”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 402A` | redesignate | Section 402A(f), as redesignated by this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 170` | add-at-end | Section 170(h) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 170` | insert | Section 6662(b) is amended by inserting after paragraph (9) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 170` | insert | Section 6664(c)(2) is amended by inserting “or to any disallowance of a deduction described in section 6662(b)(10)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6662` | insert | Section 6662(b) is amended by inserting after paragraph (9) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6664` | insert | Section 6664(c)(2) is amended by inserting “or to any disallowance of a deduction described in section 6662(b)(10)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 170` | add-at-end | Section 170(f) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1021` | add-at-end | Subsection (e) of section 420 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1021` | replace | by striking “In general.—In” and inserting “In general.— | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 1021` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Subsection (j)(3)(B) of section 7447 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (3) of section 7447(j) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | Subsection (h) of section 7448 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7448(a) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “of dependency and disability.—Questions” and inserting “by chief judge.— | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | Section 7448(m) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7448 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 8331(8)” in subsection (g)(2)(C) and inserting “sections 8331(8) and 8401(19)”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Civil Service Commission” both places it appears in subsection (i)(2) and inserting “Office of Personnel Management”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 8332” in subsection (d) and inserting “sections 8332 and 8411”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 8332” in subsection (n) and inserting “sections 8332 and 8411”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 7447 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 410` | insert | Part I of subchapter C of chapter 76 is amended by inserting after section 7447 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 410` | insert | Section 3121(b)(5)(E) is amended by inserting “or special trial judge” before “of the United States Tax Court”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 410` | amend | Section 7448(b)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 420` | add-at-end | Subsection (e) of section 420 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 420` | replace | by striking “In general.—In” and inserting “In general.— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 420` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7447` | amend | Subsection (j)(3)(B) of section 7447 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7447` | add-at-end | Paragraph (3) of section 7447(j) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7448` | amend | Subsection (h) of section 7448 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7448` | add-at-end | Section 7448(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7448` | replace | by striking “of dependency and disability.—Questions” and inserting “by chief judge.— | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 7448` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7448` | amend | Section 7448(m) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7448` | add-at-end | Section 7448 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7447` | add-at-end | Section 7447 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3121` | insert | Part I of subchapter C of chapter 76 is amended by inserting after section 7447 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3121` | insert | Section 3121(b)(5)(E) is amended by inserting “or special trial judge” before “of the United States Tax Court”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 7448` | amend | Section 7448(b)(2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 410` | insert | Section 210(a)(5)(E) of the Social Security Act (42 U.S.C. 410(a)(5)(E)) is amended by inserting “or special trial judge” before “of the United States Tax Court”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 410` | insert | The table of sections for part I of subchapter C of chapter 76 is amended by inserting after the item relating to section 7447 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3121` | insert | The table of sections for part I of subchapter C of chapter 76 is amended by inserting after the item relating to section 7447 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1710(a)(2)(E) of title 38, United States Code, is amended by striking “of the Mexican border period or of World War I;” and inserting “of— | the bill names no machine-readable US Code section |
 | `21 U.S.C. § 822` | add-at-end | Subchapter I of chapter 74 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7413 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -6922,7 +7241,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395x` | insert | Section 1861(ff)(1) of the Social Security Act (42 U.S.C. 1395x(ff)(1)) is amended by inserting “for an individual determined (not less frequently than monthly) by a physician to have a need for such services for a minimum of 20 hours pe… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395k` | insert | Section 1832(a)(2)(J) of the Social Security Act (42 U.S.C. 1395k(a)(2)(J)) is amended by inserting “and intensive outpatient services” after “partial hospitalization services”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395k` | insert | Section 1861(s)(2)(B) is amended by inserting “or intensive outpatient services” after “partial hospitalization services”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1861` | insert | Section 1861(s)(2)(B) is amended by inserting “or intensive outpatient services” after “partial hospitalization services”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395x` | insert | in the header, by inserting “; Intensive Outpatient Services” after “Partial Hospitalization Services”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | Section 1833(c)(2) of the Social Security Act (42 U.S.C. 1395l(c)(2)) is amended by inserting “or intensive outpatient services” after “partial hospitalization services”. | the bill quotes the text inserted but describes where it goes |
