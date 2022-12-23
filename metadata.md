@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1382
 congress: 117
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1382
@@ -16,7 +16,7 @@ Condemning the atrocities that occurred in Atlanta, Georgia, in 1906, in which W
 
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Cosponsors (51)
+## Cosponsors (63)
 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Scott, David [D-GA-13] (S001157)
@@ -69,6 +69,18 @@ Condemning the atrocities that occurred in Atlanta, Georgia, in 1906, in which W
 - Rep. Bush, Cori [D-MO-1] (B001224)
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
 
 ## Committees (1)
 
@@ -79,3 +91,7 @@ Condemning the atrocities that occurred in Atlanta, Georgia, in 1906, in which W
 - 2022-09-21 — Introduced in House
 - 2022-09-21 — Introduced in House
 - 2022-09-21 — Referred to the House Committee on the Judiciary.
+- 2022-11-01 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2022-11-01 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2022-12-23 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1531, H. Res. 1382 is considered passed House.
+- 2022-12-23 — Pursuant to the provisions of H. Res. 1531, H. Res. 1382 is considered passed House. (text: CR H10074)
