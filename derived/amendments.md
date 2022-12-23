@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6102
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-64 amendatory instructions. 46 executed, 18 stated and not applied.
+67 amendatory instructions. 48 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,42 @@ to guess them.
 |---|---|
 | Removed | `the analysis, examination, and treatment” and all that follows through “coal miners.` |
 | Inserted | `the analysis, examination, and treatment of respiratory and pulmonary impairments in active and inactive coal miners and for assistance on behalf of miners, spouses, dependents, and other family members with claims arising under this title.` |
+
+### 26 U.S.C. § 6103
+
+> in the matter preceding subparagraph (A), by striking “or (22)” and inserting “(22), or (23)”; and
+
+| | |
+|---|---|
+| Removed | `or (22)` |
+| Inserted | `(22), or (23)` |
+
+### 26 U.S.C. § 6103
+
+> in subparagraph (F)(ii), by striking “or (22),” and inserting “(22), or (23)”.
+
+| | |
+|---|---|
+| Removed | `or (22),` |
+| Inserted | `(22), or (23)` |
+
+### 30 U.S.C. § 933
+
+> by striking “$1,000” and inserting “$25,000”;
+
+| | |
+|---|---|
+| Removed | `$1,000` |
+| Inserted | `$25,000` |
+
+### 30 U.S.C. § 933
+
+> by striking “and treasurer” each place it appears and inserting “treasurer, and other responsible party”;
+
+| | |
+|---|---|
+| Removed | `and treasurer` |
+| Inserted | `treasurer, and other responsible party` |
 
 ### 30 U.S.C. § 901
 
@@ -413,30 +449,12 @@ to guess them.
 
 ### 30 U.S.C. § 940
 
-> by striking “1981” and inserting “1981, and the Black Lung Benefits Improvement Act of 2021, and any amendments made after the date of enactment of such Act,”.
+> by striking “1981” and inserting “1981, and the Black Lung Benefits Improvement Act of 2022, and any amendments made after the date of enactment of such Act,”.
 
 | | |
 |---|---|
 | Removed | `1981` |
-| Inserted | `1981, and the Black Lung Benefits Improvement Act of 2021, and any amendments made after the date of enactment of such Act,` |
-
-### 26 U.S.C. § 6103
-
-> in the matter preceding subparagraph (A), by striking “or (22)” and inserting “(22), or (23)”; and
-
-| | |
-|---|---|
-| Removed | `or (22)` |
-| Inserted | `(22), or (23)` |
-
-### 26 U.S.C. § 6103
-
-> in subparagraph (F)(ii), by striking “or (22),” and inserting “(22), or (23)”.
-
-| | |
-|---|---|
-| Removed | `or (22),` |
-| Inserted | `(22), or (23)` |
+| Inserted | `1981, and the Black Lung Benefits Improvement Act of 2022, and any amendments made after the date of enactment of such Act,` |
 
 ## Stated, not applied
 
@@ -447,14 +465,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 901` | add-at-end | Part A of the Black Lung Benefits Act (30 U.S.C. 901 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 901` | add-at-end | Part A of the Black Lung Benefits Act (30 U.S.C. 901 et seq.), as amended by section 101, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 921` | replace | Section 411(c) of the Black Lung Benefits Act (30 U.S.C. 921(c)) is amended by striking paragraphs (3) and (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 922` | replace | Section 412(a) of the Black Lung Benefits Act (30 U.S.C. 922(a)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 932` | add-at-end | Section 422 of the Black Lung Benefits Act (30 U.S.C. 932) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 941` | amend | Section 431 of the Black Lung Benefits Act (30 U.S.C. 941) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 921` | replace | Section 411(c) of the Black Lung Benefits Act (30 U.S.C. 921(c)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 931` | add-at-end | Part C of the Black Lung Benefits Act (30 U.S.C. 931 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 931` | add-at-end | Part C of the Black Lung Benefits Act (30 U.S.C. 931 et seq.), as amended by section 108, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 941` | amend | Section 431 of the Black Lung Benefits Act (30 U.S.C. 941) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 931` | add-at-end | Part C of the Black Lung Benefits Act (30 U.S.C. 931 et seq.), as amended by section 103, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 901` | add-at-end | Part A of the Black Lung Benefits Act (30 U.S.C. 901 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 922` | replace | Section 412(a) of the Black Lung Benefits Act (30 U.S.C. 922(a)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | Section 6103(l) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 933` | insert | by inserting “chief executive officer, chief operating officer, ” after the word “president,” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 933` | replace | by striking “for any benefit” and all that follows through “this section.” and inserting | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 902` | insert | Section 402 of the Black Lung Benefits Act (30 U.S.C. 902) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 901` | insert | in section 401(a) (30 U.S.C. 901(a)), by inserting “or who were found to be totally disabled by such disease” after “such disease”; | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 901` | replace | in subsection (a), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 901` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -464,4 +484,3 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 922` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 922` | replace | by striking the first sentence and inserting the following: “In the case of the dependent parent or parents of a miner who is not survived at the time of death by a surviving spouse or a child and (i) whose death is due to pneumoconiosis… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 923` | strike | by striking the last sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6103` | add-at-end | Section 6103(l) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
