@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2780
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -39,8 +39,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3503` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7131` | add-at-end | Title II of the Department of Energy Organization Act (42 U.S.C. 7131 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7131` | insert | The table of contents of the Department of Energy Organization Act is amended by inserting after the item relating to section 217 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7131` | insert | Section 5315 of title 5, United States Code, is amended by inserting after the item related to the Director, Office of Science, Department of Energy the following new item: “Director, Office of Insular Area Energy Policy and Programs, De… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | insert | in subsection (a) by inserting “or lying within the exclusive economic zone of the United States and the Outer Continental Shelf adjacent to any territory or possession of the United States, except that such term shall not include any ar… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 7131` | insert | Section 5315 of title 5, United States Code, is amended by inserting after the item relating to the Director, Office of Science, Department of Energy the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | insert | in subsection (a) by inserting “or lying within the exclusive economic zone of the United States and the Outer Continental Shelf adjacent to any territory of the United States, except that such term shall not include any area conveyed by… | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1331` | strike | in subsection (p), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1331` | replace | in subsection (q), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
