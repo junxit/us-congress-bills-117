@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6032
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,20 @@ This Act may be cited as the “Katimiîn and Ameekyáaraam Sacred Lands Act”.
 
 ## § 2. Land held in trust for the Karuk Tribe
 
-- **(a)** *In general* In recognition of the historical use and ongoing relationship between the Karuk Tribe and the Katimiîn and Ameekyáaraam tracts of land in the ancestral territory of the Karuk Tribe, administrative jurisdiction of these tracts of land are hereby transferred from the Secretary of Agriculture to the Secretary of the Interior and held in trust for the benefit of the Karuk Tribe, subject to valid existing rights.
-- **(b)** *Land description* The land taken into trust pursuant to subsection (a) is the approximately 1,031 acres of Federal land located in Siskiyou County, California, and Humboldt County, California, and generally depicted as “Proposed Area” on the map titled “Katimiin AreaBoundary Proposal” and dated 08–09–2021, including improvements and appurtenances thereto.
-- **(c)** *Survey* Not later than 180 days after the date of the enactment of this Act, the Secretary of the Interior shall complete a survey of the land taken into trust under subsection (a).
-- **(d)** *Use of land*
-  - **(1)** *In general* Land taken into trust under subsection (a) shall be used only for traditional and customary uses for the benefit of the Karuk Tribe.
-  - **(2)** *Gaming* Class II and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be allowed on the land taken into trust under subsection (a).
-- **(e)** *Wild and Scenic Rivers Management* The fact that the land described in subsection (b) is held in trust for the benefit of the Karuk Tribe shall not affect the status or administration of any component of the national wild and scenic rivers system, including components located on such land.
+- **(a)** *Findings* Congress finds that—
+  - **(1)** the Katimiîn and Ameekyáaraam land is located in the ancestral territory of the Karuk Tribe; and
+  - **(2)** the Karuk Tribe has historically used, and has an ongoing relationship with, the Katimiîn and Ameekyáaraam land.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Katimiîn and Ameekyáaraam land* The term Katimiîn and Ameekyáaraam land means the approximately 1,031 acres of Federal land, including improvements and appurtenances to the Federal land, located in Siskiyou County, California, and Humboldt County, California, and generally depicted as “Proposed Area” on the map of the Forest Service entitled “Katimiîn Area Boundary Proposal” and dated August 9, 2021.
+  - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(c)** *Administrative transfer* Administrative jurisdiction of the Katimiîn and Ameekyáaraam land is hereby transferred from the Secretary of Agriculture to the Secretary, subject to the condition that the Chief of the Forest Service shall continue to manage the component of the National Wild and Scenic Rivers System that flows through the Katimiîn and Ameekyáaraam land.
+- **(d)** *Land held in trust* The Katimiîn and Ameekyáaraam land is hereby taken into trust by the Secretary for the benefit of the Karuk Tribe, subject to—
+  - **(1)** valid existing rights, contracts, and management agreements relating to easements and rights-of-way; and
+  - **(2)** continued access by the Chief of the Forest Service for the purpose of managing the component of the National Wild and Scenic Rivers System that flows through the Katimiîn and Ameekyáaraam land.
+- **(e)** *Survey* Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall provide to the Secretary a complete survey of the land taken into trust under subsection (d).
+- **(f)** *Use of land*
+  - **(1)** *In general* Land taken into trust under subsection (d) may be used for traditional and customary uses for the benefit of the Karuk Tribe.
+  - **(2)** *Gaming* Class II and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be allowed on the land taken into trust under subsection (d).
+- **(g)** *Wild and Scenic Rivers management*
+  - **(1)** *In general* Nothing in this section affects the status or administration of any component of the National Wild and Scenic Rivers System, including any component that flows through the land taken into trust under subsection (d).
+  - **(2)** *Memorandum of understanding* The Secretary of Agriculture shall enter into a memorandum of understanding with the Karuk Tribe, consistent with the obligations of the Secretary of Agriculture under subsection (c), to establish mutual goals for the protection and enhancement of the river values of any component of the National Wild and Scenic Rivers System that flows through the land taken into trust under subsection (d).
