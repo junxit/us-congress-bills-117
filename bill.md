@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4046
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “NTIA Policy and Cybersecurity Coordination Act�
 
 ## § 2. Policy development and cybersecurity
 
-- **(a)** *Office of Policy Development and Cybersecurity* Part A of title I of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.) is amended by adding at the end the following:
+- **(a)** *Office of policy development and cybersecurity* Part A of title I of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.) is amended by adding at the end the following:
   > ## § 106. Office of Policy Development and Cybersecurity
   >
   > - **(a)** *Establishment* There shall be within the NTIA an office to be known as the Office of Policy Development and Cybersecurity (in this section referred to as the “Office”).
@@ -30,14 +30,16 @@ This Act may be cited as the “NTIA Policy and Cybersecurity Coordination Act�
   >     - **(E)** perform such duties as the Assistant Secretary considers appropriate relating to the program for preventing future vulnerabilities established under section 8(a) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1607(a));
   >     - **(F)** advocate for policies that promote the security and resilience to cybersecurity incidents of communications networks while fostering innovation, including policies that promote secure communications network supply chains;
   >     - **(G)** at the direction of the Assistant Secretary, present security of the digital economy and infrastructure and cybersecurity policy efforts before the Commission, Congress, and elsewhere;
-  >     - **(H)** provide advice and assistance to the Assistant Secretary in carrying out the policy responsibilities of the NTIA with respect to cybersecurity policy matters, including the evaluation of the domestic impact of cybersecurity matters pending before the Commission, other Federal agencies, and Congress;
+  >     - **(H)** provide advice and assistance to the Assistant Secretary in carrying out the policy responsibilities of the NTIA with respect to cybersecurity policy matters, including the evaluation of the impact of cybersecurity matters pending before the Commission, other Federal agencies, and Congress;
   >     - **(I)** in addition to the duties described in subparagraph (H), perform such other duties regarding the policy responsibilities of the NTIA with respect to cybersecurity policy matters as the Assistant Secretary considers appropriate;
   >     - **(J)** develop policies to accelerate innovation and commercialization with respect to advances in technological understanding of communications technologies;
   >     - **(K)** identify barriers to trust, security, innovation, and commercialization with respect to communications technologies, including access to capital and other resources, and ways to overcome such barriers;
-  >     - **(L)** provide public access to relevant data, research, and technical assistance on innovation and commercialization with respect to communications technologies, consistent with the protection of classified information; and
+  >     - **(L)** provide public access to relevant data, research, and technical assistance on innovation and commercialization with respect to communications technologies, consistent with the protection of classified information;
   >     - **(M)** strengthen collaboration on and coordination of policies relating to innovation and commercialization with respect to communications technologies, including policies focused on the needs of small businesses and rural communities—
-  >       - **(i)** within the Department of Commerce; and
-  >       - **(ii)** between the Department of Commerce and State government agencies, as appropriate.
+  >       - **(i)** within the Department of Commerce;
+  >       - **(ii)** between the Department of Commerce and State government agencies, as appropriate; and
+  >       - **(iii)** between the Department of Commerce and the Commission or any other Federal agency the Assistant Secretary determines to be necessary; and
+  >     - **(N)** solicit and consider feedback from small and rural communications service providers, as appropriate.
 
 - **(b)** *Transitional rules*
   - **(1)** *Redesignation of associate administrator; continuation of service*
