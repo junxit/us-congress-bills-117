@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4130
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “American Music Fairness Act”.
+- **(a)** *Short title* This Act may be cited as the “American Music Fairness Act of 2022”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Equitable treatment for terrestrial broadcasts and internet services
@@ -23,10 +23,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** in the matter preceding subparagraph (A), by striking “a digital” and inserting “an”;
   - **(2)** by striking subparagraph (A);
   - **(3)** by redesignating subparagraphs (B) and (C) as (A) and (B), respectively; and
-  - **(4)** in subparagraph (A), as redesignated by paragraph (3), by striking “nonsubscription” and inserting “licensed nonsubscription”.
+  - **(4)** in subparagraph (A), as redesignated by paragraph (3), by striking “nonsubscription” each place such term appears and inserting “licensed nonsubscription”.
 - **(c)** *Technical and conforming amendments*
   - **(1)** *Definition* Section 101 of title 17, United States Code, is amended by inserting after the definition of “architectural work” the following:
-    > An ‘audio transmission’ is a transmission of a sound recording, whether in a digital, analog, or other format. This term does not include the transmission of any audiovisual work.
+    > An ‘“audio transmission’” is a transmission of a sound recording, whether in a digital, analog, or other format. This term does not include the transmission of any audiovisual work.
 
   - **(2)** *Conforming removal of digital* Title 17, United States Code, is amended—
     - **(A)** in section 112(e)(8), by striking “a digital audio transmission” and inserting “an audio transmission”;

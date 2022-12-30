@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4130
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -46,7 +46,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding subparagraph (A), by striking “a digital” and inserting “an”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (A); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (B) and (C) as (A) and (B), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), as redesignated by paragraph (3), by striking “nonsubscription” and inserting “licensed nonsubscription”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), as redesignated by paragraph (3), by striking “nonsubscription” each place such term appears and inserting “licensed nonsubscription”. | the bill names no machine-readable US Code section |
 | — | insert | Section 101 of title 17, United States Code, is amended by inserting after the definition of “architectural work” the following: | the bill names no machine-readable US Code section |
 | — | replace | in section 112(e)(8), by striking “a digital audio transmission” and inserting “an audio transmission”; | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “subscription digital” and inserting “subscription”; and | the bill names no machine-readable US Code section |
