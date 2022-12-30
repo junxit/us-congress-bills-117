@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3681
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3681
@@ -29,3 +29,11 @@ Sinkhole Mapping Act of 2021
 - 2021-06-01 — Introduced in House
 - 2021-06-01 — Introduced in House
 - 2021-06-01 — Referred to the House Committee on Natural Resources.
+- 2021-07-13 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2022-07-19 — Subcommittee Hearings Held.
+- 2022-12-08 — Committee Consideration and Mark-up Session Held.
+- 2022-12-08 — Ordered to be Reported by Unanimous Consent.
+- 2022-12-08 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2022-12-30 — Placed on the Union Calendar, Calendar No. 494.
+- 2022-12-30 — Reported by the Committee on Natural Resources. H. Rept. 117-677.
+- 2022-12-30 — Reported by the Committee on Natural Resources. H. Rept. 117-677.
