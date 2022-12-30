@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2348
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2348
@@ -29,3 +29,10 @@ Advancing Conservation and Education Act
 - 2021-04-01 — Introduced in House
 - 2021-04-01 — Introduced in House
 - 2021-04-01 — Referred to the House Committee on Natural Resources.
+- 2021-04-23 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2021-05-05 — Committee Consideration and Mark-up Session Held.
+- 2021-05-05 — Ordered to be Reported by Unanimous Consent.
+- 2021-05-05 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2022-12-30 — Placed on the Union Calendar, Calendar No. 492.
+- 2022-12-30 — Reported by the Committee on Natural Resources. H. Rept. 117-673.
+- 2022-12-30 — Reported by the Committee on Natural Resources. H. Rept. 117-673.
