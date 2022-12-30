@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3764
 congress: 117
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-101 amendatory instructions. 14 executed, 87 stated and not applied.
+100 amendatory instructions. 14 executed, 86 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,34 +44,34 @@ to guess them.
 
 ### 16 U.S.C. § 3506
 
-> by striking “the Coastal Barrier Improvement Act of 1990” and inserting “Ocean-Based Climate Solutions Act of 2021”; and
+> by striking “the Coastal Barrier Improvement Act of 1990” and inserting “Ocean-Based Climate Solutions Act of 2022”; and
 
 | | |
 |---|---|
 | Removed | `the Coastal Barrier Improvement Act of 1990` |
-| Inserted | `Ocean-Based Climate Solutions Act of 2021` |
+| Inserted | `Ocean-Based Climate Solutions Act of 2022` |
 
 ### 16 U.S.C. § 3506
 
-> by striking “promulgate regulations” and inserting “revise or promulgate regulations and guidance, as necessary”; and
+> by striking “promulgate regulations” and inserting “revise or promulgate regulations and guidance, as necessary,”; and
 
 | | |
 |---|---|
 | Removed | `promulgate regulations` |
-| Inserted | `revise or promulgate regulations and guidance, as necessary` |
+| Inserted | `revise or promulgate regulations and guidance, as necessary,` |
 
 ### 16 U.S.C. § 3502
 
-> Section 3 of the Coastal Barrier Resources Act (16 U.S.C. 3502) is amended by striking “Committee on Resources” and inserting “Committee on Natural Resources”.
+> Section 3(2) of the Coastal Barrier Resources Act (16 U.S.C. 3502(2)) is amended by striking “Committee on Resources” and inserting “Committee on Natural Resources”.
 
 | | |
 |---|---|
 | Removed | `Committee on Resources` |
 | Inserted | `Committee on Natural Resources` |
 
-### 16 U.S.C. § 3508
+### 16 U.S.C. § 3510
 
-> Section 9 of the Coastal Barrier Resources Act (16 U.S.C. 3508) is amended by striking “$2,000,000” and all that follows through the end of the sentence and inserting “$5,000,000 for each of fiscal years 2022 through 2026.”.
+> Section 10 of the Coastal Barrier Resources Act (16 U.S.C. 3510) is amended by striking “$2,000,000” and all that follows through the end of the sentence and inserting “$5,000,000 for each of fiscal years 2022 through 2026.”.
 
 | | |
 |---|---|
@@ -98,7 +98,7 @@ to guess them.
 
 ### 16 U.S.C. § 1456-1
 
-> in subparagraph (B) (as so redesignated), by striking “described in (A)” and inserting “described in subparagraph (A)”; and
+> in subparagraph (B) (as so redesignated), by striking “described in (A)” and inserting “described in subparagraph (A)”;
 
 | | |
 |---|---|
@@ -134,7 +134,7 @@ to guess them.
 
 ### 16 U.S.C. § 1434
 
-> in paragraph (a)(6), by striking “the forty-five day period of continuous session of Congress beginning on the date of submission of the documents” and inserting “60-day period”;
+> in subsection (a)(6), by striking “the forty-five day period of continuous session of Congress beginning on the date of submission of the documents” and inserting “60-day period”;
 
 | | |
 |---|---|
@@ -143,11 +143,11 @@ to guess them.
 
 ### 16 U.S.C. § 1434
 
-> in paragraph (b)(1), by striking “the forty-five days of continuous session of Congress beginning on the day on which such notice is published” and inserting “60 days”;
+> in subsection (b)(1), by striking “forty-five days of continuous session of Congress beginning on the day on which such notice is published” and inserting “60 days”;
 
 | | |
 |---|---|
-| Removed | `the forty-five days of continuous session of Congress beginning on the day on which such notice is published` |
+| Removed | `forty-five days of continuous session of Congress beginning on the day on which such notice is published` |
 | Inserted | `60 days` |
 
 ## Stated, not applied
@@ -166,15 +166,13 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1881a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 113 of Division G of Public Law 113–76 is amended to read as follows: | the bill names no machine-readable US Code section |
 | `43 U.S.C. § 1331` | replace | by striking “The term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1331` | insert | by inserting after “control” the following: “or lying within the exclusive economic zone of the United States and the outer Continental Shelf adjacent to any territory or possession of the United States”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | insert | by inserting after “control” the following: “or lying within the exclusive economic zone of the United States and the outer Continental Shelf adjacent to any territory of the United States”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | strike | in subsection (p), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1331` | replace | in subsection (q), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1344` | add-at-end | Section 18 of the Outer Continental Shelf Lands Act (43 U.S.C. 1344) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | add-at-end | The Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1337` | add-at-end | Section 8(p)(2) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(p)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 713c-3` | amend | Section 2(c)(1) of the Act of August 11, 1939 (15 U.S.C. 713c–3(c)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 713c-3` | amend | Section 2(c)(1) of the Act of August 11, 1939 (15 U.S.C. 713c–3(c)(1)), entitled “An Act to authorize the Federal Surplus Commodities Corporation to purchase and distribute surplus products of the fishing industry”, is amended to read as… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 4201` | add-at-end | Section 102(b) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (19 U.S.C. 4201(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subparagraph (A) by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “increased fuel efficiency or improved safety.” and inserting “improved safety; or”; and | the bill names no machine-readable US Code section |
@@ -187,10 +185,10 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3502` | insert | in the matter preceding clause (i), by inserting “bluff,” after “barrier spit,”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3502` | insert | in clause (ii), by inserting “and related lands” after “aquatic habitats”; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3502` | insert | in subparagraph (B), by inserting “, including areas that are and will be vulnerable to coastal hazards, such as flooding, storm surge, wind, erosion, and sea level rise” after “nearshore waters”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 3502` | strike | in the matter following subparagraph (B), by striking “, and man’s activities on such features and within such habitats,” | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3502` | strike | in the matter following subparagraph (B), by striking “, and man’s activities on such features and within such habitats,”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3504` | add-at-end | Section 5 of the Coastal Barrier Resources Act (16 U.S.C. 3504) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3506` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3503` | add-at-end | Section 4(e) of the Coastal Barrier Resources Act (16 U.S.C. 3503(e)) is amended by adding at the end of subsection (e) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3503` | add-at-end | Section 4(e) of the Coastal Barrier Resources Act (16 U.S.C. 3503(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3505` | redesignate | in paragraph (6), by striking subparagraph (E) and redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5107a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1451` | add-at-end | The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -207,7 +205,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1464` | amend | Section 318(a) of the Coastal Zone Management Act of 1972 (16 U.S.C. 1464) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1461` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (4) through (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1461` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1461` | add-at-end | Section 315 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1461) is amended by striking (g) and adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1461` | add-at-end | Section 315 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1461) is amended by striking subsection (g) and adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1451` | add-at-end | The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6403` | replace | by striking the enumerator and heading for paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6403` | add-at-end | by adding at the end of paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -215,9 +213,9 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3503` | replace | in paragraph (13) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3503` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `48 U.S.C. § 1469a` | add-at-end | Section 501 of the Omnibus Territories Act of 1977 (48 U.S.C. 1469a), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1361` | insert | The Marine Mammal Protection Act of 1974 (16 U.S.C. 1361 et seq.) is amended by inserting after section 120 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1361` | insert | The Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) is amended by inserting after section 120 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1361` | insert | The table of contents in the first section of such Act is amended by inserting after the item relating to section 120 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1361` | insert | The Marine Mammal Protection Act of 1974 (16 U.S.C. 1361 et seq.) is further amended by inserting after section 121 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1361` | insert | The Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) is further amended by inserting after section 121 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1361` | insert | The table of contents in the first section of such Act is further amended by inserting after the item relating to section 121 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7501` | amend | by amending paragraph (7) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -232,17 +230,18 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 7505` | redesignate | by redesignating clause (iii) as clause (iv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7505` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7505` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7506` | strike | in paragraph (2) of subsection (b), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 7506` | amend | by amending paragraph (3) of subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7506` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 7507` | amend | Section 908 of such Act (16 U.S.C. 7507) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1434` | strike | by striking paragraph (b)(3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1434` | strike | by striking subsection (b)(3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1434` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | insert | in subsection (a), by inserting “(referred to in this section as the Program)” after “acidification program”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3703` | add-at-end | Section 12404 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3703) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 70114(a) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Subchapter E of chapter 32 of subtitle D of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The table of subchapters for chapter 32 of such Code is amended by amending the item relating to subchapter E to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 32 of subtitle D of the Internal Revenue Code of 1986 is amended by adding after subchapter D the following new chapter: | the bill names no machine-readable US Code section |
+| — | insert | The table of subchapters for chapter 32 of such Code is amended by inserting after the item relating to subchapter D the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following: | the bill names no machine-readable US Code section |
