@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 9702
+congress: 117th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9702
+
+> To amend the Internal Revenue Code of 1986 to allow deductions and credits relating to expenditures in connection with marijuana sales conducted in compliance with State law.
+
+## § 1. Allowance of deductions and credits relating to expenditures in connection with marijuana sales conducted in compliance with State law
+
+- **(a)** *In general* Section 280E of the Internal Revenue Code of 1986 is amended by inserting before the period at the end the following: “, unless such trade or business consists of marijuana sales conducted in compliance with State law”.
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to taxable years ending after the date of the enactment of this Act.
