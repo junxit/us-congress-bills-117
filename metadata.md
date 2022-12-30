@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 641
 congress: 117
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 641
@@ -16,7 +16,7 @@ Recognizing and celebrating the 75th anniversary of the National Association of 
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Cosponsors (30)
+## Cosponsors (33)
 
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Bacon, Don [R-NE-2] (B001298)
@@ -48,6 +48,9 @@ Recognizing and celebrating the 75th anniversary of the National Association of 
 - Rep. Garamendi, John [D-CA-3] (G000559)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
 ## Committees (1)
 
@@ -58,3 +61,11 @@ Recognizing and celebrating the 75th anniversary of the National Association of 
 - 2021-09-14 — Introduced in House
 - 2021-09-14 — Introduced in House
 - 2021-09-14 — Referred to the House Committee on Natural Resources.
+- 2021-09-17 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2022-01-20 — Subcommittee Hearings Held.
+- 2022-02-16 — Ordered to be Reported by Unanimous Consent.
+- 2022-02-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2022-02-16 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2022-12-30 — Placed on the House Calendar, Calendar No. 171.
+- 2022-12-30 — Reported by the Committee on Natural Resources. H. Rept. 117-676.
+- 2022-12-30 — Reported by the Committee on Natural Resources. H. Rept. 117-676.
