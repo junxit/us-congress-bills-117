@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3764
 congress: 117th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ocean-Based Climate Solutions Act of 2021”.
+This Act may be cited as the “Ocean-Based Climate Solutions Act of 2022”.
 
-## § 2. Definitions
-
-In this Act, the term Administrator means the Administrator of the National Oceanic and Atmospheric Administration.
-
-## § 3. Table of contents
+## § 2. Table of contents
 
 The table of contents of this Act is as follows:
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Administrator* The term “Administrator” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+- **(2)** *Exclusive economic zone* The term “Exclusive Economic Zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983.
+- **(3)** *Indian tribe* The term “Indian Tribe” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+- **(4)** *Institution of higher education* The term “institution of higher education” has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+- **(5)** *National academies* The term “National Academies” means the National Academies of Science, Engineering, and Medicine.
+- **(6)** *State* The term “State” means each of the several States, the District of Columbia, and the United States Territories of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the Virgin Islands of the United States.
+- **(7)** *United States* The term “United States” means the several States, the District of Columbia, and the United States Territories of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Puerto Rico, and the Virgin Islands of the United States.
